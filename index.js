@@ -223,6 +223,7 @@ function getFavoritesList (ret, username, max_id, next) {
 	  		in_reply_to_status_id: item.in_reply_to_status_id,
 	  		in_reply_to_screen_name: item.in_reply_to_screen_name,
 	  		owner: item.user.screen_name,
+	  		profile_image_url: item.user.profile_image_url,
 	  		place: item.place && item.place.full_name,
 	  		urls:  urls.map((it) => { return  {url: it.url, expand: it.expanded_url}})	 		
 	  	}
