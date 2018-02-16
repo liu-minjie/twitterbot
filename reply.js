@@ -7,21 +7,27 @@ const id_str = '963462632693903360';
 let save = [];
 
 
-function handleData( ){
+function handleData(data ){
 	data = data.split('tweet js-stream-tweet');
 	data.forEach((item) => {
 		const reply = {};
-		const conent = data.match(/<p class=\"TweetTextSize  js-tweet-text tweet-text\".+?(?=<\/p>)/g) || [];
-		const names = data.match(/<span class=\"username u-dir u-textTruncate\".+?<b>(.+?)<\/b>/);
+		const content = item.match(/<p class=\"TweetTextSize  js-tweet-text tweet-text\".+?(?=<\/p>)/g) || [];
+		const names = item.match(/<span class=\"username u-dir u-textTruncate\".+?<b>(.+?)<\/b>/);
 
-		reply.content = content.match(/<p class=\"TweetTextSize  js-tweet-text tweet-text\".+?>(.+)/)[1];
+		if (content.length) {
+			reply.content = content[0].match(/<p class=\"TweetTextSize  js-tweet-text tweet-text\".+?>(.+)/)[1];
+		} else {
+			console.log('no reply');
+			return
+		}
+		
 
 		if (names.length) {
 			reply.screen_name = names[0].match(/<b>(.+?)<\/b>/)[1];
 			if (names.length > 1) {
 				reply.to = [];
 				for (let i = 1; i < names.length; i++) {
-					reply.to.push(names[0].match(/<b>(.+?)<\/b>/)[1])
+					reply.to.push(names[i].match(/<b>(.+?)<\/b>/)[1])
 				}
 			}
 		}
@@ -63,7 +69,7 @@ function next (max_position) {
 		fs.writeFileSync(`./reply/${screen_name}.json`, JSON.stringify({
 			[id_str]: save
 		}, null, 1), 'utf8');
-		
+
 		if (data.has_more_items) {
 			setTimeout(() => {
 				//next(data.min_position)
