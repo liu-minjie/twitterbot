@@ -5,7 +5,7 @@ const request = require('request');
 const dir = fs.readdirSync('./stat');
 
 const files = [].slice.call(dir, 0).filter((filename) => {
-	return filename.indexOf('getFriendsList_') === 0;
+	return filename.indexOf('getFriendsList_') === 0 ||  filename.indexOf('getListsMembers_') === 0;
 });
 
 let cache;
@@ -21,9 +21,19 @@ const download = function(uri, filename, callback){
 
 async.eachSeries(files, (filename, next) => {
 	const data = require(`./stat/${filename}`);
-	const list = data.list.filter((item) => {
-		return !cache[item.screen_name];
-	});
+	let list = [];
+
+	if (Array.isArray(data.list)) {
+		list = data.list.filter((item) => {
+			return !cache[item.screen_name];
+		});
+	} else {
+		Object.keys(data.list).forEach((key) => {
+			list = list.concat(data.list.filter((item) => {
+				return !cache[item.screen_name];
+			}))
+		})
+	}
 
 	async.eachSeries(list, (item, callback) => {
 		cache[item.screen_name] = true;
