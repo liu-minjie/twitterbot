@@ -12,7 +12,7 @@ function handleData(data ){
 	data.forEach((item) => {
 		const reply = {};
 		const content = item.match(/<p class=\"TweetTextSize  js-tweet-text tweet-text\".+?(?=<\/p>)/g) || [];
-		const names = item.match(/<span class=\"username u-dir u-textTruncate\".+?<b>(.+?)<\/b>/);
+		const names = item.match(/<span class=\"username u-dir u-textTruncate\".+?<b>(.+?)<\/b>/g);
 
 		if (content.length) {
 			reply.content = content[0].match(/<p class=\"TweetTextSize  js-tweet-text tweet-text\".+?>(.+)/)[1];
@@ -39,6 +39,10 @@ function handleData(data ){
 request({
 	url: `https://twitter.com/${screen_name}/status/${id_str}`
 }, (err, res, data) => {
+
+	fs.writeFileSync(`./testReply.json`, JSON.stringify({
+		data: data
+	}, null, 1), 'utf8');
 
 	data = data.split('id="descendants"')[1];
 	data = data.split('hidden-replies-container')[0];
