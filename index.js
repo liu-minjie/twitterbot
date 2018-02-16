@@ -86,6 +86,7 @@ function getStatusesUserTimelineWrap (ret, username, max_id, next) {
 // 获取 username 的twitter
 function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 
+	tool.count.push(Date.now());
 	client.get("statuses/user_timeline", { // 1500 request per 15 minite
 		screen_name: username,
 		count: 200,
@@ -133,7 +134,9 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 	  	console.log(count);
 	  	saveTimeline(username, ret, count, next);
 	  } else {
-	  	getStatusesUserTimeline(count, ret, username, tweets[tweets.length - 1].id, since_id, next);
+	  	wait(1500, 15, () => {
+	  		getStatusesUserTimeline(count, ret, username, tweets[tweets.length - 1].id, since_id, next);	
+	  	});
 	  }
 	});
 }
@@ -158,7 +161,7 @@ function autoTimeline (tag, flag) {
 		return
 	}
 
-	const total = index + 10;
+	const total = index + 100;
 
 
 	function next (cnt) {
@@ -232,7 +235,9 @@ function getFavoritesList (ret, username, max_id, next) {
 	  	}, null, 1), "utf8");
 	  	next && next();
 	  } else {
-	  	getFavoritesList(ret, username, tweets[tweets.length - 1].id, next);
+	  	wait(75, 15, () => {
+	  		getFavoritesList(ret, username, tweets[tweets.length - 1].id, next);	
+	  	});
 	  }
 	});
 }
@@ -252,6 +257,7 @@ function getListsMembers (cursor, ret, index, username, next) {
 	listMap[username] = listMap[username] || require(`./stat/getListsOwnerships_${username}.json`).lists;
 	let myList = listMap[username];
 
+	tool.count.push(Date.now());
 	client.get("lists/members", { // 75 request per 15 minite
 		slug: myList[index].slug || myList[index].name.replace(/\W+/g, "_").toLowerCase(),
 		owner_screen_name: myList[index].owner,
@@ -280,6 +286,7 @@ function getListsMembers (cursor, ret, index, username, next) {
 	  		friends_count: item.friends_count,
 	  		created_at: item.created_at,
 	  		location: item.location,
+	  		profile_image_url: item.profile_image_url,
 	  		url: item.url,
 	  		description: item.description,
 	  		urls:  urls.map((it) => { return  {url: it.url, expand: it.expanded_url}})	
@@ -306,10 +313,14 @@ function getListsMembers (cursor, ret, index, username, next) {
 					next && next();
 				});
 		  } else {
-		  	getListsMembers(-1, ret, index + 1, username, next);
+		  	wait(75, 15, () => {
+		  		getListsMembers(-1, ret, index + 1, username, next);	
+		  	});
 		 }
 	  } else {
-	  	getListsMembers(cursor, ret, index, username, next);
+	  	wait(75, 15, () => {
+	  		getListsMembers(cursor, ret, index, username, next);	
+	  	});
 	  }
 	});
 }
@@ -416,7 +427,9 @@ tool.getListsOwnerships = getListsOwnerships;
 
 
 // 所有 username 关注的人的 用户信息
+
 function getFriendsList (cursor, ret, username, next) {
+	tool.count.push(Date.now())
 	client.get("friends/list", { // 15 request per 15 minite
 		screen_name: username,
 		cursor: cursor,
@@ -445,6 +458,7 @@ function getFriendsList (cursor, ret, username, next) {
 	  		friends_count: item.friends_count,
 	  		created_at: item.created_at,
 	  		location: item.location,
+	  		profile_image_url: item.profile_image_url,
 	  		url: item.url,
 	  		description: item.description,
 	  		urls:  urls.map((it) => { return  {url: it.url, expand: it.expanded_url}})	
@@ -464,9 +478,28 @@ function getFriendsList (cursor, ret, username, next) {
 				next && next();
 			});
 	  } else {
-	  	getFriendsList(cursor, ret, username, next);
+	  	wait(15, 15, () => {
+	  		getFriendsList(cursor, ret, username, next);	
+	  	});
 	  }
 	});
+}
+
+function wait (max, time, cb) {
+	time = (time + 1) * 60 * 1000;
+	if (tool.count.length > (max - 1)) {
+		const diff = Date.now() - tool.count[tool.count.length - max];
+		if (diff < time) {
+			console.log('waiting...');
+			setTimeout(() => {
+				cb();	  				
+			}, time - diff + 2000);
+		} else {
+			cb();
+		}
+	} else {
+		cb();
+	} 
 }
 //getFriendsList(-1, []);
 tool.getFriendsList = getFriendsList;
@@ -475,7 +508,7 @@ tool.getFriendsList = getFriendsList;
 var cmd = process.argv[2];
 var username = process.argv[3] || 'balbosub';
 var flag = process.argv[4] || '';
-
+tool.count = [];
 if (cmd === 'getFriendsList') {
 	tool.getFriendsList(-1, [], username);
 } else if (cmd === 'getListsOwnerships') {
