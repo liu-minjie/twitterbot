@@ -15,6 +15,9 @@ try {
 	cache = {};
 }
 
+const download = function(uri, filename, callback){
+  request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+};
 
 async.eachSeries(files, (filename, next) => {
 	const data = require(`./stat/${filename}`);
@@ -29,10 +32,7 @@ async.eachSeries(files, (filename, next) => {
 		next(err);
 	});
 }, (err) => {
-	fs.writeFileSync('./stat/cache_avatar.json', JSON.stringify(save, null, 1), 'utf8');
+	fs.writeFileSync('./stat/cache_avatar.json', JSON.stringify(cache, null, 1), 'utf8');
 	console.log(err, 'done');
 });
 
-const  download = function(uri, filename, callback){
-  request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
-};
