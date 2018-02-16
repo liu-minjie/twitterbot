@@ -1,16 +1,284 @@
-[
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">Nice work! Maybe next time I can persuade you to use an <a href=\"/unpkg\" class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" data-mentioned-user-id=\"785879453154947072\" ><s>@</s><b>unpkg</b></a> &lt;script&gt; tag <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f913.png\" draggable=\"false\" alt=\"🤓\" title=\"Nerd face\" aria-label=\"Emoji: Nerd face\">",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">It’s never too late!",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">(Sorry for the double tweet. Twitter ate my URL <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f62e.png\" draggable=\"false\" alt=\"😮\" title=\"Face with open mouth\" aria-label=\"Emoji: Face with open mouth\">)",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">This may have just triggered the lightbulb I&#39;ve been waiting to turn on on this whole web dev / Vue JS thing! I&#39;ve been lost in this udemy class and other guides.",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">That’s great to hear!",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">you should write that article! it&#39;s not an exclusive club or anything",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">Yeah sure, I would love to. But I&#39;ve got some excuses: I no longer work like that, it was like 3-4 years ago, so despite I know how to do that, I won&#39;t have any fresh hands-on experience; also I want to be publishing some code and still have at least 5-6 hours of sleep daily.",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">I no longer work like that either ;)",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">The, uhm, joy of being a dev in a really small team with multiple frontends: no matter what it is, I always still work like that.",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">Nice article, thank you! Do you have any recommendations for articles on why to switch to Vue?",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">Thanks. I’ve stuck with jQuery cause the apps existed before I learned anything JavaScript, and I certainly don’t regret learning it, but am aware it’s a bit long in the teeth now.",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">Time to remove the comfy jQuery slippers!",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">You might find Vue to be even comfier!",
- "<p class=\"TweetTextSize  js-tweet-text tweet-text\" lang=\"en\" data-aria-label-part=\"0\">high fives! I&#39;m so glad it&#39;s useful"
-]
+{
+ "963462632693903360": [
+  {
+   "content": "Thanks go to <a href=\"/heydonworks\" class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" data-mentioned-user-id=\"329059137\" ><s>@</s><b>heydonworks</b></a> and <a href=\"/drewm\" class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" data-mentioned-user-id=\"12158\" ><s>@</s><b>drewm</b></a> for technical edits on the article. For more information on accessibility, Heydon has made an amazing resource:<a href=\"https://t.co/zBo8ydD322\" rel=\"nofollow noopener\" dir=\"ltr\" data-expanded-url=\"http://inclusive-components.design/\" class=\"twitter-timeline-link u-hidden\" target=\"_blank\" title=\"http://inclusive-components.design/\" ><span class=\"tco-ellipsis\"></span><span class=\"invisible\">http://</span><span class=\"js-display-url\">inclusive-components.design</span><span class=\"invisible\">/</span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+   "screen_name": "sarah_edo"
+  },
+  {
+   "content": "You should write about migrating a huge existing code base in knockout js to Vue ! <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f607.png\" draggable=\"false\" alt=\"😇\" title=\"Smiling face with halo\" aria-label=\"Emoji: Smiling face with halo\">",
+   "screen_name": "mmesson",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "I’m actually writing a book with a section on that!",
+   "screen_name": "sarah_edo",
+   "to": [
+    "mmesson",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Really!!! Super cool! Im a junior on a tech startup in Seattle and I proposed to move to vue js. That when well, now the problem I need to address is migration! Is there any vue community in Seattle?",
+   "screen_name": "mmesson",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "I dunno, I don&#39;t live there",
+   "screen_name": "sarah_edo",
+   "to": [
+    "mmesson",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "This reveals a weakness in Vue: you need to edit HTML, add placeholders to manipulate classes. In jQuery, you can act on existing HTML without need to insert placeholders. And this can be a significant difference.",
+   "screen_name": "RayuAlex",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "To each their own :) I really like not having to rewrite DOM traversal if the markup changes",
+   "screen_name": "sarah_edo",
+   "to": [
+    "RayuAlex",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Not sure if you meant to do this or it was subconscious but all the jQuery examples have semicolons and the Vue ones (except one) don&#39;t. <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f601.png\" draggable=\"false\" alt=\"😁\" title=\"Grinning face with smiling eyes\" aria-label=\"Emoji: Grinning face with smiling eyes\">",
+   "screen_name": "nthonyChu",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Yeah, it&#39;s intentional- I&#39;m writing in the style of the relative community for each",
+   "screen_name": "sarah_edo",
+   "to": [
+    "nthonyChu",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "My pinky misses semi-colons <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/2639.png\" draggable=\"false\" alt=\"☹\" title=\"Frowning face\" aria-label=\"Emoji: Frowning face\"><img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f643.png\" draggable=\"false\" alt=\"🙃\" title=\"Upside-down face\" aria-label=\"Emoji: Upside-down face\">",
+   "screen_name": "kevinshoultz",
+   "to": [
+    "sarah_edo",
+    "nthonyChu",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "You can still have them if you want!",
+   "screen_name": "sarah_edo",
+   "to": [
+    "kevinshoultz",
+    "nthonyChu",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Try Prettier , your pinky will thank you!",
+   "screen_name": "JorisGriffioen",
+   "to": [
+    "sarah_edo",
+    "kevinshoultz"
+   ]
+  },
+  {
+   "content": "Created this for every occasion when someone reads something like this.<a href=\"https://t.co/6rfpVfE7KB\" rel=\"nofollow noopener\" dir=\"ltr\" data-expanded-url=\"http://gph.is/2Etu0BF\" class=\"twitter-timeline-link u-hidden\" target=\"_blank\" title=\"http://gph.is/2Etu0BF\" ><span class=\"tco-ellipsis\"></span><span class=\"invisible\">http://</span><span class=\"js-display-url\">gph.is/2Etu0BF</span><span class=\"invisible\"></span><span class=\"tco-ellipsis\"><span class=\"invisible\">&nbsp;</span></span></a>",
+   "screen_name": "siilime",
+   "to": [
+    "sarah_edo",
+    "vuejs",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "I lovvvvve it",
+   "screen_name": "sarah_edo",
+   "to": [
+    "siilime",
+    "vuejs",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "is it possible to use jquery and vue together?  i have a page with very big jquery. don&#39;t want to rewrite whole code. just parts",
+   "screen_name": "Matart15",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "yeah, some people do that. It&#39;s best if you eventually move over but I know a few companies that use both in tandem",
+   "screen_name": "sarah_edo",
+   "to": [
+    "Matart15",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Porting an existing jquery based website to a spa. Using vue to make the code modular and for routing. Eventually plan to replace the jquery plugins with plain js or vue",
+   "screen_name": "srikanthav",
+   "to": [
+    "sarah_edo",
+    "Matart15",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "any repo or sanple code?",
+   "screen_name": "Matart15",
+   "to": [
+    "srikanthav",
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "It’s currently for a client project. But I plan to create a demo project on github later for a generic use case. Ill ping you once it’s ready <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f642.png\" draggable=\"false\" alt=\"🙂\" title=\"Slightly smiling face\" aria-label=\"Emoji: Slightly smiling face\">",
+   "screen_name": "srikanthav",
+   "to": [
+    "Matart15",
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Me too please",
+   "screen_name": "sarah_edo",
+   "to": [
+    "srikanthav",
+    "Matart15",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Nice work! Maybe next time I can persuade you to use an <a href=\"/unpkg\" class=\"twitter-atreply pretty-link js-nav\" dir=\"ltr\" data-mentioned-user-id=\"785879453154947072\" ><s>@</s><b>unpkg</b></a> &lt;script&gt; tag <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f913.png\" draggable=\"false\" alt=\"🤓\" title=\"Nerd face\" aria-label=\"Emoji: Nerd face\">",
+   "screen_name": "mjackson",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "It’s never too late!",
+   "screen_name": "sarah_edo",
+   "to": [
+    "mjackson",
+    "smashingmag",
+    "unpkg"
+   ]
+  },
+  {
+   "content": "(Sorry for the double tweet. Twitter ate my URL <img class=\"Emoji Emoji--forText\" src=\"https://abs.twimg.com/emoji/v2/72x72/1f62e.png\" draggable=\"false\" alt=\"😮\" title=\"Face with open mouth\" aria-label=\"Emoji: Face with open mouth\">)",
+   "screen_name": "mjackson",
+   "to": [
+    "mjackson",
+    "sarah_edo"
+   ]
+  },
+  {
+   "content": "This may have just triggered the lightbulb I&#39;ve been waiting to turn on on this whole web dev / Vue JS thing! I&#39;ve been lost in this udemy class and other guides.",
+   "screen_name": "GodGreeny",
+   "to": [
+    "sarah_edo",
+    "TheLarkInn",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "That’s great to hear!",
+   "screen_name": "sarah_edo",
+   "to": [
+    "GodGreeny",
+    "TheLarkInn",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "you should write that article! it&#39;s not an exclusive club or anything",
+   "screen_name": "sarah_edo",
+   "to": [
+    "sompylasar",
+    "NTulswani",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Yeah sure, I would love to. But I&#39;ve got some excuses: I no longer work like that, it was like 3-4 years ago, so despite I know how to do that, I won&#39;t have any fresh hands-on experience; also I want to be publishing some code and still have at least 5-6 hours of sleep daily.",
+   "screen_name": "sompylasar",
+   "to": [
+    "sarah_edo",
+    "NTulswani",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "I no longer work like that either ;)",
+   "screen_name": "sarah_edo",
+   "to": [
+    "sompylasar"
+   ]
+  },
+  {
+   "content": "The, uhm, joy of being a dev in a really small team with multiple frontends: no matter what it is, I always still work like that.",
+   "screen_name": "Burtchen",
+   "to": [
+    "sarah_edo",
+    "sompylasar"
+   ]
+  },
+  {
+   "content": "Nice article, thank you! Do you have any recommendations for articles on why to switch to Vue?",
+   "screen_name": "rnelson0",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Thanks. I’ve stuck with jQuery cause the apps existed before I learned anything JavaScript, and I certainly don’t regret learning it, but am aware it’s a bit long in the teeth now.",
+   "screen_name": "rnelson0",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "Time to remove the comfy jQuery slippers!",
+   "screen_name": "richtelford",
+   "to": [
+    "sarah_edo",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "You might find Vue to be even comfier!",
+   "screen_name": "sarah_edo",
+   "to": [
+    "richtelford",
+    "smashingmag"
+   ]
+  },
+  {
+   "content": "high fives! I&#39;m so glad it&#39;s useful",
+   "screen_name": "sarah_edo",
+   "to": [
+    "rappidmatt",
+    "smashingmag"
+   ]
+  }
+ ]
+}
