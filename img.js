@@ -29,7 +29,7 @@ async.eachSeries(files, (filename, next) => {
 		});
 	} else {
 		Object.keys(data.list).forEach((key) => {
-			list = list.concat(data.list.filter((item) => {
+			list = list.concat(data.list[key].filter((item) => {
 				return !cache[item.screen_name];
 			}))
 		})
