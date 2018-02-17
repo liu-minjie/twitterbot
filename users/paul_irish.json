@@ -1,34 +1,111 @@
 {
- "time": 1518415408393,
+ "time": 1518869259375,
  "lists": [
   {
-   "id": 962402797923680300,
-   "id_str": "962402797923680256",
-   "created_at": "Sat Feb 10 19:08:02 +0000 2018",
-   "text": "RT @jaffathecake: 🎥 How the event loop works.\n➡️ How stuff gets from other threads into JS.\n➡️ Why infinite loops block rendering.\n➡️ Why s…",
-   "retweet_count": 406,
+   "id": 964637654489927700,
+   "id_str": "964637654489927682",
+   "created_at": "Fri Feb 16 23:08:33 +0000 2018",
+   "text": "@denar90_ @ChromeDevTools In that case.. yah you can use chrome.debugger API and use the protocol. You can enable it for tabs at will.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964631893319790600,
+   "in_reply_to_screen_name": "denar90_",
+   "urls": []
+  },
+  {
+   "id": 964634344668180500,
+   "id_str": "964634344668180480",
+   "created_at": "Fri Feb 16 22:55:24 +0000 2018",
+   "text": "@ChromeDevTools hahahha. well done. :D",
+   "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 961980260194684900,
-    "id_str": "961980260194684928",
-    "created_at": "Fri Feb 09 15:09:01 +0000 2018",
-    "text": "🎥 How the event loop works.\n➡️ How stuff gets from other threads into JS.\n➡️ Why infinite loops block rendering.\n➡️… https://t.co/aTRLbNvnl2",
-    "retweet_count": 406,
-    "favorite_count": 1517,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/aTRLbNvnl2",
-      "expand": "https://twitter.com/i/web/status/961980260194684928"
-     }
-    ]
-   }
+   "in_reply_to_status_id": 964310862801481700,
+   "in_reply_to_screen_name": "ChromeDevTools",
+   "urls": []
+  },
+  {
+   "id": 964629192037068800,
+   "id_str": "964629192037068802",
+   "created_at": "Fri Feb 16 22:34:55 +0000 2018",
+   "text": "@denar90_ @ChromeDevTools in that case, i'd recommend comcast or tsproxy. https://t.co/nYATmVPqtt",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 964612738235469800,
+   "in_reply_to_screen_name": "denar90_",
+   "urls": [
+    {
+     "url": "https://t.co/nYATmVPqtt",
+     "expand": "https://github.com/GoogleChrome/lighthouse/blob/master/docs/throttling.md"
+    }
+   ]
+  },
+  {
+   "id": 963934002779275300,
+   "id_str": "963934002779275265",
+   "created_at": "Thu Feb 15 00:32:29 +0000 2018",
+   "text": "@denar90_ Probably a bit of inspiration yeah. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963847611303321600,
+   "in_reply_to_screen_name": "denar90_",
+   "urls": []
+  },
+  {
+   "id": 963115634929254400,
+   "id_str": "963115634929254400",
+   "created_at": "Mon Feb 12 18:20:35 +0000 2018",
+   "text": "@bowersbros @wesbos yeah. @runkitdev uses a little dropdown, which I'm a big fan of. hard to sort out the UX, but big potential.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 962433760594681900,
+   "in_reply_to_screen_name": "bowersbros",
+   "urls": []
+  },
+  {
+   "id": 963115385993089000,
+   "id_str": "963115385993089024",
+   "created_at": "Mon Feb 12 18:19:36 +0000 2018",
+   "text": "@bradleymeck @TheLarkInn @bmeurer bradley's investigation is definitely on point. in the backend, we capture the me… https://t.co/b5gbmcUCv8",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 962685540125560800,
+   "in_reply_to_screen_name": "bradleymeck",
+   "urls": [
+    {
+     "url": "https://t.co/b5gbmcUCv8",
+     "expand": "https://twitter.com/i/web/status/963115385993089024"
+    }
+   ]
+  },
+  {
+   "id": 963113838399795200,
+   "id_str": "963113838399795200",
+   "created_at": "Mon Feb 12 18:13:27 +0000 2018",
+   "text": "@tbranyen hmm. don't know the media stack super well. do you mean hardware decoding for video codecs?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 962743872055988200,
+   "in_reply_to_screen_name": "tbranyen",
+   "urls": []
+  },
+  {
+   "id": 963113476578099200,
+   "id_str": "963113476578099200",
+   "created_at": "Mon Feb 12 18:12:01 +0000 2018",
+   "text": "@cyrus_and love these kinds of posts. wish i did the same last time i used iosnoop.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963084959081730000,
+   "in_reply_to_screen_name": "cyrus_and",
+   "urls": []
   }
  ]
 }

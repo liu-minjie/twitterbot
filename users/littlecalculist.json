@@ -1,24 +1,203 @@
 {
- "time": 1518414611697,
+ "time": 1518869258845,
  "lists": [
   {
-   "id": 962798480212176900,
-   "id_str": "962798480212176897",
-   "created_at": "Sun Feb 11 21:20:20 +0000 2018",
-   "text": "RT @GuyFugly: \"Describe your creative process\" https://t.co/3UzBcKA6N7",
-   "retweet_count": 12101,
+   "id": 964058207999029200,
+   "id_str": "964058207999029248",
+   "created_at": "Thu Feb 15 08:46:02 +0000 2018",
+   "text": "RT @nikomatsakis: Rayon 1.0 is released! 🍾 #rustlang https://t.co/6aEwIrEesi",
+   "retweet_count": 106,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6aEwIrEesi",
+     "expand": "https://crates.io/crates/rayon"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964058038259896300,
+    "id_str": "964058038259896320",
+    "created_at": "Thu Feb 15 08:45:22 +0000 2018",
+    "text": "Rayon 1.0 is released! 🍾 #rustlang https://t.co/6aEwIrEesi",
+    "retweet_count": 106,
+    "favorite_count": 243,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6aEwIrEesi",
+      "expand": "https://crates.io/crates/rayon"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964057411181994000,
+   "id_str": "964057411181993985",
+   "created_at": "Thu Feb 15 08:42:52 +0000 2018",
+   "text": "@cluebcke 😢",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964038702312783900,
+   "in_reply_to_screen_name": "cluebcke",
+   "urls": []
+  },
+  {
+   "id": 964035497805803500,
+   "id_str": "964035497805803525",
+   "created_at": "Thu Feb 15 07:15:48 +0000 2018",
+   "text": "RT @horse_js: You belong here. We want you here.",
+   "retweet_count": 14,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 962531458966409200,
-    "id_str": "962531458966409219",
-    "created_at": "Sun Feb 11 03:39:17 +0000 2018",
-    "text": "\"Describe your creative process\" https://t.co/3UzBcKA6N7",
-    "retweet_count": 12101,
-    "favorite_count": 26768,
+    "id": 964034197265502200,
+    "id_str": "964034197265502208",
+    "created_at": "Thu Feb 15 07:10:38 +0000 2018",
+    "text": "You belong here. We want you here.",
+    "retweet_count": 14,
+    "favorite_count": 62,
+    "place": null,
+    "in_reply_to_status_id": 964033406458835000,
+    "in_reply_to_screen_name": "horse_js",
+    "urls": []
+   }
+  },
+  {
+   "id": 963947077423185900,
+   "id_str": "963947077423185920",
+   "created_at": "Thu Feb 15 01:24:27 +0000 2018",
+   "text": "RT @chriseppstein: Reminder that the olds in web development will always think it’s bad that you don’t know the things they had to learn an…",
+   "retweet_count": 80,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963843049812971500,
+    "id_str": "963843049812971522",
+    "created_at": "Wed Feb 14 18:31:05 +0000 2018",
+    "text": "Reminder that the olds in web development will always think it’s bad that you don’t know the things they had to lea… https://t.co/IJ1UWEXTNw",
+    "retweet_count": 80,
+    "favorite_count": 394,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IJ1UWEXTNw",
+      "expand": "https://twitter.com/i/web/status/963843049812971522"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963946952403505200,
+   "id_str": "963946952403505152",
+   "created_at": "Thu Feb 15 01:23:57 +0000 2018",
+   "text": "If you are a new engineer, or unsure of yourself, please listen to me: ignore these voices. Ignore them. They want… https://t.co/DYqXAA4q22",
+   "retweet_count": 153,
+   "favorite_count": 579,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DYqXAA4q22",
+     "expand": "https://twitter.com/i/web/status/963946952403505152"
+    }
+   ]
+  },
+  {
+   "id": 963603406655963100,
+   "id_str": "963603406655963136",
+   "created_at": "Wed Feb 14 02:38:49 +0000 2018",
+   "text": "@mikeal https://t.co/InaW3BO3Ht",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963602883299106800,
+   "in_reply_to_screen_name": "littlecalculist",
+   "urls": [
+    {
+     "url": "https://t.co/InaW3BO3Ht",
+     "expand": "https://www.sutterhealth.org/find-doctor/dr-colleen-m-halloran"
+    }
+   ]
+  },
+  {
+   "id": 963602883299106800,
+   "id_str": "963602883299106816",
+   "created_at": "Wed Feb 14 02:36:44 +0000 2018",
+   "text": "@mikeal Dr Colleen Halloran has been fantastic, she’s been Anna’s pediatrician since birth. Office now in Daly City… https://t.co/bVqoJVQImc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963601315912806400,
+   "in_reply_to_screen_name": "mikeal",
+   "urls": [
+    {
+     "url": "https://t.co/bVqoJVQImc",
+     "expand": "https://twitter.com/i/web/status/963602883299106816"
+    }
+   ]
+  },
+  {
+   "id": 963473260099682300,
+   "id_str": "963473260099682305",
+   "created_at": "Tue Feb 13 18:01:40 +0000 2018",
+   "text": "tfw writing comments makes you realize the reason you can't figure out what this code does is that it's useless",
+   "retweet_count": 3,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963153679770529800,
+   "id_str": "963153679770529792",
+   "created_at": "Mon Feb 12 20:51:46 +0000 2018",
+   "text": "Weekend hack: a @rustlang (stable!) macro for writing Windows GUIDs as literals, e.g.:\n\nguid!{\"6B29FC40-CA47-1067-B… https://t.co/vpM8uBBLzm",
+   "retweet_count": 6,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vpM8uBBLzm",
+     "expand": "https://twitter.com/i/web/status/963153679770529792"
+    }
+   ]
+  },
+  {
+   "id": 962937081835040800,
+   "id_str": "962937081835040768",
+   "created_at": "Mon Feb 12 06:31:05 +0000 2018",
+   "text": "RT @notkosi: ...I think about how good this poem is at least twice a day. https://t.co/AhjH2S26yl",
+   "retweet_count": 26325,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962817865870204900,
+    "id_str": "962817865870204931",
+    "created_at": "Sun Feb 11 22:37:22 +0000 2018",
+    "text": "...I think about how good this poem is at least twice a day. https://t.co/AhjH2S26yl",
+    "retweet_count": 26325,
+    "favorite_count": 99710,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,

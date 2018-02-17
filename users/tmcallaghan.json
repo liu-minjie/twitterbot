@@ -1,22 +1,68 @@
 {
- "time": 1518413390983,
+ "time": 1518869610230,
  "lists": [
   {
-   "id": 959553057288843300,
-   "id_str": "959553057288843265",
-   "created_at": "Fri Feb 02 22:24:11 +0000 2018",
-   "text": "Shameful that the @tdgarden box office only opened two windows this morning for Elton John tickets. That plus scalp… https://t.co/HJj9tJtgVA",
-   "retweet_count": 0,
+   "id": 964624221635858400,
+   "id_str": "964624221635858432",
+   "created_at": "Fri Feb 16 22:15:10 +0000 2018",
+   "text": "RT @GetCrunchTime: Tweaking restaurant labor schedules \"on the fly\" makes good sense. This is how great restaurants manage employee schedul…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964511978415894500,
+    "id_str": "964511978415894530",
+    "created_at": "Fri Feb 16 14:49:10 +0000 2018",
+    "text": "Tweaking restaurant labor schedules \"on the fly\" makes good sense. This is how great restaurants manage employee sc… https://t.co/Hw3FFnSbsE",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Hw3FFnSbsE",
+      "expand": "https://twitter.com/i/web/status/964511978415894530"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964109437236666400,
+   "id_str": "964109437236666368",
+   "created_at": "Thu Feb 15 12:09:36 +0000 2018",
+   "text": "RT @abuggia: Come by Localytics Tuesday (2/13) to see Greg Young and James Nugent talk on DDD/CQRS/ES! https://t.co/rcFgZKT35f via @Meetup",
+   "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/HJj9tJtgVA",
-     "expand": "https://twitter.com/i/web/status/959553057288843265"
+     "url": "https://t.co/rcFgZKT35f",
+     "expand": "https://www.meetup.com/Boston-CQRS-ES-Meetup/events/247551952/"
     }
-   ]
+   ],
+   "retweeted_status": {
+    "id": 962165850903121900,
+    "id_str": "962165850903121921",
+    "created_at": "Sat Feb 10 03:26:29 +0000 2018",
+    "text": "Come by Localytics Tuesday (2/13) to see Greg Young and James Nugent talk on DDD/CQRS/ES! https://t.co/rcFgZKT35f via @Meetup",
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rcFgZKT35f",
+      "expand": "https://www.meetup.com/Boston-CQRS-ES-Meetup/events/247551952/"
+     }
+    ]
+   }
   }
  ]
 }

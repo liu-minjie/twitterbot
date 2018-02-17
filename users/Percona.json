@@ -1,20 +1,895 @@
 {
- "time": 1518413387258,
+ "time": 1518869610017,
  "lists": [
   {
-   "id": 962103635189563400,
-   "id_str": "962103635189563394",
-   "created_at": "Fri Feb 09 23:19:16 +0000 2018",
-   "text": "New Post: Collect PostgreSQL Metrics with Percona Monitoring and Management (PMM). By, Nickolay Ihalainen. Read Mor… https://t.co/w1walrsqhp",
-   "retweet_count": 5,
+   "id": 964632316797685800,
+   "id_str": "964632316797685760",
+   "created_at": "Fri Feb 16 22:47:20 +0000 2018",
+   "text": "New Post: Why ZFS Affects MySQL Performance. By, Jervin Real. Read More: https://t.co/k0qYOXFz0m",
+   "retweet_count": 4,
    "favorite_count": 9,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/w1walrsqhp",
-     "expand": "https://twitter.com/i/web/status/962103635189563394"
+     "url": "https://t.co/k0qYOXFz0m",
+     "expand": "http://ift.tt/2C32KIm"
+    }
+   ]
+  },
+  {
+   "id": 964576272394399700,
+   "id_str": "964576272394399744",
+   "created_at": "Fri Feb 16 19:04:38 +0000 2018",
+   "text": "Does your business need an all-in-one plan that covers all your database server technologies &amp; platforms, allowing… https://t.co/DR3hRarJzC",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DR3hRarJzC",
+     "expand": "https://twitter.com/i/web/status/964576272394399744"
+    }
+   ]
+  },
+  {
+   "id": 964530528526446600,
+   "id_str": "964530528526446593",
+   "created_at": "Fri Feb 16 16:02:52 +0000 2018",
+   "text": "If your a #MongoDB user how do you prevent a security breach? Protecting that data, and your database environment,… https://t.co/t7DwXWdOTo",
+   "retweet_count": 3,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/t7DwXWdOTo",
+     "expand": "https://twitter.com/i/web/status/964530528526446593"
+    }
+   ]
+  },
+  {
+   "id": 964518632326824000,
+   "id_str": "964518632326823936",
+   "created_at": "Fri Feb 16 15:15:36 +0000 2018",
+   "text": "@tomride hope that worked for you, do drop by the forum if there's any residual aroma...  https://t.co/XcYJtqjN7u",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964417864378630100,
+   "in_reply_to_screen_name": "tomride",
+   "urls": [
+    {
+     "url": "https://t.co/XcYJtqjN7u",
+     "expand": "https://www.percona.com/forums/"
+    }
+   ]
+  },
+  {
+   "id": 964516701487423500,
+   "id_str": "964516701487423488",
+   "created_at": "Fri Feb 16 15:07:56 +0000 2018",
+   "text": "RT @DataHero4u: #Percona Want IST Not SST for Node Rejoins? We Have a Solution! https://t.co/FsnVhEfyrS #Data https://t.co/gGcQDAs1Pm",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FsnVhEfyrS",
+     "expand": "https://www.percona.com/blog/2018/02/13/no-sst-node-rejoins/?utm_source=dlvr.it&utm_medium=twitter"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964305621238480900,
+    "id_str": "964305621238480896",
+    "created_at": "Fri Feb 16 01:09:10 +0000 2018",
+    "text": "#Percona Want IST Not SST for Node Rejoins? We Have a Solution! https://t.co/FsnVhEfyrS #Data https://t.co/gGcQDAs1Pm",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FsnVhEfyrS",
+      "expand": "https://www.percona.com/blog/2018/02/13/no-sst-node-rejoins/?utm_source=dlvr.it&utm_medium=twitter"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964516618301771800,
+   "id_str": "964516618301771776",
+   "created_at": "Fri Feb 16 15:07:36 +0000 2018",
+   "text": "RT @PeterZaitsev: Are you interested what Orchestrator can do for MySQL Availability ? Attend Tutorial by Shlomi Noach to find out https://…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964172963326124000,
+    "id_str": "964172963326124032",
+    "created_at": "Thu Feb 15 16:22:02 +0000 2018",
+    "text": "Are you interested what Orchestrator can do for MySQL Availability ? Attend Tutorial by Shlomi Noach to find out … https://t.co/C1eX5WPw2u",
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/C1eX5WPw2u",
+      "expand": "https://twitter.com/i/web/status/964172963326124032"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964502729874989000,
+   "id_str": "964502729874989057",
+   "created_at": "Fri Feb 16 14:12:25 +0000 2018",
+   "text": "New Post: This Week in Data with Colin Charles 28: Percona Live,  MongoDB Transactions and Spectre/Meltdown Rumble… https://t.co/HEq9uuSFab",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HEq9uuSFab",
+     "expand": "https://twitter.com/i/web/status/964502729874989057"
+    }
+   ]
+  },
+  {
+   "id": 964500120887799800,
+   "id_str": "964500120887799809",
+   "created_at": "Fri Feb 16 14:02:03 +0000 2018",
+   "text": "Get an in-depth review of your database instances running over a #Ceph private storage cloud. During an audit we wi… https://t.co/wGfgnh99iR",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wGfgnh99iR",
+     "expand": "https://twitter.com/i/web/status/964500120887799809"
+    }
+   ]
+  },
+  {
+   "id": 964257232459325400,
+   "id_str": "964257232459325441",
+   "created_at": "Thu Feb 15 21:56:53 +0000 2018",
+   "text": "Attending #SCALE16x March 8-11? See Peter on March 9th presenting \"Using MySQL for Distributed Database Architectur… https://t.co/1QlXZMoQS7",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1QlXZMoQS7",
+     "expand": "https://twitter.com/i/web/status/964257232459325441"
+    }
+   ]
+  },
+  {
+   "id": 964257098031706100,
+   "id_str": "964257098031706112",
+   "created_at": "Thu Feb 15 21:56:21 +0000 2018",
+   "text": "Attending #SCALE16x March 8-11? See @bytebot on March 10th presenting \"Capacity Planning for your Data Stores! More… https://t.co/AGvI9yVmke",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AGvI9yVmke",
+     "expand": "https://twitter.com/i/web/status/964257098031706112"
+    }
+   ]
+  },
+  {
+   "id": 964248937698873300,
+   "id_str": "964248937698873345",
+   "created_at": "Thu Feb 15 21:23:56 +0000 2018",
+   "text": "Part 5 Subscribe to Percona's newsletter to see the story continue https://t.co/R13nvD4S0o https://t.co/KUlZt1iBnG",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/R13nvD4S0o",
+     "expand": "https://hubs.ly/H0b0g3x0"
+    }
+   ]
+  },
+  {
+   "id": 964247674194153500,
+   "id_str": "964247674194153473",
+   "created_at": "Thu Feb 15 21:18:55 +0000 2018",
+   "text": "Part 4 See the story continue by subscribing to our newsletter \nhttps://t.co/mExoNpQzOm https://t.co/g4nmEV3g5O",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mExoNpQzOm",
+     "expand": "https://hubs.ly/H0b0g100"
+    }
+   ]
+  },
+  {
+   "id": 964247385479241700,
+   "id_str": "964247385479241734",
+   "created_at": "Thu Feb 15 21:17:46 +0000 2018",
+   "text": "Part 3 See the story continue by subscribing to our newsletter https://t.co/fQ3ZKKtotE https://t.co/lq9zKT3row",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fQ3ZKKtotE",
+     "expand": "https://hubs.ly/H0b0g-50"
+    }
+   ]
+  },
+  {
+   "id": 964244834964910100,
+   "id_str": "964244834964910080",
+   "created_at": "Thu Feb 15 21:07:38 +0000 2018",
+   "text": "Part 2 #databasenightmares https://t.co/qnW3xl0SC9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964232883589304300,
+   "id_str": "964232883589304321",
+   "created_at": "Thu Feb 15 20:20:08 +0000 2018",
+   "text": "New Post: ProxySQL 1.4.5 and Updated proxysql-admin Tool Now in the Percona Repository. By, Dmitriy Kostiuk. Read M… https://t.co/hmd18r4Lym",
+   "retweet_count": 3,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hmd18r4Lym",
+     "expand": "https://twitter.com/i/web/status/964232883589304321"
+    }
+   ]
+  },
+  {
+   "id": 964228014157549600,
+   "id_str": "964228014157549572",
+   "created_at": "Thu Feb 15 20:00:47 +0000 2018",
+   "text": "New Post: Troubleshooting MySQL Crashes Webinar: Q&amp;A. By, Sveta Smirnova. Read More: https://t.co/zrn5qhP9XF",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zrn5qhP9XF",
+     "expand": "http://ift.tt/2C2RQCB"
+    }
+   ]
+  },
+  {
+   "id": 964222330779119600,
+   "id_str": "964222330779119616",
+   "created_at": "Thu Feb 15 19:38:12 +0000 2018",
+   "text": "To see the story continue subscribe to our newsletter https://t.co/ndgWmqmpZW https://t.co/HoCeTPLkkD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ndgWmqmpZW",
+     "expand": "https://hubs.ly/H0b0c150"
+    }
+   ]
+  },
+  {
+   "id": 964216067450163200,
+   "id_str": "964216067450163207",
+   "created_at": "Thu Feb 15 19:13:19 +0000 2018",
+   "text": "Peter Zaitsev will be speaking at #OpenSource101 on Saturday! Check out his talk details below: https://t.co/sU6HaiIiYs",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964170157592580100,
+   "id_str": "964170157592580096",
+   "created_at": "Thu Feb 15 16:10:53 +0000 2018",
+   "text": "Download this white paper to find out how to define your #cloud provider requirements, plan for the #migration and… https://t.co/KOK3e5a3MA",
+   "retweet_count": 3,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KOK3e5a3MA",
+     "expand": "https://twitter.com/i/web/status/964170157592580096"
+    }
+   ]
+  },
+  {
+   "id": 964139754148257800,
+   "id_str": "964139754148257793",
+   "created_at": "Thu Feb 15 14:10:04 +0000 2018",
+   "text": "Do you need a high availability database solution? Need help with guaranteed #uptime.\nDo you need to troubleshoot a… https://t.co/h0yFC2CGdM",
+   "retweet_count": 3,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/h0yFC2CGdM",
+     "expand": "https://twitter.com/i/web/status/964139754148257793"
+    }
+   ]
+  },
+  {
+   "id": 963910984472592400,
+   "id_str": "963910984472592384",
+   "created_at": "Wed Feb 14 23:01:01 +0000 2018",
+   "text": "New Post: Update on Percona Platform Lifecycle for Ubuntu “Stable” Versions. By, Tyler Duzan. Read More: https://t.co/dNDEUbVl2o",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dNDEUbVl2o",
+     "expand": "http://ift.tt/2ClcOZ7"
+    }
+   ]
+  },
+  {
+   "id": 963903285248872400,
+   "id_str": "963903285248872448",
+   "created_at": "Wed Feb 14 22:30:26 +0000 2018",
+   "text": "New Post: Amazon Aurora MySQL Monitoring with Percona Monitoring and Management (PMM). By, Peter Zaitsev. Read More: https://t.co/NGSwIl1ahM",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NGSwIl1ahM",
+     "expand": "http://ift.tt/2HhzLQi"
+    }
+   ]
+  },
+  {
+   "id": 963894246766981100,
+   "id_str": "963894246766981123",
+   "created_at": "Wed Feb 14 21:54:31 +0000 2018",
+   "text": "Borys Belinsky answers the question, does Percona Monitoring and Management #PMM Support External Monitoring Servic… https://t.co/ccmM9TOFmv",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ccmM9TOFmv",
+     "expand": "https://twitter.com/i/web/status/963894246766981123"
+    }
+   ]
+  },
+  {
+   "id": 963852547382480900,
+   "id_str": "963852547382480897",
+   "created_at": "Wed Feb 14 19:08:49 +0000 2018",
+   "text": "This Week in Data with Colin Charles 27: Percona Live Tutorials Released and a Comprehensive Review of the #FOSDEM… https://t.co/SoDvNHDu1g",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SoDvNHDu1g",
+     "expand": "https://twitter.com/i/web/status/963852547382480897"
+    }
+   ]
+  },
+  {
+   "id": 963807765390155800,
+   "id_str": "963807765390155776",
+   "created_at": "Wed Feb 14 16:10:52 +0000 2018",
+   "text": "Barrett Chambers will be speaking at #OpenSource101 on Saturday! Check out his talk details below: https://t.co/Qc2hi7D0Nn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963790055419666400,
+   "id_str": "963790055419666432",
+   "created_at": "Wed Feb 14 15:00:30 +0000 2018",
+   "text": "RT @PeterZaitsev: On Thursday @svetsmirnova will talk about her most favorite topic ever - MySQL Troubleshooting  https://t.co/kzJl9pWKta h…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kzJl9pWKta",
+     "expand": "https://lnkd.in/dw53xEy"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963522085044871200,
+    "id_str": "963522085044871171",
+    "created_at": "Tue Feb 13 21:15:41 +0000 2018",
+    "text": "On Thursday @svetsmirnova will talk about her most favorite topic ever - MySQL Troubleshooting  … https://t.co/86rskwDm4f",
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/86rskwDm4f",
+      "expand": "https://twitter.com/i/web/status/963522085044871171"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963784747599188000,
+   "id_str": "963784747599187969",
+   "created_at": "Wed Feb 14 14:39:24 +0000 2018",
+   "text": "RT @bytebot: “MySQL (in RDS) crashes and restarts due to growing BI query complexity and it’s been hard to fix this.” - I wonder if @awsclo…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963740859836461000,
+    "id_str": "963740859836461056",
+    "created_at": "Wed Feb 14 11:45:01 +0000 2018",
+    "text": "“MySQL (in RDS) crashes and restarts due to growing BI query complexity and it’s been hard to fix this.” - I wonder… https://t.co/PzhEf2KBi6",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PzhEf2KBi6",
+      "expand": "https://twitter.com/i/web/status/963740859836461056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963776962014646300,
+   "id_str": "963776962014646273",
+   "created_at": "Wed Feb 14 14:08:28 +0000 2018",
+   "text": "Want to know how you can use Percona Server for #MySQL software to house content for the media house? Can you guara… https://t.co/4wHGJdlzUW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4wHGJdlzUW",
+     "expand": "https://twitter.com/i/web/status/963776962014646273"
+    }
+   ]
+  },
+  {
+   "id": 963566117590634500,
+   "id_str": "963566117590634496",
+   "created_at": "Wed Feb 14 00:10:39 +0000 2018",
+   "text": "New Post: Want IST Not SST for Node Rejoins? We Have a Solution!. By, Krunal Bauskar. Read More: https://t.co/dM50KuUtSJ",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dM50KuUtSJ",
+     "expand": "http://ift.tt/2suiiRy"
+    }
+   ]
+  },
+  {
+   "id": 963559795600052200,
+   "id_str": "963559795600052225",
+   "created_at": "Tue Feb 13 23:45:32 +0000 2018",
+   "text": "New Post: Percona Server for MySQL 5.6.39-83.1 Is Now Available. By, Dmitriy Kostiuk. Read More: https://t.co/lCRxHoLKkN",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lCRxHoLKkN",
+     "expand": "http://ift.tt/2EB1E7N"
+    }
+   ]
+  },
+  {
+   "id": 963531381992230900,
+   "id_str": "963531381992230912",
+   "created_at": "Tue Feb 13 21:52:37 +0000 2018",
+   "text": "Learn how to troubleshooting #MySQL crashes with Percona, Principal Support Engineer, Sveta Smirnova. Watch the vid… https://t.co/rhg4TSmz7X",
+   "retweet_count": 8,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rhg4TSmz7X",
+     "expand": "https://twitter.com/i/web/status/963531381992230912"
+    }
+   ]
+  },
+  {
+   "id": 963493341051670500,
+   "id_str": "963493341051670528",
+   "created_at": "Tue Feb 13 19:21:28 +0000 2018",
+   "text": "Will your database performance meet your business growth needs? In this white paper, we’ll look at some of the thin… https://t.co/0QKhUlNSiM",
+   "retweet_count": 4,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0QKhUlNSiM",
+     "expand": "https://twitter.com/i/web/status/963493341051670528"
+    }
+   ]
+  },
+  {
+   "id": 963489253866070000,
+   "id_str": "963489253866070016",
+   "created_at": "Tue Feb 13 19:05:13 +0000 2018",
+   "text": "RT @odbmsorg: Register for @Percona Live #OpenSource #Database Conference (US) April 23-28, 2018 , #SantaClara, CA\nhttps://t.co/cUFrvMjI82…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cUFrvMjI82",
+     "expand": "http://www.odbms.org/2018/02/percona-live-open-source-database-conference-us-april-23-28-2018-santa-clara-ca/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963468461480521700,
+    "id_str": "963468461480521728",
+    "created_at": "Tue Feb 13 17:42:36 +0000 2018",
+    "text": "Register for @Percona Live #OpenSource #Database Conference (US) April 23-28, 2018 , #SantaClara, CA… https://t.co/gXxhjcEmlC",
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gXxhjcEmlC",
+      "expand": "https://twitter.com/i/web/status/963468461480521728"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963447198464790500,
+   "id_str": "963447198464790528",
+   "created_at": "Tue Feb 13 16:18:06 +0000 2018",
+   "text": "Do you need help tuning and optimizing your database environment for high availability? See how #Alkemics was able… https://t.co/ztAXafCAoc",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ztAXafCAoc",
+     "expand": "https://twitter.com/i/web/status/963447198464790528"
+    }
+   ]
+  },
+  {
+   "id": 963444751470092300,
+   "id_str": "963444751470092288",
+   "created_at": "Tue Feb 13 16:08:23 +0000 2018",
+   "text": "Percona Support for #MySQL provides you with real-time access to our expert technical team. Our 24x7x365 policy ens… https://t.co/zjA8pREza8",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zjA8pREza8",
+     "expand": "https://twitter.com/i/web/status/963444751470092288"
+    }
+   ]
+  },
+  {
+   "id": 963421293092769800,
+   "id_str": "963421293092769792",
+   "created_at": "Tue Feb 13 14:35:10 +0000 2018",
+   "text": "RT @severalnines: Join us February 27th as we present the #webinar “How to Get Started with Open Source Database Mgmt” which provides an ov…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963398214119501800,
+    "id_str": "963398214119501824",
+    "created_at": "Tue Feb 13 13:03:27 +0000 2018",
+    "text": "Join us February 27th as we present the #webinar “How to Get Started with Open Source Database Mgmt” which provides… https://t.co/gkEpKcIqOm",
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gkEpKcIqOm",
+      "expand": "https://twitter.com/i/web/status/963398214119501824"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963414541903253500,
+   "id_str": "963414541903253504",
+   "created_at": "Tue Feb 13 14:08:20 +0000 2018",
+   "text": "Your apps/website rely on your database to deliver information about products &amp; services to your customers. You can… https://t.co/TKc2ysxKbP",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TKc2ysxKbP",
+     "expand": "https://twitter.com/i/web/status/963414541903253504"
+    }
+   ]
+  },
+  {
+   "id": 963401118750527500,
+   "id_str": "963401118750527488",
+   "created_at": "Tue Feb 13 13:15:00 +0000 2018",
+   "text": "[Webinar] Thursday, 2/15: Basic Internal #Troubleshooting Tools for #MySQL Server with Sveta Smirnova. https://t.co/UOItVhp9jr",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UOItVhp9jr",
+     "expand": "https://hubs.ly/H09-0M70"
+    }
+   ]
+  },
+  {
+   "id": 963205154223910900,
+   "id_str": "963205154223910913",
+   "created_at": "Tue Feb 13 00:16:18 +0000 2018",
+   "text": "New Post: Webinar Thursday, February 15, 2018: Basic Internal Troubleshooting Tools for MySQL Server. By, Sveta Smi… https://t.co/oYeT54uSG5",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oYeT54uSG5",
+     "expand": "https://twitter.com/i/web/status/963205154223910913"
+    }
+   ]
+  },
+  {
+   "id": 963184960717905900,
+   "id_str": "963184960717905920",
+   "created_at": "Mon Feb 12 22:56:04 +0000 2018",
+   "text": "New Post: Does Percona Monitoring and Management (PMM) Support External Monitoring Services? Yes It Does!. By, Bory… https://t.co/RmxS3WKtGF",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RmxS3WKtGF",
+     "expand": "https://twitter.com/i/web/status/963184960717905920"
+    }
+   ]
+  },
+  {
+   "id": 963168696138117100,
+   "id_str": "963168696138117121",
+   "created_at": "Mon Feb 12 21:51:26 +0000 2018",
+   "text": ".@PeterZaitsev is presenting \"Forking or Branching: Lessons from MySQL Community\" at #OpenSource101 Feb 17th. More… https://t.co/HXsKnvrDm9",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HXsKnvrDm9",
+     "expand": "https://twitter.com/i/web/status/963168696138117121"
+    }
+   ]
+  },
+  {
+   "id": 963168160584257500,
+   "id_str": "963168160584257538",
+   "created_at": "Mon Feb 12 21:49:18 +0000 2018",
+   "text": "Are you trying to meet business-critical #scaling needs, guarantee database #availability or maintain database perf… https://t.co/0PE8iV5BIW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0PE8iV5BIW",
+     "expand": "https://twitter.com/i/web/status/963168160584257538"
+    }
+   ]
+  },
+  {
+   "id": 963164892948770800,
+   "id_str": "963164892948770817",
+   "created_at": "Mon Feb 12 21:36:19 +0000 2018",
+   "text": "In this article, Nickolay Ihalainen will describe how to collect #PostgreSQL metrics with Percona Monitoring and Ma… https://t.co/lIlDqL8u7P",
+   "retweet_count": 3,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lIlDqL8u7P",
+     "expand": "https://twitter.com/i/web/status/963164892948770817"
+    }
+   ]
+  },
+  {
+   "id": 963151391823872000,
+   "id_str": "963151391823872006",
+   "created_at": "Mon Feb 12 20:42:40 +0000 2018",
+   "text": "#PerconaLive 2018 Tutorials Schedule is OUT! Check out which tutorials you'd like to attend: https://t.co/a7HGaYPz2s https://t.co/8o99k2L07h",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/a7HGaYPz2s",
+     "expand": "https://hubs.ly/H09ZVS90"
+    }
+   ]
+  },
+  {
+   "id": 963128800900014100,
+   "id_str": "963128800900014081",
+   "created_at": "Mon Feb 12 19:12:54 +0000 2018",
+   "text": "RT @AllThingsOpen: Founder &amp; CEO @PeterZaitsev @Percona discusses Four Ways #MySQL Executes GROUP BY https://t.co/oRqaxjutSY - he'll also b…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oRqaxjutSY",
+     "expand": "https://www.percona.com/blog/2018/02/05/four-ways-to-execute-mysql-group-by/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963086565005234200,
+    "id_str": "963086565005234177",
+    "created_at": "Mon Feb 12 16:25:05 +0000 2018",
+    "text": "Founder &amp; CEO @PeterZaitsev @Percona discusses Four Ways #MySQL Executes GROUP BY https://t.co/oRqaxjutSY - he'll a… https://t.co/IkSIvWQaO7",
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oRqaxjutSY",
+      "expand": "https://www.percona.com/blog/2018/02/05/four-ways-to-execute-mysql-group-by/"
+     },
+     {
+      "url": "https://t.co/IkSIvWQaO7",
+      "expand": "https://twitter.com/i/web/status/963086565005234177"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963127758313480200,
+   "id_str": "963127758313480194",
+   "created_at": "Mon Feb 12 19:08:46 +0000 2018",
+   "text": "Download section two of our eBook, “Practical #MySQL Performance Optimization,” by Percona CEO Peter Zaitsev and Pr… https://t.co/DzGnnZuU3v",
+   "retweet_count": 1,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DzGnnZuU3v",
+     "expand": "https://twitter.com/i/web/status/963127758313480194"
+    }
+   ]
+  },
+  {
+   "id": 963127289058873300,
+   "id_str": "963127289058873346",
+   "created_at": "Mon Feb 12 19:06:54 +0000 2018",
+   "text": "Barrett Chambers will be presenting \"Choosing the Right Open-Source Database\" #OpenSource101 Feb 17th. More Informa… https://t.co/ekDOKv3YeB",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ekDOKv3YeB",
+     "expand": "https://twitter.com/i/web/status/963127289058873346"
     }
    ]
   }

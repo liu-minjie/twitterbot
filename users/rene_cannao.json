@@ -1,6 +1,105 @@
 {
- "time": 1518413369825,
+ "time": 1518869610930,
  "lists": [
+  {
+   "id": 964765665189036000,
+   "id_str": "964765665189036032",
+   "created_at": "Sat Feb 17 07:37:13 +0000 2018",
+   "text": "RT @Percona: New Post: ProxySQL 1.4.5 and Updated proxysql-admin Tool Now in the Percona Repository. By, Dmitriy Kostiuk. Read More: https:…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964232883589304300,
+    "id_str": "964232883589304321",
+    "created_at": "Thu Feb 15 20:20:08 +0000 2018",
+    "text": "New Post: ProxySQL 1.4.5 and Updated proxysql-admin Tool Now in the Percona Repository. By, Dmitriy Kostiuk. Read M… https://t.co/hmd18r4Lym",
+    "retweet_count": 3,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hmd18r4Lym",
+      "expand": "https://twitter.com/i/web/status/964232883589304321"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964747490837913600,
+   "id_str": "964747490837913601",
+   "created_at": "Sat Feb 17 06:25:00 +0000 2018",
+   "text": "RT @PeterZaitsev: Good way to start with ProxySQL deployment is to attend Tutorial at Percona Live by  @rene_cannao   and @derek_downey  ht…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964547859264794600,
+    "id_str": "964547859264794624",
+    "created_at": "Fri Feb 16 17:11:44 +0000 2018",
+    "text": "Good way to start with ProxySQL deployment is to attend Tutorial at Percona Live by  @rene_cannao   and… https://t.co/s2nM905H9H",
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/s2nM905H9H",
+      "expand": "https://twitter.com/i/web/status/964547859264794624"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963015449389789200,
+   "id_str": "963015449389789184",
+   "created_at": "Mon Feb 12 11:42:29 +0000 2018",
+   "text": "@ShlomiNoach @debian Been there, done that",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 962971901026070500,
+   "in_reply_to_screen_name": "ShlomiNoach",
+   "urls": []
+  },
+  {
+   "id": 963015244816711700,
+   "id_str": "963015244816711681",
+   "created_at": "Mon Feb 12 11:41:40 +0000 2018",
+   "text": "RT @ShlomiNoach: Dear (and beloved) @debian, the default `1024` open files limit for services running under `init` (not authenticated by `p…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962971901026070500,
+    "id_str": "962971901026070531",
+    "created_at": "Mon Feb 12 08:49:27 +0000 2018",
+    "text": "Dear (and beloved) @debian, the default `1024` open files limit for services running under `init` (not authenticate… https://t.co/9cmCpwRNhg",
+    "retweet_count": 7,
+    "favorite_count": 38,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9cmCpwRNhg",
+      "expand": "https://twitter.com/i/web/status/962971901026070531"
+     }
+    ]
+   }
+  },
   {
    "id": 961694069377388500,
    "id_str": "961694069377388545",
