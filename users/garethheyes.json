@@ -1,39 +1,159 @@
 {
- "time": 1518415327523,
+ "time": 1518873214461,
  "lists": [
   {
-   "id": 962756817641189400,
-   "id_str": "962756817641189378",
-   "created_at": "Sun Feb 11 18:34:47 +0000 2018",
-   "text": "RT @omer_gil: My #BHUSA talk about the Web Cache Deception attack is now on YouTube:\nhttps://t.co/y8oDV2wtKB\n@BlackHatEvents",
-   "retweet_count": 26,
+   "id": 964407435262812200,
+   "id_str": "964407435262812160",
+   "created_at": "Fri Feb 16 07:53:45 +0000 2018",
+   "text": "RT @cure53berlin: The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!\n\nhttps:…",
+   "retweet_count": 95,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964401458245288000,
+    "id_str": "964401458245287936",
+    "created_at": "Fri Feb 16 07:30:00 +0000 2018",
+    "text": "The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!… https://t.co/W8ZzYz36WP",
+    "retweet_count": 95,
+    "favorite_count": 146,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/W8ZzYz36WP",
+      "expand": "https://twitter.com/i/web/status/964401458245287936"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964142318222827500,
+   "id_str": "964142318222827522",
+   "created_at": "Thu Feb 15 14:20:16 +0000 2018",
+   "text": "RT @ericlaw: For security and privacy, HTTPS is necessary, but not sufficient.\nhttps://t.co/ksLJA6MdyZ",
+   "retweet_count": 85,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/y8oDV2wtKB",
-     "expand": "https://www.youtube.com/watch?v=mroq9eHFOIU"
+     "url": "https://t.co/ksLJA6MdyZ",
+     "expand": "https://textslashplain.com/2018/02/14/understanding-the-limitations-of-https/"
     }
    ],
    "retweeted_status": {
-    "id": 962750099859431400,
-    "id_str": "962750099859431424",
-    "created_at": "Sun Feb 11 18:08:05 +0000 2018",
-    "text": "My #BHUSA talk about the Web Cache Deception attack is now on YouTube:\nhttps://t.co/y8oDV2wtKB\n@BlackHatEvents",
-    "retweet_count": 26,
-    "favorite_count": 50,
+    "id": 963858062196002800,
+    "id_str": "963858062196002821",
+    "created_at": "Wed Feb 14 19:30:44 +0000 2018",
+    "text": "For security and privacy, HTTPS is necessary, but not sufficient.\nhttps://t.co/ksLJA6MdyZ",
+    "retweet_count": 85,
+    "favorite_count": 131,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/y8oDV2wtKB",
-      "expand": "https://www.youtube.com/watch?v=mroq9eHFOIU"
+      "url": "https://t.co/ksLJA6MdyZ",
+      "expand": "https://textslashplain.com/2018/02/14/understanding-the-limitations-of-https/"
      }
     ]
    }
+  },
+  {
+   "id": 963876880905621500,
+   "id_str": "963876880905621504",
+   "created_at": "Wed Feb 14 20:45:31 +0000 2018",
+   "text": "@insertScript Ah yeah must have been IE not passing the cookie across zones",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963828062956777500,
+   "in_reply_to_screen_name": "insertScript",
+   "urls": []
+  },
+  {
+   "id": 963876166603104300,
+   "id_str": "963876166603104258",
+   "created_at": "Wed Feb 14 20:42:40 +0000 2018",
+   "text": "@insertScript Yeah ooops 😊",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963827533568512000,
+   "in_reply_to_screen_name": "insertScript",
+   "urls": []
+  },
+  {
+   "id": 963795808175972400,
+   "id_str": "963795808175972358",
+   "created_at": "Wed Feb 14 15:23:21 +0000 2018",
+   "text": "@insertScript Ah I think it was a zone issue. I tried it in the internet zone rather that inranet and it seems to work 😀 sorry about that.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963792929985892400,
+   "in_reply_to_screen_name": "insertScript",
+   "urls": []
+  },
+  {
+   "id": 963792315121918000,
+   "id_str": "963792315121917952",
+   "created_at": "Wed Feb 14 15:09:28 +0000 2018",
+   "text": "@insertScript So I have a formcal request going to a redirect which allows a custom header but cookies don't seem t… https://t.co/uIrgcEDkwZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963791597119950800,
+   "in_reply_to_screen_name": "insertScript",
+   "urls": [
+    {
+     "url": "https://t.co/uIrgcEDkwZ",
+     "expand": "https://twitter.com/i/web/status/963792315121917952"
+    }
+   ]
+  },
+  {
+   "id": 963775079267078100,
+   "id_str": "963775079267078144",
+   "created_at": "Wed Feb 14 14:00:59 +0000 2018",
+   "text": "@insertScript Hi Alex, I was messing with your formcalc PoC. Is it possible to send cookies in a x-domain request?… https://t.co/TYSN65BZov",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": "insertScript",
+   "urls": [
+    {
+     "url": "https://t.co/TYSN65BZov",
+     "expand": "https://twitter.com/i/web/status/963775079267078144"
+    }
+   ]
+  },
+  {
+   "id": 963684671858061300,
+   "id_str": "963684671858061312",
+   "created_at": "Wed Feb 14 08:01:44 +0000 2018",
+   "text": "@snoopysecurity Hi Sam, Edge still allows proxies on the window prototype https://t.co/SScEpYVLqZ so testing edge w… https://t.co/PiSoE4uPox",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963441854573432800,
+   "in_reply_to_screen_name": "snoopysecurity",
+   "urls": [
+    {
+     "url": "https://t.co/SScEpYVLqZ",
+     "expand": "http://portswigger-labs.net/jsproxy/edge_proxy_undefined_variable_read/"
+    },
+    {
+     "url": "https://t.co/PiSoE4uPox",
+     "expand": "https://twitter.com/i/web/status/963684671858061312"
+    }
+   ]
   }
  ]
 }

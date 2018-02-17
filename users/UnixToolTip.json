@@ -1,5 +1,5 @@
 {
- "time": 1518869606747,
+ "time": 1518873085522,
  "lists": [
   {
    "id": 964555029469376500,
@@ -7,7 +7,7 @@
    "created_at": "Fri Feb 16 17:40:14 +0000 2018",
    "text": "GNU Coreutils Cheat Sheet \nhttps://t.co/xxHQ0l97fV\nby @pkrumins",
    "retweet_count": 16,
-   "favorite_count": 55,
+   "favorite_count": 59,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
@@ -17,66 +17,6 @@
      "expand": "http://www.catonmat.net/blog/gnu-coreutils-cheat-sheet/"
     }
    ]
-  },
-  {
-   "id": 964192641662570500,
-   "id_str": "964192641662570506",
-   "created_at": "Thu Feb 15 17:40:14 +0000 2018",
-   "text": "In bash, !?foo will repeat the most recent command that contained the string 'foo'.",
-   "retweet_count": 17,
-   "favorite_count": 50,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 963830261946503200,
-   "id_str": "963830261946503168",
-   "created_at": "Wed Feb 14 17:40:16 +0000 2018",
-   "text": "ls -X will group files by extension.",
-   "retweet_count": 25,
-   "favorite_count": 77,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 963467858385756200,
-   "id_str": "963467858385756161",
-   "created_at": "Tue Feb 13 17:40:12 +0000 2018",
-   "text": "Inside less, /foo will search for 'foo'.",
-   "retweet_count": 5,
-   "favorite_count": 7,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 963105477696598000,
-   "id_str": "963105477696598016",
-   "created_at": "Mon Feb 12 17:40:14 +0000 2018",
-   "text": "In bash, ^foo^bar repeats the latest command, replacing the first instance of 'foo' with 'bar'.",
-   "retweet_count": 24,
-   "favorite_count": 80,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 962018322517602300,
-   "id_str": "962018322517602304",
-   "created_at": "Fri Feb 09 17:40:16 +0000 2018",
-   "text": "Emacs dired takes the same switches as ls. C-u C-x d will prompt for switches then open dired.",
-   "retweet_count": 2,
-   "favorite_count": 8,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
   }
  ]
 }

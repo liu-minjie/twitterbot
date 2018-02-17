@@ -1,11 +1,215 @@
 {
- "time": 1518414741650,
+ "time": 1518873200692,
  "lists": [
   {
-   "id": 962793563359674400,
-   "id_str": "962793563359674369",
-   "created_at": "Sun Feb 11 21:00:48 +0000 2018",
-   "text": "RT @rem: Last night I decided last minute that I would flash sale the hell out of my terminal training course. You can get the full master…",
+   "id": 964622686658981900,
+   "id_str": "964622686658981888",
+   "created_at": "Fri Feb 16 22:09:04 +0000 2018",
+   "text": "@dugboticus Right, fixed!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964621661482844200,
+   "in_reply_to_screen_name": "rem",
+   "urls": []
+  },
+  {
+   "id": 964621661482844200,
+   "id_str": "964621661482844160",
+   "created_at": "Fri Feb 16 22:05:00 +0000 2018",
+   "text": "@dugboticus Dangit. Gimme 5, it'll be fixed.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964615475232673800,
+   "in_reply_to_screen_name": "dugboticus",
+   "urls": []
+  },
+  {
+   "id": 964564885681135600,
+   "id_str": "964564885681135616",
+   "created_at": "Fri Feb 16 18:19:24 +0000 2018",
+   "text": "@dugboticus The package is CLI2 - the code doesn't work with CLI1 or CLI3. Are you doing CLI2?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964522539862102000,
+   "in_reply_to_screen_name": "dugboticus",
+   "urls": []
+  },
+  {
+   "id": 964563087054565400,
+   "id_str": "964563087054565377",
+   "created_at": "Fri Feb 16 18:12:15 +0000 2018",
+   "text": "RT @Julieanne: This is just so beautiful. I wish I could write like this because this is in my heart:\n\n\"the love of old friends who still m…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964560379048284200,
+    "id_str": "964560379048284162",
+    "created_at": "Fri Feb 16 18:01:29 +0000 2018",
+    "text": "This is just so beautiful. I wish I could write like this because this is in my heart:\n\n\"the love of old friends wh… https://t.co/w621wXtdrm",
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/w621wXtdrm",
+      "expand": "https://twitter.com/i/web/status/964560379048284162"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964248765908611100,
+   "id_str": "964248765908611075",
+   "created_at": "Thu Feb 15 21:23:15 +0000 2018",
+   "text": "I keep forgetting it's fairly pointless, as someone in europe, to run travis tests after 3pm. &lt;joins-queue-of-mericans…impatiently&gt;",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964164404995674100,
+   "id_str": "964164404995674112",
+   "created_at": "Thu Feb 15 15:48:02 +0000 2018",
+   "text": "CANARY IS BROKEN 😱 https://t.co/DzGUyq0dvO",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963893472125227000,
+   "id_str": "963893472125227009",
+   "created_at": "Wed Feb 14 21:51:26 +0000 2018",
+   "text": "@zaccolley cheers, gotta weed them out. Gratipay died recently 😢",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963834513649479700,
+   "in_reply_to_screen_name": "zaccolley",
+   "urls": []
+  },
+  {
+   "id": 963775624971157500,
+   "id_str": "963775624971157504",
+   "created_at": "Wed Feb 14 14:03:09 +0000 2018",
+   "text": "@qwertykate @Julieanne No problem - been open in my tabs for about 2 weeks now, just never have my card handy!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963729393796382700,
+   "in_reply_to_screen_name": "qwertykate",
+   "urls": []
+  },
+  {
+   "id": 963775537176031200,
+   "id_str": "963775537176031232",
+   "created_at": "Wed Feb 14 14:02:48 +0000 2018",
+   "text": "The npm \"access\" management page has always looked this broken for me (at least 2 years) now (I reported it some ti… https://t.co/kjtYilyqDr",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kjtYilyqDr",
+     "expand": "https://twitter.com/i/web/status/963775537176031232"
+    }
+   ]
+  },
+  {
+   "id": 963710711347150800,
+   "id_str": "963710711347150848",
+   "created_at": "Wed Feb 14 09:45:13 +0000 2018",
+   "text": "@hereinthehive I've got these and they're superb: Bose QuietComfort 35 Wireless Bluetooth Noise Cancelling Headphones",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963709399364722700,
+   "in_reply_to_screen_name": "hereinthehive",
+   "urls": []
+  },
+  {
+   "id": 963710120076234800,
+   "id_str": "963710120076234753",
+   "created_at": "Wed Feb 14 09:42:52 +0000 2018",
+   "text": "Local (to Manchester or travelling distance) meet-ups 👇 https://t.co/b1uKIdK66L",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/b1uKIdK66L",
+     "expand": "https://twitter.com/hereinthehive/status/963708357700915200"
+    }
+   ]
+  },
+  {
+   "id": 963709898537267200,
+   "id_str": "963709898537267200",
+   "created_at": "Wed Feb 14 09:41:59 +0000 2018",
+   "text": "@upfrontconf @hereinthehive @ffconf I'm not sure *I* even know what I do!!!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963709175284097000,
+   "in_reply_to_screen_name": "upfrontconf",
+   "urls": []
+  },
+  {
+   "id": 963708915451138000,
+   "id_str": "963708915451138048",
+   "created_at": "Wed Feb 14 09:38:04 +0000 2018",
+   "text": "@hereinthehive @upfrontconf \"Local\" to Manchester? (so I've got context for RT)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963708357700915200,
+   "in_reply_to_screen_name": "hereinthehive",
+   "urls": []
+  },
+  {
+   "id": 963708647665741800,
+   "id_str": "963708647665741825",
+   "created_at": "Wed Feb 14 09:37:01 +0000 2018",
+   "text": "@iamdavidobrien Does my course mention https://t.co/5cMPqsuFy9 specifically? (good tip - I might actually send out… https://t.co/yTagg5AFc6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963541825603678200,
+   "in_reply_to_screen_name": "iamdavidobrien",
+   "urls": [
+    {
+     "url": "https://t.co/5cMPqsuFy9",
+     "expand": "http://homebrew.sh"
+    },
+    {
+     "url": "https://t.co/yTagg5AFc6",
+     "expand": "https://twitter.com/i/web/status/963708647665741825"
+    }
+   ]
+  },
+  {
+   "id": 963707909073928200,
+   "id_str": "963707909073928192",
+   "created_at": "Wed Feb 14 09:34:05 +0000 2018",
+   "text": "RT @jaffathecake: New HTTP203! Both Firefox and Chrome now support:\n\nnew EventTarget();\n\nand:\n\nclass Whatever extends EventTarget {}\n\n🎥 @Da…",
    "retweet_count": 30,
    "favorite_count": 0,
    "place": null,
@@ -13,19 +217,207 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 962348636360335400,
-    "id_str": "962348636360335360",
-    "created_at": "Sat Feb 10 15:32:49 +0000 2018",
-    "text": "Last night I decided last minute that I would flash sale the hell out of my terminal training course. You can get t… https://t.co/Vq6KtmLF50",
+    "id": 963707811493490700,
+    "id_str": "963707811493490689",
+    "created_at": "Wed Feb 14 09:33:41 +0000 2018",
+    "text": "New HTTP203! Both Firefox and Chrome now support:\n\nnew EventTarget();\n\nand:\n\nclass Whatever extends EventTarget {}… https://t.co/qTY5PXxl9t",
     "retweet_count": 30,
-    "favorite_count": 33,
+    "favorite_count": 89,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/Vq6KtmLF50",
-      "expand": "https://twitter.com/i/web/status/962348636360335360"
+      "url": "https://t.co/qTY5PXxl9t",
+      "expand": "https://twitter.com/i/web/status/963707811493490689"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963360697764732900,
+   "id_str": "963360697764732929",
+   "created_at": "Tue Feb 13 10:34:23 +0000 2018",
+   "text": "RT @paciellogroup: Planning a pattern library? Cupper (nee Infusion) is our inclusive documentation builder that also outputs as progressiv…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963081732005212200,
+    "id_str": "963081732005212160",
+    "created_at": "Mon Feb 12 16:05:52 +0000 2018",
+    "text": "Planning a pattern library? Cupper (nee Infusion) is our inclusive documentation builder that also outputs as progr… https://t.co/jciiBg65sQ",
+    "retweet_count": 16,
+    "favorite_count": 31,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jciiBg65sQ",
+      "expand": "https://twitter.com/i/web/status/963081732005212160"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963134624644952000,
+   "id_str": "963134624644952065",
+   "created_at": "Mon Feb 12 19:36:03 +0000 2018",
+   "text": "8 hours left for the $19 version of https://t.co/1VR0uvXlAo then the window closes (and I have to push new code to… https://t.co/8xPRPhx98q",
+   "retweet_count": 5,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1VR0uvXlAo",
+     "expand": "https://terminal.training?utm_source=twitter&utm_medium=banner&utm_campaign=flash-sale"
+    },
+    {
+     "url": "https://t.co/8xPRPhx98q",
+     "expand": "https://twitter.com/i/web/status/963134624644952065"
+    }
+   ]
+  },
+  {
+   "id": 963123541804830700,
+   "id_str": "963123541804830721",
+   "created_at": "Mon Feb 12 18:52:00 +0000 2018",
+   "text": "@PhoenixHawk No - you can't enter the billing - but you can see that. You can print/download/what have you - the in… https://t.co/XOki4uUKrL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963098810472857600,
+   "in_reply_to_screen_name": "PhoenixHawk",
+   "urls": [
+    {
+     "url": "https://t.co/XOki4uUKrL",
+     "expand": "https://twitter.com/i/web/status/963123541804830721"
+    }
+   ]
+  },
+  {
+   "id": 963082250840571900,
+   "id_str": "963082250840571908",
+   "created_at": "Mon Feb 12 16:07:56 +0000 2018",
+   "text": "RT @jeremybowers: Modern computing is faster, more secure, and\n\n*presses finger to ear*\n\nWait, I’m hearing that if you name your thumb driv…",
+   "retweet_count": 893,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962877988760059900,
+    "id_str": "962877988760059905",
+    "created_at": "Mon Feb 12 02:36:16 +0000 2018",
+    "text": "Modern computing is faster, more secure, and\n\n*presses finger to ear*\n\nWait, I’m hearing that if you name your thum… https://t.co/CnuFRre1ZX",
+    "retweet_count": 893,
+    "favorite_count": 1333,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CnuFRre1ZX",
+      "expand": "https://twitter.com/i/web/status/962877988760059905"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963023749191749600,
+   "id_str": "963023749191749632",
+   "created_at": "Mon Feb 12 12:15:28 +0000 2018",
+   "text": "RT @theophani: ‘A video training course to cure you of any fear of the terminal. For designers, new developers, UX, UI, product owners and…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962682036736675800,
+    "id_str": "962682036736675841",
+    "created_at": "Sun Feb 11 13:37:37 +0000 2018",
+    "text": "‘A video training course to cure you of any fear of the terminal. For designers, new developers, UX, UI, product ow… https://t.co/yU9qzOT4ql",
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yU9qzOT4ql",
+      "expand": "https://twitter.com/i/web/status/962682036736675841"
+     }
+    ]
+   }
+  },
+  {
+   "id": 962996714004275200,
+   "id_str": "962996714004275200",
+   "created_at": "Mon Feb 12 10:28:02 +0000 2018",
+   "text": "RT @juanfernandes: Just bought @rem's terminal training course for $19 - an exclusive weekend flash sale - grab yours while you can: https:…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962749581619613700,
+    "id_str": "962749581619613706",
+    "created_at": "Sun Feb 11 18:06:01 +0000 2018",
+    "text": "Just bought @rem's terminal training course for $19 - an exclusive weekend flash sale - grab yours while you can: https://t.co/62zsf4gTtZ",
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/62zsf4gTtZ",
+      "expand": "https://terminal.training?utm_source=flash-buyers&utm_medium=twitter&utm_campaign=flash-sale-followup"
+     }
+    ]
+   }
+  },
+  {
+   "id": 962996566389940200,
+   "id_str": "962996566389940225",
+   "created_at": "Mon Feb 12 10:27:27 +0000 2018",
+   "text": "RT @rem: My super discounted command line course ends tonight, you can still get it at $19 (down from $99) 👉 https://t.co/5hp2qsdOpv",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5hp2qsdOpv",
+     "expand": "https://terminal.training?utm_source=twitter&utm_medium=banner&utm_campaign=flash-sale-sun-late"
+    }
+   ],
+   "retweeted_status": {
+    "id": 962751227057537000,
+    "id_str": "962751227057537026",
+    "created_at": "Sun Feb 11 18:12:34 +0000 2018",
+    "text": "My super discounted command line course ends tonight, you can still get it at $19 (down from $99) 👉 https://t.co/5hp2qsdOpv",
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5hp2qsdOpv",
+      "expand": "https://terminal.training?utm_source=twitter&utm_medium=banner&utm_campaign=flash-sale-sun-late"
      }
     ]
    }

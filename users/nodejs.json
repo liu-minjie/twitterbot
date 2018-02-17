@@ -1,22 +1,622 @@
 {
- "time": 1518414855598,
+ "time": 1518873201778,
  "lists": [
   {
-   "id": 962106843014291500,
-   "id_str": "962106843014291458",
-   "created_at": "Fri Feb 09 23:32:01 +0000 2018",
-   "text": "Using Node.js, @chrisjohnsoct created an easier way to make a shopping list 📝that makes grocery shopping easier to… https://t.co/rTajM9dbRW",
-   "retweet_count": 21,
-   "favorite_count": 73,
+   "id": 964638020711436300,
+   "id_str": "964638020711436289",
+   "created_at": "Fri Feb 16 23:10:00 +0000 2018",
+   "text": ".@Indexconf is an open, developer community event happening in SF from Feb. 20 - 22 🌉\n\nWe are hosting a community d… https://t.co/QVxxAmPKV7",
+   "retweet_count": 11,
+   "favorite_count": 22,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/rTajM9dbRW",
-     "expand": "https://twitter.com/i/web/status/962106843014291458"
+     "url": "https://t.co/QVxxAmPKV7",
+     "expand": "https://twitter.com/i/web/status/964638020711436289"
     }
    ]
+  },
+  {
+   "id": 964636826760749000,
+   "id_str": "964636826760749056",
+   "created_at": "Fri Feb 16 23:05:16 +0000 2018",
+   "text": "RT @the_jsf: Woot! Super saver tickets are all sold out for #JSInteractive. Still plenty of time to get early 🐤 pricing https://t.co/ARdF0A…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964636512376754200,
+    "id_str": "964636512376754176",
+    "created_at": "Fri Feb 16 23:04:01 +0000 2018",
+    "text": "Woot! Super saver tickets are all sold out for #JSInteractive. Still plenty of time to get early 🐤 pricing https://t.co/ARdF0Adm64",
+    "retweet_count": 7,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ARdF0Adm64",
+      "expand": "https://events.linuxfoundation.org/events/js-interactive-2018/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964611250897514500,
+   "id_str": "964611250897514497",
+   "created_at": "Fri Feb 16 21:23:38 +0000 2018",
+   "text": "Welcome! 🎉🎉🎉 https://t.co/hROmziCXX4",
+   "retweet_count": 6,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hROmziCXX4",
+     "expand": "https://twitter.com/mhdawson1/status/964607157692915712"
+    }
+   ]
+  },
+  {
+   "id": 964596496959189000,
+   "id_str": "964596496959188992",
+   "created_at": "Fri Feb 16 20:25:00 +0000 2018",
+   "text": "Come join us in October for #JSInteractive 📅 The event is a great opportunity for you to learn best practices and t… https://t.co/PlUwNNljbx",
+   "retweet_count": 23,
+   "favorite_count": 42,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PlUwNNljbx",
+     "expand": "https://twitter.com/i/web/status/964596496959188992"
+    }
+   ]
+  },
+  {
+   "id": 964538118991958000,
+   "id_str": "964538118991958016",
+   "created_at": "Fri Feb 16 16:33:02 +0000 2018",
+   "text": "PSA: #nodejs 10.0.0 will contain first class support for fully promisified fs functions. More info here: https://t.co/fRtywm0JNv",
+   "retweet_count": 105,
+   "favorite_count": 148,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fRtywm0JNv",
+     "expand": "https://github.com/nodejs/node/pull/18297"
+    }
+   ]
+  },
+  {
+   "id": 964509428883042300,
+   "id_str": "964509428883042304",
+   "created_at": "Fri Feb 16 14:39:02 +0000 2018",
+   "text": "What is happening with the effort to internationalize #nodejs? @obensource provides an update on where we are at an… https://t.co/2HatpGAP1Y",
+   "retweet_count": 14,
+   "favorite_count": 30,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2HatpGAP1Y",
+     "expand": "https://twitter.com/i/web/status/964509428883042304"
+    }
+   ]
+  },
+  {
+   "id": 964267076859854800,
+   "id_str": "964267076859854848",
+   "created_at": "Thu Feb 15 22:36:00 +0000 2018",
+   "text": "We’ll be having a special community meeting at #IndexConf (SF). Learn more here https://t.co/pxK426aQh3 and mark your calendars 📅",
+   "retweet_count": 10,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pxK426aQh3",
+     "expand": "https://developer.ibm.com/indexconf/communities/"
+    }
+   ]
+  },
+  {
+   "id": 964244209451626500,
+   "id_str": "964244209451626497",
+   "created_at": "Thu Feb 15 21:05:08 +0000 2018",
+   "text": "RT @bitandbang: A truly immense amount of work goes into the @nodejs project. This month alone, there are 23 one-hour *public* meetings, li…",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964239545771479000,
+    "id_str": "964239545771479045",
+    "created_at": "Thu Feb 15 20:46:37 +0000 2018",
+    "text": "A truly immense amount of work goes into the @nodejs project. This month alone, there are 23 one-hour *public* meet… https://t.co/p2gv1Drrf2",
+    "retweet_count": 31,
+    "favorite_count": 74,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/p2gv1Drrf2",
+      "expand": "https://twitter.com/i/web/status/964239545771479045"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964230354927325200,
+   "id_str": "964230354927325186",
+   "created_at": "Thu Feb 15 20:10:05 +0000 2018",
+   "text": ".@Indexconf is an open, developer community event happening in SF from Feb. 20 - 22 🌉\n\nWe are hosting a community d… https://t.co/5v6GtZiKZl",
+   "retweet_count": 20,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5v6GtZiKZl",
+     "expand": "https://twitter.com/i/web/status/964230354927325186"
+    }
+   ]
+  },
+  {
+   "id": 964182819072290800,
+   "id_str": "964182819072290816",
+   "created_at": "Thu Feb 15 17:01:12 +0000 2018",
+   "text": "In this blog post, @Daajust demystifies words like Buffer, Stream and binary data in Node.js ✨: https://t.co/fgUZLqWlFJ",
+   "retweet_count": 28,
+   "favorite_count": 85,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fgUZLqWlFJ",
+     "expand": "https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8"
+    }
+   ]
+  },
+  {
+   "id": 964145056469962800,
+   "id_str": "964145056469962752",
+   "created_at": "Thu Feb 15 14:31:09 +0000 2018",
+   "text": "RT @OpenAtWE: 📢 New announcement! \n\nMicrosoft for Startups provides startups with up to $120,000 in free Azure credits, enterprise grade te…",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964066877323579400,
+    "id_str": "964066877323579392",
+    "created_at": "Thu Feb 15 09:20:29 +0000 2018",
+    "text": "📢 New announcement! \n\nMicrosoft for Startups provides startups with up to $120,000 in free Azure credits, enterpris… https://t.co/GLsLZLy14O",
+    "retweet_count": 30,
+    "favorite_count": 45,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GLsLZLy14O",
+      "expand": "https://twitter.com/i/web/status/964066877323579392"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964137501664383000,
+   "id_str": "964137501664382976",
+   "created_at": "Thu Feb 15 14:01:07 +0000 2018",
+   "text": "Want a crash course on Serverless with #nodejs? Thanks @adnanrahic for providing it: https://t.co/l3NBwMhHZR",
+   "retweet_count": 58,
+   "favorite_count": 117,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/l3NBwMhHZR",
+     "expand": "https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44"
+    }
+   ]
+  },
+  {
+   "id": 963867141421322200,
+   "id_str": "963867141421322241",
+   "created_at": "Wed Feb 14 20:06:48 +0000 2018",
+   "text": "RT @azatmardan: Stop using odd Node versions in production\n\nNode Versions: LTS vs. No LTS\n\nhttps://t.co/nwtqhzdrdo\n\n#100DaysOfCode \n@nodejs…",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nwtqhzdrdo",
+     "expand": "http://bit.ly/2ERb64p"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963803526735556600,
+    "id_str": "963803526735556609",
+    "created_at": "Wed Feb 14 15:54:02 +0000 2018",
+    "text": "Stop using odd Node versions in production\n\nNode Versions: LTS vs. No LTS\n\nhttps://t.co/nwtqhzdrdo\n\n#100DaysOfCode… https://t.co/tbeEEZkG3p",
+    "retweet_count": 25,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nwtqhzdrdo",
+      "expand": "http://bit.ly/2ERb64p"
+     },
+     {
+      "url": "https://t.co/tbeEEZkG3p",
+      "expand": "https://twitter.com/i/web/status/963803526735556609"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963860654808535000,
+   "id_str": "963860654808535040",
+   "created_at": "Wed Feb 14 19:41:02 +0000 2018",
+   "text": "✨The #nodejs community committee is tasked with everything outward facing and related to the work that needs to be… https://t.co/A7judZX1Tc",
+   "retweet_count": 18,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/A7judZX1Tc",
+     "expand": "https://twitter.com/i/web/status/963860654808535040"
+    }
+   ]
+  },
+  {
+   "id": 963820533841383400,
+   "id_str": "963820533841383427",
+   "created_at": "Wed Feb 14 17:01:36 +0000 2018",
+   "text": ".@AvnerSo explains how he cut his #AWS bill by 90% going to serverless in this post https://t.co/JD2akTe6k2 cc: @freeCodeCamp",
+   "retweet_count": 27,
+   "favorite_count": 69,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JD2akTe6k2",
+     "expand": "https://medium.freecodecamp.org/how-i-cut-my-aws-bill-by-90-35c937596f0c"
+    }
+   ]
+  },
+  {
+   "id": 963774945414303700,
+   "id_str": "963774945414303744",
+   "created_at": "Wed Feb 14 14:00:27 +0000 2018",
+   "text": "We interviewed Uttam Pawar from @Intel for our How I Got Into #Node series. Check it out here: https://t.co/84ZvNDkAEr",
+   "retweet_count": 8,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/84ZvNDkAEr",
+     "expand": "https://medium.com/@nodejs/how-i-got-into-node-uttam-pawar-4c62d3840a78"
+    }
+   ]
+  },
+  {
+   "id": 963548358773235700,
+   "id_str": "963548358773235712",
+   "created_at": "Tue Feb 13 23:00:05 +0000 2018",
+   "text": "✨@CondeNastTech was in search of a means to unify its iconic brands on a single platform and create heightened cust… https://t.co/qmDElGD0vK",
+   "retweet_count": 19,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qmDElGD0vK",
+     "expand": "https://twitter.com/i/web/status/963548358773235712"
+    }
+   ]
+  },
+  {
+   "id": 963509945655332900,
+   "id_str": "963509945655332868",
+   "created_at": "Tue Feb 13 20:27:26 +0000 2018",
+   "text": "RT @MylesBorins: 🎉🎉🎉🎉\n\nHappy @nodejs v6.x LTS Semver-Minor Day\n\nBackported APIs include:\n* console.count and console.clear\n* cypto.randomFi…",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963497288122490900,
+    "id_str": "963497288122490881",
+    "created_at": "Tue Feb 13 19:37:09 +0000 2018",
+    "text": "🎉🎉🎉🎉\n\nHappy @nodejs v6.x LTS Semver-Minor Day\n\nBackported APIs include:\n* console.count and console.clear\n* cypto.r… https://t.co/451rWq3Kic",
+    "retweet_count": 30,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/451rWq3Kic",
+      "expand": "https://twitter.com/i/web/status/963497288122490881"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963466055443206100,
+   "id_str": "963466055443206145",
+   "created_at": "Tue Feb 13 17:33:02 +0000 2018",
+   "text": "Thank you to the team @gaviti_biz for sharing the app you made with #nodejs: Gaviti. Gaviti helps businesses get pa… https://t.co/omSHg5Dq2n",
+   "retweet_count": 20,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/omSHg5Dq2n",
+     "expand": "https://twitter.com/i/web/status/963466055443206145"
+    }
+   ]
+  },
+  {
+   "id": 963458239735255000,
+   "id_str": "963458239735255040",
+   "created_at": "Tue Feb 13 17:01:59 +0000 2018",
+   "text": "RT @dshaw: 🌈🦄 Always Forward with dshaw: Node.js and the Web Platform\nWith @dshaw @jasnell @jorydotcom @tzmanics LIVE in 1 hour.\nhttps://t.…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963458107341967400,
+    "id_str": "963458107341967360",
+    "created_at": "Tue Feb 13 17:01:27 +0000 2018",
+    "text": "🌈🦄 Always Forward with dshaw: Node.js and the Web Platform\nWith @dshaw @jasnell @jorydotcom @tzmanics LIVE in 1 hou… https://t.co/t2IXiBN0bq",
+    "retweet_count": 17,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/t2IXiBN0bq",
+      "expand": "https://twitter.com/i/web/status/963458107341967360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963447915653029900,
+   "id_str": "963447915653029888",
+   "created_at": "Tue Feb 13 16:20:57 +0000 2018",
+   "text": "RT @indexconf: Open collaboration is heightened when many different perspectives are included.\nRegister for Index, join the community day,…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962972589097476100,
+    "id_str": "962972589097476096",
+    "created_at": "Mon Feb 12 08:52:11 +0000 2018",
+    "text": "Open collaboration is heightened when many different perspectives are included.\nRegister for Index, join the commun… https://t.co/638cUqdMWo",
+    "retweet_count": 19,
+    "favorite_count": 26,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/638cUqdMWo",
+      "expand": "https://twitter.com/i/web/status/962972589097476096"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963418990931599400,
+   "id_str": "963418990931599362",
+   "created_at": "Tue Feb 13 14:26:01 +0000 2018",
+   "text": "RT @mhdawson1: Dedication. 24 people heading to Ottawa in the middle of winter to talk #nodejs Diagnostics. If you could not make but are i…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963240283130359800,
+    "id_str": "963240283130359809",
+    "created_at": "Tue Feb 13 02:35:54 +0000 2018",
+    "text": "Dedication. 24 people heading to Ottawa in the middle of winter to talk #nodejs Diagnostics. If you could not make… https://t.co/PUVEPbzC0A",
+    "retweet_count": 22,
+    "favorite_count": 31,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PUVEPbzC0A",
+      "expand": "https://twitter.com/i/web/status/963240283130359809"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963418942072086500,
+   "id_str": "963418942072086528",
+   "created_at": "Tue Feb 13 14:25:49 +0000 2018",
+   "text": "RT @bmeurer: 🔥 Some awesome GC + Promise + async/await performance improvements coming your way for @NodeJS 10 (via @v8js). Also note that…",
+   "retweet_count": 69,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963348735219720200,
+    "id_str": "963348735219720192",
+    "created_at": "Tue Feb 13 09:46:51 +0000 2018",
+    "text": "🔥 Some awesome GC + Promise + async/await performance improvements coming your way for @NodeJS 10 (via @v8js). Also… https://t.co/LvWYjSt5jp",
+    "retweet_count": 69,
+    "favorite_count": 182,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LvWYjSt5jp",
+      "expand": "https://twitter.com/i/web/status/963348735219720192"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963403641293103100,
+   "id_str": "963403641293103104",
+   "created_at": "Tue Feb 13 13:25:01 +0000 2018",
+   "text": "Come join us in October for #JSInteractive 📅 The event is a great opportunity for you to learn best practices and t… https://t.co/Gigr1kWuk2",
+   "retweet_count": 25,
+   "favorite_count": 49,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Gigr1kWuk2",
+     "expand": "https://twitter.com/i/web/status/963403641293103104"
+    }
+   ]
+  },
+  {
+   "id": 963182542546505700,
+   "id_str": "963182542546505728",
+   "created_at": "Mon Feb 12 22:46:27 +0000 2018",
+   "text": "Welcome!!! 🎉 https://t.co/LUA20ZelLw",
+   "retweet_count": 9,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LUA20ZelLw",
+     "expand": "https://twitter.com/trott/status/963128279388442624"
+    }
+   ]
+  },
+  {
+   "id": 963176392128192500,
+   "id_str": "963176392128192512",
+   "created_at": "Mon Feb 12 22:22:01 +0000 2018",
+   "text": "Come join us for a community day @Indexconf. Please use code CD1NODEJS  to register for the community day (it's fre… https://t.co/qG0rcmuBfT",
+   "retweet_count": 12,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qG0rcmuBfT",
+     "expand": "https://twitter.com/i/web/status/963176392128192512"
+    }
+   ]
+  },
+  {
+   "id": 963105495870591000,
+   "id_str": "963105495870590976",
+   "created_at": "Mon Feb 12 17:40:18 +0000 2018",
+   "text": "*End-of-Life not End-of-Live 🙃",
+   "retweet_count": 7,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": 963058614226374700,
+   "in_reply_to_screen_name": "nodejs",
+   "urls": []
+  },
+  {
+   "id": 963058614226374700,
+   "id_str": "963058614226374656",
+   "created_at": "Mon Feb 12 14:34:01 +0000 2018",
+   "text": "PSA: #nodejs 4.x goes End-of-Live in three months (end of April). If you haven’t migrated yet, we recommend you sta… https://t.co/OBluJ2LuQp",
+   "retweet_count": 120,
+   "favorite_count": 146,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OBluJ2LuQp",
+     "expand": "https://twitter.com/i/web/status/963058614226374656"
+    }
+   ]
+  },
+  {
+   "id": 963053008765538300,
+   "id_str": "963053008765538305",
+   "created_at": "Mon Feb 12 14:11:44 +0000 2018",
+   "text": "Welcome!!! 🎉🎉🎉 https://t.co/ocaxILDJCi",
+   "retweet_count": 9,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ocaxILDJCi",
+     "expand": "https://twitter.com/trott/status/962103451835539456"
+    }
+   ]
+  },
+  {
+   "id": 963052640589447200,
+   "id_str": "963052640589447170",
+   "created_at": "Mon Feb 12 14:10:16 +0000 2018",
+   "text": "@emmiibrown @tnxcollege What support are you needing? Please DM and we can see how best we can help you here.",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 962443897287962600,
+   "in_reply_to_screen_name": "emmiibrown",
+   "urls": []
   }
  ]
 }

@@ -1,17 +1,58 @@
 {
- "time": 1518413807123,
+ "time": 1518873099283,
  "lists": [
   {
-   "id": 962802559386730500,
-   "id_str": "962802559386730496",
-   "created_at": "Sun Feb 11 21:36:32 +0000 2018",
-   "text": "@ibc_tw @swainrob How parameters are passed seems orthogonal to the capabilities of the API.",
-   "retweet_count": 0,
-   "favorite_count": 1,
+   "id": 964644317548617700,
+   "id_str": "964644317548617728",
+   "created_at": "Fri Feb 16 23:35:02 +0000 2018",
+   "text": "RT @WorldAndScience: Stimulation of what you would see if you were pulled into a Black Hole. https://t.co/wbqbxFDxob",
+   "retweet_count": 4172,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 962802309422989300,
-   "in_reply_to_screen_name": "juberti",
-   "urls": []
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964587472113029100,
+    "id_str": "964587472113029120",
+    "created_at": "Fri Feb 16 19:49:09 +0000 2018",
+    "text": "Stimulation of what you would see if you were pulled into a Black Hole. https://t.co/wbqbxFDxob",
+    "retweet_count": 4172,
+    "favorite_count": 14016,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964023717729742800,
+   "id_str": "964023717729742848",
+   "created_at": "Thu Feb 15 06:28:59 +0000 2018",
+   "text": "RT @MeredithFrost: This kid shattering the top of a frozen trampoline with one perfect jump may be the most satisfying thing you'll see all…",
+   "retweet_count": 28066,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963776176966832100,
+    "id_str": "963776176966832128",
+    "created_at": "Wed Feb 14 14:05:21 +0000 2018",
+    "text": "This kid shattering the top of a frozen trampoline with one perfect jump may be the most satisfying thing you'll se… https://t.co/d9bc6NXFFg",
+    "retweet_count": 28066,
+    "favorite_count": 70902,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/d9bc6NXFFg",
+      "expand": "https://twitter.com/i/web/status/963776176966832128"
+     }
+    ]
+   }
   }
  ]
 }

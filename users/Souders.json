@@ -1,12 +1,70 @@
 {
- "time": 1518413972206,
+ "time": 1518873100869,
  "lists": [
+  {
+   "id": 963847247258529800,
+   "id_str": "963847247258529792",
+   "created_at": "Wed Feb 14 18:47:45 +0000 2018",
+   "text": "RT @tkadlec: Wrote some thoughts about AMP, this time about their new stories format and what I consider a disingenuous claim to be \"for th…",
+   "retweet_count": 43,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963809784658120700,
+    "id_str": "963809784658120704",
+    "created_at": "Wed Feb 14 16:18:54 +0000 2018",
+    "text": "Wrote some thoughts about AMP, this time about their new stories format and what I consider a disingenuous claim to… https://t.co/fqiuZ2N0Tg",
+    "retweet_count": 43,
+    "favorite_count": 86,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fqiuZ2N0Tg",
+      "expand": "https://twitter.com/i/web/status/963809784658120704"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963801786665517000,
+   "id_str": "963801786665517057",
+   "created_at": "Wed Feb 14 15:47:07 +0000 2018",
+   "text": "RT @oliverlindberg: If you need to convince your clients why performance matters, @aemcknig’s article in this (free) guide is essential rea…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962008188202639400,
+    "id_str": "962008188202639362",
+    "created_at": "Fri Feb 09 16:59:59 +0000 2018",
+    "text": "If you need to convince your clients why performance matters, @aemcknig’s article in this (free) guide is essential… https://t.co/gyT1cQhPuY",
+    "retweet_count": 18,
+    "favorite_count": 63,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gyT1cQhPuY",
+      "expand": "https://twitter.com/i/web/status/962008188202639362"
+     }
+    ]
+   }
+  },
   {
    "id": 962431062591782900,
    "id_str": "962431062591782913",
    "created_at": "Sat Feb 10 21:00:21 +0000 2018",
    "text": "RT @patmeenan: Video for my #SmashingConf talk on measuring performance is now up: https://t.co/ofAjnZlZfJ",
-   "retweet_count": 5,
+   "retweet_count": 8,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -22,8 +80,8 @@
     "id_str": "962302986302173185",
     "created_at": "Sat Feb 10 12:31:25 +0000 2018",
     "text": "Video for my #SmashingConf talk on measuring performance is now up: https://t.co/ofAjnZlZfJ",
-    "retweet_count": 5,
-    "favorite_count": 21,
+    "retweet_count": 8,
+    "favorite_count": 26,
     "place": null,
     "in_reply_to_status_id": 961281321275396100,
     "in_reply_to_screen_name": "patmeenan",

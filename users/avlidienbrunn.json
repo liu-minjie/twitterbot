@@ -1,6 +1,40 @@
 {
- "time": 1518415237719,
+ "time": 1518873210863,
  "lists": [
+  {
+   "id": 963321015320367100,
+   "id_str": "963321015320367104",
+   "created_at": "Tue Feb 13 07:56:42 +0000 2018",
+   "text": "RT @kinugawamasato: ついにAppCacheがSecure Contextのみに。\nhttps://t.co/BX6Zyd8kFZ",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BX6Zyd8kFZ",
+     "expand": "https://blog.mozilla.org/security/2018/02/12/restricting-appcache-secure-contexts/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963222895018229800,
+    "id_str": "963222895018229760",
+    "created_at": "Tue Feb 13 01:26:48 +0000 2018",
+    "text": "ついにAppCacheがSecure Contextのみに。\nhttps://t.co/BX6Zyd8kFZ",
+    "retweet_count": 6,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/BX6Zyd8kFZ",
+      "expand": "https://blog.mozilla.org/security/2018/02/12/restricting-appcache-secure-contexts/"
+     }
+    ]
+   }
+  },
   {
    "id": 951802115743207400,
    "id_str": "951802115743207424",

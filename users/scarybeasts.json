@@ -1,17 +1,73 @@
 {
- "time": 1518415307368,
+ "time": 1518873213141,
  "lists": [
   {
-   "id": 962779382761717800,
-   "id_str": "962779382761717760",
-   "created_at": "Sun Feb 11 20:04:27 +0000 2018",
-   "text": "@__apf__ @googlechrome To be honest, I was really hoping for a summary of the best conspiracy theories.",
-   "retweet_count": 1,
-   "favorite_count": 114,
+   "id": 964664885467521000,
+   "id_str": "964664885467521024",
+   "created_at": "Sat Feb 17 00:56:45 +0000 2018",
+   "text": "@dwizzzleMSFT @parityzero @argvee @thinkpanzer This also pisses off @frgx :) It seems counter to Google's pro-secur… https://t.co/eYlysiyrcL",
+   "retweet_count": 0,
+   "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 962768024246698000,
-   "in_reply_to_screen_name": "__apf__",
-   "urls": []
+   "in_reply_to_status_id": 964663773519790100,
+   "in_reply_to_screen_name": "dwizzzleMSFT",
+   "urls": [
+    {
+     "url": "https://t.co/eYlysiyrcL",
+     "expand": "https://twitter.com/i/web/status/964664885467521024"
+    }
+   ]
+  },
+  {
+   "id": 964220029439889400,
+   "id_str": "964220029439889408",
+   "created_at": "Thu Feb 15 19:29:04 +0000 2018",
+   "text": "RT @ifsecure: Another ACG bypass, this time without needing to compromise the entire JIT process https://t.co/6rOOrsaFIc",
+   "retweet_count": 38,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6rOOrsaFIc",
+     "expand": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1435"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964188650216009700,
+    "id_str": "964188650216009728",
+    "created_at": "Thu Feb 15 17:24:22 +0000 2018",
+    "text": "Another ACG bypass, this time without needing to compromise the entire JIT process https://t.co/6rOOrsaFIc",
+    "retweet_count": 38,
+    "favorite_count": 62,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6rOOrsaFIc",
+      "expand": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1435"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963683794401353700,
+   "id_str": "963683794401353729",
+   "created_at": "Wed Feb 14 07:58:15 +0000 2018",
+   "text": "Dropbox will be publishing a lot more about security initiatives and technology in 2018. Some interesting posts in… https://t.co/L6Mdt9fHZN",
+   "retweet_count": 22,
+   "favorite_count": 95,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/L6Mdt9fHZN",
+     "expand": "https://twitter.com/i/web/status/963683794401353729"
+    }
+   ]
   }
  ]
 }
