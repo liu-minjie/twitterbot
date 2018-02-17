@@ -1,20 +1,61 @@
 {
- "time": 1518413360351,
+ "time": 1518869609172,
  "lists": [
   {
-   "id": 962110520542351400,
-   "id_str": "962110520542351361",
-   "created_at": "Fri Feb 09 23:46:37 +0000 2018",
-   "text": "Collect PostgreSQL Metrics with Percona Monitoring and Management (PMM) https://t.co/aUdPbVhPqS",
+   "id": 964664035391168500,
+   "id_str": "964664035391168512",
+   "created_at": "Sat Feb 17 00:53:23 +0000 2018",
+   "text": "Why ZFS Affects MySQL Performance https://t.co/NmP5JilbI8",
    "retweet_count": 4,
-   "favorite_count": 12,
+   "favorite_count": 9,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/aUdPbVhPqS",
-     "expand": "https://lnkd.in/e8AhSDw"
+     "url": "https://t.co/NmP5JilbI8",
+     "expand": "https://lnkd.in/gtxScWU"
+    }
+   ]
+  },
+  {
+   "id": 964303774146740200,
+   "id_str": "964303774146740225",
+   "created_at": "Fri Feb 16 01:01:50 +0000 2018",
+   "text": "@markcallaghan @MongoDBEng Columns, Schemas and SQL access are next?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964153735306866700,
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": []
+  },
+  {
+   "id": 963880763069313000,
+   "id_str": "963880763069313024",
+   "created_at": "Wed Feb 14 21:00:56 +0000 2018",
+   "text": "@brendangregg @purpleidea DTrace is much more user friendly... eBPF is scary requiring low-level programming",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963823332532535300,
+   "in_reply_to_screen_name": "brendangregg",
+   "urls": []
+  },
+  {
+   "id": 963161679885353000,
+   "id_str": "963161679885352960",
+   "created_at": "Mon Feb 12 21:23:33 +0000 2018",
+   "text": "Aggregate MySQL data at high speed with ClickHouse https://t.co/1rdVl6pb3N",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1rdVl6pb3N",
+     "expand": "https://lnkd.in/ga7Ydz7"
     }
    ]
   }

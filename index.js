@@ -149,8 +149,8 @@ tool.getStatusesUserTimelineWrap = getStatusesUserTimelineWrap;
 function autoTimeline (tag, flag) {
 	const done = require('./done.json');
 	const last = flag ? '' : done.last;
-	 const users = require('./stat/getListsMembers_balbosub.json').list[tag];
-	//const users = require('./stat/getFriendsList_balbosub.json').list;
+	//const users = require('./stat/getListsMembers_balbosub.json').list[tag];
+	const users = require('./stat/getFriendsList_balbosub.json').list;
 	let index = 0;
 	last && users.some((item) => {
 		index++;

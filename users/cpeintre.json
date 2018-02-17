@@ -1,11 +1,45 @@
 {
- "time": 1518413373892,
+ "time": 1518869608308,
  "lists": [
   {
-   "id": 961208001200877600,
-   "id_str": "961208001200877568",
-   "created_at": "Wed Feb 07 12:00:20 +0000 2018",
-   "text": "Intersting point of view about #PaaS\nhttps://t.co/dtOEWRyEEO",
+   "id": 964605513160974300,
+   "id_str": "964605513160974337",
+   "created_at": "Fri Feb 16 21:00:50 +0000 2018",
+   "text": "#MySQL 5.7 Multi-threads replication operation tips https://t.co/bYhKnX29aB",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bYhKnX29aB",
+     "expand": "https://buff.ly/2obCTot"
+    }
+   ]
+  },
+  {
+   "id": 964560330432053200,
+   "id_str": "964560330432053249",
+   "created_at": "Fri Feb 16 18:01:18 +0000 2018",
+   "text": "Jean-Jerome Schmidt: How to Benchmark #PostgreSQL Performance https://t.co/V5cFRwHIKz",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/V5cFRwHIKz",
+     "expand": "https://buff.ly/2EO3mm2"
+    }
+   ]
+  },
+  {
+   "id": 963669243924549600,
+   "id_str": "963669243924549632",
+   "created_at": "Wed Feb 14 07:00:26 +0000 2018",
+   "text": "Peter Zaitsev: Does Percona Monitoring and Management (PMM) Support External Monitoring Services? Yes It Does!… https://t.co/Dng0Mjync5",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
@@ -13,8 +47,59 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/dtOEWRyEEO",
-     "expand": "https://buff.ly/2BJmxwd"
+     "url": "https://t.co/Dng0Mjync5",
+     "expand": "https://twitter.com/i/web/status/963669243924549632"
+    }
+   ]
+  },
+  {
+   "id": 963518328378622000,
+   "id_str": "963518328378621954",
+   "created_at": "Tue Feb 13 21:00:45 +0000 2018",
+   "text": "MyISAM and KPTI – Performance Implications From The #Meltdown Fix #MySQL https://t.co/y6PvmHjTQr",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/y6PvmHjTQr",
+     "expand": "https://buff.ly/2He6WEG"
+    }
+   ]
+  },
+  {
+   "id": 963473080466198500,
+   "id_str": "963473080466198528",
+   "created_at": "Tue Feb 13 18:00:57 +0000 2018",
+   "text": "Hans-Juergen Schoenig: Detecting performance problems easily in #PostgreSQL https://t.co/PMc0rAw5VH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PMc0rAw5VH",
+     "expand": "https://buff.ly/2EZlnM0"
+    }
+   ]
+  },
+  {
+   "id": 962944366498271200,
+   "id_str": "962944366498271235",
+   "created_at": "Mon Feb 12 07:00:02 +0000 2018",
+   "text": "Peter Zaitsev: Collect #PostgreSQL Metrics with Percona Monitoring and Management (PMM) https://t.co/ITaiy7Fx19",
+   "retweet_count": 5,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ITaiy7Fx19",
+     "expand": "https://buff.ly/2EhNGnO"
     }
    ]
   }

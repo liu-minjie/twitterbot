@@ -1,22 +1,101 @@
 {
- "time": 1518413605343,
+ "time": 1518869615804,
  "lists": [
   {
-   "id": 962782419383398400,
-   "id_str": "962782419383398400",
-   "created_at": "Sun Feb 11 20:16:31 +0000 2018",
-   "text": "@acdlite @dan_abramov Only on-demand-load when you can accept a delay at the splitpoint from usability perspective.… https://t.co/UI9OxZUvsQ",
-   "retweet_count": 2,
-   "favorite_count": 10,
+   "id": 963708284514525200,
+   "id_str": "963708284514525184",
+   "created_at": "Wed Feb 14 09:35:34 +0000 2018",
+   "text": "There is a breaking change im #webpack 4 regarding import().\n\nRead here how import() behaves with CJS, ESM, mjs, an… https://t.co/1xmzPWQUKg",
+   "retweet_count": 40,
+   "favorite_count": 113,
    "place": null,
-   "in_reply_to_status_id": 962772968731328500,
-   "in_reply_to_screen_name": "acdlite",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/UI9OxZUvsQ",
-     "expand": "https://twitter.com/i/web/status/962782419383398400"
+     "url": "https://t.co/1xmzPWQUKg",
+     "expand": "https://twitter.com/i/web/status/963708284514525184"
     }
    ]
+  },
+  {
+   "id": 963400811584815100,
+   "id_str": "963400811584815104",
+   "created_at": "Tue Feb 13 13:13:47 +0000 2018",
+   "text": "webpack 4 will add a mode option and a bunch of option of fine control of the integrated optimization.\n\nRead more a… https://t.co/WkvV9iZCdq",
+   "retweet_count": 59,
+   "favorite_count": 137,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WkvV9iZCdq",
+     "expand": "https://twitter.com/i/web/status/963400811584815104"
+    }
+   ]
+  },
+  {
+   "id": 963305922004217900,
+   "id_str": "963305922004217856",
+   "created_at": "Tue Feb 13 06:56:43 +0000 2018",
+   "text": "Can we introduce kzb as unit for gzipped kilobytes?\nSo 35kzb mean 35kb after gzip.\n\nExample: application size is 211kb 35kzb\n\n😁",
+   "retweet_count": 14,
+   "favorite_count": 128,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963121632578560000,
+   "id_str": "963121632578560001",
+   "created_at": "Mon Feb 12 18:44:25 +0000 2018",
+   "text": "@deadcoder0904 Afaik extract-text is not ready for v4 yet. We are working on that...",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963021777176842200,
+   "in_reply_to_screen_name": "deadcoder0904",
+   "urls": []
+  },
+  {
+   "id": 963116448699830300,
+   "id_str": "963116448699830272",
+   "created_at": "Mon Feb 12 18:23:49 +0000 2018",
+   "text": "RT @ev1stensberg: ☀️Webpack is participating in @gsoc 2018! ☀️\n\nhttps://t.co/sfhOZogoo6\n\nWe give students a warm welcome to our community a…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/sfhOZogoo6",
+     "expand": "https://summerofcode.withgoogle.com/organizations/4657420148670464/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963114972355100700,
+    "id_str": "963114972355100674",
+    "created_at": "Mon Feb 12 18:17:57 +0000 2018",
+    "text": "☀️Webpack is participating in @gsoc 2018! ☀️\n\nhttps://t.co/sfhOZogoo6\n\nWe give students a warm welcome to our commu… https://t.co/D3584oP9aW",
+    "retweet_count": 7,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sfhOZogoo6",
+      "expand": "https://summerofcode.withgoogle.com/organizations/4657420148670464/"
+     },
+     {
+      "url": "https://t.co/D3584oP9aW",
+      "expand": "https://twitter.com/i/web/status/963114972355100674"
+     }
+    ]
+   }
   }
  ]
 }

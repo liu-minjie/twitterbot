@@ -1,6 +1,306 @@
 {
- "time": 1518413400953,
+ "time": 1518869609084,
  "lists": [
+  {
+   "id": 964541756715880400,
+   "id_str": "964541756715880448",
+   "created_at": "Fri Feb 16 16:47:29 +0000 2018",
+   "text": "Sharded replica sets, MongoDB and MySQL https://t.co/XzB1wX2xcE",
+   "retweet_count": 5,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XzB1wX2xcE",
+     "expand": "http://smalldatum.blogspot.com/2018/02/sharded-replica-sets-mysql-and-mongodb.html"
+    }
+   ]
+  },
+  {
+   "id": 964531021868802000,
+   "id_str": "964531021868802048",
+   "created_at": "Fri Feb 16 16:04:50 +0000 2018",
+   "text": "I liked how @dimitrik_fr drew on his slides during @fosdem. Turns out he already explained how to do that at  https://t.co/MeqSbFSdPJ",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MeqSbFSdPJ",
+     "expand": "http://dimitrik.free.fr/blog/archives/2016/05/my-slides-about-mysql-performance-from-perconalive-apr2016-us.html"
+    }
+   ]
+  },
+  {
+   "id": 964398541505364000,
+   "id_str": "964398541505363970",
+   "created_at": "Fri Feb 16 07:18:24 +0000 2018",
+   "text": "@tlipcon @igorcanadi Domas is still finding stall in production MyRocks but not for this, not yet",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964371877094244400,
+   "in_reply_to_screen_name": "tlipcon",
+   "urls": []
+  },
+  {
+   "id": 964306024437084200,
+   "id_str": "964306024437084161",
+   "created_at": "Fri Feb 16 01:10:46 +0000 2018",
+   "text": "@xaprb @VadimTk @MongoDBEng Is this the missing context?\nhttps://t.co/swPt2XrhX2",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964304418396139500,
+   "in_reply_to_screen_name": "xaprb",
+   "urls": [
+    {
+     "url": "https://t.co/swPt2XrhX2",
+     "expand": "https://docs.mongodb.com/manual/reference/method/db.collection.aggregate/"
+    }
+   ]
+  },
+  {
+   "id": 964305704969523200,
+   "id_str": "964305704969523206",
+   "created_at": "Fri Feb 16 01:09:30 +0000 2018",
+   "text": "@VadimTk @MongoDBEng For schema see jsonschema. I am curious about the CPU overhead for it.\nhttps://t.co/VrBabf2J5x",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964303774146740200,
+   "in_reply_to_screen_name": "VadimTk",
+   "urls": [
+    {
+     "url": "https://t.co/VrBabf2J5x",
+     "expand": "https://docs.mongodb.com/manual/reference/operator/query/jsonSchema/"
+    }
+   ]
+  },
+  {
+   "id": 964280626798121000,
+   "id_str": "964280626798120960",
+   "created_at": "Thu Feb 15 23:29:51 +0000 2018",
+   "text": "@igorcanadi @tlipcon jemalloc and tcmalloc are a big deal for MyRocks/RocksDB because frequent allocation for the b… https://t.co/q5MzMvULFA",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964279098787864600,
+   "in_reply_to_screen_name": "igorcanadi",
+   "urls": [
+    {
+     "url": "https://t.co/q5MzMvULFA",
+     "expand": "https://twitter.com/i/web/status/964280626798120960"
+    }
+   ]
+  },
+  {
+   "id": 964184542729900000,
+   "id_str": "964184542729900033",
+   "created_at": "Thu Feb 15 17:08:03 +0000 2018",
+   "text": "@matkeep This is a big deal. Are docs available for the transaction feature?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964138391527858200,
+   "in_reply_to_screen_name": "matkeep",
+   "urls": []
+  },
+  {
+   "id": 964183981590593500,
+   "id_str": "964183981590593536",
+   "created_at": "Thu Feb 15 17:05:49 +0000 2018",
+   "text": "@CSDatCMU @andy_pavlo It is nice to see recognition for awesome work from @andy_pavlo",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964156855437217800,
+   "in_reply_to_screen_name": "CSDatCMU",
+   "urls": []
+  },
+  {
+   "id": 964153735306866700,
+   "id_str": "964153735306866688",
+   "created_at": "Thu Feb 15 15:05:38 +0000 2018",
+   "text": "Transactions are coming to @MongoDBEng. This is awesome news.\nhttps://t.co/HYNgrPpMF6",
+   "retweet_count": 10,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HYNgrPpMF6",
+     "expand": "https://www.mongodb.com/transactions"
+    }
+   ]
+  },
+  {
+   "id": 963936793941946400,
+   "id_str": "963936793941946368",
+   "created_at": "Thu Feb 15 00:43:35 +0000 2018",
+   "text": "@kevinclosson I was in a meeting where Exadata was pitched. Pitch started with many slides about data warehouse fea… https://t.co/bh5gAIy13O",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963934934179094500,
+   "in_reply_to_screen_name": "kevinclosson",
+   "urls": [
+    {
+     "url": "https://t.co/bh5gAIy13O",
+     "expand": "https://twitter.com/i/web/status/963936793941946368"
+    }
+   ]
+  },
+  {
+   "id": 963929190369300500,
+   "id_str": "963929190369300480",
+   "created_at": "Thu Feb 15 00:13:22 +0000 2018",
+   "text": "@kevinclosson I was isolated in my time there -- adding features, fixing bugs, never went near a customer, never be… https://t.co/7NGP0EBDdf",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963886317640626200,
+   "in_reply_to_screen_name": "kevinclosson",
+   "urls": [
+    {
+     "url": "https://t.co/7NGP0EBDdf",
+     "expand": "https://twitter.com/i/web/status/963929190369300480"
+    }
+   ]
+  },
+  {
+   "id": 963880301423337500,
+   "id_str": "963880301423337472",
+   "created_at": "Wed Feb 14 20:59:06 +0000 2018",
+   "text": "@kevinclosson One of these days I hope to hear your stories in person",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963879725079846900,
+   "in_reply_to_screen_name": "kevinclosson",
+   "urls": []
+  },
+  {
+   "id": 963877876771708900,
+   "id_str": "963877876771708928",
+   "created_at": "Wed Feb 14 20:49:28 +0000 2018",
+   "text": "Thank you Oracle https://t.co/K7aIrFzrG0",
+   "retweet_count": 2,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/K7aIrFzrG0",
+     "expand": "https://twitter.com/lwnnet/status/963866657138642946"
+    }
+   ]
+  },
+  {
+   "id": 963424929365475300,
+   "id_str": "963424929365475328",
+   "created_at": "Tue Feb 13 14:49:37 +0000 2018",
+   "text": "@mariadbfdn Interesting results. This post shows how to predict the overhead based on syscall and context switch ra… https://t.co/Zwh0HcHXCY",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963361116695838700,
+   "in_reply_to_screen_name": "mariadbfdn",
+   "urls": [
+    {
+     "url": "https://t.co/Zwh0HcHXCY",
+     "expand": "https://twitter.com/i/web/status/963424929365475328"
+    }
+   ]
+  },
+  {
+   "id": 963244660373192700,
+   "id_str": "963244660373192704",
+   "created_at": "Tue Feb 13 02:53:17 +0000 2018",
+   "text": "A great summary on the impact from fixing Meltdown. It will help you predict the loss for your workloads. https://t.co/5375Y83sB5",
+   "retweet_count": 5,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5375Y83sB5",
+     "expand": "https://twitter.com/brendangregg/status/962022016999079941"
+    }
+   ]
+  },
+  {
+   "id": 963243240836292600,
+   "id_str": "963243240836292609",
+   "created_at": "Tue Feb 13 02:47:39 +0000 2018",
+   "text": "@tlipcon Now you are exceeding my expertise. @mituzas might know more.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963239005616681000,
+   "in_reply_to_screen_name": "tlipcon",
+   "urls": []
+  },
+  {
+   "id": 963236135442026500,
+   "id_str": "963236135442026497",
+   "created_at": "Tue Feb 13 02:19:25 +0000 2018",
+   "text": "@tlipcon Looks like we set sort_buffer_size to 2M, but queries that do sorts are not the common case. I am small data.",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963235603947991000,
+   "in_reply_to_screen_name": "tlipcon",
+   "urls": []
+  },
+  {
+   "id": 963228522759073800,
+   "id_str": "963228522759073792",
+   "created_at": "Tue Feb 13 01:49:10 +0000 2018",
+   "text": "@h_ingo Real problem is proposal of huge reductions in aid programs to offset huge reductions in tax revenue",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963124967192875000,
+   "in_reply_to_screen_name": "h_ingo",
+   "urls": []
+  },
+  {
+   "id": 963228182559125500,
+   "id_str": "963228182559125504",
+   "created_at": "Tue Feb 13 01:47:49 +0000 2018",
+   "text": "@tlipcon I deploy with jemalloc. From recent tests jemalloc and tcmalloc were much better than glibc -&gt; https://t.co/Z6lKw9gQmb",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963225919224561700,
+   "in_reply_to_screen_name": "tlipcon",
+   "urls": [
+    {
+     "url": "https://t.co/Z6lKw9gQmb",
+     "expand": "http://smalldatum.blogspot.com/2017/11/concurrent-large-allocations-glibc.html"
+    }
+   ]
+  },
+  {
+   "id": 963123776446545900,
+   "id_str": "963123776446545920",
+   "created_at": "Mon Feb 12 18:52:56 +0000 2018",
+   "text": "@h_ingo If only this were the worst thing to complain about.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963110609624752100,
+   "in_reply_to_screen_name": "h_ingo",
+   "urls": []
+  },
   {
    "id": 961339299399548900,
    "id_str": "961339299399548928",

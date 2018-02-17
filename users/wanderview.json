@@ -1,13 +1,525 @@
 {
- "time": 1518414182410,
+ "time": 1518870388381,
  "lists": [
+  {
+   "id": 964611136091054100,
+   "id_str": "964611136091054085",
+   "created_at": "Fri Feb 16 21:23:11 +0000 2018",
+   "text": "@gauntface @DotProto Just fyi, there is no \"a\" in \"somestring\".  You may not need this call at all!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 964610161556955100,
+   "in_reply_to_screen_name": "gauntface",
+   "urls": []
+  },
+  {
+   "id": 964582790674165800,
+   "id_str": "964582790674165765",
+   "created_at": "Fri Feb 16 19:30:33 +0000 2018",
+   "text": "RT @HillaryClinton: This week we lost 17 Americans in Parkland - the deadliest school shooting since Sandy Hook in 2012. Since then, 438 pe…",
+   "retweet_count": 12793,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964581591413555200,
+    "id_str": "964581591413555200",
+    "created_at": "Fri Feb 16 19:25:47 +0000 2018",
+    "text": "This week we lost 17 Americans in Parkland - the deadliest school shooting since Sandy Hook in 2012. Since then, 43… https://t.co/nACvErE6jW",
+    "retweet_count": 12793,
+    "favorite_count": 48312,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nACvErE6jW",
+      "expand": "https://twitter.com/i/web/status/964581591413555200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964565686910619600,
+   "id_str": "964565686910619648",
+   "created_at": "Fri Feb 16 18:22:35 +0000 2018",
+   "text": "@_alastair @glitch The only thing it lacks that I miss sometimes is an \"other origin\" for demonstrating cross-origi… https://t.co/DBP4K8vbhO",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964562837619298300,
+   "in_reply_to_screen_name": "_alastair",
+   "urls": [
+    {
+     "url": "https://t.co/DBP4K8vbhO",
+     "expand": "https://twitter.com/i/web/status/964565686910619648"
+    }
+   ]
+  },
+  {
+   "id": 964534273322692600,
+   "id_str": "964534273322692610",
+   "created_at": "Fri Feb 16 16:17:45 +0000 2018",
+   "text": "@jbpieterse @evandawson @Vbmaier Sorry, just kind of replied to a random part of the twitter thread.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964533982800080900,
+   "in_reply_to_screen_name": "wanderview",
+   "urls": []
+  },
+  {
+   "id": 964533982800080900,
+   "id_str": "964533982800080896",
+   "created_at": "Fri Feb 16 16:16:36 +0000 2018",
+   "text": "@jbpieterse @evandawson @Vbmaier FWIW, my frustration stems from getting hung up on pedantic concern for 100% accur… https://t.co/bZzk3fAd2o",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964529587471507500,
+   "in_reply_to_screen_name": "jbpieterse",
+   "urls": [
+    {
+     "url": "https://t.co/bZzk3fAd2o",
+     "expand": "https://twitter.com/i/web/status/964533982800080896"
+    }
+   ]
+  },
+  {
+   "id": 964526294947041300,
+   "id_str": "964526294947041282",
+   "created_at": "Fri Feb 16 15:46:03 +0000 2018",
+   "text": "@Vbmaier These sorts of statements from journalists really frustrate me.  Instead of focusing on the hugely critica… https://t.co/fC15UKNumF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964525226406174700,
+   "in_reply_to_screen_name": "Vbmaier",
+   "urls": [
+    {
+     "url": "https://t.co/fC15UKNumF",
+     "expand": "https://twitter.com/i/web/status/964526294947041282"
+    }
+   ]
+  },
+  {
+   "id": 964332146885365800,
+   "id_str": "964332146885365760",
+   "created_at": "Fri Feb 16 02:54:34 +0000 2018",
+   "text": "RT @BarackObama: We are grieving with Parkland. But we are not powerless. Caring for our kids is our first job. And until we can honestly s…",
+   "retweet_count": 340353,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964185606803853300,
+    "id_str": "964185606803853314",
+    "created_at": "Thu Feb 15 17:12:17 +0000 2018",
+    "text": "We are grieving with Parkland. But we are not powerless. Caring for our kids is our first job. And until we can hon… https://t.co/LWGSkzRapH",
+    "retweet_count": 340353,
+    "favorite_count": 1133763,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LWGSkzRapH",
+      "expand": "https://twitter.com/i/web/status/964185606803853314"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964317440804089900,
+   "id_str": "964317440804089857",
+   "created_at": "Fri Feb 16 01:56:08 +0000 2018",
+   "text": "RT @car_nove: I was hiding in a closet for 2 hours. It was about guns. You weren't there, you don't know how it felt. Guns give these disgu…",
+   "retweet_count": 341445,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964122342464081900,
+    "id_str": "964122342464081921",
+    "created_at": "Thu Feb 15 13:00:53 +0000 2018",
+    "text": "I was hiding in a closet for 2 hours. It was about guns. You weren't there, you don't know how it felt. Guns give t… https://t.co/hU0f5lYUlf",
+    "retweet_count": 341445,
+    "favorite_count": 861644,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hU0f5lYUlf",
+      "expand": "https://twitter.com/i/web/status/964122342464081921"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964285697485099000,
+   "id_str": "964285697485099008",
+   "created_at": "Thu Feb 15 23:50:00 +0000 2018",
+   "text": "RT @JamesFallows: Mitch McConnell is “deeply saddened” by the latest school massacre.\n\nAfter the Newtown massacre, when Obama begged that t…",
+   "retweet_count": 1604,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964270711496781800,
+    "id_str": "964270711496781824",
+    "created_at": "Thu Feb 15 22:50:27 +0000 2018",
+    "text": "Mitch McConnell is “deeply saddened” by the latest school massacre.\n\nAfter the Newtown massacre, when Obama begged… https://t.co/l3TaH44upS",
+    "retweet_count": 1604,
+    "favorite_count": 2382,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/l3TaH44upS",
+      "expand": "https://twitter.com/i/web/status/964270711496781824"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964221028934266900,
+   "id_str": "964221028934266880",
+   "created_at": "Thu Feb 15 19:33:02 +0000 2018",
+   "text": "RT @AynRandPaulRyan: Whoa. David Hogg, survivor of Florida school shooting: \n\n\"This is the 18th one this year. That’s unacceptable. We're c…",
+   "retweet_count": 44866,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964165151820689400,
+    "id_str": "964165151820689408",
+    "created_at": "Thu Feb 15 15:51:00 +0000 2018",
+    "text": "Whoa. David Hogg, survivor of Florida school shooting: \n\n\"This is the 18th one this year. That’s unacceptable. We'r… https://t.co/bKJlYbiOrC",
+    "retweet_count": 44866,
+    "favorite_count": 104193,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bKJlYbiOrC",
+      "expand": "https://twitter.com/i/web/status/964165151820689408"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964210393840316400,
+   "id_str": "964210393840316416",
+   "created_at": "Thu Feb 15 18:50:46 +0000 2018",
+   "text": "RT @EricHolder: From Parkland, a student there: “We’re children, you guys are, like, the adults. Take action, work together, come over your…",
+   "retweet_count": 8839,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964201054630903800,
+    "id_str": "964201054630903808",
+    "created_at": "Thu Feb 15 18:13:40 +0000 2018",
+    "text": "From Parkland, a student there: “We’re children, you guys are, like, the adults. Take action, work together, come o… https://t.co/AqNEIHKYkA",
+    "retweet_count": 8839,
+    "favorite_count": 26444,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AqNEIHKYkA",
+      "expand": "https://twitter.com/i/web/status/964201054630903808"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964158878836551700,
+   "id_str": "964158878836551681",
+   "created_at": "Thu Feb 15 15:26:04 +0000 2018",
+   "text": "RT @soledadobrien: In Feb 2017 President Trump repealed a measure aimed at blocking gun sales to certain mentally ill people.\nThe GOP-major…",
+   "retweet_count": 8861,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964129198930563100,
+    "id_str": "964129198930563072",
+    "created_at": "Thu Feb 15 13:28:08 +0000 2018",
+    "text": "In Feb 2017 President Trump repealed a measure aimed at blocking gun sales to certain mentally ill people.\nThe GOP-… https://t.co/5EacIWibxT",
+    "retweet_count": 8861,
+    "favorite_count": 13293,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5EacIWibxT",
+      "expand": "https://twitter.com/i/web/status/964129198930563072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964149875691737100,
+   "id_str": "964149875691737094",
+   "created_at": "Thu Feb 15 14:50:18 +0000 2018",
+   "text": "RT @JamesFallows: Just for the historical record: after the Sandy Hook / Newtown shootings of Dec 2012, @LeaderMcConnell led the Senate fil…",
+   "retweet_count": 7495,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964008781028868100,
+    "id_str": "964008781028868097",
+    "created_at": "Thu Feb 15 05:29:38 +0000 2018",
+    "text": "Just for the historical record: after the Sandy Hook / Newtown shootings of Dec 2012, @LeaderMcConnell led the Sena… https://t.co/GG1TTAWzuV",
+    "retweet_count": 7495,
+    "favorite_count": 9168,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GG1TTAWzuV",
+      "expand": "https://twitter.com/i/web/status/964008781028868097"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963925386135523300,
+   "id_str": "963925386135523330",
+   "created_at": "Wed Feb 14 23:58:15 +0000 2018",
+   "text": "RT @TheOnion: ‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens https://t.co/AiYGBQLaGW https://t.co/Zr0X8qcDqJ",
+   "retweet_count": 64471,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AiYGBQLaGW",
+     "expand": "https://trib.al/AdNR9gz"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963923505174728700,
+    "id_str": "963923505174728704",
+    "created_at": "Wed Feb 14 23:50:47 +0000 2018",
+    "text": "‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens https://t.co/AiYGBQLaGW https://t.co/Zr0X8qcDqJ",
+    "retweet_count": 64471,
+    "favorite_count": 94759,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AiYGBQLaGW",
+      "expand": "https://trib.al/AdNR9gz"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963924662869790700,
+   "id_str": "963924662869790727",
+   "created_at": "Wed Feb 14 23:55:23 +0000 2018",
+   "text": "RT @drvox: Hug your kids tight tonight -- they could be gunned down at school tomorrow. Your family is no different from the 100s of others…",
+   "retweet_count": 431,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963908730520707100,
+    "id_str": "963908730520707072",
+    "created_at": "Wed Feb 14 22:52:04 +0000 2018",
+    "text": "Hug your kids tight tonight -- they could be gunned down at school tomorrow. Your family is no different from the 1… https://t.co/edeDKaKIjw",
+    "retweet_count": 431,
+    "favorite_count": 851,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/edeDKaKIjw",
+      "expand": "https://twitter.com/i/web/status/963908730520707072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963889153594282000,
+   "id_str": "963889153594281990",
+   "created_at": "Wed Feb 14 21:34:17 +0000 2018",
+   "text": "@vvuk Hmm... file URLs are... weird in many ways.  I wonder if awesomebar has ever handled them well.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963888948413046800,
+   "in_reply_to_screen_name": "vvuk",
+   "urls": []
+  },
+  {
+   "id": 963885225863458800,
+   "id_str": "963885225863458819",
+   "created_at": "Wed Feb 14 21:18:40 +0000 2018",
+   "text": "@vvuk I don't know of any changes to the frecency heuristic in awesomebar recently.  Maybe @dietrich would know.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963884849835671600,
+   "in_reply_to_screen_name": "wanderview",
+   "urls": []
+  },
+  {
+   "id": 963884849835671600,
+   "id_str": "963884849835671558",
+   "created_at": "Wed Feb 14 21:17:10 +0000 2018",
+   "text": "@vvuk Is it really file:/// URLs or is that a contrived example? Do you see this with http/https URLs as well?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963884494578106400,
+   "in_reply_to_screen_name": "vvuk",
+   "urls": []
+  },
+  {
+   "id": 963883622276231200,
+   "id_str": "963883622276231168",
+   "created_at": "Wed Feb 14 21:12:18 +0000 2018",
+   "text": "@vvuk Note you can remove search results or make search results appear later in the awesomebar results from Menu -&gt;… https://t.co/cyTbUIKGyi",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963880297174507500,
+   "in_reply_to_screen_name": "vvuk",
+   "urls": [
+    {
+     "url": "https://t.co/cyTbUIKGyi",
+     "expand": "https://twitter.com/i/web/status/963883622276231168"
+    }
+   ]
+  },
+  {
+   "id": 963880313104556000,
+   "id_str": "963880313104556032",
+   "created_at": "Wed Feb 14 20:59:09 +0000 2018",
+   "text": "RT @nycsouthpaw: We have waited and waited and waited and waited at your party’s and the NRA’s depraved insistence and more kids keep getti…",
+   "retweet_count": 366,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963878335397888000,
+    "id_str": "963878335397888001",
+    "created_at": "Wed Feb 14 20:51:17 +0000 2018",
+    "text": "We have waited and waited and waited and waited at your party’s and the NRA’s depraved insistence and more kids kee… https://t.co/wFWiiMKaZr",
+    "retweet_count": 366,
+    "favorite_count": 1275,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wFWiiMKaZr",
+      "expand": "https://twitter.com/i/web/status/963878335397888001"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963843343217197000,
+   "id_str": "963843343217197056",
+   "created_at": "Wed Feb 14 18:32:15 +0000 2018",
+   "text": "@SamSykesSwears My wife gave me this book for Valentine's Day.  It's a romance novel, right? https://t.co/cDQmUKBpGx",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": "SamSykesSwears",
+   "urls": []
+  },
+  {
+   "id": 963770808245084200,
+   "id_str": "963770808245084160",
+   "created_at": "Wed Feb 14 13:44:01 +0000 2018",
+   "text": "At some point my wife suggested we make Valentine's Day the day we give each other books.  It really is the best. https://t.co/Ul52DQh0Yq",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963615055978868700,
+   "id_str": "963615055978868736",
+   "created_at": "Wed Feb 14 03:25:07 +0000 2018",
+   "text": "@KingstonTime @gauntface @potch Safari is freezing their user agent version number, right?  Interesting to see if that helps at all.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963591641071259600,
+   "in_reply_to_screen_name": "KingstonTime",
+   "urls": []
+  },
+  {
+   "id": 963477924228812800,
+   "id_str": "963477924228812800",
+   "created_at": "Tue Feb 13 18:20:12 +0000 2018",
+   "text": "@simevidas @FirefoxNightly Can you please file a bug for discussion?  UX questions are kind of out of my realm.  Thanks.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963445733243449300,
+   "in_reply_to_screen_name": "simevidas",
+   "urls": []
+  },
+  {
+   "id": 963161001398079500,
+   "id_str": "963161001398079494",
+   "created_at": "Mon Feb 12 21:20:52 +0000 2018",
+   "text": "@marionpdaly Its quite nice today! 🌞",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963160885081632800,
+   "in_reply_to_screen_name": "marionpdaly",
+   "urls": []
+  },
   {
    "id": 962769950762037200,
    "id_str": "962769950762037250",
    "created_at": "Sun Feb 11 19:26:58 +0000 2018",
    "text": "Local photographer Twitter is the best Twitter. https://t.co/x8ODuIMOPb",
    "retweet_count": 0,
-   "favorite_count": 1,
+   "favorite_count": 3,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,

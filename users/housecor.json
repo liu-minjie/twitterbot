@@ -1,16 +1,1002 @@
 {
- "time": 1518411888768,
+ "time": 1518869613213,
  "lists": [
   {
-   "id": 962890424598876200,
-   "id_str": "962890424598876160",
-   "created_at": "Mon Feb 12 03:25:41 +0000 2018",
-   "text": "@natenorberg Oh sure, there are certainly benefits and that's a great example. Question is if the benefits justify the cost on smaller apps.",
+   "id": 964693144339173400,
+   "id_str": "964693144339173377",
+   "created_at": "Sat Feb 17 02:49:03 +0000 2018",
+   "text": "@AdamRackis @ken_wheeler @acdlite @dan_abramov Today I was showing a team stateless components. I timed myself conv… https://t.co/jXxYAggVk8",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964660968847487000,
+   "in_reply_to_screen_name": "AdamRackis",
+   "urls": [
+    {
+     "url": "https://t.co/jXxYAggVk8",
+     "expand": "https://twitter.com/i/web/status/964693144339173377"
+    }
+   ]
+  },
+  {
+   "id": 964617620241739800,
+   "id_str": "964617620241739777",
+   "created_at": "Fri Feb 16 21:48:57 +0000 2018",
+   "text": "@NicklasWinger Ah! We were using Durandal in the KO app too. And to declare a global in ES modules, you just say global.myVar.",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 962886101105918000,
-   "in_reply_to_screen_name": "natenorberg",
+   "in_reply_to_status_id": 964616486416519200,
+   "in_reply_to_screen_name": "NicklasWinger",
+   "urls": []
+  },
+  {
+   "id": 964605337591599100,
+   "id_str": "964605337591599104",
+   "created_at": "Fri Feb 16 21:00:08 +0000 2018",
+   "text": "Just declared a global method in a React component to support integrating a React app with an old Knockout app. Fee… https://t.co/45SbJWarHx",
+   "retweet_count": 0,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/45SbJWarHx",
+     "expand": "https://twitter.com/i/web/status/964605337591599104"
+    }
+   ]
+  },
+  {
+   "id": 964584212560007200,
+   "id_str": "964584212560007168",
+   "created_at": "Fri Feb 16 19:36:12 +0000 2018",
+   "text": "@_CalvinAllen It's a surprisingly common pattern. I remember thinking \"I need to get database data into JS, so I'll… https://t.co/EZmNaMLZQp",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964582031605760000,
+   "in_reply_to_screen_name": "_CalvinAllen",
+   "urls": [
+    {
+     "url": "https://t.co/EZmNaMLZQp",
+     "expand": "https://twitter.com/i/web/status/964584212560007168"
+    }
+   ]
+  },
+  {
+   "id": 964581485096374300,
+   "id_str": "964581485096374273",
+   "created_at": "Fri Feb 16 19:25:21 +0000 2018",
+   "text": "In 2010, I used C# strings to generate \"dynamic\" JavaScript on the server via a C# string. \n\nAutocomplete? Linting?… https://t.co/nBZrMJo9ha",
+   "retweet_count": 8,
+   "favorite_count": 80,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nBZrMJo9ha",
+     "expand": "https://twitter.com/i/web/status/964581485096374273"
+    }
+   ]
+  },
+  {
+   "id": 964334964409077800,
+   "id_str": "964334964409077761",
+   "created_at": "Fri Feb 16 03:05:46 +0000 2018",
+   "text": "@Anaizing Sorry, I haven't upgraded to latest yet so can't say.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964325233036374000,
+   "in_reply_to_screen_name": "Anaizing",
+   "urls": []
+  },
+  {
+   "id": 964334773140369400,
+   "id_str": "964334773140369419",
+   "created_at": "Fri Feb 16 03:05:01 +0000 2018",
+   "text": "@falconmick Will publish Feb 27",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964331457756868600,
+   "in_reply_to_screen_name": "falconmick",
+   "urls": []
+  },
+  {
+   "id": 964296831315398700,
+   "id_str": "964296831315398658",
+   "created_at": "Fri Feb 16 00:34:15 +0000 2018",
+   "text": "Excited to be part of a new React podcast: React Round up. Great panel of co-hosts! #reactjs https://t.co/OEw03jtWu9",
+   "retweet_count": 16,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OEw03jtWu9",
+     "expand": "https://twitter.com/cmaxw/status/964254541662232576"
+    }
+   ]
+  },
+  {
+   "id": 964261954406805500,
+   "id_str": "964261954406805505",
+   "created_at": "Thu Feb 15 22:15:39 +0000 2018",
+   "text": "RT @sivers: Are you at the starting line or finish line? https://t.co/x2ZgGDKauU",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/x2ZgGDKauU",
+     "expand": "https://sivers.org/lines"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964214848803430400,
+    "id_str": "964214848803430400",
+    "created_at": "Thu Feb 15 19:08:28 +0000 2018",
+    "text": "Are you at the starting line or finish line? https://t.co/x2ZgGDKauU",
+    "retweet_count": 9,
+    "favorite_count": 35,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/x2ZgGDKauU",
+      "expand": "https://sivers.org/lines"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964172453865033700,
+   "id_str": "964172453865033729",
+   "created_at": "Thu Feb 15 16:20:01 +0000 2018",
+   "text": "\"Every every positive thought has the seed of a negative thought within it . And vice versa.\" - @naval \n\nExamples:… https://t.co/VniA4EFyWw",
+   "retweet_count": 1,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VniA4EFyWw",
+     "expand": "https://twitter.com/i/web/status/964172453865033729"
+    }
+   ]
+  },
+  {
+   "id": 964149050252591100,
+   "id_str": "964149050252591104",
+   "created_at": "Thu Feb 15 14:47:01 +0000 2018",
+   "text": "It's embarrassing how long it has taken me to realize how to run a single Jest test alone. \n\nJust realized the answ… https://t.co/XLPAJLbzou",
+   "retweet_count": 5,
+   "favorite_count": 45,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XLPAJLbzou",
+     "expand": "https://twitter.com/i/web/status/964149050252591104"
+    }
+   ]
+  },
+  {
+   "id": 964106573168676900,
+   "id_str": "964106573168676864",
+   "created_at": "Thu Feb 15 11:58:13 +0000 2018",
+   "text": "@aaron_hoffman Yup, re-listening to his episode on the Knowledge Project. Others to suggest?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964069498318925800,
+   "in_reply_to_screen_name": "aaron_hoffman",
+   "urls": []
+  },
+  {
+   "id": 963964583659663400,
+   "id_str": "963964583659663360",
+   "created_at": "Thu Feb 15 02:34:00 +0000 2018",
+   "text": "\"Happiness is actually the default state. It's there when you remove the sense that something is missing in your life.\" - @naval",
+   "retweet_count": 9,
+   "favorite_count": 50,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963871103285366800,
+   "id_str": "963871103285366785",
+   "created_at": "Wed Feb 14 20:22:33 +0000 2018",
+   "text": "@cschoede @tvanfosson It's typically redundant since it merely summarizes what the code is doing. Example: i++ // increment i.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963868629262569500,
+   "in_reply_to_screen_name": "cschoede",
+   "urls": []
+  },
+  {
+   "id": 963867736786063400,
+   "id_str": "963867736786063361",
+   "created_at": "Wed Feb 14 20:09:10 +0000 2018",
+   "text": "@eaj @Alexandroulykos @naval The dictionary feels differently. :) https://t.co/SGzkau7OzD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963861572828442600,
+   "in_reply_to_screen_name": "eaj",
+   "urls": []
+  },
+  {
+   "id": 963867397735305200,
+   "id_str": "963867397735305217",
+   "created_at": "Wed Feb 14 20:07:50 +0000 2018",
+   "text": "RT @petdance: @housecor Given enough time, the reader can always reconstruct the “What” and the “How”. It’s all there in the code. She can…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963860492438696000,
+    "id_str": "963860492438695936",
+    "created_at": "Wed Feb 14 19:40:23 +0000 2018",
+    "text": "@housecor Given enough time, the reader can always reconstruct the “What” and the “How”. It’s all there in the code… https://t.co/jUh8w8tDVx",
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": 963239807303503900,
+    "in_reply_to_screen_name": "housecor",
+    "urls": [
+     {
+      "url": "https://t.co/jUh8w8tDVx",
+      "expand": "https://twitter.com/i/web/status/963860492438695936"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963810071070347300,
+   "id_str": "963810071070347264",
+   "created_at": "Wed Feb 14 16:20:02 +0000 2018",
+   "text": "My health is my #1 priority. Even above my own family. Without my health, what good am I to my family? I don't say… https://t.co/1knxhKWIHn",
+   "retweet_count": 72,
+   "favorite_count": 412,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1knxhKWIHn",
+     "expand": "https://twitter.com/i/web/status/963810071070347264"
+    }
+   ]
+  },
+  {
+   "id": 963808035104874500,
+   "id_str": "963808035104874507",
+   "created_at": "Wed Feb 14 16:11:56 +0000 2018",
+   "text": "@veryaustin @DevAlexx @pluralsight Great to hear! Thanks Austin! :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963797694283157500,
+   "in_reply_to_screen_name": "veryaustin",
+   "urls": []
+  },
+  {
+   "id": 963807788341383200,
+   "id_str": "963807788341383168",
+   "created_at": "Wed Feb 14 16:10:58 +0000 2018",
+   "text": "@ardalis Thanks for showing me this Steve! I ponied up for the paid version so I can share my screen and webcam at the same time. So slick.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963787639731163100,
+   "in_reply_to_screen_name": "ardalis",
+   "urls": []
+  },
+  {
+   "id": 963807586062651400,
+   "id_str": "963807586062651392",
+   "created_at": "Wed Feb 14 16:10:09 +0000 2018",
+   "text": "@e_tester Same here. This is the only service I've found where I can share my webcam and screen at the same time. R… https://t.co/abY5pfgXXv",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963787319085076500,
+   "in_reply_to_screen_name": "e_tester",
+   "urls": [
+    {
+     "url": "https://t.co/abY5pfgXXv",
+     "expand": "https://twitter.com/i/web/status/963807586062651392"
+    }
+   ]
+  },
+  {
+   "id": 963802730161737700,
+   "id_str": "963802730161737729",
+   "created_at": "Wed Feb 14 15:50:52 +0000 2018",
+   "text": "For good habits, don't allow decision fatigue keep you from execution. \n\n\"The best workout for you is the one that… https://t.co/Z76UDh4Nb2",
+   "retweet_count": 15,
+   "favorite_count": 82,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Z76UDh4Nb2",
+     "expand": "https://twitter.com/i/web/status/963802730161737729"
+    }
+   ]
+  },
+  {
+   "id": 963786658041737200,
+   "id_str": "963786658041737217",
+   "created_at": "Wed Feb 14 14:47:00 +0000 2018",
+   "text": "Okay, absolutely loving https://t.co/rYt0JVMd97 for video conferencing. Give anyone your URL and bam. You're talkin… https://t.co/p7inNoOJit",
+   "retweet_count": 11,
+   "favorite_count": 93,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rYt0JVMd97",
+     "expand": "http://appear.in"
+    },
+    {
+     "url": "https://t.co/p7inNoOJit",
+     "expand": "https://twitter.com/i/web/status/963786658041737217"
+    }
+   ]
+  },
+  {
+   "id": 963784250679070700,
+   "id_str": "963784250679070721",
+   "created_at": "Wed Feb 14 14:37:26 +0000 2018",
+   "text": "@RobModica I hear you. One thing that has been on my mind lately: If someone is upset with me and I think it's unju… https://t.co/FtfjdF3828",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963759151464828900,
+   "in_reply_to_screen_name": "RobModica",
+   "urls": [
+    {
+     "url": "https://t.co/FtfjdF3828",
+     "expand": "https://twitter.com/i/web/status/963784250679070721"
+    }
+   ]
+  },
+  {
+   "id": 963739179908763600,
+   "id_str": "963739179908763649",
+   "created_at": "Wed Feb 14 11:38:20 +0000 2018",
+   "text": "@BSHarou https://t.co/AGoAFfcrOp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963714295912640500,
+   "in_reply_to_screen_name": "BSHarou",
+   "urls": [
+    {
+     "url": "https://t.co/AGoAFfcrOp",
+     "expand": "https://twitter.com/housecor/status/962763097567105024"
+    }
+   ]
+  },
+  {
+   "id": 963738230414807000,
+   "id_str": "963738230414807041",
+   "created_at": "Wed Feb 14 11:34:34 +0000 2018",
+   "text": "@denpalrius Haven't tried. But easy to test. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963702568143786000,
+   "in_reply_to_screen_name": "denpalrius",
+   "urls": []
+  },
+  {
+   "id": 963619199762477000,
+   "id_str": "963619199762477058",
+   "created_at": "Wed Feb 14 03:41:35 +0000 2018",
+   "text": "@ws_ubi Thanks for taking the time to chat tonight Ubi &lt;- I can call you that, right? :) Seriously, really enlighte… https://t.co/eZyMjabHAK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963609743301394400,
+   "in_reply_to_screen_name": "ws_ubi",
+   "urls": [
+    {
+     "url": "https://t.co/eZyMjabHAK",
+     "expand": "https://twitter.com/i/web/status/963619199762477058"
+    }
+   ]
+  },
+  {
+   "id": 963618736354857000,
+   "id_str": "963618736354856960",
+   "created_at": "Wed Feb 14 03:39:44 +0000 2018",
+   "text": "@_nampdn That's odd. VSCode supports this out of the box for me. You running the latest version?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963592180953620500,
+   "in_reply_to_screen_name": "_nampdn",
+   "urls": []
+  },
+  {
+   "id": 963618068172820500,
+   "id_str": "963618068172820482",
+   "created_at": "Wed Feb 14 03:37:05 +0000 2018",
+   "text": "When someone is upset with you online, ask: Can I turn this into a learning experience? \n\n1 Apologize.\n2 Ask: Can w… https://t.co/oQZZVMI4KV",
+   "retweet_count": 2,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oQZZVMI4KV",
+     "expand": "https://twitter.com/i/web/status/963618068172820482"
+    }
+   ]
+  },
+  {
+   "id": 963589103001526300,
+   "id_str": "963589103001526273",
+   "created_at": "Wed Feb 14 01:41:59 +0000 2018",
+   "text": "@_nampdn Which editor?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963581930263363600,
+   "in_reply_to_screen_name": "_nampdn",
+   "urls": []
+  },
+  {
+   "id": 963588873002672100,
+   "id_str": "963588873002672128",
+   "created_at": "Wed Feb 14 01:41:04 +0000 2018",
+   "text": "@searls Side effects tie the function to a specific execution environment. Thus hinders reuse, readability, composition, and testing.",
+   "retweet_count": 1,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": 963562203348656100,
+   "in_reply_to_screen_name": "searls",
+   "urls": []
+  },
+  {
+   "id": 963549560005185500,
+   "id_str": "963549560005185541",
+   "created_at": "Tue Feb 13 23:04:51 +0000 2018",
+   "text": "@jessesmith3rd3 Cool. Let's move to Github. I've created a repo here. Submit an issue to ask a question. :) https://t.co/vosfikhs3L.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963546654799523800,
+   "in_reply_to_screen_name": "jessesmith3rd3",
+   "urls": [
+    {
+     "url": "https://t.co/vosfikhs3L",
+     "expand": "https://github.com/coryhouse/ama"
+    }
+   ]
+  },
+  {
+   "id": 963546511790477300,
+   "id_str": "963546511790477313",
+   "created_at": "Tue Feb 13 22:52:44 +0000 2018",
+   "text": "@jessesmith3rd3 Gotcha. We've all been there at some point. :) What language are you focusing on?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963541713389326300,
+   "in_reply_to_screen_name": "jessesmith3rd3",
+   "urls": []
+  },
+  {
+   "id": 963540965985308700,
+   "id_str": "963540965985308672",
+   "created_at": "Tue Feb 13 22:30:42 +0000 2018",
+   "text": "@jessesmith3rd3 Hi Jesse - Sure thing. Have some specific questions?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963540712624140300,
+   "in_reply_to_screen_name": "jessesmith3rd3",
+   "urls": []
+  },
+  {
+   "id": 963539816163037200,
+   "id_str": "963539816163037185",
+   "created_at": "Tue Feb 13 22:26:08 +0000 2018",
+   "text": "Is committing to a software development backlog a quarter at a time \"agile\"?",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963526951741935600,
+   "id_str": "963526951741935617",
+   "created_at": "Tue Feb 13 21:35:01 +0000 2018",
+   "text": "@ws_ubi Hi Yordis - I'm sorry I upset you. If you're willing to chat, please email me on gmail. Same as my Twitter username.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": "ws_ubi",
+   "urls": []
+  },
+  {
+   "id": 963504123692728300,
+   "id_str": "963504123692728321",
+   "created_at": "Tue Feb 13 20:04:18 +0000 2018",
+   "text": "@cmichelio @fjuandc Great point. My solution? Prefer composition over inheritance. Pretty solid advice for regular OO devs too. :)",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 963490992065253400,
+   "in_reply_to_screen_name": "cmichelio",
+   "urls": []
+  },
+  {
+   "id": 963476580923248600,
+   "id_str": "963476580923248641",
+   "created_at": "Tue Feb 13 18:14:52 +0000 2018",
+   "text": "@AndaristRake @ferrannp Class fields are tied to the instance rather than the prototype, so yes, a potential perf i… https://t.co/WxMkit5yrh",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963452794513641500,
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/WxMkit5yrh",
+     "expand": "https://twitter.com/i/web/status/963476580923248641"
+    }
+   ]
+  },
+  {
+   "id": 963429751271682000,
+   "id_str": "963429751271682050",
+   "created_at": "Tue Feb 13 15:08:47 +0000 2018",
+   "text": "@practicingdev \"To sell is human\" - Dan Pink\n\nWe're all in the sales business. We're selling ideas.",
+   "retweet_count": 1,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": 963414127573168100,
+   "in_reply_to_screen_name": "practicingdev",
+   "urls": []
+  },
+  {
+   "id": 963428990257188900,
+   "id_str": "963428990257188865",
+   "created_at": "Tue Feb 13 15:05:45 +0000 2018",
+   "text": "Oops, this should be omitted from this.state above.",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 963424276455088100,
+   "in_reply_to_screen_name": "housecor",
+   "urls": []
+  },
+  {
+   "id": 963428767246045200,
+   "id_str": "963428767246045184",
+   "created_at": "Tue Feb 13 15:04:52 +0000 2018",
+   "text": "@larsgraubner Oops! Yep! Good catch.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963428135621595100,
+   "in_reply_to_screen_name": "larsgraubner",
+   "urls": []
+  },
+  {
+   "id": 963428571850166300,
+   "id_str": "963428571850166273",
+   "created_at": "Tue Feb 13 15:04:05 +0000 2018",
+   "text": "@kardnumas Makes sense to me.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963426717271543800,
+   "in_reply_to_screen_name": "kardnumas",
+   "urls": []
+  },
+  {
+   "id": 963426939095658500,
+   "id_str": "963426939095658496",
+   "created_at": "Tue Feb 13 14:57:36 +0000 2018",
+   "text": "@Rajat_Dhoot @siddharthkp @tylermcginnis You need to understand the native data structures in your language of choi… https://t.co/OuTxwa6cLg",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963306653914288100,
+   "in_reply_to_screen_name": "Rajat_Dhoot",
+   "urls": [
+    {
+     "url": "https://t.co/OuTxwa6cLg",
+     "expand": "https://twitter.com/i/web/status/963426939095658496"
+    }
+   ]
+  },
+  {
+   "id": 963426417580142600,
+   "id_str": "963426417580142592",
+   "created_at": "Tue Feb 13 14:55:32 +0000 2018",
+   "text": "@rajatvijay Create separate components. Parent holds state and logic, child holds just jsx.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963301587568373800,
+   "in_reply_to_screen_name": "rajatvijay",
+   "urls": []
+  },
+  {
+   "id": 963426055007756300,
+   "id_str": "963426055007756290",
+   "created_at": "Tue Feb 13 14:54:05 +0000 2018",
+   "text": "@_ajay_gaur A form with 1000 fields? That sounds like a design issue.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963292523492855800,
+   "in_reply_to_screen_name": "_ajay_gaur",
+   "urls": []
+  },
+  {
+   "id": 963424276455088100,
+   "id_str": "963424276455088128",
+   "created_at": "Tue Feb 13 14:47:01 +0000 2018",
+   "text": "React tip: You can eliminate constructors for state and binding. Use class fields instead (stage 3, transpiled via… https://t.co/2Abz2Uuovo",
+   "retweet_count": 79,
+   "favorite_count": 270,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2Abz2Uuovo",
+     "expand": "https://twitter.com/i/web/status/963424276455088128"
+    }
+   ]
+  },
+  {
+   "id": 963243143628980200,
+   "id_str": "963243143628980224",
+   "created_at": "Tue Feb 13 02:47:16 +0000 2018",
+   "text": "@PabloNevares @pluralsight Not. Which I mention in the course. But I had to keep the surface area small enough to fit in a course. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963242612088950800,
+   "in_reply_to_screen_name": "PabloNevares",
+   "urls": []
+  },
+  {
+   "id": 963239807303503900,
+   "id_str": "963239807303503872",
+   "created_at": "Tue Feb 13 02:34:00 +0000 2018",
+   "text": "\"Comment the why, not the how.\" is the most succinct and useful maxim for handling code comments that I've found.… https://t.co/RzHzbHPT65",
+   "retweet_count": 93,
+   "favorite_count": 183,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RzHzbHPT65",
+     "expand": "https://twitter.com/i/web/status/963239807303503872"
+    }
+   ]
+  },
+  {
+   "id": 963200470893432800,
+   "id_str": "963200470893432832",
+   "created_at": "Mon Feb 12 23:57:42 +0000 2018",
+   "text": "@aaronplanell Exactly. I remain a big fan of Redux. I just realized:\n1. We need to do a better job training our tea… https://t.co/CwEp640Iax",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963184577668960300,
+   "in_reply_to_screen_name": "aaronplanell",
+   "urls": [
+    {
+     "url": "https://t.co/CwEp640Iax",
+     "expand": "https://twitter.com/i/web/status/963200470893432832"
+    }
+   ]
+  },
+  {
+   "id": 963195242659942400,
+   "id_str": "963195242659942400",
+   "created_at": "Mon Feb 12 23:36:55 +0000 2018",
+   "text": "@acemarke First: The Redux docs are awesome. Thank you for all your hard work. 👍\n\nSecond: My team's root problem: D… https://t.co/EvSzGUDz8i",
+   "retweet_count": 2,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": 963124151664955400,
+   "in_reply_to_screen_name": "acemarke",
+   "urls": [
+    {
+     "url": "https://t.co/EvSzGUDz8i",
+     "expand": "https://twitter.com/i/web/status/963195242659942400"
+    }
+   ]
+  },
+  {
+   "id": 963124016209973200,
+   "id_str": "963124016209973249",
+   "created_at": "Mon Feb 12 18:53:54 +0000 2018",
+   "text": "@josh_rog You can lift state to the parent. When that gets painful, consider trying Redux.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963123040916734000,
+   "in_reply_to_screen_name": "josh_rog",
+   "urls": []
+  },
+  {
+   "id": 963123545093140500,
+   "id_str": "963123545093140481",
+   "created_at": "Mon Feb 12 18:52:01 +0000 2018",
+   "text": "Here's a relevant 3 minute clip in my React and Redux @pluralsight course: \"Do I need Redux?\" https://t.co/yYhrf22DVA",
+   "retweet_count": 1,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": 963122393773432800,
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/yYhrf22DVA",
+     "expand": "https://app.pluralsight.com/player?course=react-redux-react-router-es6&author=cory-house&name=react-redux-react-router-es6-m5&clip=1&mode=live"
+    }
+   ]
+  },
+  {
+   "id": 963122393773432800,
+   "id_str": "963122393773432832",
+   "created_at": "Mon Feb 12 18:47:27 +0000 2018",
+   "text": "Since this caught fire, I want to clarify: Redux is great! Keep using it! 👍\n\nThe problem is Redux overuse/misuse. T… https://t.co/cvURDp1Cu6",
+   "retweet_count": 6,
+   "favorite_count": 36,
+   "place": null,
+   "in_reply_to_status_id": 962754763938033700,
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/cvURDp1Cu6",
+     "expand": "https://twitter.com/i/web/status/963122393773432832"
+    }
+   ]
+  },
+  {
+   "id": 963118658674397200,
+   "id_str": "963118658674397185",
+   "created_at": "Mon Feb 12 18:32:36 +0000 2018",
+   "text": "@bent0b0x @robertwilliam_s @theswandog Depends: If the parent needs to display the same data in multiple components… https://t.co/TJqQtKFFEU",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963109817870180400,
+   "in_reply_to_screen_name": "bent0b0x",
+   "urls": [
+    {
+     "url": "https://t.co/TJqQtKFFEU",
+     "expand": "https://twitter.com/i/web/status/963118658674397185"
+    }
+   ]
+  },
+  {
+   "id": 963107044810215400,
+   "id_str": "963107044810215424",
+   "created_at": "Mon Feb 12 17:46:27 +0000 2018",
+   "text": "@bent0b0x @robertwilliam_s @theswandog Couldn't those just accept props and use state?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963100002200547300,
+   "in_reply_to_screen_name": "bent0b0x",
+   "urls": []
+  },
+  {
+   "id": 963085337688932400,
+   "id_str": "963085337688932352",
+   "created_at": "Mon Feb 12 16:20:12 +0000 2018",
+   "text": "The number of options for automated testing in #javascript today is amazing. Here's the most epic  post I've seen f… https://t.co/fDSTlKDvId",
+   "retweet_count": 51,
+   "favorite_count": 166,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fDSTlKDvId",
+     "expand": "https://twitter.com/i/web/status/963085337688932352"
+    }
+   ]
+  },
+  {
+   "id": 963085302066802700,
+   "id_str": "963085302066802688",
+   "created_at": "Mon Feb 12 16:20:03 +0000 2018",
+   "text": "@bent0b0x @robertwilliam_s @theswandog Oh totally agreed. The question is, would it make sense to simply iframe it… https://t.co/VVyXr6AwRe",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963080803314958300,
+   "in_reply_to_screen_name": "bent0b0x",
+   "urls": [
+    {
+     "url": "https://t.co/VVyXr6AwRe",
+     "expand": "https://twitter.com/i/web/status/963085302066802688"
+    }
+   ]
+  },
+  {
+   "id": 963078517192888300,
+   "id_str": "963078517192888321",
+   "created_at": "Mon Feb 12 15:53:06 +0000 2018",
+   "text": "@ebgranger @jamiebuilds As others have pointed out, it's not really a technical problem. Redux is 🔥. It's an educat… https://t.co/yoSA4j1UC4",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963077515702079500,
+   "in_reply_to_screen_name": "ebgranger",
+   "urls": [
+    {
+     "url": "https://t.co/yoSA4j1UC4",
+     "expand": "https://twitter.com/i/web/status/963078517192888321"
+    }
+   ]
+  },
+  {
+   "id": 963077840987131900,
+   "id_str": "963077840987131905",
+   "created_at": "Mon Feb 12 15:50:25 +0000 2018",
+   "text": "@romelperez07 Agreed. Could apply to any optional tool. Our company has grown so fast that we're struggling to educ… https://t.co/fZXn5cmD6b",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963070796590534700,
+   "in_reply_to_screen_name": "romelperez07",
+   "urls": [
+    {
+     "url": "https://t.co/fZXn5cmD6b",
+     "expand": "https://twitter.com/i/web/status/963077840987131905"
+    }
+   ]
+  },
+  {
+   "id": 963076517290020900,
+   "id_str": "963076517290020865",
+   "created_at": "Mon Feb 12 15:45:09 +0000 2018",
+   "text": "@bent0b0x @robertwilliam_s @theswandog Yes, one can. The question is, should you? A reusable component that's so co… https://t.co/jA9LXM6mRM",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 963061558841667600,
+   "in_reply_to_screen_name": "bent0b0x",
+   "urls": [
+    {
+     "url": "https://t.co/jA9LXM6mRM",
+     "expand": "https://twitter.com/i/web/status/963076517290020865"
+    }
+   ]
+  },
+  {
+   "id": 963075812206501900,
+   "id_str": "963075812206501888",
+   "created_at": "Mon Feb 12 15:42:21 +0000 2018",
+   "text": "@agent_hunt It's basically a fork of create-react-app that adds some additional features and opinions. We keep it i… https://t.co/HmJMGQe9Jq",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963058151435178000,
+   "in_reply_to_screen_name": "agent_hunt",
+   "urls": [
+    {
+     "url": "https://t.co/HmJMGQe9Jq",
+     "expand": "https://twitter.com/i/web/status/963075812206501888"
+    }
+   ]
+  },
+  {
+   "id": 963061886416801800,
+   "id_str": "963061886416801793",
+   "created_at": "Mon Feb 12 14:47:01 +0000 2018",
+   "text": "JS tip: console.log accepts multiple arguments. Each argument is conveniently output with a space in between. \n\nCan… https://t.co/ZE46aKKTni",
+   "retweet_count": 55,
+   "favorite_count": 194,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZE46aKKTni",
+     "expand": "https://twitter.com/i/web/status/963061886416801793"
+    }
+   ]
+  },
+  {
+   "id": 963059561535033300,
+   "id_str": "963059561535033348",
+   "created_at": "Mon Feb 12 14:37:46 +0000 2018",
+   "text": "@jankalfus @pluralsight I recommend create-react-app because it's the most popular. I also like how it encapsulates… https://t.co/hxlWx9cDZe",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 962959976946954200,
+   "in_reply_to_screen_name": "jankalfus",
+   "urls": [
+    {
+     "url": "https://t.co/hxlWx9cDZe",
+     "expand": "https://twitter.com/i/web/status/963059561535033348"
+    }
+   ]
+  },
+  {
+   "id": 963059083774447600,
+   "id_str": "963059083774447616",
+   "created_at": "Mon Feb 12 14:35:53 +0000 2018",
+   "text": "@robertwilliam_s @bent0b0x @theswandog What if I want to use your component, but my app doesn't use Redux? What if… https://t.co/nplICuNXTk",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 962957339245600800,
+   "in_reply_to_screen_name": "robertwilliam_s",
+   "urls": [
+    {
+     "url": "https://t.co/nplICuNXTk",
+     "expand": "https://twitter.com/i/web/status/963059083774447616"
+    }
+   ]
+  },
+  {
+   "id": 963058289624997900,
+   "id_str": "963058289624997888",
+   "created_at": "Mon Feb 12 14:32:43 +0000 2018",
+   "text": "Most common example: I see people using Redux to hold form values. \n\nRule: If only a single component cares about t… https://t.co/6EHEB1yErD",
+   "retweet_count": 29,
+   "favorite_count": 139,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6EHEB1yErD",
+     "expand": "https://twitter.com/i/web/status/963058289624997888"
+    }
+   ]
+  },
+  {
+   "id": 963017745347629000,
+   "id_str": "963017745347629056",
+   "created_at": "Mon Feb 12 11:51:37 +0000 2018",
+   "text": "@egormerkushev More code, more ceremony, more confusion for beginners",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 962909518526066700,
+   "in_reply_to_screen_name": "egormerkushev",
    "urls": []
   }
  ]

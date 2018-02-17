@@ -1,28 +1,556 @@
 {
- "time": 1518414615967,
+ "time": 1518869258627,
  "lists": [
   {
-   "id": 962769009904177200,
-   "id_str": "962769009904177153",
-   "created_at": "Sun Feb 11 19:23:14 +0000 2018",
-   "text": "RT @__apf__: People sometimes wonder why the @googlechrome team pushes HTTPS so hard. I've read some good conspiracy theories. 👽 Here's the…",
-   "retweet_count": 170,
+   "id": 964796408812499000,
+   "id_str": "964796408812498944",
+   "created_at": "Sat Feb 17 09:39:23 +0000 2018",
+   "text": "RT @smashingmag: Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing. https://t.co/T09SvhhqFr by @kizmarh /…",
+   "retweet_count": 63,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/T09SvhhqFr",
+     "expand": "http://kizu.ru/en/blog/variable-order/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964792025580269600,
+    "id_str": "964792025580269569",
+    "created_at": "Sat Feb 17 09:21:58 +0000 2018",
+    "text": "Ordering a table with CSS Custom Properties and the order: property. Mind. Blowing. https://t.co/T09SvhhqFr by… https://t.co/eigHx9RRN8",
+    "retweet_count": 63,
+    "favorite_count": 179,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/T09SvhhqFr",
+      "expand": "http://kizu.ru/en/blog/variable-order/"
+     },
+     {
+      "url": "https://t.co/eigHx9RRN8",
+      "expand": "https://twitter.com/i/web/status/964792025580269569"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964529345699119100,
+   "id_str": "964529345699119104",
+   "created_at": "Fri Feb 16 15:58:10 +0000 2018",
+   "text": "RT @GdnMobileLab: We’re so happy to have launched a new project today: an experimental audio player designed for mobile web. To launch it w…",
+   "retweet_count": 26,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 962768024246698000,
-    "id_str": "962768024246697984",
-    "created_at": "Sun Feb 11 19:19:19 +0000 2018",
-    "text": "People sometimes wonder why the @googlechrome team pushes HTTPS so hard. I've read some good conspiracy theories. 👽 Here's the reality:",
-    "retweet_count": 170,
-    "favorite_count": 382,
+    "id": 964213015485837300,
+    "id_str": "964213015485837313",
+    "created_at": "Thu Feb 15 19:01:11 +0000 2018",
+    "text": "We’re so happy to have launched a new project today: an experimental audio player designed for mobile web. To launc… https://t.co/2m2uK75FpD",
+    "retweet_count": 26,
+    "favorite_count": 51,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,
-    "urls": []
+    "urls": [
+     {
+      "url": "https://t.co/2m2uK75FpD",
+      "expand": "https://twitter.com/i/web/status/964213015485837313"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964437173838770200,
+   "id_str": "964437173838770176",
+   "created_at": "Fri Feb 16 09:51:55 +0000 2018",
+   "text": "@HenriHelvetica @ChromeDevTools We've had device shells for a little while now (at least a year..)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964431498945298400,
+   "in_reply_to_screen_name": "HenriHelvetica",
+   "urls": []
+  },
+  {
+   "id": 964296117860143100,
+   "id_str": "964296117860143104",
+   "created_at": "Fri Feb 16 00:31:24 +0000 2018",
+   "text": "@sil @gauntface @owencm Meh. Next you'll all be suggesting https://t.co/kt1mkeSlKX output. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964295186858864600,
+   "in_reply_to_screen_name": "sil",
+   "urls": [
+    {
+     "url": "https://t.co/kt1mkeSlKX",
+     "expand": "http://schema.org"
+    }
+   ]
+  },
+  {
+   "id": 964293207151476700,
+   "id_str": "964293207151476737",
+   "created_at": "Fri Feb 16 00:19:50 +0000 2018",
+   "text": "@gauntface @owencm It's transportable and convertable",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964292795019100200,
+   "in_reply_to_screen_name": "gauntface",
+   "urls": []
+  },
+  {
+   "id": 964292085389119500,
+   "id_str": "964292085389119488",
+   "created_at": "Fri Feb 16 00:15:23 +0000 2018",
+   "text": "@owencm Vcard at a minimum. Shouldnt do Json I'm, ecosystem should manage that.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964280373697040400,
+   "in_reply_to_screen_name": "owencm",
+   "urls": []
+  },
+  {
+   "id": 964291741024227300,
+   "id_str": "964291741024227330",
+   "created_at": "Fri Feb 16 00:14:01 +0000 2018",
+   "text": "RT @owencm: Question: we're examining what a Contacts API📲 (with permissions or picker) for the web would look like. Anyone have thoughts o…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964280373697040400,
+    "id_str": "964280373697040384",
+    "created_at": "Thu Feb 15 23:28:51 +0000 2018",
+    "text": "Question: we're examining what a Contacts API📲 (with permissions or picker) for the web would look like. Anyone hav… https://t.co/p6bteouPaT",
+    "retweet_count": 13,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/p6bteouPaT",
+      "expand": "https://twitter.com/i/web/status/964280373697040384"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964111496740515800,
+   "id_str": "964111496740515841",
+   "created_at": "Thu Feb 15 12:17:47 +0000 2018",
+   "text": "RT @jaffathecake: Since we're all talking about abstractions: @Una and @g33konaut looked at various mix-blend-mode operations in CSS, then…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964101276681293800,
+    "id_str": "964101276681293824",
+    "created_at": "Thu Feb 15 11:37:11 +0000 2018",
+    "text": "Since we're all talking about abstractions: @Una and @g33konaut looked at various mix-blend-mode operations in CSS,… https://t.co/jyGek1kJY2",
+    "retweet_count": 9,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jyGek1kJY2",
+      "expand": "https://twitter.com/i/web/status/964101276681293824"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963912234480087000,
+   "id_str": "963912234480087042",
+   "created_at": "Wed Feb 14 23:05:59 +0000 2018",
+   "text": "RT @owencm: Want to try out the new Clipboard API? 😍 Enable the 'clipboard-content-setting' flag in chrome://flags and try it out! Coming t…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963858895889367000,
+    "id_str": "963858895889367040",
+    "created_at": "Wed Feb 14 19:34:03 +0000 2018",
+    "text": "Want to try out the new Clipboard API? 😍 Enable the 'clipboard-content-setting' flag in chrome://flags and try it o… https://t.co/J407nmxi0g",
+    "retweet_count": 19,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/J407nmxi0g",
+      "expand": "https://twitter.com/i/web/status/963858895889367040"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963894815858544600,
+   "id_str": "963894815858544644",
+   "created_at": "Wed Feb 14 21:56:47 +0000 2018",
+   "text": "RT @kennethrohde: Yay, Chrome's Web Bluetooth support is really improving on Windows! https://t.co/3tqyIh7pMU cc/ @bluetooth_mdw @UriShaked",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3tqyIh7pMU",
+     "expand": "https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963891789575917600,
+    "id_str": "963891789575917573",
+    "created_at": "Wed Feb 14 21:44:45 +0000 2018",
+    "text": "Yay, Chrome's Web Bluetooth support is really improving on Windows! https://t.co/3tqyIh7pMU cc/ @bluetooth_mdw @UriShaked",
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3tqyIh7pMU",
+      "expand": "https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963673383962599400,
+   "id_str": "963673383962599425",
+   "created_at": "Wed Feb 14 07:16:53 +0000 2018",
+   "text": "@pbakaus I'll be about an hour.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963673250491502600,
+   "in_reply_to_screen_name": "pbakaus",
+   "urls": []
+  },
+  {
+   "id": 963672984069267500,
+   "id_str": "963672984069267457",
+   "created_at": "Wed Feb 14 07:15:18 +0000 2018",
+   "text": "Good morning Amsterdam",
+   "retweet_count": 0,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963519672258908200,
+   "id_str": "963519672258908162",
+   "created_at": "Tue Feb 13 21:06:05 +0000 2018",
+   "text": "@DasSurma I thought you just recorded on a green screen... I've only been in that room once.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963519540880699400,
+   "in_reply_to_screen_name": "DasSurma",
+   "urls": []
+  },
+  {
+   "id": 963519292812812300,
+   "id_str": "963519292812812289",
+   "created_at": "Tue Feb 13 21:04:35 +0000 2018",
+   "text": "@DasSurma Well, I meant your set.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963519150839812100,
+   "in_reply_to_screen_name": "DasSurma",
+   "urls": []
+  },
+  {
+   "id": 963518760886906900,
+   "id_str": "963518760886906882",
+   "created_at": "Tue Feb 13 21:02:28 +0000 2018",
+   "text": "@DasSurma I honestly thought it was a green screen.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963506877198929900,
+   "in_reply_to_screen_name": "DasSurma",
+   "urls": []
+  },
+  {
+   "id": 963437314188902400,
+   "id_str": "963437314188902400",
+   "created_at": "Tue Feb 13 15:38:50 +0000 2018",
+   "text": "RT @hellonehha: I just published “[PWA Series] Service workers Cookbook — Part 1” https://t.co/yC4HHqADWb",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yC4HHqADWb",
+     "expand": "https://medium.com/p/pwa-series-service-workers-cookbook-part-1-c89fa0d547a7"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963397863010168800,
+    "id_str": "963397863010168832",
+    "created_at": "Tue Feb 13 13:02:04 +0000 2018",
+    "text": "I just published “[PWA Series] Service workers Cookbook — Part 1” https://t.co/yC4HHqADWb",
+    "retweet_count": 19,
+    "favorite_count": 54,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yC4HHqADWb",
+      "expand": "https://medium.com/p/pwa-series-service-workers-cookbook-part-1-c89fa0d547a7"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963382987638362100,
+   "id_str": "963382987638362112",
+   "created_at": "Tue Feb 13 12:02:57 +0000 2018",
+   "text": "RT @ChrisLove: @DeanoHume New Progressive Web App book is available for Pre-Order (print only) It is $39.99 #pwa #html5 #webdevelopment  ht…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963366153799327700,
+    "id_str": "963366153799327745",
+    "created_at": "Tue Feb 13 10:56:04 +0000 2018",
+    "text": "@DeanoHume New Progressive Web App book is available for Pre-Order (print only) It is $39.99 #pwa #html5… https://t.co/xbBDFLStsc",
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": "DeanoHume",
+    "urls": [
+     {
+      "url": "https://t.co/xbBDFLStsc",
+      "expand": "https://twitter.com/i/web/status/963366153799327745"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963382440013258800,
+   "id_str": "963382440013258752",
+   "created_at": "Tue Feb 13 12:00:47 +0000 2018",
+   "text": "@geekyouup :D welcome back dude. Missed you.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963382230792974300,
+   "in_reply_to_screen_name": "geekyouup",
+   "urls": []
+  },
+  {
+   "id": 963381105666773000,
+   "id_str": "963381105666772997",
+   "created_at": "Tue Feb 13 11:55:29 +0000 2018",
+   "text": "@geekyouup Damn it. I thought we got rid of you.",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 963358218964602900,
+   "in_reply_to_screen_name": "geekyouup",
+   "urls": []
+  },
+  {
+   "id": 963355566268706800,
+   "id_str": "963355566268706816",
+   "created_at": "Tue Feb 13 10:13:59 +0000 2018",
+   "text": "RT @merseycode: Next week, @jaffathecake will be with us to talk about the JavaScript event loop. 6.30pm on Thursday 22 February at @LpoolS…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963343701232750600,
+    "id_str": "963343701232750593",
+    "created_at": "Tue Feb 13 09:26:51 +0000 2018",
+    "text": "Next week, @jaffathecake will be with us to talk about the JavaScript event loop. 6.30pm on Thursday 22 February at… https://t.co/uyVGvg9Clq",
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uyVGvg9Clq",
+      "expand": "https://twitter.com/i/web/status/963343701232750593"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963329089875701800,
+   "id_str": "963329089875701760",
+   "created_at": "Tue Feb 13 08:28:47 +0000 2018",
+   "text": "RT @ChromiumDev: 📣 The latest monthly release of the Chrome UX Report is now available on BigQuery!\n\n📈 Over 1M new origins were added so th…",
+   "retweet_count": 23,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963154396778586100,
+    "id_str": "963154396778586112",
+    "created_at": "Mon Feb 12 20:54:37 +0000 2018",
+    "text": "📣 The latest monthly release of the Chrome UX Report is now available on BigQuery!\n\n📈 Over 1M new origins were adde… https://t.co/LJWLq74rxP",
+    "retweet_count": 23,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LJWLq74rxP",
+      "expand": "https://twitter.com/i/web/status/963154396778586112"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963066307397718000,
+   "id_str": "963066307397718018",
+   "created_at": "Mon Feb 12 15:04:35 +0000 2018",
+   "text": "@WalterStephanie Done",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963065312865341400,
+   "in_reply_to_screen_name": "WalterStephanie",
+   "urls": []
+  },
+  {
+   "id": 963066283037163500,
+   "id_str": "963066283037163520",
+   "created_at": "Mon Feb 12 15:04:29 +0000 2018",
+   "text": "RT @WalterStephanie: Speaker friends, we are currently building a plugin to help us list and showcase the talks we give on our blogs and pe…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963065312865341400,
+    "id_str": "963065312865341441",
+    "created_at": "Mon Feb 12 15:00:38 +0000 2018",
+    "text": "Speaker friends, we are currently building a plugin to help us list and showcase the talks we give on our blogs and… https://t.co/YQIsNbEXkX",
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YQIsNbEXkX",
+      "expand": "https://twitter.com/i/web/status/963065312865341441"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963017917204959200,
+   "id_str": "963017917204959232",
+   "created_at": "Mon Feb 12 11:52:18 +0000 2018",
+   "text": "@pwaexpert @WhatWebCanDo Native to web app will be landing soon.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 962993799768125400,
+   "in_reply_to_screen_name": "pwaexpert",
+   "urls": []
+  },
+  {
+   "id": 963014663985274900,
+   "id_str": "963014663985274880",
+   "created_at": "Mon Feb 12 11:39:22 +0000 2018",
+   "text": "@jaffathecake @moreshud15 @iamchilas @mykeels What kind of a world do you think we live in.",
+   "retweet_count": 0,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": 963014603960672300,
+   "in_reply_to_screen_name": "Paul_Kinlan",
+   "urls": []
+  },
+  {
+   "id": 963014603960672300,
+   "id_str": "963014603960672257",
+   "created_at": "Mon Feb 12 11:39:08 +0000 2018",
+   "text": "@jaffathecake @moreshud15 @iamchilas @mykeels 24 hours????",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 963013220154925000,
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": []
+  },
+  {
+   "id": 962932585235124200,
+   "id_str": "962932585235124224",
+   "created_at": "Mon Feb 12 06:13:13 +0000 2018",
+   "text": "RT @igrigorik: in related news, the silly demo CrUX assistant agent I built is actually turning out to be quite fun and useful — thinking m…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962900239756570600,
+    "id_str": "962900239756570624",
+    "created_at": "Mon Feb 12 04:04:41 +0000 2018",
+    "text": "in related news, the silly demo CrUX assistant agent I built is actually turning out to be quite fun and useful — t… https://t.co/gMaoSBZv2R",
+    "retweet_count": 6,
+    "favorite_count": 52,
+    "place": null,
+    "in_reply_to_status_id": 962898524160454700,
+    "in_reply_to_screen_name": "igrigorik",
+    "urls": [
+     {
+      "url": "https://t.co/gMaoSBZv2R",
+      "expand": "https://twitter.com/i/web/status/962900239756570624"
+     }
+    ]
    }
   }
  ]

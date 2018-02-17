@@ -1,6 +1,35 @@
 {
- "time": 1518414605385,
+ "time": 1518870395473,
  "lists": [
+  {
+   "id": 964190711036878800,
+   "id_str": "964190711036878848",
+   "created_at": "Thu Feb 15 17:32:33 +0000 2018",
+   "text": "RT @parceljs: Parcel v1.6.0 is out! 🚀\n\n🐠 Zero config ES6+: no .babelrc required!\n⚛️ Automatic JSX for React and Preact\n🌐 Node and Electron…",
+   "retweet_count": 336,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964189837807861800,
+    "id_str": "964189837807861761",
+    "created_at": "Thu Feb 15 17:29:05 +0000 2018",
+    "text": "Parcel v1.6.0 is out! 🚀\n\n🐠 Zero config ES6+: no .babelrc required!\n⚛️ Automatic JSX for React and Preact\n🌐 Node and… https://t.co/cic1ZYedAa",
+    "retweet_count": 336,
+    "favorite_count": 1002,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cic1ZYedAa",
+      "expand": "https://twitter.com/i/web/status/964189837807861761"
+     }
+    ]
+   }
+  },
   {
    "id": 955901433248825300,
    "id_str": "955901433248825345",
@@ -23,7 +52,7 @@
     "created_at": "Tue Jan 23 18:39:50 +0000 2018",
     "text": "Want to use @rustlang on the web? With Parcel v1.5.0, it’s only 2 steps:\n\n1. Install https://t.co/3bomPKc0zI\n2. Imp… https://t.co/C1Kanmdo1E",
     "retweet_count": 242,
-    "favorite_count": 551,
+    "favorite_count": 552,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,

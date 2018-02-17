@@ -1,43 +1,29 @@
 {
- "time": 1518412083749,
+ "time": 1518870384834,
  "lists": [
   {
-   "id": 962627318068990000,
-   "id_str": "962627318068989952",
-   "created_at": "Sun Feb 11 10:00:12 +0000 2018",
-   "text": "RT @igrigorik: Chrome 68 (shipping in July 2018) will mark all HTTP sites as \"not secure\": https://t.co/akwQ9VjtzB — as it should have been…",
-   "retweet_count": 298,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/akwQ9VjtzB",
-     "expand": "http://bit.ly/2nSq6Ha"
-    }
-   ],
-   "retweeted_status": {
-    "id": 961718214404329500,
-    "id_str": "961718214404329473",
-    "created_at": "Thu Feb 08 21:47:44 +0000 2018",
-    "text": "Chrome 68 (shipping in July 2018) will mark all HTTP sites as \"not secure\": https://t.co/akwQ9VjtzB — as it should… https://t.co/Pbt4ZRi7EL",
-    "retweet_count": 298,
-    "favorite_count": 384,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/akwQ9VjtzB",
-      "expand": "http://bit.ly/2nSq6Ha"
-     },
-     {
-      "url": "https://t.co/Pbt4ZRi7EL",
-      "expand": "https://twitter.com/i/web/status/961718214404329473"
-     }
-    ]
-   }
+   "id": 963448529128771600,
+   "id_str": "963448529128771584",
+   "created_at": "Tue Feb 13 16:23:24 +0000 2018",
+   "text": "@steely_glint @jaffathecake But @dan_jenkins or @DeanoHume  of course :). (Sorry — you caught me half way down a ski slope 😃.)",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Corvara in Badia, Trentino-Alto Adige",
+   "in_reply_to_status_id": 963415043961425900,
+   "in_reply_to_screen_name": "sw12",
+   "urls": []
+  },
+  {
+   "id": 963415043961425900,
+   "id_str": "963415043961425920",
+   "created_at": "Tue Feb 13 14:10:20 +0000 2018",
+   "text": "@steely_glint Might as well go straight to @jaffathecake  :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Corvara in Badia, Trentino-Alto Adige",
+   "in_reply_to_status_id": 963383339636883500,
+   "in_reply_to_screen_name": "steely_glint",
+   "urls": []
   }
  ]
 }

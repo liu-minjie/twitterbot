@@ -1,27 +1,80 @@
 {
- "time": 1518413358667,
+ "time": 1518869611968,
  "lists": [
   {
-   "id": 962785653774790700,
-   "id_str": "962785653774790656",
-   "created_at": "Sun Feb 11 20:29:22 +0000 2018",
-   "text": "RT @gmelnik: Something GIANT is coming! Join us in Seattle (https://t.co/feYsI4IQkA) or tune in Feb 15, 9am PT for our announcement. Live s…",
+   "id": 964633796137160700,
+   "id_str": "964633796137160707",
+   "created_at": "Fri Feb 16 22:53:13 +0000 2018",
+   "text": "RT @muthumongo: Apply to MongoDB's Startup Accelerator!  - Credits, Support and access to network with other members of the community! - ht…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964630099176935400,
+    "id_str": "964630099176935426",
+    "created_at": "Fri Feb 16 22:38:32 +0000 2018",
+    "text": "Apply to MongoDB's Startup Accelerator!  - Credits, Support and access to network with other members of the communi… https://t.co/s5DfJEw4Nz",
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/s5DfJEw4Nz",
+      "expand": "https://twitter.com/i/web/status/964630099176935426"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964198603857252400,
+   "id_str": "964198603857252353",
+   "created_at": "Thu Feb 15 18:03:55 +0000 2018",
+   "text": "RT @4BringingFire: Here @eliothorowitz shows off how easy it is to write front-end code against backend-as-a-service MongoDB Stitch. Also,…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964198084317032400,
+    "id_str": "964198084317032448",
+    "created_at": "Thu Feb 15 18:01:51 +0000 2018",
+    "text": "Here @eliothorowitz shows off how easy it is to write front-end code against backend-as-a-service MongoDB Stitch. A… https://t.co/kb0zFkJcKb",
+    "retweet_count": 7,
+    "favorite_count": 29,
+    "place": "Seattle, WA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/kb0zFkJcKb",
+      "expand": "https://twitter.com/i/web/status/964198084317032448"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964196582492123100,
+   "id_str": "964196582492123137",
+   "created_at": "Thu Feb 15 17:55:53 +0000 2018",
+   "text": "RT @meisenberg: #MongoDB Stitch - strong services with @github @twilio @stripe @SlackHQ @PubNub @Mail_Gun @AmazonSES @googlecloud #MDBlocal…",
    "retweet_count": 5,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/feYsI4IQkA",
-     "expand": "https://www.mongodb.com/local/seattle"
-    }
-   ],
+   "urls": [],
    "retweeted_status": {
-    "id": 962717218726277100,
-    "id_str": "962717218726277120",
-    "created_at": "Sun Feb 11 15:57:26 +0000 2018",
-    "text": "Something GIANT is coming! Join us in Seattle (https://t.co/feYsI4IQkA) or tune in Feb 15, 9am PT for our announcem… https://t.co/RdGDVcviMk",
+    "id": 964196099056529400,
+    "id_str": "964196099056529408",
+    "created_at": "Thu Feb 15 17:53:58 +0000 2018",
+    "text": "#MongoDB Stitch - strong services with @github @twilio @stripe @SlackHQ @PubNub @Mail_Gun @AmazonSES @googlecloud… https://t.co/Z0euXCdc5K",
     "retweet_count": 5,
     "favorite_count": 8,
     "place": null,
@@ -29,15 +82,161 @@
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/feYsI4IQkA",
-      "expand": "https://www.mongodb.com/local/seattle"
-     },
-     {
-      "url": "https://t.co/RdGDVcviMk",
-      "expand": "https://twitter.com/i/web/status/962717218726277120"
+      "url": "https://t.co/Z0euXCdc5K",
+      "expand": "https://twitter.com/i/web/status/964196099056529408"
      }
     ]
    }
+  },
+  {
+   "id": 964191071302496300,
+   "id_str": "964191071302496258",
+   "created_at": "Thu Feb 15 17:33:59 +0000 2018",
+   "text": "RT @rlondner: But we’re not done yet: #MongoDBCharts are in the making too and will allow you to build visual dashboards on your #MongoDB d…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964189564909711400,
+    "id_str": "964189564909711361",
+    "created_at": "Thu Feb 15 17:28:00 +0000 2018",
+    "text": "But we’re not done yet: #MongoDBCharts are in the making too and will allow you to build visual dashboards on your… https://t.co/ndLfrces1s",
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ndLfrces1s",
+      "expand": "https://twitter.com/i/web/status/964189564909711361"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964187624738115600,
+   "id_str": "964187624738115584",
+   "created_at": "Thu Feb 15 17:20:18 +0000 2018",
+   "text": "RT @jaydestro: Our CTO @eliothorowitz announcing TRANSACTIONS for @MongoDB 4.0 https://t.co/ti4cK7yN0Z",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964186606532902900,
+    "id_str": "964186606532902912",
+    "created_at": "Thu Feb 15 17:16:15 +0000 2018",
+    "text": "Our CTO @eliothorowitz announcing TRANSACTIONS for @MongoDB 4.0 https://t.co/ti4cK7yN0Z",
+    "retweet_count": 22,
+    "favorite_count": 53,
+    "place": "Bell Harbor International Conference Center",
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964167199706484700,
+   "id_str": "964167199706484736",
+   "created_at": "Thu Feb 15 15:59:08 +0000 2018",
+   "text": "RT @dittycheria: A seminal product announcement from @MongoDB.\n\nhttps://t.co/sHBL9YoQwc",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/sHBL9YoQwc",
+     "expand": "https://www.linkedin.com/pulse/seminal-product-announcement-dev-ittycheria/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964158089703325700,
+    "id_str": "964158089703325696",
+    "created_at": "Thu Feb 15 15:22:56 +0000 2018",
+    "text": "A seminal product announcement from @MongoDB.\n\nhttps://t.co/sHBL9YoQwc",
+    "retweet_count": 29,
+    "favorite_count": 38,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sHBL9YoQwc",
+      "expand": "https://www.linkedin.com/pulse/seminal-product-announcement-dev-ittycheria/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964152063151272000,
+   "id_str": "964152063151271936",
+   "created_at": "Thu Feb 15 14:58:59 +0000 2018",
+   "text": "RT @gmelnik: A seminal moment - @MongoDB drops ACID https://t.co/ykqKHGzyNq. More on our journey: https://t.co/oB7yCjbBWr #transactions htt…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ykqKHGzyNq",
+     "expand": "https://www.mongodb.com/blog/post/multi-document-transactions-in-mongodb"
+    },
+    {
+     "url": "https://t.co/oB7yCjbBWr",
+     "expand": "https://www.mongodb.com/blog/post/multi-document-transactions"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964151576917979100,
+    "id_str": "964151576917979136",
+    "created_at": "Thu Feb 15 14:57:03 +0000 2018",
+    "text": "A seminal moment - @MongoDB drops ACID https://t.co/ykqKHGzyNq. More on our journey: https://t.co/oB7yCjbBWr… https://t.co/FGZE8pLkx9",
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ykqKHGzyNq",
+      "expand": "https://www.mongodb.com/blog/post/multi-document-transactions-in-mongodb"
+     },
+     {
+      "url": "https://t.co/oB7yCjbBWr",
+      "expand": "https://www.mongodb.com/blog/post/multi-document-transactions"
+     },
+     {
+      "url": "https://t.co/FGZE8pLkx9",
+      "expand": "https://twitter.com/i/web/status/964151576917979136"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964151803003760600,
+   "id_str": "964151803003760640",
+   "created_at": "Thu Feb 15 14:57:57 +0000 2018",
+   "text": "MongoDB 4.0 will have transactions and ACID guarantees. Go ahead, have your cake and eat it too! ;-) https://t.co/icm7XiFw50",
+   "retweet_count": 3,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/icm7XiFw50",
+     "expand": "https://www.mongodb.com/transactions"
+    }
+   ]
   }
  ]
 }

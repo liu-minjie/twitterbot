@@ -1,17 +1,180 @@
 {
- "time": 1518414049200,
+ "time": 1518869617200,
  "lists": [
   {
-   "id": 962900718255419400,
-   "id_str": "962900718255419392",
-   "created_at": "Mon Feb 12 04:06:35 +0000 2018",
-   "text": "@dalmaer @greenido Sounds like I should eh? Need to do some polish on it before it's production ready though.. :)",
-   "retweet_count": 0,
+   "id": 963910873147256800,
+   "id_str": "963910873147256832",
+   "created_at": "Wed Feb 14 23:00:35 +0000 2018",
+   "text": "also, a nice hands-on guide on server push+nginx @ https://t.co/H54cKN5vjt — bonus points for chrome://net-internals and Wireshark tips!",
+   "retweet_count": 11,
+   "favorite_count": 54,
+   "place": null,
+   "in_reply_to_status_id": 963899438602178600,
+   "in_reply_to_screen_name": "igrigorik",
+   "urls": [
+    {
+     "url": "https://t.co/H54cKN5vjt",
+     "expand": "http://bit.ly/2EJ9dJm"
+    }
+   ]
+  },
+  {
+   "id": 963899438602178600,
+   "id_str": "963899438602178560",
+   "created_at": "Wed Feb 14 22:15:09 +0000 2018",
+   "text": "woot, nginx landed support for H2 server push: https://t.co/hiQay6jKbx - you can also enable Link (rel=preload) hea… https://t.co/SYJ8XtjtJq",
+   "retweet_count": 78,
+   "favorite_count": 177,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hiQay6jKbx",
+     "expand": "http://bit.ly/2EJzSpo"
+    },
+    {
+     "url": "https://t.co/SYJ8XtjtJq",
+     "expand": "https://twitter.com/i/web/status/963899438602178560"
+    }
+   ]
+  },
+  {
+   "id": 963665892839129100,
+   "id_str": "963665892839129095",
+   "created_at": "Wed Feb 14 06:47:07 +0000 2018",
+   "text": "RT @HenriHelvetica: If you're wondering what's in Amazon's secret sauce aka why they're a top eTailer, look under First Contentful Paint. A…",
+   "retweet_count": 40,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 962898886858690600,
-   "in_reply_to_screen_name": "dalmaer",
-   "urls": []
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963074986603786200,
+    "id_str": "963074986603786240",
+    "created_at": "Mon Feb 12 15:39:04 +0000 2018",
+    "text": "If you're wondering what's in Amazon's secret sauce aka why they're a top eTailer, look under First Contentful Pain… https://t.co/Y2V6ly3HEN",
+    "retweet_count": 40,
+    "favorite_count": 68,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Y2V6ly3HEN",
+      "expand": "https://twitter.com/i/web/status/963074986603786240"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963589834194395100,
+   "id_str": "963589834194395136",
+   "created_at": "Wed Feb 14 01:44:53 +0000 2018",
+   "text": "RT @pbakaus: User-authored JS in @AMPhtml. Yes, really (well, probably).\n\nPowered by off-main-thread web workers with throttled/managed asy…",
+   "retweet_count": 42,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963522581138673700,
+    "id_str": "963522581138673664",
+    "created_at": "Tue Feb 13 21:17:39 +0000 2018",
+    "text": "User-authored JS in @AMPhtml. Yes, really (well, probably).\n\nPowered by off-main-thread web workers with throttled/… https://t.co/HBWBuQB9Rq",
+    "retweet_count": 42,
+    "favorite_count": 99,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HBWBuQB9Rq",
+      "expand": "https://twitter.com/i/web/status/963522581138673664"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963536259170820100,
+   "id_str": "963536259170820096",
+   "created_at": "Tue Feb 13 22:12:00 +0000 2018",
+   "text": "Visualizing the Uncertainty in Data: https://t.co/zfMp7WjvKd - great UX tips for visualizing ranges, distributions,… https://t.co/GKFlTZjhS2",
+   "retweet_count": 34,
+   "favorite_count": 124,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zfMp7WjvKd",
+     "expand": "http://bit.ly/2nQgSfy"
+    },
+    {
+     "url": "https://t.co/GKFlTZjhS2",
+     "expand": "https://twitter.com/i/web/status/963536259170820096"
+    }
+   ]
+  },
+  {
+   "id": 963210419568500700,
+   "id_str": "963210419568500736",
+   "created_at": "Tue Feb 13 00:37:14 +0000 2018",
+   "text": "Chrome User Experience Report for 01/18 is live, now covering 3M+ origins! 👏\n\nNeed an intro to why CrUX exists and… https://t.co/rBsQaXYMjP",
+   "retweet_count": 11,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rBsQaXYMjP",
+     "expand": "https://twitter.com/i/web/status/963210419568500736"
+    }
+   ]
+  },
+  {
+   "id": 963203695365128200,
+   "id_str": "963203695365128192",
+   "created_at": "Tue Feb 13 00:10:31 +0000 2018",
+   "text": "RT @m_m_campbell: It’s math.\n\nIt’s art.\n\nIt’s Fourier transform.\n\nBrilliant: https://t.co/y8Ol7Av1rv\n\n#mathematics #SciArt via @jagarikin",
+   "retweet_count": 4832,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962834907285348400,
+    "id_str": "962834907285348352",
+    "created_at": "Sun Feb 11 23:45:05 +0000 2018",
+    "text": "It’s math.\n\nIt’s art.\n\nIt’s Fourier transform.\n\nBrilliant: https://t.co/y8Ol7Av1rv\n\n#mathematics #SciArt via @jagarikin",
+    "retweet_count": 4832,
+    "favorite_count": 9389,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963103407056699400,
+   "id_str": "963103407056699393",
+   "created_at": "Mon Feb 12 17:32:00 +0000 2018",
+   "text": "Tinder PWA performance case study: https://t.co/g8bPO8ESAk - jam-packed perf tips article by @addyosmani; must read! https://t.co/IJoOZ5m7gI",
+   "retweet_count": 40,
+   "favorite_count": 178,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/g8bPO8ESAk",
+     "expand": "http://bit.ly/2nUZvtX"
+    }
+   ]
   }
  ]
 }

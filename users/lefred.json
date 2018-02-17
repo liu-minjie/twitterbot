@@ -1,6 +1,347 @@
 {
- "time": 1518413403235,
+ "time": 1518869611311,
  "lists": [
+  {
+   "id": 964615966478032900,
+   "id_str": "964615966478032898",
+   "created_at": "Fri Feb 16 21:42:22 +0000 2018",
+   "text": "RT @mysqlplus: #MySQL 5.7 Multi-threads replication operation tips https://t.co/SQVIgydG7x",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SQVIgydG7x",
+     "expand": "https://fb.me/HNTm0bWp"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964605583700774900,
+    "id_str": "964605583700774914",
+    "created_at": "Fri Feb 16 21:01:07 +0000 2018",
+    "text": "#MySQL 5.7 Multi-threads replication operation tips https://t.co/SQVIgydG7x",
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SQVIgydG7x",
+      "expand": "https://fb.me/HNTm0bWp"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964615869899952100,
+   "id_str": "964615869899952128",
+   "created_at": "Fri Feb 16 21:41:59 +0000 2018",
+   "text": "@dathanvp @MySQL Thank you, we will do our best, this is the first one!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964538404296773600,
+   "in_reply_to_screen_name": "dathanvp",
+   "urls": []
+  },
+  {
+   "id": 964536596585427000,
+   "id_str": "964536596585426944",
+   "created_at": "Fri Feb 16 16:26:59 +0000 2018",
+   "text": "TOP 10 @MySQL 8.0 features for DBAs &amp; OPS  https://t.co/UXdljqfUlB",
+   "retweet_count": 5,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UXdljqfUlB",
+     "expand": "http://lefred.be/content/top-10-mysql-8-0-features-for-dbas-ops/"
+    }
+   ]
+  },
+  {
+   "id": 964535583937908700,
+   "id_str": "964535583937908736",
+   "created_at": "Fri Feb 16 16:22:58 +0000 2018",
+   "text": "One year of @MySQL Replication Contributions https://t.co/l96a8BiXfu",
+   "retweet_count": 3,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/l96a8BiXfu",
+     "expand": "https://mysqlhighavailability.com/one-year-of-mysql-replication-contributions/"
+    }
+   ]
+  },
+  {
+   "id": 964377687165775900,
+   "id_str": "964377687165775872",
+   "created_at": "Fri Feb 16 05:55:32 +0000 2018",
+   "text": "RT @stoker: #MySQL 8 -- A new beginning slides for #SunshinePHP and  #PHPUKconference (updated after feedback) by @stoker  https://t.co/uHr…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964236263380455400,
+    "id_str": "964236263380455425",
+    "created_at": "Thu Feb 15 20:33:34 +0000 2018",
+    "text": "#MySQL 8 -- A new beginning slides for #SunshinePHP and  #PHPUKconference (updated after feedback) by @stoker… https://t.co/jlVLrV2q2l",
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jlVLrV2q2l",
+      "expand": "https://twitter.com/i/web/status/964236263380455425"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963886831120146400,
+   "id_str": "963886831120146436",
+   "created_at": "Wed Feb 14 21:25:03 +0000 2018",
+   "text": "RT @Percona: This Week in Data with Colin Charles 27: Percona Live Tutorials Released and a Comprehensive Review of the #FOSDEM #MySQL DevR…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963852547382480900,
+    "id_str": "963852547382480897",
+    "created_at": "Wed Feb 14 19:08:49 +0000 2018",
+    "text": "This Week in Data with Colin Charles 27: Percona Live Tutorials Released and a Comprehensive Review of the #FOSDEM… https://t.co/SoDvNHDu1g",
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SoDvNHDu1g",
+      "expand": "https://twitter.com/i/web/status/963852547382480897"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963885141474111500,
+   "id_str": "963885141474111489",
+   "created_at": "Wed Feb 14 21:18:20 +0000 2018",
+   "text": "RT @GeraldVenzl: Say Hello to Oracle’s #Vagrant #VirtualBox on #GitHub, the official  source for Vagrant config files for #Oracle products:…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963133655517294600,
+    "id_str": "963133655517294592",
+    "created_at": "Mon Feb 12 19:32:12 +0000 2018",
+    "text": "Say Hello to Oracle’s #Vagrant #VirtualBox on #GitHub, the official  source for Vagrant config files for #Oracle pr… https://t.co/IQEQonjglY",
+    "retweet_count": 41,
+    "favorite_count": 71,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IQEQonjglY",
+      "expand": "https://twitter.com/i/web/status/963133655517294592"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963698623635710000,
+   "id_str": "963698623635709952",
+   "created_at": "Wed Feb 14 08:57:11 +0000 2018",
+   "text": "Attention, pour ceux qui utilisent encore MyISAM avec @MySQL 40% de régression avec le fixe pour #meltdown !… https://t.co/CDGQtPBKZ0",
+   "retweet_count": 3,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CDGQtPBKZ0",
+     "expand": "https://twitter.com/i/web/status/963698623635709952"
+    }
+   ]
+  },
+  {
+   "id": 963694992026947600,
+   "id_str": "963694992026947584",
+   "created_at": "Wed Feb 14 08:42:45 +0000 2018",
+   "text": "@ShlomiNoach - Mom, what's Linux ?\n- Oh, it's the former name of systemd !",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963676256645668900,
+   "in_reply_to_screen_name": "ShlomiNoach",
+   "urls": []
+  },
+  {
+   "id": 963524401382772700,
+   "id_str": "963524401382772741",
+   "created_at": "Tue Feb 13 21:24:53 +0000 2018",
+   "text": "RT @stoker: I will be speaking at #Syntaxcon and then #SELF -- two great shows in the Carolinas that need you presence. Plan now for June a…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963498644828770300,
+    "id_str": "963498644828770304",
+    "created_at": "Tue Feb 13 19:42:32 +0000 2018",
+    "text": "I will be speaking at #Syntaxcon and then #SELF -- two great shows in the Carolinas that need you presence. Plan no… https://t.co/Y1UWg31EyY",
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Y1UWg31EyY",
+      "expand": "https://twitter.com/i/web/status/963498644828770304"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963491276254580700,
+   "id_str": "963491276254580737",
+   "created_at": "Tue Feb 13 19:13:15 +0000 2018",
+   "text": "TOP 10 @MySQL 8.0 features for developers  https://t.co/am0RBFYEbG",
+   "retweet_count": 8,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/am0RBFYEbG",
+     "expand": "http://lefred.be/content/top-10-mysql-8-0-features-for-developers/"
+    }
+   ]
+  },
+  {
+   "id": 963459246569476100,
+   "id_str": "963459246569476096",
+   "created_at": "Tue Feb 13 17:05:59 +0000 2018",
+   "text": "MyISAM suffers 40% performance regression from Meltdown Fix 😱, recommend switch to InnoDB #MySQL 😊",
+   "retweet_count": 29,
+   "favorite_count": 28,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963357828814721000,
+   "id_str": "963357828814721024",
+   "created_at": "Tue Feb 13 10:22:59 +0000 2018",
+   "text": "RT @MySQL: MySQL wishes all followers and fans who celebrate the lunar new year, a happy and prosperous year of the dog. Gong Xi Fa Cai! ht…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963352075794108400,
+    "id_str": "963352075794108417",
+    "created_at": "Tue Feb 13 10:00:07 +0000 2018",
+    "text": "MySQL wishes all followers and fans who celebrate the lunar new year, a happy and prosperous year of the dog. Gong… https://t.co/Eqq0zIsS1A",
+    "retweet_count": 20,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Eqq0zIsS1A",
+      "expand": "https://twitter.com/i/web/status/963352075794108417"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963293304690561000,
+   "id_str": "963293304690561025",
+   "created_at": "Tue Feb 13 06:06:35 +0000 2018",
+   "text": "RT @phparch: Steady as a rock, @MySQL is again sponsoring our Workshop Day to help us built up the knowledge of PHP developers! https://t.c…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963085795086229500,
+    "id_str": "963085795086229505",
+    "created_at": "Mon Feb 12 16:22:01 +0000 2018",
+    "text": "Steady as a rock, @MySQL is again sponsoring our Workshop Day to help us built up the knowledge of PHP developers!… https://t.co/RLrFT80B6l",
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RLrFT80B6l",
+      "expand": "https://twitter.com/i/web/status/963085795086229505"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963113817201881100,
+   "id_str": "963113817201881089",
+   "created_at": "Mon Feb 12 18:13:22 +0000 2018",
+   "text": "RT @fossasia: Thank you @Oracle @MySQL for your continuous support to #FOSSASIA Summit @fossasiasg. We’re happy to have you as a sponsor ag…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963018989373804500,
+    "id_str": "963018989373804546",
+    "created_at": "Mon Feb 12 11:56:33 +0000 2018",
+    "text": "Thank you @Oracle @MySQL for your continuous support to #FOSSASIA Summit @fossasiasg. We’re happy to have you as a… https://t.co/azE5OTaAQR",
+    "retweet_count": 13,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/azE5OTaAQR",
+      "expand": "https://twitter.com/i/web/status/963018989373804546"
+     }
+    ]
+   }
+  },
   {
    "id": 962114754557947900,
    "id_str": "962114754557947905",
