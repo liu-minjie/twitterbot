@@ -1,13 +1,371 @@
 {
- "time": 1518414191574,
+ "time": 1518870389314,
  "lists": [
+  {
+   "id": 964522991118827500,
+   "id_str": "964522991118827520",
+   "created_at": "Fri Feb 16 15:32:55 +0000 2018",
+   "text": "@w_cazzola Yes, Cook briefly covers Wegner's definitions. \n\nI think the key difference is the experienced-based rec… https://t.co/LsRE8TS0Ft",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Oregon, USA",
+   "in_reply_to_status_id": 964508291454980100,
+   "in_reply_to_screen_name": "w_cazzola",
+   "urls": [
+    {
+     "url": "https://t.co/LsRE8TS0Ft",
+     "expand": "https://twitter.com/i/web/status/964522991118827520"
+    }
+   ]
+  },
+  {
+   "id": 964323145044844500,
+   "id_str": "964323145044844544",
+   "created_at": "Fri Feb 16 02:18:48 +0000 2018",
+   "text": "@frankgreco Yup, I left that slide out of my Twitter summary",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Oregon, USA",
+   "in_reply_to_status_id": 961618351280873500,
+   "in_reply_to_screen_name": "frankgreco",
+   "urls": []
+  },
+  {
+   "id": 964234745826586600,
+   "id_str": "964234745826586624",
+   "created_at": "Thu Feb 15 20:27:32 +0000 2018",
+   "text": "@littledan Is it possible to subtweet a non-tweet??",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964233481718026200,
+   "in_reply_to_screen_name": "littledan",
+   "urls": []
+  },
+  {
+   "id": 964230041990193200,
+   "id_str": "964230041990193152",
+   "created_at": "Thu Feb 15 20:08:51 +0000 2018",
+   "text": "@tolmasky Also the computed property name approach can’t be used for functions that are going to be used as constructors.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964219591328231400,
+   "in_reply_to_screen_name": "tolmasky",
+   "urls": []
+  },
+  {
+   "id": 964229647981408300,
+   "id_str": "964229647981408256",
+   "created_at": "Thu Feb 15 20:07:17 +0000 2018",
+   "text": "@tolmasky You defProp abstracts fairly nicely:\n\nfunction name(n,f) {\n  return Object.defineProperty(f,\n’name’, {val… https://t.co/PlJcYoJ8zA",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964219591328231400,
+   "in_reply_to_screen_name": "tolmasky",
+   "urls": [
+    {
+     "url": "https://t.co/PlJcYoJ8zA",
+     "expand": "https://twitter.com/i/web/status/964229647981408256"
+    }
+   ]
+  },
+  {
+   "id": 964223076178128900,
+   "id_str": "964223076178128896",
+   "created_at": "Thu Feb 15 19:41:10 +0000 2018",
+   "text": "Sometimes it is an effective way to make progress.\n\nBut it can also be symptomatic of a flawed design whose holes y… https://t.co/0ADKuBve9B",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964202341728530400,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": [
+    {
+     "url": "https://t.co/0ADKuBve9B",
+     "expand": "https://twitter.com/i/web/status/964223076178128896"
+    }
+   ]
+  },
+  {
+   "id": 964202341728530400,
+   "id_str": "964202341728530432",
+   "created_at": "Thu Feb 15 18:18:46 +0000 2018",
+   "text": "The “kick the ball down the field” school of language design:\n\nFor now, let’s limit our design to supporting an imp… https://t.co/TnAkBImjN5",
+   "retweet_count": 3,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TnAkBImjN5",
+     "expand": "https://twitter.com/i/web/status/964202341728530432"
+    }
+   ]
+  },
+  {
+   "id": 963843212262621200,
+   "id_str": "963843212262621184",
+   "created_at": "Wed Feb 14 18:31:43 +0000 2018",
+   "text": "So was OOP a failure?  Hell no! Have you ever compared what we were building in the early 80s when wide-spread use… https://t.co/x1qePUxxHP",
+   "retweet_count": 10,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": 963843210459078700,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": [
+    {
+     "url": "https://t.co/x1qePUxxHP",
+     "expand": "https://twitter.com/i/web/status/963843212262621184"
+    }
+   ]
+  },
+  {
+   "id": 963843210459078700,
+   "id_str": "963843210459078656",
+   "created_at": "Wed Feb 14 18:31:43 +0000 2018",
+   "text": "OOP works best for very complex systems composed of many interacting  heterogeneous elements.\n\nIt's hard to show th… https://t.co/dT4BYMzxi6",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963843208026337300,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": [
+    {
+     "url": "https://t.co/dT4BYMzxi6",
+     "expand": "https://twitter.com/i/web/status/963843210459078656"
+    }
+   ]
+  },
+  {
+   "id": 963843208026337300,
+   "id_str": "963843208026337281",
+   "created_at": "Wed Feb 14 18:31:42 +0000 2018",
+   "text": "Behavior Abstraction is the core concept of OOP. But for many years OOP education focused on non-essential surface… https://t.co/E0zDs1Vk2z",
+   "retweet_count": 17,
+   "favorite_count": 33,
+   "place": null,
+   "in_reply_to_status_id": 963843205526470700,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": [
+    {
+     "url": "https://t.co/E0zDs1Vk2z",
+     "expand": "https://twitter.com/i/web/status/963843208026337281"
+    }
+   ]
+  },
+  {
+   "id": 963843205526470700,
+   "id_str": "963843205526470661",
+   "created_at": "Wed Feb 14 18:31:42 +0000 2018",
+   "text": "Programs are model-based simulations of imaginary things https://t.co/Hpe5cO1LZe",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 963843203668439000,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": []
+  },
+  {
+   "id": 963843203668439000,
+   "id_str": "963843203668439041",
+   "created_at": "Wed Feb 14 18:31:41 +0000 2018",
+   "text": "The root of OOP are the Simula programming language and its support for discrete event simulation https://t.co/SLHLNP9K8d",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963843202024226800,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": []
+  },
+  {
+   "id": 963843202024226800,
+   "id_str": "963843202024226817",
+   "created_at": "Wed Feb 14 18:31:41 +0000 2018",
+   "text": "Some Slide Bites from my talk this week at ForwardJS https://t.co/j3TM00hHfe",
+   "retweet_count": 9,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963822325694062600,
+   "id_str": "963822325694062592",
+   "created_at": "Wed Feb 14 17:08:44 +0000 2018",
+   "text": "Lyrics... https://t.co/mWRtXL6yXA",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Oregon, USA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mWRtXL6yXA",
+     "expand": "https://twitter.com/Grady_Booch/status/963772253103046656"
+    }
+   ]
+  },
+  {
+   "id": 963819690719043600,
+   "id_str": "963819690719043584",
+   "created_at": "Wed Feb 14 16:58:15 +0000 2018",
+   "text": "RT @davewiner: BTW, the worst thing that Twitter/Facebook do to the web kill the art of linking in writing. I remember when we were explori…",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963422924605706200,
+    "id_str": "963422924605706241",
+    "created_at": "Tue Feb 13 14:41:39 +0000 2018",
+    "text": "BTW, the worst thing that Twitter/Facebook do to the web kill the art of linking in writing. I remember when we wer… https://t.co/AJDp9wyeMr",
+    "retweet_count": 24,
+    "favorite_count": 42,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AJDp9wyeMr",
+      "expand": "https://twitter.com/i/web/status/963422924605706241"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963819586335400000,
+   "id_str": "963819586335399936",
+   "created_at": "Wed Feb 14 16:57:50 +0000 2018",
+   "text": "This is a great idea to encourage writing that utilizes the unique charactistics of the web. https://t.co/XaVG4573U2",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": "Oregon, USA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XaVG4573U2",
+     "expand": "https://twitter.com/davewiner/status/963425321038041090"
+    }
+   ]
+  },
+  {
+   "id": 963541431712231400,
+   "id_str": "963541431712231424",
+   "created_at": "Tue Feb 13 22:32:33 +0000 2018",
+   "text": "@kosamari @miyagawa We needed a way to enable strict mode that would not be a syntax error when encounter by old (e… https://t.co/oYFBzGbnYw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963504760740634600,
+   "in_reply_to_screen_name": "kosamari",
+   "urls": [
+    {
+     "url": "https://t.co/oYFBzGbnYw",
+     "expand": "https://twitter.com/i/web/status/963541431712231424"
+    }
+   ]
+  },
+  {
+   "id": 963540357861408800,
+   "id_str": "963540357861408768",
+   "created_at": "Tue Feb 13 22:28:17 +0000 2018",
+   "text": "RT @mybluewristband: Actual thing @awbjs hears on Twitter:\n\n\"Wow! You're old! I thought you were a millennial!\"\n\nMe too, Allen, me too. Jus…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963525042033213400,
+    "id_str": "963525042033213440",
+    "created_at": "Tue Feb 13 21:27:26 +0000 2018",
+    "text": "Actual thing @awbjs hears on Twitter:\n\n\"Wow! You're old! I thought you were a millennial!\"\n\nMe too, Allen, me too. Just IRL. #forwardjs",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963540157247864800,
+   "id_str": "963540157247864833",
+   "created_at": "Tue Feb 13 22:27:29 +0000 2018",
+   "text": "RT @mybluewristband: \"We are an industry that are susceptible to these things. We need to look at what came before and how that affects thi…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963533777543688200,
+    "id_str": "963533777543688193",
+    "created_at": "Tue Feb 13 22:02:08 +0000 2018",
+    "text": "\"We are an industry that are susceptible to these things. We need to look at what came before and how that affects… https://t.co/8QYOaE60fD",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8QYOaE60fD",
+      "expand": "https://twitter.com/i/web/status/963533777543688193"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963447589348589600,
+   "id_str": "963447589348589568",
+   "created_at": "Tue Feb 13 16:19:39 +0000 2018",
+   "text": "@kosamari https://t.co/ggPxvq4Nre archives the design discussions for ES5",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963447055808004100,
+   "in_reply_to_screen_name": "awbjs",
+   "urls": [
+    {
+     "url": "https://t.co/ggPxvq4Nre",
+     "expand": "https://mail.mozilla.org/pipermail/es5-discuss/"
+    }
+   ]
+  },
+  {
+   "id": 963447055808004100,
+   "id_str": "963447055808004097",
+   "created_at": "Tue Feb 13 16:17:32 +0000 2018",
+   "text": "@kosamari The concept of a JavaScript strict mode evolved during the development of ES5 as we searched for backward… https://t.co/Rm5pk91QVs",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963446332693282800,
+   "in_reply_to_screen_name": "kosamari",
+   "urls": [
+    {
+     "url": "https://t.co/Rm5pk91QVs",
+     "expand": "https://twitter.com/i/web/status/963447055808004097"
+    }
+   ]
+  },
   {
    "id": 962554568688087000,
    "id_str": "962554568688087040",
    "created_at": "Sun Feb 11 05:11:07 +0000 2018",
    "text": "JavaScript is the punching bag for web developers.  Web APIs or frameworks  make breaking changes and the blame lan… https://t.co/bC12kHznGf",
-   "retweet_count": 16,
-   "favorite_count": 55,
+   "retweet_count": 22,
+   "favorite_count": 67,
    "place": "Oregon, USA",
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,

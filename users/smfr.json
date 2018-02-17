@@ -1,17 +1,41 @@
 {
- "time": 1518412118701,
+ "time": 1518870387385,
  "lists": [
   {
-   "id": 961701243860103200,
-   "id_str": "961701243860103168",
-   "created_at": "Thu Feb 08 20:40:18 +0000 2018",
-   "text": "@markmichon @ChromiumDev @webkit Chrome has the same behavior. Firefox gives a message about window.contents being deprecated.",
+   "id": 964164180965081100,
+   "id_str": "964164180965081088",
+   "created_at": "Thu Feb 15 15:47:08 +0000 2018",
+   "text": "@derSchepp Scrolling to an anchor? Page calling scrollTo()? Restoring scroll position on Back? If none of above, file a bug!",
    "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964141160808747000,
+   "in_reply_to_screen_name": "derSchepp",
+   "urls": []
+  },
+  {
+   "id": 963860703286210600,
+   "id_str": "963860703286210560",
+   "created_at": "Wed Feb 14 19:41:13 +0000 2018",
+   "text": "RT @woodstownfunk: Sadly @Strava heat map useless for road bike inspiration, as no suitability distinction with mountain bike @StravaSuppor…",
+   "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 961647303487623200,
-   "in_reply_to_screen_name": "markmichon",
-   "urls": []
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 959693582247612400,
+    "id_str": "959693582247612416",
+    "created_at": "Sat Feb 03 07:42:34 +0000 2018",
+    "text": "Sadly @Strava heat map useless for road bike inspiration, as no suitability distinction with mountain bike @StravaSupport #heatmap #cycling",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
   }
  ]
 }

@@ -1,20 +1,439 @@
 {
- "time": 1518414663587,
+ "time": 1518870390119,
  "lists": [
   {
-   "id": 962034151971987500,
-   "id_str": "962034151971987458",
-   "created_at": "Fri Feb 09 18:43:10 +0000 2018",
-   "text": "@AdamRackis I'd make that slightly more specific and say what is harder to replace. Sometimes thing used by many ca… https://t.co/in0kLScSNd",
+   "id": 964751886438973400,
+   "id_str": "964751886438973441",
+   "created_at": "Sat Feb 17 06:42:28 +0000 2018",
+   "text": "Curling. Don’t make fun. It’s a real sport and it’s more fun to watch than any American sport.",
+   "retweet_count": 2,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964725756386426900,
+   "id_str": "964725756386426880",
+   "created_at": "Sat Feb 17 04:58:38 +0000 2018",
+   "text": "@ryanflorence I noticed that there is unmount or cancelation of that fetch. setState warning?",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 964682338981486600,
+   "in_reply_to_screen_name": "ryanflorence",
+   "urls": []
+  },
+  {
+   "id": 964722204003848200,
+   "id_str": "964722204003848192",
+   "created_at": "Sat Feb 17 04:44:31 +0000 2018",
+   "text": "@mjackson My conclusion is that the best way to write it is not the best way to deliver it. Won’t be solved without better compilers.",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 964662241168539600,
+   "in_reply_to_screen_name": "mjackson",
+   "urls": []
+  },
+  {
+   "id": 964710821308727300,
+   "id_str": "964710821308727297",
+   "created_at": "Sat Feb 17 03:59:17 +0000 2018",
+   "text": "This one reason React Fiber reimplements its own stack instead of just using the VM. https://t.co/NebOOBxlSe",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NebOOBxlSe",
+     "expand": "https://twitter.com/sebmarkbage/status/964710000768647170"
+    }
+   ]
+  },
+  {
+   "id": 964710303953961000,
+   "id_str": "964710303953960960",
+   "created_at": "Sat Feb 17 03:57:14 +0000 2018",
+   "text": "RT @sebmarkbage: @secoif 1) If I/O is already resolved or is in the queue to be resolved, I want to know the result now. 2) If I'm in a req…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964710000768647200,
+    "id_str": "964710000768647170",
+    "created_at": "Sat Feb 17 03:56:02 +0000 2018",
+    "text": "@secoif 1) If I/O is already resolved or is in the queue to be resolved, I want to know the result now. 2) If I'm i… https://t.co/U4IepcBRUc",
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": 964709100054511600,
+    "in_reply_to_screen_name": "secoif",
+    "urls": [
+     {
+      "url": "https://t.co/U4IepcBRUc",
+      "expand": "https://twitter.com/i/web/status/964710000768647170"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964710000768647200,
+   "id_str": "964710000768647170",
+   "created_at": "Sat Feb 17 03:56:02 +0000 2018",
+   "text": "@secoif 1) If I/O is already resolved or is in the queue to be resolved, I want to know the result now. 2) If I'm i… https://t.co/U4IepcBRUc",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 964709100054511600,
+   "in_reply_to_screen_name": "secoif",
+   "urls": [
+    {
+     "url": "https://t.co/U4IepcBRUc",
+     "expand": "https://twitter.com/i/web/status/964710000768647170"
+    }
+   ]
+  },
+  {
+   "id": 964708060215169000,
+   "id_str": "964708060215169024",
+   "created_at": "Sat Feb 17 03:48:19 +0000 2018",
+   "text": "One of my biggest wish list for browsers is: EventLoop.spin(); That synchronously invokes any pending event handler… https://t.co/Wni6jGPTEz",
+   "retweet_count": 3,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Wni6jGPTEz",
+     "expand": "https://twitter.com/i/web/status/964708060215169024"
+    }
+   ]
+  },
+  {
+   "id": 964703227823374300,
+   "id_str": "964703227823374336",
+   "created_at": "Sat Feb 17 03:29:07 +0000 2018",
+   "text": "RT @reactjs: We're relicensing React Native (including Fresco, Metro, and Yoga) under the MIT license to match React. https://t.co/Ypg7ozX9…",
+   "retweet_count": 769,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964689022747476000,
+    "id_str": "964689022747475968",
+    "created_at": "Sat Feb 17 02:32:40 +0000 2018",
+    "text": "We're relicensing React Native (including Fresco, Metro, and Yoga) under the MIT license to match React. https://t.co/Ypg7ozX958",
+    "retweet_count": 769,
+    "favorite_count": 1820,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ypg7ozX958",
+      "expand": "https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964677876879536100,
+   "id_str": "964677876879536129",
+   "created_at": "Sat Feb 17 01:48:23 +0000 2018",
+   "text": "Watching the React team slowly turn from UI developers to VM engineers and compiler theorists... 😅",
+   "retweet_count": 30,
+   "favorite_count": 267,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964314331625136100,
+   "id_str": "964314331625136129",
+   "created_at": "Fri Feb 16 01:43:47 +0000 2018",
+   "text": "\"Nothing in the world is worth having or worth doing unless it means effort, pain, difficulty… I have never in my l… https://t.co/vwmyZH6cPt",
+   "retweet_count": 23,
+   "favorite_count": 141,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vwmyZH6cPt",
+     "expand": "https://twitter.com/i/web/status/964314331625136129"
+    }
+   ]
+  },
+  {
+   "id": 964206501521915900,
+   "id_str": "964206501521915906",
+   "created_at": "Thu Feb 15 18:35:18 +0000 2018",
+   "text": "@intelligibabble @browniefed You shouldn't really need to hide and show today, just synchronously do two passes. Wh… https://t.co/JhN6yohBcl",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964181882190508000,
+   "in_reply_to_screen_name": "intelligibabble",
+   "urls": [
+    {
+     "url": "https://t.co/JhN6yohBcl",
+     "expand": "https://twitter.com/i/web/status/964206501521915906"
+    }
+   ]
+  },
+  {
+   "id": 963955376960954400,
+   "id_str": "963955376960954368",
+   "created_at": "Thu Feb 15 01:57:25 +0000 2018",
+   "text": "The interesting thing about bringing type systems to the web with things like asm.js and WebAssembly, is that it is… https://t.co/7oHpVmoGHR",
+   "retweet_count": 2,
+   "favorite_count": 48,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7oHpVmoGHR",
+     "expand": "https://twitter.com/i/web/status/963955376960954368"
+    }
+   ]
+  },
+  {
+   "id": 963288090658795500,
+   "id_str": "963288090658795520",
+   "created_at": "Tue Feb 13 05:45:52 +0000 2018",
+   "text": "@ryanflorence The interesting question to me is pay-for-data plans. Status quo encourages small fast cold start and… https://t.co/5w0YL4LJsh",
+   "retweet_count": 0,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": 963282206079696900,
+   "in_reply_to_screen_name": "ryanflorence",
+   "urls": [
+    {
+     "url": "https://t.co/5w0YL4LJsh",
+     "expand": "https://twitter.com/i/web/status/963288090658795520"
+    }
+   ]
+  },
+  {
+   "id": 963275303614165000,
+   "id_str": "963275303614164992",
+   "created_at": "Tue Feb 13 04:55:03 +0000 2018",
+   "text": "@acdlite flushSync(@sebmarkbage)",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 963274569955008500,
+   "in_reply_to_screen_name": "acdlite",
+   "urls": []
+  },
+  {
+   "id": 963129195281854500,
+   "id_str": "963129195281854464",
+   "created_at": "Mon Feb 12 19:14:28 +0000 2018",
+   "text": "@domenic @hashseed @TarasNovak @bmeurer @v8js @googlechrome @jgruber It might be possible to centralize the validat… https://t.co/Ya0t2bMmrP",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 962033496398024700,
-   "in_reply_to_screen_name": "AdamRackis",
+   "in_reply_to_status_id": 963128488172515300,
+   "in_reply_to_screen_name": "sebmarkbage",
    "urls": [
     {
-     "url": "https://t.co/in0kLScSNd",
-     "expand": "https://twitter.com/i/web/status/962034151971987458"
+     "url": "https://t.co/Ya0t2bMmrP",
+     "expand": "https://twitter.com/i/web/status/963129195281854464"
+    }
+   ]
+  },
+  {
+   "id": 963128488172515300,
+   "id_str": "963128488172515328",
+   "created_at": "Mon Feb 12 19:11:40 +0000 2018",
+   "text": "@domenic @hashseed @TarasNovak @bmeurer @v8js @googlechrome @jgruber Yup and I suspect this might get even worse wi… https://t.co/swhsMAv5re",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963127244477681700,
+   "in_reply_to_screen_name": "domenic",
+   "urls": [
+    {
+     "url": "https://t.co/swhsMAv5re",
+     "expand": "https://twitter.com/i/web/status/963128488172515328"
+    }
+   ]
+  },
+  {
+   "id": 963128140204617700,
+   "id_str": "963128140204617728",
+   "created_at": "Mon Feb 12 19:10:17 +0000 2018",
+   "text": "@hashseed @domenic @TarasNovak @bmeurer @v8js @googlechrome @jgruber Without that, the incentive to centralize is b… https://t.co/Hx5IAu3YEn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963127973632077800,
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": [
+    {
+     "url": "https://t.co/Hx5IAu3YEn",
+     "expand": "https://twitter.com/i/web/status/963128140204617728"
+    }
+   ]
+  },
+  {
+   "id": 963127973632077800,
+   "id_str": "963127973632077826",
+   "created_at": "Mon Feb 12 19:09:37 +0000 2018",
+   "text": "@hashseed @domenic @TarasNovak @bmeurer @v8js @googlechrome @jgruber Big tech cos won’t use the same CDN domains as… https://t.co/9cl3CsATF4",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963127145236127700,
+   "in_reply_to_screen_name": "hashseed",
+   "urls": [
+    {
+     "url": "https://t.co/9cl3CsATF4",
+     "expand": "https://twitter.com/i/web/status/963127973632077826"
+    }
+   ]
+  },
+  {
+   "id": 963126752837955600,
+   "id_str": "963126752837955584",
+   "created_at": "Mon Feb 12 19:04:46 +0000 2018",
+   "text": "@domenic @hashseed @TarasNovak @bmeurer @v8js @googlechrome @jgruber I suspect this is a chicken and egg problem. T… https://t.co/AGg4Eok58R",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963124034971033600,
+   "in_reply_to_screen_name": "domenic",
+   "urls": [
+    {
+     "url": "https://t.co/AGg4Eok58R",
+     "expand": "https://twitter.com/i/web/status/963126752837955584"
+    }
+   ]
+  },
+  {
+   "id": 963097499438260200,
+   "id_str": "963097499438260224",
+   "created_at": "Mon Feb 12 17:08:32 +0000 2018",
+   "text": "@orKoN @mixonic You want to see the same semantic items in the feed but would you expect the comment you made and t… https://t.co/KTVUBUpjCh",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963096482005028900,
+   "in_reply_to_screen_name": "orKoN",
+   "urls": [
+    {
+     "url": "https://t.co/KTVUBUpjCh",
+     "expand": "https://twitter.com/i/web/status/963097499438260224"
+    }
+   ]
+  },
+  {
+   "id": 963097119090294800,
+   "id_str": "963097119090294784",
+   "created_at": "Mon Feb 12 17:07:01 +0000 2018",
+   "text": "@RogerAlsing Yes but can be more complicated since they can be parallelized to some extent but there are locks in p… https://t.co/6ssWS2KSQT",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963096165981065200,
+   "in_reply_to_screen_name": "RogerAlsing",
+   "urls": [
+    {
+     "url": "https://t.co/6ssWS2KSQT",
+     "expand": "https://twitter.com/i/web/status/963097119090294784"
+    }
+   ]
+  },
+  {
+   "id": 963095096127193100,
+   "id_str": "963095096127193089",
+   "created_at": "Mon Feb 12 16:58:59 +0000 2018",
+   "text": "@mixonic Is your point that the HTTP 1.1 semantics is good UX, bad UX or just right due to being a spec?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963094469489786900,
+   "in_reply_to_screen_name": "mixonic",
+   "urls": []
+  },
+  {
+   "id": 963082188357976000,
+   "id_str": "963082188357976064",
+   "created_at": "Mon Feb 12 16:07:41 +0000 2018",
+   "text": "Another quirk is that perf is often bound by destroy and cache performance rather than initial render. E.g. thanks… https://t.co/mq7CsuX6RH",
+   "retweet_count": 3,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 963081665764458500,
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": [
+    {
+     "url": "https://t.co/mq7CsuX6RH",
+     "expand": "https://twitter.com/i/web/status/963082188357976064"
+    }
+   ]
+  },
+  {
+   "id": 963081665764458500,
+   "id_str": "963081665764458496",
+   "created_at": "Mon Feb 12 16:05:36 +0000 2018",
+   "text": "Using the “back” button, or closing a modal, is an interesting interaction. It seems simple but there are many nuan… https://t.co/Bigp1DE8r7",
+   "retweet_count": 5,
+   "favorite_count": 39,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Bigp1DE8r7",
+     "expand": "https://twitter.com/i/web/status/963081665764458496"
+    }
+   ]
+  },
+  {
+   "id": 962952424859168800,
+   "id_str": "962952424859168768",
+   "created_at": "Mon Feb 12 07:32:03 +0000 2018",
+   "text": "Staying connected and “plugged in” to current trends matters more than history. Don’t dismiss it as fads. It can be… https://t.co/CGZ213lRMF",
+   "retweet_count": 2,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": 962951963443830800,
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": [
+    {
+     "url": "https://t.co/CGZ213lRMF",
+     "expand": "https://twitter.com/i/web/status/962952424859168768"
+    }
+   ]
+  },
+  {
+   "id": 962951963443830800,
+   "id_str": "962951963443830784",
+   "created_at": "Mon Feb 12 07:30:13 +0000 2018",
+   "text": "It seems to consistently be the case in programming and many other fields that successful innovation has a lot more… https://t.co/cYtzR29jn0",
+   "retweet_count": 3,
+   "favorite_count": 51,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cYtzR29jn0",
+     "expand": "https://twitter.com/i/web/status/962951963443830784"
     }
    ]
   }

@@ -1,13 +1,47 @@
 {
- "time": 1518412211721,
+ "time": 1518870389825,
  "lists": [
+  {
+   "id": 964611343776124900,
+   "id_str": "964611343776124928",
+   "created_at": "Fri Feb 16 21:24:00 +0000 2018",
+   "text": "RT @fiber_god: Learn about the upcoming Context API, \"The Future of State in React\"!\nhttps://t.co/rzhuDiasJ9",
+   "retweet_count": 43,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rzhuDiasJ9",
+     "expand": "https://jwheatley.co/the-future-of-state-in-react/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964610374837440500,
+    "id_str": "964610374837440513",
+    "created_at": "Fri Feb 16 21:20:09 +0000 2018",
+    "text": "Learn about the upcoming Context API, \"The Future of State in React\"!\nhttps://t.co/rzhuDiasJ9",
+    "retweet_count": 43,
+    "favorite_count": 119,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rzhuDiasJ9",
+      "expand": "https://jwheatley.co/the-future-of-state-in-react/"
+     }
+    ]
+   }
+  },
   {
    "id": 961292627713732600,
    "id_str": "961292627713732608",
    "created_at": "Wed Feb 07 17:36:37 +0000 2018",
    "text": "Awesome all-in-one React lib for modals, tooltips, and menus.  Looks like a straightforward API. And only 3kb large! https://t.co/6ZwRP4xDaO",
-   "retweet_count": 35,
-   "favorite_count": 143,
+   "retweet_count": 36,
+   "favorite_count": 147,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,

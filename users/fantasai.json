@@ -1,39 +1,389 @@
 {
- "time": 1518415407536,
+ "time": 1518870392362,
  "lists": [
   {
-   "id": 962816194079174700,
-   "id_str": "962816194079174658",
-   "created_at": "Sun Feb 11 22:30:43 +0000 2018",
-   "text": "RT @jensimmons: Now is the best time to be a CSS newbie. https://t.co/viZko0Fnbi",
-   "retweet_count": 27,
+   "id": 964674180670042100,
+   "id_str": "964674180670042112",
+   "created_at": "Sat Feb 17 01:33:42 +0000 2018",
+   "text": "RT @boothheather: What kind of lifelong scars do we inflict on youth when the adults who are there to protect them don’t force change in th…",
+   "retweet_count": 2952,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964582584113131500,
+    "id_str": "964582584113131520",
+    "created_at": "Fri Feb 16 19:29:43 +0000 2018",
+    "text": "What kind of lifelong scars do we inflict on youth when the adults who are there to protect them don’t force change… https://t.co/h3mVcvETwp",
+    "retweet_count": 2952,
+    "favorite_count": 11976,
+    "place": null,
+    "in_reply_to_status_id": 964582439908728800,
+    "in_reply_to_screen_name": "boothheather",
+    "urls": [
+     {
+      "url": "https://t.co/h3mVcvETwp",
+      "expand": "https://twitter.com/i/web/status/964582584113131520"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964560628147937300,
+   "id_str": "964560628147937281",
+   "created_at": "Fri Feb 16 18:02:29 +0000 2018",
+   "text": "@TALlama @jensimmons Well used, this allows for creative and interesting visual layouts that  still represent the s… https://t.co/EgCetJHRIw",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964559906450817000,
+   "in_reply_to_screen_name": "fantasai",
    "urls": [
     {
-     "url": "https://t.co/viZko0Fnbi",
-     "expand": "https://twitter.com/vasilis/status/962729324074930176"
+     "url": "https://t.co/EgCetJHRIw",
+     "expand": "https://twitter.com/i/web/status/964560628147937281"
     }
-   ],
+   ]
+  },
+  {
+   "id": 964559906450817000,
+   "id_str": "964559906450817024",
+   "created_at": "Fri Feb 16 17:59:37 +0000 2018",
+   "text": "@TALlama @jensimmons Visual perception doesn't follow coordinate system order. It's affected by things like the ges… https://t.co/BavtsuI7Ce",
+   "retweet_count": 2,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 964413853185409000,
+   "in_reply_to_screen_name": "TALlama",
+   "urls": [
+    {
+     "url": "https://t.co/BavtsuI7Ce",
+     "expand": "https://twitter.com/i/web/status/964559906450817024"
+    }
+   ]
+  },
+  {
+   "id": 964558827730346000,
+   "id_str": "964558827730345984",
+   "created_at": "Fri Feb 16 17:55:19 +0000 2018",
+   "text": "RT @jensimmons: It’s important that we front end developers understand the jobs of HMTL, CSS and JS, and choose the right one for the job.…",
+   "retweet_count": 89,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
    "retweeted_status": {
-    "id": 962730415856504800,
-    "id_str": "962730415856504843",
-    "created_at": "Sun Feb 11 16:49:52 +0000 2018",
-    "text": "Now is the best time to be a CSS newbie. https://t.co/viZko0Fnbi",
-    "retweet_count": 27,
-    "favorite_count": 111,
+    "id": 964405470650810400,
+    "id_str": "964405470650810371",
+    "created_at": "Fri Feb 16 07:45:56 +0000 2018",
+    "text": "It’s important that we front end developers understand the jobs of HMTL, CSS and JS, and choose the right one for t… https://t.co/D2LlvgTBqa",
+    "retweet_count": 89,
+    "favorite_count": 215,
+    "place": null,
+    "in_reply_to_status_id": 964404978356912100,
+    "in_reply_to_screen_name": "jensimmons",
+    "urls": [
+     {
+      "url": "https://t.co/D2LlvgTBqa",
+      "expand": "https://twitter.com/i/web/status/964405470650810371"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964558801411059700,
+   "id_str": "964558801411059713",
+   "created_at": "Fri Feb 16 17:55:13 +0000 2018",
+   "text": "RT @jensimmons: A bunch of people are trying to tell me we should be able to do this with CSS. No. This is a job for JavaScript. If you wan…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964404978356912100,
+    "id_str": "964404978356912129",
+    "created_at": "Fri Feb 16 07:43:59 +0000 2018",
+    "text": "A bunch of people are trying to tell me we should be able to do this with CSS. No. This is a job for JavaScript. If… https://t.co/7tbIAGM1GO",
+    "retweet_count": 20,
+    "favorite_count": 115,
+    "place": null,
+    "in_reply_to_status_id": 964360059923742700,
+    "in_reply_to_screen_name": "jensimmons",
+    "urls": [
+     {
+      "url": "https://t.co/7tbIAGM1GO",
+      "expand": "https://twitter.com/i/web/status/964404978356912129"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964557239188037600,
+   "id_str": "964557239188037632",
+   "created_at": "Fri Feb 16 17:49:01 +0000 2018",
+   "text": "RT @LeaVerou: Another slide from my \"intro to web dev\" series of labs @MIT :)\nThe selectors are editable :)\n\n(Yes, slides will be posted) h…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964549509203284000,
+    "id_str": "964549509203283969",
+    "created_at": "Fri Feb 16 17:18:18 +0000 2018",
+    "text": "Another slide from my \"intro to web dev\" series of labs @MIT :)\nThe selectors are editable :)\n\n(Yes, slides will be… https://t.co/WqtJOwgYJ6",
+    "retweet_count": 17,
+    "favorite_count": 92,
+    "place": "Cambridge, MA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WqtJOwgYJ6",
+      "expand": "https://twitter.com/i/web/status/964549509203283969"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964398931202293800,
+   "id_str": "964398931202293760",
+   "created_at": "Fri Feb 16 07:19:57 +0000 2018",
+   "text": "@jensimmons Also is (therefore) a spec violation: https://t.co/obytrY734c",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 964360059923742700,
+   "in_reply_to_screen_name": "jensimmons",
+   "urls": [
+    {
+     "url": "https://t.co/obytrY734c",
+     "expand": "https://www.w3.org/TR/css-flexbox/#order-accessibility"
+    }
+   ]
+  },
+  {
+   "id": 964397971503702000,
+   "id_str": "964397971503702016",
+   "created_at": "Fri Feb 16 07:16:08 +0000 2018",
+   "text": "@kizmarh There's not many ways to author CSS that violates the CSS specifications, but this method definitely does. https://t.co/GBrd5y0XC1",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 964165823186300900,
+   "in_reply_to_screen_name": "kizmarh",
+   "urls": [
+    {
+     "url": "https://t.co/GBrd5y0XC1",
+     "expand": "https://www.w3.org/TR/css-flexbox-1/#order-accessibility"
+    }
+   ]
+  },
+  {
+   "id": 963909095240511500,
+   "id_str": "963909095240511489",
+   "created_at": "Wed Feb 14 22:53:31 +0000 2018",
+   "text": "“CSS [spec] editing: expect 80% of the time to be spent defining what 'auto' does and does not do and you'll do fine.”  — Sylvain Galineau",
+   "retweet_count": 1,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963840483045687300,
+   "id_str": "963840483045687296",
+   "created_at": "Wed Feb 14 18:20:53 +0000 2018",
+   "text": "@ldanielswakman @jensimmons @rachelandrew @frivoal @dauwhe @tabatkins @bfgeek @cssrossen Maybe I should just makeal… https://t.co/0v6oEBWjAw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963720954294751200,
+   "in_reply_to_screen_name": "ldanielswakman",
+   "urls": [
+    {
+     "url": "https://t.co/0v6oEBWjAw",
+     "expand": "https://twitter.com/i/web/status/963840483045687296"
+    }
+   ]
+  },
+  {
+   "id": 963840080606408700,
+   "id_str": "963840080606408704",
+   "created_at": "Wed Feb 14 18:19:17 +0000 2018",
+   "text": "@ldanielswakman @tabatkins @jensimmons @rachelandrew @frivoal @dauwhe @bfgeek @cssrossen Right, like I said, no one… https://t.co/GToTXDpDhb",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963828915742548000,
+   "in_reply_to_screen_name": "ldanielswakman",
+   "urls": [
+    {
+     "url": "https://t.co/GToTXDpDhb",
+     "expand": "https://twitter.com/i/web/status/963840080606408704"
+    }
+   ]
+  },
+  {
+   "id": 963657465521954800,
+   "id_str": "963657465521954816",
+   "created_at": "Wed Feb 14 06:13:38 +0000 2018",
+   "text": "@LeaVerou @tabatkins Maybe SVG should get smarter box sizing? :)",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963656768319623200,
+   "in_reply_to_screen_name": "LeaVerou",
+   "urls": []
+  },
+  {
+   "id": 963647538518810600,
+   "id_str": "963647538518810625",
+   "created_at": "Wed Feb 14 05:34:11 +0000 2018",
+   "text": "RT @davidmacd: Developers: Please take a piece of paper and write this 100 times slowly. \"If it GOES somewhere use a link, if it DOES somet…",
+   "retweet_count": 734,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963504884199886800,
+    "id_str": "963504884199886850",
+    "created_at": "Tue Feb 13 20:07:20 +0000 2018",
+    "text": "Developers: Please take a piece of paper and write this 100 times slowly. \"If it GOES somewhere use a link, if it D… https://t.co/kAqxQzOCaZ",
+    "retweet_count": 734,
+    "favorite_count": 1535,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/viZko0Fnbi",
-      "expand": "https://twitter.com/vasilis/status/962729324074930176"
+      "url": "https://t.co/kAqxQzOCaZ",
+      "expand": "https://twitter.com/i/web/status/963504884199886850"
      }
     ]
    }
+  },
+  {
+   "id": 963624492978208800,
+   "id_str": "963624492978208768",
+   "created_at": "Wed Feb 14 04:02:37 +0000 2018",
+   "text": "RT @AmeliasBrain: I want to live in the world where this is the real reason for web browser's convoluted user-agent strings.\n\n“Dearest serv…",
+   "retweet_count": 3006,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963589448406462500,
+    "id_str": "963589448406462464",
+    "created_at": "Wed Feb 14 01:43:21 +0000 2018",
+    "text": "I want to live in the world where this is the real reason for web browser's convoluted user-agent strings.\n\n“Deares… https://t.co/fhqz5fJm1Q",
+    "retweet_count": 3006,
+    "favorite_count": 5732,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fhqz5fJm1Q",
+      "expand": "https://twitter.com/i/web/status/963589448406462464"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963182715108380700,
+   "id_str": "963182715108380672",
+   "created_at": "Mon Feb 12 22:47:09 +0000 2018",
+   "text": "RT @AmeliasBrain: A good argument for keeping a separate &amp; well-commented hacks.css or compat.css file, so you don't forget why all that ex…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963170295082229800,
+    "id_str": "963170295082229760",
+    "created_at": "Mon Feb 12 21:57:47 +0000 2018",
+    "text": "A good argument for keeping a separate &amp; well-commented hacks.css or compat.css file, so you don't forget why all t… https://t.co/xANix8tnRH",
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xANix8tnRH",
+      "expand": "https://twitter.com/i/web/status/963170295082229760"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963150420129456100,
+   "id_str": "963150420129456128",
+   "created_at": "Mon Feb 12 20:38:49 +0000 2018",
+   "text": "@jensimmons @ldanielswakman @rachelandrew @frivoal @dauwhe @tabatkins @bfgeek @cssrossen https://t.co/ew6Yx4yMVB ha… https://t.co/mdjih0ZhyU",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963149874777661400,
+   "in_reply_to_screen_name": "fantasai",
+   "urls": [
+    {
+     "url": "https://t.co/ew6Yx4yMVB",
+     "expand": "https://lists.w3.org/Archives/Public/www-style/2011Apr/0316.html"
+    },
+    {
+     "url": "https://t.co/mdjih0ZhyU",
+     "expand": "https://twitter.com/i/web/status/963150420129456128"
+    }
+   ]
+  },
+  {
+   "id": 963149874777661400,
+   "id_str": "963149874777661440",
+   "created_at": "Mon Feb 12 20:36:39 +0000 2018",
+   "text": "@jensimmons @ldanielswakman @rachelandrew @frivoal @dauwhe @tabatkins I hope we're able to fix it someday, but if I… https://t.co/ykNGWP5XVV",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963148700573777900,
+   "in_reply_to_screen_name": "fantasai",
+   "urls": [
+    {
+     "url": "https://t.co/ykNGWP5XVV",
+     "expand": "https://twitter.com/i/web/status/963149874777661440"
+    }
+   ]
+  },
+  {
+   "id": 963148700573777900,
+   "id_str": "963148700573777921",
+   "created_at": "Mon Feb 12 20:31:59 +0000 2018",
+   "text": "@jensimmons @ldanielswakman @rachelandrew @frivoal @dauwhe Nah, that's not regions--it's just correct intrinsic siz… https://t.co/cNS9OsJIV2",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 963048899144495100,
+   "in_reply_to_screen_name": "jensimmons",
+   "urls": [
+    {
+     "url": "https://t.co/cNS9OsJIV2",
+     "expand": "https://twitter.com/i/web/status/963148700573777921"
+    }
+   ]
   }
  ]
 }

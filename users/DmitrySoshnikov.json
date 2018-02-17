@@ -1,34 +1,55 @@
 {
- "time": 1518414630919,
+ "time": 1518870388670,
  "lists": [
   {
-   "id": 962351002941767700,
-   "id_str": "962351002941767680",
-   "created_at": "Sat Feb 10 15:42:13 +0000 2018",
-   "text": "RT @jaffathecake: 🎥 How the event loop works.\n➡️ How stuff gets from other threads into JS.\n➡️ Why infinite loops block rendering.\n➡️ Why s…",
-   "retweet_count": 406,
+   "id": 964156552658673700,
+   "id_str": "964156552658673664",
+   "created_at": "Thu Feb 15 15:16:49 +0000 2018",
+   "text": "RT @BrendanEich: Hi, I created JavaScript. You should block JS used for 3rd party trackers, fingerprinting, ads. You should definitely bloc…",
+   "retweet_count": 3481,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 961980260194684900,
-    "id_str": "961980260194684928",
-    "created_at": "Fri Feb 09 15:09:01 +0000 2018",
-    "text": "🎥 How the event loop works.\n➡️ How stuff gets from other threads into JS.\n➡️ Why infinite loops block rendering.\n➡️… https://t.co/aTRLbNvnl2",
-    "retweet_count": 406,
-    "favorite_count": 1517,
+    "id": 963568062548000800,
+    "id_str": "963568062548000768",
+    "created_at": "Wed Feb 14 00:18:22 +0000 2018",
+    "text": "Hi, I created JavaScript. You should block JS used for 3rd party trackers, fingerprinting, ads. You should definite… https://t.co/SkjyLx4njZ",
+    "retweet_count": 3481,
+    "favorite_count": 7187,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/aTRLbNvnl2",
-      "expand": "https://twitter.com/i/web/status/961980260194684928"
+      "url": "https://t.co/SkjyLx4njZ",
+      "expand": "https://twitter.com/i/web/status/963568062548000768"
      }
     ]
    }
+  },
+  {
+   "id": 962957903001866200,
+   "id_str": "962957903001866240",
+   "created_at": "Mon Feb 12 07:53:49 +0000 2018",
+   "text": "[#RegExp Tree] #DFA Minimizer can now produce the minimal transition table. https://t.co/dfQzR7Ll74\n\nFor students:… https://t.co/PkMQxOn6un",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dfQzR7Ll74",
+     "expand": "https://github.com/DmitrySoshnikov/regexp-tree#printing-nfadfa-tables"
+    },
+    {
+     "url": "https://t.co/PkMQxOn6un",
+     "expand": "https://twitter.com/i/web/status/962957903001866240"
+    }
+   ]
   }
  ]
 }
