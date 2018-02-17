@@ -146,11 +146,43 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 //getStatusesUserTimeline([], "ret2got", 0 );
 tool.getStatusesUserTimelineWrap = getStatusesUserTimelineWrap;
 
-function autoTimeline (tag, flag) {
+
+function autoTimelineList (flag) {
+	const done = require('./done.json');
+	const list = require('./stat/getListsOwnerships_balbosub.json').lists;
+	let index;
+
+	if (done.lastTag) {
+		index = list.findIndex((item) => {
+			return item.name === done.lastTag;
+		});
+	}
+
+	
+	const data = flag || !done.lastTag || index === -1 ? list : list.slice(index);
+
+	index = 0;
+	function next () {
+		if (data[index]) {
+			console.log(data[index].name, '-----');
+			autoTimeline(flag, data[index].name, next);
+			flag = false;
+		} else {
+			console.log('ok');
+		}
+		index++;
+	}
+	next();
+}
+function autoTimeline (flag, tag, cb) {
 	const done = require('./done.json');
 	const last = flag ? '' : done.last;
-	//const users = require('./stat/getListsMembers_balbosub.json').list[tag];
-	const users = require('./stat/getFriendsList_balbosub.json').list;
+	let users;
+	if (tag) {
+		users = require('./stat/getListsMembers_balbosub.json').list[tag]
+	} else {
+		users = require('./stat/getFriendsList_balbosub.json').list
+	}
 	let index = 0;
 	last && users.some((item) => {
 		index++;
@@ -161,14 +193,14 @@ function autoTimeline (tag, flag) {
 
 	if (index >= users.length) {
 		console.log('no user');
-		return
+		return cb && cb();
 	}
 
-	const total = index + 100;
 
 
 	function next (cnt) {
 		if (cnt !== undefined) {
+			done.lastTag = tag;
 			done.last = users[index].screen_name;
 			done.list[done.last] = {
 				time: Date.now(),
@@ -181,12 +213,9 @@ function autoTimeline (tag, flag) {
 		const user = users[index];
 		if (!user) {
 			console.log('ok');
-			return
+			return cb && cb();
 		}
-		if (index >= total){
-			console.log('ok');
-			return
-		}
+
 		console.log(user.screen_name);
 		tool.getStatusesUserTimelineWrap([], users[index].screen_name, 0, next);
 	}
@@ -526,7 +555,9 @@ if (cmd === 'getFriendsList') {
 } else if (cmd ===  'getStatusesUserTimeline') {
 	tool.getStatusesUserTimelineWrap([], username, 0);
 } else if (cmd === 'autoTimeline') {
-	tool.autoTimeline(username, flag);
+	tool.autoTimeline(flag);
+} else if (cmd === 'autoTimelineList') {
+	tool.autoTimelineList(flag);
 } else if (cmd === 'search') {
 	tool.search(username);
 }
