@@ -77,8 +77,8 @@ function getStatusesUserTimelineWrap (ret, username, max_id, next) {
 	if (loaded) {
 		const ts = require(`./users/${username}.json`);
 		tweetMap[username] = [];
-		if (!ts.lists.length) {
-			return next();
+		if (!ts.lists.length || !ts.lists[0]) {
+			return next(0);
 		}
 		const since_id = ts.lists[0].id;
 		getStatusesUserTimeline(0, ret, username, max_id, since_id, next);
