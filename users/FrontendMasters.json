@@ -1,17 +1,515 @@
 {
- "time": 1518414152405,
+ "time": 1518873189439,
  "lists": [
   {
-   "id": 962893447295389700,
-   "id_str": "962893447295389696",
-   "created_at": "Mon Feb 12 03:37:42 +0000 2018",
-   "text": "@ericksonjohn01 @sa_lamoureux Well, we have a course titled, \"Deep JavaScript Foundations\" by @getify — that should do the trick!",
-   "retweet_count": 0,
-   "favorite_count": 1,
+   "id": 964706989732515800,
+   "id_str": "964706989732515842",
+   "created_at": "Sat Feb 17 03:44:04 +0000 2018",
+   "text": "RT @JoeyBuczek: It's Friday night and the kids are in bed. You know what that means... It's learning from @FrontendMasters time! #nodejs #e…",
+   "retweet_count": 1,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 962889127422234600,
-   "in_reply_to_screen_name": "ericksonjohn01",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964682539377053700,
+    "id_str": "964682539377053696",
+    "created_at": "Sat Feb 17 02:06:54 +0000 2018",
+    "text": "It's Friday night and the kids are in bed. You know what that means... It's learning from @FrontendMasters time! #nodejs #express #api",
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964700809257766900,
+   "id_str": "964700809257766912",
+   "created_at": "Sat Feb 17 03:19:30 +0000 2018",
+   "text": "RT @estellevw: We've already surpassed 200 attendees fo @perfmattersconf. https://t.co/Xyz6hXexxR will likely sell out.",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Xyz6hXexxR",
+     "expand": "https://perfmattersconf.com"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964695929105166300,
+    "id_str": "964695929105166337",
+    "created_at": "Sat Feb 17 03:00:07 +0000 2018",
+    "text": "We've already surpassed 200 attendees fo @perfmattersconf. https://t.co/Xyz6hXexxR will likely sell out.",
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Xyz6hXexxR",
+      "expand": "https://perfmattersconf.com"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964578757968302100,
+   "id_str": "964578757968302081",
+   "created_at": "Fri Feb 16 19:14:31 +0000 2018",
+   "text": "RT @brooklyn_js: And now Ryan Dahl is showing us Propel, the JavaScript-based machine learning platform he's working on 🤖🔢📶 https://t.co/G7…",
+   "retweet_count": 68,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964311564294770700,
+    "id_str": "964311564294770688",
+    "created_at": "Fri Feb 16 01:32:47 +0000 2018",
+    "text": "And now Ryan Dahl is showing us Propel, the JavaScript-based machine learning platform he's working on 🤖🔢📶… https://t.co/SGjwLpRNom",
+    "retweet_count": 68,
+    "favorite_count": 205,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SGjwLpRNom",
+      "expand": "https://twitter.com/i/web/status/964311564294770688"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964558489057218600,
+   "id_str": "964558489057218561",
+   "created_at": "Fri Feb 16 17:53:59 +0000 2018",
+   "text": "Angular people -- the nice folks of ng conf gave us the code \"frontend\" to share with you to get $100 off tickets t… https://t.co/yfprhc5CKY",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yfprhc5CKY",
+     "expand": "https://twitter.com/i/web/status/964558489057218561"
+    }
+   ]
+  },
+  {
+   "id": 964527962795184100,
+   "id_str": "964527962795184128",
+   "created_at": "Fri Feb 16 15:52:41 +0000 2018",
+   "text": "RT @markadamfoster: Really impressed with @FrontendMasters... my learning queue has exploded in size since signing up... learning deeper #j…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964523156328235000,
+    "id_str": "964523156328235008",
+    "created_at": "Fri Feb 16 15:33:35 +0000 2018",
+    "text": "Really impressed with @FrontendMasters... my learning queue has exploded in size since signing up... learning deepe… https://t.co/GkGajB2YnV",
+    "retweet_count": 7,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GkGajB2YnV",
+      "expand": "https://twitter.com/i/web/status/964523156328235008"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964337590089510900,
+   "id_str": "964337590089510912",
+   "created_at": "Fri Feb 16 03:16:12 +0000 2018",
+   "text": "RT @sarah_federman: Yay!!! @JemYoung's new full stack for front ends part 2 course is out on @FrontendMasters! So excited!",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964337108348428300,
+    "id_str": "964337108348428288",
+    "created_at": "Fri Feb 16 03:14:17 +0000 2018",
+    "text": "Yay!!! @JemYoung's new full stack for front ends part 2 course is out on @FrontendMasters! So excited!",
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964228292021768200,
+   "id_str": "964228292021768197",
+   "created_at": "Thu Feb 15 20:01:53 +0000 2018",
+   "text": "@JTCraft We’re here to help! We can also provide course suggestions if you’d like.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964227089485398000,
+   "in_reply_to_screen_name": "JTCraft",
    "urls": []
+  },
+  {
+   "id": 964129217469468700,
+   "id_str": "964129217469468672",
+   "created_at": "Thu Feb 15 13:28:12 +0000 2018",
+   "text": "RT @maartentibau: Added to my MUST WATCH LIST https://t.co/UXATMKZvNL",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UXATMKZvNL",
+     "expand": "https://twitter.com/FrontendMasters/status/963869938640457728"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964059939240136700,
+    "id_str": "964059939240136704",
+    "created_at": "Thu Feb 15 08:52:55 +0000 2018",
+    "text": "Added to my MUST WATCH LIST https://t.co/UXATMKZvNL",
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UXATMKZvNL",
+      "expand": "https://twitter.com/FrontendMasters/status/963869938640457728"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964124457492197400,
+   "id_str": "964124457492197376",
+   "created_at": "Thu Feb 15 13:09:17 +0000 2018",
+   "text": "RT @CliffordFajard0: Glad that there’s amazing resources like @FrontendMasters, @hackreactor, @treehouse are making computer science access…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963992150307319800,
+    "id_str": "963992150307319808",
+    "created_at": "Thu Feb 15 04:23:33 +0000 2018",
+    "text": "Glad that there’s amazing resources like @FrontendMasters, @hackreactor, @treehouse are making computer science acc… https://t.co/NQ3mifhwcG",
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": 963987938164990000,
+    "in_reply_to_screen_name": "CliffordFajard0",
+    "urls": [
+     {
+      "url": "https://t.co/NQ3mifhwcG",
+      "expand": "https://twitter.com/i/web/status/963992150307319808"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963970371132194800,
+   "id_str": "963970371132194818",
+   "created_at": "Thu Feb 15 02:57:00 +0000 2018",
+   "text": "RT @meladorri: What does #AMP4email mean for the #emailmarketing industry? Here’s my take as a 10+ year industry veteran, “thought leader”,…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963828901263958000,
+    "id_str": "963828901263958021",
+    "created_at": "Wed Feb 14 17:34:51 +0000 2018",
+    "text": "What does #AMP4email mean for the #emailmarketing industry? Here’s my take as a 10+ year industry veteran, “thought… https://t.co/SUdA6tymuS",
+    "retweet_count": 12,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SUdA6tymuS",
+      "expand": "https://twitter.com/i/web/status/963828901263958021"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963937355630596100,
+   "id_str": "963937355630596096",
+   "created_at": "Thu Feb 15 00:45:49 +0000 2018",
+   "text": "RT @kentcdodds: A free guide to &lt;head&gt; elements https://t.co/UpUiIpgJk9 via @joshbuchea",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UpUiIpgJk9",
+     "expand": "https://gethead.info/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963918674175430700,
+    "id_str": "963918674175430656",
+    "created_at": "Wed Feb 14 23:31:35 +0000 2018",
+    "text": "A free guide to &lt;head&gt; elements https://t.co/UpUiIpgJk9 via @joshbuchea",
+    "retweet_count": 19,
+    "favorite_count": 68,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UpUiIpgJk9",
+      "expand": "https://gethead.info/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963895890166632400,
+   "id_str": "963895890166632448",
+   "created_at": "Wed Feb 14 22:01:03 +0000 2018",
+   "text": "@Annie_Khaliq Yes, email support@frontendmasters.com",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963895050244689900,
+   "in_reply_to_screen_name": "Annie_Khaliq",
+   "urls": []
+  },
+  {
+   "id": 963869938640457700,
+   "id_str": "963869938640457728",
+   "created_at": "Wed Feb 14 20:17:55 +0000 2018",
+   "text": "🅽🅴🆆 “REST &amp; GraphQL API Design in Node.js (using Express &amp; MongoDB)” course by @scotups is now available!… https://t.co/8Yy2v3JMU7",
+   "retweet_count": 11,
+   "favorite_count": 51,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8Yy2v3JMU7",
+     "expand": "https://twitter.com/i/web/status/963869938640457728"
+    }
+   ]
+  },
+  {
+   "id": 963796422805082100,
+   "id_str": "963796422805082112",
+   "created_at": "Wed Feb 14 15:25:48 +0000 2018",
+   "text": "RT @PutMionyourteam: Nothing quite like quickly solving the same JS exercise in 10 minutes that years ago confused the heck out of me. Than…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963794265376723000,
+    "id_str": "963794265376722944",
+    "created_at": "Wed Feb 14 15:17:13 +0000 2018",
+    "text": "Nothing quite like quickly solving the same JS exercise in 10 minutes that years ago confused the heck out of me. T… https://t.co/oEQRzkF5Sr",
+    "retweet_count": 1,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oEQRzkF5Sr",
+      "expand": "https://twitter.com/i/web/status/963794265376722944"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963758233151295500,
+   "id_str": "963758233151295488",
+   "created_at": "Wed Feb 14 12:54:03 +0000 2018",
+   "text": "RT @willsentance: Shout out to Tiffany, Kevin, Ringo and Jonathan for the phenomenal success of their project at @codesmithio - React Scope…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963498292440129500,
+    "id_str": "963498292440129537",
+    "created_at": "Tue Feb 13 19:41:08 +0000 2018",
+    "text": "Shout out to Tiffany, Kevin, Ringo and Jonathan for the phenomenal success of their project at @codesmithio - React… https://t.co/bIbbaKpbyd",
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bIbbaKpbyd",
+      "expand": "https://twitter.com/i/web/status/963498292440129537"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963757372501037000,
+   "id_str": "963757372501037057",
+   "created_at": "Wed Feb 14 12:50:38 +0000 2018",
+   "text": "RT @BrendanEich: Hi, I created JavaScript. You should block JS used for 3rd party trackers, fingerprinting, ads. You should definitely bloc…",
+   "retweet_count": 3482,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963568062548000800,
+    "id_str": "963568062548000768",
+    "created_at": "Wed Feb 14 00:18:22 +0000 2018",
+    "text": "Hi, I created JavaScript. You should block JS used for 3rd party trackers, fingerprinting, ads. You should definite… https://t.co/SkjyLx4njZ",
+    "retweet_count": 3482,
+    "favorite_count": 7189,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SkjyLx4njZ",
+      "expand": "https://twitter.com/i/web/status/963568062548000768"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963614007935500300,
+   "id_str": "963614007935500289",
+   "created_at": "Wed Feb 14 03:20:57 +0000 2018",
+   "text": "RT @sarah_edo: 🎉 I wrote an article for @smashingmag 🎉 \n\"Replacing jQuery with Vue\"\n\nWritten for people who don't want a build step but are…",
+   "retweet_count": 520,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963462632693903400,
+    "id_str": "963462632693903360",
+    "created_at": "Tue Feb 13 17:19:26 +0000 2018",
+    "text": "🎉 I wrote an article for @smashingmag 🎉 \n\"Replacing jQuery with Vue\"\n\nWritten for people who don't want a build ste… https://t.co/wndef2Osba",
+    "retweet_count": 520,
+    "favorite_count": 1741,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wndef2Osba",
+      "expand": "https://twitter.com/i/web/status/963462632693903360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963593807018250200,
+   "id_str": "963593807018250240",
+   "created_at": "Wed Feb 14 02:00:40 +0000 2018",
+   "text": "RT @sarah_edo: Experts will always disagree on how a subject should be approached. If you're making educational material, take care to spen…",
+   "retweet_count": 112,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963587456464429000,
+    "id_str": "963587456464429056",
+    "created_at": "Wed Feb 14 01:35:26 +0000 2018",
+    "text": "Experts will always disagree on how a subject should be approached. If you're making educational material, take car… https://t.co/ZLi4tNhdKG",
+    "retweet_count": 112,
+    "favorite_count": 622,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZLi4tNhdKG",
+      "expand": "https://twitter.com/i/web/status/963587456464429056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963556595883020300,
+   "id_str": "963556595883020288",
+   "created_at": "Tue Feb 13 23:32:49 +0000 2018",
+   "text": "@autoboxer We’d love to! Right now we’re focusing on an Android app though, since that’s the number one request.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963541223624577000,
+   "in_reply_to_screen_name": "autoboxer",
+   "urls": []
+  },
+  {
+   "id": 963139280003588100,
+   "id_str": "963139280003588096",
+   "created_at": "Mon Feb 12 19:54:33 +0000 2018",
+   "text": "RT @maroonedmarla: a weekend working through @FrontendMasters ‘Javascript: The Hard Parts’ by @willsentance So many lightbulb moments but h…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963138642293162000,
+    "id_str": "963138642293161985",
+    "created_at": "Mon Feb 12 19:52:01 +0000 2018",
+    "text": "a weekend working through @FrontendMasters ‘Javascript: The Hard Parts’ by @willsentance So many lightbulb moments… https://t.co/SS6OcimAfj",
+    "retweet_count": 2,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SS6OcimAfj",
+      "expand": "https://twitter.com/i/web/status/963138642293161985"
+     }
+    ]
+   }
   }
  ]
 }

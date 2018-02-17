@@ -1,6 +1,27 @@
 {
- "time": 1518415040230,
+ "time": 1518873209317,
  "lists": [
+  {
+   "id": 963505403702124500,
+   "id_str": "963505403702124544",
+   "created_at": "Tue Feb 13 20:09:23 +0000 2018",
+   "text": "Interesting. DoS / Possible RCE in lodash. https://t.co/5tvll0xTmQ\n\nLodash has 61K dependents: https://t.co/xwhQkwTxP0",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5tvll0xTmQ",
+     "expand": "https://hackerone.com/reports/310443"
+    },
+    {
+     "url": "https://t.co/xwhQkwTxP0",
+     "expand": "https://www.npmjs.com/package/lodash"
+    }
+   ]
+  },
   {
    "id": 959921930018078700,
    "id_str": "959921930018078722",

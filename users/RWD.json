@@ -1,39 +1,51 @@
 {
- "time": 1518414088323,
+ "time": 1518873102269,
  "lists": [
   {
-   "id": 962704687748218900,
-   "id_str": "962704687748218881",
-   "created_at": "Sun Feb 11 15:07:38 +0000 2018",
-   "text": "RT @johnmaeda: Design system work posted by Yesenia Perez-Cruz is comprehensive and refreshing. https://t.co/lmoUFCJALH https://t.co/ZawxZ2…",
-   "retweet_count": 28,
+   "id": 963834131900747800,
+   "id_str": "963834131900747776",
+   "created_at": "Wed Feb 14 17:55:38 +0000 2018",
+   "text": "RT @beep: “If AMP is truly for the open web, de-couple it from Google search entirely. It has no business there.” — @tkadlec, https://t.co/…",
+   "retweet_count": 19,
    "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963816680391618600,
+    "id_str": "963816680391618566",
+    "created_at": "Wed Feb 14 16:46:18 +0000 2018",
+    "text": "“If AMP is truly for the open web, de-couple it from Google search entirely. It has no business there.” — @tkadlec, https://t.co/AwvIRovkf4",
+    "retweet_count": 19,
+    "favorite_count": 42,
+    "place": null,
+    "in_reply_to_status_id": 963815371257077800,
+    "in_reply_to_screen_name": "beep",
+    "urls": [
+     {
+      "url": "https://t.co/AwvIRovkf4",
+      "expand": "https://timkadlec.com/remembers/2018-02-14-the-two-faces-of-amp/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963082009043185700,
+   "id_str": "963082009043185664",
+   "created_at": "Mon Feb 12 16:06:58 +0000 2018",
+   "text": "Well. @visualgui’s redesign is stately, stunning, and—and!—responsive. https://t.co/DRRuigZSDB",
+   "retweet_count": 1,
+   "favorite_count": 6,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/lmoUFCJALH",
-     "expand": "https://twitter.com/yeseniaa/status/925840684715782145"
+     "url": "https://t.co/DRRuigZSDB",
+     "expand": "https://www.visualgui.com/"
     }
-   ],
-   "retweeted_status": {
-    "id": 962567125251616800,
-    "id_str": "962567125251616768",
-    "created_at": "Sun Feb 11 06:01:00 +0000 2018",
-    "text": "Design system work posted by Yesenia Perez-Cruz is comprehensive and refreshing. https://t.co/lmoUFCJALH https://t.co/ZawxZ2euoV",
-    "retweet_count": 28,
-    "favorite_count": 119,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/lmoUFCJALH",
-      "expand": "https://twitter.com/yeseniaa/status/925840684715782145"
-     }
-    ]
-   }
+   ]
   }
  ]
 }

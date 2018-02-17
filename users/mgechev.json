@@ -1,13 +1,533 @@
 {
- "time": 1518413576530,
+ "time": 1518873092102,
  "lists": [
+  {
+   "id": 964715232542187500,
+   "id_str": "964715232542187520",
+   "created_at": "Sat Feb 17 04:16:49 +0000 2018",
+   "text": "🕵 Interesting technique for stealing sensitive data using CSS value selectors https://t.co/0nfSlka1gZ https://t.co/AyFB0uP4U5",
+   "retweet_count": 11,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0nfSlka1gZ",
+     "expand": "https://www.mike-gualtieri.com/posts/stealing-data-with-css-attack-and-defense"
+    }
+   ]
+  },
+  {
+   "id": 964656826942804000,
+   "id_str": "964656826942803968",
+   "created_at": "Sat Feb 17 00:24:44 +0000 2018",
+   "text": "3D engine implemented in Excel 🤯 https://t.co/KmOyii5rSd",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KmOyii5rSd",
+     "expand": "https://www.youtube.com/watch?v=iCeOEQVUWZ0"
+    }
+   ]
+  },
+  {
+   "id": 964570813260210200,
+   "id_str": "964570813260210177",
+   "created_at": "Fri Feb 16 18:42:57 +0000 2018",
+   "text": "RT @kammysliwiec: Latest @nestframework release comes with a lot of new features, bugfixes, and several improvements, but also is a teaser…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964541286987567100,
+    "id_str": "964541286987567104",
+    "created_at": "Fri Feb 16 16:45:37 +0000 2018",
+    "text": "Latest @nestframework release comes with a lot of new features, bugfixes, and several improvements, but also is a t… https://t.co/vVpUv6ajmu",
+    "retweet_count": 21,
+    "favorite_count": 57,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vVpUv6ajmu",
+      "expand": "https://twitter.com/i/web/status/964541286987567104"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964369877359214600,
+   "id_str": "964369877359214593",
+   "created_at": "Fri Feb 16 05:24:30 +0000 2018",
+   "text": "@basarat It can properly infer the type of the items we're iterating over in NgForOf. https://t.co/inuELvFzWr",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964361686407790600,
+   "in_reply_to_screen_name": "basarat",
+   "urls": []
+  },
+  {
+   "id": 964297721820557300,
+   "id_str": "964297721820557317",
+   "created_at": "Fri Feb 16 00:37:47 +0000 2018",
+   "text": "A few weeks ago I was guest on the podcast \"Adventures in Angular\" where I talked about Angular internals, more spe… https://t.co/SJr5WrIFZZ",
+   "retweet_count": 22,
+   "favorite_count": 68,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SJr5WrIFZZ",
+     "expand": "https://twitter.com/i/web/status/964297721820557317"
+    }
+   ]
+  },
+  {
+   "id": 964290014669561900,
+   "id_str": "964290014669561856",
+   "created_at": "Fri Feb 16 00:07:09 +0000 2018",
+   "text": "Just saw that there's a support for transducers in Immutable.js https://t.co/MfXG9ezDZI",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MfXG9ezDZI",
+     "expand": "https://github.com/facebook/immutable-js/releases/tag/v4.0.0-rc.3"
+    }
+   ]
+  },
+  {
+   "id": 964251493497843700,
+   "id_str": "964251493497843712",
+   "created_at": "Thu Feb 15 21:34:05 +0000 2018",
+   "text": "The first working draft of WebAssembly is out! https://t.co/i18NOvsChM",
+   "retweet_count": 10,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/i18NOvsChM",
+     "expand": "https://twitter.com/w3c/status/964118412401283072"
+    }
+   ]
+  },
+  {
+   "id": 964244169043558400,
+   "id_str": "964244169043558400",
+   "created_at": "Thu Feb 15 21:04:59 +0000 2018",
+   "text": "@marcfawzi Feedback from developers is very valuable. That's the usual reason framework developers prefer to share their roadmap.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964231905947263000,
+   "in_reply_to_screen_name": "marcfawzi",
+   "urls": []
+  },
+  {
+   "id": 964203720933236700,
+   "id_str": "964203720933236737",
+   "created_at": "Thu Feb 15 18:24:15 +0000 2018",
+   "text": "Really surprised to see that talks got so highly rated. Probably because they provide distilled knowledge in an ent… https://t.co/YNIb49JP6Z",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963839691177967600,
+   "in_reply_to_screen_name": "mgechev",
+   "urls": [
+    {
+     "url": "https://t.co/YNIb49JP6Z",
+     "expand": "https://twitter.com/i/web/status/964203720933236737"
+    }
+   ]
+  },
+  {
+   "id": 964186593631248400,
+   "id_str": "964186593631248384",
+   "created_at": "Thu Feb 15 17:16:12 +0000 2018",
+   "text": "RT @ngNewYork: Faster #Angular Application [Part 1]: On Push and #Immutable.js  https://t.co/1Kt5kgwqdg @mgechev #JavaScript",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1Kt5kgwqdg",
+     "expand": "http://zndg.tl/2BgjQ0q"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964180051519557600,
+    "id_str": "964180051519557633",
+    "created_at": "Thu Feb 15 16:50:12 +0000 2018",
+    "text": "Faster #Angular Application [Part 1]: On Push and #Immutable.js  https://t.co/1Kt5kgwqdg @mgechev #JavaScript",
+    "retweet_count": 7,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1Kt5kgwqdg",
+      "expand": "http://zndg.tl/2BgjQ0q"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964144218334638100,
+   "id_str": "964144218334638081",
+   "created_at": "Thu Feb 15 14:27:49 +0000 2018",
+   "text": "@marcfawzi Angular Elements is still in the Labs.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963895413504819200,
+   "in_reply_to_screen_name": "marcfawzi",
+   "urls": []
+  },
+  {
+   "id": 964143099944493000,
+   "id_str": "964143099944493056",
+   "created_at": "Thu Feb 15 14:23:22 +0000 2018",
+   "text": "@rahul_vrt I saw something for the second part of your question in a presentation by @wwwalkerrun using @nrwl_io Nx.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964087817117646800,
+   "in_reply_to_screen_name": "rahul_vrt",
+   "urls": []
+  },
+  {
+   "id": 963869651867287600,
+   "id_str": "963869651867287552",
+   "created_at": "Wed Feb 14 20:16:47 +0000 2018",
+   "text": "RT @amino24h: 7 Angular Tools That You Should Consider · Minko Gechev's blog https://t.co/Lrq4yDu8Rf",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Lrq4yDu8Rf",
+     "expand": "http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 962703995818176500,
+    "id_str": "962703995818176513",
+    "created_at": "Sun Feb 11 15:04:53 +0000 2018",
+    "text": "7 Angular Tools That You Should Consider · Minko Gechev's blog https://t.co/Lrq4yDu8Rf",
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Lrq4yDu8Rf",
+      "expand": "http://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963856533556613100,
+   "id_str": "963856533556613120",
+   "created_at": "Wed Feb 14 19:24:39 +0000 2018",
+   "text": "As a start...Here's an article I wrote about 4 years ago on how you can implement multi-user video conference with… https://t.co/Lbyq43AGtk",
+   "retweet_count": 6,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": 963817686688940000,
+   "in_reply_to_screen_name": "mgechev",
+   "urls": [
+    {
+     "url": "https://t.co/Lbyq43AGtk",
+     "expand": "https://twitter.com/i/web/status/963856533556613120"
+    }
+   ]
+  },
+  {
+   "id": 963848337085509600,
+   "id_str": "963848337085509632",
+   "created_at": "Wed Feb 14 18:52:05 +0000 2018",
+   "text": "@jawache Cool badge!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963762980923084800,
+   "in_reply_to_screen_name": "jawache",
+   "urls": []
+  },
+  {
+   "id": 963839691177967600,
+   "id_str": "963839691177967616",
+   "created_at": "Wed Feb 14 18:17:44 +0000 2018",
+   "text": "How do you learn better and what provides more value to you?",
+   "retweet_count": 10,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963817686688940000,
+   "id_str": "963817686688940032",
+   "created_at": "Wed Feb 14 16:50:18 +0000 2018",
+   "text": "As Google Developer Expert in the Web track, from today, I am specializing in Angular and WebRTC. Let me know if I… https://t.co/unyH6Y9k6W",
+   "retweet_count": 8,
+   "favorite_count": 108,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/unyH6Y9k6W",
+     "expand": "https://twitter.com/i/web/status/963817686688940032"
+    }
+   ]
+  },
+  {
+   "id": 963617661497229300,
+   "id_str": "963617661497229312",
+   "created_at": "Wed Feb 14 03:35:28 +0000 2018",
+   "text": "@searls Violation of the dependency inversion principal is a direct implication of the latter.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963617344730808300,
+   "in_reply_to_screen_name": "mgechev",
+   "urls": []
+  },
+  {
+   "id": 963617344730808300,
+   "id_str": "963617344730808321",
+   "created_at": "Wed Feb 14 03:34:12 +0000 2018",
+   "text": "@searls @bodil Pure functions are easier to reason about because of few reasons:\n- People are not good in keeping a… https://t.co/e6YtGyJ9oh",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963581481602961400,
+   "in_reply_to_screen_name": "searls",
+   "urls": [
+    {
+     "url": "https://t.co/e6YtGyJ9oh",
+     "expand": "https://twitter.com/i/web/status/963617344730808321"
+    }
+   ]
+  },
+  {
+   "id": 963499000027521000,
+   "id_str": "963499000027521024",
+   "created_at": "Tue Feb 13 19:43:57 +0000 2018",
+   "text": "Probably trackBy in NgForOf doesn't do what you think it does! Here's a short video from my @NgAtlanta talk explain… https://t.co/r5BXtZt9Tm",
+   "retweet_count": 10,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r5BXtZt9Tm",
+     "expand": "https://twitter.com/i/web/status/963499000027521024"
+    }
+   ]
+  },
+  {
+   "id": 963472395100024800,
+   "id_str": "963472395100024832",
+   "created_at": "Tue Feb 13 17:58:14 +0000 2018",
+   "text": "RT @_myoshida: \"Decorators in JavaScript are now in stage 2. They allow us to alter the definition of a class, method, or a property.\" / Ja…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963221383483244500,
+    "id_str": "963221383483244544",
+    "created_at": "Tue Feb 13 01:20:48 +0000 2018",
+    "text": "\"Decorators in JavaScript are now in stage 2. They allow us to alter the definition of a class, method, or a proper… https://t.co/jG3obv1pJL",
+    "retweet_count": 10,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jG3obv1pJL",
+      "expand": "https://twitter.com/i/web/status/963221383483244544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963444231904772100,
+   "id_str": "963444231904772096",
+   "created_at": "Tue Feb 13 16:06:19 +0000 2018",
+   "text": "RT @m_m_campbell: It’s math.\n\nIt’s art.\n\nIt’s Fourier transform.\n\nBrilliant: https://t.co/y8Ol7Av1rv\n\n#mathematics #SciArt via @jagarikin",
+   "retweet_count": 4834,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962834907285348400,
+    "id_str": "962834907285348352",
+    "created_at": "Sun Feb 11 23:45:05 +0000 2018",
+    "text": "It’s math.\n\nIt’s art.\n\nIt’s Fourier transform.\n\nBrilliant: https://t.co/y8Ol7Av1rv\n\n#mathematics #SciArt via @jagarikin",
+    "retweet_count": 4834,
+    "favorite_count": 9394,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963443959212138500,
+   "id_str": "963443959212138496",
+   "created_at": "Tue Feb 13 16:05:14 +0000 2018",
+   "text": "@basarat You can enable the Angular Language Service. Although it's not installed by default on any text editor/IDE… https://t.co/7EBgeUhy9A",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963352099248631800,
+   "in_reply_to_screen_name": "basarat",
+   "urls": [
+    {
+     "url": "https://t.co/7EBgeUhy9A",
+     "expand": "https://twitter.com/i/web/status/963443959212138496"
+    }
+   ]
+  },
+  {
+   "id": 963182343316893700,
+   "id_str": "963182343316893696",
+   "created_at": "Mon Feb 12 22:45:40 +0000 2018",
+   "text": "@mtgrigorov @Cypress_io Multi-browser support will be there soon. Saw the first test successfully passed in Firefox few weeks ago.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963178384653156400,
+   "in_reply_to_screen_name": "mtgrigorov",
+   "urls": []
+  },
+  {
+   "id": 963151783391408100,
+   "id_str": "963151783391408128",
+   "created_at": "Mon Feb 12 20:44:14 +0000 2018",
+   "text": "RT @_rsc: https://t.co/iFv3Y7oRg3",
+   "retweet_count": 47,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962744103015538700,
+    "id_str": "962744103015538688",
+    "created_at": "Sun Feb 11 17:44:15 +0000 2018",
+    "text": "https://t.co/iFv3Y7oRg3",
+    "retweet_count": 47,
+    "favorite_count": 234,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963114292542259200,
+   "id_str": "963114292542259200",
+   "created_at": "Mon Feb 12 18:15:15 +0000 2018",
+   "text": "The new version of codelyzer will arrive with new rules by @william_koza aiming to help us write more maintainable… https://t.co/UASIrK8TtM",
+   "retweet_count": 10,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UASIrK8TtM",
+     "expand": "https://twitter.com/i/web/status/963114292542259200"
+    }
+   ]
+  },
+  {
+   "id": 963097717072212000,
+   "id_str": "963097717072211972",
+   "created_at": "Mon Feb 12 17:09:23 +0000 2018",
+   "text": "@bnymncoskuner I would recommend you to use ngast for collecting metadata for the components, providers, pipes That… https://t.co/GLwJMhDtdF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963095929585913900,
+   "in_reply_to_screen_name": "bnymncoskuner",
+   "urls": [
+    {
+     "url": "https://t.co/GLwJMhDtdF",
+     "expand": "https://twitter.com/i/web/status/963097717072211972"
+    }
+   ]
+  },
+  {
+   "id": 963091346834694100,
+   "id_str": "963091346834694144",
+   "created_at": "Mon Feb 12 16:44:05 +0000 2018",
+   "text": "Angular Seed now uses @Cypress_io for e2e testing! This is a huge step forward for a better development experience… https://t.co/c7xZR10YDw",
+   "retweet_count": 16,
+   "favorite_count": 78,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/c7xZR10YDw",
+     "expand": "https://twitter.com/i/web/status/963091346834694144"
+    }
+   ]
+  },
+  {
+   "id": 963068371527807000,
+   "id_str": "963068371527806976",
+   "created_at": "Mon Feb 12 15:12:47 +0000 2018",
+   "text": "@bnymncoskuner You can read component metadata. Comments are ignored. For docs generation, take a look at compodoc.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963023502617006100,
+   "in_reply_to_screen_name": "bnymncoskuner",
+   "urls": []
+  },
   {
    "id": 962826228292993000,
    "id_str": "962826228292993024",
    "created_at": "Sun Feb 11 23:10:35 +0000 2018",
    "text": "Injection-js hit over 10k monthly downloads on npm! Check it out if you need stable, blazing fast, well-designed, r… https://t.co/hgnirF5GJ6",
-   "retweet_count": 9,
-   "favorite_count": 20,
+   "retweet_count": 25,
+   "favorite_count": 74,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,

@@ -1,16 +1,234 @@
 {
- "time": 1518414710176,
+ "time": 1518873198214,
  "lists": [
   {
-   "id": 962388028709920800,
-   "id_str": "962388028709920774",
-   "created_at": "Sat Feb 10 18:09:21 +0000 2018",
-   "text": "@reconbot \"the decentralized projects\"?",
+   "id": 964596969514721300,
+   "id_str": "964596969514721280",
+   "created_at": "Fri Feb 16 20:26:53 +0000 2018",
+   "text": "Oh, my friend? Yeah, er, she lives in, like, the capital of Europe. Somewhere downtown if I remember correctly, in… https://t.co/IXXTgntmEI",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IXXTgntmEI",
+     "expand": "https://twitter.com/i/web/status/964596969514721280"
+    }
+   ]
+  },
+  {
+   "id": 964322257073066000,
+   "id_str": "964322257073065984",
+   "created_at": "Fri Feb 16 02:15:16 +0000 2018",
+   "text": "Interested to check out Propel! Pity its imperative bonus was just muted by deeplearn.js' latest release:… https://t.co/TMFfO5YSRH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TMFfO5YSRH",
+     "expand": "https://twitter.com/i/web/status/964322257073065984"
+    }
+   ]
+  },
+  {
+   "id": 964154118662221800,
+   "id_str": "964154118662221824",
+   "created_at": "Thu Feb 15 15:07:09 +0000 2018",
+   "text": "@simonelandon There's a huge amount of unexplored assumption in that \"might not\" though. Why would banning assault… https://t.co/AW4Lmf4Mt6",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 962368381780406300,
-   "in_reply_to_screen_name": "reconbot",
+   "in_reply_to_status_id": 964150834719227900,
+   "in_reply_to_screen_name": "simonelandon",
+   "urls": [
+    {
+     "url": "https://t.co/AW4Lmf4Mt6",
+     "expand": "https://twitter.com/i/web/status/964154118662221824"
+    }
+   ]
+  },
+  {
+   "id": 964141661730361300,
+   "id_str": "964141661730361345",
+   "created_at": "Thu Feb 15 14:17:39 +0000 2018",
+   "text": "@dcousineau @bustle @janecakemaster EXACTLY",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964139352895950800,
+   "in_reply_to_screen_name": "dcousineau",
+   "urls": []
+  },
+  {
+   "id": 964138310812790800,
+   "id_str": "964138310812790784",
+   "created_at": "Thu Feb 15 14:04:20 +0000 2018",
+   "text": "Trying a new prop to encourage my engineering decisions be taken more seriously at @bustle. @janecakemaster definit… https://t.co/4GvxE8ukBs",
+   "retweet_count": 0,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4GvxE8ukBs",
+     "expand": "https://twitter.com/i/web/status/964138310812790784"
+    }
+   ]
+  },
+  {
+   "id": 963510269388509200,
+   "id_str": "963510269388509184",
+   "created_at": "Tue Feb 13 20:28:44 +0000 2018",
+   "text": "@donohoe Check out https://t.co/3QgDxr5oP6 and https://t.co/5Vsy4SFsSP of examples of how to run on AWS Lambda",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963502618319388700,
+   "in_reply_to_screen_name": "donohoe",
+   "urls": [
+    {
+     "url": "https://t.co/3QgDxr5oP6",
+     "expand": "https://github.com/Nordstrom/serverless-lighthouse-template"
+    },
+    {
+     "url": "https://t.co/5Vsy4SFsSP",
+     "expand": "https://github.com/chriszarate/pwmetrics-lambda"
+    }
+   ]
+  },
+  {
+   "id": 963499787306831900,
+   "id_str": "963499787306831875",
+   "created_at": "Tue Feb 13 19:47:04 +0000 2018",
+   "text": "v6.13.0 is out – can get it on Alpine Docker here: https://t.co/YHPvVfvT2n https://t.co/cllfuff6cC",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YHPvVfvT2n",
+     "expand": "https://hub.docker.com/r/mhart/alpine-node/"
+    },
+    {
+     "url": "https://t.co/cllfuff6cC",
+     "expand": "https://twitter.com/mylesborins/status/963497288122490881"
+    }
+   ]
+  },
+  {
+   "id": 963493455283523600,
+   "id_str": "963493455283523585",
+   "created_at": "Tue Feb 13 19:21:55 +0000 2018",
+   "text": "Wow, AWS RedShift docs page removed from Google because of a DMCA takedown from @MediengruppeRTL 🙄 https://t.co/T1FcsjBXF6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/T1FcsjBXF6",
+     "expand": "https://www.lumendatabase.org/notices/15802991"
+    }
+   ]
+  },
+  {
+   "id": 963264279888695300,
+   "id_str": "963264279888695296",
+   "created_at": "Tue Feb 13 04:11:15 +0000 2018",
+   "text": "RT @mims: what if Boston Dynamics' and Magic Leap's business model is just to make viral videos",
+   "retweet_count": 485,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963159334481027100,
+    "id_str": "963159334481027072",
+    "created_at": "Mon Feb 12 21:14:14 +0000 2018",
+    "text": "what if Boston Dynamics' and Magic Leap's business model is just to make viral videos",
+    "retweet_count": 485,
+    "favorite_count": 2140,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963137816644538400,
+   "id_str": "963137816644538370",
+   "created_at": "Mon Feb 12 19:48:44 +0000 2018",
+   "text": "@southpolesteve @mweagle @brianleroux It's not exactly a rube goldberg is it? Seems like just a simple docker compo… https://t.co/6D6QeRphup",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963137166539976700,
+   "in_reply_to_screen_name": "southpolesteve",
+   "urls": [
+    {
+     "url": "https://t.co/6D6QeRphup",
+     "expand": "https://twitter.com/i/web/status/963137816644538370"
+    }
+   ]
+  },
+  {
+   "id": 963083150363684900,
+   "id_str": "963083150363684865",
+   "created_at": "Mon Feb 12 16:11:30 +0000 2018",
+   "text": "Fascinated by this detail in https://t.co/SMI1ctLFSb – throwing out the oldest (not worst) model in a population le… https://t.co/ptKoPBVWT4",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SMI1ctLFSb",
+     "expand": "https://arxiv.org/abs/1802.01548"
+    },
+    {
+     "url": "https://t.co/ptKoPBVWT4",
+     "expand": "https://twitter.com/i/web/status/963083150363684865"
+    }
+   ]
+  },
+  {
+   "id": 963057381079945200,
+   "id_str": "963057381079945217",
+   "created_at": "Mon Feb 12 14:29:07 +0000 2018",
+   "text": "Google Cloud TPU machine learning accelerators now available in beta 👀 https://t.co/xf3o7dzJO9",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xf3o7dzJO9",
+     "expand": "https://cloudplatform.googleblog.com/2018/02/Cloud-TPU-machine-learning-accelerators-now-available-in-beta.html"
+    }
+   ]
+  },
+  {
+   "id": 963051903469932500,
+   "id_str": "963051903469932545",
+   "created_at": "Mon Feb 12 14:07:21 +0000 2018",
+   "text": "OMG @nytimes please tell me you didn't just https://t.co/YhUf1AjVmj",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
    "urls": []
   }
  ]

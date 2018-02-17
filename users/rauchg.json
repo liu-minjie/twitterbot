@@ -1,13 +1,800 @@
 {
- "time": 1518414683561,
+ "time": 1518873196459,
  "lists": [
+  {
+   "id": 964663008227029000,
+   "id_str": "964663008227028993",
+   "created_at": "Sat Feb 17 00:49:18 +0000 2018",
+   "text": "`ninja` is a very aptly named project",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964587046403678200,
+   "id_str": "964587046403678208",
+   "created_at": "Fri Feb 16 19:47:27 +0000 2018",
+   "text": "@esacrosa @federatier 🤣",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964586585902714900,
+   "in_reply_to_screen_name": "esacrosa",
+   "urls": []
+  },
+  {
+   "id": 964586905961574400,
+   "id_str": "964586905961574400",
+   "created_at": "Fri Feb 16 19:46:54 +0000 2018",
+   "text": "@ninzucchi @designdetailsfm @ArthurB Another favorite of mine: Tests vs Types by @KPMTechnically… https://t.co/YuMq5BOItK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964585322762747900,
+   "in_reply_to_screen_name": "rauchg",
+   "urls": [
+    {
+     "url": "https://t.co/YuMq5BOItK",
+     "expand": "https://twitter.com/i/web/status/964586905961574400"
+    }
+   ]
+  },
+  {
+   "id": 964585371659993100,
+   "id_str": "964585371659993088",
+   "created_at": "Fri Feb 16 19:40:48 +0000 2018",
+   "text": "RT @rauchg: @ninzucchi @designdetailsfm https://t.co/CukqeA6idc\n\nAwesome post on Turing completeness, correctness &amp; proofs by @ArthurB http…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CukqeA6idc",
+     "expand": "https://hackernoon.com/smart-contracts-turing-completeness-reality-3eb897996621"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964585322762747900,
+    "id_str": "964585322762747904",
+    "created_at": "Fri Feb 16 19:40:36 +0000 2018",
+    "text": "@ninzucchi @designdetailsfm https://t.co/CukqeA6idc\n\nAwesome post on Turing completeness, correctness &amp; proofs by… https://t.co/2dPYcya9uX",
+    "retweet_count": 4,
+    "favorite_count": 16,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": 964583525235109900,
+    "in_reply_to_screen_name": "ninzucchi",
+    "urls": [
+     {
+      "url": "https://t.co/CukqeA6idc",
+      "expand": "https://hackernoon.com/smart-contracts-turing-completeness-reality-3eb897996621"
+     },
+     {
+      "url": "https://t.co/2dPYcya9uX",
+      "expand": "https://twitter.com/i/web/status/964585322762747904"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964585322762747900,
+   "id_str": "964585322762747904",
+   "created_at": "Fri Feb 16 19:40:36 +0000 2018",
+   "text": "@ninzucchi @designdetailsfm https://t.co/CukqeA6idc\n\nAwesome post on Turing completeness, correctness &amp; proofs by… https://t.co/2dPYcya9uX",
+   "retweet_count": 4,
+   "favorite_count": 16,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964583525235109900,
+   "in_reply_to_screen_name": "ninzucchi",
+   "urls": [
+    {
+     "url": "https://t.co/CukqeA6idc",
+     "expand": "https://hackernoon.com/smart-contracts-turing-completeness-reality-3eb897996621"
+    },
+    {
+     "url": "https://t.co/2dPYcya9uX",
+     "expand": "https://twitter.com/i/web/status/964585322762747904"
+    }
+   ]
+  },
+  {
+   "id": 964569922603909100,
+   "id_str": "964569922603909121",
+   "created_at": "Fri Feb 16 18:39:25 +0000 2018",
+   "text": "RT @aaronykng: AlphaGo’s unusually creative moves stemmed from a focus on ultimately winning instead of increasing score (a proxy humans us…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 959184897591013400,
+    "id_str": "959184897591013376",
+    "created_at": "Thu Feb 01 22:01:15 +0000 2018",
+    "text": "AlphaGo’s unusually creative moves stemmed from a focus on ultimately winning instead of increasing score (a proxy… https://t.co/lUmlG3W2lm",
+    "retweet_count": 16,
+    "favorite_count": 73,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lUmlG3W2lm",
+      "expand": "https://twitter.com/i/web/status/959184897591013376"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964424414078017500,
+   "id_str": "964424414078017538",
+   "created_at": "Fri Feb 16 09:01:13 +0000 2018",
+   "text": "RT @_coolcut: The latest episode of Design Details with @rauchg is one of my favorite ones so far. A lot of exciting topics to think about…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964418490135294000,
+    "id_str": "964418490135293953",
+    "created_at": "Fri Feb 16 08:37:40 +0000 2018",
+    "text": "The latest episode of Design Details with @rauchg is one of my favorite ones so far. A lot of exciting topics to th… https://t.co/iKT9dfbd5Z",
+    "retweet_count": 3,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iKT9dfbd5Z",
+      "expand": "https://twitter.com/i/web/status/964418490135293953"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964359401250287600,
+   "id_str": "964359401250287616",
+   "created_at": "Fri Feb 16 04:42:52 +0000 2018",
+   "text": "@Tzmanics @charlespeters @surface Please let me or @CHaBou69 know of any feedback!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964337294177198100,
+   "in_reply_to_screen_name": "Tzmanics",
+   "urls": []
+  },
+  {
+   "id": 964284525302853600,
+   "id_str": "964284525302853632",
+   "created_at": "Thu Feb 15 23:45:21 +0000 2018",
+   "text": "Calling a company a \"tech\" company is quickly becoming old.\nLike calling a computer an \"automatic\" computer.… https://t.co/KocyUKPUu0",
+   "retweet_count": 18,
+   "favorite_count": 79,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KocyUKPUu0",
+     "expand": "https://twitter.com/i/web/status/964284525302853632"
+    }
+   ]
+  },
+  {
+   "id": 964253662506664000,
+   "id_str": "964253662506663936",
+   "created_at": "Thu Feb 15 21:42:42 +0000 2018",
+   "text": "@crtr0 @zeithq You can deploy Dockerfile to Now. Big % of our deployments 💪",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964252593760256000,
+   "in_reply_to_screen_name": "crtr0",
+   "urls": []
+  },
+  {
+   "id": 964189198595977200,
+   "id_str": "964189198595977216",
+   "created_at": "Thu Feb 15 17:26:33 +0000 2018",
+   "text": "RT @evilrabbit_: Morning SF 🤘🏻 https://t.co/07qEz4XVwI",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964188804960563200,
+    "id_str": "964188804960563200",
+    "created_at": "Thu Feb 15 17:24:59 +0000 2018",
+    "text": "Morning SF 🤘🏻 https://t.co/07qEz4XVwI",
+    "retweet_count": 5,
+    "favorite_count": 53,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964188499481018400,
+   "id_str": "964188499481018369",
+   "created_at": "Thu Feb 15 17:23:46 +0000 2018",
+   "text": "RT @jxnblk: Really enjoyed this episode of @designdetailsfm with @rauchg – if your a designer, check this out and definitely follow what @z…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964186386239762400,
+    "id_str": "964186386239762433",
+    "created_at": "Thu Feb 15 17:15:22 +0000 2018",
+    "text": "Really enjoyed this episode of @designdetailsfm with @rauchg – if your a designer, check this out and definitely fo… https://t.co/xDPlhae2gv",
+    "retweet_count": 12,
+    "favorite_count": 96,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xDPlhae2gv",
+      "expand": "https://twitter.com/i/web/status/964186386239762433"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964180334018363400,
+   "id_str": "964180334018363393",
+   "created_at": "Thu Feb 15 16:51:19 +0000 2018",
+   "text": "@wesbos Will it still move from single digit to double digit?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964178133699227600,
+   "in_reply_to_screen_name": "wesbos",
+   "urls": []
+  },
+  {
+   "id": 964014298015006700,
+   "id_str": "964014298015006720",
+   "created_at": "Thu Feb 15 05:51:33 +0000 2018",
+   "text": "RT @skidding: Today is the perfect day\nTo find a partner on Twitter\nTo test a WIP multiplayer game I'm building\nAt https://t.co/l19NzUYDuN…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/l19NzUYDuN",
+     "expand": "https://flatris-tsgcxzmlef.now.sh/join/490acd76"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963898700518051800,
+    "id_str": "963898700518051841",
+    "created_at": "Wed Feb 14 22:12:13 +0000 2018",
+    "text": "Today is the perfect day\nTo find a partner on Twitter\nTo test a WIP multiplayer game I'm building\nAt… https://t.co/BTqihjbEOk",
+    "retweet_count": 4,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/BTqihjbEOk",
+      "expand": "https://twitter.com/i/web/status/963898700518051841"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963925603341647900,
+   "id_str": "963925603341647872",
+   "created_at": "Wed Feb 14 23:59:07 +0000 2018",
+   "text": "@esacrosa Polémico",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963924620536500200,
+   "in_reply_to_screen_name": "esacrosa",
+   "urls": []
+  },
+  {
+   "id": 963849815456034800,
+   "id_str": "963849815456034816",
+   "created_at": "Wed Feb 14 18:57:58 +0000 2018",
+   "text": "@chufucious yep! Almost ready 😎 cc @CHaBou69",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963841772341350400,
+   "in_reply_to_screen_name": "chufucious",
+   "urls": []
+  },
+  {
+   "id": 963837379223076900,
+   "id_str": "963837379223076865",
+   "created_at": "Wed Feb 14 18:08:33 +0000 2018",
+   "text": "RT @DannyProl: I really, really enjoyed this episode of @designdetailsfm w/ @rauchg . I recommend it for pretty much anyone, not just devel…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963836704284135400,
+    "id_str": "963836704284135425",
+    "created_at": "Wed Feb 14 18:05:52 +0000 2018",
+    "text": "I really, really enjoyed this episode of @designdetailsfm w/ @rauchg . I recommend it for pretty much anyone, not j… https://t.co/WJU89GYetj",
+    "retweet_count": 5,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WJU89GYetj",
+      "expand": "https://twitter.com/i/web/status/963836704284135425"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963803343049998300,
+   "id_str": "963803343049998336",
+   "created_at": "Wed Feb 14 15:53:18 +0000 2018",
+   "text": "RT @CodeWisdom: Rusty Russell (creator of iptables) in his farewell commit to the Linux kernel: https://t.co/6XKmvSLJiT https://t.co/eL8yuc…",
+   "retweet_count": 562,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6XKmvSLJiT",
+     "expand": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ed875ea1fcc6c34ea232610c3041d0978e327bbe"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963783392994177000,
+    "id_str": "963783392994177024",
+    "created_at": "Wed Feb 14 14:34:01 +0000 2018",
+    "text": "Rusty Russell (creator of iptables) in his farewell commit to the Linux kernel: https://t.co/6XKmvSLJiT https://t.co/eL8yuc1Q13",
+    "retweet_count": 562,
+    "favorite_count": 1141,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6XKmvSLJiT",
+      "expand": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ed875ea1fcc6c34ea232610c3041d0978e327bbe"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963790176626475000,
+   "id_str": "963790176626475009",
+   "created_at": "Wed Feb 14 15:00:59 +0000 2018",
+   "text": "RT @swyx: TIL @rauchg's first name is pronounced \"gee-SHER-MO\"\n\nlatest @designdetailsfm is out!\n\nhttps://t.co/2UtzIVLi31",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2UtzIVLi31",
+     "expand": "https://spec.fm/podcasts/design-details/113490"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963789383420842000,
+    "id_str": "963789383420841984",
+    "created_at": "Wed Feb 14 14:57:50 +0000 2018",
+    "text": "TIL @rauchg's first name is pronounced \"gee-SHER-MO\"\n\nlatest @designdetailsfm is out!\n\nhttps://t.co/2UtzIVLi31",
+    "retweet_count": 5,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2UtzIVLi31",
+      "expand": "https://spec.fm/podcasts/design-details/113490"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963764172868632600,
+   "id_str": "963764172868632577",
+   "created_at": "Wed Feb 14 13:17:39 +0000 2018",
+   "text": "RT @javivelasco: I'm thrilled to announce that I'm joining @zeithq fulltime from next week!! ▲🙌🎊🎉🔥",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963737215632396300,
+    "id_str": "963737215632396289",
+    "created_at": "Wed Feb 14 11:30:32 +0000 2018",
+    "text": "I'm thrilled to announce that I'm joining @zeithq fulltime from next week!! ▲🙌🎊🎉🔥",
+    "retweet_count": 10,
+    "favorite_count": 411,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963633333929500700,
+   "id_str": "963633333929500673",
+   "created_at": "Wed Feb 14 04:37:44 +0000 2018",
+   "text": "RT @patthemanager: get up\n \nget your mind right\n\nget your body right\n\n&amp;\n\nput some points on the board.",
+   "retweet_count": 2312,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 942638629691805700,
+    "id_str": "942638629691805697",
+    "created_at": "Mon Dec 18 06:12:17 +0000 2017",
+    "text": "get up\n \nget your mind right\n\nget your body right\n\n&amp;\n\nput some points on the board.",
+    "retweet_count": 2312,
+    "favorite_count": 6118,
+    "place": "Chicago, IL",
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 963573176360828900,
+   "id_str": "963573176360828928",
+   "created_at": "Wed Feb 14 00:38:42 +0000 2018",
+   "text": "@JuanEkremHz @cris7ian I was making a mission statement rather than focusing too much on the current reality. It's… https://t.co/XrwRqQguRJ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963570975135748100,
+   "in_reply_to_screen_name": "JuanEkremHz",
+   "urls": [
+    {
+     "url": "https://t.co/XrwRqQguRJ",
+     "expand": "https://twitter.com/i/web/status/963573176360828928"
+    }
+   ]
+  },
+  {
+   "id": 963569761211707400,
+   "id_str": "963569761211707392",
+   "created_at": "Wed Feb 14 00:25:07 +0000 2018",
+   "text": "@naval Also: just lawyers is selling it short. Notaries, financiers, market operators…",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963569214345830400,
+   "in_reply_to_screen_name": "naval",
+   "urls": []
+  },
+  {
+   "id": 963504546449301500,
+   "id_str": "963504546449301504",
+   "created_at": "Tue Feb 13 20:05:59 +0000 2018",
+   "text": "Infinite @fbjest",
+   "retweet_count": 2,
+   "favorite_count": 34,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963267707884875800,
+   "id_str": "963267707884875776",
+   "created_at": "Tue Feb 13 04:24:52 +0000 2018",
+   "text": "@brian_lovin @jakemarsh This might have to do with the renderToNodeStream change? Make sure you send the Content-Type header prior to piping",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963267280695013400,
+   "in_reply_to_screen_name": "brian_lovin",
+   "urls": []
+  },
+  {
+   "id": 963220769957339100,
+   "id_str": "963220769957339136",
+   "created_at": "Tue Feb 13 01:18:21 +0000 2018",
+   "text": "@BrendanEich @kuba_suder But we must ship",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963219838549274600,
+   "in_reply_to_screen_name": "BrendanEich",
+   "urls": []
+  },
+  {
+   "id": 963166378613121000,
+   "id_str": "963166378613121024",
+   "created_at": "Mon Feb 12 21:42:14 +0000 2018",
+   "text": "@el33th4xor @BrendanEich Same function but different levels of security and liquidity?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963165607746302000,
+   "in_reply_to_screen_name": "el33th4xor",
+   "urls": []
+  },
+  {
+   "id": 963164910896074800,
+   "id_str": "963164910896074752",
+   "created_at": "Mon Feb 12 21:36:24 +0000 2018",
+   "text": "https://t.co/QvVrUbIURJ\nhttps://t.co/ym3TA9ycsX",
+   "retweet_count": 0,
+   "favorite_count": 23,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963160835022495700,
+   "in_reply_to_screen_name": "rauchg",
+   "urls": [
+    {
+     "url": "https://t.co/QvVrUbIURJ",
+     "expand": "https://github.com/c8r/markdown/blob/master/MDX_SPECIFICATION.md"
+    },
+    {
+     "url": "https://t.co/ym3TA9ycsX",
+     "expand": "https://github.com/c8r/markdown/blob/master/MDXAST_SPECIFICATION.md"
+    }
+   ]
+  },
+  {
+   "id": 963164364961333200,
+   "id_str": "963164364961333248",
+   "created_at": "Mon Feb 12 21:34:13 +0000 2018",
+   "text": "@shizzmd @zeithq @varnishsoftware We use Redis extensively (via Redis Labs) and in-process in-memory caching as wel… https://t.co/AME7wY01sF",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963163989105504300,
+   "in_reply_to_screen_name": "shizzmd",
+   "urls": [
+    {
+     "url": "https://t.co/AME7wY01sF",
+     "expand": "https://twitter.com/i/web/status/963164364961333248"
+    }
+   ]
+  },
+  {
+   "id": 963163032338669600,
+   "id_str": "963163032338669569",
+   "created_at": "Mon Feb 12 21:28:56 +0000 2018",
+   "text": "@dan_abramov Inter-galactic supernova brain: support in the language directly :P",
+   "retweet_count": 0,
+   "favorite_count": 32,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963162275380154400,
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": []
+  },
+  {
+   "id": 963160835022495700,
+   "id_str": "963160835022495744",
+   "created_at": "Mon Feb 12 21:20:12 +0000 2018",
+   "text": "Amazing follow-up on MDX by John Otander (@4lpine) 🤯\nhttps://t.co/HHy1Y6iIQA https://t.co/0EXbavIrLO",
+   "retweet_count": 5,
+   "favorite_count": 49,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HHy1Y6iIQA",
+     "expand": "https://spectrum.chat/thread/1021be59-2738-4511-aceb-c66921050b9a"
+    }
+   ]
+  },
+  {
+   "id": 963159416278143000,
+   "id_str": "963159416278142976",
+   "created_at": "Mon Feb 12 21:14:34 +0000 2018",
+   "text": "@_CSMiller I disagree, but even then, access to index funds is still access to the market :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963157140121817100,
+   "in_reply_to_screen_name": "_CSMiller",
+   "urls": []
+  },
+  {
+   "id": 963157016741949400,
+   "id_str": "963157016741949440",
+   "created_at": "Mon Feb 12 21:05:02 +0000 2018",
+   "text": "@thefodafarm yep. See the replies on this thread about global availability. Crypto is the solution.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963155091581751300,
+   "in_reply_to_screen_name": "thefodafarm",
+   "urls": []
+  },
+  {
+   "id": 963154707467268100,
+   "id_str": "963154707467268097",
+   "created_at": "Mon Feb 12 20:55:51 +0000 2018",
+   "text": "Robinhood will go down as one of the most important apps ever created.\nThe market in your pocket, 24x7, available to everyone in the world.",
+   "retweet_count": 7,
+   "favorite_count": 63,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963128833414111200,
+   "id_str": "963128833414111232",
+   "created_at": "Mon Feb 12 19:13:02 +0000 2018",
+   "text": "RT @zeithq: ZEIT Status has been updated to reflect information by region and datacenter.\n\nhttps://t.co/F82rCkHeRO https://t.co/uLenTZjfdq",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/F82rCkHeRO",
+     "expand": "https://zeit-status.co/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963112174641086500,
+    "id_str": "963112174641086465",
+    "created_at": "Mon Feb 12 18:06:50 +0000 2018",
+    "text": "ZEIT Status has been updated to reflect information by region and datacenter.\n\nhttps://t.co/F82rCkHeRO https://t.co/uLenTZjfdq",
+    "retweet_count": 10,
+    "favorite_count": 75,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/F82rCkHeRO",
+      "expand": "https://zeit-status.co/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963100386381905900,
+   "id_str": "963100386381905921",
+   "created_at": "Mon Feb 12 17:20:00 +0000 2018",
+   "text": "We more than doubled the total number of Now deployments in the last 10 weeks, and that's only in one region 🤯",
+   "retweet_count": 3,
+   "favorite_count": 106,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 963080407511048200,
+   "id_str": "963080407511048192",
+   "created_at": "Mon Feb 12 16:00:36 +0000 2018",
+   "text": "@devongovett @sebmck @samccone @parceljs require('samccone')()",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963077943181262800,
+   "in_reply_to_screen_name": "devongovett",
+   "urls": []
+  },
+  {
+   "id": 963080153805893600,
+   "id_str": "963080153805893632",
+   "created_at": "Mon Feb 12 15:59:36 +0000 2018",
+   "text": "RT @diegohaz: React 16.3, NextJS, SSR and more: https://t.co/DF6GA4T2Px",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DF6GA4T2Px",
+     "expand": "https://medium.com/@DigitalWebHero/react-weekly-1-3db73a3ed11c"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963051561718112300,
+    "id_str": "963051561718112257",
+    "created_at": "Mon Feb 12 14:05:59 +0000 2018",
+    "text": "React 16.3, NextJS, SSR and more: https://t.co/DF6GA4T2Px",
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DF6GA4T2Px",
+      "expand": "https://medium.com/@DigitalWebHero/react-weekly-1-3db73a3ed11c"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963075381061300200,
+   "id_str": "963075381061300224",
+   "created_at": "Mon Feb 12 15:40:38 +0000 2018",
+   "text": "@mikemaccana @sambreed It's the canary channel. Stable release should happen very soon. cc @CHaBou69",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963074773478670300,
+   "in_reply_to_screen_name": "mikemaccana",
+   "urls": []
+  },
+  {
+   "id": 963071136308240400,
+   "id_str": "963071136308240386",
+   "created_at": "Mon Feb 12 15:23:46 +0000 2018",
+   "text": "@DaveGomez @mxstbr In terms of performance, they're both probably just as good right now :D",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963070952409124900,
+   "in_reply_to_screen_name": "DaveGomez",
+   "urls": []
+  },
+  {
+   "id": 963069324259831800,
+   "id_str": "963069324259831808",
+   "created_at": "Mon Feb 12 15:16:34 +0000 2018",
+   "text": "@DaveGomez @mxstbr Perf was never really the goal. More like HTML &lt;style&gt; compliance / familiarity",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963059341053096000,
+   "in_reply_to_screen_name": "DaveGomez",
+   "urls": []
+  },
+  {
+   "id": 963051846653788200,
+   "id_str": "963051846653788160",
+   "created_at": "Mon Feb 12 14:07:07 +0000 2018",
+   "text": "@andrewingram Yes. It’s a kernel-level setting",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 963013431560425500,
+   "in_reply_to_screen_name": "andrewingram",
+   "urls": []
+  },
   {
    "id": 962861021860831200,
    "id_str": "962861021860831232",
    "created_at": "Mon Feb 12 01:28:51 +0000 2018",
    "text": "Bitcoin is a virus\nhttps://t.co/JqxGktQBh2",
-   "retweet_count": 6,
-   "favorite_count": 24,
+   "retweet_count": 9,
+   "favorite_count": 32,
    "place": "San Francisco, CA",
    "in_reply_to_status_id": null,
    "in_reply_to_screen_name": null,

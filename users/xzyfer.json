@@ -1,16 +1,272 @@
 {
- "time": 1518413956100,
+ "time": 1518873100169,
  "lists": [
   {
-   "id": 961753389326454800,
-   "id_str": "961753389326454784",
-   "created_at": "Fri Feb 09 00:07:31 +0000 2018",
-   "text": "@buildkite Molto bene 💖",
+   "id": 964380799003865100,
+   "id_str": "964380799003865088",
+   "created_at": "Fri Feb 16 06:07:54 +0000 2018",
+   "text": "@MylesBorins Whilst I have your attention, if you'd could intro me to some go to folks on all thinks N-API, and Node WASM that'd be ✨",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 961706201561038800,
-   "in_reply_to_screen_name": "buildkite",
+   "in_reply_to_status_id": 964378795695161300,
+   "in_reply_to_screen_name": "MylesBorins",
+   "urls": []
+  },
+  {
+   "id": 964377777972551700,
+   "id_str": "964377777972551680",
+   "created_at": "Fri Feb 16 05:55:54 +0000 2018",
+   "text": "@MylesBorins I don't believe so. We compile the Linux binaries with an ancient gcc to better compatibility.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964376015643451400,
+   "in_reply_to_screen_name": "MylesBorins",
+   "urls": []
+  },
+  {
+   "id": 964375266846888000,
+   "id_str": "964375266846887937",
+   "created_at": "Fri Feb 16 05:45:55 +0000 2018",
+   "text": "@MylesBorins Relies on system libraries AFAIK. We sometime run into issue when Node compilation flags are changed also.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964370243958194200,
+   "in_reply_to_screen_name": "MylesBorins",
+   "urls": []
+  },
+  {
+   "id": 964367076889477100,
+   "id_str": "964367076889477120",
+   "created_at": "Fri Feb 16 05:13:22 +0000 2018",
+   "text": "RT @MylesBorins: What native modules do you most rely on?",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964352616007217200,
+    "id_str": "964352616007217154",
+    "created_at": "Fri Feb 16 04:15:55 +0000 2018",
+    "text": "What native modules do you most rely on?",
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964367045587382300,
+   "id_str": "964367045587382273",
+   "created_at": "Fri Feb 16 05:13:15 +0000 2018",
+   "text": "@MylesBorins fsevents, node-sass",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 964352616007217200,
+   "in_reply_to_screen_name": "MylesBorins",
+   "urls": []
+  },
+  {
+   "id": 964289614570598400,
+   "id_str": "964289614570598400",
+   "created_at": "Fri Feb 16 00:05:34 +0000 2018",
+   "text": "RT @JSConfAU: We have an important announcement on the future of JSConf Australia—we hope to see you at the last event for the foreseeable…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964262829447614500,
+    "id_str": "964262829447614465",
+    "created_at": "Thu Feb 15 22:19:08 +0000 2018",
+    "text": "We have an important announcement on the future of JSConf Australia—we hope to see you at the last event for the fo… https://t.co/ugps54MmCd",
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ugps54MmCd",
+      "expand": "https://twitter.com/i/web/status/964262829447614465"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964262988935921700,
+   "id_str": "964262988935921666",
+   "created_at": "Thu Feb 15 22:19:46 +0000 2018",
+   "text": "It's been a joy to be part of these incredible events 💖 looking forward to making 2018 the best one yet! https://t.co/xJk8CyeBHL",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xJk8CyeBHL",
+     "expand": "https://twitter.com/cssconfau/status/964261861326716929"
+    }
+   ]
+  },
+  {
+   "id": 963978223670345700,
+   "id_str": "963978223670345730",
+   "created_at": "Thu Feb 15 03:28:13 +0000 2018",
+   "text": "This Golang GraphQL server implementation is super cool!\n\nhttps://t.co/IEXEn9gMJB",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IEXEn9gMJB",
+     "expand": "https://github.com/vektah/gqlgen"
+    }
+   ]
+  },
+  {
+   "id": 963962590148796400,
+   "id_str": "963962590148796418",
+   "created_at": "Thu Feb 15 02:26:05 +0000 2018",
+   "text": "RT @fox: I have some tickets to @cssconfau to give out.\n\nWould love to invite one of the women presenting yesterday at  #techinclusion! May…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963645127649628200,
+    "id_str": "963645127649628160",
+    "created_at": "Wed Feb 14 05:24:36 +0000 2018",
+    "text": "I have some tickets to @cssconfau to give out.\n\nWould love to invite one of the women presenting yesterday at… https://t.co/lwCTW9UMRd",
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lwCTW9UMRd",
+      "expand": "https://twitter.com/i/web/status/963645127649628160"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963903767686004700,
+   "id_str": "963903767686004736",
+   "created_at": "Wed Feb 14 22:32:21 +0000 2018",
+   "text": "RT @chriseppstein: Reminder that the olds in web development will always think it’s bad that you don’t know the things they had to learn an…",
+   "retweet_count": 80,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963843049812971500,
+    "id_str": "963843049812971522",
+    "created_at": "Wed Feb 14 18:31:05 +0000 2018",
+    "text": "Reminder that the olds in web development will always think it’s bad that you don’t know the things they had to lea… https://t.co/IJ1UWEXTNw",
+    "retweet_count": 80,
+    "favorite_count": 394,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IJ1UWEXTNw",
+      "expand": "https://twitter.com/i/web/status/963843049812971522"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963903542405709800,
+   "id_str": "963903542405709824",
+   "created_at": "Wed Feb 14 22:31:27 +0000 2018",
+   "text": "RT @TedMielczarek: @jennschiffer The worst part is that you can totally rephrase this in a non-gatekeepy way: \"if you do front-end developm…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963902687766032400,
+    "id_str": "963902687766032385",
+    "created_at": "Wed Feb 14 22:28:03 +0000 2018",
+    "text": "@jennschiffer The worst part is that you can totally rephrase this in a non-gatekeepy way: \"if you do front-end dev… https://t.co/kow2HQGJ9E",
+    "retweet_count": 6,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": 963894109437087700,
+    "in_reply_to_screen_name": "jennschiffer",
+    "urls": [
+     {
+      "url": "https://t.co/kow2HQGJ9E",
+      "expand": "https://twitter.com/i/web/status/963902687766032385"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963656918412746800,
+   "id_str": "963656918412746752",
+   "created_at": "Wed Feb 14 06:11:27 +0000 2018",
+   "text": "RT @dennishotson: I made this little interactive notebook about how to draw better looking Bézier curves 😊 https://t.co/IObXgJV0ma",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IObXgJV0ma",
+     "expand": "https://beta.observablehq.com/@dhotson/drawing-better-looking-curves"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963402654486478800,
+    "id_str": "963402654486478848",
+    "created_at": "Tue Feb 13 13:21:06 +0000 2018",
+    "text": "I made this little interactive notebook about how to draw better looking Bézier curves 😊 https://t.co/IObXgJV0ma",
+    "retweet_count": 8,
+    "favorite_count": 28,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IObXgJV0ma",
+      "expand": "https://beta.observablehq.com/@dhotson/drawing-better-looking-curves"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963373569261490200,
+   "id_str": "963373569261490176",
+   "created_at": "Tue Feb 13 11:25:32 +0000 2018",
+   "text": "@glenmaddern I've been considering pulling the trigger on this also for a while. Curious to see how you go",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 962957592749260800,
+   "in_reply_to_screen_name": "glenmaddern",
    "urls": []
   }
  ]

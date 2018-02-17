@@ -1,13 +1,372 @@
 {
- "time": 1518415412851,
+ "time": 1518873217230,
  "lists": [
+  {
+   "id": 964219012082217000,
+   "id_str": "964219012082216960",
+   "created_at": "Thu Feb 15 19:25:01 +0000 2018",
+   "text": "RT @hashnode: 🎉LIVE NOW 🎉\n\n\"I am @mathias, Ask me anything.\" \n\nAnswering: \n✅About Chrome,\n✅@v8js,\n✅JavaScript,\n✅TC39,\n✅web app security, \n✅…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964212796165681200,
+    "id_str": "964212796165681152",
+    "created_at": "Thu Feb 15 19:00:19 +0000 2018",
+    "text": "🎉LIVE NOW 🎉\n\n\"I am @mathias, Ask me anything.\" \n\nAnswering: \n✅About Chrome,\n✅@v8js,\n✅JavaScript,\n✅TC39,\n✅web app se… https://t.co/FUiAMtKmxP",
+    "retweet_count": 8,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FUiAMtKmxP",
+      "expand": "https://twitter.com/i/web/status/964212796165681152"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964187110495412200,
+   "id_str": "964187110495412224",
+   "created_at": "Thu Feb 15 17:18:15 +0000 2018",
+   "text": "@SaraSoueidan Please file a bug so we can get it fixed! https://t.co/QwA0s2DiGo",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964186438165254100,
+   "in_reply_to_screen_name": "SaraSoueidan",
+   "urls": [
+    {
+     "url": "https://t.co/QwA0s2DiGo",
+     "expand": "https://crbug.com/new"
+    }
+   ]
+  },
+  {
+   "id": 963688794401706000,
+   "id_str": "963688794401705984",
+   "created_at": "Wed Feb 14 08:18:07 +0000 2018",
+   "text": "@simonsarris Depends on which direction you’re running in.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963519166992052200,
+   "in_reply_to_screen_name": "simonsarris",
+   "urls": []
+  },
+  {
+   "id": 963438757792899100,
+   "id_str": "963438757792899072",
+   "created_at": "Tue Feb 13 15:44:34 +0000 2018",
+   "text": "(Questions about JavaScript &amp; @v8js, web standards &amp; TC39, Unicode &amp; emoji, web app security, and requests for tech… https://t.co/ukiKnBdRi0",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963438652637483000,
+   "in_reply_to_screen_name": "mathias",
+   "urls": [
+    {
+     "url": "https://t.co/ukiKnBdRi0",
+     "expand": "https://twitter.com/i/web/status/963438757792899072"
+    }
+   ]
+  },
+  {
+   "id": 963438652637483000,
+   "id_str": "963438652637483008",
+   "created_at": "Tue Feb 13 15:44:09 +0000 2018",
+   "text": "📘 I’m hosting an AMA!\n\nWhat’s my favorite color? What was the name of my first pet? What are the last four digits o… https://t.co/rxca44ms8d",
+   "retweet_count": 11,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rxca44ms8d",
+     "expand": "https://twitter.com/i/web/status/963438652637483008"
+    }
+   ]
+  },
+  {
+   "id": 963330055140266000,
+   "id_str": "963330055140265985",
+   "created_at": "Tue Feb 13 08:32:37 +0000 2018",
+   "text": "RT @mathias: Tip: The HTML `pattern` attribute enables Unicode RegExp mode, meaning things like Unicode property escapes Just Work™!\n\nDemo:…",
+   "retweet_count": 155,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963053784061632500,
+    "id_str": "963053784061632513",
+    "created_at": "Mon Feb 12 14:14:49 +0000 2018",
+    "text": "Tip: The HTML `pattern` attribute enables Unicode RegExp mode, meaning things like Unicode property escapes Just Wo… https://t.co/CiH0GyrYLA",
+    "retweet_count": 155,
+    "favorite_count": 407,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CiH0GyrYLA",
+      "expand": "https://twitter.com/i/web/status/963053784061632513"
+     }
+    ]
+   }
+  },
+  {
+   "id": 963309860589797400,
+   "id_str": "963309860589797376",
+   "created_at": "Tue Feb 13 07:12:22 +0000 2018",
+   "text": "@OmarIthawi How?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963119062229356500,
+   "in_reply_to_screen_name": "OmarIthawi",
+   "urls": []
+  },
+  {
+   "id": 963119160866885600,
+   "id_str": "963119160866885632",
+   "created_at": "Mon Feb 12 18:34:36 +0000 2018",
+   "text": "@thierrykoblentz Good call — thanks! I’ve updated the demo.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963102453066432500,
+   "in_reply_to_screen_name": "thierrykoblentz",
+   "urls": []
+  },
+  {
+   "id": 963112293008592900,
+   "id_str": "963112293008592897",
+   "created_at": "Mon Feb 12 18:07:19 +0000 2018",
+   "text": "@jesslynnrose @g33konaut https://t.co/NxZzjmF5hG\n\nYou’re welcome.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963110386202443800,
+   "in_reply_to_screen_name": "jesslynnrose",
+   "urls": [
+    {
+     "url": "https://t.co/NxZzjmF5hG",
+     "expand": "https://en.wikipedia.org/wiki/Sand_theft#Jamaica"
+    }
+   ]
+  },
+  {
+   "id": 963106383934754800,
+   "id_str": "963106383934754816",
+   "created_at": "Mon Feb 12 17:43:50 +0000 2018",
+   "text": "@ManishEarth Correct! Btw, have you seen https://t.co/sjUYRTgpsj?",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963106077888753700,
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": [
+    {
+     "url": "https://t.co/sjUYRTgpsj",
+     "expand": "https://mathiasbynens.be/notes/es-unicode-property-escapes#emoji"
+    }
+   ]
+  },
+  {
+   "id": 963105196342759400,
+   "id_str": "963105196342759424",
+   "created_at": "Mon Feb 12 17:39:07 +0000 2018",
+   "text": "@notwaldorf I won’t rest until I can fully deprecate https://t.co/4GMdHgYyFG in favor of native functionality.",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 963105054776545300,
+   "in_reply_to_screen_name": "mathias",
+   "urls": [
+    {
+     "url": "https://t.co/4GMdHgYyFG",
+     "expand": "https://github.com/mathiasbynens/emoji-regex"
+    }
+   ]
+  },
+  {
+   "id": 963105054776545300,
+   "id_str": "963105054776545280",
+   "created_at": "Mon Feb 12 17:38:33 +0000 2018",
+   "text": "@notwaldorf Property escapes certainly help in that case: https://t.co/sjUYRTgpsj Don’t tell anyone, but I’m workin… https://t.co/yt2KprUJv8",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 963104439581098000,
+   "in_reply_to_screen_name": "notwaldorf",
+   "urls": [
+    {
+     "url": "https://t.co/sjUYRTgpsj",
+     "expand": "https://mathiasbynens.be/notes/es-unicode-property-escapes#emoji"
+    },
+    {
+     "url": "https://t.co/yt2KprUJv8",
+     "expand": "https://twitter.com/i/web/status/963105054776545280"
+    }
+   ]
+  },
+  {
+   "id": 963094750881550300,
+   "id_str": "963094750881550337",
+   "created_at": "Mon Feb 12 16:57:36 +0000 2018",
+   "text": "@dalmaer @schuay You mean @gruber? See, that’s yet another J Gruber! So much confusion. @schuay, I think the easies… https://t.co/1oOVH6wA3k",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 963092874043695100,
+   "in_reply_to_screen_name": "dalmaer",
+   "urls": [
+    {
+     "url": "https://t.co/1oOVH6wA3k",
+     "expand": "https://twitter.com/i/web/status/963094750881550337"
+    }
+   ]
+  },
+  {
+   "id": 963092476843167700,
+   "id_str": "963092476843167744",
+   "created_at": "Mon Feb 12 16:48:34 +0000 2018",
+   "text": "@hashseed @MylesBorins @targos89 FWIW, the goma client is now open source: https://t.co/lEyesDedMo (The server is n… https://t.co/oLwWTxhjFY",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963092023942070300,
+   "in_reply_to_screen_name": "hashseed",
+   "urls": [
+    {
+     "url": "https://t.co/lEyesDedMo",
+     "expand": "https://groups.google.com/a/chromium.org/d/msg/chromium-dev/q7hSGr_JNzg/p44IkGhDDgAJ"
+    },
+    {
+     "url": "https://t.co/oLwWTxhjFY",
+     "expand": "https://twitter.com/i/web/status/963092476843167744"
+    }
+   ]
+  },
+  {
+   "id": 963086781091639300,
+   "id_str": "963086781091639296",
+   "created_at": "Mon Feb 12 16:25:56 +0000 2018",
+   "text": "@TruTellr @v8js @BrendanEich @googlechrome @jgruber @schuay Yeah, started doing that as soon as I saw your tweet. T… https://t.co/pLTi3pAnmV",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963086426660360200,
+   "in_reply_to_screen_name": "TruTellr",
+   "urls": [
+    {
+     "url": "https://t.co/pLTi3pAnmV",
+     "expand": "https://twitter.com/i/web/status/963086781091639296"
+    }
+   ]
+  },
+  {
+   "id": 963086164289839100,
+   "id_str": "963086164289839110",
+   "created_at": "Mon Feb 12 16:23:29 +0000 2018",
+   "text": "@TruTellr @v8js @BrendanEich @googlechrome @jgruber @schuay Argh, my bad! Too late to delete the tweet and re-post, I guess :(",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963085279249731600,
+   "in_reply_to_screen_name": "TruTellr",
+   "urls": []
+  },
+  {
+   "id": 963069996950851600,
+   "id_str": "963069996950851585",
+   "created_at": "Mon Feb 12 15:19:14 +0000 2018",
+   "text": "@hashseed @v8js What is this, Cleanup Friday?!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 963069103127773200,
+   "in_reply_to_screen_name": "hashseed",
+   "urls": []
+  },
+  {
+   "id": 963053784061632500,
+   "id_str": "963053784061632513",
+   "created_at": "Mon Feb 12 14:14:49 +0000 2018",
+   "text": "Tip: The HTML `pattern` attribute enables Unicode RegExp mode, meaning things like Unicode property escapes Just Wo… https://t.co/CiH0GyrYLA",
+   "retweet_count": 155,
+   "favorite_count": 407,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CiH0GyrYLA",
+     "expand": "https://twitter.com/i/web/status/963053784061632513"
+    }
+   ]
+  },
+  {
+   "id": 962992746603696100,
+   "id_str": "962992746603696128",
+   "created_at": "Mon Feb 12 10:12:16 +0000 2018",
+   "text": "RT @v8js: Lazy deserialization in @v8js reduces memory consumption by 500 KB per @GoogleChrome browser tab. 🔥\n\n@jgruber explains how it wor…",
+   "retweet_count": 102,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 962989179914383400,
+    "id_str": "962989179914383360",
+    "created_at": "Mon Feb 12 09:58:06 +0000 2018",
+    "text": "Lazy deserialization in @v8js reduces memory consumption by 500 KB per @GoogleChrome browser tab. 🔥\n\n@jgruber expla… https://t.co/xwqZjm1fvI",
+    "retweet_count": 102,
+    "favorite_count": 316,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xwqZjm1fvI",
+      "expand": "https://twitter.com/i/web/status/962989179914383360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 962981218626232300,
+   "id_str": "962981218626232320",
+   "created_at": "Mon Feb 12 09:26:28 +0000 2018",
+   "text": "The history of Unicode, by @xkcd: https://t.co/hAaPqpt6l9 https://t.co/DODitiyrfH",
+   "retweet_count": 21,
+   "favorite_count": 62,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hAaPqpt6l9",
+     "expand": "https://xkcd.com/1953/"
+    }
+   ]
+  },
   {
    "id": 962765021427257300,
    "id_str": "962765021427257346",
    "created_at": "Sun Feb 11 19:07:23 +0000 2018",
    "text": "@dalmaer @jaffathecake @rachelandrew @smashingconf I’d pay to attend a conference with nothing but dramatic spec readings on the schedule.",
-   "retweet_count": 2,
-   "favorite_count": 16,
+   "retweet_count": 3,
+   "favorite_count": 21,
    "place": null,
    "in_reply_to_status_id": 962763346419228700,
    "in_reply_to_screen_name": "dalmaer",
