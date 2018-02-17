@@ -166,7 +166,7 @@ function autoTimelineList (flag) {
 		if (data[index]) {
 			console.log(data[index].name, '-----');
 			autoTimeline(flag, data[index].name, next);
-			flag = false;
+			flag = true;
 		} else {
 			console.log('ok');
 		}
@@ -174,6 +174,7 @@ function autoTimelineList (flag) {
 	}
 	next();
 }
+tool.autoTimelineList = autoTimelineList;
 function autoTimeline (flag, tag, cb) {
 	const done = require('./done.json');
 	const last = flag ? '' : done.last;
