@@ -40,10 +40,6 @@ request({
 	url: `https://twitter.com/${screen_name}/status/${id_str}`
 }, (err, res, data) => {
 
-	fs.writeFileSync(`./testReply.json`, JSON.stringify({
-		data: data
-	}, null, 1), 'utf8');
-
 	data = data.split('id="descendants"')[1];
 	data = data.split('hidden-replies-container')[0];
 
@@ -76,7 +72,7 @@ function next (max_position) {
 
 		if (data.has_more_items) {
 			setTimeout(() => {
-				//next(data.min_position)
+				next(data.min_position);
 			}, 1500);
 		} else {
 			console.log('ok');
