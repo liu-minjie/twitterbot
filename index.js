@@ -57,6 +57,7 @@ function getReply(item, data) {
   		favorite_count: item.favorite_count,
   		place: item.place && item.place.full_name,
   		in_reply_to_status_id: item.in_reply_to_status_id,
+  		in_reply_to_status_id_str: item.in_reply_to_status_id_str,
 	  	in_reply_to_screen_name: item.in_reply_to_screen_name,
 	  	urls: urls.map((it) => { return  {url: it.url, expand: it.expanded_url}})		  
 		};
@@ -123,6 +124,7 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 	  		favorite_count: item.favorite_count,
 	  		place: item.place && item.place.full_name,
 	  		in_reply_to_status_id: item.in_reply_to_status_id,
+	  		in_reply_to_status_id_str: item.in_reply_to_status_id_str,
 	  		in_reply_to_screen_name: item.in_reply_to_screen_name,
 	  		urls: urls.map((it) => { return  {url: it.url, expand: it.expanded_url}})	  		
 	  	};
@@ -138,7 +140,12 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 	  	saveTimeline(username, ret, count, next);
 	  } else {
 	  	wait(1500, 15, () => {
-	  		getStatusesUserTimeline(count, ret, username, tweets[tweets.length - 1].id, since_id, next);	
+	  		if (since_id) {
+	  			since_id = tweets[0].id;
+	  		} else {
+	  			max_id = tweets[tweets.length - 1].id;
+	  		}
+	  		getStatusesUserTimeline(count, ret, username, max_id, since_id, next);	
 	  	});
 	  }
 	});
@@ -254,6 +261,7 @@ function getFavoritesList (ret, username, max_id, next) {
 	  		retweet_count: item.retweet_count,
 	  		favorite_count: item.favorite_count,
 	  		in_reply_to_status_id: item.in_reply_to_status_id,
+	  		in_reply_to_status_id_str: item.in_reply_to_status_id_str,
 	  		in_reply_to_screen_name: item.in_reply_to_screen_name,
 	  		owner: item.user.screen_name,
 	  		profile_image_url: item.user.profile_image_url,
