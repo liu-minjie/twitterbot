@@ -1,1177 +1,334 @@
-{
- "time": 1519355740392,
- "lists": [
-  {
-   "id_str": "961212031247572993",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "952919046089007104",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "952530735549833216",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "925796758332100609",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "925788295463923713",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "907719138210189315",
-   "in_reply_to_status_id_str": "907688150553821186"
-  },
-  {
-   "id_str": "898202422954397698",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "898187663727104000",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "882477124078235649",
-   "in_reply_to_status_id_str": "882477017459019776"
-  },
-  {
-   "id_str": "882477017459019776",
-   "in_reply_to_status_id_str": "882476840958533633"
-  },
-  {
-   "id_str": "882476840958533633",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "878172217724502016",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "878025379276926976",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "872882652726087681",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "872858236835291137",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "866855623597666304",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "844294410292596736",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "844257947500924928",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "842577672765132801",
-   "in_reply_to_status_id_str": "842577534181130241"
-  },
-  {
-   "id_str": "842577534181130241",
-   "in_reply_to_status_id_str": "842559767876837377"
-  },
-  {
-   "id_str": "842555865664294912",
-   "in_reply_to_status_id_str": "842544665714999296"
-  },
-  {
-   "id_str": "798845219177316353",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "796931296891195393",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "761273345606287361",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "755400448723546112",
-   "in_reply_to_status_id_str": "755396657500528640"
-  },
-  {
-   "id_str": "755396657500528640",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "752847785771339777",
-   "in_reply_to_status_id_str": "752846260323880960"
-  },
-  {
-   "id_str": "752847552232513536",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "752846260323880960",
-    "in_reply_to_status_id_str": "752590385277497344"
-   }
-  },
-  {
-   "id_str": "752809297621417984",
-   "in_reply_to_status_id_str": "752784275414679553"
-  },
-  {
-   "id_str": "752590385277497344",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "720372012703547392",
-   "in_reply_to_status_id_str": "720370181042622465"
-  },
-  {
-   "id_str": "717858554447794178",
-   "in_reply_to_status_id_str": "717751527700475905"
-  },
-  {
-   "id_str": "716646626081775616",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "716636557550202888",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "715209959559073793",
-   "in_reply_to_status_id_str": "715206830528471040"
-  },
-  {
-   "id_str": "712379082407813122",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "712377776381165569",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "710614054545596420",
-   "in_reply_to_status_id_str": "710613686541484032"
-  },
-  {
-   "id_str": "710613103495483392",
-   "in_reply_to_status_id_str": "710579300039151616"
-  },
-  {
-   "id_str": "710612216870006785",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "710579300039151616",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "709725149117988864",
-   "in_reply_to_status_id_str": "709715173100142597"
-  },
-  {
-   "id_str": "706877350634516481",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "706872533707001856",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "701528987592482816",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "701461520119701504",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "700409233204998144",
-   "in_reply_to_status_id_str": "700318336975036416"
-  },
-  {
-   "id_str": "697447195109433344",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "697193910259601408",
-   "in_reply_to_status_id_str": "697191991009013760"
-  },
-  {
-   "id_str": "697191991009013760",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "697172818618904577",
-   "in_reply_to_status_id_str": "697172252211683328"
-  },
-  {
-   "id_str": "695691823197638661",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "692498905527885825",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "692432932456284161",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "691000285947367424",
-   "in_reply_to_status_id_str": "690999013168979968"
-  },
-  {
-   "id_str": "690988867088949248",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "685606189061828609",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "685604732782690305",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "684135227757834245",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "678628966790471680",
-   "in_reply_to_status_id_str": "678566805711884288"
-  },
-  {
-   "id_str": "669944459845595136",
-   "in_reply_to_status_id_str": "669935666973638656"
-  },
-  {
-   "id_str": "669932585703862273",
-   "in_reply_to_status_id_str": "669931586054258688"
-  },
-  {
-   "id_str": "669930535259676677",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "667796972695363584",
-   "in_reply_to_status_id_str": "667776141873278978"
-  },
-  {
-   "id_str": "667764423239561217",
-   "in_reply_to_status_id_str": "667763879611662336"
-  },
-  {
-   "id_str": "667763879611662336",
-   "in_reply_to_status_id_str": "667758424600416256"
-  },
-  {
-   "id_str": "667406810446479361",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "649167914571055104",
-   "in_reply_to_status_id_str": "649093763378208768"
-  },
-  {
-   "id_str": "648370762991169536",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "647022047273484288",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "639043600345616384",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "637621524476895232",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "634391659971784704",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "634362801436229632",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "632260024920875008",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "632215274758864896",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "629966868531380224",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "629938425777496064",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "625330982313422848",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "625303193992450048",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "624955422168993792",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "624642736168247296",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "622572634396561408",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "622147330142244864",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "621782523954139136",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "621377343106482176",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "621280910026125312",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "620366227114983424",
-   "in_reply_to_status_id_str": "620365991948746752"
-  },
-  {
-   "id_str": "620365991948746752",
-   "in_reply_to_status_id_str": "620365309342519296"
-  },
-  {
-   "id_str": "620365457065963520",
-   "in_reply_to_status_id_str": "620363317169664000"
-  },
-  {
-   "id_str": "620365327491276801",
-   "in_reply_to_status_id_str": "620364883910086661"
-  },
-  {
-   "id_str": "620362287430430720",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "615561091955957760",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "615541288780173312",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "614570488677965824",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "614553830764728321",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "612673845842026496",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "612667782715584512",
-   "in_reply_to_status_id_str": "612664124925964288"
-  },
-  {
-   "id_str": "612660889964158976",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "610899575495266304",
-   "in_reply_to_status_id_str": "610899181805244416"
-  },
-  {
-   "id_str": "610898911058722818",
-   "in_reply_to_status_id_str": "610898710982078465"
-  },
-  {
-   "id_str": "609920914793320448",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "608212261077839873",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "607227831408566272",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "607195863308509184",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "597870741216993280",
-   "in_reply_to_status_id_str": "597870478905180160"
-  },
-  {
-   "id_str": "597870478905180160",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "597867632247836672",
-   "in_reply_to_status_id_str": "597806555577225216"
-  },
-  {
-   "id_str": "597463679328727040",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "597462742006501376",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "597111237978259457",
-   "in_reply_to_status_id_str": "597109506741440512"
-  },
-  {
-   "id_str": "597110873560317952",
-   "in_reply_to_status_id_str": "597109506741440512"
-  },
-  {
-   "id_str": "596308649636712448",
-   "in_reply_to_status_id_str": "596307850135146496"
-  },
-  {
-   "id_str": "596017670203531264",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "595999263735308288",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "594898976081649667",
-   "in_reply_to_status_id_str": "594520990585061376"
-  },
-  {
-   "id_str": "592558480197836800",
-   "in_reply_to_status_id_str": "592558213410619394"
-  },
-  {
-   "id_str": "592558035807109120",
-   "in_reply_to_status_id_str": "592552735452434433"
-  },
-  {
-   "id_str": "592481625340047360",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "586249806215049219",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "586105521624772608",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "585499186126262273",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "585471472061259780",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "582572581586370560",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "582568891383054336",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "578196896394698752",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "578182174274396160",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "575392384919404545",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "575354103045341184",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "572070737613365248",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "572053454316691456",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "563387077489086465",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "559671849744072704",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "563006578878853121",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "562975178205200384",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "562718658884296704",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "562677146897121280",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "562670560409567232",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "562669176310222848",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "561110241048555520",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "561067609345777664",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "560827153827500032",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "560803767034339329",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "558334164483969024",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "558307398985986050",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "557413308761120768",
-   "in_reply_to_status_id_str": "557301755642642436"
-  },
-  {
-   "id_str": "555312130434797570",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "555281940207894528",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "554989559399075840",
-   "in_reply_to_status_id_str": "554987326716137472"
-  },
-  {
-   "id_str": "554986737391661057",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "553649097035759616",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "553411902584274944",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "552509438406705153",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "552491823697264642",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "551372635360489472",
-   "in_reply_to_status_id_str": "551372379872849920"
-  },
-  {
-   "id_str": "549980839363485696",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "549977290197962752",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "549852235782692865",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "549708131887230977",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "549249446736064512",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "545055398655700992",
-   "in_reply_to_status_id_str": "545053718006071296"
-  },
-  {
-   "id_str": "545053221937766400",
-   "in_reply_to_status_id_str": "545045577914789889"
-  },
-  {
-   "id_str": "543174587157344256",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "543153826262679552",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "542387186914451456",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "542379023914237952",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "541966266131816449",
-   "in_reply_to_status_id_str": "541965790799740928"
-  },
-  {
-   "id_str": "541963939194888194",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "541963737415303169",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "541397087259475968",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "541388807623299074",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "541161476569178112",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "540847911203266560",
-   "in_reply_to_status_id_str": "540847340492693505"
-  },
-  {
-   "id_str": "540191442795499521",
-   "in_reply_to_status_id_str": "540190856620568576"
-  },
-  {
-   "id_str": "540149139846475776",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "540131710357504000",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "539741084323414016",
-   "in_reply_to_status_id_str": "539740553156788224"
-  },
-  {
-   "id_str": "539733723298930688",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "539053206060691456",
-   "in_reply_to_status_id_str": "539052808671354882"
-  },
-  {
-   "id_str": "539052808671354882",
-   "in_reply_to_status_id_str": "539052730544050177"
-  },
-  {
-   "id_str": "539051869436674049",
-   "in_reply_to_status_id_str": "539048076090957824"
-  },
-  {
-   "id_str": "539003885919424512",
-   "in_reply_to_status_id_str": "539003745179168768"
-  },
-  {
-   "id_str": "539003516250247168",
-   "in_reply_to_status_id_str": "539003025914724353"
-  },
-  {
-   "id_str": "538930499067314177",
-   "in_reply_to_status_id_str": "538930333584871424"
-  },
-  {
-   "id_str": "538929789613404160",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "538928949238444033",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "538752726306263040",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "531778457517428736",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "531774381287280640",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "531724088428204032",
-   "in_reply_to_status_id_str": "531584709974032384"
-  },
-  {
-   "id_str": "529171312959565824",
-   "in_reply_to_status_id_str": "529152689079595009"
-  },
-  {
-   "id_str": "526751734811865089",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "526749741515018240",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "525622031325609984",
-   "in_reply_to_status_id_str": "525616228124352512"
-  },
-  {
-   "id_str": "525564256125976576",
-   "in_reply_to_status_id_str": "525562876199989248"
-  },
-  {
-   "id_str": "520400399963267073",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "520140227231645696",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "519541719436496897",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "519511101894324224",
-    "in_reply_to_status_id_str": "519502565932040192"
-   }
-  },
-  {
-   "id_str": "519223609454497792",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "519199005830823936",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "518746801512644608",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "518568518456201216",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "518116135804620800",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "518113708069756928",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "514489774611378176",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "513784141650092034",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "513739156603035649",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "513447007399448576",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "512915048604655616",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "448815087785365504",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "512554086689144832",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "512391148078628864",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "510155217191845888",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "510127957826760704",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "509612186294317056",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "509472523163926528",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "508766773802717184",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "508668054927327232",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "507669037925810176",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "507622858169024512",
-   "in_reply_to_status_id_str": "507619693889609728"
-  },
-  {
-   "id_str": "506171313887911936",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "506164903447920644",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "505232392899280896",
-   "in_reply_to_status_id_str": "505201567856078848"
-  },
-  {
-   "id_str": "505201567856078848",
-   "in_reply_to_status_id_str": "504741322277011456"
-  },
-  {
-   "id_str": "494374974460022784",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "494182159427842048",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "494360145045229568",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "494095671042273280",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "486523170569338883",
-   "in_reply_to_status_id_str": "486515618158764033"
-  },
-  {
-   "id_str": "486523105779916800",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "486515618158764033",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "485154090037825536",
-   "in_reply_to_status_id_str": "485132133535854593"
-  },
-  {
-   "id_str": "478662794561454080",
-   "in_reply_to_status_id_str": "478639516933443584"
-  },
-  {
-   "id_str": "475048882909749248",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "474971393852182528",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "469238225744433152",
-   "in_reply_to_status_id_str": "469233941766230017"
-  },
-  {
-   "id_str": "469233433261395968",
-   "in_reply_to_status_id_str": "469232679947616256"
-  },
-  {
-   "id_str": "469148658349645824",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "468862150245892097",
-   "in_reply_to_status_id_str": "468846881809121280"
-  },
-  {
-   "id_str": "467285853627506688",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "466983365904584704",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "461005868012957696",
-   "in_reply_to_status_id_str": "460894179912998913"
-  },
-  {
-   "id_str": "453821776649539584",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "453760960671383552",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "436796736557035520",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "436468814893830144",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "432246369735442432",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "432176217114947587",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "426296787356631040",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "426114441592066048",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "425906344043241472",
-   "in_reply_to_status_id_str": "425871650274304000"
-  },
-  {
-   "id_str": "425695726510043136",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "425670080064528384",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "414751769928151040",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "413730326888730625",
-   "in_reply_to_status_id_str": "413667037475393537"
-  },
-  {
-   "id_str": "412490826531758080",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "412400206928306176",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "411452863190401024",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "411446193240031232",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "406520632877142016",
-   "in_reply_to_status_id_str": "406517034034274304"
-  },
-  {
-   "id_str": "404890805145317377",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "403525163905339392",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "403462853065461760",
-   "in_reply_to_status_id_str": "403455771398000640"
-  },
-  {
-   "id_str": "403386295130402817",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "402690107045851137",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "402679145005867008",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "400656465838370816",
-   "in_reply_to_status_id_str": "380753651674791936"
-  },
-  {
-   "id_str": "399286778592378880",
-   "in_reply_to_status_id_str": "396012336516829184"
-  },
-  {
-   "id_str": "396656726700601345",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "391341791112224768",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "374810360857255936",
-   "in_reply_to_status_id_str": "374771995830796289"
-  },
-  {
-   "id_str": "367189169996435456",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "363423012466327553",
-   "in_reply_to_status_id_str": "363384627437649920"
-  },
-  {
-   "id_str": "362226540861341697",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "359448216581836800",
-   "in_reply_to_status_id_str": "359447073726283777"
-  },
-  {
-   "id_str": "359442350617010177",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "359442350617010177",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "359380104918482945",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "359376520172666880",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "355808198596362244",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "352711259289952256",
-   "in_reply_to_status_id_str": "352706463875080192"
-  },
-  {
-   "id_str": "348172736595628032",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "347569094758895617",
-   "in_reply_to_status_id_str": "347568516838338560"
-  },
-  {
-   "id_str": "347567139596664833",
-   "in_reply_to_status_id_str": null,
-   "retweeted_status": {
-    "id_str": "347566714181013504",
-    "in_reply_to_status_id_str": null
-   }
-  },
-  {
-   "id_str": "347443817777090561",
-   "in_reply_to_status_id_str": "347172307774603265"
-  },
-  {
-   "id_str": "343377919277682689",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "332562690105040896",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "327370677449539585",
-   "in_reply_to_status_id_str": null
-  },
-  {
-   "id_str": "303231219309617153",
-   "in_reply_to_status_id_str": "303226639767203840"
-  },
-  {
-   "id_str": "286944732062568449",
-   "in_reply_to_status_id_str": null
-  }
- ]
-}
+[
+ {
+  "id_str": "907719138210189315",
+  "in_reply_to_status_id_str": "907688150553821186"
+ },
+ {
+  "id_str": "882477124078235649",
+  "in_reply_to_status_id_str": "882477017459019776"
+ },
+ {
+  "id_str": "882477017459019776",
+  "in_reply_to_status_id_str": "882476840958533633"
+ },
+ {
+  "id_str": "842577672765132801",
+  "in_reply_to_status_id_str": "842577534181130241"
+ },
+ {
+  "id_str": "842577534181130241",
+  "in_reply_to_status_id_str": "842559767876837377"
+ },
+ {
+  "id_str": "842555865664294912",
+  "in_reply_to_status_id_str": "842544665714999296"
+ },
+ {
+  "id_str": "755400448723546112",
+  "in_reply_to_status_id_str": "755396657500528640"
+ },
+ {
+  "id_str": "752847785771339777",
+  "in_reply_to_status_id_str": "752846260323880960"
+ },
+ {
+  "id_str": "752809297621417984",
+  "in_reply_to_status_id_str": "752784275414679553"
+ },
+ {
+  "id_str": "720372012703547392",
+  "in_reply_to_status_id_str": "720370181042622465"
+ },
+ {
+  "id_str": "717858554447794178",
+  "in_reply_to_status_id_str": "717751527700475905"
+ },
+ {
+  "id_str": "715209959559073793",
+  "in_reply_to_status_id_str": "715206830528471040"
+ },
+ {
+  "id_str": "710614054545596420",
+  "in_reply_to_status_id_str": "710613686541484032"
+ },
+ {
+  "id_str": "710613103495483392",
+  "in_reply_to_status_id_str": "710579300039151616"
+ },
+ {
+  "id_str": "709725149117988864",
+  "in_reply_to_status_id_str": "709715173100142597"
+ },
+ {
+  "id_str": "700409233204998144",
+  "in_reply_to_status_id_str": "700318336975036416"
+ },
+ {
+  "id_str": "697193910259601408",
+  "in_reply_to_status_id_str": "697191991009013760"
+ },
+ {
+  "id_str": "697172818618904577",
+  "in_reply_to_status_id_str": "697172252211683328"
+ },
+ {
+  "id_str": "691000285947367424",
+  "in_reply_to_status_id_str": "690999013168979968"
+ },
+ {
+  "id_str": "678628966790471680",
+  "in_reply_to_status_id_str": "678566805711884288"
+ },
+ {
+  "id_str": "669944459845595136",
+  "in_reply_to_status_id_str": "669935666973638656"
+ },
+ {
+  "id_str": "669932585703862273",
+  "in_reply_to_status_id_str": "669931586054258688"
+ },
+ {
+  "id_str": "667796972695363584",
+  "in_reply_to_status_id_str": "667776141873278978"
+ },
+ {
+  "id_str": "667764423239561217",
+  "in_reply_to_status_id_str": "667763879611662336"
+ },
+ {
+  "id_str": "667763879611662336",
+  "in_reply_to_status_id_str": "667758424600416256"
+ },
+ {
+  "id_str": "649167914571055104",
+  "in_reply_to_status_id_str": "649093763378208768"
+ },
+ {
+  "id_str": "620366227114983424",
+  "in_reply_to_status_id_str": "620365991948746752"
+ },
+ {
+  "id_str": "620365991948746752",
+  "in_reply_to_status_id_str": "620365309342519296"
+ },
+ {
+  "id_str": "620365457065963520",
+  "in_reply_to_status_id_str": "620363317169664000"
+ },
+ {
+  "id_str": "620365327491276801",
+  "in_reply_to_status_id_str": "620364883910086661"
+ },
+ {
+  "id_str": "612667782715584512",
+  "in_reply_to_status_id_str": "612664124925964288"
+ },
+ {
+  "id_str": "610899575495266304",
+  "in_reply_to_status_id_str": "610899181805244416"
+ },
+ {
+  "id_str": "610898911058722818",
+  "in_reply_to_status_id_str": "610898710982078465"
+ },
+ {
+  "id_str": "597870741216993280",
+  "in_reply_to_status_id_str": "597870478905180160"
+ },
+ {
+  "id_str": "597867632247836672",
+  "in_reply_to_status_id_str": "597806555577225216"
+ },
+ {
+  "id_str": "597111237978259457",
+  "in_reply_to_status_id_str": "597109506741440512"
+ },
+ {
+  "id_str": "597110873560317952",
+  "in_reply_to_status_id_str": "597109506741440512"
+ },
+ {
+  "id_str": "596308649636712448",
+  "in_reply_to_status_id_str": "596307850135146496"
+ },
+ {
+  "id_str": "594898976081649667",
+  "in_reply_to_status_id_str": "594520990585061376"
+ },
+ {
+  "id_str": "592558480197836800",
+  "in_reply_to_status_id_str": "592558213410619394"
+ },
+ {
+  "id_str": "592558035807109120",
+  "in_reply_to_status_id_str": "592552735452434433"
+ },
+ {
+  "id_str": "557413308761120768",
+  "in_reply_to_status_id_str": "557301755642642436"
+ },
+ {
+  "id_str": "554989559399075840",
+  "in_reply_to_status_id_str": "554987326716137472"
+ },
+ {
+  "id_str": "551372635360489472",
+  "in_reply_to_status_id_str": "551372379872849920"
+ },
+ {
+  "id_str": "545055398655700992",
+  "in_reply_to_status_id_str": "545053718006071296"
+ },
+ {
+  "id_str": "545053221937766400",
+  "in_reply_to_status_id_str": "545045577914789889"
+ },
+ {
+  "id_str": "541966266131816449",
+  "in_reply_to_status_id_str": "541965790799740928"
+ },
+ {
+  "id_str": "540847911203266560",
+  "in_reply_to_status_id_str": "540847340492693505"
+ },
+ {
+  "id_str": "540191442795499521",
+  "in_reply_to_status_id_str": "540190856620568576"
+ },
+ {
+  "id_str": "539741084323414016",
+  "in_reply_to_status_id_str": "539740553156788224"
+ },
+ {
+  "id_str": "539053206060691456",
+  "in_reply_to_status_id_str": "539052808671354882"
+ },
+ {
+  "id_str": "539052808671354882",
+  "in_reply_to_status_id_str": "539052730544050177"
+ },
+ {
+  "id_str": "539051869436674049",
+  "in_reply_to_status_id_str": "539048076090957824"
+ },
+ {
+  "id_str": "539003885919424512",
+  "in_reply_to_status_id_str": "539003745179168768"
+ },
+ {
+  "id_str": "539003516250247168",
+  "in_reply_to_status_id_str": "539003025914724353"
+ },
+ {
+  "id_str": "538930499067314177",
+  "in_reply_to_status_id_str": "538930333584871424"
+ },
+ {
+  "id_str": "531724088428204032",
+  "in_reply_to_status_id_str": "531584709974032384"
+ },
+ {
+  "id_str": "529171312959565824",
+  "in_reply_to_status_id_str": "529152689079595009"
+ },
+ {
+  "id_str": "525622031325609984",
+  "in_reply_to_status_id_str": "525616228124352512"
+ },
+ {
+  "id_str": "525564256125976576",
+  "in_reply_to_status_id_str": "525562876199989248"
+ },
+ {
+  "id_str": "507622858169024512",
+  "in_reply_to_status_id_str": "507619693889609728"
+ },
+ {
+  "id_str": "505232392899280896",
+  "in_reply_to_status_id_str": "505201567856078848"
+ },
+ {
+  "id_str": "505201567856078848",
+  "in_reply_to_status_id_str": "504741322277011456"
+ },
+ {
+  "id_str": "486523170569338883",
+  "in_reply_to_status_id_str": "486515618158764033"
+ },
+ {
+  "id_str": "485154090037825536",
+  "in_reply_to_status_id_str": "485132133535854593"
+ },
+ {
+  "id_str": "478662794561454080",
+  "in_reply_to_status_id_str": "478639516933443584"
+ },
+ {
+  "id_str": "469238225744433152",
+  "in_reply_to_status_id_str": "469233941766230017"
+ },
+ {
+  "id_str": "469233433261395968",
+  "in_reply_to_status_id_str": "469232679947616256"
+ },
+ {
+  "id_str": "468862150245892097",
+  "in_reply_to_status_id_str": "468846881809121280"
+ },
+ {
+  "id_str": "461005868012957696",
+  "in_reply_to_status_id_str": "460894179912998913"
+ },
+ {
+  "id_str": "425906344043241472",
+  "in_reply_to_status_id_str": "425871650274304000"
+ },
+ {
+  "id_str": "413730326888730625",
+  "in_reply_to_status_id_str": "413667037475393537"
+ },
+ {
+  "id_str": "406520632877142016",
+  "in_reply_to_status_id_str": "406517034034274304"
+ },
+ {
+  "id_str": "403462853065461760",
+  "in_reply_to_status_id_str": "403455771398000640"
+ },
+ {
+  "id_str": "400656465838370816",
+  "in_reply_to_status_id_str": "380753651674791936"
+ },
+ {
+  "id_str": "399286778592378880",
+  "in_reply_to_status_id_str": "396012336516829184"
+ },
+ {
+  "id_str": "374810360857255936",
+  "in_reply_to_status_id_str": "374771995830796289"
+ },
+ {
+  "id_str": "363423012466327553",
+  "in_reply_to_status_id_str": "363384627437649920"
+ },
+ {
+  "id_str": "359448216581836800",
+  "in_reply_to_status_id_str": "359447073726283777"
+ },
+ {
+  "id_str": "352711259289952256",
+  "in_reply_to_status_id_str": "352706463875080192"
+ },
+ {
+  "id_str": "347569094758895617",
+  "in_reply_to_status_id_str": "347568516838338560"
+ },
+ {
+  "id_str": "347443817777090561",
+  "in_reply_to_status_id_str": "347172307774603265"
+ },
+ {
+  "id_str": "303231219309617153",
+  "in_reply_to_status_id_str": "303226639767203840"
+ }
+]
