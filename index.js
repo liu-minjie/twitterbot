@@ -201,7 +201,10 @@ function autoTimeline (flag, tag, cb) {
 
 	if (index >= users.length) {
 		console.log('no user');
-		return cb && cb();
+		setTimeout(() => {
+			cb && cb();
+		}, 100);
+		return 
 	}
 
 
@@ -221,7 +224,10 @@ function autoTimeline (flag, tag, cb) {
 		const user = users[index];
 		if (!user) {
 			console.log('ok');
-			return cb && cb();
+			setTimeout(()=> {
+				cb && cb();
+			})
+			return;
 		}
 
 		console.log(user.screen_name);
