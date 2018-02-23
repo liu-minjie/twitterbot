@@ -139,7 +139,7 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 	  	console.log(count);
 	  	saveTimeline(username, ret, count, next);
 	  } else {
-	  	wait(1500, 15, () => {
+	  	wait(900, 15, () => {
 	  		if (since_id) {
 	  			since_id = tweets[0].id;
 	  		} else {
@@ -355,12 +355,12 @@ function getListsMembers (cursor, ret, index, username, next) {
 					next && next();
 				});
 		  } else {
-		  	wait(75, 15, () => {
+		  	wait(900, 15, () => {
 		  		getListsMembers(-1, ret, index + 1, username, next);	
 		  	});
 		 }
 	  } else {
-	  	wait(75, 15, () => {
+	  	wait(900, 15, () => {
 	  		getListsMembers(cursor, ret, index, username, next);	
 	  	});
 	  }
