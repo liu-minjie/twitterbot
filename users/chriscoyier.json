@@ -1,36 +1,901 @@
 {
- "time": 1518873104719,
+ "time": 1519367402647,
  "lists": [
   {
-   "id": 964610422778269700,
-   "id_str": "964610422778269697",
-   "created_at": "Fri Feb 16 21:20:21 +0000 2018",
-   "text": "RT @metafizzyco: 📝 CodePen showcase round 2, featuring @elletricity @jackrugile &amp; @poopsplat  https://t.co/mgbBQsxXIp https://t.co/ESpVXsUd…",
-   "retweet_count": 8,
-   "favorite_count": 0,
+   "id": 966823443483172900,
+   "id_str": "966823443483172864",
+   "created_at": "Thu Feb 22 23:54:06 +0000 2018",
+   "text": "@cobra_winfrey I’m super impressed by it, in some regards the opposite of bloat",
+   "retweet_count": 0,
+   "favorite_count": 1,
    "place": null,
+   "in_reply_to_status_id": 966823183226720300,
+   "in_reply_to_status_id_str": "966823183226720256",
+   "in_reply_to_screen_name": "cobra_winfrey",
+   "urls": []
+  },
+  {
+   "id": 966819668420735000,
+   "id_str": "966819668420734976",
+   "created_at": "Thu Feb 22 23:39:06 +0000 2018",
+   "text": "I hijacked our normal once-a-week sponsored post to drop some recommendations of things I quite like (that have aff… https://t.co/c6ZWI5OPYC",
+   "retweet_count": 1,
+   "favorite_count": 22,
+   "place": "Bend, OR",
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/mgbBQsxXIp",
-     "expand": "https://metafizzy.co/blog/codepen-showcase-round-2/"
+     "url": "https://t.co/c6ZWI5OPYC",
+     "expand": "https://twitter.com/i/web/status/966819668420734976"
+    }
+   ]
+  },
+  {
+   "id": 966705481350750200,
+   "id_str": "966705481350750209",
+   "created_at": "Thu Feb 22 16:05:21 +0000 2018",
+   "text": "Good example of _if you build a sweet site for your idea people will pay way more attention to it_. \n\nhttps://t.co/yRZ5LTDXfq\n\n👍",
+   "retweet_count": 80,
+   "favorite_count": 443,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yRZ5LTDXfq",
+     "expand": "https://basicscroll.electerious.com/"
+    }
+   ]
+  },
+  {
+   "id": 966411662117937200,
+   "id_str": "966411662117937152",
+   "created_at": "Wed Feb 21 20:37:49 +0000 2018",
+   "text": "RT @raygunray: New blog post: 🚂 Railway Logos https://t.co/9wQAdfEhVr https://t.co/WUMIHdAZay",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9wQAdfEhVr",
+     "expand": "http://reaganray.com/2018/02/20/railway-logos.html"
     }
    ],
    "retweeted_status": {
-    "id": 964161860114309100,
-    "id_str": "964161860114309120",
-    "created_at": "Thu Feb 15 15:37:55 +0000 2018",
-    "text": "📝 CodePen showcase round 2, featuring @elletricity @jackrugile &amp; @poopsplat  https://t.co/mgbBQsxXIp https://t.co/ESpVXsUdv1",
-    "retweet_count": 8,
-    "favorite_count": 21,
+    "id": 966351331618361300,
+    "id_str": "966351331618361345",
+    "created_at": "Wed Feb 21 16:38:06 +0000 2018",
+    "text": "New blog post: 🚂 Railway Logos https://t.co/9wQAdfEhVr https://t.co/WUMIHdAZay",
+    "retweet_count": 22,
+    "favorite_count": 119,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/mgbBQsxXIp",
-      "expand": "https://metafizzy.co/blog/codepen-showcase-round-2/"
+      "url": "https://t.co/9wQAdfEhVr",
+      "expand": "http://reaganray.com/2018/02/20/railway-logos.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966158234171031600,
+   "id_str": "966158234171031554",
+   "created_at": "Wed Feb 21 03:50:48 +0000 2018",
+   "text": "RT @mikaelainalem: Scroll and morph, morphing shapes when scrolling on @Codepen https://t.co/s6xFo2bXJP #clipPath #morphing Uses basicScrol…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/s6xFo2bXJP",
+     "expand": "https://codepen.io/ainalem/full/jZzxrP/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965962622607687700,
+    "id_str": "965962622607687680",
+    "created_at": "Tue Feb 20 14:53:30 +0000 2018",
+    "text": "Scroll and morph, morphing shapes when scrolling on @Codepen https://t.co/s6xFo2bXJP #clipPath #morphing Uses basic… https://t.co/jwp17lueYB",
+    "retweet_count": 41,
+    "favorite_count": 241,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/s6xFo2bXJP",
+      "expand": "https://codepen.io/ainalem/full/jZzxrP/"
+     },
+     {
+      "url": "https://t.co/jwp17lueYB",
+      "expand": "https://twitter.com/i/web/status/965962622607687680"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966158215712043000,
+   "id_str": "966158215712043008",
+   "created_at": "Wed Feb 21 03:50:43 +0000 2018",
+   "text": "RT @netsi1964: How I construct a pen on CodePen by Sten Hougaard on @CodePen  https://t.co/UaKdv8dqdy #SVG #javascript",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UaKdv8dqdy",
+     "expand": "https://codepen.io/netsi1964/post/how-i-construct-a-pen-on-codepen"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965265901833605100,
+    "id_str": "965265901833605121",
+    "created_at": "Sun Feb 18 16:44:59 +0000 2018",
+    "text": "How I construct a pen on CodePen by Sten Hougaard on @CodePen  https://t.co/UaKdv8dqdy #SVG #javascript",
+    "retweet_count": 7,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UaKdv8dqdy",
+      "expand": "https://codepen.io/netsi1964/post/how-i-construct-a-pen-on-codepen"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966157322841215000,
+   "id_str": "966157322841214976",
+   "created_at": "Wed Feb 21 03:47:10 +0000 2018",
+   "text": "RT @davatron5000: Second, inspired by that show, I did something I've never done before...\n\nI published a short science-fiction story on my…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966008456061816800,
+    "id_str": "966008456061816833",
+    "created_at": "Tue Feb 20 17:55:38 +0000 2018",
+    "text": "Second, inspired by that show, I did something I've never done before...\n\nI published a short science-fiction story… https://t.co/G8d4beLqyK",
+    "retweet_count": 2,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": 965997478465196000,
+    "in_reply_to_status_id_str": "965997478465196032",
+    "in_reply_to_screen_name": "davatron5000",
+    "urls": [
+     {
+      "url": "https://t.co/G8d4beLqyK",
+      "expand": "https://twitter.com/i/web/status/966008456061816833"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966047151401852900,
+   "id_str": "966047151401852928",
+   "created_at": "Tue Feb 20 20:29:23 +0000 2018",
+   "text": "you might say I'm a connoisseur of typing conesueuier into google and copy and pasting the correct spelling back out.",
+   "retweet_count": 44,
+   "favorite_count": 465,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966008691177635800,
+   "id_str": "966008691177635840",
+   "created_at": "Tue Feb 20 17:56:34 +0000 2018",
+   "text": "@ettzzi @CodePen Definitely, we'll get that fix out",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": 966008223118643200,
+   "in_reply_to_status_id_str": "966008223118643200",
+   "in_reply_to_screen_name": "ettzzi",
+   "urls": []
+  },
+  {
+   "id": 965998275525468200,
+   "id_str": "965998275525468160",
+   "created_at": "Tue Feb 20 17:15:10 +0000 2018",
+   "text": "RT @davatron5000: First up, @ShopTalkShow with @DynamicWebPaige! https://t.co/4F4EWfQerI\n\nI really appreciate Paige's human-centric approac…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4F4EWfQerI",
+     "expand": "http://shoptalkshow.com/episodes/299-machine-learning-paige-bailey/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965997478465196000,
+    "id_str": "965997478465196032",
+    "created_at": "Tue Feb 20 17:12:00 +0000 2018",
+    "text": "First up, @ShopTalkShow with @DynamicWebPaige! https://t.co/4F4EWfQerI\n\nI really appreciate Paige's human-centric a… https://t.co/NxDr6bwrv4",
+    "retweet_count": 1,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": 965975056424886300,
+    "in_reply_to_status_id_str": "965975056424886272",
+    "in_reply_to_screen_name": "davatron5000",
+    "urls": [
+     {
+      "url": "https://t.co/4F4EWfQerI",
+      "expand": "http://shoptalkshow.com/episodes/299-machine-learning-paige-bailey/"
+     },
+     {
+      "url": "https://t.co/NxDr6bwrv4",
+      "expand": "https://twitter.com/i/web/status/965997478465196032"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965995177969033200,
+   "id_str": "965995177969033216",
+   "created_at": "Tue Feb 20 17:02:52 +0000 2018",
+   "text": "@bastianallgeier @NotionHQ It's on the public \"it's coming\" list I'm pretty sure. I just mean, like, theoretically… https://t.co/bKQHcPYZcb",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965994792894324700,
+   "in_reply_to_status_id_str": "965994792894324741",
+   "in_reply_to_screen_name": "bastianallgeier",
+   "urls": [
+    {
+     "url": "https://t.co/bKQHcPYZcb",
+     "expand": "https://twitter.com/i/web/status/965995177969033216"
+    }
+   ]
+  },
+  {
+   "id": 965994562492641300,
+   "id_str": "965994562492641280",
+   "created_at": "Tue Feb 20 17:00:25 +0000 2018",
+   "text": "@bastianallgeier @NotionHQ Tables. So good.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965994378660667400,
+   "in_reply_to_status_id_str": "965994378660667393",
+   "in_reply_to_screen_name": "bastianallgeier",
+   "urls": []
+  },
+  {
+   "id": 965961328811696100,
+   "id_str": "965961328811696129",
+   "created_at": "Tue Feb 20 14:48:22 +0000 2018",
+   "text": "I'm less into border walls and more into\n\nborder-style: groove;",
+   "retweet_count": 33,
+   "favorite_count": 247,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965814071034613800,
+   "id_str": "965814071034613760",
+   "created_at": "Tue Feb 20 05:03:13 +0000 2018",
+   "text": "RT @meowlivia_: Moleskine Notebooks \nhttps://t.co/MGUkOtP2U1 via @CodePen https://t.co/uFh7HP2xcP",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MGUkOtP2U1",
+     "expand": "https://codepen.io/oliviale/pen/bLYQQE"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964529692597305300,
+    "id_str": "964529692597305344",
+    "created_at": "Fri Feb 16 15:59:33 +0000 2018",
+    "text": "Moleskine Notebooks \nhttps://t.co/MGUkOtP2U1 via @CodePen https://t.co/uFh7HP2xcP",
+    "retweet_count": 18,
+    "favorite_count": 113,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MGUkOtP2U1",
+      "expand": "https://codepen.io/oliviale/pen/bLYQQE"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965813887701606400,
+   "id_str": "965813887701606400",
+   "created_at": "Tue Feb 20 05:02:29 +0000 2018",
+   "text": "RT @ChrisGannon: Clean React Toggle @CodePen https://t.co/OufrQfK3q1 @greensock @reactjs #svg #animation #ui #minimal https://t.co/eIFyxpyS…",
+   "retweet_count": 34,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OufrQfK3q1",
+     "expand": "https://codepen.io/chrisgannon/pen/mqjjvx"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965516460113252400,
+    "id_str": "965516460113252352",
+    "created_at": "Mon Feb 19 09:20:37 +0000 2018",
+    "text": "Clean React Toggle @CodePen https://t.co/OufrQfK3q1 @greensock @reactjs #svg #animation #ui #minimal https://t.co/eIFyxpySGX",
+    "retweet_count": 34,
+    "favorite_count": 228,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OufrQfK3q1",
+      "expand": "https://codepen.io/chrisgannon/pen/mqjjvx"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965813551901368300,
+   "id_str": "965813551901368320",
+   "created_at": "Tue Feb 20 05:01:09 +0000 2018",
+   "text": "RT @coffeecraftcode: I'm on @CodePen all the time looking for pattern design inspiration. I had no idea they had a specific page for it! \nG…",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964877776380547100,
+    "id_str": "964877776380547075",
+    "created_at": "Sat Feb 17 15:02:43 +0000 2018",
+    "text": "I'm on @CodePen all the time looking for pattern design inspiration. I had no idea they had a specific page for it!… https://t.co/1z1UFFcMjD",
+    "retweet_count": 26,
+    "favorite_count": 155,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1z1UFFcMjD",
+      "expand": "https://twitter.com/i/web/status/964877776380547075"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965813464580182000,
+   "id_str": "965813464580182016",
+   "created_at": "Tue Feb 20 05:00:48 +0000 2018",
+   "text": "RT @OSUbowen: Bendy SVG. Based on an unreleased @Greensock plugin 😗 https://t.co/2EUy0O8jne via @CodePen cc @Martinbeyerr #svg #gsap #anima…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2EUy0O8jne",
+     "expand": "https://codepen.io/osublake/full/MQQLKX/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965661477620408300,
+    "id_str": "965661477620408320",
+    "created_at": "Mon Feb 19 18:56:52 +0000 2018",
+    "text": "Bendy SVG. Based on an unreleased @Greensock plugin 😗 https://t.co/2EUy0O8jne via @CodePen cc @Martinbeyerr #svg #gsap #animation",
+    "retweet_count": 10,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2EUy0O8jne",
+      "expand": "https://codepen.io/osublake/full/MQQLKX/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965785875245420500,
+   "id_str": "965785875245420546",
+   "created_at": "Tue Feb 20 03:11:10 +0000 2018",
+   "text": "RT @vlh: I wrote all about how I write talks on @Real_CSS_Tricks. If you’re new to doing talks you can totally steal all my tricks! 😀 https…",
+   "retweet_count": 93,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965602447325622300,
+    "id_str": "965602447325622273",
+    "created_at": "Mon Feb 19 15:02:18 +0000 2018",
+    "text": "I wrote all about how I write talks on @Real_CSS_Tricks. If you’re new to doing talks you can totally steal all my… https://t.co/CLNeDLQmwi",
+    "retweet_count": 93,
+    "favorite_count": 429,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CLNeDLQmwi",
+      "expand": "https://twitter.com/i/web/status/965602447325622273"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965769277361082400,
+   "id_str": "965769277361082368",
+   "created_at": "Tue Feb 20 02:05:13 +0000 2018",
+   "text": "3D iMac effect. Neeeaaattt.\n\nhttps://t.co/hzCTzj3Qg5 https://t.co/tQVK70IvNI",
+   "retweet_count": 122,
+   "favorite_count": 765,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hzCTzj3Qg5",
+     "expand": "http://www.thismanslife.co.uk/projects/lab/imac3d/"
+    }
+   ]
+  },
+  {
+   "id": 965759371450966000,
+   "id_str": "965759371450966016",
+   "created_at": "Tue Feb 20 01:25:51 +0000 2018",
+   "text": "Just some early prototyping for my new line of blow-out-free diapers. https://t.co/9O7qV2XRii",
+   "retweet_count": 6,
+   "favorite_count": 134,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965712186239668200,
+   "id_str": "965712186239668224",
+   "created_at": "Mon Feb 19 22:18:21 +0000 2018",
+   "text": "Very happy about our latest round of upgrades to Collab Mode in @CodePen \n\nhttps://t.co/H0Nl5c2tvM https://t.co/0hjy4itMi5",
+   "retweet_count": 17,
+   "favorite_count": 165,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/H0Nl5c2tvM",
+     "expand": "https://blog.codepen.io/2018/02/14/major-upgrade-collab-mode/"
+    }
+   ]
+  },
+  {
+   "id": 965600767569621000,
+   "id_str": "965600767569620992",
+   "created_at": "Mon Feb 19 14:55:37 +0000 2018",
+   "text": "@jmspool @davatron5000 @ShopTalkShow Hey thanks Jared!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": 965599848136429600,
+   "in_reply_to_status_id_str": "965599848136429569",
+   "in_reply_to_screen_name": "jmspool",
+   "urls": []
+  },
+  {
+   "id": 965599323953102800,
+   "id_str": "965599323953102848",
+   "created_at": "Mon Feb 19 14:49:53 +0000 2018",
+   "text": "Uncle @davatron5000 and I will be recording the 3️⃣0️⃣0️⃣th @ShopTalkShow later this week.\n\nGot some questions or t… https://t.co/MAIUxw224A",
+   "retweet_count": 5,
+   "favorite_count": 71,
+   "place": "Bend, OR",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MAIUxw224A",
+     "expand": "https://twitter.com/i/web/status/965599323953102848"
+    }
+   ]
+  },
+  {
+   "id": 965598295014834200,
+   "id_str": "965598295014834177",
+   "created_at": "Mon Feb 19 14:45:48 +0000 2018",
+   "text": "RT @JJJ: The problem with coffee is the less of it there is in your cup, the faster it gets cold. The only obvious solution I can find to t…",
+   "retweet_count": 42,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965598066786078700,
+    "id_str": "965598066786078720",
+    "created_at": "Mon Feb 19 14:44:53 +0000 2018",
+    "text": "The problem with coffee is the less of it there is in your cup, the faster it gets cold. The only obvious solution… https://t.co/UnNcmRoYxg",
+    "retweet_count": 42,
+    "favorite_count": 206,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UnNcmRoYxg",
+      "expand": "https://twitter.com/i/web/status/965598066786078720"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965597818021818400,
+   "id_str": "965597818021818369",
+   "created_at": "Mon Feb 19 14:43:54 +0000 2018",
+   "text": "RT @zachleat: 📝 After months and months of work, I'm finally ready to answer the question: Why did I build a Static Site Generator?\n\nIntrod…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964862203487838200,
+    "id_str": "964862203487838208",
+    "created_at": "Sat Feb 17 14:00:50 +0000 2018",
+    "text": "📝 After months and months of work, I'm finally ready to answer the question: Why did I build a Static Site Generato… https://t.co/s6dwa84nJe",
+    "retweet_count": 22,
+    "favorite_count": 99,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/s6dwa84nJe",
+      "expand": "https://twitter.com/i/web/status/964862203487838208"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965594435290476500,
+   "id_str": "965594435290476545",
+   "created_at": "Mon Feb 19 14:30:27 +0000 2018",
+   "text": "RT @UserDefenders: [Special Episode] Live Recording at @aneventapart Denver with @lukew, @cassiemc, and @chriscoyier\n\nhttps://t.co/EUqQfrgf…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965586843688464400,
+    "id_str": "965586843688464384",
+    "created_at": "Mon Feb 19 14:00:17 +0000 2018",
+    "text": "[Special Episode] Live Recording at @aneventapart Denver with @lukew, @cassiemc, and @chriscoyier… https://t.co/vf93auXEDU",
+    "retweet_count": 14,
+    "favorite_count": 50,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vf93auXEDU",
+      "expand": "https://twitter.com/i/web/status/965586843688464384"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965049369547419600,
+   "id_str": "965049369547419648",
+   "created_at": "Sun Feb 18 02:24:34 +0000 2018",
+   "text": "RT @rpsthecoder: Found a use for the #CSS property, box-decoration-break 🙃\n\nSee the @codepen at https://t.co/KZOCg5CCRI https://t.co/lyjbkO…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KZOCg5CCRI",
+     "expand": "http://bit.ly/lineGradientCSS"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964139179574640600,
+    "id_str": "964139179574640640",
+    "created_at": "Thu Feb 15 14:07:47 +0000 2018",
+    "text": "Found a use for the #CSS property, box-decoration-break 🙃\n\nSee the @codepen at https://t.co/KZOCg5CCRI https://t.co/lyjbkON6jk",
+    "retweet_count": 41,
+    "favorite_count": 230,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KZOCg5CCRI",
+      "expand": "http://bit.ly/lineGradientCSS"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965049362958123000,
+   "id_str": "965049362958123008",
+   "created_at": "Sun Feb 18 02:24:32 +0000 2018",
+   "text": "RT @lisi_linhart: Y'all SVG filters are awesome, it's like photoshop in your browser:  https://t.co/g1d58XEKwy @CodePen",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/g1d58XEKwy",
+     "expand": "https://codepen.io/lisilinhart/full/ddRBJb/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963527097657516000,
+    "id_str": "963527097657516032",
+    "created_at": "Tue Feb 13 21:35:36 +0000 2018",
+    "text": "Y'all SVG filters are awesome, it's like photoshop in your browser:  https://t.co/g1d58XEKwy @CodePen",
+    "retweet_count": 31,
+    "favorite_count": 182,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/g1d58XEKwy",
+      "expand": "https://codepen.io/lisilinhart/full/ddRBJb/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965049087690199000,
+   "id_str": "965049087690199040",
+   "created_at": "Sun Feb 18 02:23:26 +0000 2018",
+   "text": "RT @dudleystorey: Full-flush hero image using CSS variables &amp; calc() @CodePen: https://t.co/cjJSCq04b8\nArguably more complex than surroundi…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cjJSCq04b8",
+     "expand": "https://codepen.io/dudleystorey/pen/jZGWjJ"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964926426372870100,
+    "id_str": "964926426372870145",
+    "created_at": "Sat Feb 17 18:16:02 +0000 2018",
+    "text": "Full-flush hero image using CSS variables &amp; calc() @CodePen: https://t.co/cjJSCq04b8\nArguably more complex than sur… https://t.co/2wkFLQX7pI",
+    "retweet_count": 6,
+    "favorite_count": 50,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cjJSCq04b8",
+      "expand": "https://codepen.io/dudleystorey/pen/jZGWjJ"
+     },
+     {
+      "url": "https://t.co/2wkFLQX7pI",
+      "expand": "https://twitter.com/i/web/status/964926426372870145"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965049021588037600,
+   "id_str": "965049021588037633",
+   "created_at": "Sun Feb 18 02:23:11 +0000 2018",
+   "text": "RT @mikaelainalem: Snake highlight, SVG line animation in login form, on @Codepen https://t.co/2y19FgeueV #SVG #animejs https://t.co/r7ijJD…",
+   "retweet_count": 469,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2y19FgeueV",
+     "expand": "https://codepen.io/ainalem/full/EQXjOR/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 963076814183772200,
+    "id_str": "963076814183772160",
+    "created_at": "Mon Feb 12 15:46:20 +0000 2018",
+    "text": "Snake highlight, SVG line animation in login form, on @Codepen https://t.co/2y19FgeueV #SVG #animejs https://t.co/r7ijJDwqFW",
+    "retweet_count": 469,
+    "favorite_count": 2131,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2y19FgeueV",
+      "expand": "https://codepen.io/ainalem/full/EQXjOR/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964957129361719300,
+   "id_str": "964957129361719300",
+   "created_at": "Sat Feb 17 20:18:02 +0000 2018",
+   "text": "RT @mirisuzanne: Need help with a refactor, or custom build? I'm available for contract work. Layouts, design systems, UX, tooling, accessi…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964558347155353600,
+    "id_str": "964558347155353600",
+    "created_at": "Fri Feb 16 17:53:25 +0000 2018",
+    "text": "Need help with a refactor, or custom build? I'm available for contract work. Layouts, design systems, UX, tooling,… https://t.co/KjKRj9nY6o",
+    "retweet_count": 18,
+    "favorite_count": 38,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KjKRj9nY6o",
+      "expand": "https://twitter.com/i/web/status/964558347155353600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964910285613162500,
+   "id_str": "964910285613162496",
+   "created_at": "Sat Feb 17 17:11:53 +0000 2018",
+   "text": "girlll u treat me better than than splash-page-free public wifi",
+   "retweet_count": 6,
+   "favorite_count": 68,
+   "place": "Miami, FL",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964876751934513200,
+   "id_str": "964876751934513152",
+   "created_at": "Sat Feb 17 14:58:38 +0000 2018",
+   "text": "RT @ddale8: On its front page, the Boston Globe pre-covers the next mass shooting.\n\n\"There are only three things we don't know about the ne…",
+   "retweet_count": 10589,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964490073591906300,
+    "id_str": "964490073591906304",
+    "created_at": "Fri Feb 16 13:22:07 +0000 2018",
+    "text": "On its front page, the Boston Globe pre-covers the next mass shooting.\n\n\"There are only three things we don't know… https://t.co/4TZAkhZ1wv",
+    "retweet_count": 10589,
+    "favorite_count": 15341,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4TZAkhZ1wv",
+      "expand": "https://twitter.com/i/web/status/964490073591906304"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964874138384035800,
+   "id_str": "964874138384035841",
+   "created_at": "Sat Feb 17 14:48:15 +0000 2018",
+   "text": "RT @AmeliasBrain: When *is* it appropriate to use the `order` property with CSS Flexbox layouts?\n\nWhen you're designing an Olympic podium!…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964751643135717400,
+    "id_str": "964751643135717377",
+    "created_at": "Sat Feb 17 06:41:30 +0000 2018",
+    "text": "When *is* it appropriate to use the `order` property with CSS Flexbox layouts?\n\nWhen you're designing an Olympic po… https://t.co/ws1GXuPghW",
+    "retweet_count": 36,
+    "favorite_count": 124,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ws1GXuPghW",
+      "expand": "https://twitter.com/i/web/status/964751643135717377"
      }
     ]
    }

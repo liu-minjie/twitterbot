@@ -1,34 +1,174 @@
 {
- "time": 1518873207730,
+ "time": 1519367430492,
  "lists": [
   {
-   "id": 964563086039507000,
-   "id_str": "964563086039506944",
-   "created_at": "Fri Feb 16 18:12:15 +0000 2018",
-   "text": "RT @LewisBugBounty: Keybases lack of checks for Site verification is worrying\n\nFind a URL Shortener site which allows for 'keybase.txt' as…",
-   "retweet_count": 3,
+   "id": 966715309112643600,
+   "id_str": "966715309112643584",
+   "created_at": "Thu Feb 22 16:44:25 +0000 2018",
+   "text": "RT @penultimateIO: Can you solve our next security challenge? https://t.co/Ajvl7Zmjpx https://t.co/tExf4mwZDy",
+   "retweet_count": 17,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
+   "urls": [
+    {
+     "url": "https://t.co/Ajvl7Zmjpx",
+     "expand": "https://penultimate.github.io/challenges/XSS/000001-xss"
+    }
+   ],
    "retweeted_status": {
-    "id": 964561238956101600,
-    "id_str": "964561238956101632",
-    "created_at": "Fri Feb 16 18:04:54 +0000 2018",
-    "text": "Keybases lack of checks for Site verification is worrying\n\nFind a URL Shortener site which allows for 'keybase.txt'… https://t.co/9WWKlVDnQ7",
-    "retweet_count": 3,
-    "favorite_count": 5,
+    "id": 966714130454458400,
+    "id_str": "966714130454458368",
+    "created_at": "Thu Feb 22 16:39:44 +0000 2018",
+    "text": "Can you solve our next security challenge? https://t.co/Ajvl7Zmjpx https://t.co/tExf4mwZDy",
+    "retweet_count": 17,
+    "favorite_count": 38,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/9WWKlVDnQ7",
-      "expand": "https://twitter.com/i/web/status/964561238956101632"
+      "url": "https://t.co/Ajvl7Zmjpx",
+      "expand": "https://penultimate.github.io/challenges/XSS/000001-xss"
      }
     ]
    }
+  },
+  {
+   "id": 966629716093554700,
+   "id_str": "966629716093554688",
+   "created_at": "Thu Feb 22 11:04:18 +0000 2018",
+   "text": "@x1m_martijn @ZDNet @zackwhittaker Yes, this is concerning my latest report.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966625607290359800,
+   "in_reply_to_status_id_str": "966625607290359808",
+   "in_reply_to_screen_name": "x1m_martijn",
+   "urls": []
+  },
+  {
+   "id": 966481735650349000,
+   "id_str": "966481735650349057",
+   "created_at": "Thu Feb 22 01:16:16 +0000 2018",
+   "text": "RT @zackwhittaker: Just in: GitLab has fixed a security issue that allowed anyone to hijack domains. One researcher was able to script the…",
+   "retweet_count": 42,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966480664609648600,
+    "id_str": "966480664609648641",
+    "created_at": "Thu Feb 22 01:12:01 +0000 2018",
+    "text": "Just in: GitLab has fixed a security issue that allowed anyone to hijack domains. One researcher was able to script… https://t.co/5pl1O4y75V",
+    "retweet_count": 42,
+    "favorite_count": 55,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5pl1O4y75V",
+      "expand": "https://twitter.com/i/web/status/966480664609648641"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966325284512428000,
+   "id_str": "966325284512428033",
+   "created_at": "Wed Feb 21 14:54:35 +0000 2018",
+   "text": "RT @penultimateIO: Can you solve our first security challenge? https://t.co/MCFRyh5stk https://t.co/yH7rxPu8rj",
+   "retweet_count": 43,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MCFRyh5stk",
+     "expand": "https://penultimate.github.io/challenges/XSS/000000-xss"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966321284064972800,
+    "id_str": "966321284064972800",
+    "created_at": "Wed Feb 21 14:38:42 +0000 2018",
+    "text": "Can you solve our first security challenge? https://t.co/MCFRyh5stk https://t.co/yH7rxPu8rj",
+    "retweet_count": 43,
+    "favorite_count": 108,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MCFRyh5stk",
+      "expand": "https://penultimate.github.io/challenges/XSS/000000-xss"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965656018624577500,
+   "id_str": "965656018624577536",
+   "created_at": "Mon Feb 19 18:35:10 +0000 2018",
+   "text": "@mlgualtieri Yes, many people are doing that right now. For instance, there is @securitytext.",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965647026338893800,
+   "in_reply_to_status_id_str": "965647026338893825",
+   "in_reply_to_screen_name": "mlgualtieri",
+   "urls": []
+  },
+  {
+   "id": 965634541611372500,
+   "id_str": "965634541611372544",
+   "created_at": "Mon Feb 19 17:09:49 +0000 2018",
+   "text": "@hanno https://t.co/37xUPfEE0O",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965572288333705200,
+   "in_reply_to_status_id_str": "965572288333705216",
+   "in_reply_to_screen_name": "hanno",
+   "urls": [
+    {
+     "url": "https://t.co/37xUPfEE0O",
+     "expand": "https://github.com/edoverflow/contact.sh"
+    }
+   ]
+  },
+  {
+   "id": 965559093476954100,
+   "id_str": "965559093476954112",
+   "created_at": "Mon Feb 19 12:10:01 +0000 2018",
+   "text": ".@gerben_javado and I are launching https://t.co/Axb729N8Vm today! 🎉 https://t.co/y8Ox1omYW1",
+   "retweet_count": 11,
+   "favorite_count": 103,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Axb729N8Vm",
+     "expand": "http://penultimate.io"
+    },
+    {
+     "url": "https://t.co/y8Ox1omYW1",
+     "expand": "https://twitter.com/penultimateIO/status/965549690954616832"
+    }
+   ]
   }
  ]
 }

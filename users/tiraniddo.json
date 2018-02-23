@@ -1,22 +1,142 @@
 {
- "time": 1518873212709,
+ "time": 1519367435799,
  "lists": [
   {
-   "id": 964577024013754400,
-   "id_str": "964577024013754369",
-   "created_at": "Fri Feb 16 19:07:38 +0000 2018",
-   "text": "@MagicAndre1981 @BruceDawson0xB That would explain why it doesn't show any result. I'll have to take a look when I… https://t.co/qdOcGZG5Ju",
+   "id": 966415852705755100,
+   "id_str": "966415852705755136",
+   "created_at": "Wed Feb 21 20:54:29 +0000 2018",
+   "text": "RT @laparisa: Thanks @NDSSSymposium for inviting me to share stories about @googlechrome security work related to Flash, HTTPS, &amp; Site Isol…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966415497703993300,
+    "id_str": "966415497703993344",
+    "created_at": "Wed Feb 21 20:53:04 +0000 2018",
+    "text": "Thanks @NDSSSymposium for inviting me to share stories about @googlechrome security work related to Flash, HTTPS, &amp;… https://t.co/NfDByRDFSZ",
+    "retweet_count": 7,
+    "favorite_count": 38,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/NfDByRDFSZ",
+      "expand": "https://twitter.com/i/web/status/966415497703993344"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966079060278435800,
+   "id_str": "966079060278435841",
+   "created_at": "Tue Feb 20 22:36:11 +0000 2018",
+   "text": "@dwordj *cough*",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 964567439706148900,
-   "in_reply_to_screen_name": "MagicAndre1981",
+   "in_reply_to_status_id": 966055536255934500,
+   "in_reply_to_status_id_str": "966055536255934464",
+   "in_reply_to_screen_name": "dwordj",
+   "urls": []
+  },
+  {
+   "id": 965930433304244200,
+   "id_str": "965930433304244229",
+   "created_at": "Tue Feb 20 12:45:36 +0000 2018",
+   "text": "@JeroenFrijters Yeah I didn't dig too deeply into that but it seemed to not need the ACL for 127.0.0.1 either. Just… https://t.co/Oyf7PL5xVT",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965928485691842600,
+   "in_reply_to_status_id_str": "965928485691842560",
+   "in_reply_to_screen_name": "JeroenFrijters",
    "urls": [
     {
-     "url": "https://t.co/qdOcGZG5Ju",
-     "expand": "https://twitter.com/i/web/status/964577024013754369"
+     "url": "https://t.co/Oyf7PL5xVT",
+     "expand": "https://twitter.com/i/web/status/965930433304244229"
     }
    ]
+  },
+  {
+   "id": 965917359344111600,
+   "id_str": "965917359344111616",
+   "created_at": "Tue Feb 20 11:53:39 +0000 2018",
+   "text": "Farewell Constrained Impersonation Capability, we barely knew you. https://t.co/WdM4BC76dJ",
+   "retweet_count": 36,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WdM4BC76dJ",
+     "expand": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1439"
+    }
+   ]
+  },
+  {
+   "id": 965265511184588800,
+   "id_str": "965265511184588800",
+   "created_at": "Sun Feb 18 16:43:26 +0000 2018",
+   "text": "It's one of those days, flight delayed 90 mins out of Berlin so I spent the time looking at some code. I wish I had… https://t.co/CImWTWOCId",
+   "retweet_count": 2,
+   "favorite_count": 30,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CImWTWOCId",
+     "expand": "https://twitter.com/i/web/status/965265511184588800"
+    }
+   ]
+  },
+  {
+   "id": 965006953935089700,
+   "id_str": "965006953935089664",
+   "created_at": "Sat Feb 17 23:36:01 +0000 2018",
+   "text": "Thanks to all the organizers of @offensive_con was honored to have presented at the inaugural event.",
+   "retweet_count": 6,
+   "favorite_count": 33,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 964997008862957600,
+   "id_str": "964997008862957569",
+   "created_at": "Sat Feb 17 22:56:30 +0000 2018",
+   "text": "@dwizzzleMSFT At any rate there was certainly no 0 day dropped just known won't fixers.",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 964993805278679000,
+   "in_reply_to_status_id_str": "964993805278679040",
+   "in_reply_to_screen_name": "tiraniddo",
+   "urls": []
+  },
+  {
+   "id": 964993805278679000,
+   "id_str": "964993805278679040",
+   "created_at": "Sat Feb 17 22:43:46 +0000 2018",
+   "text": "@dwizzzleMSFT Security boundaries are flexible 😉",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 964960611250483200,
+   "in_reply_to_status_id_str": "964960611250483200",
+   "in_reply_to_screen_name": "dwizzzleMSFT",
+   "urls": []
   }
  ]
 }

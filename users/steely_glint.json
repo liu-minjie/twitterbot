@@ -1,29 +1,57 @@
 {
- "time": 1518873215367,
+ "time": 1519367439412,
  "lists": [
   {
-   "id": 964807714600902700,
-   "id_str": "964807714600902656",
-   "created_at": "Sat Feb 17 10:24:19 +0000 2018",
-   "text": "RT @petefrasermusic: Where Everybody Knows Your Name. https://t.co/7SFobe0lQB",
-   "retweet_count": 605,
+   "id": 966782578366865400,
+   "id_str": "966782578366865410",
+   "created_at": "Thu Feb 22 21:11:43 +0000 2018",
+   "text": "@miconda @dan_jenkins Yeah, it snowed here in Berlin today - only a few big fat flakes though.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966779706380095500,
+   "in_reply_to_status_id_str": "966779706380095490",
+   "in_reply_to_screen_name": "miconda",
+   "urls": []
+  },
+  {
+   "id": 966258969961553900,
+   "id_str": "966258969961553920",
+   "created_at": "Wed Feb 21 10:31:05 +0000 2018",
+   "text": "People here at #BCX18 finding out exactly how well cloud based IoT works over congested wifi.",
+   "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964587227119587300,
-    "id_str": "964587227119587330",
-    "created_at": "Fri Feb 16 19:48:10 +0000 2018",
-    "text": "Where Everybody Knows Your Name. https://t.co/7SFobe0lQB",
-    "retweet_count": 605,
-    "favorite_count": 2480,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
+   "urls": []
+  },
+  {
+   "id": 966256656651825200,
+   "id_str": "966256656651825153",
+   "created_at": "Wed Feb 21 10:21:53 +0000 2018",
+   "text": "Anyone who complains about java being 'heavy' should be made to install libboost on a pi Zero - without coffee.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966018989389426700,
+   "id_str": "966018989389426688",
+   "created_at": "Tue Feb 20 18:37:29 +0000 2018",
+   "text": "Sudden realization that most IoT stacks remind me of CORBA. Multiple (slow) layers of mimicry of a real thing.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
   }
  ]
 }

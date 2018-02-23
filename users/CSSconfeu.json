@@ -1,22 +1,147 @@
 {
- "time": 1518873116236,
+ "time": 1519367404999,
  "lists": [
   {
-   "id": 964264657346285600,
-   "id_str": "964264657346285574",
-   "created_at": "Thu Feb 15 22:26:24 +0000 2018",
-   "text": "Our Australian sister conference is going into their last round – join them on their final adventure and don’t miss… https://t.co/Xv7KAip9VZ",
-   "retweet_count": 2,
-   "favorite_count": 8,
+   "id": 966739724231741400,
+   "id_str": "966739724231741440",
+   "created_at": "Thu Feb 22 18:21:26 +0000 2018",
+   "text": "@helljannis Hey there 👋 We are in the process of sending out the results, you'll be hearing back from us very soon!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964559648283033600,
+   "in_reply_to_status_id_str": "964559648283033602",
+   "in_reply_to_screen_name": "helljannis",
+   "urls": []
+  },
+  {
+   "id": 966732507197648900,
+   "id_str": "966732507197648902",
+   "created_at": "Thu Feb 22 17:52:45 +0000 2018",
+   "text": "RT @jottpehkah: fetch('https://t.co/zgJ2k587Dx', {\n  type: 'combo ticket'\n}).then(tweetAboutIt({\n  mood: '😎',\n  cc: [@cssconfeu, @jsconfeu]…",
+   "retweet_count": 4,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/Xv7KAip9VZ",
-     "expand": "https://twitter.com/i/web/status/964264657346285574"
+     "url": "https://t.co/zgJ2k587Dx",
+     "expand": "https://ti.to/jsconfeu/jsconf-eu-2018/"
     }
-   ]
+   ],
+   "retweeted_status": {
+    "id": 966722030728040400,
+    "id_str": "966722030728040449",
+    "created_at": "Thu Feb 22 17:11:07 +0000 2018",
+    "text": "fetch('https://t.co/zgJ2k587Dx', {\n  type: 'combo ticket'\n}).then(tweetAboutIt({\n  mood: '😎',\n  cc: [@cssconfeu, @jsconfeu]\n}));\n\nYESSS 🎉🎉🎉",
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zgJ2k587Dx",
+      "expand": "https://ti.to/jsconfeu/jsconf-eu-2018/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965612986810454000,
+   "id_str": "965612986810454016",
+   "created_at": "Mon Feb 19 15:44:10 +0000 2018",
+   "text": "RT @CSSconfeu: Scholarships are a big part of CSSconf EU and very close to our heart - to make our community welcoming and diverse. This is…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 960513675995091000,
+    "id_str": "960513675995090944",
+    "created_at": "Mon Feb 05 14:01:20 +0000 2018",
+    "text": "Scholarships are a big part of CSSconf EU and very close to our heart - to make our community welcoming and diverse… https://t.co/hSMgGSCQKj",
+    "retweet_count": 8,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hSMgGSCQKj",
+      "expand": "https://twitter.com/i/web/status/960513675995090944"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965609165413670900,
+   "id_str": "965609165413670913",
+   "created_at": "Mon Feb 19 15:28:59 +0000 2018",
+   "text": "RT @CSSconfeu: ✨ An update on our scholarship program, and an insight into our process for it: https://t.co/YwLXoVjIFh 💖",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YwLXoVjIFh",
+     "expand": "http://blog.cssconf.eu/2018/02/14/scholarship-insights/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964148829019926500,
+    "id_str": "964148829019926534",
+    "created_at": "Thu Feb 15 14:46:08 +0000 2018",
+    "text": "✨ An update on our scholarship program, and an insight into our process for it: https://t.co/YwLXoVjIFh 💖",
+    "retweet_count": 10,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YwLXoVjIFh",
+      "expand": "http://blog.cssconf.eu/2018/02/14/scholarship-insights/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965609130726711300,
+   "id_str": "965609130726711297",
+   "created_at": "Mon Feb 19 15:28:51 +0000 2018",
+   "text": "RT @CSSconfeu: We will announce the first round of scholarship holders (from outside Europe) within the next days! Stay tuned 🚀",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964195106113884200,
+    "id_str": "964195106113884165",
+    "created_at": "Thu Feb 15 17:50:01 +0000 2018",
+    "text": "We will announce the first round of scholarship holders (from outside Europe) within the next days! Stay tuned 🚀",
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": 964149639376244700,
+    "in_reply_to_status_id_str": "964149639376244737",
+    "in_reply_to_screen_name": "CSSconfeu",
+    "urls": []
+   }
   }
  ]
 }

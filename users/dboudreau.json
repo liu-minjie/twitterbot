@@ -1,34 +1,1426 @@
 {
- "time": 1518873206293,
+ "time": 1519367428900,
  "lists": [
   {
-   "id": 964720384187748400,
-   "id_str": "964720384187748352",
-   "created_at": "Sat Feb 17 04:37:17 +0000 2018",
-   "text": "RT @jensimmons: It’s important that we front end developers understand the jobs of HMTL, CSS and JS, and choose the right one for the job.…",
-   "retweet_count": 91,
+   "id": 966867604114681900,
+   "id_str": "966867604114681856",
+   "created_at": "Fri Feb 23 02:49:35 +0000 2018",
+   "text": "RT @ottawa_js: Next up @svinkle will teach us about Creating Accessible React Apps https://t.co/DnQh5VoNQf",
+   "retweet_count": 4,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964405470650810400,
-    "id_str": "964405470650810371",
-    "created_at": "Fri Feb 16 07:45:56 +0000 2018",
-    "text": "It’s important that we front end developers understand the jobs of HMTL, CSS and JS, and choose the right one for t… https://t.co/D2LlvgTBqa",
-    "retweet_count": 91,
-    "favorite_count": 216,
+    "id": 966484437469974500,
+    "id_str": "966484437469974528",
+    "created_at": "Thu Feb 22 01:27:00 +0000 2018",
+    "text": "Next up @svinkle will teach us about Creating Accessible React Apps https://t.co/DnQh5VoNQf",
+    "retweet_count": 4,
+    "favorite_count": 16,
     "place": null,
-    "in_reply_to_status_id": 964404978356912100,
-    "in_reply_to_screen_name": "jensimmons",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966867036386275300,
+   "id_str": "966867036386275329",
+   "created_at": "Fri Feb 23 02:47:19 +0000 2018",
+   "text": "@mattmay @jared_w_smith I feel the same way. We often see situations where devs mean well, and just go overboard wi… https://t.co/Jn9LiP9lCn",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966863551385165800,
+   "in_reply_to_status_id_str": "966863551385165824",
+   "in_reply_to_screen_name": "mattmay",
+   "urls": [
+    {
+     "url": "https://t.co/Jn9LiP9lCn",
+     "expand": "https://twitter.com/i/web/status/966867036386275329"
+    }
+   ]
+  },
+  {
+   "id": 966836211921932300,
+   "id_str": "966836211921932290",
+   "created_at": "Fri Feb 23 00:44:50 +0000 2018",
+   "text": "Pour les intéressé(e)s, les informations pour la conférence de ce samedi sont disponibles au… https://t.co/cSia6hkU4R",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cSia6hkU4R",
+     "expand": "https://twitter.com/i/web/status/966836211921932290"
+    }
+   ]
+  },
+  {
+   "id": 966825199030210600,
+   "id_str": "966825199030210560",
+   "created_at": "Fri Feb 23 00:01:04 +0000 2018",
+   "text": "Participant(e)s de ce soir à la rencontre de #tlmux serez-vous du #a11yTour, qui aura lieu samedi chez @Shopify Mon… https://t.co/ue761NzMsx",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ue761NzMsx",
+     "expand": "https://twitter.com/i/web/status/966825199030210560"
+    }
+   ]
+  },
+  {
+   "id": 966820950145675300,
+   "id_str": "966820950145675264",
+   "created_at": "Thu Feb 22 23:44:11 +0000 2018",
+   "text": "RT @tlmux: Un grand et spatieux merci à @Shopify pour leur super accueil! #TLMUX  @ShopifyUX https://t.co/5M0pBxBqaB",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966817134968963100,
+    "id_str": "966817134968963072",
+    "created_at": "Thu Feb 22 23:29:02 +0000 2018",
+    "text": "Un grand et spatieux merci à @Shopify pour leur super accueil! #TLMUX  @ShopifyUX https://t.co/5M0pBxBqaB",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966811811461951500,
+   "id_str": "966811811461951494",
+   "created_at": "Thu Feb 22 23:07:53 +0000 2018",
+   "text": "RT @A11yTour: A big thanks to @Shopify for their support to @a11yMTL meetups &amp; also to this first of a kind event in Canada.\n\nWe'll use the…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966810730564587500,
+    "id_str": "966810730564587520",
+    "created_at": "Thu Feb 22 23:03:35 +0000 2018",
+    "text": "A big thanks to @Shopify for their support to @a11yMTL meetups &amp; also to this first of a kind event in Canada.\n\nWe'… https://t.co/yZnEQ2QbWQ",
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/D2LlvgTBqa",
-      "expand": "https://twitter.com/i/web/status/964405470650810371"
+      "url": "https://t.co/yZnEQ2QbWQ",
+      "expand": "https://twitter.com/i/web/status/966810730564587520"
      }
     ]
    }
+  },
+  {
+   "id": 966810613023420400,
+   "id_str": "966810613023420416",
+   "created_at": "Thu Feb 22 23:03:07 +0000 2018",
+   "text": "The 1st ever #a11yTour is happening in Ottawa on 02/23, and Montreal on 02/24. We couldn't have done it without the… https://t.co/3dIql7OlQZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3dIql7OlQZ",
+     "expand": "https://twitter.com/i/web/status/966810613023420416"
+    }
+   ]
+  },
+  {
+   "id": 966808911595569200,
+   "id_str": "966808911595569154",
+   "created_at": "Thu Feb 22 22:56:21 +0000 2018",
+   "text": "RT @ArthurGouveia: If you’re in Ottawa or Montréal and would like to build a better web, you should be part of the #a11yTour.\n\nJoin us tomo…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966786401764282400,
+    "id_str": "966786401764282368",
+    "created_at": "Thu Feb 22 21:26:54 +0000 2018",
+    "text": "If you’re in Ottawa or Montréal and would like to build a better web, you should be part of the #a11yTour.\n\nJoin us… https://t.co/4mHNsPAPuc",
+    "retweet_count": 22,
+    "favorite_count": 8,
+    "place": "Ville-Marie, Montréal",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4mHNsPAPuc",
+      "expand": "https://twitter.com/i/web/status/966786401764282368"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966795748972073000,
+   "id_str": "966795748972072961",
+   "created_at": "Thu Feb 22 22:04:03 +0000 2018",
+   "text": "Passionné(e) par #accessibility et #inclusivedesign? Près d'Ottawa ou de Montréal? Inscrivez-vous aujourd'hui pour… https://t.co/tSFArKgZWa",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tSFArKgZWa",
+     "expand": "https://twitter.com/i/web/status/966795748972072961"
+    }
+   ]
+  },
+  {
+   "id": 966781650003775500,
+   "id_str": "966781650003775488",
+   "created_at": "Thu Feb 22 21:08:01 +0000 2018",
+   "text": "Interested in #accessibility and #inclusivedesign? Near Ottawa or Montreal? Excellent! Register for the 1st ever… https://t.co/82M2S5I6lE",
+   "retweet_count": 3,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/82M2S5I6lE",
+     "expand": "https://twitter.com/i/web/status/966781650003775488"
+    }
+   ]
+  },
+  {
+   "id": 966766336062914600,
+   "id_str": "966766336062914563",
+   "created_at": "Thu Feb 22 20:07:10 +0000 2018",
+   "text": "Une conférence ne peut avoir lieue sans salle. @shopify sera non seulement l'hôte du #a11yTour à Montréal, mais s'a… https://t.co/Ab1JsrdcYq",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ab1JsrdcYq",
+     "expand": "https://twitter.com/i/web/status/966766336062914563"
+    }
+   ]
+  },
+  {
+   "id": 966749824396808200,
+   "id_str": "966749824396808198",
+   "created_at": "Thu Feb 22 19:01:34 +0000 2018",
+   "text": "A conference is nothing without a venue. Not only will @shopify be hosting our conference in Montreal, but they'll… https://t.co/waq0YoRDYi",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/waq0YoRDYi",
+     "expand": "https://twitter.com/i/web/status/966749824396808198"
+    }
+   ]
+  },
+  {
+   "id": 966743843700953100,
+   "id_str": "966743843700953089",
+   "created_at": "Thu Feb 22 18:37:48 +0000 2018",
+   "text": "\"Le UX et les méthodes AGILE\" ce soir dans le cadre de #tlmUX https://t.co/7LRuw9rbOd - Can #UX keep up with #agile… https://t.co/0bMAgWGFQI",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7LRuw9rbOd",
+     "expand": "http://toutlemonde-ux.com/ux-agile/"
+    },
+    {
+     "url": "https://t.co/0bMAgWGFQI",
+     "expand": "https://twitter.com/i/web/status/966743843700953089"
+    }
+   ]
+  },
+  {
+   "id": 966735145125457900,
+   "id_str": "966735145125457920",
+   "created_at": "Thu Feb 22 18:03:14 +0000 2018",
+   "text": "#a11yTour débute demain à Ottawa et se poursuivra samedi à Montréal pour 2 jours complets de régal d'accessibilité.… https://t.co/iDbuIHWG3T",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iDbuIHWG3T",
+     "expand": "https://twitter.com/i/web/status/966735145125457920"
+    }
+   ]
+  },
+  {
+   "id": 966732205157429200,
+   "id_str": "966732205157429248",
+   "created_at": "Thu Feb 22 17:51:33 +0000 2018",
+   "text": "@SusanATX What!?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966678450999316500,
+   "in_reply_to_status_id_str": "966678450999316481",
+   "in_reply_to_screen_name": "SusanATX",
+   "urls": []
+  },
+  {
+   "id": 966732083157717000,
+   "id_str": "966732083157716992",
+   "created_at": "Thu Feb 22 17:51:04 +0000 2018",
+   "text": "RT @vavroom: The first part of my accessibility chat with @goodwitch for the #a11yrules podcast is out! https://t.co/wZz6X6sREa Among other…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wZz6X6sREa",
+     "expand": "https://www.patreon.com/posts/a11y-rules-29-1-17054522"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966681316614848500,
+    "id_str": "966681316614848512",
+    "created_at": "Thu Feb 22 14:29:20 +0000 2018",
+    "text": "The first part of my accessibility chat with @goodwitch for the #a11yrules podcast is out! https://t.co/wZz6X6sREa… https://t.co/iaoDcA4uqQ",
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wZz6X6sREa",
+      "expand": "https://www.patreon.com/posts/a11y-rules-29-1-17054522"
+     },
+     {
+      "url": "https://t.co/iaoDcA4uqQ",
+      "expand": "https://twitter.com/i/web/status/966681316614848512"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966731598442958800,
+   "id_str": "966731598442958848",
+   "created_at": "Thu Feb 22 17:49:08 +0000 2018",
+   "text": "@Skogberg You bet!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966720798965796900,
+   "in_reply_to_status_id_str": "966720798965796864",
+   "in_reply_to_screen_name": "Skogberg",
+   "urls": []
+  },
+  {
+   "id": 966731477508538400,
+   "id_str": "966731477508538368",
+   "created_at": "Thu Feb 22 17:48:39 +0000 2018",
+   "text": "@redcrew @sarahebourne There was no way to tell who else was attending, or how many of us were. Just the way the platform was set up.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966718444971413500,
+   "in_reply_to_status_id_str": "966718444971413504",
+   "in_reply_to_screen_name": "redcrew",
+   "urls": []
+  },
+  {
+   "id": 966721500052185100,
+   "id_str": "966721500052185088",
+   "created_at": "Thu Feb 22 17:09:01 +0000 2018",
+   "text": "#a11yTour kicks off tomorrow in Ottawa, and follows up Saturday in Montreal for 2 full days of accessibility goodne… https://t.co/ST0Swn3X5v",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ST0Swn3X5v",
+     "expand": "https://twitter.com/i/web/status/966721500052185088"
+    }
+   ]
+  },
+  {
+   "id": 966704895024947200,
+   "id_str": "966704895024947200",
+   "created_at": "Thu Feb 22 16:03:02 +0000 2018",
+   "text": "Cette édition de #a11yTour offrira des services de cart pour faire de l'événement un brillant exemple d'inclusion.… https://t.co/SONuhcjBdf",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SONuhcjBdf",
+     "expand": "https://twitter.com/i/web/status/966704895024947200"
+    }
+   ]
+  },
+  {
+   "id": 966690333089259500,
+   "id_str": "966690333089259520",
+   "created_at": "Thu Feb 22 15:05:10 +0000 2018",
+   "text": "This edition of #a11yTour will offer cart services to make the event a shining example of inclusion. But it wouldn'… https://t.co/ujyjTKaIbA",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ujyjTKaIbA",
+     "expand": "https://twitter.com/i/web/status/966690333089259520"
+    }
+   ]
+  },
+  {
+   "id": 966674323649056800,
+   "id_str": "966674323649056768",
+   "created_at": "Thu Feb 22 14:01:33 +0000 2018",
+   "text": "#a11yTour 2018 est déjà à pleine capacité à Ottawa et est presque autant à Montréal (ne reste plus que 20 billets).… https://t.co/ExsVJqq18d",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ExsVJqq18d",
+     "expand": "https://twitter.com/i/web/status/966674323649056768"
+    }
+   ]
+  },
+  {
+   "id": 966674004554678300,
+   "id_str": "966674004554678273",
+   "created_at": "Thu Feb 22 14:00:17 +0000 2018",
+   "text": "@TTurkovi You're most welcome! We'll do our best... Have a splendid rest of your day. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966666791396216800,
+   "in_reply_to_status_id_str": "966666791396216832",
+   "in_reply_to_screen_name": "TTurkovi",
+   "urls": []
+  },
+  {
+   "id": 966673725377728500,
+   "id_str": "966673725377728512",
+   "created_at": "Thu Feb 22 13:59:10 +0000 2018",
+   "text": "The new guidelines in WCAG 2.1 explained, by @Skogberg https://t.co/3GwDS4suBY https://t.co/2UXxoor10I",
+   "retweet_count": 6,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3GwDS4suBY",
+     "expand": "https://buff.ly/2Cb0U8B"
+    }
+   ]
+  },
+  {
+   "id": 966659596378099700,
+   "id_str": "966659596378099714",
+   "created_at": "Thu Feb 22 13:03:02 +0000 2018",
+   "text": "#a11yTour 2018 is already sold out in Ottawa, and close to being sold in Montreal. with only 20 tickets left, if yo… https://t.co/1J34PVSQpz",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1J34PVSQpz",
+     "expand": "https://twitter.com/i/web/status/966659596378099714"
+    }
+   ]
+  },
+  {
+   "id": 966650679442931700,
+   "id_str": "966650679442931712",
+   "created_at": "Thu Feb 22 12:27:36 +0000 2018",
+   "text": "We’re still very much in the infancy of what artificial intelligence is capable of. In five years, 10 years, 25 yea… https://t.co/r5WEgCKEYj",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r5WEgCKEYj",
+     "expand": "https://twitter.com/i/web/status/966650679442931712"
+    }
+   ]
+  },
+  {
+   "id": 966645356158242800,
+   "id_str": "966645356158242816",
+   "created_at": "Thu Feb 22 12:06:26 +0000 2018",
+   "text": "@TTurkovi Unfortunately, we're not set up to live stream the event, but we're looking into ways to record the talks… https://t.co/VePtaHZlGX",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966618392244482000,
+   "in_reply_to_status_id_str": "966618392244482048",
+   "in_reply_to_screen_name": "TTurkovi",
+   "urls": [
+    {
+     "url": "https://t.co/VePtaHZlGX",
+     "expand": "https://twitter.com/i/web/status/966645356158242816"
+    }
+   ]
+  },
+  {
+   "id": 966607804655177700,
+   "id_str": "966607804655177728",
+   "created_at": "Thu Feb 22 09:37:13 +0000 2018",
+   "text": "@redcrew @paciellogroup @iheni Agreed. I attended as well, and it was excellent.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966368397016621000,
+   "in_reply_to_status_id_str": "966368397016621056",
+   "in_reply_to_screen_name": "redcrew",
+   "urls": []
+  },
+  {
+   "id": 966532901155295200,
+   "id_str": "966532901155295237",
+   "created_at": "Thu Feb 22 04:39:35 +0000 2018",
+   "text": "@dylanw Nice. But I’d argue that a truly delightful experience would include an option to show your password, an ac… https://t.co/V4dPYfhac1",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966469277162332200,
+   "in_reply_to_status_id_str": "966469277162332160",
+   "in_reply_to_screen_name": "dylanw",
+   "urls": [
+    {
+     "url": "https://t.co/V4dPYfhac1",
+     "expand": "https://twitter.com/i/web/status/966532901155295237"
+    }
+   ]
+  },
+  {
+   "id": 966495886749642800,
+   "id_str": "966495886749642753",
+   "created_at": "Thu Feb 22 02:12:30 +0000 2018",
+   "text": "@joshsimmons @vavroom @AINowInstitute yw!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966495553231179800,
+   "in_reply_to_status_id_str": "966495553231179776",
+   "in_reply_to_screen_name": "joshsimmons",
+   "urls": []
+  },
+  {
+   "id": 966488761214423000,
+   "id_str": "966488761214423040",
+   "created_at": "Thu Feb 22 01:44:11 +0000 2018",
+   "text": "The recording from today's interview is now available on iTunes. \"Increasing access with AI\", where @davebrownradio… https://t.co/g1VZRa4M4B",
+   "retweet_count": 3,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/g1VZRa4M4B",
+     "expand": "https://twitter.com/i/web/status/966488761214423040"
+    }
+   ]
+  },
+  {
+   "id": 966486005623803900,
+   "id_str": "966486005623803905",
+   "created_at": "Thu Feb 22 01:33:14 +0000 2018",
+   "text": "@joshsimmons @vavroom @AINowInstitute So, here's a link to the French recording from ParisWeb last year:… https://t.co/vV2oEd2qsb",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966449674759622700,
+   "in_reply_to_status_id_str": "966449674759622663",
+   "in_reply_to_screen_name": "joshsimmons",
+   "urls": [
+    {
+     "url": "https://t.co/vV2oEd2qsb",
+     "expand": "https://twitter.com/i/web/status/966486005623803905"
+    }
+   ]
+  },
+  {
+   "id": 966468540437008400,
+   "id_str": "966468540437008384",
+   "created_at": "Thu Feb 22 00:23:50 +0000 2018",
+   "text": "@vavroom @joshsimmons @AINowInstitute Yeah, that’d be great! Anything we can do to keep it charged all the way through the day?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966445487242006500,
+   "in_reply_to_status_id_str": "966445487242006529",
+   "in_reply_to_screen_name": "vavroom",
+   "urls": []
+  },
+  {
+   "id": 966436106303692800,
+   "id_str": "966436106303692802",
+   "created_at": "Wed Feb 21 22:14:57 +0000 2018",
+   "text": "@joshsimmons @vavroom @AINowInstitute There’s a video recording of that talk online from ParisWeb 2017, but it’s in… https://t.co/dBA9IuCyo2",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966435767672279000,
+   "in_reply_to_status_id_str": "966435767672279041",
+   "in_reply_to_screen_name": "dboudreau",
+   "urls": [
+    {
+     "url": "https://t.co/dBA9IuCyo2",
+     "expand": "https://twitter.com/i/web/status/966436106303692802"
+    }
+   ]
+  },
+  {
+   "id": 966435767672279000,
+   "id_str": "966435767672279041",
+   "created_at": "Wed Feb 21 22:13:37 +0000 2018",
+   "text": "@joshsimmons @vavroom @AINowInstitute I can share a copy of my slide deck for Saturday if that helps. Also, you mig… https://t.co/sOnsNqgxAd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966433404513333200,
+   "in_reply_to_status_id_str": "966433404513333250",
+   "in_reply_to_screen_name": "joshsimmons",
+   "urls": [
+    {
+     "url": "https://t.co/sOnsNqgxAd",
+     "expand": "https://twitter.com/i/web/status/966435767672279041"
+    }
+   ]
+  },
+  {
+   "id": 966417697599758300,
+   "id_str": "966417697599758337",
+   "created_at": "Wed Feb 21 21:01:48 +0000 2018",
+   "text": "RT @vavroom: The line up for A11y Tour is nice, even if I say so myself. Good range of talks from introduction to more advanced stuff. \n\nht…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966347329782431700,
+    "id_str": "966347329782431744",
+    "created_at": "Wed Feb 21 16:22:11 +0000 2018",
+    "text": "The line up for A11y Tour is nice, even if I say so myself. Good range of talks from introduction to more advanced… https://t.co/9yxqVeYLJF",
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9yxqVeYLJF",
+      "expand": "https://twitter.com/i/web/status/966347329782431744"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966416911046082600,
+   "id_str": "966416911046082560",
+   "created_at": "Wed Feb 21 20:58:41 +0000 2018",
+   "text": "@joshsimmons @vavroom @AINowInstitute Happy to discuss! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966407558633328600,
+   "in_reply_to_status_id_str": "966407558633328640",
+   "in_reply_to_screen_name": "joshsimmons",
+   "urls": []
+  },
+  {
+   "id": 966416746600063000,
+   "id_str": "966416746600062976",
+   "created_at": "Wed Feb 21 20:58:02 +0000 2018",
+   "text": "@AMIaudio Thanks! Will look forward to it.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966396451105329200,
+   "in_reply_to_status_id_str": "966396451105329152",
+   "in_reply_to_screen_name": "AMIaudio",
+   "urls": []
+  },
+  {
+   "id": 966416676865458200,
+   "id_str": "966416676865458176",
+   "created_at": "Wed Feb 21 20:57:45 +0000 2018",
+   "text": "@davebrownradio Thank you! It was a fun experience. Feel free to invite me over anytime if you want to keep chatting. :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966396669104304100,
+   "in_reply_to_status_id_str": "966396669104304128",
+   "in_reply_to_screen_name": "davebrownradio",
+   "urls": []
+  },
+  {
+   "id": 966386300935811100,
+   "id_str": "966386300935811072",
+   "created_at": "Wed Feb 21 18:57:03 +0000 2018",
+   "text": "@ElieSl C'est un truc passionnant. On a encore beaucoup à explorer, tous les deux! Malgré la distance. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966385965127389200,
+   "in_reply_to_status_id_str": "966385965127389184",
+   "in_reply_to_screen_name": "ElieSl",
+   "urls": []
+  },
+  {
+   "id": 966385673786687500,
+   "id_str": "966385673786687488",
+   "created_at": "Wed Feb 21 18:54:33 +0000 2018",
+   "text": "@ElieSl Alors, j'ai pas trop dit de bêtises? ;)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966384865972191200,
+   "in_reply_to_status_id_str": "966384865972191232",
+   "in_reply_to_screen_name": "ElieSl",
+   "urls": []
+  },
+  {
+   "id": 966385594652794900,
+   "id_str": "966385594652794882",
+   "created_at": "Wed Feb 21 18:54:14 +0000 2018",
+   "text": "RT @dequesystems: \"Ignore the average user - they don't exist. Design for the extreme user and make the average user superhuman\" https://t.…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966026062827225100,
+    "id_str": "966026062827225099",
+    "created_at": "Tue Feb 20 19:05:35 +0000 2018",
+    "text": "\"Ignore the average user - they don't exist. Design for the extreme user and make the average user superhuman\"… https://t.co/U2LF793rV3",
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/U2LF793rV3",
+      "expand": "https://twitter.com/i/web/status/966026062827225099"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966385481221996500,
+   "id_str": "966385481221996544",
+   "created_at": "Wed Feb 21 18:53:47 +0000 2018",
+   "text": "The entire thing will be made available online soon. I think it went pretty well. :) https://t.co/f8IZBh91i2",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/f8IZBh91i2",
+     "expand": "https://twitter.com/AMIaudio/status/966367436109840384"
+    }
+   ]
+  },
+  {
+   "id": 966381737495310300,
+   "id_str": "966381737495310336",
+   "created_at": "Wed Feb 21 18:38:55 +0000 2018",
+   "text": "My interview with Dave Brown from The Pulse is underway. Before the break, we talked about AI and what it can do fo… https://t.co/TWD6YYcIJb",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TWD6YYcIJb",
+     "expand": "https://twitter.com/i/web/status/966381737495310336"
+    }
+   ]
+  },
+  {
+   "id": 966346077895979000,
+   "id_str": "966346077895979008",
+   "created_at": "Wed Feb 21 16:17:13 +0000 2018",
+   "text": "@pauljadam That's also my belief.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966032075810844700,
+   "in_reply_to_status_id_str": "966032075810844672",
+   "in_reply_to_screen_name": "pauljadam",
+   "urls": []
+  },
+  {
+   "id": 966345923931422700,
+   "id_str": "966345923931422721",
+   "created_at": "Wed Feb 21 16:16:36 +0000 2018",
+   "text": "RT @TheDailyShow: \"Nothing inspires more confidence than a lawmaker who doesn't believe in the power of laws.\" - Trevor on Marco Rubio's be…",
+   "retweet_count": 805,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966343786501722100,
+    "id_str": "966343786501722120",
+    "created_at": "Wed Feb 21 16:08:07 +0000 2018",
+    "text": "\"Nothing inspires more confidence than a lawmaker who doesn't believe in the power of laws.\" - Trevor on Marco Rubi… https://t.co/r3ZmOWGcLQ",
+    "retweet_count": 805,
+    "favorite_count": 2161,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/r3ZmOWGcLQ",
+      "expand": "https://twitter.com/i/web/status/966343786501722120"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966340719404372000,
+   "id_str": "966340719404371968",
+   "created_at": "Wed Feb 21 15:55:55 +0000 2018",
+   "text": "@obiwankimberly @inkpixelspaper @sniffles @jalbertbowdenii @AaronGustafson @jenseninman @robdickerson @goodwitch… https://t.co/BUM1ImgVmF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966338954491547600,
+   "in_reply_to_status_id_str": "966338954491547648",
+   "in_reply_to_screen_name": "obiwankimberly",
+   "urls": [
+    {
+     "url": "https://t.co/BUM1ImgVmF",
+     "expand": "https://twitter.com/i/web/status/966340719404371968"
+    }
+   ]
+  },
+  {
+   "id": 966335570422259700,
+   "id_str": "966335570422259712",
+   "created_at": "Wed Feb 21 15:35:28 +0000 2018",
+   "text": "@inkpixelspaper @sniffles @obiwankimberly @jalbertbowdenii @AaronGustafson @jenseninman @robdickerson @goodwitch… https://t.co/fFEfE70HLt",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966316185309601800,
+   "in_reply_to_status_id_str": "966316185309601793",
+   "in_reply_to_screen_name": "inkpixelspaper",
+   "urls": [
+    {
+     "url": "https://t.co/fFEfE70HLt",
+     "expand": "https://twitter.com/i/web/status/966335570422259712"
+    }
+   ]
+  },
+  {
+   "id": 966305284770730000,
+   "id_str": "966305284770729985",
+   "created_at": "Wed Feb 21 13:35:07 +0000 2018",
+   "text": "@sniffles @obiwankimberly @inkpixelspaper @jalbertbowdenii @AaronGustafson @jenseninman @robdickerson @goodwitch… https://t.co/uDov4Pgd2N",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966227499226157000,
+   "in_reply_to_status_id_str": "966227499226157056",
+   "in_reply_to_screen_name": "sniffles",
+   "urls": [
+    {
+     "url": "https://t.co/uDov4Pgd2N",
+     "expand": "https://twitter.com/i/web/status/966305284770729985"
+    }
+   ]
+  },
+  {
+   "id": 966272860368056300,
+   "id_str": "966272860368056321",
+   "created_at": "Wed Feb 21 11:26:17 +0000 2018",
+   "text": "LinkedIn contact: “I gather from your profile that you’re the person who handles Software Development &amp; Quality Ass… https://t.co/p8VQ9ENH6X",
+   "retweet_count": 2,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/p8VQ9ENH6X",
+     "expand": "https://twitter.com/i/web/status/966272860368056321"
+    }
+   ]
+  },
+  {
+   "id": 966090465345929200,
+   "id_str": "966090465345929217",
+   "created_at": "Tue Feb 20 23:21:30 +0000 2018",
+   "text": "@obiwankimberly @AaronGustafson @jalbertbowdenii @jenseninman @robdickerson @goodwitch @sniffles @vdebolt… https://t.co/UATA5D8mSc",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966087361594642400,
+   "in_reply_to_status_id_str": "966087361594642433",
+   "in_reply_to_screen_name": "obiwankimberly",
+   "urls": [
+    {
+     "url": "https://t.co/UATA5D8mSc",
+     "expand": "https://twitter.com/i/web/status/966090465345929217"
+    }
+   ]
+  },
+  {
+   "id": 966087799836377100,
+   "id_str": "966087799836377088",
+   "created_at": "Tue Feb 20 23:10:55 +0000 2018",
+   "text": "@obiwankimberly @AaronGustafson @jalbertbowdenii @jenseninman @robdickerson @goodwitch @sniffles @vdebolt… https://t.co/ReUA8PJNjd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966087437276647400,
+   "in_reply_to_status_id_str": "966087437276647426",
+   "in_reply_to_screen_name": "obiwankimberly",
+   "urls": [
+    {
+     "url": "https://t.co/ReUA8PJNjd",
+     "expand": "https://twitter.com/i/web/status/966087799836377088"
+    }
+   ]
+  },
+  {
+   "id": 966086475879190500,
+   "id_str": "966086475879190530",
+   "created_at": "Tue Feb 20 23:05:39 +0000 2018",
+   "text": "@obiwankimberly @AaronGustafson @jalbertbowdenii @jenseninman @robdickerson @goodwitch @sniffles @vdebolt… https://t.co/msl7cP7G12",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966078621029978100,
+   "in_reply_to_status_id_str": "966078621029978112",
+   "in_reply_to_screen_name": "obiwankimberly",
+   "urls": [
+    {
+     "url": "https://t.co/msl7cP7G12",
+     "expand": "https://twitter.com/i/web/status/966086475879190530"
+    }
+   ]
+  },
+  {
+   "id": 966070113018568700,
+   "id_str": "966070113018568705",
+   "created_at": "Tue Feb 20 22:00:38 +0000 2018",
+   "text": "RT @A11yTour: Don't miss The Pulse (https://t.co/8Bybi9hP3J ) tomorrow at 1pm Eastern, @dboudreau will be interviewed and will talk about #…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8Bybi9hP3J",
+     "expand": "http://www.ami.ca/ThePulse"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966034836011016200,
+    "id_str": "966034836011016192",
+    "created_at": "Tue Feb 20 19:40:27 +0000 2018",
+    "text": "Don't miss The Pulse (https://t.co/8Bybi9hP3J ) tomorrow at 1pm Eastern, @dboudreau will be interviewed and will ta… https://t.co/tlNZYgew1g",
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8Bybi9hP3J",
+      "expand": "http://www.ami.ca/ThePulse"
+     },
+     {
+      "url": "https://t.co/tlNZYgew1g",
+      "expand": "https://twitter.com/i/web/status/966034836011016192"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966032357881868300,
+   "id_str": "966032357881868288",
+   "created_at": "Tue Feb 20 19:30:36 +0000 2018",
+   "text": "RT @knowbility: On this day, the @UN's World Day of #SocialJustice, we remind every organization promoting social inclusion, including digi…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965998950590361600,
+    "id_str": "965998950590361601",
+    "created_at": "Tue Feb 20 17:17:51 +0000 2018",
+    "text": "On this day, the @UN's World Day of #SocialJustice, we remind every organization promoting social inclusion, includ… https://t.co/qr1QY1QkFo",
+    "retweet_count": 11,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qr1QY1QkFo",
+      "expand": "https://twitter.com/i/web/status/965998950590361601"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966031994403434500,
+   "id_str": "966031994403434498",
+   "created_at": "Tue Feb 20 19:29:10 +0000 2018",
+   "text": "Excited to be interviewed tomorrow at 1pm Eastern, as part of The Pulse (https://t.co/C7LowYeKTP), a radio show hos… https://t.co/tBoEy8sWGt",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/C7LowYeKTP",
+     "expand": "http://www.ami.ca/ThePulse"
+    },
+    {
+     "url": "https://t.co/tBoEy8sWGt",
+     "expand": "https://twitter.com/i/web/status/966031994403434498"
+    }
+   ]
+  },
+  {
+   "id": 965746904712785900,
+   "id_str": "965746904712785920",
+   "created_at": "Tue Feb 20 00:36:19 +0000 2018",
+   "text": "@AccessibleJoe I’m so sorry to hear this. Hope you will get better soon. :/",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965730091253710800,
+   "in_reply_to_status_id_str": "965730091253710848",
+   "in_reply_to_screen_name": "AccessibleJoe",
+   "urls": []
+  },
+  {
+   "id": 965725192633843700,
+   "id_str": "965725192633843714",
+   "created_at": "Mon Feb 19 23:10:02 +0000 2018",
+   "text": "@vavroom Hey, at least it’s free, right? ;)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965692672655659000,
+   "in_reply_to_status_id_str": "965692672655659009",
+   "in_reply_to_screen_name": "vavroom",
+   "urls": []
+  },
+  {
+   "id": 965690118831947800,
+   "id_str": "965690118831947776",
+   "created_at": "Mon Feb 19 20:50:40 +0000 2018",
+   "text": "@saltnburnem @CaitlinGeier She is!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965668742977019900,
+   "in_reply_to_status_id_str": "965668742977019904",
+   "in_reply_to_screen_name": "saltnburnem",
+   "urls": []
+  },
+  {
+   "id": 965650734472548400,
+   "id_str": "965650734472548353",
+   "created_at": "Mon Feb 19 18:14:10 +0000 2018",
+   "text": "@SusanATX Here's a Canadian {{{hug}}}, just for you.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965633542582612000,
+   "in_reply_to_status_id_str": "965633542582611968",
+   "in_reply_to_screen_name": "SusanATX",
+   "urls": []
+  },
+  {
+   "id": 965629649224192000,
+   "id_str": "965629649224192001",
+   "created_at": "Mon Feb 19 16:50:23 +0000 2018",
+   "text": "@vavroom Damn, that’s expensive. Isn’t the entire point of 3D printing the fact that it’s supposed to dramatically help bring costs down???",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965628772685942800,
+   "in_reply_to_status_id_str": "965628772685942785",
+   "in_reply_to_screen_name": "vavroom",
+   "urls": []
+  },
+  {
+   "id": 965628242249084900,
+   "id_str": "965628242249084929",
+   "created_at": "Mon Feb 19 16:44:48 +0000 2018",
+   "text": "@SusanATX Hang in there. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965626335434625000,
+   "in_reply_to_status_id_str": "965626335434625025",
+   "in_reply_to_screen_name": "SusanATX",
+   "urls": []
+  },
+  {
+   "id": 965625298548084700,
+   "id_str": "965625298548084737",
+   "created_at": "Mon Feb 19 16:33:06 +0000 2018",
+   "text": "Proudly wearing my #veryStableGenius t-shirt today. @cottonbureau https://t.co/RYT0czcQqF",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965623242395455500,
+   "id_str": "965623242395455496",
+   "created_at": "Mon Feb 19 16:24:56 +0000 2018",
+   "text": "Having a total blast working with @CaitlinGeier on our slides for our upcoming #uxwebinar scheduled next week (Febr… https://t.co/lOwX7729pU",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lOwX7729pU",
+     "expand": "https://twitter.com/i/web/status/965623242395455496"
+    }
+   ]
+  },
+  {
+   "id": 965601873733578800,
+   "id_str": "965601873733578752",
+   "created_at": "Mon Feb 19 15:00:01 +0000 2018",
+   "text": "RT @RianRietveld: How to use Dragon Naturally Speaking. @coolfields made a series of YouTubes to show how.\nhttps://t.co/snX1sZUMdz\nAnd alwa…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/snX1sZUMdz",
+     "expand": "https://www.youtube.com/watch?v=qFicgHfsxj8"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965600548098662400,
+    "id_str": "965600548098662402",
+    "created_at": "Mon Feb 19 14:54:45 +0000 2018",
+    "text": "How to use Dragon Naturally Speaking. @coolfields made a series of YouTubes to show how.\nhttps://t.co/snX1sZUMdz\nAn… https://t.co/qtKPmqVMmR",
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/snX1sZUMdz",
+      "expand": "https://www.youtube.com/watch?v=qFicgHfsxj8"
+     },
+     {
+      "url": "https://t.co/qtKPmqVMmR",
+      "expand": "https://twitter.com/i/web/status/965600548098662402"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965544962766114800,
+   "id_str": "965544962766114816",
+   "created_at": "Mon Feb 19 11:13:52 +0000 2018",
+   "text": "RT @lisavation: User experience design includes accessibility. This fantastic volunteer team have been leading the way in Ottawa and Montre…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963971283892473900,
+    "id_str": "963971283892473856",
+    "created_at": "Thu Feb 15 03:00:38 +0000 2018",
+    "text": "User experience design includes accessibility. This fantastic volunteer team have been leading the way in Ottawa an… https://t.co/sAwzmJMkqK",
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sAwzmJMkqK",
+      "expand": "https://twitter.com/i/web/status/963971283892473856"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965429518965133300,
+   "id_str": "965429518965133313",
+   "created_at": "Mon Feb 19 03:35:08 +0000 2018",
+   "text": "@jeffpoulin Merci @jeffpoulin! Je crois que la communauté #TLMUX gagnerait à participer à l'événement. On focusse… https://t.co/wAz3gqOvZ7",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965427073404801000,
+   "in_reply_to_status_id_str": "965427073404801025",
+   "in_reply_to_screen_name": "jeffpoulin",
+   "urls": [
+    {
+     "url": "https://t.co/wAz3gqOvZ7",
+     "expand": "https://twitter.com/i/web/status/965429518965133313"
+    }
+   ]
+  },
+  {
+   "id": 965281585250619400,
+   "id_str": "965281585250619392",
+   "created_at": "Sun Feb 18 17:47:18 +0000 2018",
+   "text": "Please vote and RT, if you will. Interested in getting as much feedback as possible. Thanks! https://t.co/VT3Hs0druf",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VT3Hs0druf",
+     "expand": "https://twitter.com/dboudreau/status/964996242383228936"
+    }
+   ]
+  },
+  {
+   "id": 965239695155302400,
+   "id_str": "965239695155302400",
+   "created_at": "Sun Feb 18 15:00:51 +0000 2018",
+   "text": "Rockstar Standardista @davidmacd will tell us everything we need to know about the up &amp; coming WCAG 2.1 specificati… https://t.co/LbW8hmLGW1",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LbW8hmLGW1",
+     "expand": "https://twitter.com/i/web/status/965239695155302400"
+    }
+   ]
+  },
+  {
+   "id": 965227209278545900,
+   "id_str": "965227209278545921",
+   "created_at": "Sun Feb 18 14:11:14 +0000 2018",
+   "text": "RT @ajhackwith: If you’re fuzzy on why changes to the ADA is such a big deal, I get it. I’m keenly aware of what being abled blinds you to.…",
+   "retweet_count": 3020,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964588645502959600,
+    "id_str": "964588645502959617",
+    "created_at": "Fri Feb 16 19:53:48 +0000 2018",
+    "text": "If you’re fuzzy on why changes to the ADA is such a big deal, I get it. I’m keenly aware of what being abled blinds… https://t.co/MNiiSqC8CM",
+    "retweet_count": 3020,
+    "favorite_count": 3010,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MNiiSqC8CM",
+      "expand": "https://twitter.com/i/web/status/964588645502959617"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965225395086942200,
+   "id_str": "965225395086942213",
+   "created_at": "Sun Feb 18 14:04:01 +0000 2018",
+   "text": "Interested in #accessibility and #inclusivedesign? Near Ottawa or Montreal? Excellent! Register for the 1st ever… https://t.co/GhclOfyNP0",
+   "retweet_count": 7,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GhclOfyNP0",
+     "expand": "https://twitter.com/i/web/status/965225395086942213"
+    }
+   ]
+  },
+  {
+   "id": 965078958185373700,
+   "id_str": "965078958185373696",
+   "created_at": "Sun Feb 18 04:22:08 +0000 2018",
+   "text": "RT @jnd1er: Apple reaches a new low: its design ethic is not just beauty over understanding, it's beauty over safety. Employees get injured…",
+   "retweet_count": 550,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964881407913861100,
+    "id_str": "964881407913861121",
+    "created_at": "Sat Feb 17 15:17:08 +0000 2018",
+    "text": "Apple reaches a new low: its design ethic is not just beauty over understanding, it's beauty over safety. Employees… https://t.co/bfv1nbv8Hr",
+    "retweet_count": 550,
+    "favorite_count": 1093,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bfv1nbv8Hr",
+      "expand": "https://twitter.com/i/web/status/964881407913861121"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964996242383228900,
+   "id_str": "964996242383228936",
+   "created_at": "Sat Feb 17 22:53:27 +0000 2018",
+   "text": "Been giving a lot of thoughts to the concepts of accessibility, universal design and inclusive design lately. Do yo… https://t.co/rcTdj2gvmo",
+   "retweet_count": 9,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rcTdj2gvmo",
+     "expand": "https://twitter.com/i/web/status/964996242383228936"
+    }
+   ]
   }
  ]
 }

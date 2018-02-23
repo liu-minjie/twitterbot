@@ -1,15 +1,132 @@
 {
- "time": 1518873201556,
+ "time": 1519367423783,
  "lists": [
+  {
+   "id": 966740795867807700,
+   "id_str": "966740795867807744",
+   "created_at": "Thu Feb 22 18:25:41 +0000 2018",
+   "text": "RT @ReBeccaOrg: Folks who didn't intend to update to next were getting this because `npm update -g` does not use the same logic as `npm ins…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966739473462472700,
+    "id_str": "966739473462472704",
+    "created_at": "Thu Feb 22 18:20:26 +0000 2018",
+    "text": "Folks who didn't intend to update to next were getting this because `npm update -g` does not use the same logic as… https://t.co/pek4WAr9US",
+    "retweet_count": 12,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pek4WAr9US",
+      "expand": "https://twitter.com/i/web/status/966739473462472704"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966739382676811800,
+   "id_str": "966739382676811777",
+   "created_at": "Thu Feb 22 18:20:04 +0000 2018",
+   "text": "npm weekly #134: check out our new packages page, take a 5-second survey, and give `thanks`!… https://t.co/LbO10cHTb0",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LbO10cHTb0",
+     "expand": "https://twitter.com/i/web/status/966739382676811777"
+    }
+   ]
+  },
+  {
+   "id": 966728609346945000,
+   "id_str": "966728609346945024",
+   "created_at": "Thu Feb 22 17:37:16 +0000 2018",
+   "text": "we’ve reverted a patch that could cause ownership changes on some system files. if you run npm@next, run `npm insta… https://t.co/iUN5q9UnCH",
+   "retweet_count": 78,
+   "favorite_count": 51,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iUN5q9UnCH",
+     "expand": "https://twitter.com/i/web/status/966728609346945024"
+    }
+   ]
+  },
+  {
+   "id": 966432982931304400,
+   "id_str": "966432982931304450",
+   "created_at": "Wed Feb 21 22:02:33 +0000 2018",
+   "text": "RT @ReBeccaOrg: New npm release! Introducing: npm ci\nAlso, automatic git merge conflict resolution for lock files, bug fixes and more!\n\nnex…",
+   "retweet_count": 76,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966431183427985400,
+    "id_str": "966431183427985408",
+    "created_at": "Wed Feb 21 21:55:24 +0000 2018",
+    "text": "New npm release! Introducing: npm ci\nAlso, automatic git merge conflict resolution for lock files, bug fixes and mo… https://t.co/0o5zXPyj5P",
+    "retweet_count": 76,
+    "favorite_count": 160,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0o5zXPyj5P",
+      "expand": "https://twitter.com/i/web/status/966431183427985408"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966412463876051000,
+   "id_str": "966412463876050944",
+   "created_at": "Wed Feb 21 20:41:01 +0000 2018",
+   "text": "do you have five seconds to take our survey? we want to know what single sign-on provider you'd like to use with np… https://t.co/WOfQt5Js0u",
+   "retweet_count": 17,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WOfQt5Js0u",
+     "expand": "https://twitter.com/i/web/status/966412463876050944"
+    }
+   ]
+  },
   {
    "id": 964565056657686500,
    "id_str": "964565056657686528",
    "created_at": "Fri Feb 16 18:20:04 +0000 2018",
    "text": ".@maybekatz gives us a sneak peek at the next release, @marcelschwantes writes about leadership skills, @seldo has… https://t.co/CHWepP0xoT",
    "retweet_count": 7,
-   "favorite_count": 9,
+   "favorite_count": 11,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {

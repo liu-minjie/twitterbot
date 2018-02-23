@@ -1,15 +1,47 @@
 {
- "time": 1518873209709,
+ "time": 1519367432283,
  "lists": [
+  {
+   "id": 966185307677880300,
+   "id_str": "966185307677880321",
+   "created_at": "Wed Feb 21 05:38:22 +0000 2018",
+   "text": "@s0md3v Well, it's rare to find any backend that remove null bytes.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966181780721209300,
+   "in_reply_to_status_id_str": "966181780721209344",
+   "in_reply_to_screen_name": "s0md3v",
+   "urls": []
+  },
+  {
+   "id": 966177964948901900,
+   "id_str": "966177964948901889",
+   "created_at": "Wed Feb 21 05:09:12 +0000 2018",
+   "text": "@s0md3v \"o%00nload\" is bad idea. It would only work if server/webapp removes that nullbyte. Something like \"onload%… https://t.co/MBqGqPk2yx",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 965961166366285800,
+   "in_reply_to_status_id_str": "965961166366285824",
+   "in_reply_to_screen_name": "s0md3v",
+   "urls": [
+    {
+     "url": "https://t.co/MBqGqPk2yx",
+     "expand": "https://twitter.com/i/web/status/966177964948901889"
+    }
+   ]
+  },
   {
    "id": 964500255831019500,
    "id_str": "964500255831019521",
    "created_at": "Fri Feb 16 14:02:35 +0000 2018",
    "text": "RT @cure53berlin: The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!\n\nhttps:…",
-   "retweet_count": 95,
+   "retweet_count": 102,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +49,11 @@
     "id_str": "964401458245287936",
     "created_at": "Fri Feb 16 07:30:00 +0000 2018",
     "text": "The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!… https://t.co/W8ZzYz36WP",
-    "retweet_count": 95,
-    "favorite_count": 146,
+    "retweet_count": 102,
+    "favorite_count": 167,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

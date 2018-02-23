@@ -1,24 +1,884 @@
 {
- "time": 1518873118186,
+ "time": 1519367405683,
  "lists": [
   {
-   "id": 964807383691219000,
-   "id_str": "964807383691218944",
-   "created_at": "Sat Feb 17 10:23:00 +0000 2018",
-   "text": "face-verify.js: Monitoring Who's Physically Looking at a Site - https://t.co/HKnu9R8Q3y (A possible way to add more… https://t.co/F7BbYyMmW3",
-   "retweet_count": 35,
-   "favorite_count": 66,
+   "id": 966861924364296200,
+   "id_str": "966861924364296192",
+   "created_at": "Fri Feb 23 02:27:00 +0000 2018",
+   "text": "A V8 Memory Quiz in 9 Questions: https://t.co/t0TnCfluNz (Discover some interesting details about how V8 stores values in memory.)",
+   "retweet_count": 9,
+   "favorite_count": 24,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/HKnu9R8Q3y",
-     "expand": "https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd"
+     "url": "https://t.co/t0TnCfluNz",
+     "expand": "http://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html"
+    }
+   ]
+  },
+  {
+   "id": 966841040866078700,
+   "id_str": "966841040866078721",
+   "created_at": "Fri Feb 23 01:04:01 +0000 2018",
+   "text": "Node's Event Loop Workflow and Lifecycle at the Low Level: https://t.co/r9NvqpzxgA",
+   "retweet_count": 53,
+   "favorite_count": 118,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r9NvqpzxgA",
+     "expand": "http://voidcanvas.com/nodejs-event-loop/"
+    }
+   ]
+  },
+  {
+   "id": 966818148669378600,
+   "id_str": "966818148669378562",
+   "created_at": "Thu Feb 22 23:33:03 +0000 2018",
+   "text": "How Fintonic uses Node, MongoDB and Kubernetes to Scale: https://t.co/EWrso9Lw12",
+   "retweet_count": 9,
+   "favorite_count": 45,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EWrso9Lw12",
+     "expand": "https://community.risingstack.com/how-fintonic-uses-nodejs-mongodb-kubernetes/"
+    }
+   ]
+  },
+  {
+   "id": 966806081547767800,
+   "id_str": "966806081547767809",
+   "created_at": "Thu Feb 22 22:45:06 +0000 2018",
+   "text": "RT @FrontendDaily: The Building Blocks of Web Workers and 5 Cases for Their Use: https://t.co/iQKK3IByaM (A way to run JS in background thr…",
+   "retweet_count": 27,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iQKK3IByaM",
+     "expand": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a"
+    }
+   ],
+   "retweeted_status": {
+    "id": 959067823896080400,
+    "id_str": "959067823896080385",
+    "created_at": "Thu Feb 01 14:16:02 +0000 2018",
+    "text": "The Building Blocks of Web Workers and 5 Cases for Their Use: https://t.co/iQKK3IByaM (A way to run JS in backgroun… https://t.co/V52mWtoyHu",
+    "retweet_count": 27,
+    "favorite_count": 113,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iQKK3IByaM",
+      "expand": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a"
+     },
+     {
+      "url": "https://t.co/V52mWtoyHu",
+      "expand": "https://twitter.com/i/web/status/959067823896080385"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966786692299612200,
+   "id_str": "966786692299612160",
+   "created_at": "Thu Feb 22 21:28:04 +0000 2018",
+   "text": "How WebAssembly May Reinvent How We Write and Ship Code on the Web: https://t.co/tBxhLSPIGh",
+   "retweet_count": 22,
+   "favorite_count": 67,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tBxhLSPIGh",
+     "expand": "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/"
+    }
+   ]
+  },
+  {
+   "id": 966761531894530000,
+   "id_str": "966761531894530049",
+   "created_at": "Thu Feb 22 19:48:05 +0000 2018",
+   "text": "aws-appsync-js: Pure JS Client for AWS AppSync - https://t.co/UViN8m2wdl (AWS AppSync is a managed GraphQL service… https://t.co/naiJMHSim0",
+   "retweet_count": 12,
+   "favorite_count": 45,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UViN8m2wdl",
+     "expand": "https://github.com/yankouskia/aws-appsync-js"
     },
     {
-     "url": "https://t.co/F7BbYyMmW3",
-     "expand": "https://twitter.com/i/web/status/964807383691218944"
+     "url": "https://t.co/naiJMHSim0",
+     "expand": "https://twitter.com/i/web/status/966761531894530049"
+    }
+   ]
+  },
+  {
+   "id": 966745167217688600,
+   "id_str": "966745167217688576",
+   "created_at": "Thu Feb 22 18:43:03 +0000 2018",
+   "text": "npm 5.7.1 has been released to fix the Linux permissions issue we mentioned earlier: https://t.co/6olRGroFeu .. how… https://t.co/DBwy8AhiTH",
+   "retweet_count": 30,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6olRGroFeu",
+     "expand": "https://github.com/npm/npm/pull/19889"
+    },
+    {
+     "url": "https://t.co/DBwy8AhiTH",
+     "expand": "https://twitter.com/i/web/status/966745167217688576"
+    }
+   ]
+  },
+  {
+   "id": 966720851012980700,
+   "id_str": "966720851012980736",
+   "created_at": "Thu Feb 22 17:06:26 +0000 2018",
+   "text": "📺Live right NOW, representatives from Ember, Angular, Vue, React and other projects are discussing the latest state… https://t.co/LGSTaq9m6V",
+   "retweet_count": 21,
+   "favorite_count": 48,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LGSTaq9m6V",
+     "expand": "https://twitter.com/i/web/status/966720851012980736"
+    }
+   ]
+  },
+  {
+   "id": 966717219056078800,
+   "id_str": "966717219056078854",
+   "created_at": "Thu Feb 22 16:52:00 +0000 2018",
+   "text": "RT @FrontendDaily: How to keep your JavaScript code simple and increase its readability: https://t.co/xWUtY9EQuZ",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xWUtY9EQuZ",
+     "expand": "https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965953202343563300,
+    "id_str": "965953202343563264",
+    "created_at": "Tue Feb 20 14:16:04 +0000 2018",
+    "text": "How to keep your JavaScript code simple and increase its readability: https://t.co/xWUtY9EQuZ",
+    "retweet_count": 33,
+    "favorite_count": 130,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xWUtY9EQuZ",
+      "expand": "https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966707745436127200,
+   "id_str": "966707745436127233",
+   "created_at": "Thu Feb 22 16:14:21 +0000 2018",
+   "text": "Ready for a weekly dose of Node news? 📫 Node Weekly issue #226 is out now, and you can catch up online here:… https://t.co/WDGM7IvhLL",
+   "retweet_count": 8,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WDGM7IvhLL",
+     "expand": "https://twitter.com/i/web/status/966707745436127233"
+    }
+   ]
+  },
+  {
+   "id": 966705636410044400,
+   "id_str": "966705636410044417",
+   "created_at": "Thu Feb 22 16:05:58 +0000 2018",
+   "text": "🚨 You might want to skip npm 5.7 on Linux for now as it appears there is a possibly serious issue with it changing… https://t.co/0SYqmWHpAe",
+   "retweet_count": 39,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0SYqmWHpAe",
+     "expand": "https://twitter.com/i/web/status/966705636410044417"
+    }
+   ]
+  },
+  {
+   "id": 966680983184449500,
+   "id_str": "966680983184449536",
+   "created_at": "Thu Feb 22 14:28:01 +0000 2018",
+   "text": "The Factory Function Pattern In Depth: https://t.co/i99YEo8I4k",
+   "retweet_count": 37,
+   "favorite_count": 108,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/i99YEo8I4k",
+     "expand": "https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91"
+    }
+   ]
+  },
+  {
+   "id": 966654079547080700,
+   "id_str": "966654079547080704",
+   "created_at": "Thu Feb 22 12:41:06 +0000 2018",
+   "text": "npm v5.7.0 Released: https://t.co/Bvuhc7QQW9",
+   "retweet_count": 26,
+   "favorite_count": 53,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Bvuhc7QQW9",
+     "expand": "http://blog.npmjs.org/post/171139955345/v570"
+    }
+   ]
+  },
+  {
+   "id": 966637946601386000,
+   "id_str": "966637946601385985",
+   "created_at": "Thu Feb 22 11:37:00 +0000 2018",
+   "text": "A Node.js Perspective on MongoDB 3.6: $lookup and $expr - https://t.co/QlyI95EBIt (MongoDB 3.6 introduces support f… https://t.co/3d9zvLcv9d",
+   "retweet_count": 15,
+   "favorite_count": 36,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QlyI95EBIt",
+     "expand": "http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-lookup-expr.html"
+    },
+    {
+     "url": "https://t.co/3d9zvLcv9d",
+     "expand": "https://twitter.com/i/web/status/966637946601385985"
+    }
+   ]
+  },
+  {
+   "id": 966603485788758000,
+   "id_str": "966603485788758021",
+   "created_at": "Thu Feb 22 09:20:04 +0000 2018",
+   "text": "Fio: A Simple (TCP and Unix) Socket Relay Tool - https://t.co/2wloupAoty",
+   "retweet_count": 14,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2wloupAoty",
+     "expand": "https://github.com/gnuns/fio"
+    }
+   ]
+  },
+  {
+   "id": 966537789264285700,
+   "id_str": "966537789264285696",
+   "created_at": "Thu Feb 22 04:59:01 +0000 2018",
+   "text": "RT @FrontendDaily: How To Make a Drag-and-Drop File Uploader With Vanilla JavaScript: https://t.co/ODiDTPFdo7",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ODiDTPFdo7",
+     "expand": "https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 958027964431634400,
+    "id_str": "958027964431634438",
+    "created_at": "Mon Jan 29 17:24:00 +0000 2018",
+    "text": "How To Make a Drag-and-Drop File Uploader With Vanilla JavaScript: https://t.co/ODiDTPFdo7",
+    "retweet_count": 26,
+    "favorite_count": 94,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ODiDTPFdo7",
+      "expand": "https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966499537912295400,
+   "id_str": "966499537912295424",
+   "created_at": "Thu Feb 22 02:27:01 +0000 2018",
+   "text": "RT @FrontendDaily: Sockette: The Cutest Little WebSocket Wrapper - https://t.co/5YUd4qadGX (A 339 byte wrapper around WebSocket that auto r…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5YUd4qadGX",
+     "expand": "https://github.com/lukeed/sockette"
+    }
+   ],
+   "retweeted_status": {
+    "id": 959049730029445100,
+    "id_str": "959049730029445120",
+    "created_at": "Thu Feb 01 13:04:08 +0000 2018",
+    "text": "Sockette: The Cutest Little WebSocket Wrapper - https://t.co/5YUd4qadGX (A 339 byte wrapper around WebSocket that a… https://t.co/IHdVmeEI7G",
+    "retweet_count": 18,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5YUd4qadGX",
+      "expand": "https://github.com/lukeed/sockette"
+     },
+     {
+      "url": "https://t.co/IHdVmeEI7G",
+      "expand": "https://twitter.com/i/web/status/959049730029445120"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966478649963761700,
+   "id_str": "966478649963761664",
+   "created_at": "Thu Feb 22 01:04:01 +0000 2018",
+   "text": "RT @rauschma: My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
+   "retweet_count": 571,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mhQWF9OaJk",
+     "expand": "http://exploringjs.com/es2018-es2019/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966343761876979700,
+    "id_str": "966343761876979714",
+    "created_at": "Wed Feb 21 16:08:01 +0000 2018",
+    "text": "My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
+    "retweet_count": 571,
+    "favorite_count": 1237,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mhQWF9OaJk",
+      "expand": "http://exploringjs.com/es2018-es2019/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966424331415904300,
+   "id_str": "966424331415904256",
+   "created_at": "Wed Feb 21 21:28:10 +0000 2018",
+   "text": "Express.js and AWS Lambda — A Serverless Love Story: https://t.co/5qNEUhIxBq",
+   "retweet_count": 97,
+   "favorite_count": 313,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5qNEUhIxBq",
+     "expand": "https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35"
+    }
+   ]
+  },
+  {
+   "id": 966354858415620100,
+   "id_str": "966354858415620098",
+   "created_at": "Wed Feb 21 16:52:06 +0000 2018",
+   "text": "Announcing NativeScript-Vue 1.0: https://t.co/k3VDCESwnR (A NativeScript plugin that allows you to build native And… https://t.co/rPjRnkZs8W",
+   "retweet_count": 86,
+   "favorite_count": 215,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/k3VDCESwnR",
+     "expand": "https://www.nativescript.org/blog/announcing-nativescript-vue-1.0"
+    },
+    {
+     "url": "https://t.co/rPjRnkZs8W",
+     "expand": "https://twitter.com/i/web/status/966354858415620098"
+    }
+   ]
+  },
+  {
+   "id": 966127613797457900,
+   "id_str": "966127613797457920",
+   "created_at": "Wed Feb 21 01:49:07 +0000 2018",
+   "text": "RT @lukeed05: Published `deepset`, a tiny (145b) utility for safely writing deep Object values! \n💡It's the inverse of @_developit's `dlv` m…",
+   "retweet_count": 61,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966061240018587600,
+    "id_str": "966061240018587648",
+    "created_at": "Tue Feb 20 21:25:22 +0000 2018",
+    "text": "Published `deepset`, a tiny (145b) utility for safely writing deep Object values! \n💡It's the inverse of @_developit… https://t.co/Tq7NJiV4sl",
+    "retweet_count": 61,
+    "favorite_count": 307,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Tq7NJiV4sl",
+      "expand": "https://twitter.com/i/web/status/966061240018587648"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966083532673224700,
+   "id_str": "966083532673224705",
+   "created_at": "Tue Feb 20 22:53:57 +0000 2018",
+   "text": "Lazy Image Component Using the Intersection Observer API in Vue.js: https://t.co/M7qvmjcCob",
+   "retweet_count": 44,
+   "favorite_count": 172,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/M7qvmjcCob",
+     "expand": "https://alligator.io/vuejs/lazy-image/"
+    }
+   ]
+  },
+  {
+   "id": 965963794529833000,
+   "id_str": "965963794529832960",
+   "created_at": "Tue Feb 20 14:58:10 +0000 2018",
+   "text": "📖You Got This! A zine on building apps with Node from @glitch: https://t.co/9I2cyQb7xJ \n\nFree e-book, or there are… https://t.co/DyXbHHwd1S",
+   "retweet_count": 21,
+   "favorite_count": 65,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9I2cyQb7xJ",
+     "expand": "https://glitch.com/you-got-this"
+    },
+    {
+     "url": "https://t.co/DyXbHHwd1S",
+     "expand": "https://twitter.com/i/web/status/965963794529832960"
+    }
+   ]
+  },
+  {
+   "id": 965909648959209500,
+   "id_str": "965909648959209478",
+   "created_at": "Tue Feb 20 11:23:00 +0000 2018",
+   "text": "RT @reactdaily: Redux Rest Easy: A Library to Generate Redux Code - https://t.co/MJx2AwF9M4",
+   "retweet_count": 62,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MJx2AwF9M4",
+     "expand": "https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964540374873268200,
+    "id_str": "964540374873268225",
+    "created_at": "Fri Feb 16 16:42:00 +0000 2018",
+    "text": "Redux Rest Easy: A Library to Generate Redux Code - https://t.co/MJx2AwF9M4",
+    "retweet_count": 62,
+    "favorite_count": 174,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MJx2AwF9M4",
+      "expand": "https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965732944580108300,
+   "id_str": "965732944580108288",
+   "created_at": "Mon Feb 19 23:40:51 +0000 2018",
+   "text": "🎤Who'd give a JavaScript Weekly/@JavaScriptDaily podcast a listen? 🎧\n\nThinking short, news-focused, weekly, a dash… https://t.co/4MW4xYVppz",
+   "retweet_count": 15,
+   "favorite_count": 182,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4MW4xYVppz",
+     "expand": "https://twitter.com/i/web/status/965732944580108288"
+    }
+   ]
+  },
+  {
+   "id": 965601377673195500,
+   "id_str": "965601377673195520",
+   "created_at": "Mon Feb 19 14:58:03 +0000 2018",
+   "text": "Choosing a JavaScript Build Tool: To Config or Not Config - https://t.co/OxIJVW9Hit",
+   "retweet_count": 98,
+   "favorite_count": 267,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OxIJVW9Hit",
+     "expand": "https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8"
+    }
+   ]
+  },
+  {
+   "id": 965569638556946400,
+   "id_str": "965569638556946432",
+   "created_at": "Mon Feb 19 12:51:55 +0000 2018",
+   "text": "RT @JavaScriptDaily: CityJSConf 2018: A JS Conference in the City of London - https://t.co/Whc5tjkBsf (Takes place on March 26, 2018 and wi…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Whc5tjkBsf",
+     "expand": "http://cityjsconf.org/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965392743898984400,
+    "id_str": "965392743898984448",
+    "created_at": "Mon Feb 19 01:09:00 +0000 2018",
+    "text": "CityJSConf 2018: A JS Conference in the City of London - https://t.co/Whc5tjkBsf (Takes place on March 26, 2018 and… https://t.co/7P5BYf1gXc",
+    "retweet_count": 11,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Whc5tjkBsf",
+      "expand": "http://cityjsconf.org/"
+     },
+     {
+      "url": "https://t.co/7P5BYf1gXc",
+      "expand": "https://twitter.com/i/web/status/965392743898984448"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965568649997226000,
+   "id_str": "965568649997225984",
+   "created_at": "Mon Feb 19 12:48:00 +0000 2018",
+   "text": "Testing React with Enzyme and Jest: A Video Series - https://t.co/98q5xnvGAn (First five episodes are free.) #video",
+   "retweet_count": 21,
+   "favorite_count": 91,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/98q5xnvGAn",
+     "expand": "https://javascriptplayground.com/testing-react-enzyme-jest/"
+    }
+   ]
+  },
+  {
+   "id": 965549526944747500,
+   "id_str": "965549526944747522",
+   "created_at": "Mon Feb 19 11:32:00 +0000 2018",
+   "text": "Blotter.js: An API to Draw Unconventional Text Effects on the Web - https://t.co/36j7ZRm1tr",
+   "retweet_count": 41,
+   "favorite_count": 138,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/36j7ZRm1tr",
+     "expand": "https://blotter.js.org/"
+    }
+   ]
+  },
+  {
+   "id": 965518067936780300,
+   "id_str": "965518067936780288",
+   "created_at": "Mon Feb 19 09:27:00 +0000 2018",
+   "text": "Migrating a Babel Project to TypeScript: https://t.co/8cwXT7Y9IB",
+   "retweet_count": 25,
+   "favorite_count": 70,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8cwXT7Y9IB",
+     "expand": "https://medium.com/@wfortin/migrating-a-babel-project-to-typescript-af6cd0b451f4"
+    }
+   ]
+  },
+  {
+   "id": 965410112172064800,
+   "id_str": "965410112172064768",
+   "created_at": "Mon Feb 19 02:18:01 +0000 2018",
+   "text": "Building a Text-Based Adventure with Vue.js: https://t.co/g2qGHzOVyW (An unconventional but interesting odyssey for Vue.js.)",
+   "retweet_count": 27,
+   "favorite_count": 113,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/g2qGHzOVyW",
+     "expand": "https://www.raymondcamden.com/2018/02/14/building-a-text-based-adventure-in-vuejs/"
+    }
+   ]
+  },
+  {
+   "id": 965392743898984400,
+   "id_str": "965392743898984448",
+   "created_at": "Mon Feb 19 01:09:00 +0000 2018",
+   "text": "CityJSConf 2018: A JS Conference in the City of London - https://t.co/Whc5tjkBsf (Takes place on March 26, 2018 and… https://t.co/7P5BYf1gXc",
+   "retweet_count": 11,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Whc5tjkBsf",
+     "expand": "http://cityjsconf.org/"
+    },
+    {
+     "url": "https://t.co/7P5BYf1gXc",
+     "expand": "https://twitter.com/i/web/status/965392743898984448"
+    }
+   ]
+  },
+  {
+   "id": 965384950198538200,
+   "id_str": "965384950198538240",
+   "created_at": "Mon Feb 19 00:38:02 +0000 2018",
+   "text": "RT @rauschma: Composition and named capture groups make regular expressions easier to handle.\nhttps://t.co/VYVkrVxGSg https://t.co/15v7HVRX…",
+   "retweet_count": 500,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VYVkrVxGSg",
+     "expand": "http://2ality.com/2017/07/re-template-tag.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965250882647576600,
+    "id_str": "965250882647576576",
+    "created_at": "Sun Feb 18 15:45:18 +0000 2018",
+    "text": "Composition and named capture groups make regular expressions easier to handle.\nhttps://t.co/VYVkrVxGSg https://t.co/15v7HVRXFQ",
+    "retweet_count": 500,
+    "favorite_count": 1642,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VYVkrVxGSg",
+      "expand": "http://2ality.com/2017/07/re-template-tag.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965365565320843300,
+   "id_str": "965365565320843265",
+   "created_at": "Sun Feb 18 23:21:01 +0000 2018",
+   "text": "How to keep your JavaScript code simple and increase its readability: https://t.co/gZQGMUeYJC",
+   "retweet_count": 132,
+   "favorite_count": 374,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gZQGMUeYJC",
+     "expand": "https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4"
+    }
+   ]
+  },
+  {
+   "id": 965311709442396200,
+   "id_str": "965311709442396162",
+   "created_at": "Sun Feb 18 19:47:00 +0000 2018",
+   "text": "Babel 7.0 Is Nearly Here, So What's New? https://t.co/PJ6iMdsdOQ (A must read 'state of the union' type post from Babel's creator.)",
+   "retweet_count": 63,
+   "favorite_count": 177,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PJ6iMdsdOQ",
+     "expand": "https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039"
+    }
+   ]
+  },
+  {
+   "id": 965169044142911500,
+   "id_str": "965169044142911488",
+   "created_at": "Sun Feb 18 10:20:06 +0000 2018",
+   "text": "Using Prettier to Format Your JavaScript Code: https://t.co/hkEJ2xI0sq",
+   "retweet_count": 204,
+   "favorite_count": 673,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hkEJ2xI0sq",
+     "expand": "https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/"
+    }
+   ]
+  },
+  {
+   "id": 964998710542389200,
+   "id_str": "964998710542389248",
+   "created_at": "Sat Feb 17 23:03:16 +0000 2018",
+   "text": "Creating and Publishing Web Components with Stencil: https://t.co/W08RRIYY2z (Stencil is a tool for compiling moder… https://t.co/SCmkC5kFdC",
+   "retweet_count": 46,
+   "favorite_count": 106,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W08RRIYY2z",
+     "expand": "https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html"
+    },
+    {
+     "url": "https://t.co/SCmkC5kFdC",
+     "expand": "https://twitter.com/i/web/status/964998710542389248"
+    }
+   ]
+  },
+  {
+   "id": 964949320192716800,
+   "id_str": "964949320192716800",
+   "created_at": "Sat Feb 17 19:47:00 +0000 2018",
+   "text": "Async/Await Promise.all Array Destructuring: https://t.co/0OQR1oBsFC",
+   "retweet_count": 127,
+   "favorite_count": 334,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0OQR1oBsFC",
+     "expand": "https://www.dalejefferson.com/blog/async-await-promise-all-array-destructuring/"
     }
    ]
   }

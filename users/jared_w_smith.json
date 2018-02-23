@@ -1,6 +1,90 @@
 {
- "time": 1518873204749,
+ "time": 1519367427221,
  "lists": [
+  {
+   "id": 966862430495129600,
+   "id_str": "966862430495129601",
+   "created_at": "Fri Feb 23 02:29:01 +0000 2018",
+   "text": "Taught a university MIS class tonight and a student asked, “Can a web page be overly accessible?” It stumped me a bit. What do you think?",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966819320620752900,
+   "id_str": "966819320620752896",
+   "created_at": "Thu Feb 22 23:37:43 +0000 2018",
+   "text": "RT @webaim: We’ve added API support to the popular WebAIM Contrast Checker. Instructions at https://t.co/EJT8tENbWa Example: https://t.co/8…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EJT8tENbWa",
+     "expand": "https://webaim.org/resources/contrastchecker/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966819004068212700,
+    "id_str": "966819004068212736",
+    "created_at": "Thu Feb 22 23:36:27 +0000 2018",
+    "text": "We’ve added API support to the popular WebAIM Contrast Checker. Instructions at https://t.co/EJT8tENbWa Example: https://t.co/8i0kMTIVCq",
+    "retweet_count": 8,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EJT8tENbWa",
+      "expand": "https://webaim.org/resources/contrastchecker/"
+     },
+     {
+      "url": "https://t.co/8i0kMTIVCq",
+      "expand": "https://webaim.org/resources/contrastchecker/?fcolor=F000F0&bcolor=F5F5F5&api"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966365163732459500,
+   "id_str": "966365163732459521",
+   "created_at": "Wed Feb 21 17:33:03 +0000 2018",
+   "text": "RT @webaim: Our partners at Pope Tech are developing an amazingly powerful enterprise-level accessibility testing and reporting tool based…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966363911900471300,
+    "id_str": "966363911900471296",
+    "created_at": "Wed Feb 21 17:28:05 +0000 2018",
+    "text": "Our partners at Pope Tech are developing an amazingly powerful enterprise-level accessibility testing and reporting… https://t.co/IPOHztivRv",
+    "retweet_count": 20,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IPOHztivRv",
+      "expand": "https://twitter.com/i/web/status/966363911900471296"
+     }
+    ]
+   }
+  },
   {
    "id": 964216956868898800,
    "id_str": "964216956868898816",
@@ -10,6 +94,7 @@
    "favorite_count": 1,
    "place": null,
    "in_reply_to_status_id": 964216812635242500,
+   "in_reply_to_status_id_str": "964216812635242496",
    "in_reply_to_screen_name": "feather",
    "urls": []
   }

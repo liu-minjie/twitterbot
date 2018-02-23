@@ -1,15 +1,197 @@
 {
- "time": 1518873208759,
+ "time": 1519367431686,
  "lists": [
+  {
+   "id": 966537877038379000,
+   "id_str": "966537877038379008",
+   "created_at": "Thu Feb 22 04:59:21 +0000 2018",
+   "text": "RT @TomNomNom: @itscachemoney that reminds me, I keep meaning to work more on my list of \"ways to alert(document.domain)\"... Only pure-JS s…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966481425892544500,
+    "id_str": "966481425892544513",
+    "created_at": "Thu Feb 22 01:15:02 +0000 2018",
+    "text": "@itscachemoney that reminds me, I keep meaning to work more on my list of \"ways to alert(document.domain)\"... Only… https://t.co/I31Zxxb6rB",
+    "retweet_count": 3,
+    "favorite_count": 26,
+    "place": null,
+    "in_reply_to_status_id": 966480136802525200,
+    "in_reply_to_status_id_str": "966480136802525185",
+    "in_reply_to_screen_name": "itscachemoney",
+    "urls": [
+     {
+      "url": "https://t.co/I31Zxxb6rB",
+      "expand": "https://twitter.com/i/web/status/966481425892544513"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966537686931488800,
+   "id_str": "966537686931488768",
+   "created_at": "Thu Feb 22 04:58:36 +0000 2018",
+   "text": "RT @itscachemoney: Potentially useful\n&lt;script src=\"data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==\"&gt;&lt;/script&gt;",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966480136802525200,
+    "id_str": "966480136802525185",
+    "created_at": "Thu Feb 22 01:09:55 +0000 2018",
+    "text": "Potentially useful\n&lt;script src=\"data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==\"&gt;&lt;/script&gt;",
+    "retweet_count": 18,
+    "favorite_count": 84,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966334246099943400,
+   "id_str": "966334246099943424",
+   "created_at": "Wed Feb 21 15:30:12 +0000 2018",
+   "text": "RT @sehacure: Hacking Tinder Accounts using Facebook Accountkit (fixed)\n\nhttps://t.co/ekOKxItDii",
+   "retweet_count": 108,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ekOKxItDii",
+     "expand": "https://medium.com/@appsecure/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965982211009691600,
+    "id_str": "965982211009691649",
+    "created_at": "Tue Feb 20 16:11:20 +0000 2018",
+    "text": "Hacking Tinder Accounts using Facebook Accountkit (fixed)\n\nhttps://t.co/ekOKxItDii",
+    "retweet_count": 108,
+    "favorite_count": 231,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ekOKxItDii",
+      "expand": "https://medium.com/@appsecure/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966254464905592800,
+   "id_str": "966254464905592833",
+   "created_at": "Wed Feb 21 10:13:11 +0000 2018",
+   "text": "RT @captbaritone: Holy moly. You can write a key logger  in pure CSS. I wonder if @reddit custom themes would be vulnerable. https://t.co/y…",
+   "retweet_count": 2576,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966051583132758000,
+    "id_str": "966051583132758016",
+    "created_at": "Tue Feb 20 20:47:00 +0000 2018",
+    "text": "Holy moly. You can write a key logger  in pure CSS. I wonder if @reddit custom themes would be vulnerable.… https://t.co/qVmveKwO4R",
+    "retweet_count": 2576,
+    "favorite_count": 3613,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qVmveKwO4R",
+      "expand": "https://twitter.com/i/web/status/966051583132758016"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966252531167871000,
+   "id_str": "966252531167870976",
+   "created_at": "Wed Feb 21 10:05:30 +0000 2018",
+   "text": "RT @missoum1307: here is the tales of some google bugs from last years @donrookie @yappare @sirdarckcat  @cure53berlin https://t.co/Dp62x05…",
+   "retweet_count": 70,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966014638314881000,
+    "id_str": "966014638314881024",
+    "created_at": "Tue Feb 20 18:20:12 +0000 2018",
+    "text": "here is the tales of some google bugs from last years @donrookie @yappare @sirdarckcat  @cure53berlin https://t.co/Dp62x05tIL",
+    "retweet_count": 70,
+    "favorite_count": 128,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Dp62x05tIL",
+      "expand": "https://bughunt1307.herokuapp.com/googlebugs.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965773084757143600,
+   "id_str": "965773084757143553",
+   "created_at": "Tue Feb 20 02:20:21 +0000 2018",
+   "text": "RT @brutelogic: JS Execution \nArray Methods\n\n[1].map(alert)\n[1].find(alert)\n[1].every(alert)\n[1].filter(alert)\n[1].findIndex(alert)",
+   "retweet_count": 67,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965642032424407000,
+    "id_str": "965642032424407040",
+    "created_at": "Mon Feb 19 17:39:35 +0000 2018",
+    "text": "JS Execution \nArray Methods\n\n[1].map(alert)\n[1].find(alert)\n[1].every(alert)\n[1].filter(alert)\n[1].findIndex(alert)",
+    "retweet_count": 67,
+    "favorite_count": 183,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
   {
    "id": 964786323809644500,
    "id_str": "964786323809644544",
    "created_at": "Sat Feb 17 08:59:19 +0000 2018",
    "text": "RT @cure53berlin: The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!\n\nhttps:…",
-   "retweet_count": 95,
+   "retweet_count": 102,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +199,11 @@
     "id_str": "964401458245287936",
     "created_at": "Fri Feb 16 07:30:00 +0000 2018",
     "text": "The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!… https://t.co/W8ZzYz36WP",
-    "retweet_count": 95,
-    "favorite_count": 146,
+    "retweet_count": 102,
+    "favorite_count": 167,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

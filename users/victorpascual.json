@@ -1,15 +1,211 @@
 {
- "time": 1518873098611,
+ "time": 1519367394472,
  "lists": [
+  {
+   "id": 966788094337962000,
+   "id_str": "966788094337961985",
+   "created_at": "Thu Feb 22 21:33:38 +0000 2018",
+   "text": "@murillo why don't you just use SDP?!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966715606639763500,
+   "in_reply_to_status_id_str": "966715606639763456",
+   "in_reply_to_screen_name": "murillo",
+   "urls": []
+  },
+  {
+   "id": 966786139460984800,
+   "id_str": "966786139460984832",
+   "created_at": "Thu Feb 22 21:25:52 +0000 2018",
+   "text": "Twilio adds support for RCS, next generation carrier messaging https://t.co/lU1fjq8GaH",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lU1fjq8GaH",
+     "expand": "https://www.twilio.com/blog/2018/02/rcs.html"
+    }
+   ]
+  },
+  {
+   "id": 966270497335005200,
+   "id_str": "966270497335005184",
+   "created_at": "Wed Feb 21 11:16:53 +0000 2018",
+   "text": "World's first 5G call, oh wait",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965979643143708700,
+   "id_str": "965979643143708672",
+   "created_at": "Tue Feb 20 16:01:08 +0000 2018",
+   "text": "RT @shaiberger: My latest: \"Twilio Shakes Up the Cloud Call Center World with Flex\" https://t.co/g5ZQDoBjo7 $TWLO $AVYA #cctr #contactcente…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/g5ZQDoBjo7",
+     "expand": "http://j.mp/2sJec8e"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965975859860529200,
+    "id_str": "965975859860529153",
+    "created_at": "Tue Feb 20 15:46:06 +0000 2018",
+    "text": "My latest: \"Twilio Shakes Up the Cloud Call Center World with Flex\" https://t.co/g5ZQDoBjo7 $TWLO $AVYA #cctr… https://t.co/aZs9uweT0b",
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/g5ZQDoBjo7",
+      "expand": "http://j.mp/2sJec8e"
+     },
+     {
+      "url": "https://t.co/aZs9uweT0b",
+      "expand": "https://twitter.com/i/web/status/965975859860529153"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965969792820707300,
+   "id_str": "965969792820707328",
+   "created_at": "Tue Feb 20 15:22:00 +0000 2018",
+   "text": "RT @anarchyco: VoIP software developer job in Madrid:\nhttps://t.co/Jic9Z9HmiO",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Jic9Z9HmiO",
+     "expand": "https://jobs.telefonica.com/job/MADRID-VoIP-Software-developer/456970001/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965961103082651600,
+    "id_str": "965961103082651648",
+    "created_at": "Tue Feb 20 14:47:28 +0000 2018",
+    "text": "VoIP software developer job in Madrid:\nhttps://t.co/Jic9Z9HmiO",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Jic9Z9HmiO",
+      "expand": "https://jobs.telefonica.com/job/MADRID-VoIP-Software-developer/456970001/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965969639082811400,
+   "id_str": "965969639082811392",
+   "created_at": "Tue Feb 20 15:21:23 +0000 2018",
+   "text": "RT @iamdevloper: jQuery devs seeing a React project for the first time. https://t.co/71Kwyruwda",
+   "retweet_count": 1928,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965968460655317000,
+    "id_str": "965968460655316992",
+    "created_at": "Tue Feb 20 15:16:42 +0000 2018",
+    "text": "jQuery devs seeing a React project for the first time. https://t.co/71Kwyruwda",
+    "retweet_count": 1928,
+    "favorite_count": 5630,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965707919584124900,
+   "id_str": "965707919584124929",
+   "created_at": "Mon Feb 19 22:01:24 +0000 2018",
+   "text": "RT @letsencrypt: Let's Encrypt has over 50M certificates active! https://t.co/TtmkMvuDQA via @firefox Telemetry https://t.co/3okciJ5ZqS",
+   "retweet_count": 99,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TtmkMvuDQA",
+     "expand": "https://letsencrypt.org/stats/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965688691900461000,
+    "id_str": "965688691900461056",
+    "created_at": "Mon Feb 19 20:45:00 +0000 2018",
+    "text": "Let's Encrypt has over 50M certificates active! https://t.co/TtmkMvuDQA via @firefox Telemetry https://t.co/3okciJ5ZqS",
+    "retweet_count": 99,
+    "favorite_count": 239,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TtmkMvuDQA",
+      "expand": "https://letsencrypt.org/stats/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965635458179977200,
+   "id_str": "965635458179977216",
+   "created_at": "Mon Feb 19 17:13:28 +0000 2018",
+   "text": "At @Genaker we are hiring a rockstar voip developer and a sysadmin - contact me for further info",
+   "retweet_count": 4,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
   {
    "id": 964194269937438700,
    "id_str": "964194269937438720",
    "created_at": "Thu Feb 15 17:46:42 +0000 2018",
    "text": "RT @letsencrypt: Let's Encrypt has successfully issued over 1 million certificates in 1 day. We are excited to have the infrastructure to c…",
-   "retweet_count": 371,
+   "retweet_count": 394,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +213,11 @@
     "id_str": "964187299637538820",
     "created_at": "Thu Feb 15 17:19:00 +0000 2018",
     "text": "Let's Encrypt has successfully issued over 1 million certificates in 1 day. We are excited to have the infrastructu… https://t.co/wf2XhN09Ok",
-    "retweet_count": 371,
-    "favorite_count": 746,
+    "retweet_count": 394,
+    "favorite_count": 788,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

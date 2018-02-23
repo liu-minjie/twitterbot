@@ -1,16 +1,3953 @@
 {
- "time": 1518873190263,
+ "time": 1519367413665,
  "lists": [
   {
-   "id": 964706030788649000,
-   "id_str": "964706030788648961",
-   "created_at": "Sat Feb 17 03:40:15 +0000 2018",
-   "text": "@ken_wheeler I've got some in my trunk this very moment.",
+   "id": 966905984999292900,
+   "id_str": "966905984999292928",
+   "created_at": "Fri Feb 23 05:22:05 +0000 2018",
+   "text": "@jonmajorc Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966905000638136300,
+   "in_reply_to_status_id_str": "966905000638136321",
+   "in_reply_to_screen_name": "jonmajorc",
+   "urls": []
+  },
+  {
+   "id": 966896753063510000,
+   "id_str": "966896753063510017",
+   "created_at": "Fri Feb 23 04:45:24 +0000 2018",
+   "text": "Here's an example from my early career. I wanted to be \"the angular guy\" to my classmates. So I gave ad-hoc present… https://t.co/DVlzkCpWv2",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 966895107940040700,
+   "in_reply_to_status_id_str": "966895107940040705",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/DVlzkCpWv2",
+     "expand": "https://twitter.com/i/web/status/966896753063510017"
+    }
+   ]
+  },
+  {
+   "id": 966895107940040700,
+   "id_str": "966895107940040705",
+   "created_at": "Fri Feb 23 04:38:52 +0000 2018",
+   "text": "Side effect: It's nice to help other people.\n\nOr wait, is the fact that it's a good thing for your career the side… https://t.co/wTyFz77oNb",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 966894976893202400,
+   "in_reply_to_status_id_str": "966894976893202432",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/wTyFz77oNb",
+     "expand": "https://twitter.com/i/web/status/966895107940040705"
+    }
+   ]
+  },
+  {
+   "id": 966894976893202400,
+   "id_str": "966894976893202432",
+   "created_at": "Fri Feb 23 04:38:21 +0000 2018",
+   "text": "Being the one people come to with questions can be a very good thing for your career. Be sure to answer the questio… https://t.co/9SYBZy2Ov9",
+   "retweet_count": 2,
+   "favorite_count": 18,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9SYBZy2Ov9",
+     "expand": "https://twitter.com/i/web/status/966894976893202432"
+    }
+   ]
+  },
+  {
+   "id": 966888457015459800,
+   "id_str": "966888457015459842",
+   "created_at": "Fri Feb 23 04:12:26 +0000 2018",
+   "text": "Hey folks! @Carofine247 is looking for work (she's in Houston and lost everything in the flood). If you have opport… https://t.co/q8U47HmuCn",
+   "retweet_count": 24,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/q8U47HmuCn",
+     "expand": "https://twitter.com/i/web/status/966888457015459842"
+    }
+   ]
+  },
+  {
+   "id": 966877732322734100,
+   "id_str": "966877732322734082",
+   "created_at": "Fri Feb 23 03:29:49 +0000 2018",
+   "text": "@BenLesh @Carofine247 I left the after party early to go to sleep 😴",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 966876747038781400,
+   "in_reply_to_status_id_str": "966876747038781442",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966873724724174800,
+   "id_str": "966873724724174851",
+   "created_at": "Fri Feb 23 03:13:54 +0000 2018",
+   "text": "RT @cmaxw: Super excited to have @kentcdodds as a speaker for #reactdevsummit in March. https://t.co/dVZkwkbUpT\n\nCome join us and learn how…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dVZkwkbUpT",
+     "expand": "https://reactdevsummit.com/sessions/how-to-react/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966854980857507800,
+    "id_str": "966854980857507840",
+    "created_at": "Fri Feb 23 01:59:25 +0000 2018",
+    "text": "Super excited to have @kentcdodds as a speaker for #reactdevsummit in March. https://t.co/dVZkwkbUpT\n\nCome join us… https://t.co/QlRUFORp8E",
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dVZkwkbUpT",
+      "expand": "https://reactdevsummit.com/sessions/how-to-react/"
+     },
+     {
+      "url": "https://t.co/QlRUFORp8E",
+      "expand": "https://twitter.com/i/web/status/966854980857507840"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966873604498575400,
+   "id_str": "966873604498575361",
+   "created_at": "Fri Feb 23 03:13:25 +0000 2018",
+   "text": "@vladamxx @dan_abramov No idea. Sounds cool",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966841477916713000,
+   "in_reply_to_status_id_str": "966841477916712960",
+   "in_reply_to_screen_name": "vladamxx",
+   "urls": []
+  },
+  {
+   "id": 966834168624795600,
+   "id_str": "966834168624795648",
+   "created_at": "Fri Feb 23 00:36:43 +0000 2018",
+   "text": "@awgreenarrow @dotloop Awesome! I guess I'll have to sign up 😅",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966833973811957800,
+   "in_reply_to_status_id_str": "966833973811957765",
+   "in_reply_to_screen_name": "awgreenarrow",
+   "urls": []
+  },
+  {
+   "id": 966833950084739100,
+   "id_str": "966833950084739077",
+   "created_at": "Fri Feb 23 00:35:51 +0000 2018",
+   "text": "@awgreenarrow @dotloop Super!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966833670161084400,
+   "in_reply_to_status_id_str": "966833670161084418",
+   "in_reply_to_screen_name": "awgreenarrow",
+   "urls": []
+  },
+  {
+   "id": 966833868857921500,
+   "id_str": "966833868857921536",
+   "created_at": "Fri Feb 23 00:35:31 +0000 2018",
+   "text": "RT @awgreenarrow: So we’re doing a UI rewrite in React. Huge thanks to @kentcdodds for Downshift. Already used it to create our custom drop…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 939279785104113700,
+    "id_str": "939279785104113664",
+    "created_at": "Fri Dec 08 23:45:26 +0000 2017",
+    "text": "So we’re doing a UI rewrite in React. Huge thanks to @kentcdodds for Downshift. Already used it to create our custo… https://t.co/trUpoSO4KQ",
+    "retweet_count": 4,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/trUpoSO4KQ",
+      "expand": "https://twitter.com/i/web/status/939279785104113664"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966830301879160800,
+   "id_str": "966830301879160832",
+   "created_at": "Fri Feb 23 00:21:21 +0000 2018",
+   "text": "@_zigi @assertjs Yep! Later",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966826796867039200,
+   "in_reply_to_status_id_str": "966826796867039232",
+   "in_reply_to_screen_name": "_zigi",
+   "urls": []
+  },
+  {
+   "id": 966822342990196700,
+   "id_str": "966822342990196736",
+   "created_at": "Thu Feb 22 23:49:43 +0000 2018",
+   "text": "RT @ZackArgyle: As of yesterday, we have a weekly active user increase of 358% y/y in India on mobile web. Want to grow in India? Invest in…",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966787225743540200,
+    "id_str": "966787225743540224",
+    "created_at": "Thu Feb 22 21:30:11 +0000 2018",
+    "text": "As of yesterday, we have a weekly active user increase of 358% y/y in India on mobile web. Want to grow in India? I… https://t.co/V7UM1S88nS",
+    "retweet_count": 26,
+    "favorite_count": 64,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/V7UM1S88nS",
+      "expand": "https://twitter.com/i/web/status/966787225743540224"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966820010122534900,
+   "id_str": "966820010122534912",
+   "created_at": "Thu Feb 22 23:40:27 +0000 2018",
+   "text": "RT @klamping: Photoception with @kentcdodds at #AssertJS https://t.co/aYP1zKbVKX",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966816403041943600,
+    "id_str": "966816403041943552",
+    "created_at": "Thu Feb 22 23:26:07 +0000 2018",
+    "text": "Photoception with @kentcdodds at #AssertJS https://t.co/aYP1zKbVKX",
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966819934599860200,
+   "id_str": "966819934599860225",
+   "created_at": "Thu Feb 22 23:40:09 +0000 2018",
+   "text": "@dennythecoder You're welcome!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966818887672238100,
+   "in_reply_to_status_id_str": "966818887672238080",
+   "in_reply_to_screen_name": "dennythecoder",
+   "urls": []
+  },
+  {
+   "id": 966813350549180400,
+   "id_str": "966813350549180416",
+   "created_at": "Thu Feb 22 23:13:59 +0000 2018",
+   "text": "And here I go!!! #AssertJS https://t.co/UIzXj8OTjY",
+   "retweet_count": 0,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": 966791689514967000,
+   "in_reply_to_status_id_str": "966791689514967040",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966803119597334500,
+   "id_str": "966803119597334528",
+   "created_at": "Thu Feb 22 22:33:20 +0000 2018",
+   "text": "@theKashey @searls Hopefully!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966801675242545200,
+   "in_reply_to_status_id_str": "966801675242545152",
+   "in_reply_to_screen_name": "theKashey",
+   "urls": []
+  },
+  {
+   "id": 966800340954878000,
+   "id_str": "966800340954877954",
+   "created_at": "Thu Feb 22 22:22:18 +0000 2018",
+   "text": "@denvercoder @Cypress_io @fbjest @flowtype @geteslint Sweet! Using it in about an hour at #AssertJS 😉",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966799550445793300,
+   "in_reply_to_status_id_str": "966799550445793280",
+   "in_reply_to_screen_name": "denvercoder",
+   "urls": []
+  },
+  {
+   "id": 966791689514967000,
+   "id_str": "966791689514967040",
+   "created_at": "Thu Feb 22 21:47:55 +0000 2018",
+   "text": "And here goes @searls! With 725 slides 😅\n\n\"Nobody knows how to use mocks\" 😱 https://t.co/EGVaCHXRKc",
+   "retweet_count": 1,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": 966781507556737000,
+   "in_reply_to_status_id_str": "966781507556737026",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966781507556737000,
+   "id_str": "966781507556737026",
+   "created_at": "Thu Feb 22 21:07:27 +0000 2018",
+   "text": "Woo! Looking forward to hearing @thisismarycodes talk about Testing React Components at #AssertJS 👍 https://t.co/EhciEP78Hh",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 966770325479358500,
+   "in_reply_to_status_id_str": "966770325479358466",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966770325479358500,
+   "id_str": "966770325479358466",
+   "created_at": "Thu Feb 22 20:23:01 +0000 2018",
+   "text": "Interesting talk starting by @jjordan_dev at #AssertJS https://t.co/T5OMCTQHsO",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 966722332692828200,
+   "in_reply_to_status_id_str": "966722332692828161",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966769880178544600,
+   "id_str": "966769880178544640",
+   "created_at": "Thu Feb 22 20:21:15 +0000 2018",
+   "text": "@lgandecki @robdel12 Yes, I've wanted this!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966768076652937200,
+   "in_reply_to_status_id_str": "966768076652937221",
+   "in_reply_to_screen_name": "lgandecki",
+   "urls": []
+  },
+  {
+   "id": 966765423462092800,
+   "id_str": "966765423462092800",
+   "created_at": "Thu Feb 22 20:03:33 +0000 2018",
+   "text": "@nistrelow I strongly recommend webpack-config-utils personally because the webpack config file still looks like a… https://t.co/kF2o51iomh",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966763135947427800,
+   "in_reply_to_status_id_str": "966763135947427841",
+   "in_reply_to_screen_name": "nistrelow",
+   "urls": [
+    {
+     "url": "https://t.co/kF2o51iomh",
+     "expand": "https://twitter.com/i/web/status/966765423462092800"
+    }
+   ]
+  },
+  {
+   "id": 966760625883017200,
+   "id_str": "966760625883017216",
+   "created_at": "Thu Feb 22 19:44:29 +0000 2018",
+   "text": "RT @bahmutov: Our presentation is starting @assertjs ! @be_mann is starting with best practices @Cypress_io https://t.co/I6eqqN02iy",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966753554533896200,
+    "id_str": "966753554533896194",
+    "created_at": "Thu Feb 22 19:16:23 +0000 2018",
+    "text": "Our presentation is starting @assertjs ! @be_mann is starting with best practices @Cypress_io https://t.co/I6eqqN02iy",
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966744015348658200,
+   "id_str": "966744015348658178",
+   "created_at": "Thu Feb 22 18:38:29 +0000 2018",
+   "text": "@knitcodemonkey @kurtiskemple @AdamRackis @Swizec @acemarke @sarah_edo Yeah! My main takeaway from that feedback is… https://t.co/ZfcEFGwc8y",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 966743729812877300,
+   "in_reply_to_status_id_str": "966743729812877312",
+   "in_reply_to_screen_name": "knitcodemonkey",
+   "urls": [
+    {
+     "url": "https://t.co/ZfcEFGwc8y",
+     "expand": "https://twitter.com/i/web/status/966744015348658178"
+    }
+   ]
+  },
+  {
+   "id": 966736815414751200,
+   "id_str": "966736815414751233",
+   "created_at": "Thu Feb 22 18:09:52 +0000 2018",
+   "text": "@AdamRackis @Swizec @knitcodemonkey @acemarke lol, this is now how you respond to people who are eagerly trying to learn Adam.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966735131489853400,
+   "in_reply_to_status_id_str": "966735131489853441",
+   "in_reply_to_screen_name": "AdamRackis",
+   "urls": []
+  },
+  {
+   "id": 966735103228555300,
+   "id_str": "966735103228555269",
+   "created_at": "Thu Feb 22 18:03:04 +0000 2018",
+   "text": "@denvercoder @Cypress_io @fbjest @flowtype @geteslint Can I use this too?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 960752578198843400,
+   "in_reply_to_status_id_str": "960752578198843392",
+   "in_reply_to_screen_name": "denvercoder",
+   "urls": []
+  },
+  {
+   "id": 966732785607233500,
+   "id_str": "966732785607233541",
+   "created_at": "Thu Feb 22 17:53:51 +0000 2018",
+   "text": "@Loptr_Sigyn Yep :-/",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966730995385950200,
+   "in_reply_to_status_id_str": "966730995385950209",
+   "in_reply_to_screen_name": "Loptr_Sigyn",
+   "urls": []
+  },
+  {
+   "id": 966723525351440400,
+   "id_str": "966723525351440384",
+   "created_at": "Thu Feb 22 17:17:03 +0000 2018",
+   "text": "@getify @jhooks @FrontendMasters @eggheadio 👍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966723148430397400,
+   "in_reply_to_status_id_str": "966723148430397440",
+   "in_reply_to_screen_name": "getify",
+   "urls": []
+  },
+  {
+   "id": 966723079438291000,
+   "id_str": "966723079438290946",
+   "created_at": "Thu Feb 22 17:15:17 +0000 2018",
+   "text": "@searls @AgileFaye But don't worry about it. I'm prepared 🦅\n\nThis isn't my first rodeo 😉 https://t.co/DKP8gZduhi",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966722476305735700,
+   "in_reply_to_status_id_str": "966722476305735680",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966722476305735700,
+   "id_str": "966722476305735680",
+   "created_at": "Thu Feb 22 17:12:53 +0000 2018",
+   "text": "@searls @AgileFaye My battery 🔋 https://t.co/GxC9hh0YG6",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 966721952227315700,
+   "in_reply_to_status_id_str": "966721952227315712",
+   "in_reply_to_screen_name": "searls",
+   "urls": []
+  },
+  {
+   "id": 966722332692828200,
+   "id_str": "966722332692828161",
+   "created_at": "Thu Feb 22 17:12:19 +0000 2018",
+   "text": "I love this! Use @geteslint to communicate documentation with custom ESLint plugins! #AssertJS https://t.co/HpAcIBvesH",
+   "retweet_count": 6,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": 966716258770194400,
+   "in_reply_to_status_id_str": "966716258770194432",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966721665836224500,
+   "id_str": "966721665836224514",
+   "created_at": "Thu Feb 22 17:09:40 +0000 2018",
+   "text": "@rachelnabors @fhinkel I am out of context here, but I support this tweet!! GO FRANZISKA!!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966721284737347600,
+   "in_reply_to_status_id_str": "966721284737347585",
+   "in_reply_to_screen_name": "rachelnabors",
+   "urls": []
+  },
+  {
+   "id": 966721372759167000,
+   "id_str": "966721372759166976",
+   "created_at": "Thu Feb 22 17:08:30 +0000 2018",
+   "text": "RT @iamdevloper: wait, wtf is a &lt;link /&gt; tag?",
+   "retweet_count": 89,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966628584453533700,
+    "id_str": "966628584453533696",
+    "created_at": "Thu Feb 22 10:59:48 +0000 2018",
+    "text": "wait, wtf is a &lt;link /&gt; tag?",
+    "retweet_count": 89,
+    "favorite_count": 585,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966720499727458300,
+   "id_str": "966720499727458304",
+   "created_at": "Thu Feb 22 17:05:02 +0000 2018",
+   "text": "@searls I can't wait for your talk! I need to understand your perspective 😀",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966719841968296000,
+   "in_reply_to_status_id_str": "966719841968295936",
+   "in_reply_to_screen_name": "searls",
+   "urls": []
+  },
+  {
+   "id": 966718948929691600,
+   "id_str": "966718948929691648",
+   "created_at": "Thu Feb 22 16:58:52 +0000 2018",
+   "text": "@annavester @assertjs I'll email a link in my newsletter: https://t.co/wX2q7V2oyW 💌",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966718437232791600,
+   "in_reply_to_status_id_str": "966718437232791558",
+   "in_reply_to_screen_name": "annavester",
+   "urls": [
+    {
+     "url": "https://t.co/wX2q7V2oyW",
+     "expand": "http://kcd.im/news"
+    }
+   ]
+  },
+  {
+   "id": 966716817128517600,
+   "id_str": "966716817128517637",
+   "created_at": "Thu Feb 22 16:50:24 +0000 2018",
+   "text": "Hey #AssertJS, here's a spoiler for my talk this afternoon 😊 https://t.co/oNJumL6TyP",
+   "retweet_count": 2,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oNJumL6TyP",
+     "expand": "https://twitter.com/kentcdodds/status/960723172591992832"
+    }
+   ]
+  },
+  {
+   "id": 966716258770194400,
+   "id_str": "966716258770194432",
+   "created_at": "Thu Feb 22 16:48:11 +0000 2018",
+   "text": "This slide is perfect 👏 #AssertJS https://t.co/IDzpGZKRpt",
+   "retweet_count": 8,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": 966715917383229400,
+   "in_reply_to_status_id_str": "966715917383229440",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966715917383229400,
+   "id_str": "966715917383229440",
+   "created_at": "Thu Feb 22 16:46:50 +0000 2018",
+   "text": "Up next is @aaronabramov_ at #AssertJS https://t.co/Jx4WBw43sx",
+   "retweet_count": 3,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": 966709608176914400,
+   "in_reply_to_status_id_str": "966709608176914433",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966713204708606000,
+   "id_str": "966713204708605954",
+   "created_at": "Thu Feb 22 16:36:03 +0000 2018",
+   "text": "RT @aminafoon: This would be so great for login screens for kids. A subtle way to teach them that passwords are secret. https://t.co/vAatAi…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966712374249033700,
+    "id_str": "966712374249033728",
+    "created_at": "Thu Feb 22 16:32:45 +0000 2018",
+    "text": "This would be so great for login screens for kids. A subtle way to teach them that passwords are secret. https://t.co/vAatAiFOxY",
+    "retweet_count": 10,
+    "favorite_count": 43,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vAatAiFOxY",
+      "expand": "https://twitter.com/dsenneff/status/965393299614859265"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966711979372089300,
+   "id_str": "966711979372089350",
+   "created_at": "Thu Feb 22 16:31:11 +0000 2018",
+   "text": "@abritinthebay @PrettierCode @AlexSashaRegan Anecdotally, every place I've dropped that bomb on other engineers it… https://t.co/i0tsoWV3Mw",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966711519605014500,
+   "in_reply_to_status_id_str": "966711519605014529",
+   "in_reply_to_screen_name": "abritinthebay",
+   "urls": [
+    {
+     "url": "https://t.co/i0tsoWV3Mw",
+     "expand": "https://twitter.com/i/web/status/966711979372089350"
+    }
+   ]
+  },
+  {
+   "id": 966711195477663700,
+   "id_str": "966711195477663744",
+   "created_at": "Thu Feb 22 16:28:04 +0000 2018",
+   "text": "@KitKat_US Oh give me a break @KitKat_US 😉\n\nSooooooo goooooood 😊 https://t.co/Qz8EKABlYr",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966709926713323500,
+   "in_reply_to_status_id_str": "966709926713323520",
+   "in_reply_to_screen_name": "KitKat_US",
+   "urls": []
+  },
+  {
+   "id": 966710812273467400,
+   "id_str": "966710812273467393",
+   "created_at": "Thu Feb 22 16:26:32 +0000 2018",
+   "text": "@abritinthebay @PrettierCode @AlexSashaRegan In all seriousness. That's a fair point. But most people care that sty… https://t.co/MrD1iHNk0f",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966710535772364800,
+   "in_reply_to_status_id_str": "966710535772364801",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/MrD1iHNk0f",
+     "expand": "https://twitter.com/i/web/status/966710812273467393"
+    }
+   ]
+  },
+  {
+   "id": 966710535772364800,
+   "id_str": "966710535772364801",
+   "created_at": "Thu Feb 22 16:25:26 +0000 2018",
+   "text": "@abritinthebay @PrettierCode @AlexSashaRegan Then you start adding semicolons everywhere (multiple between lines),… https://t.co/cI0Bt4SA9H",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966709764523745300,
+   "in_reply_to_status_id_str": "966709764523745280",
+   "in_reply_to_screen_name": "abritinthebay",
+   "urls": [
+    {
+     "url": "https://t.co/cI0Bt4SA9H",
+     "expand": "https://twitter.com/i/web/status/966710535772364801"
+    }
+   ]
+  },
+  {
+   "id": 966709608176914400,
+   "id_str": "966709608176914433",
+   "created_at": "Thu Feb 22 16:21:45 +0000 2018",
+   "text": "\"The heros for at their keyboards\" 😅\n- @jlengstorf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966706099826102300,
+   "in_reply_to_status_id_str": "966706099826102273",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966709070882312200,
+   "id_str": "966709070882312192",
+   "created_at": "Thu Feb 22 16:19:37 +0000 2018",
+   "text": "@lukeed05 You minified the name!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966433978281422800,
+   "in_reply_to_status_id_str": "966433978281422848",
+   "in_reply_to_screen_name": "lukeed05",
+   "urls": []
+  },
+  {
+   "id": 966708888035889200,
+   "id_str": "966708888035889152",
+   "created_at": "Thu Feb 22 16:18:54 +0000 2018",
+   "text": "@searls Interestingly, you made the mock/stub/test double naming confusion more confusing by naming your library AND company \"test double\" 😜",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966708456999747600,
+   "in_reply_to_status_id_str": "966708456999747584",
+   "in_reply_to_screen_name": "searls",
+   "urls": []
+  },
+  {
+   "id": 966708266020606000,
+   "id_str": "966708266020605952",
+   "created_at": "Thu Feb 22 16:16:25 +0000 2018",
+   "text": "@searls Also, I'm glad I'm speaking after you 😉",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966708086969978900,
+   "in_reply_to_status_id_str": "966708086969978880",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966708086969978900,
+   "id_str": "966708086969978880",
+   "created_at": "Thu Feb 22 16:15:43 +0000 2018",
+   "text": "@searls I looked at you when this popped up. Nice self control 👌",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966705696812224500,
+   "in_reply_to_status_id_str": "966705696812224512",
+   "in_reply_to_screen_name": "searls",
+   "urls": []
+  },
+  {
+   "id": 966707744681152500,
+   "id_str": "966707744681152512",
+   "created_at": "Thu Feb 22 16:14:21 +0000 2018",
+   "text": "@robdel12 Yes, I do as well, but I don't think my co-workers always are. Also, if I think it's a small change I may… https://t.co/B4XTFrYV9m",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966706816255131600,
+   "in_reply_to_status_id_str": "966706816255131648",
+   "in_reply_to_screen_name": "robdel12",
+   "urls": [
+    {
+     "url": "https://t.co/B4XTFrYV9m",
+     "expand": "https://twitter.com/i/web/status/966707744681152512"
+    }
+   ]
+  },
+  {
+   "id": 966707427398864900,
+   "id_str": "966707427398864896",
+   "created_at": "Thu Feb 22 16:13:05 +0000 2018",
+   "text": "Hey folks at #AssertJS, if you're curious, it's actually not too difficult to migrate to/try out @fbjest with this… https://t.co/HmCcps4TYI",
+   "retweet_count": 4,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HmCcps4TYI",
+     "expand": "https://twitter.com/i/web/status/966707427398864896"
+    }
+   ]
+  },
+  {
+   "id": 966706534204964900,
+   "id_str": "966706534204964865",
+   "created_at": "Thu Feb 22 16:09:32 +0000 2018",
+   "text": "@robdel12 That's true. The reason I like running them locally is because by the time CI fails I've already moved on… https://t.co/uVCGALd3xw",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966705314677608400,
+   "in_reply_to_status_id_str": "966705314677608448",
+   "in_reply_to_screen_name": "robdel12",
+   "urls": [
+    {
+     "url": "https://t.co/uVCGALd3xw",
+     "expand": "https://twitter.com/i/web/status/966706534204964865"
+    }
+   ]
+  },
+  {
+   "id": 966706099826102300,
+   "id_str": "966706099826102273",
+   "created_at": "Thu Feb 22 16:07:49 +0000 2018",
+   "text": "A lot of empathy from what @jlengstorf is saying on this slide ❤️ https://t.co/MITL6xBaHQ",
+   "retweet_count": 2,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 966702585708208100,
+   "in_reply_to_status_id_str": "966702585708208128",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966705168023683100,
+   "id_str": "966705168023683072",
+   "created_at": "Thu Feb 22 16:04:07 +0000 2018",
+   "text": "@robdel12 I'm curious to know why?\n\nIf it's a speed issue, check out jest's feature where it can run only tests imp… https://t.co/ln8anGsLF8",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966701481918386200,
+   "in_reply_to_status_id_str": "966701481918386176",
+   "in_reply_to_screen_name": "robdel12",
+   "urls": [
+    {
+     "url": "https://t.co/ln8anGsLF8",
+     "expand": "https://twitter.com/i/web/status/966705168023683072"
+    }
+   ]
+  },
+  {
+   "id": 966704800627904500,
+   "id_str": "966704800627904520",
+   "created_at": "Thu Feb 22 16:02:39 +0000 2018",
+   "text": "RT @pauldowman: Tons of great advice from @jlengstorf at #AssertJS so far. This one is a gem. https://t.co/ikjpT6bjvR",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966704297554661400,
+    "id_str": "966704297554661376",
+    "created_at": "Thu Feb 22 16:00:39 +0000 2018",
+    "text": "Tons of great advice from @jlengstorf at #AssertJS so far. This one is a gem. https://t.co/ikjpT6bjvR",
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966702585708208100,
+   "id_str": "966702585708208128",
+   "created_at": "Thu Feb 22 15:53:51 +0000 2018",
+   "text": "Slides here: https://t.co/4n7iEJZ3o9",
+   "retweet_count": 2,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": 966701819865989100,
+   "in_reply_to_status_id_str": "966701819865989120",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/4n7iEJZ3o9",
+     "expand": "http://git.io/test-culture"
+    }
+   ]
+  },
+  {
+   "id": 966701973063028700,
+   "id_str": "966701973063028737",
+   "created_at": "Thu Feb 22 15:51:25 +0000 2018",
+   "text": "RT @dan_abramov: Do you have any open source examples of computationally expensive component trees? Something where rendering is the bottle…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966678710186364900,
+    "id_str": "966678710186364928",
+    "created_at": "Thu Feb 22 14:18:59 +0000 2018",
+    "text": "Do you have any open source examples of computationally expensive component trees? Something where rendering is the… https://t.co/xpyee94Cn4",
+    "retweet_count": 11,
+    "favorite_count": 46,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xpyee94Cn4",
+      "expand": "https://twitter.com/i/web/status/966678710186364928"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966701819865989100,
+   "id_str": "966701819865989120",
+   "created_at": "Thu Feb 22 15:50:48 +0000 2018",
+   "text": "slide* 😅🙄",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966701616769454100,
+   "in_reply_to_status_id_str": "966701616769454080",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966701616769454100,
+   "id_str": "966701616769454080",
+   "created_at": "Thu Feb 22 15:50:00 +0000 2018",
+   "text": "This is the best side of the conference so far. Good contender for best side of the whole conference #AssertJS https://t.co/VRwYZs62n2",
+   "retweet_count": 6,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": 966698733319655400,
+   "in_reply_to_status_id_str": "966698733319655424",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966701101033623600,
+   "id_str": "966701101033623553",
+   "created_at": "Thu Feb 22 15:47:57 +0000 2018",
+   "text": "@annavester @assertjs It won't be a high quality recording, but hopefully helpful for those who can't make it to a training like this",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966700912134762500,
+   "in_reply_to_status_id_str": "966700912134762496",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966700912134762500,
+   "id_str": "966700912134762496",
+   "created_at": "Thu Feb 22 15:47:12 +0000 2018",
+   "text": "@annavester @assertjs Yes",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966700444511756300,
+   "in_reply_to_status_id_str": "966700444511756288",
+   "in_reply_to_screen_name": "annavester",
+   "urls": []
+  },
+  {
+   "id": 966698733319655400,
+   "id_str": "966698733319655424",
+   "created_at": "Thu Feb 22 15:38:33 +0000 2018",
+   "text": ".@jlengstorf is kicking us off! #AssertJS https://t.co/QjArsmiNCu",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 966697696378720300,
+   "in_reply_to_status_id_str": "966697696378720259",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966698400107454500,
+   "id_str": "966698400107454464",
+   "created_at": "Thu Feb 22 15:37:13 +0000 2018",
+   "text": "@bitandbang @assertjs Sure!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966697836631932900,
+   "in_reply_to_status_id_str": "966697836631932928",
+   "in_reply_to_screen_name": "bitandbang",
+   "urls": []
+  },
+  {
+   "id": 966698187921686500,
+   "id_str": "966698187921686536",
+   "created_at": "Thu Feb 22 15:36:23 +0000 2018",
+   "text": "@PrettierCode @AlexSashaRegan Tell them they care too much about trivial things that are distracting them from movi… https://t.co/PwJa8m8AfK",
+   "retweet_count": 1,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 966692988477898800,
+   "in_reply_to_status_id_str": "966692988477898754",
+   "in_reply_to_screen_name": "PrettierCode",
+   "urls": [
+    {
+     "url": "https://t.co/PwJa8m8AfK",
+     "expand": "https://twitter.com/i/web/status/966698187921686536"
+    }
+   ]
+  },
+  {
+   "id": 966697894823845900,
+   "id_str": "966697894823845888",
+   "created_at": "Thu Feb 22 15:35:13 +0000 2018",
+   "text": "@sarah_edo @AdamRackis @knitcodemonkey @Swizec @acemarke Wonderful advice! Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966688185320292400,
+   "in_reply_to_status_id_str": "966688185320292352",
+   "in_reply_to_screen_name": "sarah_edo",
+   "urls": []
+  },
+  {
+   "id": 966697696378720300,
+   "id_str": "966697696378720259",
+   "created_at": "Thu Feb 22 15:34:25 +0000 2018",
+   "text": "Getting started at #AssertJS! https://t.co/0sg90tk5vO",
    "retweet_count": 0,
    "favorite_count": 8,
    "place": null,
-   "in_reply_to_status_id": 964693772100603900,
-   "in_reply_to_screen_name": "ken_wheeler",
+   "in_reply_to_status_id": 966696684188307500,
+   "in_reply_to_status_id_str": "966696684188307458",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966697507777544200,
+   "id_str": "966697507777544194",
+   "created_at": "Thu Feb 22 15:33:40 +0000 2018",
+   "text": "RT @GoogleDevExpert: React’s ⚛️ new Context API - why use it? By GDE @kentcdodds https://t.co/H7DGK9XaXA #webgde #React",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/H7DGK9XaXA",
+     "expand": "https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966686130832887800,
+    "id_str": "966686130832887808",
+    "created_at": "Thu Feb 22 14:48:28 +0000 2018",
+    "text": "React’s ⚛️ new Context API - why use it? By GDE @kentcdodds https://t.co/H7DGK9XaXA #webgde #React",
+    "retweet_count": 10,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/H7DGK9XaXA",
+      "expand": "https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966697398406926300,
+   "id_str": "966697398406926336",
+   "created_at": "Thu Feb 22 15:33:14 +0000 2018",
+   "text": "@jhooks @getify +1 to what Joel said. I understand your commitment to Frontend Masters. If you are looking for oppo… https://t.co/TzkeOPSGHx",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966696616122961900,
+   "in_reply_to_status_id_str": "966696616122961920",
+   "in_reply_to_screen_name": "jhooks",
+   "urls": [
+    {
+     "url": "https://t.co/TzkeOPSGHx",
+     "expand": "https://twitter.com/i/web/status/966697398406926336"
+    }
+   ]
+  },
+  {
+   "id": 966696849737429000,
+   "id_str": "966696849737428992",
+   "created_at": "Thu Feb 22 15:31:03 +0000 2018",
+   "text": "RT @getify: here's the deal: i love teaching, writing, speaking, working on OSS projects, trying to launch my startup, building a blockchai…",
+   "retweet_count": 128,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966420090387402800,
+    "id_str": "966420090387402753",
+    "created_at": "Wed Feb 21 21:11:19 +0000 2018",
+    "text": "here's the deal: i love teaching, writing, speaking, working on OSS projects, trying to launch my startup, building… https://t.co/mWin2VY7kq",
+    "retweet_count": 128,
+    "favorite_count": 122,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mWin2VY7kq",
+      "expand": "https://twitter.com/i/web/status/966420090387402753"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966696684188307500,
+   "id_str": "966696684188307458",
+   "created_at": "Thu Feb 22 15:30:24 +0000 2018",
+   "text": "Getting ready for @assertjs this morning! https://t.co/pVuItdrrSM",
+   "retweet_count": 2,
+   "favorite_count": 76,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966684452175966200,
+   "id_str": "966684452175966208",
+   "created_at": "Thu Feb 22 14:41:48 +0000 2018",
+   "text": "RT @jlengstorf: TIL: you can make custom short links through https://t.co/cETRqebnoq using cURL. (Thanks for the tip, @kentcdodds!) https:/…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cETRqebnoq",
+     "expand": "http://git.io"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966683565772738600,
+    "id_str": "966683565772738563",
+    "created_at": "Thu Feb 22 14:38:16 +0000 2018",
+    "text": "TIL: you can make custom short links through https://t.co/cETRqebnoq using cURL. (Thanks for the tip, @kentcdodds!) https://t.co/IjSXTmUroR",
+    "retweet_count": 6,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cETRqebnoq",
+      "expand": "http://git.io"
+     },
+     {
+      "url": "https://t.co/IjSXTmUroR",
+      "expand": "https://github.com/blog/985-git-io-github-url-shortener"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966671583828987900,
+   "id_str": "966671583828987905",
+   "created_at": "Thu Feb 22 13:50:40 +0000 2018",
+   "text": "RT @mipsytipsy: That reminds me ... about a year ago we posted our first open job rec.  Here are some things I have observed since then.\n\n1…",
+   "retweet_count": 320,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966507555433295900,
+    "id_str": "966507555433295872",
+    "created_at": "Thu Feb 22 02:58:52 +0000 2018",
+    "text": "That reminds me ... about a year ago we posted our first open job rec.  Here are some things I have observed since… https://t.co/sldpiKoLOH",
+    "retweet_count": 320,
+    "favorite_count": 1177,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sldpiKoLOH",
+      "expand": "https://twitter.com/i/web/status/966507555433295872"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966667759835861000,
+   "id_str": "966667759835860992",
+   "created_at": "Thu Feb 22 13:35:28 +0000 2018",
+   "text": "@D40B Yeah! That would be super! Might be able to convert the polished Babel plugin to a macro.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966666558121619500,
+   "in_reply_to_status_id_str": "966666558121619456",
+   "in_reply_to_screen_name": "D40B",
+   "urls": []
+  },
+  {
+   "id": 966663152845848600,
+   "id_str": "966663152845848577",
+   "created_at": "Thu Feb 22 13:17:10 +0000 2018",
+   "text": "@farazamiruddin Thanks! I'm glad you like it!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966660301893578800,
+   "in_reply_to_status_id_str": "966660301893578752",
+   "in_reply_to_screen_name": "farazamiruddin",
+   "urls": []
+  },
+  {
+   "id": 966653944020852700,
+   "id_str": "966653944020852736",
+   "created_at": "Thu Feb 22 12:40:34 +0000 2018",
+   "text": "@aureliengeorget I'm not sure actually 🤔 cc @littlecalculist",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966637328906244100,
+   "in_reply_to_status_id_str": "966637328906244099",
+   "in_reply_to_screen_name": "aureliengeorget",
+   "urls": []
+  },
+  {
+   "id": 966653394420150300,
+   "id_str": "966653394420150272",
+   "created_at": "Thu Feb 22 12:38:23 +0000 2018",
+   "text": "RT @eggheadio: Advanced React Component Patterns - #react course by @kentcdodds https://t.co/VhjZTsfLcf https://t.co/rNEgsi5W59",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VhjZTsfLcf",
+     "expand": "http://bit.ly/2CbqWZe"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966634963415240700,
+    "id_str": "966634963415240704",
+    "created_at": "Thu Feb 22 11:25:09 +0000 2018",
+    "text": "Advanced React Component Patterns - #react course by @kentcdodds https://t.co/VhjZTsfLcf https://t.co/rNEgsi5W59",
+    "retweet_count": 11,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VhjZTsfLcf",
+      "expand": "http://bit.ly/2CbqWZe"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966653251839053800,
+   "id_str": "966653251839053824",
+   "created_at": "Thu Feb 22 12:37:49 +0000 2018",
+   "text": "RT @PrettierCode: ✨ New and shiny website! 🎆 https://t.co/mVNquVDqJ6\n\nThanks to @orta, @lucasazzola and everyone else with their feedback.…",
+   "retweet_count": 105,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mVNquVDqJ6",
+     "expand": "https://prettier.io"
+    }
+   ],
+   "retweeted_status": {
+    "id": 960836330157756400,
+    "id_str": "960836330157756418",
+    "created_at": "Tue Feb 06 11:23:27 +0000 2018",
+    "text": "✨ New and shiny website! 🎆 https://t.co/mVNquVDqJ6\n\nThanks to @orta, @lucasazzola and everyone else with their feed… https://t.co/yGzDY9xl5u",
+    "retweet_count": 105,
+    "favorite_count": 432,
+    "place": "Berlin, Deutschland",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mVNquVDqJ6",
+      "expand": "https://prettier.io"
+     },
+     {
+      "url": "https://t.co/yGzDY9xl5u",
+      "expand": "https://twitter.com/i/web/status/960836330157756418"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966653148982075400,
+   "id_str": "966653148982075392",
+   "created_at": "Thu Feb 22 12:37:24 +0000 2018",
+   "text": "@shimst3r This is very true 👍",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966628344635777000,
+   "in_reply_to_status_id_str": "966628344635777027",
+   "in_reply_to_screen_name": "shimst3r",
+   "urls": []
+  },
+  {
+   "id": 966652388605136900,
+   "id_str": "966652388605136896",
+   "created_at": "Thu Feb 22 12:34:23 +0000 2018",
+   "text": "@matt_colman @PrettierCode @glamorousCSS Looks like @ljharb and I need to have it out 👊 😜",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966589839108812800,
+   "in_reply_to_status_id_str": "966589839108812800",
+   "in_reply_to_screen_name": "matt_colman",
+   "urls": []
+  },
+  {
+   "id": 966555452459966500,
+   "id_str": "966555452459966464",
+   "created_at": "Thu Feb 22 06:09:12 +0000 2018",
+   "text": "@BenLesh @_jayphelps @knitcodemonkey @_ojkwon  https://t.co/pjZEMvm8Jv",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966550723818266600,
+   "in_reply_to_status_id_str": "966550723818266630",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966547405813506000,
+   "id_str": "966547405813506048",
+   "created_at": "Thu Feb 22 05:37:13 +0000 2018",
+   "text": "@_jayphelps @BenLesh @knitcodemonkey @_ojkwon Came here to tweet this if it hadn't already been tweeted.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966505605723598800,
+   "in_reply_to_status_id_str": "966505605723598848",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": []
+  },
+  {
+   "id": 966547137118064600,
+   "id_str": "966547137118064641",
+   "created_at": "Thu Feb 22 05:36:09 +0000 2018",
+   "text": "@BenLesh @_jayphelps As soon as a stable version of Node supports ESModules out of the box, I'm immediately publish… https://t.co/cud4I3opfD",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 966479949006716900,
+   "in_reply_to_status_id_str": "966479949006716928",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": [
+    {
+     "url": "https://t.co/cud4I3opfD",
+     "expand": "https://twitter.com/i/web/status/966547137118064641"
+    }
+   ]
+  },
+  {
+   "id": 966546483200831500,
+   "id_str": "966546483200831491",
+   "created_at": "Thu Feb 22 05:33:33 +0000 2018",
+   "text": "@maybekatz Great start! Thanks Katz! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966545952667349000,
+   "in_reply_to_status_id_str": "966545952667348992",
+   "in_reply_to_screen_name": "maybekatz",
+   "urls": []
+  },
+  {
+   "id": 966545561158594600,
+   "id_str": "966545561158594561",
+   "created_at": "Thu Feb 22 05:29:53 +0000 2018",
+   "text": "@maybekatz This is wonderful!\n\nI'm curious how you determine contributors? via github APIs? Or is it those who have… https://t.co/Y3gEdaOeV7",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966529762729455600,
+   "in_reply_to_status_id_str": "966529762729455618",
+   "in_reply_to_screen_name": "maybekatz",
+   "urls": [
+    {
+     "url": "https://t.co/Y3gEdaOeV7",
+     "expand": "https://twitter.com/i/web/status/966545561158594561"
+    }
+   ]
+  },
+  {
+   "id": 966544208050966500,
+   "id_str": "966544208050966528",
+   "created_at": "Thu Feb 22 05:24:31 +0000 2018",
+   "text": "RT @github: Labels just got a lot more meaningful with ✨emoji✨ and descriptions. https://t.co/5OR11lCMXf https://t.co/BGC6soEI6S",
+   "retweet_count": 533,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5OR11lCMXf",
+     "expand": "https://github.com/blog/2505-label-improvements-emoji-descriptions-and-more"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966467599566389200,
+    "id_str": "966467599566389248",
+    "created_at": "Thu Feb 22 00:20:06 +0000 2018",
+    "text": "Labels just got a lot more meaningful with ✨emoji✨ and descriptions. https://t.co/5OR11lCMXf https://t.co/BGC6soEI6S",
+    "retweet_count": 533,
+    "favorite_count": 1464,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5OR11lCMXf",
+      "expand": "https://github.com/blog/2505-label-improvements-emoji-descriptions-and-more"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966543144266489900,
+   "id_str": "966543144266489856",
+   "created_at": "Thu Feb 22 05:20:17 +0000 2018",
+   "text": "@joncalhoun @dsenneff Yep! Big fan of both! I love that this one tracks the user input on the email!\n\nTook a video… https://t.co/GoZBemeTnf",
+   "retweet_count": 16,
+   "favorite_count": 143,
+   "place": null,
+   "in_reply_to_status_id": 966523763109060600,
+   "in_reply_to_status_id_str": "966523763109060608",
+   "in_reply_to_screen_name": "joncalhoun",
+   "urls": [
+    {
+     "url": "https://t.co/GoZBemeTnf",
+     "expand": "https://twitter.com/i/web/status/966543144266489856"
+    }
+   ]
+  },
+  {
+   "id": 966507947173011500,
+   "id_str": "966507947173011456",
+   "created_at": "Thu Feb 22 03:00:26 +0000 2018",
+   "text": "@BigAlsHouse @assertjs Indeed",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966507730935668700,
+   "in_reply_to_status_id_str": "966507730935668737",
+   "in_reply_to_screen_name": "BigAlsHouse",
+   "urls": []
+  },
+  {
+   "id": 966506255769534500,
+   "id_str": "966506255769534464",
+   "created_at": "Thu Feb 22 02:53:42 +0000 2018",
+   "text": "@bentlegen @storybookjs @getsentry Oooooh, nice dropdown you have there! It doesn't happen to use downshift under the hood does it? 🏎",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966451788076347400,
+   "in_reply_to_status_id_str": "966451788076347392",
+   "in_reply_to_screen_name": "bentlegen",
+   "urls": []
+  },
+  {
+   "id": 966505799878172700,
+   "id_str": "966505799878172673",
+   "created_at": "Thu Feb 22 02:51:54 +0000 2018",
+   "text": "RT @bentlegen: We adopted @storybookjs at @getsentry about 8 months ago and it's really  accelerated how we build UI components:  https://t…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966451788076347400,
+    "id_str": "966451788076347392",
+    "created_at": "Wed Feb 21 23:17:16 +0000 2018",
+    "text": "We adopted @storybookjs at @getsentry about 8 months ago and it's really  accelerated how we build UI components:… https://t.co/N3atT5RHwJ",
+    "retweet_count": 14,
+    "favorite_count": 73,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/N3atT5RHwJ",
+      "expand": "https://twitter.com/i/web/status/966451788076347392"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966505597138063400,
+   "id_str": "966505597138063360",
+   "created_at": "Thu Feb 22 02:51:05 +0000 2018",
+   "text": "RT @maybekatz: npm ci is officially out!\n\n✅ ~2-3x faster than `npm install`\n✅ never writes package-lock.json\n✅ always makes sure you have a…",
+   "retweet_count": 178,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966432924127019000,
+    "id_str": "966432924127019008",
+    "created_at": "Wed Feb 21 22:02:19 +0000 2018",
+    "text": "npm ci is officially out!\n\n✅ ~2-3x faster than `npm install`\n✅ never writes package-lock.json\n✅ always makes sure y… https://t.co/IPPTFUez22",
+    "retweet_count": 178,
+    "favorite_count": 371,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IPPTFUez22",
+      "expand": "https://twitter.com/i/web/status/966432924127019008"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966501932398534700,
+   "id_str": "966501932398534657",
+   "created_at": "Thu Feb 22 02:36:32 +0000 2018",
+   "text": "@rachelnabors This gif didn't get nearly enough attention. I mean, the puppy was cute, but then the cat... 😂😍\njust totally does me in.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 966485350217666600,
+   "in_reply_to_status_id_str": "966485350217666560",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966491503421018100,
+   "id_str": "966491503421018112",
+   "created_at": "Thu Feb 22 01:55:05 +0000 2018",
+   "text": "I'm giving a talk tomorrow at @assertjs called \"Write tests. Not too many. Mostly integration.\"\n\nI'm going to pract… https://t.co/DlYwoAjsu3",
+   "retweet_count": 13,
+   "favorite_count": 68,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DlYwoAjsu3",
+     "expand": "https://twitter.com/i/web/status/966491503421018112"
+    }
+   ]
+  },
+  {
+   "id": 966488066390155300,
+   "id_str": "966488066390155264",
+   "created_at": "Thu Feb 22 01:41:26 +0000 2018",
+   "text": "Let's see if we can make another bump in following stats of the @PrettierCode twitter account 😉 https://t.co/QFGaZlNuT5",
+   "retweet_count": 1,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QFGaZlNuT5",
+     "expand": "https://twitter.com/PrettierCode/status/966486391004762113"
+    }
+   ]
+  },
+  {
+   "id": 966486198704275500,
+   "id_str": "966486198704275456",
+   "created_at": "Thu Feb 22 01:34:00 +0000 2018",
+   "text": "@acemarke @knitcodemonkey I WROTE YOU A BOOK ABOUT WORKSHOPS MARK! :P",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966485923042091000,
+   "in_reply_to_status_id_str": "966485923042091008",
+   "in_reply_to_screen_name": "acemarke",
+   "urls": []
+  },
+  {
+   "id": 966485350217666600,
+   "id_str": "966485350217666560",
+   "created_at": "Thu Feb 22 01:30:38 +0000 2018",
+   "text": "@rachelnabors Puppies ok too? I'm getting one soon &lt;3 https://t.co/lvbp10gzwc",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 966484783172796400,
+   "in_reply_to_status_id_str": "966484783172796416",
+   "in_reply_to_screen_name": "rachelnabors",
+   "urls": []
+  },
+  {
+   "id": 966484499063345200,
+   "id_str": "966484499063345152",
+   "created_at": "Thu Feb 22 01:27:15 +0000 2018",
+   "text": "@rachelnabors That's been my problem this whole time!!1!!1!11!!! https://t.co/EEGAvrpgpj",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 966482940279402500,
+   "in_reply_to_status_id_str": "966482940279402496",
+   "in_reply_to_screen_name": "rachelnabors",
+   "urls": []
+  },
+  {
+   "id": 966482675837100000,
+   "id_str": "966482675837100032",
+   "created_at": "Thu Feb 22 01:20:00 +0000 2018",
+   "text": "Actual feedback I got from my workshop today (paraphrased):\n\nPerson 1: \"The exercise was too simplistic. Not real w… https://t.co/eWPZVcs51y",
+   "retweet_count": 34,
+   "favorite_count": 364,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eWPZVcs51y",
+     "expand": "https://twitter.com/i/web/status/966482675837100032"
+    }
+   ]
+  },
+  {
+   "id": 966477364740882400,
+   "id_str": "966477364740882432",
+   "created_at": "Thu Feb 22 00:58:54 +0000 2018",
+   "text": "@jlengstorf @assertjs @pauldowman Sorry, there wasn't. I'm in my hotel practicing one last time and trying to get s… https://t.co/epBm1e62BX",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966476205552750600,
+   "in_reply_to_status_id_str": "966476205552750592",
+   "in_reply_to_screen_name": "jlengstorf",
+   "urls": [
+    {
+     "url": "https://t.co/epBm1e62BX",
+     "expand": "https://twitter.com/i/web/status/966477364740882432"
+    }
+   ]
+  },
+  {
+   "id": 966474739584782300,
+   "id_str": "966474739584782336",
+   "created_at": "Thu Feb 22 00:48:28 +0000 2018",
+   "text": "@Drawman101 Thank you Michael!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966474349879484400,
+   "in_reply_to_status_id_str": "966474349879484416",
+   "in_reply_to_screen_name": "Drawman101",
+   "urls": []
+  },
+  {
+   "id": 966460278606090200,
+   "id_str": "966460278606090242",
+   "created_at": "Wed Feb 21 23:51:01 +0000 2018",
+   "text": "@bradkovach Nope 😜",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966449682737057800,
+   "in_reply_to_status_id_str": "966449682737057792",
+   "in_reply_to_screen_name": "bradkovach",
+   "urls": []
+  },
+  {
+   "id": 966438186309255200,
+   "id_str": "966438186309255174",
+   "created_at": "Wed Feb 21 22:23:13 +0000 2018",
+   "text": "RT @workshop_me: If you're seriously interested in learning functional programming then we've got the weekend workshop for you.\n\nIntroducti…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966437770121027600,
+    "id_str": "966437770121027584",
+    "created_at": "Wed Feb 21 22:21:34 +0000 2018",
+    "text": "If you're seriously interested in learning functional programming then we've got the weekend workshop for you.\n\nInt… https://t.co/cZroOJWuxR",
+    "retweet_count": 4,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cZroOJWuxR",
+      "expand": "https://twitter.com/i/web/status/966437770121027584"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966437831542534100,
+   "id_str": "966437831542534147",
+   "created_at": "Wed Feb 21 22:21:49 +0000 2018",
+   "text": "RT @bahmutov: Testing workshop with @kentcdodds before @assertjs - @be_mann from @Cypress_io is dropping some knowledge! https://t.co/aAqgW…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966435796382306300,
+    "id_str": "966435796382306308",
+    "created_at": "Wed Feb 21 22:13:44 +0000 2018",
+    "text": "Testing workshop with @kentcdodds before @assertjs - @be_mann from @Cypress_io is dropping some knowledge! https://t.co/aAqgWMeric",
+    "retweet_count": 3,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966435312066072600,
+   "id_str": "966435312066072576",
+   "created_at": "Wed Feb 21 22:11:48 +0000 2018",
+   "text": "@mcardleliam @reactnative I'm afraid I don't. I have very little experience with react native",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966434028072194000,
+   "in_reply_to_status_id_str": "966434028072194048",
+   "in_reply_to_screen_name": "mcardleliam",
+   "urls": []
+  },
+  {
+   "id": 966428424867893200,
+   "id_str": "966428424867893248",
+   "created_at": "Wed Feb 21 21:44:26 +0000 2018",
+   "text": "@jlengstorf @searls I think the conference organisers may be planning something for speakers.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966405593362780200,
+   "in_reply_to_status_id_str": "966405593362780160",
+   "in_reply_to_screen_name": "jlengstorf",
+   "urls": []
+  },
+  {
+   "id": 966428270416814100,
+   "id_str": "966428270416814080",
+   "created_at": "Wed Feb 21 21:43:49 +0000 2018",
+   "text": "RT @zealigan: A feature that is way more powerful than I had expected from @fbjest is https://t.co/gWOgas8GZ2 a good example of using this…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gWOgas8GZ2",
+     "expand": "https://facebook.github.io/jest/docs/en/expect.html#tothrowerrormatchingsnapshot"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966395945893023700,
+    "id_str": "966395945893023744",
+    "created_at": "Wed Feb 21 19:35:22 +0000 2018",
+    "text": "A feature that is way more powerful than I had expected from @fbjest is https://t.co/gWOgas8GZ2 a good example of u… https://t.co/Yb4iVOJ5Qm",
+    "retweet_count": 7,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gWOgas8GZ2",
+      "expand": "https://facebook.github.io/jest/docs/en/expect.html#tothrowerrormatchingsnapshot"
+     },
+     {
+      "url": "https://t.co/Yb4iVOJ5Qm",
+      "expand": "https://twitter.com/i/web/status/966395945893023744"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966428174660788200,
+   "id_str": "966428174660788224",
+   "created_at": "Wed Feb 21 21:43:26 +0000 2018",
+   "text": "RT @assertjs: #AssertJS training is well underway! Shout out to @kentcdodds for making us all do squats and ultimately becoming better test…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966395544548577300,
+    "id_str": "966395544548577280",
+    "created_at": "Wed Feb 21 19:33:47 +0000 2018",
+    "text": "#AssertJS training is well underway! Shout out to @kentcdodds for making us all do squats and ultimately becoming b… https://t.co/y550BVgt3C",
+    "retweet_count": 2,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/y550BVgt3C",
+      "expand": "https://twitter.com/i/web/status/966395544548577280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966428101415784400,
+   "id_str": "966428101415784448",
+   "created_at": "Wed Feb 21 21:43:09 +0000 2018",
+   "text": "RT @olitreadwell: Your tests should make your source code better\n\n#AssertJS",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966369095410176000,
+    "id_str": "966369095410176012",
+    "created_at": "Wed Feb 21 17:48:41 +0000 2018",
+    "text": "Your tests should make your source code better\n\n#AssertJS",
+    "retweet_count": 6,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966428053621694500,
+   "id_str": "966428053621694465",
+   "created_at": "Wed Feb 21 21:42:58 +0000 2018",
+   "text": "@lukeed05 @_developit @Swizec @kylemathews And an emoji!",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966415990845091800,
+   "in_reply_to_status_id_str": "966415990845091840",
+   "in_reply_to_screen_name": "lukeed05",
+   "urls": []
+  },
+  {
+   "id": 966427779259658200,
+   "id_str": "966427779259658241",
+   "created_at": "Wed Feb 21 21:41:52 +0000 2018",
+   "text": "Check this out: https://t.co/YPFnE7HLoM",
+   "retweet_count": 7,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YPFnE7HLoM",
+     "expand": "https://blog.instabug.com/2018/02/react-blogs/"
+    }
+   ]
+  },
+  {
+   "id": 966382712994127900,
+   "id_str": "966382712994127872",
+   "created_at": "Wed Feb 21 18:42:47 +0000 2018",
+   "text": "RT @finalformjs: 🥁 In what might be the best javascript library emoji combination ever...\n\n💥 🏎️ Downshift Type-Ahead Example 💥\n\nhttps://t.c…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966381274016477200,
+    "id_str": "966381274016477185",
+    "created_at": "Wed Feb 21 18:37:04 +0000 2018",
+    "text": "🥁 In what might be the best javascript library emoji combination ever...\n\n💥 🏎️ Downshift Type-Ahead Example 💥… https://t.co/uPXzxHzv6K",
+    "retweet_count": 7,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uPXzxHzv6K",
+      "expand": "https://twitter.com/i/web/status/966381274016477185"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966372823915745300,
+   "id_str": "966372823915745280",
+   "created_at": "Wed Feb 21 18:03:30 +0000 2018",
+   "text": "RT @assertjs: Great news! #AssertJS will be recorded and all talks will be posted after the conference - stay tuned for the announcement! 📹",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966357047355826200,
+    "id_str": "966357047355826177",
+    "created_at": "Wed Feb 21 17:00:48 +0000 2018",
+    "text": "Great news! #AssertJS will be recorded and all talks will be posted after the conference - stay tuned for the announcement! 📹",
+    "retweet_count": 10,
+    "favorite_count": 61,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966372784426319900,
+   "id_str": "966372784426319872",
+   "created_at": "Wed Feb 21 18:03:20 +0000 2018",
+   "text": "@assertjs This is wonderful news!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966357047355826200,
+   "in_reply_to_status_id_str": "966357047355826177",
+   "in_reply_to_screen_name": "assertjs",
+   "urls": []
+  },
+  {
+   "id": 966372692319457300,
+   "id_str": "966372692319457292",
+   "created_at": "Wed Feb 21 18:02:58 +0000 2018",
+   "text": "RT @Cypress_io: Training workshop on testing is underway with @kentcdodds today. 🙌 #AssertJS https://t.co/lhop0GpnSu",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966360470977499100,
+    "id_str": "966360470977499136",
+    "created_at": "Wed Feb 21 17:14:25 +0000 2018",
+    "text": "Training workshop on testing is underway with @kentcdodds today. 🙌 #AssertJS https://t.co/lhop0GpnSu",
+    "retweet_count": 5,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966353514275500000,
+   "id_str": "966353514275500034",
+   "created_at": "Wed Feb 21 16:46:46 +0000 2018",
+   "text": "@AfroDevGirl @assertjs Also, I love that you used the word swimmingly. I use that word and people give me funny loo… https://t.co/zmabYv8nr5",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966353330938241000,
+   "in_reply_to_status_id_str": "966353330938241027",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/zmabYv8nr5",
+     "expand": "https://twitter.com/i/web/status/966353514275500034"
+    }
+   ]
+  },
+  {
+   "id": 966353339503038500,
+   "id_str": "966353339503038464",
+   "created_at": "Wed Feb 21 16:46:04 +0000 2018",
+   "text": "RT @AfroDevGirl: 'What is a Javascript even?' - @kentcdodds Things are going swimingly at the @assertjs training day. I've already built a…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966343387774406700,
+    "id_str": "966343387774406656",
+    "created_at": "Wed Feb 21 16:06:32 +0000 2018",
+    "text": "'What is a Javascript even?' - @kentcdodds Things are going swimingly at the @assertjs training day. I've already b… https://t.co/jdBLqIgleS",
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jdBLqIgleS",
+      "expand": "https://twitter.com/i/web/status/966343387774406656"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966353330938241000,
+   "id_str": "966353330938241027",
+   "created_at": "Wed Feb 21 16:46:02 +0000 2018",
+   "text": "@AfroDevGirl @assertjs Awesome!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966343387774406700,
+   "in_reply_to_status_id_str": "966343387774406656",
+   "in_reply_to_screen_name": "AfroDevGirl",
+   "urls": []
+  },
+  {
+   "id": 966338860253884400,
+   "id_str": "966338860253884418",
+   "created_at": "Wed Feb 21 15:48:32 +0000 2018",
+   "text": "@trevordmiller @Vjeux @jlongster @tpope Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966338474067578900,
+   "in_reply_to_status_id_str": "966338474067578880",
+   "in_reply_to_screen_name": "trevordmiller",
+   "urls": []
+  },
+  {
+   "id": 966338846534357000,
+   "id_str": "966338846534356992",
+   "created_at": "Wed Feb 21 15:48:29 +0000 2018",
+   "text": "RT @trevordmiller: I owe so much to open source. A few special authors I have to give props to:\n- @Vjeux and @jlongster for Prettier\n- @ken…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966338474067578900,
+    "id_str": "966338474067578880",
+    "created_at": "Wed Feb 21 15:47:00 +0000 2018",
+    "text": "I owe so much to open source. A few special authors I have to give props to:\n- @Vjeux and @jlongster for Prettier\n-… https://t.co/wZvTMyGaGF",
+    "retweet_count": 4,
+    "favorite_count": 70,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wZvTMyGaGF",
+      "expand": "https://twitter.com/i/web/status/966338474067578880"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966338772035080200,
+   "id_str": "966338772035080194",
+   "created_at": "Wed Feb 21 15:48:11 +0000 2018",
+   "text": "@iddan @acdlite @dan_abramov @reactjs I'm workshopping today. Will give it a look later 👍",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966333274980315100,
+   "in_reply_to_status_id_str": "966333274980315142",
+   "in_reply_to_screen_name": "iddan",
+   "urls": []
+  },
+  {
+   "id": 966338550584217600,
+   "id_str": "966338550584217602",
+   "created_at": "Wed Feb 21 15:47:18 +0000 2018",
+   "text": "RT @MrAhmadAwais: 🔥#React folks seriously try out the new Context API w/ render props.\n\n👉 import { createContext } from 'react'\n\n🛠 Props dr…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966335993774256100,
+    "id_str": "966335993774256128",
+    "created_at": "Wed Feb 21 15:37:09 +0000 2018",
+    "text": "🔥#React folks seriously try out the new Context API w/ render props.\n\n👉 import { createContext } from 'react'\n\n🛠 Pr… https://t.co/flw39Knzo7",
+    "retweet_count": 16,
+    "favorite_count": 37,
+    "place": null,
+    "in_reply_to_status_id": 965973722120237000,
+    "in_reply_to_status_id_str": "965973722120237056",
+    "in_reply_to_screen_name": "MrAhmadAwais",
+    "urls": [
+     {
+      "url": "https://t.co/flw39Knzo7",
+      "expand": "https://twitter.com/i/web/status/966335993774256128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966322293235421200,
+   "id_str": "966322293235421184",
+   "created_at": "Wed Feb 21 14:42:42 +0000 2018",
+   "text": "@henry_haydenko Cool!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966313103108575200,
+   "in_reply_to_status_id_str": "966313103108575232",
+   "in_reply_to_screen_name": "henry_haydenko",
+   "urls": []
+  },
+  {
+   "id": 966322281898266600,
+   "id_str": "966322281898266624",
+   "created_at": "Wed Feb 21 14:42:40 +0000 2018",
+   "text": "RT @henry_haydenko: @kentcdodds I am a junior dev, wrote this little package after reading your blog post on React's new context api. Thank…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966313103108575200,
+    "id_str": "966313103108575232",
+    "created_at": "Wed Feb 21 14:06:11 +0000 2018",
+    "text": "@kentcdodds I am a junior dev, wrote this little package after reading your blog post on React's new context api. T… https://t.co/DuVh6V6aQw",
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": "kentcdodds",
+    "urls": [
+     {
+      "url": "https://t.co/DuVh6V6aQw",
+      "expand": "https://twitter.com/i/web/status/966313103108575232"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966287925305593900,
+   "id_str": "966287925305593856",
+   "created_at": "Wed Feb 21 12:26:08 +0000 2018",
+   "text": "RT @maybekatz: the new package pages that are coming to the npm website are so fucking gorgeous i wanna cry i love our web/design team so m…",
+   "retweet_count": 104,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966076555708399600,
+    "id_str": "966076555708399616",
+    "created_at": "Tue Feb 20 22:26:14 +0000 2018",
+    "text": "the new package pages that are coming to the npm website are so fucking gorgeous i wanna cry i love our web/design… https://t.co/WhRMCHQut8",
+    "retweet_count": 104,
+    "favorite_count": 395,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WhRMCHQut8",
+      "expand": "https://twitter.com/i/web/status/966076555708399616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966287552608161800,
+   "id_str": "966287552608161792",
+   "created_at": "Wed Feb 21 12:24:39 +0000 2018",
+   "text": "RT @Rich_Harris: Dev Twitter, are there any alternatives to node-canvas? I need to draw simple graphics in Node, preferably without all the…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966033086113820700,
+    "id_str": "966033086113820678",
+    "created_at": "Tue Feb 20 19:33:30 +0000 2018",
+    "text": "Dev Twitter, are there any alternatives to node-canvas? I need to draw simple graphics in Node, preferably without… https://t.co/VnMA4o3OX5",
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VnMA4o3OX5",
+      "expand": "https://twitter.com/i/web/status/966033086113820678"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966287359145922600,
+   "id_str": "966287359145922560",
+   "created_at": "Wed Feb 21 12:23:53 +0000 2018",
+   "text": "RT @mtmcgann: Flight delayed by 14 hours. \n\nAnd I’m in Hawaii. \n\nShucks. \n\n🏝",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966070653592858600,
+    "id_str": "966070653592858624",
+    "created_at": "Tue Feb 20 22:02:47 +0000 2018",
+    "text": "Flight delayed by 14 hours. \n\nAnd I’m in Hawaii. \n\nShucks. \n\n🏝",
+    "retweet_count": 3,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966286222552387600,
+   "id_str": "966286222552387586",
+   "created_at": "Wed Feb 21 12:19:22 +0000 2018",
+   "text": "@t_rahulthampi @GrayHat007 @reactjs Have you seen this yet? Pretty good place to start I think: https://t.co/uEA2La2owi",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966285318121914400,
+   "in_reply_to_status_id_str": "966285318121914368",
+   "in_reply_to_screen_name": "t_rahulthampi",
+   "urls": [
+    {
+     "url": "https://t.co/uEA2La2owi",
+     "expand": "https://medium.com/dailyjs/reacts--new-context-api-70c9fe01596b"
+    }
+   ]
+  },
+  {
+   "id": 966285967333253100,
+   "id_str": "966285967333253120",
+   "created_at": "Wed Feb 21 12:18:21 +0000 2018",
+   "text": "@t_rahulthampi That feeling when @t_rahulthampi likes your reply https://t.co/rrP1D9Gnoa",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966284822103580700,
+   "in_reply_to_status_id_str": "966284822103580673",
+   "in_reply_to_screen_name": "t_rahulthampi",
+   "urls": []
+  },
+  {
+   "id": 966280284793647100,
+   "id_str": "966280284793647105",
+   "created_at": "Wed Feb 21 11:55:47 +0000 2018",
+   "text": "@thekitze @mxstbr @_philpl It doesn't currently work well because nobody who had the use case cared to take the tim… https://t.co/g38gIud5pl",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966280025858347000,
+   "in_reply_to_status_id_str": "966280025858347008",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/g38gIud5pl",
+     "expand": "https://twitter.com/i/web/status/966280284793647105"
+    }
+   ]
+  },
+  {
+   "id": 966280025858347000,
+   "id_str": "966280025858347008",
+   "created_at": "Wed Feb 21 11:54:45 +0000 2018",
+   "text": "@thekitze @mxstbr @_philpl I'm also laughing",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966255661268037600,
+   "in_reply_to_status_id_str": "966255661268037633",
+   "in_reply_to_screen_name": "thekitze",
+   "urls": []
+  },
+  {
+   "id": 966279709117034500,
+   "id_str": "966279709117034497",
+   "created_at": "Wed Feb 21 11:53:29 +0000 2018",
+   "text": "RT @mweststrate: @kentcdodds @FWeinb @tkh44 @cerebraljs @bmeurer Proxies are crazy fast and there seems no reason anymore to worry about th…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966125305923604500,
+    "id_str": "966125305923604481",
+    "created_at": "Wed Feb 21 01:39:57 +0000 2018",
+    "text": "@kentcdodds @FWeinb @tkh44 @cerebraljs @bmeurer Proxies are crazy fast and there seems no reason anymore to worry a… https://t.co/QitnVrhma4",
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": 966080992904667100,
+    "in_reply_to_status_id_str": "966080992904667136",
+    "in_reply_to_screen_name": "kentcdodds",
+    "urls": [
+     {
+      "url": "https://t.co/QitnVrhma4",
+      "expand": "https://twitter.com/i/web/status/966125305923604481"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966279621917532200,
+   "id_str": "966279621917532162",
+   "created_at": "Wed Feb 21 11:53:09 +0000 2018",
+   "text": "@t_rahulthampi @reactjs I'm a few steps behind @_chenglou, @ryanflorence, and @mjackson 😅  But I'm glad you're trying it!!",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966209579746029600,
+   "in_reply_to_status_id_str": "966209579746029570",
+   "in_reply_to_screen_name": "t_rahulthampi",
+   "urls": []
+  },
+  {
+   "id": 966279236750364700,
+   "id_str": "966279236750364672",
+   "created_at": "Wed Feb 21 11:51:37 +0000 2018",
+   "text": "@amit_tushar @ryanflorence @mjackson This is the compound components pattern (also cool), not FAC :) If it were FAC… https://t.co/4Zjv5rVc2E",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966158231784403000,
+   "in_reply_to_status_id_str": "966158231784402944",
+   "in_reply_to_screen_name": "amit_tushar",
+   "urls": [
+    {
+     "url": "https://t.co/4Zjv5rVc2E",
+     "expand": "https://twitter.com/i/web/status/966279236750364672"
+    }
+   ]
+  },
+  {
+   "id": 966167042008240100,
+   "id_str": "966167042008240128",
+   "created_at": "Wed Feb 21 04:25:47 +0000 2018",
+   "text": "RT @tomdale: Can we agree that, in 2018, human-readable \"View Source\" is a constraint the web can discard? I benefitted from \"View Source\"…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965681976199077900,
+    "id_str": "965681976199077889",
+    "created_at": "Mon Feb 19 20:18:19 +0000 2018",
+    "text": "Can we agree that, in 2018, human-readable \"View Source\" is a constraint the web can discard? I benefitted from \"Vi… https://t.co/8ERRsSyOvV",
+    "retweet_count": 39,
+    "favorite_count": 330,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8ERRsSyOvV",
+      "expand": "https://twitter.com/i/web/status/965681976199077889"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966152095182282800,
+   "id_str": "966152095182282752",
+   "created_at": "Wed Feb 21 03:26:24 +0000 2018",
+   "text": "@amit_tushar Super!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966149417618337800,
+   "in_reply_to_status_id_str": "966149417618337792",
+   "in_reply_to_screen_name": "amit_tushar",
+   "urls": []
+  },
+  {
+   "id": 966152036063604700,
+   "id_str": "966152036063604736",
+   "created_at": "Wed Feb 21 03:26:10 +0000 2018",
+   "text": "RT @amit_tushar: Finally got the time to play around with render props, function as children and custom Providers using the new Context Api…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966149417618337800,
+    "id_str": "966149417618337792",
+    "created_at": "Wed Feb 21 03:15:46 +0000 2018",
+    "text": "Finally got the time to play around with render props, function as children and custom Providers using the new Cont… https://t.co/lHxCggQVCC",
+    "retweet_count": 15,
+    "favorite_count": 63,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lHxCggQVCC",
+      "expand": "https://twitter.com/i/web/status/966149417618337792"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966151952093663200,
+   "id_str": "966151952093663237",
+   "created_at": "Wed Feb 21 03:25:50 +0000 2018",
+   "text": "@sompylasar @mjackson @pshrmn I learned that pattern from @ryanflorence 😉",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966149122951594000,
+   "in_reply_to_status_id_str": "966149122951593985",
+   "in_reply_to_screen_name": "sompylasar",
+   "urls": []
+  },
+  {
+   "id": 966148311102181400,
+   "id_str": "966148311102181377",
+   "created_at": "Wed Feb 21 03:11:22 +0000 2018",
+   "text": "RT @lenymo: Just discovered the @eggheadio podcast. There are some great guests / topics on here talking about all things JavaScript. Will…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966146788888473600,
+    "id_str": "966146788888473601",
+    "created_at": "Wed Feb 21 03:05:19 +0000 2018",
+    "text": "Just discovered the @eggheadio podcast. There are some great guests / topics on here talking about all things JavaS… https://t.co/uLsZ2B0WUH",
+    "retweet_count": 10,
+    "favorite_count": 46,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uLsZ2B0WUH",
+      "expand": "https://twitter.com/i/web/status/966146788888473601"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966144783927390200,
+   "id_str": "966144783927390208",
+   "created_at": "Wed Feb 21 02:57:21 +0000 2018",
+   "text": "RT @captbaritone: It's done! 🎉 Winamp2-js (https://t.co/BtfXzKsJYH) finally supports all three windows!\n\nTo celebrate, here's a list of som…",
+   "retweet_count": 3101,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BtfXzKsJYH",
+     "expand": "https://jordaneldredge.com/projects/winamp2-js/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 961274714013319200,
+    "id_str": "961274714013319168",
+    "created_at": "Wed Feb 07 16:25:26 +0000 2018",
+    "text": "It's done! 🎉 Winamp2-js (https://t.co/BtfXzKsJYH) finally supports all three windows!\n\nTo celebrate, here's a list… https://t.co/mOhmSq0sB4",
+    "retweet_count": 3101,
+    "favorite_count": 6156,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/BtfXzKsJYH",
+      "expand": "https://jordaneldredge.com/projects/winamp2-js/"
+     },
+     {
+      "url": "https://t.co/mOhmSq0sB4",
+      "expand": "https://twitter.com/i/web/status/961274714013319168"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966132773076570100,
+   "id_str": "966132773076570112",
+   "created_at": "Wed Feb 21 02:09:37 +0000 2018",
+   "text": "@macklinu @xjamundx @flowtype Yep, that's what I was describing. I think this is where I landed as well.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966132085445468200,
+   "in_reply_to_status_id_str": "966132085445468162",
+   "in_reply_to_screen_name": "macklinu",
+   "urls": []
+  },
+  {
+   "id": 966129917850210300,
+   "id_str": "966129917850210305",
+   "created_at": "Wed Feb 21 01:58:16 +0000 2018",
+   "text": "@mweststrate @FWeinb @tkh44 @cerebraljs @bmeurer NICE! I do remember hearing that they were slow early on. I guess… https://t.co/7NWImmtUCe",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966126321104539600,
+   "in_reply_to_status_id_str": "966126321104539649",
+   "in_reply_to_screen_name": "mweststrate",
+   "urls": [
+    {
+     "url": "https://t.co/7NWImmtUCe",
+     "expand": "https://twitter.com/i/web/status/966129917850210305"
+    }
+   ]
+  },
+  {
+   "id": 966127777882824700,
+   "id_str": "966127777882824705",
+   "created_at": "Wed Feb 21 01:49:46 +0000 2018",
+   "text": "@xjamundx @flowtype Not cool that you'd have to do the if statement though 🤔 seems like that shouldn't be required at all...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966127646575865900,
+   "in_reply_to_status_id_str": "966127646575865860",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966127646575865900,
+   "id_str": "966127646575865860",
+   "created_at": "Wed Feb 21 01:49:15 +0000 2018",
+   "text": "@xjamundx @flowtype I feel like I remember seeing somewhere that flow isn't certain what happens to `document.body`… https://t.co/0LeFOLjrGN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966035841083621400,
+   "in_reply_to_status_id_str": "966035841083621376",
+   "in_reply_to_screen_name": "xjamundx",
+   "urls": [
+    {
+     "url": "https://t.co/0LeFOLjrGN",
+     "expand": "https://twitter.com/i/web/status/966127646575865860"
+    }
+   ]
+  },
+  {
+   "id": 966094704361304000,
+   "id_str": "966094704361304064",
+   "created_at": "Tue Feb 20 23:38:21 +0000 2018",
+   "text": "Wow. @NelsonRussellM is 93 years old and will be touring Europe, Africa, and Asia in one month. 😮 https://t.co/7hWnSTIaqv",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7hWnSTIaqv",
+     "expand": "https://twitter.com/MormonNewsroom/status/966053641281925120"
+    }
+   ]
+  },
+  {
+   "id": 966088637799698400,
+   "id_str": "966088637799698433",
+   "created_at": "Tue Feb 20 23:14:14 +0000 2018",
+   "text": "RT @flowtype: Flow 0.66 introduces a new error message format for the JavaScript ecosystem. See any new errors you particularly like? Send…",
+   "retweet_count": 106,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966027308850032600,
+    "id_str": "966027308850032640",
+    "created_at": "Tue Feb 20 19:10:33 +0000 2018",
+    "text": "Flow 0.66 introduces a new error message format for the JavaScript ecosystem. See any new errors you particularly l… https://t.co/iXaAkddmpF",
+    "retweet_count": 106,
+    "favorite_count": 323,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iXaAkddmpF",
+      "expand": "https://twitter.com/i/web/status/966027308850032640"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966086653591908400,
+   "id_str": "966086653591908352",
+   "created_at": "Tue Feb 20 23:06:21 +0000 2018",
+   "text": "It was Halloween. I got home from elementary school and nobody was home. I decided to go trick-or-treating. Got a k… https://t.co/YvcSS3eFKy",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YvcSS3eFKy",
+     "expand": "https://twitter.com/i/web/status/966086653591908352"
+    }
+   ]
+  },
+  {
+   "id": 966083143324315600,
+   "id_str": "966083143324315648",
+   "created_at": "Tue Feb 20 22:52:24 +0000 2018",
+   "text": "@FrontendMasters @nnja 👏",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966057481737855000,
+   "in_reply_to_status_id_str": "966057481737854976",
+   "in_reply_to_screen_name": "FrontendMasters",
+   "urls": []
+  },
+  {
+   "id": 966083114899595300,
+   "id_str": "966083114899595269",
+   "created_at": "Tue Feb 20 22:52:18 +0000 2018",
+   "text": "RT @FrontendMasters: 🅽🅴🆆 “Git In-Depth” course by @nnja, who breaks down Git’s design philosophies and internal workings, making them strai…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966057481737855000,
+    "id_str": "966057481737854976",
+    "created_at": "Tue Feb 20 21:10:26 +0000 2018",
+    "text": "🅽🅴🆆 “Git In-Depth” course by @nnja, who breaks down Git’s design philosophies and internal workings, making them st… https://t.co/mojpNk40eQ",
+    "retweet_count": 11,
+    "favorite_count": 64,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mojpNk40eQ",
+      "expand": "https://twitter.com/i/web/status/966057481737854976"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966080992904667100,
+   "id_str": "966080992904667136",
+   "created_at": "Tue Feb 20 22:43:52 +0000 2018",
+   "text": "@FWeinb @tkh44 @cerebraljs @bmeurer have things changed? Or are proxies still really slow and hard to optimize?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966079288486309900,
+   "in_reply_to_status_id_str": "966079288486309888",
+   "in_reply_to_screen_name": "FWeinb",
+   "urls": []
+  },
+  {
+   "id": 966067810366558200,
+   "id_str": "966067810366558219",
+   "created_at": "Tue Feb 20 21:51:29 +0000 2018",
+   "text": "RT @sgrove: Ok, had to record a quick vid showing off what @graphql and @reasonml looks like inside an editor. Super slick - Beautiful serv…",
+   "retweet_count": 40,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966061056308031500,
+    "id_str": "966061056308031488",
+    "created_at": "Tue Feb 20 21:24:39 +0000 2018",
+    "text": "Ok, had to record a quick vid showing off what @graphql and @reasonml looks like inside an editor. Super slick - Be… https://t.co/yaENijjLG3",
+    "retweet_count": 40,
+    "favorite_count": 108,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yaENijjLG3",
+      "expand": "https://twitter.com/i/web/status/966061056308031488"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966066894997479400,
+   "id_str": "966066894997479424",
+   "created_at": "Tue Feb 20 21:47:51 +0000 2018",
+   "text": "@kyleshevlin @FormidableLabs Congrats!!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966025524433756200,
+   "in_reply_to_status_id_str": "966025524433756160",
+   "in_reply_to_screen_name": "kyleshevlin",
+   "urls": []
+  },
+  {
+   "id": 966048643127136300,
+   "id_str": "966048643127136258",
+   "created_at": "Tue Feb 20 20:35:19 +0000 2018",
+   "text": "@xjamundx Bad tweet 😅 not quite what I meant",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966047906191913000,
+   "in_reply_to_status_id_str": "966047906191912960",
+   "in_reply_to_screen_name": "xjamundx",
+   "urls": []
+  },
+  {
+   "id": 966048554807590900,
+   "id_str": "966048554807590912",
+   "created_at": "Tue Feb 20 20:34:58 +0000 2018",
+   "text": "@thymikee Bad tweet 😅 not quite what I meant",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966048224707530800,
+   "in_reply_to_status_id_str": "966048224707530753",
+   "in_reply_to_screen_name": "thymikee",
+   "urls": []
+  },
+  {
+   "id": 966047400627490800,
+   "id_str": "966047400627490822",
+   "created_at": "Tue Feb 20 20:30:23 +0000 2018",
+   "text": "@MrHasanabas Functions are also technically faster... Though probably not by much to make a big difference most of the time...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966047259828899800,
+   "in_reply_to_status_id_str": "966047259828899840",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966047259828899800,
+   "id_str": "966047259828899840",
+   "created_at": "Tue Feb 20 20:29:49 +0000 2018",
+   "text": "@MrHasanabas It depends. If you need lifecycle hooks than you can only use classes. If you don't then functions are… https://t.co/Sqc3i9A55b",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966046726309195800,
+   "in_reply_to_status_id_str": "966046726309195782",
+   "in_reply_to_screen_name": "MrHasanabas",
+   "urls": [
+    {
+     "url": "https://t.co/Sqc3i9A55b",
+     "expand": "https://twitter.com/i/web/status/966047259828899840"
+    }
+   ]
+  },
+  {
+   "id": 966045014232064000,
+   "id_str": "966045014232064001",
+   "created_at": "Tue Feb 20 20:20:54 +0000 2018",
+   "text": "@MrHasanabas Yep, you can create a component with either",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966023945328742400,
+   "in_reply_to_status_id_str": "966023945328742400",
+   "in_reply_to_screen_name": "MrHasanabas",
+   "urls": []
+  },
+  {
+   "id": 966006640607510500,
+   "id_str": "966006640607510528",
+   "created_at": "Tue Feb 20 17:48:25 +0000 2018",
+   "text": "RT @dhh: The sad part about “best practices” is the number of programmers who think that’s the end of the line of learning. No wonder it’s…",
+   "retweet_count": 96,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965610234663264300,
+    "id_str": "965610234663264256",
+    "created_at": "Mon Feb 19 15:33:14 +0000 2018",
+    "text": "The sad part about “best practices” is the number of programmers who think that’s the end of the line of learning.… https://t.co/uceNggmehg",
+    "retweet_count": 96,
+    "favorite_count": 372,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uceNggmehg",
+      "expand": "https://twitter.com/i/web/status/965610234663264256"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966006427562131500,
+   "id_str": "966006427562131456",
+   "created_at": "Tue Feb 20 17:47:34 +0000 2018",
+   "text": "RT @rileyflorence0: With the @LeapMotion in #VR your music can always match your mood. https://t.co/j970aU07NC",
+   "retweet_count": 27,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965772474238623700,
+    "id_str": "965772474238623744",
+    "created_at": "Tue Feb 20 02:17:55 +0000 2018",
+    "text": "With the @LeapMotion in #VR your music can always match your mood. https://t.co/j970aU07NC",
+    "retweet_count": 27,
+    "favorite_count": 72,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966005368999460900,
+   "id_str": "966005368999460864",
+   "created_at": "Tue Feb 20 17:43:22 +0000 2018",
+   "text": "RT @workshop_me: We've found a \"home\" at @trulia for @kentcdodds'ses San Francisco workshops in April.\n\nMon 3/26 - JS Testing:\nhttps://t.co…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966005172290732000,
+    "id_str": "966005172290732032",
+    "created_at": "Tue Feb 20 17:42:35 +0000 2018",
+    "text": "We've found a \"home\" at @trulia for @kentcdodds'ses San Francisco workshops in April.\n\nMon 3/26 - JS Testing:… https://t.co/0gA2hb599t",
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0gA2hb599t",
+      "expand": "https://twitter.com/i/web/status/966005172290732032"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966005264053805000,
+   "id_str": "966005264053805056",
+   "created_at": "Tue Feb 20 17:42:57 +0000 2018",
+   "text": "RT @ryanflorence: And really I'm saying get rid of the airbnb lint config.\n\nUse Prettier\nhttps://t.co/w7t005IxlU\n\nUse ESLint Config React A…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/w7t005IxlU",
+     "expand": "https://prettier.io/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965995739070386200,
+    "id_str": "965995739070386176",
+    "created_at": "Tue Feb 20 17:05:06 +0000 2018",
+    "text": "And really I'm saying get rid of the airbnb lint config.\n\nUse Prettier\nhttps://t.co/w7t005IxlU\n\nUse ESLint Config R… https://t.co/Jr1ht01TDl",
+    "retweet_count": 36,
+    "favorite_count": 139,
+    "place": null,
+    "in_reply_to_status_id": 965992481765474300,
+    "in_reply_to_status_id_str": "965992481765474310",
+    "in_reply_to_screen_name": "ryanflorence",
+    "urls": [
+     {
+      "url": "https://t.co/w7t005IxlU",
+      "expand": "https://prettier.io/"
+     },
+     {
+      "url": "https://t.co/Jr1ht01TDl",
+      "expand": "https://twitter.com/i/web/status/965995739070386176"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966005224774107100,
+   "id_str": "966005224774107137",
+   "created_at": "Tue Feb 20 17:42:47 +0000 2018",
+   "text": "RT @ryanflorence: Your periodic reminder to turn off linting rules (or start a programmer fight with your \"senior developer\" who turned it…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965992481765474300,
+    "id_str": "965992481765474310",
+    "created_at": "Tue Feb 20 16:52:09 +0000 2018",
+    "text": "Your periodic reminder to turn off linting rules (or start a programmer fight with your \"senior developer\" who turn… https://t.co/MbZ81qiA9F",
+    "retweet_count": 15,
+    "favorite_count": 87,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MbZ81qiA9F",
+      "expand": "https://twitter.com/i/web/status/965992481765474310"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966005007941185500,
+   "id_str": "966005007941185536",
+   "created_at": "Tue Feb 20 17:41:56 +0000 2018",
+   "text": "RT @ABCPolitics: ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on his arm.…",
+   "retweet_count": 72730,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965711747419115500,
+    "id_str": "965711747419115522",
+    "created_at": "Mon Feb 19 22:16:37 +0000 2018",
+    "text": "ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on h… https://t.co/boeBgtXNE0",
+    "retweet_count": 72730,
+    "favorite_count": 201707,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/boeBgtXNE0",
+      "expand": "https://twitter.com/i/web/status/965711747419115522"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966004242119970800,
+   "id_str": "966004242119970816",
+   "created_at": "Tue Feb 20 17:38:53 +0000 2018",
+   "text": "RT @ryanflorence: If all we use are best practices where will we get new practices? 🤷🏼‍♂️",
+   "retweet_count": 71,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 868246917435854800,
+    "id_str": "868246917435854848",
+    "created_at": "Fri May 26 23:26:11 +0000 2017",
+    "text": "If all we use are best practices where will we get new practices? 🤷🏼‍♂️",
+    "retweet_count": 71,
+    "favorite_count": 202,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965990851015974900,
+   "id_str": "965990851015974912",
+   "created_at": "Tue Feb 20 16:45:40 +0000 2018",
+   "text": "RT @tlakomy: Using webpack for my \"hello world\" app https://t.co/MmnXTl0ebw",
+   "retweet_count": 1057,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965864291500019700,
+    "id_str": "965864291500019712",
+    "created_at": "Tue Feb 20 08:22:46 +0000 2018",
+    "text": "Using webpack for my \"hello world\" app https://t.co/MmnXTl0ebw",
+    "retweet_count": 1057,
+    "favorite_count": 3127,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965990554419867600,
+   "id_str": "965990554419867648",
+   "created_at": "Tue Feb 20 16:44:30 +0000 2018",
+   "text": "@sehurlburt You're not alone here.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 965856945268670500,
+   "in_reply_to_status_id_str": "965856945268670464",
+   "in_reply_to_screen_name": "sehurlburt",
+   "urls": []
+  },
+  {
+   "id": 965990425193365500,
+   "id_str": "965990425193365504",
+   "created_at": "Tue Feb 20 16:43:59 +0000 2018",
+   "text": "RT @sehurlburt: If I see a tech events at a bar, it’s an immediate “No.” If it’s at an office or something but alcohol’s provided, I’ll onl…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965856945268670500,
+    "id_str": "965856945268670464",
+    "created_at": "Tue Feb 20 07:53:35 +0000 2018",
+    "text": "If I see a tech events at a bar, it’s an immediate “No.” If it’s at an office or something but alcohol’s provided,… https://t.co/PzS0BXXzEf",
+    "retweet_count": 14,
+    "favorite_count": 158,
+    "place": null,
+    "in_reply_to_status_id": 965855841504002000,
+    "in_reply_to_status_id_str": "965855841504002048",
+    "in_reply_to_screen_name": "sehurlburt",
+    "urls": [
+     {
+      "url": "https://t.co/PzS0BXXzEf",
+      "expand": "https://twitter.com/i/web/status/965856945268670464"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965990336563527700,
+   "id_str": "965990336563527680",
+   "created_at": "Tue Feb 20 16:43:38 +0000 2018",
+   "text": "RT @sehurlburt: I went to a bar via a tech event for the first time in about a year recently. I don’t drink. It was just awkward and uncomf…",
+   "retweet_count": 70,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965855841504002000,
+    "id_str": "965855841504002048",
+    "created_at": "Tue Feb 20 07:49:12 +0000 2018",
+    "text": "I went to a bar via a tech event for the first time in about a year recently. I don’t drink. It was just awkward an… https://t.co/dvSjFUG7kB",
+    "retweet_count": 70,
+    "favorite_count": 642,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dvSjFUG7kB",
+      "expand": "https://twitter.com/i/web/status/965855841504002048"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965990144753807400,
+   "id_str": "965990144753807360",
+   "created_at": "Tue Feb 20 16:42:52 +0000 2018",
+   "text": "@tkh44 @cerebraljs Very cool! This could be useful for localization as well!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965830206635229200,
+   "in_reply_to_status_id_str": "965830206635229184",
+   "in_reply_to_screen_name": "tkh44",
+   "urls": []
+  },
+  {
+   "id": 965990042886811600,
+   "id_str": "965990042886811648",
+   "created_at": "Tue Feb 20 16:42:28 +0000 2018",
+   "text": "RT @tkh44: Fun beginnings of a library inspired by @cerebraljs tags. \n\nhttps://t.co/sKp0h4hJBz https://t.co/ZGJ8ZtxKTp",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/sKp0h4hJBz",
+     "expand": "https://github.com/tkh44/retarget"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965830206635229200,
+    "id_str": "965830206635229184",
+    "created_at": "Tue Feb 20 06:07:20 +0000 2018",
+    "text": "Fun beginnings of a library inspired by @cerebraljs tags. \n\nhttps://t.co/sKp0h4hJBz https://t.co/ZGJ8ZtxKTp",
+    "retweet_count": 19,
+    "favorite_count": 73,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sKp0h4hJBz",
+      "expand": "https://github.com/tkh44/retarget"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965989758898815000,
+   "id_str": "965989758898814976",
+   "created_at": "Tue Feb 20 16:41:20 +0000 2018",
+   "text": "RT @bahmutov: It is going to be a great week for testing: @assertjs is almost here, lots of issues closed with our test runner - and lots o…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965953167312801800,
+    "id_str": "965953167312801792",
+    "created_at": "Tue Feb 20 14:15:56 +0000 2018",
+    "text": "It is going to be a great week for testing: @assertjs is almost here, lots of issues closed with our test runner -… https://t.co/B1ZyfJC4OZ",
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/B1ZyfJC4OZ",
+      "expand": "https://twitter.com/i/web/status/965953167312801792"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965989282417537000,
+   "id_str": "965989282417537024",
+   "created_at": "Tue Feb 20 16:39:26 +0000 2018",
+   "text": "@dcorbacho Yes, you'd have to use persist if you need it. I think you could also pass the event.nativeEvent which w… https://t.co/iQqVW9XEog",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965892810506457100,
+   "in_reply_to_status_id_str": "965892810506457089",
+   "in_reply_to_screen_name": "dcorbacho",
+   "urls": [
+    {
+     "url": "https://t.co/iQqVW9XEog",
+     "expand": "https://twitter.com/i/web/status/965989282417537024"
+    }
+   ]
+  },
+  {
+   "id": 965982656398745600,
+   "id_str": "965982656398745601",
+   "created_at": "Tue Feb 20 16:13:07 +0000 2018",
+   "text": "@codealtgeek @eggheadio Yes! Definitely!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965977864402292700,
+   "in_reply_to_status_id_str": "965977864402292737",
+   "in_reply_to_screen_name": "codealtgeek",
+   "urls": []
+  },
+  {
+   "id": 965982524689203200,
+   "id_str": "965982524689203200",
+   "created_at": "Tue Feb 20 16:12:35 +0000 2018",
+   "text": "RT @diegohaz: I've been researching about the new @reactjs context API and decided to put this stuff together in this awesome list, featuri…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965918092521066500,
+    "id_str": "965918092521066497",
+    "created_at": "Tue Feb 20 11:56:33 +0000 2018",
+    "text": "I've been researching about the new @reactjs context API and decided to put this stuff together in this awesome lis… https://t.co/XFM2AgZLZ4",
+    "retweet_count": 12,
+    "favorite_count": 39,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XFM2AgZLZ4",
+      "expand": "https://twitter.com/i/web/status/965918092521066497"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965982474860769300,
+   "id_str": "965982474860769280",
+   "created_at": "Tue Feb 20 16:12:23 +0000 2018",
+   "text": "@RockChalkDev I'll try to get to it as soon as I can. Actually, could you email me? Find my email on my profile on… https://t.co/4dSFL7TOra",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965916445854060500,
+   "in_reply_to_status_id_str": "965916445854060545",
+   "in_reply_to_screen_name": "RockChalkDev",
+   "urls": [
+    {
+     "url": "https://t.co/4dSFL7TOra",
+     "expand": "https://twitter.com/i/web/status/965982474860769280"
+    }
+   ]
+  },
+  {
+   "id": 965982360838615000,
+   "id_str": "965982360838615040",
+   "created_at": "Tue Feb 20 16:11:56 +0000 2018",
+   "text": "@growdigital Thank you!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965889956940996600,
+   "in_reply_to_status_id_str": "965889956940996608",
+   "in_reply_to_screen_name": "growdigital",
+   "urls": []
+  },
+  {
+   "id": 965982318258090000,
+   "id_str": "965982318258089984",
+   "created_at": "Tue Feb 20 16:11:46 +0000 2018",
+   "text": "@sdandersonz97 @eggheadio Super!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965866261128273900,
+   "in_reply_to_status_id_str": "965866261128273921",
+   "in_reply_to_screen_name": "sdandersonz97",
+   "urls": []
+  },
+  {
+   "id": 965979038878654500,
+   "id_str": "965979038878654464",
+   "created_at": "Tue Feb 20 15:58:44 +0000 2018",
+   "text": "@kbuechner Wonderful! Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965825310276104200,
+   "in_reply_to_status_id_str": "965825310276104192",
+   "in_reply_to_screen_name": "kbuechner",
+   "urls": []
+  },
+  {
+   "id": 965813697854632000,
+   "id_str": "965813697854631936",
+   "created_at": "Tue Feb 20 05:01:44 +0000 2018",
+   "text": "@kbuechner Ping me when you're done!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965811540501913600,
+   "in_reply_to_status_id_str": "965811540501913600",
+   "in_reply_to_screen_name": "kbuechner",
+   "urls": []
+  },
+  {
+   "id": 965809722342309900,
+   "id_str": "965809722342309888",
+   "created_at": "Tue Feb 20 04:45:56 +0000 2018",
+   "text": "@kbuechner Did you get the email just now?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965718765810876400,
+   "in_reply_to_status_id_str": "965718765810876417",
+   "in_reply_to_screen_name": "kbuechner",
+   "urls": []
+  },
+  {
+   "id": 965809665383678000,
+   "id_str": "965809665383677953",
+   "created_at": "Tue Feb 20 04:45:42 +0000 2018",
+   "text": "RT @eggheadio: The Beginner's Guide to ReactJS - #react course by @kentcdodds https://t.co/meGFwH9m6s https://t.co/jSNGIBERXO",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/meGFwH9m6s",
+     "expand": "http://bit.ly/2olmM7B"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965802707197022200,
+    "id_str": "965802707197022214",
+    "created_at": "Tue Feb 20 04:18:03 +0000 2018",
+    "text": "The Beginner's Guide to ReactJS - #react course by @kentcdodds https://t.co/meGFwH9m6s https://t.co/jSNGIBERXO",
+    "retweet_count": 16,
+    "favorite_count": 61,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/meGFwH9m6s",
+      "expand": "http://bit.ly/2olmM7B"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965795206414008300,
+   "id_str": "965795206414008320",
+   "created_at": "Tue Feb 20 03:48:15 +0000 2018",
+   "text": "RT @left_pad: Posted about it a few times but this could be a fun new project to contribute to: https://t.co/Ee1DcVXgjZ `npx babel-upgrade`…",
+   "retweet_count": 32,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ee1DcVXgjZ",
+     "expand": "https://github.com/babel/babel-upgrade"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965587130977275900,
+    "id_str": "965587130977275905",
+    "created_at": "Mon Feb 19 14:01:26 +0000 2018",
+    "text": "Posted about it a few times but this could be a fun new project to contribute to: https://t.co/Ee1DcVXgjZ `npx babe… https://t.co/HC4asukknR",
+    "retweet_count": 32,
+    "favorite_count": 111,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ee1DcVXgjZ",
+      "expand": "https://github.com/babel/babel-upgrade"
+     },
+     {
+      "url": "https://t.co/HC4asukknR",
+      "expand": "https://twitter.com/i/web/status/965587130977275905"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965794983142830100,
+   "id_str": "965794983142830080",
+   "created_at": "Tue Feb 20 03:47:22 +0000 2018",
+   "text": "RT @stacylondoner: if you are a woman in tech and having a hard time i want to say that you deserve to be here, are welcome (by me 🙂), and…",
+   "retweet_count": 94,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965787727865114600,
+    "id_str": "965787727865114624",
+    "created_at": "Tue Feb 20 03:18:32 +0000 2018",
+    "text": "if you are a woman in tech and having a hard time i want to say that you deserve to be here, are welcome (by me 🙂),… https://t.co/M6Le8oSiBJ",
+    "retweet_count": 94,
+    "favorite_count": 382,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/M6Le8oSiBJ",
+      "expand": "https://twitter.com/i/web/status/965787727865114624"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965788666227449900,
+   "id_str": "965788666227449858",
+   "created_at": "Tue Feb 20 03:22:16 +0000 2018",
+   "text": "RT @sebmarkbage: We in the twittersphere don't put enough emphasis on the process of modeling. We focus on lines written, how code looks or…",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965747560383103000,
+    "id_str": "965747560383102976",
+    "created_at": "Tue Feb 20 00:38:55 +0000 2018",
+    "text": "We in the twittersphere don't put enough emphasis on the process of modeling. We focus on lines written, how code l… https://t.co/ocirvF8EVD",
+    "retweet_count": 26,
+    "favorite_count": 137,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ocirvF8EVD",
+      "expand": "https://twitter.com/i/web/status/965747560383102976"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965788508378968000,
+   "id_str": "965788508378968064",
+   "created_at": "Tue Feb 20 03:21:38 +0000 2018",
+   "text": "@be_mann I would LOVE for you to be there. I wanted to ask but didn't want to sound presumptuous. You are more than… https://t.co/y3nYTGVaye",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965786907694202900,
+   "in_reply_to_status_id_str": "965786907694202881",
+   "in_reply_to_screen_name": "be_mann",
+   "urls": [
+    {
+     "url": "https://t.co/y3nYTGVaye",
+     "expand": "https://twitter.com/i/web/status/965788508378968064"
+    }
+   ]
+  },
+  {
+   "id": 965788207202779100,
+   "id_str": "965788207202779136",
+   "created_at": "Tue Feb 20 03:20:26 +0000 2018",
+   "text": "@be_mann That's totally fine. Trade-offs on the simplification. The old one probably serves your purposes better 👍",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965787031925350400,
+   "in_reply_to_status_id_str": "965787031925350400",
+   "in_reply_to_screen_name": "be_mann",
+   "urls": []
+  },
+  {
+   "id": 965775867409449000,
+   "id_str": "965775867409448960",
+   "created_at": "Tue Feb 20 02:31:24 +0000 2018",
+   "text": "@wesbos I hate it when our neighbors turn on their diesel vehicles. SOOOO LOUD",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 965764646652215300,
+   "in_reply_to_status_id_str": "965764646652215297",
+   "in_reply_to_screen_name": "wesbos",
+   "urls": []
+  },
+  {
+   "id": 965775524252467200,
+   "id_str": "965775524252467200",
+   "created_at": "Tue Feb 20 02:30:02 +0000 2018",
+   "text": "RT @rauchg: Always bet on [a VM engineer optimizing your] JS\nhttps://t.co/W3qvuunOS1",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W3qvuunOS1",
+     "expand": "https://twitter.com/mraleph/status/965720238452101121"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965726453298970600,
+    "id_str": "965726453298970624",
+    "created_at": "Mon Feb 19 23:15:03 +0000 2018",
+    "text": "Always bet on [a VM engineer optimizing your] JS\nhttps://t.co/W3qvuunOS1",
+    "retweet_count": 28,
+    "favorite_count": 179,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/W3qvuunOS1",
+      "expand": "https://twitter.com/mraleph/status/965720238452101121"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965769895794233300,
+   "id_str": "965769895794233345",
+   "created_at": "Tue Feb 20 02:07:40 +0000 2018",
+   "text": "@lawjolla thank you for the donation :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "lawjolla",
+   "urls": []
+  },
+  {
+   "id": 965757411561685000,
+   "id_str": "965757411561684992",
+   "created_at": "Tue Feb 20 01:18:04 +0000 2018",
+   "text": "@mcrowder65 I think I may have answered this on my AMA. Could you check? If not, feel free to ask me there! https://t.co/GVOdQfdQrN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965745768111005700,
+   "in_reply_to_status_id_str": "965745768111005697",
+   "in_reply_to_screen_name": "mcrowder65",
+   "urls": [
+    {
+     "url": "https://t.co/GVOdQfdQrN",
+     "expand": "http://kcd.im/ama"
+    }
+   ]
+  },
+  {
+   "id": 965702007968251900,
+   "id_str": "965702007968251904",
+   "created_at": "Mon Feb 19 21:37:55 +0000 2018",
+   "text": "@museumDCN I haven't tried",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965699602598056000,
+   "in_reply_to_status_id_str": "965699602598055936",
+   "in_reply_to_screen_name": "museumDCN",
+   "urls": []
+  },
+  {
+   "id": 965701853265539100,
+   "id_str": "965701853265539073",
+   "created_at": "Mon Feb 19 21:37:18 +0000 2018",
+   "text": "@be_mann Oh please yes! I'd love feedback!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965698040169402400,
+   "in_reply_to_status_id_str": "965698040169402368",
+   "in_reply_to_screen_name": "be_mann",
+   "urls": []
+  },
+  {
+   "id": 965701706762747900,
+   "id_str": "965701706762747904",
+   "created_at": "Mon Feb 19 21:36:43 +0000 2018",
+   "text": "@be_mann Definitely. Thank you for the update!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965697809663103000,
+   "in_reply_to_status_id_str": "965697809663102976",
+   "in_reply_to_screen_name": "be_mann",
+   "urls": []
+  },
+  {
+   "id": 965688087949951000,
+   "id_str": "965688087949950976",
+   "created_at": "Mon Feb 19 20:42:36 +0000 2018",
+   "text": "RT @sophiebits: TodoMVC compares code in a vacuum: small codebase, exact requirements decided before the first line of code.\n\nGood librarie…",
+   "retweet_count": 45,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965490486709444600,
+    "id_str": "965490486709444608",
+    "created_at": "Mon Feb 19 07:37:24 +0000 2018",
+    "text": "TodoMVC compares code in a vacuum: small codebase, exact requirements decided before the first line of code.\n\nGood… https://t.co/WDi6ISVA8b",
+    "retweet_count": 45,
+    "favorite_count": 288,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WDi6ISVA8b",
+      "expand": "https://twitter.com/i/web/status/965490486709444608"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965687957825835000,
+   "id_str": "965687957825835008",
+   "created_at": "Mon Feb 19 20:42:05 +0000 2018",
+   "text": "@kbuechner I'm going to send an email soon 👍",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965679792606588900,
+   "in_reply_to_status_id_str": "965679792606588934",
+   "in_reply_to_screen_name": "kbuechner",
+   "urls": []
+  },
+  {
+   "id": 965632648671457300,
+   "id_str": "965632648671457280",
+   "created_at": "Mon Feb 19 17:02:18 +0000 2018",
+   "text": "@ryanflorence Congrats!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965624425788751900,
+   "in_reply_to_status_id_str": "965624425788751872",
+   "in_reply_to_screen_name": "ryanflorence",
+   "urls": []
+  },
+  {
+   "id": 965607066298560500,
+   "id_str": "965607066298560517",
+   "created_at": "Mon Feb 19 15:20:39 +0000 2018",
+   "text": "RT @housecor: Excited for the enhancements coming to Babel 7:\n\n- 60% faster 🚤\n- babel-polyfill now only polyfills what your env needs = sma…",
+   "retweet_count": 87,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965598645461635100,
+    "id_str": "965598645461635072",
+    "created_at": "Mon Feb 19 14:47:11 +0000 2018",
+    "text": "Excited for the enhancements coming to Babel 7:\n\n- 60% faster 🚤\n- babel-polyfill now only polyfills what your env n… https://t.co/qlQXoltafG",
+    "retweet_count": 87,
+    "favorite_count": 263,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qlQXoltafG",
+      "expand": "https://twitter.com/i/web/status/965598645461635072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965605618374422500,
+   "id_str": "965605618374422530",
+   "created_at": "Mon Feb 19 15:14:54 +0000 2018",
+   "text": "Oh no! I totally forgot to mention @ryanflorence new react-component-component thing which is one of my new favorit… https://t.co/3zg8jIgzBu",
+   "retweet_count": 7,
+   "favorite_count": 89,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3zg8jIgzBu",
+     "expand": "https://twitter.com/i/web/status/965605618374422530"
+    }
+   ]
+  },
+  {
+   "id": 965601616425500700,
+   "id_str": "965601616425500673",
+   "created_at": "Mon Feb 19 14:59:00 +0000 2018",
+   "text": "@ag_dubs 🤗",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965598649471389700,
+   "in_reply_to_status_id_str": "965598649471389696",
+   "in_reply_to_screen_name": "ag_dubs",
+   "urls": []
+  },
+  {
+   "id": 965598354074869800,
+   "id_str": "965598354074869760",
+   "created_at": "Mon Feb 19 14:46:02 +0000 2018",
+   "text": "@ag_dubs, you got a spotlight in my newsletter today :) https://t.co/sy1KiejCHV\n\nOne of my favorite quotes :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "ag_dubs",
+   "urls": [
+    {
+     "url": "https://t.co/sy1KiejCHV",
+     "expand": "https://tinyletter.com/kentcdodds/letters/solidifying-what-you-learn"
+    }
+   ]
+  },
+  {
+   "id": 965598130572898300,
+   "id_str": "965598130572898304",
+   "created_at": "Mon Feb 19 14:45:08 +0000 2018",
+   "text": "@michaelpeyper Yeah, that's probably what I'd use.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965544668132880400,
+   "in_reply_to_status_id_str": "965544668132880389",
+   "in_reply_to_screen_name": "michaelpeyper",
+   "urls": []
+  },
+  {
+   "id": 965596915684409300,
+   "id_str": "965596915684409345",
+   "created_at": "Mon Feb 19 14:40:19 +0000 2018",
+   "text": "And they're off!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965592128456765400,
+   "in_reply_to_status_id_str": "965592128456765440",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 966905984999292900,
+   "id_str": "966905984999292928",
+   "created_at": "Fri Feb 23 05:22:05 +0000 2018",
+   "text": "@jonmajorc Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966905000638136300,
+   "in_reply_to_status_id_str": "966905000638136321",
+   "in_reply_to_screen_name": "jonmajorc",
    "urls": []
   }
  ]

@@ -1,29 +1,1095 @@
 {
- "time": 1518873138841,
+ "time": 1519367407413,
  "lists": [
   {
-   "id": 964195180457885700,
-   "id_str": "964195180457885696",
-   "created_at": "Thu Feb 15 17:50:19 +0000 2018",
-   "text": "RT @CSSconfeu: We will announce the first round of scholarship holders (from outside Europe) within the next days! Stay tuned 🚀",
+   "id": 966790269516464100,
+   "id_str": "966790269516464128",
+   "created_at": "Thu Feb 22 21:42:17 +0000 2018",
+   "text": "RT @devdevcharlie: So excited to announce I'll be speaking at @jsconfeu in June about my experiment with mind control in JavaScript! 🎉😃 htt…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966787916658651100,
+    "id_str": "966787916658651136",
+    "created_at": "Thu Feb 22 21:32:56 +0000 2018",
+    "text": "So excited to announce I'll be speaking at @jsconfeu in June about my experiment with mind control in JavaScript! 🎉… https://t.co/AmaXYbigSi",
+    "retweet_count": 9,
+    "favorite_count": 122,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AmaXYbigSi",
+      "expand": "https://twitter.com/i/web/status/966787916658651136"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966743838864818200,
+   "id_str": "966743838864818176",
+   "created_at": "Thu Feb 22 18:37:47 +0000 2018",
+   "text": "This round sold out! Congrats everyone who got a ticket!! 🎉",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966702441839259600,
+   "in_reply_to_status_id_str": "966702441839259649",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": []
+  },
+  {
+   "id": 966723068285435900,
+   "id_str": "966723068285435904",
+   "created_at": "Thu Feb 22 17:15:14 +0000 2018",
+   "text": "RT @jottpehkah: fetch('https://t.co/zgJ2k587Dx', {\n  type: 'combo ticket'\n}).then(tweetAboutIt({\n  mood: '😎',\n  cc: [@cssconfeu, @jsconfeu]…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zgJ2k587Dx",
+     "expand": "https://ti.to/jsconfeu/jsconf-eu-2018/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966722030728040400,
+    "id_str": "966722030728040449",
+    "created_at": "Thu Feb 22 17:11:07 +0000 2018",
+    "text": "fetch('https://t.co/zgJ2k587Dx', {\n  type: 'combo ticket'\n}).then(tweetAboutIt({\n  mood: '😎',\n  cc: [@cssconfeu, @jsconfeu]\n}));\n\nYESSS 🎉🎉🎉",
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zgJ2k587Dx",
+      "expand": "https://ti.to/jsconfeu/jsconf-eu-2018/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966720337365819400,
+   "id_str": "966720337365819392",
+   "created_at": "Thu Feb 22 17:04:23 +0000 2018",
+   "text": "RT @kedromelon: yeeeee managed to get a @jsconfeu ticket\n\nsee you in june, berlin!",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966720111129309200,
+    "id_str": "966720111129309184",
+    "created_at": "Thu Feb 22 17:03:29 +0000 2018",
+    "text": "yeeeee managed to get a @jsconfeu ticket\n\nsee you in june, berlin!",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966718439984324600,
+   "id_str": "966718439984324609",
+   "created_at": "Thu Feb 22 16:56:51 +0000 2018",
+   "text": "T-4 minutes.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966702441839259600,
+   "in_reply_to_status_id_str": "966702441839259649",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": []
+  },
+  {
+   "id": 966702441839259600,
+   "id_str": "966702441839259649",
+   "created_at": "Thu Feb 22 15:53:17 +0000 2018",
+   "text": "🛌 Good morning Americas!\nThe second batch of tickets for today becomes available at 9am Pacific, 12 Eastern (If our… https://t.co/bioPlRSdmw",
+   "retweet_count": 6,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bioPlRSdmw",
+     "expand": "https://twitter.com/i/web/status/966702441839259649"
+    }
+   ]
+  },
+  {
+   "id": 966683985702150100,
+   "id_str": "966683985702150144",
+   "created_at": "Thu Feb 22 14:39:56 +0000 2018",
+   "text": "RT @cramforce: Always interesting to see the year to year trends in @jsconfeu talk proposals. One new topic that suddenly had a bunch of su…",
    "retweet_count": 2,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964195106113884200,
-    "id_str": "964195106113884165",
-    "created_at": "Thu Feb 15 17:50:01 +0000 2018",
-    "text": "We will announce the first round of scholarship holders (from outside Europe) within the next days! Stay tuned 🚀",
+    "id": 966671335559594000,
+    "id_str": "966671335559593984",
+    "created_at": "Thu Feb 22 13:49:40 +0000 2018",
+    "text": "Always interesting to see the year to year trends in @jsconfeu talk proposals. One new topic that suddenly had a bu… https://t.co/zGbbfofCtb",
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zGbbfofCtb",
+      "expand": "https://twitter.com/i/web/status/966671335559593984"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966683970485198800,
+   "id_str": "966683970485198848",
+   "created_at": "Thu Feb 22 14:39:53 +0000 2018",
+   "text": "RT @elisabethirg: The future is awesome! 🤩 https://t.co/uFqszRlwrq",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/uFqszRlwrq",
+     "expand": "https://twitter.com/jsconfeu/status/966665092728320002"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966670380596432900,
+    "id_str": "966670380596432901",
+    "created_at": "Thu Feb 22 13:45:53 +0000 2018",
+    "text": "The future is awesome! 🤩 https://t.co/uFqszRlwrq",
     "retweet_count": 2,
     "favorite_count": 7,
     "place": null,
-    "in_reply_to_status_id": 964149639376244700,
-    "in_reply_to_screen_name": "CSSconfeu",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uFqszRlwrq",
+      "expand": "https://twitter.com/jsconfeu/status/966665092728320002"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966665092728320000,
+   "id_str": "966665092728320002",
+   "created_at": "Thu Feb 22 13:24:52 +0000 2018",
+   "text": "#7 Charlie Gerard (@devdevcharlie) with “Look Mum, No Hands” where she controls JavaScript with her brain and tell… https://t.co/TitI2XWcBS",
+   "retweet_count": 3,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": 966243419071885300,
+   "in_reply_to_status_id_str": "966243419071885312",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/TitI2XWcBS",
+     "expand": "https://twitter.com/i/web/status/966665092728320002"
+    }
+   ]
+  },
+  {
+   "id": 966624328673611800,
+   "id_str": "966624328673611778",
+   "created_at": "Thu Feb 22 10:42:53 +0000 2018",
+   "text": "@montogeek Yes.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966621888280780800,
+   "in_reply_to_status_id_str": "966621888280780800",
+   "in_reply_to_screen_name": "montogeek",
+   "urls": []
+  },
+  {
+   "id": 966614304970739700,
+   "id_str": "966614304970739713",
+   "created_at": "Thu Feb 22 10:03:03 +0000 2018",
+   "text": "That’s it for this morning’s sale. The next batch goes up TONIGHT at 18:00 CET / 12:00 EST / 09:00 PST o/",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966606793534255100,
+   "in_reply_to_status_id_str": "966606793534255104",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": []
+  },
+  {
+   "id": 966609298540212200,
+   "id_str": "966609298540212224",
+   "created_at": "Thu Feb 22 09:43:10 +0000 2018",
+   "text": "@notpelle yup, get in touch: contact@jsconf.eu",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966607653207269400,
+   "in_reply_to_status_id_str": "966607653207269376",
+   "in_reply_to_screen_name": "notpelle",
+   "urls": []
+  },
+  {
+   "id": 966606793534255100,
+   "id_str": "966606793534255104",
+   "created_at": "Thu Feb 22 09:33:12 +0000 2018",
+   "text": "Our first batch of regular tickets is available now! Get them while they’re hot! 🔥 https://t.co/hdGoekHjYQ",
+   "retweet_count": 3,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965954124775936000,
+   "in_reply_to_status_id_str": "965954124775936000",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/hdGoekHjYQ",
+     "expand": "https://twitter.com/jsconfeu/status/965954124775936000"
+    }
+   ]
+  },
+  {
+   "id": 966474334972751900,
+   "id_str": "966474334972751872",
+   "created_at": "Thu Feb 22 00:46:52 +0000 2018",
+   "text": "@mylifeasalllly We’ll help with resales first (because it makes more sense for everyone given fees involved in the… https://t.co/fombBTL6po",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966452605860892700,
+   "in_reply_to_status_id_str": "966452605860892673",
+   "in_reply_to_screen_name": "mylifeasalllly",
+   "urls": [
+    {
+     "url": "https://t.co/fombBTL6po",
+     "expand": "https://twitter.com/i/web/status/966474334972751872"
+    }
+   ]
+  },
+  {
+   "id": 966423214229303300,
+   "id_str": "966423214229303297",
+   "created_at": "Wed Feb 21 21:23:44 +0000 2018",
+   "text": "RT @jsconfeu: 💥 Fancy a ticket to JSConf EU? 💥\nOur regular sale starts tomorrow! 🛎\n\nMore info https://t.co/OVAAN2Z7f9",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OVAAN2Z7f9",
+     "expand": "https://2018.jsconf.eu/news/speaker-announcements/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966351799362863100,
+    "id_str": "966351799362863105",
+    "created_at": "Wed Feb 21 16:39:57 +0000 2018",
+    "text": "💥 Fancy a ticket to JSConf EU? 💥\nOur regular sale starts tomorrow! 🛎\n\nMore info https://t.co/OVAAN2Z7f9",
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OVAAN2Z7f9",
+      "expand": "https://2018.jsconf.eu/news/speaker-announcements/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966401445338628100,
+   "id_str": "966401445338628096",
+   "created_at": "Wed Feb 21 19:57:14 +0000 2018",
+   "text": "RT @rakshesha: So excited to be speaking at JS Conf! I'm going to be talking about deep learning in JS! 🤯 https://t.co/dqpEg8HK9A",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dqpEg8HK9A",
+     "expand": "https://twitter.com/jsconfeu/status/965954128244629509"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966399333665931300,
+    "id_str": "966399333665931264",
+    "created_at": "Wed Feb 21 19:48:50 +0000 2018",
+    "text": "So excited to be speaking at JS Conf! I'm going to be talking about deep learning in JS! 🤯 https://t.co/dqpEg8HK9A",
+    "retweet_count": 2,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dqpEg8HK9A",
+      "expand": "https://twitter.com/jsconfeu/status/965954128244629509"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966354776542752800,
+   "id_str": "966354776542752768",
+   "created_at": "Wed Feb 21 16:51:47 +0000 2018",
+   "text": "@designbygio Yes! This being the first one it is quite likely. But when they are gone, they are gone. We cannot pre… https://t.co/Kproh9oaKv",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966354177420079100,
+   "in_reply_to_status_id_str": "966354177420079109",
+   "in_reply_to_screen_name": "designbygio",
+   "urls": [
+    {
+     "url": "https://t.co/Kproh9oaKv",
+     "expand": "https://twitter.com/i/web/status/966354776542752768"
+    }
+   ]
+  },
+  {
+   "id": 966351799362863100,
+   "id_str": "966351799362863105",
+   "created_at": "Wed Feb 21 16:39:57 +0000 2018",
+   "text": "💥 Fancy a ticket to JSConf EU? 💥\nOur regular sale starts tomorrow! 🛎\n\nMore info https://t.co/OVAAN2Z7f9",
+   "retweet_count": 10,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OVAAN2Z7f9",
+     "expand": "https://2018.jsconf.eu/news/speaker-announcements/"
+    }
+   ]
+  },
+  {
+   "id": 966340803864997900,
+   "id_str": "966340803864997889",
+   "created_at": "Wed Feb 21 15:56:16 +0000 2018",
+   "text": "RT @TLobinger: @DKundel @jsconfeu not sure I can bear the wait for the other speaker announcements",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966338047548764200,
+    "id_str": "966338047548764160",
+    "created_at": "Wed Feb 21 15:45:18 +0000 2018",
+    "text": "@DKundel @jsconfeu not sure I can bear the wait for the other speaker announcements",
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": 966337336308064300,
+    "in_reply_to_status_id_str": "966337336308064257",
+    "in_reply_to_screen_name": "DKundel",
     "urls": []
    }
+  },
+  {
+   "id": 966340796403380200,
+   "id_str": "966340796403380225",
+   "created_at": "Wed Feb 21 15:56:14 +0000 2018",
+   "text": "RT @lassediercks: @DKundel @jsconfeu bear with me!",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966337818795610100,
+    "id_str": "966337818795610114",
+    "created_at": "Wed Feb 21 15:44:24 +0000 2018",
+    "text": "@DKundel @jsconfeu bear with me!",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": 966337336308064300,
+    "in_reply_to_status_id_str": "966337336308064257",
+    "in_reply_to_screen_name": "DKundel",
+    "urls": []
+   }
+  },
+  {
+   "id": 966337545788272600,
+   "id_str": "966337545788272640",
+   "created_at": "Wed Feb 21 15:43:19 +0000 2018",
+   "text": "RT @DKundel: So @jsconfeu started announcing this year's speakers and I must say I'm really excited! 🙌 especially about the amount of bears…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966337336308064300,
+    "id_str": "966337336308064257",
+    "created_at": "Wed Feb 21 15:42:29 +0000 2018",
+    "text": "So @jsconfeu started announcing this year's speakers and I must say I'm really excited! 🙌 especially about the amou… https://t.co/KXFABjIkG4",
+    "retweet_count": 7,
+    "favorite_count": 23,
+    "place": "Queens, NY",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KXFABjIkG4",
+      "expand": "https://twitter.com/i/web/status/966337336308064257"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966330527845199900,
+   "id_str": "966330527845199872",
+   "created_at": "Wed Feb 21 15:15:26 +0000 2018",
+   "text": "RT @cramforce: No pressure on @philnash but I think the Aggressive Web Apps talk might be a start to a crucial conversation that the web co…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966330049828872200,
+    "id_str": "966330049828872192",
+    "created_at": "Wed Feb 21 15:13:32 +0000 2018",
+    "text": "No pressure on @philnash but I think the Aggressive Web Apps talk might be a start to a crucial conversation that t… https://t.co/oLiq0To6Ex",
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oLiq0To6Ex",
+      "expand": "https://twitter.com/i/web/status/966330049828872192"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966325692651790300,
+   "id_str": "966325692651790336",
+   "created_at": "Wed Feb 21 14:56:13 +0000 2018",
+   "text": "RT @philnash: I am just delighted to become a @jsconfeu speaker! See you all in Berlin in June! https://t.co/qQXIOn2RnS",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qQXIOn2RnS",
+     "expand": "https://twitter.com/jsconfeu/status/966243415779368960"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966286759381184500,
+    "id_str": "966286759381184512",
+    "created_at": "Wed Feb 21 12:21:30 +0000 2018",
+    "text": "I am just delighted to become a @jsconfeu speaker! See you all in Berlin in June! https://t.co/qQXIOn2RnS",
+    "retweet_count": 3,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qQXIOn2RnS",
+      "expand": "https://twitter.com/jsconfeu/status/966243415779368960"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966254072167895000,
+   "id_str": "966254072167895040",
+   "created_at": "Wed Feb 21 10:11:37 +0000 2018",
+   "text": "RT @andrewn: Excited to be attending this year, the line-up looks great already. https://t.co/LWqSSqIqkF",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LWqSSqIqkF",
+     "expand": "https://twitter.com/jsconfeu/status/965954122519404547"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966253715245158400,
+    "id_str": "966253715245158400",
+    "created_at": "Wed Feb 21 10:10:12 +0000 2018",
+    "text": "Excited to be attending this year, the line-up looks great already. https://t.co/LWqSSqIqkF",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LWqSSqIqkF",
+      "expand": "https://twitter.com/jsconfeu/status/965954122519404547"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966248113810833400,
+   "id_str": "966248113810833408",
+   "created_at": "Wed Feb 21 09:47:57 +0000 2018",
+   "text": "RT @whitecoatcapxg: And this will be captioned by us, too! https://t.co/LAC9E4WmtE",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LAC9E4WmtE",
+     "expand": "https://twitter.com/jsconfeu/status/965954124775936000"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966245581432684500,
+    "id_str": "966245581432684544",
+    "created_at": "Wed Feb 21 09:37:53 +0000 2018",
+    "text": "And this will be captioned by us, too! https://t.co/LAC9E4WmtE",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": "St Albans, VT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LAC9E4WmtE",
+      "expand": "https://twitter.com/jsconfeu/status/965954124775936000"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966245517566111700,
+   "id_str": "966245517566111744",
+   "created_at": "Wed Feb 21 09:37:38 +0000 2018",
+   "text": "RT @misprintedtype: I am very proud to announce, I'll be speaking at @jsconfeu this year. 😻 https://t.co/0or5fY0B6A",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0or5fY0B6A",
+     "expand": "https://twitter.com/jsconfeu/status/966243417343787010"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966244647675809800,
+    "id_str": "966244647675809792",
+    "created_at": "Wed Feb 21 09:34:10 +0000 2018",
+    "text": "I am very proud to announce, I'll be speaking at @jsconfeu this year. 😻 https://t.co/0or5fY0B6A",
+    "retweet_count": 16,
+    "favorite_count": 143,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0or5fY0B6A",
+      "expand": "https://twitter.com/jsconfeu/status/966243417343787010"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966243866398658600,
+   "id_str": "966243866398658560",
+   "created_at": "Wed Feb 21 09:31:04 +0000 2018",
+   "text": "RT @jsconfeu: We’re going to start selling REGULAR tickets in batches over the next few weeks as well. We will always have tickets on sale…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965954124775936000,
+    "id_str": "965954124775936000",
+    "created_at": "Tue Feb 20 14:19:44 +0000 2018",
+    "text": "We’re going to start selling REGULAR tickets in batches over the next few weeks as well. We will always have ticket… https://t.co/3FHxHbodqf",
+    "retweet_count": 8,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": 965954122519404500,
+    "in_reply_to_status_id_str": "965954122519404547",
+    "in_reply_to_screen_name": "jsconfeu",
+    "urls": [
+     {
+      "url": "https://t.co/3FHxHbodqf",
+      "expand": "https://twitter.com/i/web/status/965954124775936000"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966243806390685700,
+   "id_str": "966243806390685703",
+   "created_at": "Wed Feb 21 09:30:50 +0000 2018",
+   "text": "RT @jsconfeu: 🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take us a few we…",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965954122519404500,
+    "id_str": "965954122519404547",
+    "created_at": "Tue Feb 20 14:19:44 +0000 2018",
+    "text": "🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take u… https://t.co/Vg1Ytm0VAB",
+    "retweet_count": 28,
+    "favorite_count": 84,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Vg1Ytm0VAB",
+      "expand": "https://twitter.com/i/web/status/965954122519404547"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966243419071885300,
+   "id_str": "966243419071885312",
+   "created_at": "Wed Feb 21 09:29:17 +0000 2018",
+   "text": "#6 Alvaro Videla (@old_sound) on “Metaphors we Compute By”, reviewing the importance that metaphors have in our cod… https://t.co/JkWorP0dRi",
+   "retweet_count": 2,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": 966243417343787000,
+   "in_reply_to_status_id_str": "966243417343787010",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/JkWorP0dRi",
+     "expand": "https://twitter.com/i/web/status/966243419071885312"
+    }
+   ]
+  },
+  {
+   "id": 966243417343787000,
+   "id_str": "966243417343787010",
+   "created_at": "Wed Feb 21 09:29:17 +0000 2018",
+   "text": "#5 Ola Gasidlo (@misprintedtype) on “TCP — A story about hope, (pkg) loss &amp;&amp; the missing link” which will cover eve… https://t.co/wYdBallEYQ",
+   "retweet_count": 8,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": 966243415779369000,
+   "in_reply_to_status_id_str": "966243415779368960",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/wYdBallEYQ",
+     "expand": "https://twitter.com/i/web/status/966243417343787010"
+    }
+   ]
+  },
+  {
+   "id": 966243415779369000,
+   "id_str": "966243415779368960",
+   "created_at": "Wed Feb 21 09:29:16 +0000 2018",
+   "text": "#4 Phil Nash (@philnash) on “Agressive Web Apps” which dives into the mess that are push notification on the web an… https://t.co/BnLgkX5J2t",
+   "retweet_count": 5,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": 965954131272896500,
+   "in_reply_to_status_id_str": "965954131272896512",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/BnLgkX5J2t",
+     "expand": "https://twitter.com/i/web/status/966243415779368960"
+    }
+   ]
+  },
+  {
+   "id": 966009359535833100,
+   "id_str": "966009359535833089",
+   "created_at": "Tue Feb 20 17:59:13 +0000 2018",
+   "text": "With apologies to @rakshesha on getting her twitter handle wrong on our #1 announcement :/",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 965954128244629500,
+   "in_reply_to_status_id_str": "965954128244629509",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": []
+  },
+  {
+   "id": 966003159062667300,
+   "id_str": "966003159062667264",
+   "created_at": "Tue Feb 20 17:34:35 +0000 2018",
+   "text": "RT @janl: So yeah, a lot of work goes into this and I’m certain you’re going to like the results. Hope to see you all in Berlin for @jsconf…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965998049293209600,
+    "id_str": "965998049293209602",
+    "created_at": "Tue Feb 20 17:14:16 +0000 2018",
+    "text": "So yeah, a lot of work goes into this and I’m certain you’re going to like the results. Hope to see you all in Berl… https://t.co/YjBRzkYEoO",
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": 965998047875551200,
+    "in_reply_to_status_id_str": "965998047875551233",
+    "in_reply_to_screen_name": "janl",
+    "urls": [
+     {
+      "url": "https://t.co/YjBRzkYEoO",
+      "expand": "https://twitter.com/i/web/status/965998049293209602"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966003151378640900,
+   "id_str": "966003151378640896",
+   "created_at": "Tue Feb 20 17:34:33 +0000 2018",
+   "text": "RT @janl: Then we meet for about five hours over two or three meetings to nail down the final selection that we have started to publish tod…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965998047875551200,
+    "id_str": "965998047875551233",
+    "created_at": "Tue Feb 20 17:14:16 +0000 2018",
+    "text": "Then we meet for about five hours over two or three meetings to nail down the final selection that we have started… https://t.co/MlAJxDneWh",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": 965998046193553400,
+    "in_reply_to_status_id_str": "965998046193553408",
+    "in_reply_to_screen_name": "janl",
+    "urls": [
+     {
+      "url": "https://t.co/MlAJxDneWh",
+      "expand": "https://twitter.com/i/web/status/965998047875551233"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966003133338890200,
+   "id_str": "966003133338890240",
+   "created_at": "Tue Feb 20 17:34:29 +0000 2018",
+   "text": "RT @janl: With all submissions in, our six person selection team gets on reading every single submission. We have a tight process, includin…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965998046193553400,
+    "id_str": "965998046193553408",
+    "created_at": "Tue Feb 20 17:14:16 +0000 2018",
+    "text": "With all submissions in, our six person selection team gets on reading every single submission. We have a tight pro… https://t.co/NeQe2LLeqL",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": 965998044843053000,
+    "in_reply_to_status_id_str": "965998044843053056",
+    "in_reply_to_screen_name": "janl",
+    "urls": [
+     {
+      "url": "https://t.co/NeQe2LLeqL",
+      "expand": "https://twitter.com/i/web/status/965998046193553408"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966003126057578500,
+   "id_str": "966003126057578501",
+   "created_at": "Tue Feb 20 17:34:27 +0000 2018",
+   "text": "RT @janl: Side note: our analysis from 2012 still holds: underrepresented people in tech, if you get them to submit to your call for speake…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965998044843053000,
+    "id_str": "965998044843053056",
+    "created_at": "Tue Feb 20 17:14:15 +0000 2018",
+    "text": "Side note: our analysis from 2012 still holds: underrepresented people in tech, if you get them to submit to your c… https://t.co/lZw4C8b0mS",
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": 965998043232374800,
+    "in_reply_to_status_id_str": "965998043232374784",
+    "in_reply_to_screen_name": "janl",
+    "urls": [
+     {
+      "url": "https://t.co/lZw4C8b0mS",
+      "expand": "https://twitter.com/i/web/status/965998044843053056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966003117681655800,
+   "id_str": "966003117681655808",
+   "created_at": "Tue Feb 20 17:34:25 +0000 2018",
+   "text": "RT @janl: It starts with 620+ individuals taking the time to think up and write up a proposal. We are grateful for each and every one of th…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965998043232374800,
+    "id_str": "965998043232374784",
+    "created_at": "Tue Feb 20 17:14:15 +0000 2018",
+    "text": "It starts with 620+ individuals taking the time to think up and write up a proposal. We are grateful for each and e… https://t.co/o6IEtFwYLx",
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": 965998041755996200,
+    "in_reply_to_status_id_str": "965998041755996160",
+    "in_reply_to_screen_name": "janl",
+    "urls": [
+     {
+      "url": "https://t.co/o6IEtFwYLx",
+      "expand": "https://twitter.com/i/web/status/965998043232374784"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966001655224270800,
+   "id_str": "966001655224270848",
+   "created_at": "Tue Feb 20 17:28:36 +0000 2018",
+   "text": "RT @janl: I’m VERY excited about the @jsconfeu speaker announcements starting today (https://t.co/ieaZeduTAn). A lot of work has gone into…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ieaZeduTAn",
+     "expand": "https://twitter.com/jsconfeu/status/965954122519404547"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965998041755996200,
+    "id_str": "965998041755996160",
+    "created_at": "Tue Feb 20 17:14:15 +0000 2018",
+    "text": "I’m VERY excited about the @jsconfeu speaker announcements starting today (https://t.co/ieaZeduTAn). A lot of work… https://t.co/z8VgQFNWDH",
+    "retweet_count": 6,
+    "favorite_count": 24,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ieaZeduTAn",
+      "expand": "https://twitter.com/jsconfeu/status/965954122519404547"
+     },
+     {
+      "url": "https://t.co/z8VgQFNWDH",
+      "expand": "https://twitter.com/i/web/status/965998041755996160"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965954131272896500,
+   "id_str": "965954131272896512",
+   "created_at": "Tue Feb 20 14:19:46 +0000 2018",
+   "text": "#3 Shelley Vohr (@codebytere) on “Asynchrony: Under The Hood” will take us on a journey exploring all aspects of as… https://t.co/O49qnumI5Q",
+   "retweet_count": 6,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": 965954129788055600,
+   "in_reply_to_status_id_str": "965954129788055552",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/O49qnumI5Q",
+     "expand": "https://twitter.com/i/web/status/965954131272896512"
+    }
+   ]
+  },
+  {
+   "id": 965954129788055600,
+   "id_str": "965954129788055552",
+   "created_at": "Tue Feb 20 14:19:45 +0000 2018",
+   "text": "#2 Emil Bay (@emilbayes) on “Hand-Crafting WebAssembly” — Writing WebAssembly is something usually left to compiler… https://t.co/2AZ7dAQof7",
+   "retweet_count": 5,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": 965954128244629500,
+   "in_reply_to_status_id_str": "965954128244629509",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/2AZ7dAQof7",
+     "expand": "https://twitter.com/i/web/status/965954129788055552"
+    }
+   ]
+  },
+  {
+   "id": 965954128244629500,
+   "id_str": "965954128244629509",
+   "created_at": "Tue Feb 20 14:19:45 +0000 2018",
+   "text": "#1 We are happy to announce Ashi Krishnan (@queerviolet) as our very first speaker with “Deep Learning in JS”, intr… https://t.co/EVeod7Cmwo",
+   "retweet_count": 6,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": 965954124775936000,
+   "in_reply_to_status_id_str": "965954124775936000",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/EVeod7Cmwo",
+     "expand": "https://twitter.com/i/web/status/965954128244629509"
+    }
+   ]
+  },
+  {
+   "id": 965954124775936000,
+   "id_str": "965954124775936000",
+   "created_at": "Tue Feb 20 14:19:44 +0000 2018",
+   "text": "We’re going to start selling REGULAR tickets in batches over the next few weeks as well. We will always have ticket… https://t.co/3FHxHbodqf",
+   "retweet_count": 8,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": 965954122519404500,
+   "in_reply_to_status_id_str": "965954122519404547",
+   "in_reply_to_screen_name": "jsconfeu",
+   "urls": [
+    {
+     "url": "https://t.co/3FHxHbodqf",
+     "expand": "https://twitter.com/i/web/status/965954124775936000"
+    }
+   ]
+  },
+  {
+   "id": 965954122519404500,
+   "id_str": "965954122519404547",
+   "created_at": "Tue Feb 20 14:19:44 +0000 2018",
+   "text": "🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take u… https://t.co/Vg1Ytm0VAB",
+   "retweet_count": 28,
+   "favorite_count": 84,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Vg1Ytm0VAB",
+     "expand": "https://twitter.com/i/web/status/965954122519404547"
+    }
+   ]
+  },
+  {
+   "id": 965693031583170600,
+   "id_str": "965693031583170560",
+   "created_at": "Mon Feb 19 21:02:15 +0000 2018",
+   "text": "@_prateekbh @_abhinavrastogi JSConf IS!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965692380639772700,
+   "in_reply_to_status_id_str": "965692380639772672",
+   "in_reply_to_screen_name": "_prateekbh",
+   "urls": []
   }
  ]
 }

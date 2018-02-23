@@ -1,6 +1,423 @@
 {
- "time": 1518873098852,
+ "time": 1519367394731,
  "lists": [
+  {
+   "id": 966768799981719600,
+   "id_str": "966768799981719554",
+   "created_at": "Thu Feb 22 20:16:58 +0000 2018",
+   "text": "@hylian @tidxconference I'll bring it just in case I don't like web assembly :) Or better Elon's flamethrower",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966767514335285200,
+   "in_reply_to_status_id_str": "966767514335285252",
+   "in_reply_to_screen_name": "hylian",
+   "urls": []
+  },
+  {
+   "id": 966756375735996400,
+   "id_str": "966756375735996416",
+   "created_at": "Thu Feb 22 19:27:36 +0000 2018",
+   "text": "Preparing my Machine Learning demo for @tidxconference https://t.co/Er6buociGZ",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966743225548423200,
+   "id_str": "966743225548423168",
+   "created_at": "Thu Feb 22 18:35:20 +0000 2018",
+   "text": "@elminiero @murillo How can I express my dislike for this tweet?!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966717609642283000,
+   "in_reply_to_status_id_str": "966717609642283008",
+   "in_reply_to_screen_name": "elminiero",
+   "urls": []
+  },
+  {
+   "id": 966743152026619900,
+   "id_str": "966743152026619906",
+   "created_at": "Thu Feb 22 18:35:03 +0000 2018",
+   "text": "@murillo method3 for sure! although I would call it Data::ptr and maybe using 'using' instead of 'typedef'",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966715606639763500,
+   "in_reply_to_status_id_str": "966715606639763456",
+   "in_reply_to_screen_name": "murillo",
+   "urls": []
+  },
+  {
+   "id": 966446068056690700,
+   "id_str": "966446068056690688",
+   "created_at": "Wed Feb 21 22:54:32 +0000 2018",
+   "text": "@murillo @dan_jenkins I would try sprop-stereo in the offer (willing to send) and stereo in the answer (willing to… https://t.co/G8dBm0d07X",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966444770737426400,
+   "in_reply_to_status_id_str": "966444770737426432",
+   "in_reply_to_screen_name": "murillo",
+   "urls": [
+    {
+     "url": "https://t.co/G8dBm0d07X",
+     "expand": "https://twitter.com/i/web/status/966446068056690688"
+    }
+   ]
+  },
+  {
+   "id": 966439847480131600,
+   "id_str": "966439847480131585",
+   "created_at": "Wed Feb 21 22:29:49 +0000 2018",
+   "text": "@ibc_tw @murillo @dan_jenkins https://t.co/neohNA0ghY",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966438322452254700,
+   "in_reply_to_status_id_str": "966438322452254722",
+   "in_reply_to_screen_name": "ibc_tw",
+   "urls": [
+    {
+     "url": "https://t.co/neohNA0ghY",
+     "expand": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
+    }
+   ]
+  },
+  {
+   "id": 966435029348966400,
+   "id_str": "966435029348966400",
+   "created_at": "Wed Feb 21 22:10:41 +0000 2018",
+   "text": "@murillo @dan_jenkins stereo=1 and sprop-stereo=1 ?  https://t.co/VuRGkFeF5c",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966431733511086100,
+   "in_reply_to_status_id_str": "966431733511086083",
+   "in_reply_to_screen_name": "murillo",
+   "urls": [
+    {
+     "url": "https://t.co/VuRGkFeF5c",
+     "expand": "https://www.rfc-editor.org/rfc/rfc7587.txt"
+    }
+   ]
+  },
+  {
+   "id": 966425857844752400,
+   "id_str": "966425857844752385",
+   "created_at": "Wed Feb 21 21:34:14 +0000 2018",
+   "text": "@murillo 3-4y ago I generated a version for a customer enabling stereo opus in the SDP.... I don't remember what wa… https://t.co/bQdZlA5hqZ",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966382686590898200,
+   "in_reply_to_status_id_str": "966382686590898177",
+   "in_reply_to_screen_name": "murillo",
+   "urls": [
+    {
+     "url": "https://t.co/bQdZlA5hqZ",
+     "expand": "https://twitter.com/i/web/status/966425857844752385"
+    }
+   ]
+  },
+  {
+   "id": 966424069389332500,
+   "id_str": "966424069389332480",
+   "created_at": "Wed Feb 21 21:27:08 +0000 2018",
+   "text": "RT @gregisenberg: You gotta hand it to @houseparty. The team continues to build beautiful social products for gen-z with a POINT A VIEW. We…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966370868807983100,
+    "id_str": "966370868807983105",
+    "created_at": "Wed Feb 21 17:55:44 +0000 2018",
+    "text": "You gotta hand it to @houseparty. The team continues to build beautiful social products for gen-z with a POINT A VI… https://t.co/u8XsscwMBT",
+    "retweet_count": 6,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/u8XsscwMBT",
+      "expand": "https://twitter.com/i/web/status/966370868807983105"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966310780068073500,
+   "id_str": "966310780068073472",
+   "created_at": "Wed Feb 21 13:56:57 +0000 2018",
+   "text": "Not bad for the first edition of #tidx! 124 people signed up and everything is ready for the conference this Saturd… https://t.co/ICfbwFADGV",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ICfbwFADGV",
+     "expand": "https://twitter.com/i/web/status/966310780068073472"
+    }
+   ]
+  },
+  {
+   "id": 966286534864498700,
+   "id_str": "966286534864498689",
+   "created_at": "Wed Feb 21 12:20:37 +0000 2018",
+   "text": "RT @xamat: “Down with Pipeline debt / Introducing Great Expectations” @expectgreatdata https://t.co/JM4jGg4kTC via @AbeGong",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JM4jGg4kTC",
+     "expand": "https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966166681935478800,
+    "id_str": "966166681935478789",
+    "created_at": "Wed Feb 21 04:24:22 +0000 2018",
+    "text": "“Down with Pipeline debt / Introducing Great Expectations” @expectgreatdata https://t.co/JM4jGg4kTC via @AbeGong",
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JM4jGg4kTC",
+      "expand": "https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966235460778504200,
+   "id_str": "966235460778504193",
+   "created_at": "Wed Feb 21 08:57:40 +0000 2018",
+   "text": "@tsahil \"Going above 50 seems like a bad idea for all use cases that I can remember taking part of.\" I'm using 160 :P",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966087862197342200,
+   "in_reply_to_status_id_str": "966087862197342209",
+   "in_reply_to_screen_name": "tsahil",
+   "urls": []
+  },
+  {
+   "id": 965961103082651600,
+   "id_str": "965961103082651648",
+   "created_at": "Tue Feb 20 14:47:28 +0000 2018",
+   "text": "VoIP software developer job in Madrid:\nhttps://t.co/Jic9Z9HmiO",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Jic9Z9HmiO",
+     "expand": "https://jobs.telefonica.com/job/MADRID-VoIP-Software-developer/456970001/"
+    }
+   ]
+  },
+  {
+   "id": 965864235925372900,
+   "id_str": "965864235925372929",
+   "created_at": "Tue Feb 20 08:22:33 +0000 2018",
+   "text": "@jserna I took a look and most of new Android devices support it: https://t.co/CHAej6iLo9 .   I guess I've never se… https://t.co/z5og8jQrsC",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965863381595979800,
+   "in_reply_to_status_id_str": "965863381595979776",
+   "in_reply_to_screen_name": "jserna",
+   "urls": [
+    {
+     "url": "https://t.co/CHAej6iLo9",
+     "expand": "https://support.t-mobile.com/docs/DOC-22754"
+    },
+    {
+     "url": "https://t.co/z5og8jQrsC",
+     "expand": "https://twitter.com/i/web/status/965864235925372929"
+    }
+   ]
+  },
+  {
+   "id": 965860177521139700,
+   "id_str": "965860177521139712",
+   "created_at": "Tue Feb 20 08:06:25 +0000 2018",
+   "text": "@jserna What operators are really having VoLTE deployed for real customers today?  Is there any link about it?  I'm… https://t.co/QkfNSZblUK",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965725663935295500,
+   "in_reply_to_status_id_str": "965725663935295488",
+   "in_reply_to_screen_name": "jserna",
+   "urls": [
+    {
+     "url": "https://t.co/QkfNSZblUK",
+     "expand": "https://twitter.com/i/web/status/965860177521139712"
+    }
+   ]
+  },
+  {
+   "id": 965717584275497000,
+   "id_str": "965717584275496960",
+   "created_at": "Mon Feb 19 22:39:48 +0000 2018",
+   "text": "RT @ABC: ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on his arm. This we…",
+   "retweet_count": 20041,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965710028702453800,
+    "id_str": "965710028702453760",
+    "created_at": "Mon Feb 19 22:09:47 +0000 2018",
+    "text": "ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on h… https://t.co/HsUKYRAiii",
+    "retweet_count": 20041,
+    "favorite_count": 55102,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HsUKYRAiii",
+      "expand": "https://twitter.com/i/web/status/965710028702453760"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965660662692278300,
+   "id_str": "965660662692278274",
+   "created_at": "Mon Feb 19 18:53:37 +0000 2018",
+   "text": "RT @victorpascual: At @Genaker we are hiring a rockstar voip developer and a sysadmin - contact me for further info",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965635458179977200,
+    "id_str": "965635458179977216",
+    "created_at": "Mon Feb 19 17:13:28 +0000 2018",
+    "text": "At @Genaker we are hiring a rockstar voip developer and a sysadmin - contact me for further info",
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965005208681156600,
+   "id_str": "965005208681156608",
+   "created_at": "Sat Feb 17 23:29:05 +0000 2018",
+   "text": "I was not expecting Inception model to be so fast in a normal android phone.  Building this demo was easy, next I n… https://t.co/SPvquoFg4M",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SPvquoFg4M",
+     "expand": "https://twitter.com/i/web/status/965005208681156608"
+    }
+   ]
+  },
+  {
+   "id": 964982088985440300,
+   "id_str": "964982088985440256",
+   "created_at": "Sat Feb 17 21:57:13 +0000 2018",
+   "text": "@tsahil The presentation I'm preparing is about TensorFlow :)  I don't know much about MXNet but the community and… https://t.co/EUntmzSuCo",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964953870232440800,
+   "in_reply_to_status_id_str": "964953870232440832",
+   "in_reply_to_screen_name": "tsahil",
+   "urls": [
+    {
+     "url": "https://t.co/EUntmzSuCo",
+     "expand": "https://twitter.com/i/web/status/964982088985440256"
+    }
+   ]
+  },
+  {
+   "id": 964980541400502300,
+   "id_str": "964980541400502272",
+   "created_at": "Sat Feb 17 21:51:04 +0000 2018",
+   "text": "This is the most popular github repo this month: https://t.co/0Lm9YugquE\n\nImpressive...",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0Lm9YugquE",
+     "expand": "https://github.com/kelseyhightower/nocode"
+    }
+   ]
+  },
+  {
+   "id": 964929501468811300,
+   "id_str": "964929501468811264",
+   "created_at": "Sat Feb 17 18:28:15 +0000 2018",
+   "text": "@Kieleth Deep dense NN. MNIST.  Numbers :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964699324432007200,
+   "in_reply_to_status_id_str": "964699324432007168",
+   "in_reply_to_screen_name": "Kieleth",
+   "urls": []
+  },
+  {
+   "id": 964929359252508700,
+   "id_str": "964929359252508677",
+   "created_at": "Sat Feb 17 18:27:41 +0000 2018",
+   "text": "@tsahil Looks like a good idea.  I stopped using GCE years ago but maybe this is a reason to go back.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964890208343920600,
+   "in_reply_to_status_id_str": "964890208343920640",
+   "in_reply_to_screen_name": "tsahil",
+   "urls": []
+  },
   {
    "id": 964638668760764400,
    "id_str": "964638668760764417",
@@ -10,6 +427,7 @@
    "favorite_count": 2,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {

@@ -1,17 +1,85 @@
 {
- "time": 1518873212317,
+ "time": 1519367435213,
  "lists": [
   {
-   "id": 964188991871508500,
-   "id_str": "964188991871508480",
-   "created_at": "Thu Feb 15 17:25:44 +0000 2018",
-   "text": "@blastgraphic Nice work. You'll have fun with Tax Aversion.",
+   "id": 966048908605575200,
+   "id_str": "966048908605575173",
+   "created_at": "Tue Feb 20 20:36:22 +0000 2018",
+   "text": "@ma1 Does NoScript/ABE fully mitigate DNS rebinding attacks like https://t.co/rQdILaEQb2?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "ma1",
+   "urls": [
+    {
+     "url": "https://t.co/rQdILaEQb2",
+     "expand": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1524"
+    }
+   ]
+  },
+  {
+   "id": 965916739107246100,
+   "id_str": "965916739107246080",
+   "created_at": "Tue Feb 20 11:51:11 +0000 2018",
+   "text": "@Random_Robbie Use Burp-&gt;Search and only check 'Response headers'; runs comfortably with 50k+ websites.",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964155872200060900,
-   "in_reply_to_screen_name": "blastgraphic",
+   "in_reply_to_status_id": 965898882210320400,
+   "in_reply_to_status_id_str": "965898882210320384",
+   "in_reply_to_screen_name": "Random_Robbie",
    "urls": []
+  },
+  {
+   "id": 965898419922497500,
+   "id_str": "965898419922497536",
+   "created_at": "Tue Feb 20 10:38:23 +0000 2018",
+   "text": "@Random_Robbie This should work: Filter, ctr+a, right click, active scan.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965853462494957600,
+   "in_reply_to_status_id_str": "965853462494957568",
+   "in_reply_to_screen_name": "Random_Robbie",
+   "urls": []
+  },
+  {
+   "id": 965573736022847500,
+   "id_str": "965573736022847488",
+   "created_at": "Mon Feb 19 13:08:12 +0000 2018",
+   "text": "@Random_Robbie Scope is partly used to determine where Burp will send payloads, so it can't be based on response at… https://t.co/QpCW2IUBsR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964784088963014700,
+   "in_reply_to_status_id_str": "964784088963014656",
+   "in_reply_to_screen_name": "Random_Robbie",
+   "urls": [
+    {
+     "url": "https://t.co/QpCW2IUBsR",
+     "expand": "https://twitter.com/i/web/status/965573736022847488"
+    }
+   ]
+  },
+  {
+   "id": 965516789546471400,
+   "id_str": "965516789546471424",
+   "created_at": "Mon Feb 19 09:21:55 +0000 2018",
+   "text": "You can hide the dubious new twitter notifications with a custom adblocker rule:\n\n##.with-contextTweet.stream-item-… https://t.co/F0RBDpnPWT",
+   "retweet_count": 8,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/F0RBDpnPWT",
+     "expand": "https://twitter.com/i/web/status/965516789546471424"
+    }
+   ]
   }
  ]
 }

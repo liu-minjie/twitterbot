@@ -1,15 +1,823 @@
 {
- "time": 1518873092102,
+ "time": 1519367388127,
  "lists": [
+  {
+   "id": 966914674888290300,
+   "id_str": "966914674888290304",
+   "created_at": "Fri Feb 23 05:56:37 +0000 2018",
+   "text": "RT @cssradar: JavaScript Decorators for Declarative and Readable Code · Minko Gechev's blog https://t.co/276ZBOAAif",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/276ZBOAAif",
+     "expand": "https://buff.ly/2EJDxno"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966245362603262000,
+    "id_str": "966245362603261952",
+    "created_at": "Wed Feb 21 09:37:01 +0000 2018",
+    "text": "JavaScript Decorators for Declarative and Readable Code · Minko Gechev's blog https://t.co/276ZBOAAif",
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/276ZBOAAif",
+      "expand": "https://buff.ly/2EJDxno"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966822363105931300,
+   "id_str": "966822363105931265",
+   "created_at": "Thu Feb 22 23:49:48 +0000 2018",
+   "text": "@HashTagMaan Ready!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966821429294522400,
+   "in_reply_to_status_id_str": "966821429294522368",
+   "in_reply_to_screen_name": "mgechev",
+   "urls": []
+  },
+  {
+   "id": 966821429294522400,
+   "id_str": "966821429294522368",
+   "created_at": "Thu Feb 22 23:46:06 +0000 2018",
+   "text": "@HashTagMaan Correct. Uploading one right now.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966809799336906800,
+   "in_reply_to_status_id_str": "966809799336906758",
+   "in_reply_to_screen_name": "HashTagMaan",
+   "urls": []
+  },
+  {
+   "id": 966804321072332800,
+   "id_str": "966804321072332801",
+   "created_at": "Thu Feb 22 22:38:07 +0000 2018",
+   "text": "@unstephenk Let me know when you do!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966791904854728700,
+   "in_reply_to_status_id_str": "966791904854728704",
+   "in_reply_to_screen_name": "unstephenk",
+   "urls": []
+  },
+  {
+   "id": 966768686286610400,
+   "id_str": "966768686286610433",
+   "created_at": "Thu Feb 22 20:16:31 +0000 2018",
+   "text": "@pedrocmachado If you can share a minimum demo where I'd be able to reproduce the issue this will be very helpful.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966695078294179800,
+   "in_reply_to_status_id_str": "966695078294179840",
+   "in_reply_to_screen_name": "pedrocmachado",
+   "urls": []
+  },
+  {
+   "id": 966764352740061200,
+   "id_str": "966764352740061184",
+   "created_at": "Thu Feb 22 19:59:17 +0000 2018",
+   "text": "RT @stephenfluin: We're trying to get better at sharing our hopes and dreams for the #Angular roadmap https://t.co/XFXfTDw9BT",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XFXfTDw9BT",
+     "expand": "https://blog.angular.io/trip-report-from-ngatlanta-angulars-roadmap-inclusion-and-more-b6c8bae85417"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966754345931874300,
+    "id_str": "966754345931874304",
+    "created_at": "Thu Feb 22 19:19:32 +0000 2018",
+    "text": "We're trying to get better at sharing our hopes and dreams for the #Angular roadmap https://t.co/XFXfTDw9BT",
+    "retweet_count": 15,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XFXfTDw9BT",
+      "expand": "https://blog.angular.io/trip-report-from-ngatlanta-angulars-roadmap-inclusion-and-more-b6c8bae85417"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966711877781807100,
+   "id_str": "966711877781807105",
+   "created_at": "Thu Feb 22 16:30:46 +0000 2018",
+   "text": "@jdjuan @eusoj @stephenfluin @gnomeontherun @YuxiGlobal @angular @GoogleDevExpert Congrats :-)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966708172806344700,
+   "in_reply_to_status_id_str": "966708172806344710",
+   "in_reply_to_screen_name": "jdjuan",
+   "urls": []
+  },
+  {
+   "id": 966690908090417200,
+   "id_str": "966690908090417154",
+   "created_at": "Thu Feb 22 15:07:27 +0000 2018",
+   "text": "RT @ManfredSteyer: Must have tool for #Angular https://t.co/TkLtZYvb3l",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TkLtZYvb3l",
+     "expand": "https://twitter.com/mgechev/status/966547303799517184"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966563566567518200,
+    "id_str": "966563566567518209",
+    "created_at": "Thu Feb 22 06:41:26 +0000 2018",
+    "text": "Must have tool for #Angular https://t.co/TkLtZYvb3l",
+    "retweet_count": 5,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TkLtZYvb3l",
+      "expand": "https://twitter.com/mgechev/status/966547303799517184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966690878176702500,
+   "id_str": "966690878176702464",
+   "created_at": "Thu Feb 22 15:07:20 +0000 2018",
+   "text": "RT @philou_philou_p: A tool for visualize your structure in an Angular application. Thx @mgechev  👏🏽👏🏽👏🏽 https://t.co/RP6FxVWFmJ",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RP6FxVWFmJ",
+     "expand": "https://twitter.com/mgechev/status/966547303799517184"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966591413789057000,
+    "id_str": "966591413789057027",
+    "created_at": "Thu Feb 22 08:32:06 +0000 2018",
+    "text": "A tool for visualize your structure in an Angular application. Thx @mgechev  👏🏽👏🏽👏🏽 https://t.co/RP6FxVWFmJ",
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RP6FxVWFmJ",
+      "expand": "https://twitter.com/mgechev/status/966547303799517184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966690822828605400,
+   "id_str": "966690822828605440",
+   "created_at": "Thu Feb 22 15:07:07 +0000 2018",
+   "text": "@pedrocmachado Yes it does!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966630427967524900,
+   "in_reply_to_status_id_str": "966630427967524866",
+   "in_reply_to_screen_name": "pedrocmachado",
+   "urls": []
+  },
+  {
+   "id": 966547303799517200,
+   "id_str": "966547303799517184",
+   "created_at": "Thu Feb 22 05:36:49 +0000 2018",
+   "text": "You can use ngrev to visualize the structure of your Angular application! 🔥🔥🔥 Don't forget about the neat features:… https://t.co/dp798O7vMD",
+   "retweet_count": 80,
+   "favorite_count": 213,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dp798O7vMD",
+     "expand": "https://twitter.com/i/web/status/966547303799517184"
+    }
+   ]
+  },
+  {
+   "id": 966546536460034000,
+   "id_str": "966546536460034048",
+   "created_at": "Thu Feb 22 05:33:46 +0000 2018",
+   "text": "RT @zendigital: Faster #Angular Applications - Part 2. Pure #Pipes, Pure #Functions and Memoization https://t.co/aEzyS33V4R @mgechev",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/aEzyS33V4R",
+     "expand": "http://zndg.tl/2Bf00CN"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965966821974265900,
+    "id_str": "965966821974265857",
+    "created_at": "Tue Feb 20 15:10:11 +0000 2018",
+    "text": "Faster #Angular Applications - Part 2. Pure #Pipes, Pure #Functions and Memoization https://t.co/aEzyS33V4R @mgechev",
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aEzyS33V4R",
+      "expand": "http://zndg.tl/2Bf00CN"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966461107614265300,
+   "id_str": "966461107614265344",
+   "created_at": "Wed Feb 21 23:54:18 +0000 2018",
+   "text": "RT @frontend_weekly: JavaScript Decorators for Declarative and Readable Code · Minko Gechev's blog https://t.co/nPi4dlwt3J",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nPi4dlwt3J",
+     "expand": "https://buff.ly/2EJDxno"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966245361986752500,
+    "id_str": "966245361986752512",
+    "created_at": "Wed Feb 21 09:37:00 +0000 2018",
+    "text": "JavaScript Decorators for Declarative and Readable Code · Minko Gechev's blog https://t.co/nPi4dlwt3J",
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nPi4dlwt3J",
+      "expand": "https://buff.ly/2EJDxno"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966383681303490600,
+   "id_str": "966383681303490560",
+   "created_at": "Wed Feb 21 18:46:38 +0000 2018",
+   "text": "Love tmux...For the past 5 years, I've been using it on a daily basis. It takes me 1 second to start my dev environ… https://t.co/czWINRg2yE",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/czWINRg2yE",
+     "expand": "https://twitter.com/i/web/status/966383681303490560"
+    }
+   ]
+  },
+  {
+   "id": 966379346616229900,
+   "id_str": "966379346616229889",
+   "created_at": "Wed Feb 21 18:29:25 +0000 2018",
+   "text": "@william_koza The building got evacuated so I wasn't really able to do the talk. This time it was much smoother tho… https://t.co/r2lCWI7VYL",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966370936042737700,
+   "in_reply_to_status_id_str": "966370936042737667",
+   "in_reply_to_screen_name": "william_koza",
+   "urls": [
+    {
+     "url": "https://t.co/r2lCWI7VYL",
+     "expand": "https://twitter.com/i/web/status/966379346616229889"
+    }
+   ]
+  },
+  {
+   "id": 966364691432788000,
+   "id_str": "966364691432787968",
+   "created_at": "Wed Feb 21 17:31:11 +0000 2018",
+   "text": "@NativeScript keeps rocking! https://t.co/I3x7EQYXz4",
+   "retweet_count": 4,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "NativeScript",
+   "urls": [
+    {
+     "url": "https://t.co/I3x7EQYXz4",
+     "expand": "https://twitter.com/JavaScriptDaily/status/966354858415620098"
+    }
+   ]
+  },
+  {
+   "id": 966159406743175200,
+   "id_str": "966159406743175168",
+   "created_at": "Wed Feb 21 03:55:27 +0000 2018",
+   "text": "Last time I tried to give my talk \"Mad Science with the Angular Compiler\" the building got on fire. This time my ke… https://t.co/tJ6SQETIvY",
+   "retweet_count": 1,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tJ6SQETIvY",
+     "expand": "https://twitter.com/i/web/status/966159406743175168"
+    }
+   ]
+  },
+  {
+   "id": 966140216548278300,
+   "id_str": "966140216548278273",
+   "created_at": "Wed Feb 21 02:39:12 +0000 2018",
+   "text": "@IgorMinar People are still unhappy with deps though https://t.co/moj4S0qlgV",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 962523473577902100,
+   "in_reply_to_status_id_str": "962523473577902080",
+   "in_reply_to_screen_name": "IgorMinar",
+   "urls": [
+    {
+     "url": "https://t.co/moj4S0qlgV",
+     "expand": "https://research.swtch.com/vgo-intro"
+    }
+   ]
+  },
+  {
+   "id": 966139924004024300,
+   "id_str": "966139924004024320",
+   "created_at": "Wed Feb 21 02:38:02 +0000 2018",
+   "text": "...and here it is...A keylogger implemented entirely with CSS! 🕵🕵🕵  https://t.co/7EcpGv7lQl",
+   "retweet_count": 24,
+   "favorite_count": 41,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7EcpGv7lQl",
+     "expand": "https://github.com/maxchehab/CSS-Keylogging"
+    }
+   ]
+  },
+  {
+   "id": 965984069199708200,
+   "id_str": "965984069199708160",
+   "created_at": "Tue Feb 20 16:18:43 +0000 2018",
+   "text": "@AndySharkey https://t.co/Xb5g30sRZF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965983838756225000,
+   "in_reply_to_status_id_str": "965983838756225024",
+   "in_reply_to_screen_name": "AndySharkey",
+   "urls": [
+    {
+     "url": "https://t.co/Xb5g30sRZF",
+     "expand": "https://www.meetup.com/google-developer-group-san-francisco/events/246702042/"
+    }
+   ]
+  },
+  {
+   "id": 965982415293304800,
+   "id_str": "965982415293304832",
+   "created_at": "Tue Feb 20 16:12:09 +0000 2018",
+   "text": "Join me tonight at the Google's office in San Francisco! Would love to chat about the Angular compiler and what doo… https://t.co/d5YElzKvp2",
+   "retweet_count": 2,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/d5YElzKvp2",
+     "expand": "https://twitter.com/i/web/status/965982415293304832"
+    }
+   ]
+  },
+  {
+   "id": 965967300745609200,
+   "id_str": "965967300745609217",
+   "created_at": "Tue Feb 20 15:12:05 +0000 2018",
+   "text": "RT @ngNewYork: Faster #Angular Applications - Part 2. Pure #Pipes, Pure #Functions and Memoization https://t.co/jpzUuNMaS2 @mgechev",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jpzUuNMaS2",
+     "expand": "http://zndg.tl/2Bf00CN"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965966821210824700,
+    "id_str": "965966821210824704",
+    "created_at": "Tue Feb 20 15:10:11 +0000 2018",
+    "text": "Faster #Angular Applications - Part 2. Pure #Pipes, Pure #Functions and Memoization https://t.co/jpzUuNMaS2 @mgechev",
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jpzUuNMaS2",
+      "expand": "http://zndg.tl/2Bf00CN"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965769924995039200,
+   "id_str": "965769924995039232",
+   "created_at": "Tue Feb 20 02:07:47 +0000 2018",
+   "text": "@ed_pelc I prefer this https://t.co/3yK4czrpOg. With the ascription/casting, you can decide that it's safe to touch… https://t.co/O1ClDqUWU5",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965766815170355200,
+   "in_reply_to_status_id_str": "965766815170355200",
+   "in_reply_to_screen_name": "ed_pelc",
+   "urls": [
+    {
+     "url": "https://t.co/3yK4czrpOg",
+     "expand": "https://twitter.com/mgechev/status/965736924752232449"
+    },
+    {
+     "url": "https://t.co/O1ClDqUWU5",
+     "expand": "https://twitter.com/i/web/status/965769924995039232"
+    }
+   ]
+  },
+  {
+   "id": 965766485976129500,
+   "id_str": "965766485976129536",
+   "created_at": "Tue Feb 20 01:54:07 +0000 2018",
+   "text": "@ed_pelc This works as well. Doesn't look very consistent though.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965766152990462000,
+   "in_reply_to_status_id_str": "965766152990461953",
+   "in_reply_to_screen_name": "ed_pelc",
+   "urls": []
+  },
+  {
+   "id": 965736924752232400,
+   "id_str": "965736924752232449",
+   "created_at": "Mon Feb 19 23:56:40 +0000 2018",
+   "text": "Prefer interface `getUserOrganization(user: User, organization: Organization): Promise&lt;Organization&gt;` over `getUser… https://t.co/xyEpLykfPj",
+   "retweet_count": 8,
+   "favorite_count": 33,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xyEpLykfPj",
+     "expand": "https://twitter.com/i/web/status/965736924752232449"
+    }
+   ]
+  },
+  {
+   "id": 965681327868592100,
+   "id_str": "965681327868592128",
+   "created_at": "Mon Feb 19 20:15:44 +0000 2018",
+   "text": "Tomorrow I have a talk at Google's office in San Francisco, right next to Bay Bridge. Feel free to join and see wha… https://t.co/arxJ5fOKob",
+   "retweet_count": 5,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/arxJ5fOKob",
+     "expand": "https://twitter.com/i/web/status/965681327868592128"
+    }
+   ]
+  },
+  {
+   "id": 965670229685649400,
+   "id_str": "965670229685649409",
+   "created_at": "Mon Feb 19 19:31:38 +0000 2018",
+   "text": "⚡ Speeding up your website by streaming JSON with HTTP chunked transfer encoding https://t.co/SeugQIsheC. ⚡ A few y… https://t.co/I7iogA7q8h",
+   "retweet_count": 10,
+   "favorite_count": 30,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SeugQIsheC",
+     "expand": "https://instantdomainsearch.com/articles/streaming-json-jsons/"
+    },
+    {
+     "url": "https://t.co/I7iogA7q8h",
+     "expand": "https://twitter.com/i/web/status/965670229685649409"
+    }
+   ]
+  },
+  {
+   "id": 965467633788141600,
+   "id_str": "965467633788141568",
+   "created_at": "Mon Feb 19 06:06:36 +0000 2018",
+   "text": "Comments like this one are such a nice surprise! https://t.co/gQrgjFg5yG",
+   "retweet_count": 2,
+   "favorite_count": 43,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965375655805202400,
+   "id_str": "965375655805202434",
+   "created_at": "Mon Feb 19 00:01:06 +0000 2018",
+   "text": "With its conventions for public and internal definitions, on a package level, Go makes refactoring on package level… https://t.co/qcFUIGjDDa",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qcFUIGjDDa",
+     "expand": "https://twitter.com/i/web/status/965375655805202434"
+    }
+   ]
+  },
+  {
+   "id": 965365959903948800,
+   "id_str": "965365959903948801",
+   "created_at": "Sun Feb 18 23:22:35 +0000 2018",
+   "text": "Cool essay on the similarities between monadic I/O in Haskell, and UNIX filter compositions ⚡ https://t.co/eH29T5mdVj",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eH29T5mdVj",
+     "expand": "http://okmij.org/ftp/Computation/monadic-shell.html"
+    }
+   ]
+  },
+  {
+   "id": 965330159401185300,
+   "id_str": "965330159401185281",
+   "created_at": "Sun Feb 18 21:00:19 +0000 2018",
+   "text": "RT @BuzzJS: Faster #Angular Application [Part 1]: On Push and #Immutable.js  https://t.co/jY3LT7466u @mgechev #JavaScript",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jY3LT7466u",
+     "expand": "http://zndg.tl/2BgjQ0q"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964180051511083000,
+    "id_str": "964180051511083010",
+    "created_at": "Thu Feb 15 16:50:12 +0000 2018",
+    "text": "Faster #Angular Application [Part 1]: On Push and #Immutable.js  https://t.co/jY3LT7466u @mgechev #JavaScript",
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jY3LT7466u",
+      "expand": "http://zndg.tl/2BgjQ0q"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965275124323643400,
+   "id_str": "965275124323643392",
+   "created_at": "Sun Feb 18 17:21:38 +0000 2018",
+   "text": "@_victormejia In reality it looks even better!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965269072748339200,
+   "in_reply_to_status_id_str": "965269072748339200",
+   "in_reply_to_screen_name": "_victormejia",
+   "urls": []
+  },
+  {
+   "id": 965262131972128800,
+   "id_str": "965262131972128768",
+   "created_at": "Sun Feb 18 16:30:00 +0000 2018",
+   "text": "https://t.co/TfGmoB8QPc",
+   "retweet_count": 0,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": 965259066355298300,
+   "in_reply_to_status_id_str": "965259066355298304",
+   "in_reply_to_screen_name": "mgechev",
+   "urls": []
+  },
+  {
+   "id": 965259066355298300,
+   "id_str": "965259066355298304",
+   "created_at": "Sun Feb 18 16:17:49 +0000 2018",
+   "text": "Current status https://t.co/teSdm0v6IJ",
+   "retweet_count": 1,
+   "favorite_count": 76,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965097256176070700,
+   "id_str": "965097256176070656",
+   "created_at": "Sun Feb 18 05:34:51 +0000 2018",
+   "text": "@TheLarkInn What I love about formal models is that, depending on the purpose, often ugly details from reality can be ignored :-)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965096087554895900,
+   "in_reply_to_status_id_str": "965096087554895872",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 965044003069505500,
+   "id_str": "965044003069505536",
+   "created_at": "Sun Feb 18 02:03:14 +0000 2018",
+   "text": "The foundation of every modern bundler (webpack for instance) can be well formalized with directed dependency graph… https://t.co/83k9HLyCUt",
+   "retweet_count": 2,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/83k9HLyCUt",
+     "expand": "https://twitter.com/i/web/status/965044003069505536"
+    }
+   ]
+  },
+  {
+   "id": 965040586200727600,
+   "id_str": "965040586200727553",
+   "created_at": "Sun Feb 18 01:49:39 +0000 2018",
+   "text": "How would you model the page graph of a single-page application? As DFA or NFA? I see pros and cons of both approaches.",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965018548719403000,
+   "id_str": "965018548719403010",
+   "created_at": "Sun Feb 18 00:22:05 +0000 2018",
+   "text": "Generate Markov chains for freestyle rap contests https://t.co/NKnFbrbVLz",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NKnFbrbVLz",
+     "expand": "https://github.com/substack/node-markov"
+    }
+   ]
+  },
+  {
+   "id": 965006045008429000,
+   "id_str": "965006045008429056",
+   "created_at": "Sat Feb 17 23:32:24 +0000 2018",
+   "text": "RT @NG_Tutorial: Faster Angular Applications - Part 1. On Push Change Detection and Immutability. By Minko Gechev https://t.co/f7iRMONkSk",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/f7iRMONkSk",
+     "expand": "http://bit.ly/2p02Lae"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964967130071486500,
+    "id_str": "964967130071486465",
+    "created_at": "Sat Feb 17 20:57:46 +0000 2018",
+    "text": "Faster Angular Applications - Part 1. On Push Change Detection and Immutability. By Minko Gechev https://t.co/f7iRMONkSk",
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/f7iRMONkSk",
+      "expand": "http://bit.ly/2p02Lae"
+     }
+    ]
+   }
+  },
   {
    "id": 964715232542187500,
    "id_str": "964715232542187520",
    "created_at": "Sat Feb 17 04:16:49 +0000 2018",
    "text": "🕵 Interesting technique for stealing sensitive data using CSS value selectors https://t.co/0nfSlka1gZ https://t.co/AyFB0uP4U5",
-   "retweet_count": 11,
-   "favorite_count": 25,
+   "retweet_count": 29,
+   "favorite_count": 56,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {

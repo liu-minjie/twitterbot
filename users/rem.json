@@ -1,17 +1,523 @@
 {
- "time": 1518873200692,
+ "time": 1519367422675,
  "lists": [
   {
-   "id": 964622686658981900,
-   "id_str": "964622686658981888",
-   "created_at": "Fri Feb 16 22:09:04 +0000 2018",
-   "text": "@dugboticus Right, fixed!",
+   "id": 966785505059893200,
+   "id_str": "966785505059893250",
+   "created_at": "Thu Feb 22 21:23:21 +0000 2018",
+   "text": "RT @stephdriggs: I went to the meeting. It was a good time. lots of eager women (and a couple guys) learning cool things about math. we mad…",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966571121465176000,
+    "id_str": "966571121465176064",
+    "created_at": "Thu Feb 22 07:11:28 +0000 2018",
+    "text": "I went to the meeting. It was a good time. lots of eager women (and a couple guys) learning cool things about math.… https://t.co/c1HtO3KCHe",
+    "retweet_count": 29,
+    "favorite_count": 571,
+    "place": null,
+    "in_reply_to_status_id": 966149009411752000,
+    "in_reply_to_status_id_str": "966149009411751936",
+    "in_reply_to_screen_name": "stephdriggs",
+    "urls": [
+     {
+      "url": "https://t.co/c1HtO3KCHe",
+      "expand": "https://twitter.com/i/web/status/966571121465176064"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966783426937401300,
+   "id_str": "966783426937401345",
+   "created_at": "Thu Feb 22 21:15:05 +0000 2018",
+   "text": "This document is superb stuff. Small, simple, and right to the point. Grab it. https://t.co/nNdqRpfIh2",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nNdqRpfIh2",
+     "expand": "https://twitter.com/jonathanstark/status/966780291036733440"
+    }
+   ]
+  },
+  {
+   "id": 966614558604513300,
+   "id_str": "966614558604513281",
+   "created_at": "Thu Feb 22 10:04:04 +0000 2018",
+   "text": "RT @jsconfeu: 🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take us a few we…",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965954122519404500,
+    "id_str": "965954122519404547",
+    "created_at": "Tue Feb 20 14:19:44 +0000 2018",
+    "text": "🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take u… https://t.co/Vg1Ytm0VAB",
+    "retweet_count": 28,
+    "favorite_count": 84,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Vg1Ytm0VAB",
+      "expand": "https://twitter.com/i/web/status/965954122519404547"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966585811398479900,
+   "id_str": "966585811398479872",
+   "created_at": "Thu Feb 22 08:09:50 +0000 2018",
+   "text": "@8ruceMerritt Not aware per se, but it's \"legit\" in that it's here https://t.co/9zy2LWG1Cs",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964621661482844200,
-   "in_reply_to_screen_name": "rem",
+   "in_reply_to_status_id": 966429204165398500,
+   "in_reply_to_status_id_str": "966429204165398529",
+   "in_reply_to_screen_name": "8ruceMerritt",
+   "urls": [
+    {
+     "url": "https://t.co/9zy2LWG1Cs",
+     "expand": "http://uiface.com"
+    }
+   ]
+  },
+  {
+   "id": 966208193658531800,
+   "id_str": "966208193658531840",
+   "created_at": "Wed Feb 21 07:09:19 +0000 2018",
+   "text": "@reybango Still trying to get the design right. The code works, but yeah, I'll write it up 👍",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966036277647814700,
+   "in_reply_to_status_id_str": "966036277647814657",
+   "in_reply_to_screen_name": "reybango",
    "urls": []
+  },
+  {
+   "id": 966033537911672800,
+   "id_str": "966033537911672834",
+   "created_at": "Tue Feb 20 19:35:18 +0000 2018",
+   "text": "@reybango That one was for a \"it's about to rain / it is raining, get the washing in - via a push notification\". Ot… https://t.co/dkkWmZMVZA",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965975649667166200,
+   "in_reply_to_status_id_str": "965975649667166210",
+   "in_reply_to_screen_name": "reybango",
+   "urls": [
+    {
+     "url": "https://t.co/dkkWmZMVZA",
+     "expand": "https://twitter.com/i/web/status/966033537911672834"
+    }
+   ]
+  },
+  {
+   "id": 965881544534626300,
+   "id_str": "965881544534626304",
+   "created_at": "Tue Feb 20 09:31:20 +0000 2018",
+   "text": "@mfraz74 Doesn't need it as far as I've seen",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965689696717299700,
+   "in_reply_to_status_id_str": "965689696717299723",
+   "in_reply_to_screen_name": "mfraz74",
+   "urls": []
+  },
+  {
+   "id": 965692306203529200,
+   "id_str": "965692306203529217",
+   "created_at": "Mon Feb 19 20:59:22 +0000 2018",
+   "text": "@inthecompanyof I don't know - is why I'm asking! :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965691308479148000,
+   "in_reply_to_status_id_str": "965691308479148032",
+   "in_reply_to_screen_name": "inthecompanyof",
+   "urls": []
+  },
+  {
+   "id": 965691196860522500,
+   "id_str": "965691196860522497",
+   "created_at": "Mon Feb 19 20:54:57 +0000 2018",
+   "text": "Is there an web app like google forms (for a simple spreadsheet result), but allows you to take payment with it? No… https://t.co/1NvcZ00AiH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1NvcZ00AiH",
+     "expand": "https://twitter.com/i/web/status/965691196860522497"
+    }
+   ]
+  },
+  {
+   "id": 965690936041885700,
+   "id_str": "965690936041885697",
+   "created_at": "Mon Feb 19 20:53:55 +0000 2018",
+   "text": "@ben_nuttall @sil I indeed have multiple Pis :D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965689634243129300,
+   "in_reply_to_status_id_str": "965689634243129344",
+   "in_reply_to_screen_name": "ben_nuttall",
+   "urls": []
+  },
+  {
+   "id": 965669604432515100,
+   "id_str": "965669604432515072",
+   "created_at": "Mon Feb 19 19:29:09 +0000 2018",
+   "text": "@seb_ly Do you know of a UK supplier or do you just do the long delivery times?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965638599902449700,
+   "in_reply_to_status_id_str": "965638599902449669",
+   "in_reply_to_screen_name": "seb_ly",
+   "urls": []
+  },
+  {
+   "id": 965666954412478500,
+   "id_str": "965666954412478466",
+   "created_at": "Mon Feb 19 19:18:37 +0000 2018",
+   "text": "RT @usblm: Obama (2012) sits alone in a classroom after meeting for hours with parents of Sandy Hook victims. \n\nTrump (2018) sits at a disc…",
+   "retweet_count": 153681,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965412306690682900,
+    "id_str": "965412306690682880",
+    "created_at": "Mon Feb 19 02:26:45 +0000 2018",
+    "text": "Obama (2012) sits alone in a classroom after meeting for hours with parents of Sandy Hook victims. \n\nTrump (2018) s… https://t.co/FbjbXkwWzo",
+    "retweet_count": 153681,
+    "favorite_count": 309657,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FbjbXkwWzo",
+      "expand": "https://twitter.com/i/web/status/965412306690682880"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965635431525158900,
+   "id_str": "965635431525158913",
+   "created_at": "Mon Feb 19 17:13:22 +0000 2018",
+   "text": "Mark of the techie in me, I very nearly wrote \"cron'gratulations\"",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965632835112591400,
+   "id_str": "965632835112591361",
+   "created_at": "Mon Feb 19 17:03:03 +0000 2018",
+   "text": "@craig_makes I've got two from when they were SparkCores - and they're pretty good, just deployment/flashing was a… https://t.co/5FM3qqjlbi",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965630128712835100,
+   "in_reply_to_status_id_str": "965630128712835072",
+   "in_reply_to_screen_name": "craig_makes",
+   "urls": [
+    {
+     "url": "https://t.co/5FM3qqjlbi",
+     "expand": "https://twitter.com/i/web/status/965632835112591361"
+    }
+   ]
+  },
+  {
+   "id": 965632367196037100,
+   "id_str": "965632367196037121",
+   "created_at": "Mon Feb 19 17:01:11 +0000 2018",
+   "text": "@seb_ly These things? https://t.co/ebfQa8hdHI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965631048683016200,
+   "in_reply_to_status_id_str": "965631048683016194",
+   "in_reply_to_screen_name": "seb_ly",
+   "urls": [
+    {
+     "url": "https://t.co/ebfQa8hdHI",
+     "expand": "https://en.m.wikipedia.org/wiki/ESP8266"
+    }
+   ]
+  },
+  {
+   "id": 965629092954607600,
+   "id_str": "965629092954607617",
+   "created_at": "Mon Feb 19 16:48:10 +0000 2018",
+   "text": "And related to that, two really useful sites I found: https://t.co/iD5xWfVBo6 (pinout for Pi) and… https://t.co/P0iOcNxk0I",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 965628801429459000,
+   "in_reply_to_status_id_str": "965628801429458945",
+   "in_reply_to_screen_name": "rem",
+   "urls": [
+    {
+     "url": "https://t.co/iD5xWfVBo6",
+     "expand": "https://pinout.xyz/"
+    },
+    {
+     "url": "https://t.co/P0iOcNxk0I",
+     "expand": "https://twitter.com/i/web/status/965629092954607617"
+    }
+   ]
+  },
+  {
+   "id": 965628801429459000,
+   "id_str": "965628801429458945",
+   "created_at": "Mon Feb 19 16:47:01 +0000 2018",
+   "text": "Related, I wrote down the bullet points to get headless (and mouse/key-less) Raspberry PI set up:… https://t.co/R1FyQpnIkY",
+   "retweet_count": 1,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/R1FyQpnIkY",
+     "expand": "https://twitter.com/i/web/status/965628801429458945"
+    }
+   ]
+  },
+  {
+   "id": 965628561372610600,
+   "id_str": "965628561372610560",
+   "created_at": "Mon Feb 19 16:46:04 +0000 2018",
+   "text": "Been doing a few hardwear things thi w/e, and I love the RPi Zero, cost £5 👍 but then add cost of SD card, and it's… https://t.co/r38WDjDKuZ",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r38WDjDKuZ",
+     "expand": "https://twitter.com/i/web/status/965628561372610560"
+    }
+   ]
+  },
+  {
+   "id": 965565415773663200,
+   "id_str": "965565415773663237",
+   "created_at": "Mon Feb 19 12:35:09 +0000 2018",
+   "text": "@miss_jwo Oh, plus any other objects using radio signal will compete for space, including cordless phones, Bluetoot… https://t.co/eJQQiTJbtT",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965546312237224000,
+   "in_reply_to_status_id_str": "965546312237223941",
+   "in_reply_to_screen_name": "miss_jwo",
+   "urls": [
+    {
+     "url": "https://t.co/eJQQiTJbtT",
+     "expand": "https://twitter.com/i/web/status/965565415773663237"
+    }
+   ]
+  },
+  {
+   "id": 965565145626873900,
+   "id_str": "965565145626873856",
+   "created_at": "Mon Feb 19 12:34:04 +0000 2018",
+   "text": "@miss_jwo Do you have any idea of nearby WiFi points (android I use wi-fi analyser)? I had to get a strong WiFi rou… https://t.co/oCAujf2ihN",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965546312237224000,
+   "in_reply_to_status_id_str": "965546312237223941",
+   "in_reply_to_screen_name": "miss_jwo",
+   "urls": [
+    {
+     "url": "https://t.co/oCAujf2ihN",
+     "expand": "https://twitter.com/i/web/status/965565145626873856"
+    }
+   ]
+  },
+  {
+   "id": 965564818689323000,
+   "id_str": "965564818689323008",
+   "created_at": "Mon Feb 19 12:32:46 +0000 2018",
+   "text": "On marriage.\n\nMy girl: you and mummy got married yesterday.\nMe: (any day before today is yesterday, but) yes, that'… https://t.co/4I5DmYTlK6",
+   "retweet_count": 0,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4I5DmYTlK6",
+     "expand": "https://twitter.com/i/web/status/965564818689323008"
+    }
+   ]
+  },
+  {
+   "id": 965322406675013600,
+   "id_str": "965322406675013632",
+   "created_at": "Sun Feb 18 20:29:31 +0000 2018",
+   "text": "@Soulmech Not really, more of attending a discussion that discusses a book that addresses those topics.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965322093142401000,
+   "in_reply_to_status_id_str": "965322093142401024",
+   "in_reply_to_screen_name": "Soulmech",
+   "urls": []
+  },
+  {
+   "id": 965322115506430000,
+   "id_str": "965322115506429957",
+   "created_at": "Sun Feb 18 20:28:21 +0000 2018",
+   "text": "@andyboyd Dude, it was hard on one side and soft and squidy on the other side. Also: FUCKING CAT FOOD!!!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965317439499264000,
+   "in_reply_to_status_id_str": "965317439499264002",
+   "in_reply_to_screen_name": "andyboyd",
+   "urls": []
+  },
+  {
+   "id": 965321947809828900,
+   "id_str": "965321947809828864",
+   "created_at": "Sun Feb 18 20:27:41 +0000 2018",
+   "text": "Thinking about attending an evening thing where the people talk about depression and anxiety, and just the thought… https://t.co/uwK23dnZOO",
+   "retweet_count": 0,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/uwK23dnZOO",
+     "expand": "https://twitter.com/i/web/status/965321947809828864"
+    }
+   ]
+  },
+  {
+   "id": 965320558589239300,
+   "id_str": "965320558589239298",
+   "created_at": "Sun Feb 18 20:22:10 +0000 2018",
+   "text": "RT @Philip_Ellis: When Netflix freezes to ask if you’re still watching and you see yourself reflected in the screen https://t.co/tDdSSN6PR5",
+   "retweet_count": 11171,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964622158164103200,
+    "id_str": "964622158164103169",
+    "created_at": "Fri Feb 16 22:06:58 +0000 2018",
+    "text": "When Netflix freezes to ask if you’re still watching and you see yourself reflected in the screen https://t.co/tDdSSN6PR5",
+    "retweet_count": 11171,
+    "favorite_count": 42017,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965315820124549100,
+   "id_str": "965315820124549121",
+   "created_at": "Sun Feb 18 20:03:20 +0000 2018",
+   "text": "@frontendbeast I was going for the fat-snack, but god dayamaammmaam. Utterly gross.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965291647364890600,
+   "in_reply_to_status_id_str": "965291647364890624",
+   "in_reply_to_screen_name": "frontendbeast",
+   "urls": []
+  },
+  {
+   "id": 965289528662650900,
+   "id_str": "965289528662650886",
+   "created_at": "Sun Feb 18 18:18:52 +0000 2018",
+   "text": "Tried Pork Scratchings for the first time. Smelt absolutely terrible (like cat food), but when I tried it…yup, utterly rank. 🤢🤮🐖",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965288894001532900,
+   "id_str": "965288894001532928",
+   "created_at": "Sun Feb 18 18:16:21 +0000 2018",
+   "text": "@EdLeon73 Heard it from the car dealer that sold us our car 3 weeks ago",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965224859277189100,
+   "in_reply_to_status_id_str": "965224859277189120",
+   "in_reply_to_screen_name": "EdLeon73",
+   "urls": []
+  },
+  {
+   "id": 965200597044654100,
+   "id_str": "965200597044654081",
+   "created_at": "Sun Feb 18 12:25:29 +0000 2018",
+   "text": "Lifehack: your petrol gauge uses the nozzle to *point* to which side you fuel your tank from (in this case on the r… https://t.co/zZyX0vDDxk",
+   "retweet_count": 15,
+   "favorite_count": 74,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zZyX0vDDxk",
+     "expand": "https://twitter.com/i/web/status/965200597044654081"
+    }
+   ]
   }
  ]
 }

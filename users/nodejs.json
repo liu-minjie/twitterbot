@@ -1,20 +1,464 @@
 {
- "time": 1518873201778,
+ "time": 1519367423973,
  "lists": [
   {
-   "id": 964638020711436300,
-   "id_str": "964638020711436289",
-   "created_at": "Fri Feb 16 23:10:00 +0000 2018",
-   "text": ".@Indexconf is an open, developer community event happening in SF from Feb. 20 - 22 🌉\n\nWe are hosting a community d… https://t.co/QVxxAmPKV7",
-   "retweet_count": 11,
-   "favorite_count": 22,
+   "id": 966797500073103400,
+   "id_str": "966797500073103361",
+   "created_at": "Thu Feb 22 22:11:00 +0000 2018",
+   "text": "More than one million people took #opensource courses through @linuxfoundation and @edXOnline Now that's a number!… https://t.co/waMBl4lKye",
+   "retweet_count": 15,
+   "favorite_count": 17,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/QVxxAmPKV7",
-     "expand": "https://twitter.com/i/web/status/964638020711436289"
+     "url": "https://t.co/waMBl4lKye",
+     "expand": "https://twitter.com/i/web/status/966797500073103361"
+    }
+   ]
+  },
+  {
+   "id": 966742904176816100,
+   "id_str": "966742904176816128",
+   "created_at": "Thu Feb 22 18:34:04 +0000 2018",
+   "text": "PSA: #nodejs 4.x goes End-of-Life in three months (end of April). If you haven’t migrated yet, we recommend you sta… https://t.co/TGKUe47JQ0",
+   "retweet_count": 48,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TGKUe47JQ0",
+     "expand": "https://twitter.com/i/web/status/966742904176816128"
+    }
+   ]
+  },
+  {
+   "id": 966735944958214100,
+   "id_str": "966735944958214144",
+   "created_at": "Thu Feb 22 18:06:25 +0000 2018",
+   "text": "RT @npmjs: we’ve reverted a patch that could cause ownership changes on some system files. if you run npm@next, run `npm install -g npm@nex…",
+   "retweet_count": 78,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966728609346945000,
+    "id_str": "966728609346945024",
+    "created_at": "Thu Feb 22 17:37:16 +0000 2018",
+    "text": "we’ve reverted a patch that could cause ownership changes on some system files. if you run npm@next, run `npm insta… https://t.co/iUN5q9UnCH",
+    "retweet_count": 78,
+    "favorite_count": 51,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iUN5q9UnCH",
+      "expand": "https://twitter.com/i/web/status/966728609346945024"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966728911639011300,
+   "id_str": "966728911639011331",
+   "created_at": "Thu Feb 22 17:38:28 +0000 2018",
+   "text": "RT @MylesBorins: 🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊\n\nHappy @Nodejs Current Release Day!\n\n🥙 Just in time for lunch edition 🥙\n\nhttps://t.co/fR3R5t3Lig\n\nHighlights In…",
+   "retweet_count": 68,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fR3R5t3Lig",
+     "expand": "https://nodejs.org/en/blog/release/v9.6.0/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966721181217902600,
+    "id_str": "966721181217902593",
+    "created_at": "Thu Feb 22 17:07:45 +0000 2018",
+    "text": "🌊🌊🌊🌊🌊🌊🌊🌊🌊🌊\n\nHappy @Nodejs Current Release Day!\n\n🥙 Just in time for lunch edition 🥙\n\nhttps://t.co/fR3R5t3Lig\n\nHighli… https://t.co/KrUzQr98a8",
+    "retweet_count": 68,
+    "favorite_count": 113,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fR3R5t3Lig",
+      "expand": "https://nodejs.org/en/blog/release/v9.6.0/"
+     },
+     {
+      "url": "https://t.co/KrUzQr98a8",
+      "expand": "https://twitter.com/i/web/status/966721181217902593"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966708579959963600,
+   "id_str": "966708579959963649",
+   "created_at": "Thu Feb 22 16:17:40 +0000 2018",
+   "text": "RT @maybekatz: I think this might've been buried a bit among all the other exciting changes, but I want to call it out. Inspired by `$ npx…",
+   "retweet_count": 52,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966529461632909300,
+    "id_str": "966529461632909312",
+    "created_at": "Thu Feb 22 04:25:55 +0000 2018",
+    "text": "I think this might've been buried a bit among all the other exciting changes, but I want to call it out. Inspired b… https://t.co/WR4sRVQSTI",
+    "retweet_count": 52,
+    "favorite_count": 200,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WR4sRVQSTI",
+      "expand": "https://twitter.com/i/web/status/966529461632909312"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966704207960137700,
+   "id_str": "966704207960137728",
+   "created_at": "Thu Feb 22 16:00:18 +0000 2018",
+   "text": "We interviewed Uttam Pawar from @Intel for our How I Got Into #Node series. Check it out here: https://t.co/84ZvNDkAEr",
+   "retweet_count": 5,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/84ZvNDkAEr",
+     "expand": "https://medium.com/@nodejs/how-i-got-into-node-uttam-pawar-4c62d3840a78"
+    }
+   ]
+  },
+  {
+   "id": 966679554336190500,
+   "id_str": "966679554336190465",
+   "created_at": "Thu Feb 22 14:22:20 +0000 2018",
+   "text": "RT @fhinkel: .@ThisDotMedia is happening today https://t.co/CoSrhMTi2P 🤗😍@ladyleet @rachelnabors @youyuxi @BenLesh @justinfagnani @mjackson…",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CoSrhMTi2P",
+     "expand": "https://www.thisdot.co/javascript/02-22-2018"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966623911659098100,
+    "id_str": "966623911659098112",
+    "created_at": "Thu Feb 22 10:41:14 +0000 2018",
+    "text": ".@ThisDotMedia is happening today https://t.co/CoSrhMTi2P 🤗😍@ladyleet @rachelnabors @youyuxi @BenLesh… https://t.co/cS4mZCiJOa",
+    "retweet_count": 24,
+    "favorite_count": 42,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CoSrhMTi2P",
+      "expand": "https://www.thisdot.co/javascript/02-22-2018"
+     },
+     {
+      "url": "https://t.co/cS4mZCiJOa",
+      "expand": "https://twitter.com/i/web/status/966623911659098112"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966423535940902900,
+   "id_str": "966423535940902912",
+   "created_at": "Wed Feb 21 21:25:00 +0000 2018",
+   "text": "Come join us in October for #JSInteractive 📅 The event is a great opportunity for you to learn best practices and t… https://t.co/msw7NGfFPi",
+   "retweet_count": 20,
+   "favorite_count": 40,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/msw7NGfFPi",
+     "expand": "https://twitter.com/i/web/status/966423535940902912"
+    }
+   ]
+  },
+  {
+   "id": 966410458931613700,
+   "id_str": "966410458931613698",
+   "created_at": "Wed Feb 21 20:33:03 +0000 2018",
+   "text": "RT @evanhlucas: Want to contribute to @nodejs, but don't know where to start? https://t.co/SlmkEG0wjp is a fantastic #goodfirstcontribution.",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SlmkEG0wjp",
+     "expand": "https://github.com/nodejs/node/issues/18909"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966388189333254100,
+    "id_str": "966388189333254144",
+    "created_at": "Wed Feb 21 19:04:33 +0000 2018",
+    "text": "Want to contribute to @nodejs, but don't know where to start? https://t.co/SlmkEG0wjp is a fantastic #goodfirstcontribution.",
+    "retweet_count": 19,
+    "favorite_count": 35,
+    "place": "Round Rock, TX",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SlmkEG0wjp",
+      "expand": "https://github.com/nodejs/node/issues/18909"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966403363368611800,
+   "id_str": "966403363368611840",
+   "created_at": "Wed Feb 21 20:04:51 +0000 2018",
+   "text": "RT @bitandbang: So yesterday I learned from Joel Chen at @WalmartLabs that @electrode_io is the basis for the entire https://t.co/qGRHmxBWV…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966378969934176300,
+    "id_str": "966378969934176256",
+    "created_at": "Wed Feb 21 18:27:55 +0000 2018",
+    "text": "So yesterday I learned from Joel Chen at @WalmartLabs that @electrode_io is the basis for the entire… https://t.co/VMuaLpvehl",
+    "retweet_count": 20,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VMuaLpvehl",
+      "expand": "https://twitter.com/i/web/status/966378969934176256"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966359427954638800,
+   "id_str": "966359427954638849",
+   "created_at": "Wed Feb 21 17:10:16 +0000 2018",
+   "text": "RT @MylesBorins: The @nodejs TSC meeting is live on youtube!\n\nhttps://t.co/xN1mvsBWcB",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xN1mvsBWcB",
+     "expand": "http://www.youtube.com/watch?v=KhM2MLcChOQ"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966358607485915100,
+    "id_str": "966358607485915138",
+    "created_at": "Wed Feb 21 17:07:00 +0000 2018",
+    "text": "The @nodejs TSC meeting is live on youtube!\n\nhttps://t.co/xN1mvsBWcB",
+    "retweet_count": 10,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xN1mvsBWcB",
+      "expand": "http://www.youtube.com/watch?v=KhM2MLcChOQ"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966347499693801500,
+   "id_str": "966347499693801473",
+   "created_at": "Wed Feb 21 16:22:52 +0000 2018",
+   "text": "RT @nginx: Is your organization new to #DevOps? Read @TechTarget’s beginner guide for #developers: https://t.co/MgKLeFVq0i",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MgKLeFVq0i",
+     "expand": "http://bit.ly/2FhaZzt"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966150989727387600,
+    "id_str": "966150989727387649",
+    "created_at": "Wed Feb 21 03:22:00 +0000 2018",
+    "text": "Is your organization new to #DevOps? Read @TechTarget’s beginner guide for #developers: https://t.co/MgKLeFVq0i",
+    "retweet_count": 26,
+    "favorite_count": 57,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MgKLeFVq0i",
+      "expand": "http://bit.ly/2FhaZzt"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966332888001253400,
+   "id_str": "966332888001253376",
+   "created_at": "Wed Feb 21 15:24:48 +0000 2018",
+   "text": "Who is planning to attend? https://t.co/qPlRQJibpe",
+   "retweet_count": 9,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qPlRQJibpe",
+     "expand": "https://twitter.com/CloudNativeFdn/status/965987027274665984"
+    }
+   ]
+  },
+  {
+   "id": 966069960215801900,
+   "id_str": "966069960215801861",
+   "created_at": "Tue Feb 20 22:00:01 +0000 2018",
+   "text": ".@AvnerSo explains how he cut his #AWS bill by 90% going to serverless in this post https://t.co/JD2akTe6k2 cc: @freeCodeCamp",
+   "retweet_count": 25,
+   "favorite_count": 53,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JD2akTe6k2",
+     "expand": "https://medium.freecodecamp.org/how-i-cut-my-aws-bill-by-90-35c937596f0c"
+    }
+   ]
+  },
+  {
+   "id": 965990359795949600,
+   "id_str": "965990359795949568",
+   "created_at": "Tue Feb 20 16:43:43 +0000 2018",
+   "text": "@Jeans_philippes Head here to learn how you can become a contributor and collaborator: https://t.co/FRRiJon9QR",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 964773977322385400,
+   "in_reply_to_status_id_str": "964773977322385408",
+   "in_reply_to_screen_name": "Jeans_philippes",
+   "urls": [
+    {
+     "url": "https://t.co/FRRiJon9QR",
+     "expand": "https://nodejs.org/en/get-involved/contribute/"
+    }
+   ]
+  },
+  {
+   "id": 965989174821212200,
+   "id_str": "965989174821212160",
+   "created_at": "Tue Feb 20 16:39:01 +0000 2018",
+   "text": "RT @dshaw: 🔥 #BurningQuestion 🔥\n\nWhat Node.js benchmark is most important? https://t.co/AXQFKAKFCZ",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AXQFKAKFCZ",
+     "expand": "https://benchmarking.nodejs.org"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965985621687742500,
+    "id_str": "965985621687742465",
+    "created_at": "Tue Feb 20 16:24:54 +0000 2018",
+    "text": "🔥 #BurningQuestion 🔥\n\nWhat Node.js benchmark is most important? https://t.co/AXQFKAKFCZ",
+    "retweet_count": 20,
+    "favorite_count": 28,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AXQFKAKFCZ",
+      "expand": "https://benchmarking.nodejs.org"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965686437579558900,
+   "id_str": "965686437579558913",
+   "created_at": "Mon Feb 19 20:36:02 +0000 2018",
+   "text": "We’ll be having a special community meeting at #IndexConf (SF). Learn more here https://t.co/pxK426aQh3 and mark your calendars 📅",
+   "retweet_count": 15,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pxK426aQh3",
+     "expand": "https://developer.ibm.com/indexconf/communities/"
     }
    ]
   }

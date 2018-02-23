@@ -1,17 +1,204 @@
 {
- "time": 1518873197981,
+ "time": 1519367419732,
  "lists": [
   {
-   "id": 964540713642831900,
-   "id_str": "964540713642831873",
-   "created_at": "Fri Feb 16 16:43:21 +0000 2018",
-   "text": "@landike I test one release against the other to avoid having the master branch util lib used to test itself",
-   "retweet_count": 0,
+   "id": 966867648121159700,
+   "id_str": "966867648121159681",
+   "created_at": "Fri Feb 23 02:49:45 +0000 2018",
+   "text": "🕵️ Check out es-membrane: Dynamically hide, override, or extend objects in JS with controlled effects on the origin… https://t.co/pcvDDf5V0V",
+   "retweet_count": 3,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pcvDDf5V0V",
+     "expand": "https://twitter.com/i/web/status/966867648121159681"
+    }
+   ]
+  },
+  {
+   "id": 966812598401290200,
+   "id_str": "966812598401290240",
+   "created_at": "Thu Feb 22 23:11:00 +0000 2018",
+   "text": "RT @atrupar: Rubio scores an own goal when he says the assault weapons ban \"would literally ban every semi-automatic rifle that's sold in A…",
+   "retweet_count": 12614,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964472409775472600,
-   "in_reply_to_screen_name": "landike",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966500059499069400,
+    "id_str": "966500059499069442",
+    "created_at": "Thu Feb 22 02:29:05 +0000 2018",
+    "text": "Rubio scores an own goal when he says the assault weapons ban \"would literally ban every semi-automatic rifle that'… https://t.co/ovdkQOrymo",
+    "retweet_count": 12614,
+    "favorite_count": 30564,
+    "place": null,
+    "in_reply_to_status_id": 966498737207107600,
+    "in_reply_to_status_id_str": "966498737207107586",
+    "in_reply_to_screen_name": "atrupar",
+    "urls": [
+     {
+      "url": "https://t.co/ovdkQOrymo",
+      "expand": "https://twitter.com/i/web/status/966500059499069442"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966543245403504600,
+   "id_str": "966543245403504643",
+   "created_at": "Thu Feb 22 05:20:41 +0000 2018",
+   "text": "Lord of the beach! https://t.co/qHv7HbOWul",
+   "retweet_count": 0,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
    "urls": []
+  },
+  {
+   "id": 966401965629440000,
+   "id_str": "966401965629440000",
+   "created_at": "Wed Feb 21 19:59:18 +0000 2018",
+   "text": "RT @monteslu: ES6 proxies are pretty cool:  https://t.co/xagSAwpbwx",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xagSAwpbwx",
+     "expand": "https://github.com/monteslu/alodash"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966401444025806800,
+    "id_str": "966401444025806848",
+    "created_at": "Wed Feb 21 19:57:13 +0000 2018",
+    "text": "ES6 proxies are pretty cool:  https://t.co/xagSAwpbwx",
+    "retweet_count": 4,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xagSAwpbwx",
+      "expand": "https://github.com/monteslu/alodash"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966073730949570600,
+   "id_str": "966073730949570560",
+   "created_at": "Tue Feb 20 22:15:00 +0000 2018",
+   "text": "RT @the_jsf: 💜 #TypeScript?\n\nCome join us at the first #TypeScript community event @TypeScriptConf!\n\nGet your tickets now and come see us i…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966071468584030200,
+    "id_str": "966071468584030208",
+    "created_at": "Tue Feb 20 22:06:01 +0000 2018",
+    "text": "💜 #TypeScript?\n\nCome join us at the first #TypeScript community event @TypeScriptConf!\n\nGet your tickets now and co… https://t.co/fy5AAm3t67",
+    "retweet_count": 15,
+    "favorite_count": 24,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fy5AAm3t67",
+      "expand": "https://twitter.com/i/web/status/966071468584030208"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966057701976326100,
+   "id_str": "966057701976326145",
+   "created_at": "Tue Feb 20 21:11:19 +0000 2018",
+   "text": "This Node Module WG reply 👌 https://t.co/CNboAQTCzM",
+   "retweet_count": 2,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965879377400447000,
+   "id_str": "965879377400446976",
+   "created_at": "Tue Feb 20 09:22:43 +0000 2018",
+   "text": "The next release of std/esm will support unlocking live bindings of builtin modules in addition to named exports (p… https://t.co/j3LaUp6Vm1",
+   "retweet_count": 2,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/j3LaUp6Vm1",
+     "expand": "https://twitter.com/i/web/status/965879377400446976"
+    }
+   ]
+  },
+  {
+   "id": 965476907151081500,
+   "id_str": "965476907151081479",
+   "created_at": "Mon Feb 19 06:43:27 +0000 2018",
+   "text": "Nice! @npmjs now emails when a package you maintain is published ❤️ https://t.co/SnELJSay1S",
+   "retweet_count": 2,
+   "favorite_count": 52,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965306796142243800,
+   "id_str": "965306796142243840",
+   "created_at": "Sun Feb 18 19:27:29 +0000 2018",
+   "text": "RT @seldo: npm will be reaching out to PyPI to share our strategies and rule sets, and to see if there's any other ways we can help.",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965302345083994100,
+    "id_str": "965302345083994113",
+    "created_at": "Sun Feb 18 19:09:48 +0000 2018",
+    "text": "npm will be reaching out to PyPI to share our strategies and rule sets, and to see if there's any other ways we can help.",
+    "retweet_count": 7,
+    "favorite_count": 60,
+    "place": null,
+    "in_reply_to_status_id": 965301952677429200,
+    "in_reply_to_status_id_str": "965301952677429248",
+    "in_reply_to_screen_name": "seldo",
+    "urls": []
+   }
   }
  ]
 }

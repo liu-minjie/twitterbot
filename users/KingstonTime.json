@@ -1,15 +1,633 @@
 {
- "time": 1518873213355,
+ "time": 1519367436436,
  "lists": [
+  {
+   "id": 966892016280875000,
+   "id_str": "966892016280875008",
+   "created_at": "Fri Feb 23 04:26:35 +0000 2018",
+   "text": "@Scott_Helme @davewiner @asbjornu @troyhunt @MikeRodriquez @mndevguy Why shouldn't we turn off HTTP eventually? The… https://t.co/kKUNTSJUPD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966806146236538900,
+   "in_reply_to_status_id_str": "966806146236538880",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/kKUNTSJUPD",
+     "expand": "https://twitter.com/i/web/status/966892016280875008"
+    }
+   ]
+  },
+  {
+   "id": 966891585270001700,
+   "id_str": "966891585270001665",
+   "created_at": "Fri Feb 23 04:24:52 +0000 2018",
+   "text": "@asbjornu @mndevguy @Scott_Helme @davewiner @troyhunt @MikeRodriquez It's \"not secure\" why ignore the issue? Hacker… https://t.co/xjZlpXdPAg",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966808674525241300,
+   "in_reply_to_status_id_str": "966808674525241344",
+   "in_reply_to_screen_name": "asbjornu",
+   "urls": [
+    {
+     "url": "https://t.co/xjZlpXdPAg",
+     "expand": "https://twitter.com/i/web/status/966891585270001665"
+    }
+   ]
+  },
+  {
+   "id": 966888465085313000,
+   "id_str": "966888465085313024",
+   "created_at": "Fri Feb 23 04:12:28 +0000 2018",
+   "text": "@DuckDuckGo @davewiner Can you look reducing the value of HTTP? Besides @davewiner most other people are onboard wi… https://t.co/h2zDu7zVgo",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966507815698284500,
+   "in_reply_to_status_id_str": "966507815698284544",
+   "in_reply_to_screen_name": "DuckDuckGo",
+   "urls": [
+    {
+     "url": "https://t.co/h2zDu7zVgo",
+     "expand": "https://twitter.com/i/web/status/966888465085313024"
+    }
+   ]
+  },
+  {
+   "id": 966789698185293800,
+   "id_str": "966789698185293824",
+   "created_at": "Thu Feb 22 21:40:00 +0000 2018",
+   "text": "@0x7eff Hopefully with diminishing attendees each year 😁.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966775999521112000,
+   "in_reply_to_status_id_str": "966775999521112064",
+   "in_reply_to_screen_name": "0x7eff",
+   "urls": []
+  },
+  {
+   "id": 966774702726369300,
+   "id_str": "966774702726369280",
+   "created_at": "Thu Feb 22 20:40:25 +0000 2018",
+   "text": "Never underestimate how much I can talk about HTTPS for. https://t.co/vk0WIAK8Ok",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vk0WIAK8Ok",
+     "expand": "https://twitter.com/hellstorm86/status/966768901794291712"
+    }
+   ]
+  },
+  {
+   "id": 966709145926815700,
+   "id_str": "966709145926815744",
+   "created_at": "Thu Feb 22 16:19:55 +0000 2018",
+   "text": "RT @sleevi_: The distrust of Legacy Symantec Certificates has landed in @firefox 60, and can now be seen in @FirefoxNightly (as well as @go…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966684357271412700,
+    "id_str": "966684357271412738",
+    "created_at": "Thu Feb 22 14:41:25 +0000 2018",
+    "text": "The distrust of Legacy Symantec Certificates has landed in @firefox 60, and can now be seen in @FirefoxNightly (as… https://t.co/tWSgG1i8Oz",
+    "retweet_count": 36,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/tWSgG1i8Oz",
+      "expand": "https://twitter.com/i/web/status/966684357271412738"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966635179321253900,
+   "id_str": "966635179321253889",
+   "created_at": "Thu Feb 22 11:26:00 +0000 2018",
+   "text": "@gijskruitbosch Who did I break?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966611520061919200,
+   "in_reply_to_status_id_str": "966611520061919232",
+   "in_reply_to_screen_name": "gijskruitbosch",
+   "urls": []
+  },
+  {
+   "id": 966634205580005400,
+   "id_str": "966634205580005376",
+   "created_at": "Thu Feb 22 11:22:08 +0000 2018",
+   "text": "@roussemath @FirefoxNightly Thanks for checking!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966631587835273200,
+   "in_reply_to_status_id_str": "966631587835273221",
+   "in_reply_to_screen_name": "roussemath",
+   "urls": []
+  },
+  {
+   "id": 966627292800745500,
+   "id_str": "966627292800745473",
+   "created_at": "Thu Feb 22 10:54:40 +0000 2018",
+   "text": "@roussemath @FirefoxNightly Really? I don't see any mixed content here and appears to behave the same for Nightly and stable.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966624870451826700,
+   "in_reply_to_status_id_str": "966624870451826688",
+   "in_reply_to_screen_name": "roussemath",
+   "urls": []
+  },
+  {
+   "id": 966500928680493000,
+   "id_str": "966500928680493056",
+   "created_at": "Thu Feb 22 02:32:32 +0000 2018",
+   "text": "@cvanw @csuwildcat @gkoberger @potch @mattbasta @ipfs Nobody seems mildly interested in this deprecation other than… https://t.co/bvQNw9RmyE",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 948803537361821700,
+   "in_reply_to_status_id_str": "948803537361821696",
+   "in_reply_to_screen_name": "cvanw",
+   "urls": [
+    {
+     "url": "https://t.co/bvQNw9RmyE",
+     "expand": "https://twitter.com/i/web/status/966500928680493056"
+    }
+   ]
+  },
+  {
+   "id": 966478018783993900,
+   "id_str": "966478018783993861",
+   "created_at": "Thu Feb 22 01:01:30 +0000 2018",
+   "text": "@troyhunt @Nick_Craver @NDC_Conferences I blame the browsers... 😂",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966477709370015700,
+   "in_reply_to_status_id_str": "966477709370015744",
+   "in_reply_to_screen_name": "troyhunt",
+   "urls": []
+  },
+  {
+   "id": 966476590027812900,
+   "id_str": "966476590027812864",
+   "created_at": "Thu Feb 22 00:55:49 +0000 2018",
+   "text": "If you notice any missing images/media on @FirefoxNightly please let us know, it might be this experimental change… https://t.co/DkKiZQ8jlD",
+   "retweet_count": 9,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DkKiZQ8jlD",
+     "expand": "https://twitter.com/i/web/status/966476590027812864"
+    }
+   ]
+  },
+  {
+   "id": 966276088744828900,
+   "id_str": "966276088744828929",
+   "created_at": "Wed Feb 21 11:39:06 +0000 2018",
+   "text": "@Scott_Helme No worries, looks like Chrome doesn't console log for Upgrade-Insecure-Requests or Block-All-Mixed whe… https://t.co/eksbd0Qbv6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966270809919705100,
+   "in_reply_to_status_id_str": "966270809919705088",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/eksbd0Qbv6",
+     "expand": "https://twitter.com/i/web/status/966276088744828929"
+    }
+   ]
+  },
+  {
+   "id": 966267868261253100,
+   "id_str": "966267868261253121",
+   "created_at": "Wed Feb 21 11:06:26 +0000 2018",
+   "text": "For example looks to me like the directive parsing is working fine but UIR warnings rarely ever show in the console.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966266665288785900,
+   "in_reply_to_status_id_str": "966266665288785920",
+   "in_reply_to_screen_name": "KingstonTime",
+   "urls": []
+  },
+  {
+   "id": 966266665288785900,
+   "id_str": "966266665288785920",
+   "created_at": "Wed Feb 21 11:01:40 +0000 2018",
+   "text": "@Scott_Helme on your CSP travels have you noticed a disparity of Firefox logging for CSP warnings (other than the o… https://t.co/wWZyWSzlOs",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/wWZyWSzlOs",
+     "expand": "https://twitter.com/i/web/status/966266665288785920"
+    }
+   ]
+  },
+  {
+   "id": 966101479177314300,
+   "id_str": "966101479177314305",
+   "created_at": "Wed Feb 21 00:05:16 +0000 2018",
+   "text": "@potch @freddyb I was working on making a POC using broken fonts with ligatures and CSS key ranges that would work… https://t.co/2PYtjSHcQe",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966101201312993300,
+   "in_reply_to_status_id_str": "966101201312993280",
+   "in_reply_to_screen_name": "KingstonTime",
+   "urls": [
+    {
+     "url": "https://t.co/2PYtjSHcQe",
+     "expand": "https://twitter.com/i/web/status/966101479177314305"
+    }
+   ]
+  },
+  {
+   "id": 966101201312993300,
+   "id_str": "966101201312993280",
+   "created_at": "Wed Feb 21 00:04:10 +0000 2018",
+   "text": "@potch Use CSP to restrict where the keys can go to or block inline CSS. I suspect @freddyb knows many other non script keyloggers.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966096924909609000,
+   "in_reply_to_status_id_str": "966096924909608960",
+   "in_reply_to_screen_name": "potch",
+   "urls": []
+  },
+  {
+   "id": 966095782876270600,
+   "id_str": "966095782876270593",
+   "created_at": "Tue Feb 20 23:42:38 +0000 2018",
+   "text": "@captbaritone @schep_ @vincentriemer @reddit Looks standard React to me but I don't really use it. The value settin… https://t.co/rUlpPidTBv",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966089431152128000,
+   "in_reply_to_status_id_str": "966089431152128000",
+   "in_reply_to_screen_name": "captbaritone",
+   "urls": [
+    {
+     "url": "https://t.co/rUlpPidTBv",
+     "expand": "https://twitter.com/i/web/status/966095782876270593"
+    }
+   ]
+  },
+  {
+   "id": 966087260176306200,
+   "id_str": "966087260176306176",
+   "created_at": "Tue Feb 20 23:08:46 +0000 2018",
+   "text": "@schep_ @vincentriemer @captbaritone @reddit Also SVG access keys are another non scripted hack. I bet there are a load of others too :).",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966086984950263800,
+   "in_reply_to_status_id_str": "966086984950263808",
+   "in_reply_to_screen_name": "KingstonTime",
+   "urls": []
+  },
+  {
+   "id": 966086984950263800,
+   "id_str": "966086984950263808",
+   "created_at": "Tue Feb 20 23:07:40 +0000 2018",
+   "text": "@schep_ @vincentriemer @captbaritone @reddit Yeah only works on form reload/value setting etc. I'm pretty sure howe… https://t.co/R8Jqr5qvsF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966083735451045900,
+   "in_reply_to_status_id_str": "966083735451045888",
+   "in_reply_to_screen_name": "schep_",
+   "urls": [
+    {
+     "url": "https://t.co/R8Jqr5qvsF",
+     "expand": "https://twitter.com/i/web/status/966086984950263808"
+    }
+   ]
+  },
+  {
+   "id": 966046958363213800,
+   "id_str": "966046958363213824",
+   "created_at": "Tue Feb 20 20:28:37 +0000 2018",
+   "text": "@ericlaw @emilstahl /cc @annevk 🍿",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965546986459066400,
+   "in_reply_to_status_id_str": "965546986459066368",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": []
+  },
+  {
+   "id": 965902348186013700,
+   "id_str": "965902348186013696",
+   "created_at": "Tue Feb 20 10:54:00 +0000 2018",
+   "text": "@RReverser @mikewest Yeah I saw that. I think we should have a bug too. Blocking to align with Chrome seems correct… https://t.co/Nt0WI8j7B0",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965890823891009500,
+   "in_reply_to_status_id_str": "965890823891009537",
+   "in_reply_to_screen_name": "RReverser",
+   "urls": [
+    {
+     "url": "https://t.co/Nt0WI8j7B0",
+     "expand": "https://twitter.com/i/web/status/965902348186013696"
+    }
+   ]
+  },
+  {
+   "id": 965876696980312000,
+   "id_str": "965876696980312064",
+   "created_at": "Tue Feb 20 09:12:04 +0000 2018",
+   "text": "@fugueish I have no claps to give on this subject.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965861959005478900,
+   "in_reply_to_status_id_str": "965861959005478913",
+   "in_reply_to_screen_name": "fugueish",
+   "urls": []
+  },
+  {
+   "id": 965876333158043600,
+   "id_str": "965876333158043649",
+   "created_at": "Tue Feb 20 09:10:37 +0000 2018",
+   "text": "RT @mikewest: Based on a ~week's worth of data from Canary, 5% of `Cookie` headers are longer than 2305 bytes. 1% are longer than 4848 byte…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965860440277508100,
+    "id_str": "965860440277508096",
+    "created_at": "Tue Feb 20 08:07:28 +0000 2018",
+    "text": "Based on a ~week's worth of data from Canary, 5% of `Cookie` headers are longer than 2305 bytes. 1% are longer than… https://t.co/zwZ0sKlNUe",
+    "retweet_count": 15,
+    "favorite_count": 35,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zwZ0sKlNUe",
+      "expand": "https://twitter.com/i/web/status/965860440277508096"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965752264324460500,
+   "id_str": "965752264324460544",
+   "created_at": "Tue Feb 20 00:57:37 +0000 2018",
+   "text": "@mikewest @RReverser I couldn't see one so I raised: https://t.co/CModpokPx6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 917747338449387500,
+   "in_reply_to_status_id_str": "917747338449387520",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": [
+    {
+     "url": "https://t.co/CModpokPx6",
+     "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=1439463"
+    }
+   ]
+  },
+  {
+   "id": 965513485688934400,
+   "id_str": "965513485688934401",
+   "created_at": "Mon Feb 19 09:08:48 +0000 2018",
+   "text": "@loremgibson @claudijd @github @fastly @letsencrypt @dveditz Such a troll.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965508716261916700,
+   "in_reply_to_status_id_str": "965508716261916673",
+   "in_reply_to_screen_name": "loremgibson",
+   "urls": []
+  },
+  {
+   "id": 965506509932322800,
+   "id_str": "965506509932322816",
+   "created_at": "Mon Feb 19 08:41:04 +0000 2018",
+   "text": "@claudijd @loremgibson @github @fastly @letsencrypt @dveditz It is hacky in that it's only edge protected. Still it… https://t.co/bSfkp8T8Fd",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965378386897133600,
+   "in_reply_to_status_id_str": "965378386897133570",
+   "in_reply_to_screen_name": "claudijd",
+   "urls": [
+    {
+     "url": "https://t.co/bSfkp8T8Fd",
+     "expand": "https://twitter.com/i/web/status/965506509932322816"
+    }
+   ]
+  },
+  {
+   "id": 965264242118201300,
+   "id_str": "965264242118201344",
+   "created_at": "Sun Feb 18 16:38:23 +0000 2018",
+   "text": "@mikewest @patricktoomey @github @fastly @letsencrypt I was only asking @ndm when this will happen a few weeks ago!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965263111174443000,
+   "in_reply_to_status_id_str": "965263111174443008",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 965258991730339800,
+   "id_str": "965258991730339841",
+   "created_at": "Sun Feb 18 16:17:31 +0000 2018",
+   "text": "Wow I thought this was a prank at first. https://t.co/JgQ8eeGuwq",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JgQ8eeGuwq",
+     "expand": "https://twitter.com/HenrikJoreteg/status/964888986064842755"
+    }
+   ]
+  },
+  {
+   "id": 965219521052201000,
+   "id_str": "965219521052200963",
+   "created_at": "Sun Feb 18 13:40:41 +0000 2018",
+   "text": "Wow looks like @github pages (@fastly) are experimenting with @letsencrypt certs for custom domains! https://t.co/bgvzCNVqY8",
+   "retweet_count": 11,
+   "favorite_count": 48,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bgvzCNVqY8",
+     "expand": "https://github.com/isaacs/github/issues/156#issuecomment-366516584"
+    }
+   ]
+  },
+  {
+   "id": 965206923971842000,
+   "id_str": "965206923971842048",
+   "created_at": "Sun Feb 18 12:50:38 +0000 2018",
+   "text": "@Caspy7 Not sure, don't think so at the moment.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965194385049768000,
+   "in_reply_to_status_id_str": "965194385049767936",
+   "in_reply_to_screen_name": "Caspy7",
+   "urls": []
+  },
+  {
+   "id": 965206839418937300,
+   "id_str": "965206839418937344",
+   "created_at": "Sun Feb 18 12:50:17 +0000 2018",
+   "text": "@lskiuk I used to agree however Apple just added offline support to SWs in a minor release way faster than predicte… https://t.co/NpZggPLENU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965203559250825200,
+   "in_reply_to_status_id_str": "965203559250825216",
+   "in_reply_to_screen_name": "lskiuk",
+   "urls": [
+    {
+     "url": "https://t.co/NpZggPLENU",
+     "expand": "https://twitter.com/i/web/status/965206839418937344"
+    }
+   ]
+  },
+  {
+   "id": 965175260084604900,
+   "id_str": "965175260084604928",
+   "created_at": "Sun Feb 18 10:44:48 +0000 2018",
+   "text": "I look forward to this becoming the norm on all OS and browser combinations. https://t.co/g4LifyAd4s",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/g4LifyAd4s",
+     "expand": "https://twitter.com/kennethrohde/status/964947490570153991"
+    }
+   ]
+  },
+  {
+   "id": 964977579336851500,
+   "id_str": "964977579336851456",
+   "created_at": "Sat Feb 17 21:39:17 +0000 2018",
+   "text": "@ericlaw Turns out I had it compiled 😁 - Looks like our full screen warnings need some work thanks! Anyway super lo… https://t.co/DErWAqJWuK",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964975309203427300,
+   "in_reply_to_status_id_str": "964975309203427329",
+   "in_reply_to_screen_name": "KingstonTime",
+   "urls": [
+    {
+     "url": "https://t.co/DErWAqJWuK",
+     "expand": "https://twitter.com/i/web/status/964977579336851456"
+    }
+   ]
+  },
+  {
+   "id": 964975309203427300,
+   "id_str": "964975309203427329",
+   "created_at": "Sat Feb 17 21:30:16 +0000 2018",
+   "text": "@ericlaw I have a come back for this... I will just need 60 minutes to compile Firefox and the patch 😂",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964626991600296000,
+   "in_reply_to_status_id_str": "964626991600295940",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": []
+  },
+  {
+   "id": 964965457928343600,
+   "id_str": "964965457928343553",
+   "created_at": "Sat Feb 17 20:51:08 +0000 2018",
+   "text": "Besides the shape of the tabs and missing slack it's about right... https://t.co/FVGFQBYNMk",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FVGFQBYNMk",
+     "expand": "https://twitter.com/lulu_cheng/status/964947708275343361"
+    }
+   ]
+  },
+  {
+   "id": 964964759081816000,
+   "id_str": "964964759081816067",
+   "created_at": "Sat Feb 17 20:48:21 +0000 2018",
+   "text": "@justinfagnani I'm really hoping it leaves BEM forever in history.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 964954569166868500,
+   "in_reply_to_status_id_str": "964954569166868480",
+   "in_reply_to_screen_name": "justinfagnani",
+   "urls": []
+  },
   {
    "id": 964732616913059800,
    "id_str": "964732616913059840",
    "created_at": "Sat Feb 17 05:25:54 +0000 2018",
    "text": "@dveditz @ericlaw By X we mean iPhone X custom notch properties right? 😆",
    "retweet_count": 0,
-   "favorite_count": 0,
+   "favorite_count": 1,
    "place": null,
    "in_reply_to_status_id": 964693220520153100,
+   "in_reply_to_status_id_str": "964693220520153088",
    "in_reply_to_screen_name": "dveditz",
    "urls": []
   }

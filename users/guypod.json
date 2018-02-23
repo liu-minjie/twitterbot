@@ -1,15 +1,137 @@
 {
- "time": 1518873215097,
+ "time": 1519367438960,
  "lists": [
+  {
+   "id": 966471549447540700,
+   "id_str": "966471549447540737",
+   "created_at": "Thu Feb 22 00:35:48 +0000 2018",
+   "text": "@lkjdfowidfjwodi @SlackHQ Not really, just positive spirit. Security doesn’t always have to be doom and gloom. I li… https://t.co/RskRCRrODp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966467291037630500,
+   "in_reply_to_status_id_str": "966467291037630464",
+   "in_reply_to_screen_name": "lkjdfowidfjwodi",
+   "urls": [
+    {
+     "url": "https://t.co/RskRCRrODp",
+     "expand": "https://twitter.com/i/web/status/966471549447540737"
+    }
+   ]
+  },
+  {
+   "id": 966464384376692700,
+   "id_str": "966464384376692737",
+   "created_at": "Thu Feb 22 00:07:19 +0000 2018",
+   "text": "Awesome “release notes” in @SlackHQ’s Mac app update:\nBug Fixes:\n-  important security update. Security updates are… https://t.co/xxnyqtdDjS",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xxnyqtdDjS",
+     "expand": "https://twitter.com/i/web/status/966464384376692737"
+    }
+   ]
+  },
+  {
+   "id": 966319908727459800,
+   "id_str": "966319908727459840",
+   "created_at": "Wed Feb 21 14:33:14 +0000 2018",
+   "text": "RT @sjmaple: Time to announce my new gig! From March 5th I’ll be the Director of Developer Advocacy at @snyksec, a company devoted to findi…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966317651214643200,
+    "id_str": "966317651214643200",
+    "created_at": "Wed Feb 21 14:24:16 +0000 2018",
+    "text": "Time to announce my new gig! From March 5th I’ll be the Director of Developer Advocacy at @snyksec, a company devot… https://t.co/gwTYY2C5OZ",
+    "retweet_count": 22,
+    "favorite_count": 221,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gwTYY2C5OZ",
+      "expand": "https://twitter.com/i/web/status/966317651214643200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965741907908448300,
+   "id_str": "965741907908448258",
+   "created_at": "Tue Feb 20 00:16:28 +0000 2018",
+   "text": "Pure gold. https://t.co/UOoAkCuC8z",
+   "retweet_count": 3,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UOoAkCuC8z",
+     "expand": "https://xkcd.com/1957/"
+    }
+   ]
+  },
+  {
+   "id": 965586543413989400,
+   "id_str": "965586543413989378",
+   "created_at": "Mon Feb 19 13:59:06 +0000 2018",
+   "text": "Dedicated CNCF Serverless working group states “Serverless is the natural evolution of cloud-native computing” (som… https://t.co/8krlKbiM1z",
+   "retweet_count": 2,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8krlKbiM1z",
+     "expand": "https://twitter.com/i/web/status/965586543413989378"
+    }
+   ]
+  },
+  {
+   "id": 964866964404494300,
+   "id_str": "964866964404494337",
+   "created_at": "Sat Feb 17 14:19:45 +0000 2018",
+   "text": "@brucel @anna_debenham @WixEng @snyksec @brucel you'll have to bring your unicorn onesie, those are considered trad… https://t.co/ujTT1VSb34",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964760473777442800,
+   "in_reply_to_status_id_str": "964760473777442816",
+   "in_reply_to_screen_name": "brucel",
+   "urls": [
+    {
+     "url": "https://t.co/ujTT1VSb34",
+     "expand": "https://twitter.com/i/web/status/964866964404494337"
+    }
+   ]
+  },
   {
    "id": 964644298355593200,
    "id_str": "964644298355593223",
    "created_at": "Fri Feb 16 23:34:57 +0000 2018",
    "text": "RT @samnewman: The final piece of the puzzle in our microservices track at @qconlondon is complete - I’ll be hosting a panel discussion wit…",
-   "retweet_count": 8,
+   "retweet_count": 9,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +139,11 @@
     "id_str": "964548784041680896",
     "created_at": "Fri Feb 16 17:15:25 +0000 2018",
     "text": "The final piece of the puzzle in our microservices track at @qconlondon is complete - I’ll be hosting a panel discu… https://t.co/yTegygjJnz",
-    "retweet_count": 8,
-    "favorite_count": 18,
+    "retweet_count": 9,
+    "favorite_count": 19,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

@@ -1,15 +1,472 @@
 {
- "time": 1518873214000,
+ "time": 1519367437705,
  "lists": [
+  {
+   "id": 966785593177882600,
+   "id_str": "966785593177882624",
+   "created_at": "Thu Feb 22 21:23:42 +0000 2018",
+   "text": "RT @cyberbgone: Happy to see the emphasis on human factors @BlackHatEvents Sorting out the human element of security is key. See @adamshost…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966040722410483700,
+    "id_str": "966040722410483712",
+    "created_at": "Tue Feb 20 20:03:51 +0000 2018",
+    "text": "Happy to see the emphasis on human factors @BlackHatEvents Sorting out the human element of security is key. See… https://t.co/aH6EQ51CDw",
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aH6EQ51CDw",
+      "expand": "https://twitter.com/i/web/status/966040722410483712"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966488333336506400,
+   "id_str": "966488333336506368",
+   "created_at": "Thu Feb 22 01:42:29 +0000 2018",
+   "text": "RT @continuumsecure: A threat modeling session with the IriusRisk team during our summit, lead by @ihackforfun https://t.co/OMLAP6mDCW",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966300582205186000,
+    "id_str": "966300582205186055",
+    "created_at": "Wed Feb 21 13:16:26 +0000 2018",
+    "text": "A threat modeling session with the IriusRisk team during our summit, lead by @ihackforfun https://t.co/OMLAP6mDCW",
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966462875001798700,
+   "id_str": "966462875001798657",
+   "created_at": "Thu Feb 22 00:01:20 +0000 2018",
+   "text": "@MrMeritology Thanks!  https://t.co/PPTtXozjwr",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966448062099943400,
+   "in_reply_to_status_id_str": "966448062099943426",
+   "in_reply_to_screen_name": "MrMeritology",
+   "urls": [
+    {
+     "url": "https://t.co/PPTtXozjwr",
+     "expand": "https://cisac.fsi.stanford.edu/events/improving-recognition-near-miss-events"
+    }
+   ]
+  },
+  {
+   "id": 966461842494115800,
+   "id_str": "966461842494115840",
+   "created_at": "Wed Feb 21 23:57:13 +0000 2018",
+   "text": "RT @DecipherSec: “If you have zero problems, you're over-investing in security.” Coming soon on Decipher. https://t.co/WuHBK7ZARn #decipher…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WuHBK7ZARn",
+     "expand": "http://decipher.sc"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966433603788902400,
+    "id_str": "966433603788902407",
+    "created_at": "Wed Feb 21 22:05:01 +0000 2018",
+    "text": "“If you have zero problems, you're over-investing in security.” Coming soon on Decipher. https://t.co/WuHBK7ZARn… https://t.co/rG0GcMsHXa",
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WuHBK7ZARn",
+      "expand": "http://decipher.sc"
+     },
+     {
+      "url": "https://t.co/rG0GcMsHXa",
+      "expand": "https://twitter.com/i/web/status/966433603788902407"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966433759082893300,
+   "id_str": "966433759082893314",
+   "created_at": "Wed Feb 21 22:05:38 +0000 2018",
+   "text": "RT @signalapp: Today, we are launching the Signal Foundation, a 501(c)(3) nonprofit with a mission to develop open source privacy technolog…",
+   "retweet_count": 2295,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966381950201053200,
+    "id_str": "966381950201053184",
+    "created_at": "Wed Feb 21 18:39:46 +0000 2018",
+    "text": "Today, we are launching the Signal Foundation, a 501(c)(3) nonprofit with a mission to develop open source privacy… https://t.co/ndKDVKG2Qr",
+    "retweet_count": 2295,
+    "favorite_count": 4514,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ndKDVKG2Qr",
+      "expand": "https://twitter.com/i/web/status/966381950201053184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966038710784413700,
+   "id_str": "966038710784413696",
+   "created_at": "Tue Feb 20 19:55:51 +0000 2018",
+   "text": "RT @eredmil1: Paper didn't quite make it for #soups2018? Submit to the EuroUSEC workshop on human factors in security and privacy colocated…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965964604697280500,
+    "id_str": "965964604697280513",
+    "created_at": "Tue Feb 20 15:01:23 +0000 2018",
+    "text": "Paper didn't quite make it for #soups2018? Submit to the EuroUSEC workshop on human factors in security and privacy… https://t.co/fOTuzP6ty8",
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fOTuzP6ty8",
+      "expand": "https://twitter.com/i/web/status/965964604697280513"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966026026269593600,
+   "id_str": "966026026269593600",
+   "created_at": "Tue Feb 20 19:05:27 +0000 2018",
+   "text": "RT @JeffBezos: Installation has begun—500 ft tall, all mechanical, powered by day/night thermal cycles, synchronized at solar noon, a symbo…",
+   "retweet_count": 3347,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965957024109379600,
+    "id_str": "965957024109379602",
+    "created_at": "Tue Feb 20 14:31:15 +0000 2018",
+    "text": "Installation has begun—500 ft tall, all mechanical, powered by day/night thermal cycles, synchronized at solar noon… https://t.co/8pLA41nGZN",
+    "retweet_count": 3347,
+    "favorite_count": 9354,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8pLA41nGZN",
+      "expand": "https://twitter.com/i/web/status/965957024109379602"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965702567521960000,
+   "id_str": "965702567521959936",
+   "created_at": "Mon Feb 19 21:40:08 +0000 2018",
+   "text": "@wendynather @SlackHQ I think that someone's slacking if they think Wendy isn't looking for glitches!!! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965651600059625500,
+   "in_reply_to_status_id_str": "965651600059625472",
+   "in_reply_to_screen_name": "wendynather",
+   "urls": []
+  },
+  {
+   "id": 965687314553843700,
+   "id_str": "965687314553843712",
+   "created_at": "Mon Feb 19 20:39:32 +0000 2018",
+   "text": "RT @chrisrohlf: I’m leading the Exploit Development track (https://t.co/MI4JsUegzB) at Black Hat USA this year. Please let me know which to…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MI4JsUegzB",
+     "expand": "https://www.blackhat.com/us-18/tracks.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965664153363939300,
+    "id_str": "965664153363939328",
+    "created_at": "Mon Feb 19 19:07:29 +0000 2018",
+    "text": "I’m leading the Exploit Development track (https://t.co/MI4JsUegzB) at Black Hat USA this year. Please let me know… https://t.co/3uxpOr8Dl0",
+    "retweet_count": 36,
+    "favorite_count": 109,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MI4JsUegzB",
+      "expand": "https://www.blackhat.com/us-18/tracks.html"
+     },
+     {
+      "url": "https://t.co/3uxpOr8Dl0",
+      "expand": "https://twitter.com/i/web/status/965664153363939328"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965657071755567100,
+   "id_str": "965657071755567104",
+   "created_at": "Mon Feb 19 18:39:21 +0000 2018",
+   "text": "RT @TA3MSeattle: TONIGHT! Heard Adam Shostack talk about Threat Modeling for The Seattle Resident. New blog post on topic @seattleprivacyht…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965656447420743700,
+    "id_str": "965656447420743680",
+    "created_at": "Mon Feb 19 18:36:52 +0000 2018",
+    "text": "TONIGHT! Heard Adam Shostack talk about Threat Modeling for The Seattle Resident. New blog post on topic @seattlepr… https://t.co/k9DwerrBBz",
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/k9DwerrBBz",
+      "expand": "https://twitter.com/i/web/status/965656447420743680"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965369773574914000,
+   "id_str": "965369773574914049",
+   "created_at": "Sun Feb 18 23:37:44 +0000 2018",
+   "text": "@ramez @FrankCatalano Crazy talk! If you revisit your predictions, you might get better at them, and then I'll have nanites in mah brain! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965366009161855000,
+   "in_reply_to_status_id_str": "965366009161854976",
+   "in_reply_to_screen_name": "ramez",
+   "urls": []
+  },
+  {
+   "id": 965369580045520900,
+   "id_str": "965369580045520896",
+   "created_at": "Sun Feb 18 23:36:58 +0000 2018",
+   "text": "RT @ramez: It was really fun revisiting my 2015 predictions with @FrankCatalano https://t.co/LHAIOJmEsS",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LHAIOJmEsS",
+     "expand": "https://twitter.com/geekwire/status/965257345835020288"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965366009161855000,
+    "id_str": "965366009161854976",
+    "created_at": "Sun Feb 18 23:22:46 +0000 2018",
+    "text": "It was really fun revisiting my 2015 predictions with @FrankCatalano https://t.co/LHAIOJmEsS",
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LHAIOJmEsS",
+      "expand": "https://twitter.com/geekwire/status/965257345835020288"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965369192793784300,
+   "id_str": "965369192793784320",
+   "created_at": "Sun Feb 18 23:35:25 +0000 2018",
+   "text": "RT @mzurko: #usec2018 15 reasons from the qualitative literature that users give for not patching https://t.co/SiZkHGN2K1",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965345077282275300,
+    "id_str": "965345077282275328",
+    "created_at": "Sun Feb 18 21:59:36 +0000 2018",
+    "text": "#usec2018 15 reasons from the qualitative literature that users give for not patching https://t.co/SiZkHGN2K1",
+    "retweet_count": 8,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964981930042142700,
+   "id_str": "964981930042142720",
+   "created_at": "Sat Feb 17 21:56:35 +0000 2018",
+   "text": "RT @thedarktangent: The Munich Security Conference was as serious and impressive as last year with almost all the players present. My limit…",
+   "retweet_count": 52,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964976199372951600,
+    "id_str": "964976199372951552",
+    "created_at": "Sat Feb 17 21:33:48 +0000 2018",
+    "text": "The Munich Security Conference was as serious and impressive as last year with almost all the players present. My l… https://t.co/c1uHs8PdfH",
+    "retweet_count": 52,
+    "favorite_count": 80,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/c1uHs8PdfH",
+      "expand": "https://twitter.com/i/web/status/964976199372951552"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964961146166919200,
+   "id_str": "964961146166919168",
+   "created_at": "Sat Feb 17 20:34:00 +0000 2018",
+   "text": "@msftsecurity Can you fix the attachment to https://t.co/45UCQk5tcc ? It's an important part of security engineerin… https://t.co/65NpHKyHwN",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "msftsecurity",
+   "urls": [
+    {
+     "url": "https://t.co/45UCQk5tcc",
+     "expand": "https://cloudblogs.microsoft.com/microsoftsecure/2009/08/27/the-threats-to-our-products/"
+    },
+    {
+     "url": "https://t.co/65NpHKyHwN",
+     "expand": "https://twitter.com/i/web/status/964961146166919168"
+    }
+   ]
+  },
+  {
+   "id": 964953347705811000,
+   "id_str": "964953347705810944",
+   "created_at": "Sat Feb 17 20:03:00 +0000 2018",
+   "text": "@FrankMcG See  I.B in https://t.co/xnlOlEQfgy esp footnotes 5-8 or so.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964931302276333600,
+   "in_reply_to_status_id_str": "964931302276333568",
+   "in_reply_to_screen_name": "FrankMcG",
+   "urls": [
+    {
+     "url": "https://t.co/xnlOlEQfgy",
+     "expand": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081216"
+    }
+   ]
+  },
+  {
+   "id": 964921216216657900,
+   "id_str": "964921216216657920",
+   "created_at": "Sat Feb 17 17:55:19 +0000 2018",
+   "text": "@FrankMcG There's no link in that article, but there's a history of such calls going back to \"Computers at Risk\" in… https://t.co/loNESD3WmK",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964701761649954800,
+   "in_reply_to_status_id_str": "964701761649954816",
+   "in_reply_to_screen_name": "FrankMcG",
+   "urls": [
+    {
+     "url": "https://t.co/loNESD3WmK",
+     "expand": "https://twitter.com/i/web/status/964921216216657920"
+    }
+   ]
+  },
   {
    "id": 964648555917983700,
    "id_str": "964648555917983744",
    "created_at": "Fri Feb 16 23:51:52 +0000 2018",
    "text": "RT @Kym_Possible: The @BlackHatEvents SDL track is eagerly awaiting your CFP submission!  Protip: instead of \"what can I show we did?\", ask…",
-   "retweet_count": 10,
+   "retweet_count": 11,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +474,11 @@
     "id_str": "964645278153261056",
     "created_at": "Fri Feb 16 23:38:51 +0000 2018",
     "text": "The @BlackHatEvents SDL track is eagerly awaiting your CFP submission!  Protip: instead of \"what can I show we did?… https://t.co/ZFUaFHhkjr",
-    "retweet_count": 10,
-    "favorite_count": 10,
+    "retweet_count": 11,
+    "favorite_count": 13,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

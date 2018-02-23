@@ -1,17 +1,477 @@
 {
- "time": 1518873101619,
+ "time": 1519367397813,
  "lists": [
   {
-   "id": 964844676506439700,
-   "id_str": "964844676506439680",
-   "created_at": "Sat Feb 17 12:51:11 +0000 2018",
-   "text": "@simonhearne AFAIK long polling is the pretty standard fall back to use",
+   "id": 966649477611294700,
+   "id_str": "966649477611294720",
+   "created_at": "Thu Feb 22 12:22:49 +0000 2018",
+   "text": "@rposbo https://t.co/fQ3VatsUzq especially on mobile",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966645835139252200,
+   "in_reply_to_status_id_str": "966645835139252226",
+   "in_reply_to_screen_name": "rposbo",
+   "urls": [
+    {
+     "url": "https://t.co/fQ3VatsUzq",
+     "expand": "http://www.na-kd.com"
+    }
+   ]
+  },
+  {
+   "id": 966437562524094500,
+   "id_str": "966437562524094465",
+   "created_at": "Wed Feb 21 22:20:45 +0000 2018",
+   "text": "@TrentWalton Think there are four RUM products that model the relationship between performance and conversion (etc)… https://t.co/iNJynAYuXZ",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966326773603553300,
+   "in_reply_to_status_id_str": "966326773603553281",
+   "in_reply_to_screen_name": "TrentWalton",
+   "urls": [
+    {
+     "url": "https://t.co/iNJynAYuXZ",
+     "expand": "https://twitter.com/i/web/status/966437562524094465"
+    }
+   ]
+  },
+  {
+   "id": 966429650275766300,
+   "id_str": "966429650275766272",
+   "created_at": "Wed Feb 21 21:49:18 +0000 2018",
+   "text": "RT @perfmattersconf: Guess what was just posted to the #PerfMatters Conference website.\n\nThe schedule!\n\nIt's going to be amazing.\n\nhttps://…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966428155140481000,
+    "id_str": "966428155140481024",
+    "created_at": "Wed Feb 21 21:43:22 +0000 2018",
+    "text": "Guess what was just posted to the #PerfMatters Conference website.\n\nThe schedule!\n\nIt's going to be amazing.\n\nhttps://t.co/7OUTDn8577",
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7OUTDn8577",
+      "expand": "https://perfmattersconf.com/schedule"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966426684907032600,
+   "id_str": "966426684907032576",
+   "created_at": "Wed Feb 21 21:37:31 +0000 2018",
+   "text": "@patmeenan @ericlaw @rick_viscomi @letsencrypt Think it's still on Mr Viscomi's TODO list - https://t.co/H2wtJByz2a 😇",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966425462720344000,
+   "in_reply_to_status_id_str": "966425462720344069",
+   "in_reply_to_screen_name": "patmeenan",
+   "urls": [
+    {
+     "url": "https://t.co/H2wtJByz2a",
+     "expand": "https://github.com/HTTPArchive/httparchive/issues/132"
+    }
+   ]
+  },
+  {
+   "id": 966395681060675600,
+   "id_str": "966395681060675585",
+   "created_at": "Wed Feb 21 19:34:19 +0000 2018",
+   "text": "RT @patmeenan: Dev chatter is all around Vue, React, SPA's, etc.\n\nI just scanned the 3M domains in the Chrome User Experience report and 27…",
+   "retweet_count": 57,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966351781604229100,
+    "id_str": "966351781604229125",
+    "created_at": "Wed Feb 21 16:39:53 +0000 2018",
+    "text": "Dev chatter is all around Vue, React, SPA's, etc.\n\nI just scanned the 3M domains in the Chrome User Experience repo… https://t.co/rfHRuZnTus",
+    "retweet_count": 57,
+    "favorite_count": 110,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rfHRuZnTus",
+      "expand": "https://twitter.com/i/web/status/966351781604229125"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966393097478434800,
+   "id_str": "966393097478434817",
+   "created_at": "Wed Feb 21 19:24:03 +0000 2018",
+   "text": "RT @whitecoatcapxg: Yesterday, 17 conferences chose to add our high-quality captioning to their events to help increase understanding, rete…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966241620088803300,
+    "id_str": "966241620088803330",
+    "created_at": "Wed Feb 21 09:22:08 +0000 2018",
+    "text": "Yesterday, 17 conferences chose to add our high-quality captioning to their events to help increase understanding,… https://t.co/Ex4ODMjuZE",
+    "retweet_count": 10,
+    "favorite_count": 18,
+    "place": "St Albans, VT",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ex4ODMjuZE",
+      "expand": "https://twitter.com/i/web/status/966241620088803330"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966351462900097000,
+   "id_str": "966351462900097025",
+   "created_at": "Wed Feb 21 16:38:37 +0000 2018",
+   "text": "RT @deltavconf: Only one week left to submit an application for our scholarship scheme 📝 \n\nFind out more &amp; apply: https://t.co/AaQqDjVOSs",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AaQqDjVOSs",
+     "expand": "https://wvnts.co/2DS1CIV"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964489793756450800,
+    "id_str": "964489793756450816",
+    "created_at": "Fri Feb 16 13:21:00 +0000 2018",
+    "text": "Only one week left to submit an application for our scholarship scheme 📝 \n\nFind out more &amp; apply: https://t.co/AaQqDjVOSs",
+    "retweet_count": 11,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AaQqDjVOSs",
+      "expand": "https://wvnts.co/2DS1CIV"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966264221976625200,
+   "id_str": "966264221976625152",
+   "created_at": "Wed Feb 21 10:51:57 +0000 2018",
+   "text": "@geekybiz Yeh, but it's not as easy to compare the filmstrips (could extract the frames from the timeline) that way… https://t.co/10a76rkWX7",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964838978934509600,
+   "in_reply_to_status_id": 966183031475187700,
+   "in_reply_to_status_id_str": "966183031475187713",
+   "in_reply_to_screen_name": "geekybiz",
+   "urls": [
+    {
+     "url": "https://t.co/10a76rkWX7",
+     "expand": "https://twitter.com/i/web/status/966264221976625152"
+    }
+   ]
+  },
+  {
+   "id": 966046978420494300,
+   "id_str": "966046978420494337",
+   "created_at": "Tue Feb 20 20:28:42 +0000 2018",
+   "text": "@simonhearne Next one is half written - though I'm being distracted by PRs for something you need!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966043440944439300,
+   "in_reply_to_status_id_str": "966043440944439296",
    "in_reply_to_screen_name": "simonhearne",
    "urls": []
+  },
+  {
+   "id": 966033516810129400,
+   "id_str": "966033516810129409",
+   "created_at": "Tue Feb 20 19:35:13 +0000 2018",
+   "text": "@vlh Scary perhaps not… inspirational yes!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966033004480159700,
+   "in_reply_to_status_id_str": "966033004480159745",
+   "in_reply_to_screen_name": "vlh",
+   "urls": []
+  },
+  {
+   "id": 966027808450498600,
+   "id_str": "966027808450498561",
+   "created_at": "Tue Feb 20 19:12:32 +0000 2018",
+   "text": "\"Measuring the Impact of 3rd-Party Tags With WebPageTest\" https://t.co/LoiYfvQnmF",
+   "retweet_count": 26,
+   "favorite_count": 73,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LoiYfvQnmF",
+     "expand": "https://andydavies.me/blog/2018/02/19/using-webpagetest-to-measure-the-impact-of-3rd-party-tags/"
+    }
+   ]
+  },
+  {
+   "id": 966027187114709000,
+   "id_str": "966027187114708993",
+   "created_at": "Tue Feb 20 19:10:03 +0000 2018",
+   "text": "\"People keep periodically claiming that RSS is dead but thousands of people subscribe to my RSS feed so that’s obvi… https://t.co/2FlmFnQK8K",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2FlmFnQK8K",
+     "expand": "https://twitter.com/i/web/status/966027187114708993"
+    }
+   ]
+  },
+  {
+   "id": 966026026546532400,
+   "id_str": "966026026546532353",
+   "created_at": "Tue Feb 20 19:05:27 +0000 2018",
+   "text": "@vlh Yup, you'd be able to lift me  - which I find both impressive and 'scary' at the same time 💪",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965991143153467400,
+   "in_reply_to_status_id_str": "965991143153467393",
+   "in_reply_to_screen_name": "vlh",
+   "urls": []
+  },
+  {
+   "id": 966024275550523400,
+   "id_str": "966024275550523392",
+   "created_at": "Tue Feb 20 18:58:29 +0000 2018",
+   "text": "RT @eehayman: Video's up for anyone interested from my talk on Performant Web Animations at #SmashingConf in London! https://t.co/gdA6FasAD0",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gdA6FasAD0",
+     "expand": "https://vimeo.com/254906131"
+    }
+   ],
+   "retweeted_status": {
+    "id": 962336514712760300,
+    "id_str": "962336514712760320",
+    "created_at": "Sat Feb 10 14:44:39 +0000 2018",
+    "text": "Video's up for anyone interested from my talk on Performant Web Animations at #SmashingConf in London! https://t.co/gdA6FasAD0",
+    "retweet_count": 7,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gdA6FasAD0",
+      "expand": "https://vimeo.com/254906131"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965664058069475300,
+   "id_str": "965664058069475328",
+   "created_at": "Mon Feb 19 19:07:07 +0000 2018",
+   "text": "RT @mitchellh: As a little weekend project, I put together a library for using the new HTTP Server-Timing features from Go. https://t.co/lh…",
+   "retweet_count": 65,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 963110912134733800,
+    "id_str": "963110912134733824",
+    "created_at": "Mon Feb 12 18:01:49 +0000 2018",
+    "text": "As a little weekend project, I put together a library for using the new HTTP Server-Timing features from Go.… https://t.co/znz2Ix0HdJ",
+    "retweet_count": 65,
+    "favorite_count": 255,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/znz2Ix0HdJ",
+      "expand": "https://twitter.com/i/web/status/963110912134733824"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965578978340823000,
+   "id_str": "965578978340823040",
+   "created_at": "Mon Feb 19 13:29:02 +0000 2018",
+   "text": "RT @NCCGroupWebperf: Speed matters. We shared our knowledge of UK retail #webperf with @etail for the IRUK Top500 Internet Retailing 2018 R…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964496254440034300,
+    "id_str": "964496254440034305",
+    "created_at": "Fri Feb 16 13:46:41 +0000 2018",
+    "text": "Speed matters. We shared our knowledge of UK retail #webperf with @etail for the IRUK Top500 Internet Retailing 201… https://t.co/zzd6dJKWxH",
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zzd6dJKWxH",
+      "expand": "https://twitter.com/i/web/status/964496254440034305"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965576530825969700,
+   "id_str": "965576530825969666",
+   "created_at": "Mon Feb 19 13:19:19 +0000 2018",
+   "text": "@mikecb @JustinBeckwith All the locals call it Llanfair PG, the long name was made up by the Victorians (I think -… https://t.co/l4y1fe9d7H",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965433030985896000,
+   "in_reply_to_status_id_str": "965433030985895941",
+   "in_reply_to_screen_name": "mikecb",
+   "urls": [
+    {
+     "url": "https://t.co/l4y1fe9d7H",
+     "expand": "https://twitter.com/i/web/status/965576530825969666"
+    }
+   ]
+  },
+  {
+   "id": 965516824937889800,
+   "id_str": "965516824937889792",
+   "created_at": "Mon Feb 19 09:22:04 +0000 2018",
+   "text": "@rposbo Yeh, it's an interesting watch - thought it was really interesting Netflix were making documentarys",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965508823946588200,
+   "in_reply_to_status_id_str": "965508823946588161",
+   "in_reply_to_screen_name": "rposbo",
+   "urls": []
+  },
+  {
+   "id": 965152474725265400,
+   "id_str": "965152474725265408",
+   "created_at": "Sun Feb 18 09:14:16 +0000 2018",
+   "text": "Yup, I do this too https://t.co/UH2sSFIUnG",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UH2sSFIUnG",
+     "expand": "https://twitter.com/lulu_cheng/status/964947708275343361"
+    }
+   ]
+  },
+  {
+   "id": 964986358442971100,
+   "id_str": "964986358442971136",
+   "created_at": "Sat Feb 17 22:14:11 +0000 2018",
+   "text": "RT @sophiedennis: Look at this amazing line-up of #LadiesThatUX we have keynoting at @uxcitymcr . As panel chair I’m pretty chuffed :) Get…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964930488019378200,
+    "id_str": "964930488019378176",
+    "created_at": "Sat Feb 17 18:32:10 +0000 2018",
+    "text": "Look at this amazing line-up of #LadiesThatUX we have keynoting at @uxcitymcr . As panel chair I’m pretty chuffed :… https://t.co/o1UV2UyU8O",
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/o1UV2UyU8O",
+      "expand": "https://twitter.com/i/web/status/964930488019378176"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964948722714120200,
+   "id_str": "964948722714120193",
+   "created_at": "Sat Feb 17 19:44:38 +0000 2018",
+   "text": "Belated Valentine’s dinner (I was away) with my love and our 12yr old chaperone\n\nSteak with baby courgettes with le… https://t.co/DBW2U23lPc",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DBW2U23lPc",
+     "expand": "https://twitter.com/i/web/status/964948722714120193"
+    }
+   ]
   }
  ]
 }

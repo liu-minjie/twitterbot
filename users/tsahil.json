@@ -1,6 +1,143 @@
 {
- "time": 1518873097468,
+ "time": 1519367393530,
  "lists": [
+  {
+   "id": 966220476807774200,
+   "id_str": "966220476807774209",
+   "created_at": "Wed Feb 21 07:58:07 +0000 2018",
+   "text": "Our @WebRTCWeekly #212 is out #WebRTC: https://t.co/J1ZzlSt623",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/J1ZzlSt623",
+     "expand": "http://bit.ly/2CAOv9v"
+    }
+   ]
+  },
+  {
+   "id": 966087862197342200,
+   "id_str": "966087862197342209",
+   "created_at": "Tue Feb 20 23:11:10 +0000 2018",
+   "text": "Just published a new article: Do I Need a Media Server for a One-to-Many WebRTC Broadcast? https://t.co/BGXorAtPpA… https://t.co/HRiWD8CZgm",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BGXorAtPpA",
+     "expand": "http://bit.ly/2oikPc8"
+    },
+    {
+     "url": "https://t.co/HRiWD8CZgm",
+     "expand": "https://twitter.com/i/web/status/966087862197342209"
+    }
+   ]
+  },
+  {
+   "id": 965798501891403800,
+   "id_str": "965798501891403777",
+   "created_at": "Tue Feb 20 04:01:21 +0000 2018",
+   "text": "\"Don’t assume you know WebRTC just because you know web development or because you know VoIP or video processing.\"… https://t.co/hGpTdMh6Nh",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hGpTdMh6Nh",
+     "expand": "https://twitter.com/i/web/status/965798501891403777"
+    }
+   ]
+  },
+  {
+   "id": 965436049739731000,
+   "id_str": "965436049739730944",
+   "created_at": "Mon Feb 19 04:01:05 +0000 2018",
+   "text": "In case you missed it, check out \"The Internet of Things or Things on the Internet?\" https://t.co/yCG0LceBVj… https://t.co/0Uqr0BcMhy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yCG0LceBVj",
+     "expand": "http://bit.ly/2Ek91Nv"
+    },
+    {
+     "url": "https://t.co/0Uqr0BcMhy",
+     "expand": "https://twitter.com/i/web/status/965436049739730944"
+    }
+   ]
+  },
+  {
+   "id": 964953870232440800,
+   "id_str": "964953870232440832",
+   "created_at": "Sat Feb 17 20:05:05 +0000 2018",
+   "text": "@anarchyco The other alternative is to try out MXNet instead of TensorFlow... seems to me trying GCE will be simpler/easier/faster",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964929359252508700,
+   "in_reply_to_status_id_str": "964929359252508677",
+   "in_reply_to_screen_name": "anarchyco",
+   "urls": []
+  },
+  {
+   "id": 964937530088009700,
+   "id_str": "964937530088009728",
+   "created_at": "Sat Feb 17 19:00:09 +0000 2018",
+   "text": "Don’t miss: AWS DeepLens and the Future of AI Cameras and Vision\nhttps://t.co/igV25z98gy https://t.co/zJLwGnWeRq",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/igV25z98gy",
+     "expand": "http://bit.ly/2F0vDlO"
+    }
+   ]
+  },
+  {
+   "id": 964919034708885500,
+   "id_str": "964919034708885504",
+   "created_at": "Sat Feb 17 17:46:39 +0000 2018",
+   "text": "@sageeb @Noa_Liberator זה מרגיש כמו לפני שנות דור... אני זקן",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964916688838955000,
+   "in_reply_to_status_id_str": "964916688838955010",
+   "in_reply_to_screen_name": "sageeb",
+   "urls": []
+  },
+  {
+   "id": 964890208343920600,
+   "id_str": "964890208343920640",
+   "created_at": "Sat Feb 17 15:52:07 +0000 2018",
+   "text": "@anarchyco Have you thought of trying out the new TPUs on GCE?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964638668760764400,
+   "in_reply_to_status_id_str": "964638668760764417",
+   "in_reply_to_screen_name": "anarchyco",
+   "urls": []
+  },
   {
    "id": 963986538521595900,
    "id_str": "963986538521595904",
@@ -10,6 +147,7 @@
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {

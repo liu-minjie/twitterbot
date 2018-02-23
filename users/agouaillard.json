@@ -1,34 +1,54 @@
 {
- "time": 1518873093519,
+ "time": 1519367389365,
  "lists": [
   {
-   "id": 964189493887623200,
-   "id_str": "964189493887623168",
-   "created_at": "Thu Feb 15 17:27:43 +0000 2018",
-   "text": "RT @webrtc: WebRTC M65 will launch in Chrome stable on March 6, including replaceTrack() support, changed stat identifiers and hard limit o…",
-   "retweet_count": 31,
-   "favorite_count": 0,
+   "id": 966655288559353900,
+   "id_str": "966655288559353856",
+   "created_at": "Thu Feb 22 12:45:55 +0000 2018",
+   "text": "@sebdeckers @kaihendry NETGEAR 48-Port Gigabit Ethernet Smart Managed Pro Switch, L2+/Layer 3 Lite, 10 SFP+, ProSAF… https://t.co/ogzCCwnLzU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966593264294883300,
+   "in_reply_to_status_id_str": "966593264294883328",
+   "in_reply_to_screen_name": "sebdeckers",
+   "urls": [
+    {
+     "url": "https://t.co/ogzCCwnLzU",
+     "expand": "https://twitter.com/i/web/status/966655288559353856"
+    }
+   ]
+  },
+  {
+   "id": 966580111121162200,
+   "id_str": "966580111121162240",
+   "created_at": "Thu Feb 22 07:47:11 +0000 2018",
+   "text": "@sebdeckers The netgear 48ports 10Gbe managed. RJ45",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966564557337460700,
+   "in_reply_to_status_id_str": "966564557337460738",
+   "in_reply_to_screen_name": "sebdeckers",
+   "urls": []
+  },
+  {
+   "id": 966544429694664700,
+   "id_str": "966544429694664704",
+   "created_at": "Thu Feb 22 05:25:24 +0000 2018",
+   "text": "Getting to a full 10Gbe network, step by step. Faster distributed #webrtc builds in progress, a.k.a. GOMA for the m… https://t.co/3wrVWdxvFQ",
+   "retweet_count": 1,
+   "favorite_count": 12,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964113812487065600,
-    "id_str": "964113812487065600",
-    "created_at": "Thu Feb 15 12:26:59 +0000 2018",
-    "text": "WebRTC M65 will launch in Chrome stable on March 6, including replaceTrack() support, changed stat identifiers and… https://t.co/2pwAOIXe7i",
-    "retweet_count": 31,
-    "favorite_count": 41,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/2pwAOIXe7i",
-      "expand": "https://twitter.com/i/web/status/964113812487065600"
-     }
-    ]
-   }
+   "urls": [
+    {
+     "url": "https://t.co/3wrVWdxvFQ",
+     "expand": "https://twitter.com/i/web/status/966544429694664704"
+    }
+   ]
   }
  ]
 }

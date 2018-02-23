@@ -1,6 +1,42 @@
 {
- "time": 1518873111846,
+ "time": 1519367404529,
  "lists": [
+  {
+   "id": 966030645980991500,
+   "id_str": "966030645980991489",
+   "created_at": "Tue Feb 20 19:23:48 +0000 2018",
+   "text": "@amesimmons yes, and then furthermore, it reduces to 22 == 1, which is of course false. unless one side is an objec… https://t.co/KynO54NWGe",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965878148289134600,
+   "in_reply_to_status_id_str": "965878148289134592",
+   "in_reply_to_screen_name": "amesimmons",
+   "urls": [
+    {
+     "url": "https://t.co/KynO54NWGe",
+     "expand": "https://twitter.com/i/web/status/966030645980991489"
+    }
+   ]
+  },
+  {
+   "id": 964931430328471600,
+   "id_str": "964931430328471553",
+   "created_at": "Sat Feb 17 18:35:55 +0000 2018",
+   "text": "@tfbkny @_Gasha not positional... based on matching name. it looks in all of `a`, and if it finds a `b` property, i… https://t.co/RTe7jVKbNU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964926371817513000,
+   "in_reply_to_status_id_str": "964926371817512960",
+   "in_reply_to_screen_name": "tfbkny",
+   "urls": [
+    {
+     "url": "https://t.co/RTe7jVKbNU",
+     "expand": "https://twitter.com/i/web/status/964931430328471553"
+    }
+   ]
+  },
   {
    "id": 964619530315223000,
    "id_str": "964619530315223041",
@@ -10,6 +46,7 @@
    "favorite_count": 2,
    "place": null,
    "in_reply_to_status_id": 964610479078375400,
+   "in_reply_to_status_id_str": "964610479078375424",
    "in_reply_to_screen_name": "bmac_editor",
    "urls": []
   }

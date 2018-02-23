@@ -1,20 +1,101 @@
 {
- "time": 1518873215750,
+ "time": 1519367439974,
  "lists": [
   {
-   "id": 964819026202460200,
-   "id_str": "964819026202460161",
-   "created_at": "Sat Feb 17 11:09:15 +0000 2018",
-   "text": "@sirdarckcat @CircleNinja @Google @googlesecurity @Hacker0x01 @Bugcrowd @bugbounty_world @bugbountyforum . Hey… https://t.co/0PZRtuPPY7",
-   "retweet_count": 0,
-   "favorite_count": 4,
+   "id": 966366825448726500,
+   "id_str": "966366825448726528",
+   "created_at": "Wed Feb 21 17:39:40 +0000 2018",
+   "text": "RT @leifnixon: Download shell commands over an insecure connection to a Libyan domain and pipe them straight into a root shell. Awesome.\n\n@…",
+   "retweet_count": 43,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964816264857374700,
-   "in_reply_to_screen_name": "sirdarckcat",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966345705454493700,
+    "id_str": "966345705454493696",
+    "created_at": "Wed Feb 21 16:15:44 +0000 2018",
+    "text": "Download shell commands over an insecure connection to a Libyan domain and pipe them straight into a root shell. Aw… https://t.co/CHVa1g9Ybt",
+    "retweet_count": 43,
+    "favorite_count": 78,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CHVa1g9Ybt",
+      "expand": "https://twitter.com/i/web/status/966345705454493696"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966102139033522200,
+   "id_str": "966102139033522182",
+   "created_at": "Wed Feb 21 00:07:53 +0000 2018",
+   "text": "@aryan_sinha21 @sirdarckcat @googlesecurity @Google @Sirius_White @molnar_g If you're sharing your browser profile… https://t.co/Yu50XWfJyj",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966072059028586500,
+   "in_reply_to_status_id_str": "966072059028586496",
+   "in_reply_to_screen_name": "aryan_sinha21",
    "urls": [
     {
-     "url": "https://t.co/0PZRtuPPY7",
-     "expand": "https://twitter.com/i/web/status/964819026202460161"
+     "url": "https://t.co/Yu50XWfJyj",
+     "expand": "https://twitter.com/i/web/status/966102139033522182"
+    }
+   ]
+  },
+  {
+   "id": 965887875425456100,
+   "id_str": "965887875425456128",
+   "created_at": "Tue Feb 20 09:56:29 +0000 2018",
+   "text": "@hanno @bentsukun @Google Thanks Hanno, I'm on it!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965879221473202200,
+   "in_reply_to_status_id_str": "965879221473202176",
+   "in_reply_to_screen_name": "hanno",
+   "urls": []
+  },
+  {
+   "id": 965563370039636000,
+   "id_str": "965563370039635968",
+   "created_at": "Mon Feb 19 12:27:01 +0000 2018",
+   "text": "@manicode CORS or not, user data in scripts can be exfiled, when the script executes, no? At worst with timing, but… https://t.co/oGZnbkZwJo",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965537315559845900,
+   "in_reply_to_status_id_str": "965537315559845888",
+   "in_reply_to_screen_name": "manicode",
+   "urls": [
+    {
+     "url": "https://t.co/oGZnbkZwJo",
+     "expand": "https://twitter.com/i/web/status/965563370039635968"
+    }
+   ]
+  },
+  {
+   "id": 964859615300214800,
+   "id_str": "964859615300214785",
+   "created_at": "Sat Feb 17 13:50:33 +0000 2018",
+   "text": "@svblxyz @sirdarckcat @CircleNinja @Google @googlesecurity @Hacker0x01 @Bugcrowd @bugbounty_world @bugbountyforum N… https://t.co/qLuNYzzPPT",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964856827468046300,
+   "in_reply_to_status_id_str": "964856827468046336",
+   "in_reply_to_screen_name": "svblxyz",
+   "urls": [
+    {
+     "url": "https://t.co/qLuNYzzPPT",
+     "expand": "https://twitter.com/i/web/status/964859615300214785"
     }
    ]
   }

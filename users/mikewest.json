@@ -1,22 +1,458 @@
 {
- "time": 1518873215859,
+ "time": 1519367440202,
  "lists": [
   {
-   "id": 964224539528921100,
-   "id_str": "964224539528921091",
-   "created_at": "Thu Feb 15 19:46:59 +0000 2018",
-   "text": "@durumcrustulum I still don’t understand the question. :) If you’re asking how ‘document.domain’ works, you’ll want… https://t.co/ilvMR3M0Kv",
+   "id": 966312907310092300,
+   "id_str": "966312907310092288",
+   "created_at": "Wed Feb 21 14:05:24 +0000 2018",
+   "text": "@AlekMuzo @mholt6 Thanks! You're better at searching than I am, which is somewhat embarrassing! :)",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966310577080385500,
+   "in_reply_to_status_id_str": "966310577080385536",
+   "in_reply_to_screen_name": "AlekMuzo",
+   "urls": []
+  },
+  {
+   "id": 966303337460183000,
+   "id_str": "966303337460183041",
+   "created_at": "Wed Feb 21 13:27:23 +0000 2018",
+   "text": "@mholt6 @googlechrome I didn't find a bug in a quick search. Can you give me the bug ID? I'll hand it to the right folks.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966285508560109600,
+   "in_reply_to_status_id_str": "966285508560109569",
+   "in_reply_to_screen_name": "mholt6",
+   "urls": []
+  },
+  {
+   "id": 966243147868237800,
+   "id_str": "966243147868237824",
+   "created_at": "Wed Feb 21 09:28:13 +0000 2018",
+   "text": "@mvsamuel As you suggest, this is just measuring the raw header size. For HTTP/2, magical header compression dust w… https://t.co/WdbVvpkNX8",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 964223273256054800,
-   "in_reply_to_screen_name": "durumcrustulum",
+   "in_reply_to_status_id": 965973522425241600,
+   "in_reply_to_status_id_str": "965973522425241600",
+   "in_reply_to_screen_name": "mvsamuel",
    "urls": [
     {
-     "url": "https://t.co/ilvMR3M0Kv",
-     "expand": "https://twitter.com/i/web/status/964224539528921091"
+     "url": "https://t.co/WdbVvpkNX8",
+     "expand": "https://twitter.com/i/web/status/966243147868237824"
     }
    ]
+  },
+  {
+   "id": 966206979990540300,
+   "id_str": "966206979990540291",
+   "created_at": "Wed Feb 21 07:04:29 +0000 2018",
+   "text": "@mholt6 @googlechrome Mind filing a bug? I’ll get the right folks to take a look.",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 966203890613006300,
+   "in_reply_to_status_id_str": "966203890613006337",
+   "in_reply_to_screen_name": "mholt6",
+   "urls": []
+  },
+  {
+   "id": 965951793451688000,
+   "id_str": "965951793451687937",
+   "created_at": "Tue Feb 20 14:10:28 +0000 2018",
+   "text": "@patricktoomey Nope. I just have a size histogram. We don’t log cookie names or values.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965951607769776100,
+   "in_reply_to_status_id_str": "965951607769776129",
+   "in_reply_to_screen_name": "patricktoomey",
+   "urls": []
+  },
+  {
+   "id": 965870371428814800,
+   "id_str": "965870371428814848",
+   "created_at": "Tue Feb 20 08:46:56 +0000 2018",
+   "text": "@buro9 @sleevi_ I am implicitly wondering whether browsers could encourage different behavior by first offering dif… https://t.co/0p335GXvUT",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965869856724848600,
+   "in_reply_to_status_id_str": "965869856724848640",
+   "in_reply_to_screen_name": "buro9",
+   "urls": [
+    {
+     "url": "https://t.co/0p335GXvUT",
+     "expand": "https://twitter.com/i/web/status/965870371428814848"
+    }
+   ]
+  },
+  {
+   "id": 965868828902199300,
+   "id_str": "965868828902199296",
+   "created_at": "Tue Feb 20 08:40:48 +0000 2018",
+   "text": "@buro9 @sleevi_ Ah. Well, that's embarrassing. I should have remembered our `&lt;meta http-equiv=\"set-cookie\"&gt;` discus… https://t.co/rme2D6sPOH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965868494335234000,
+   "in_reply_to_status_id_str": "965868494335234049",
+   "in_reply_to_screen_name": "buro9",
+   "urls": [
+    {
+     "url": "https://t.co/rme2D6sPOH",
+     "expand": "https://twitter.com/i/web/status/965868828902199296"
+    }
+   ]
+  },
+  {
+   "id": 965867703134314500,
+   "id_str": "965867703134314496",
+   "created_at": "Tue Feb 20 08:36:20 +0000 2018",
+   "text": "@buro9 I suspect you're underestimating the interest of CDNs like Cloudflare, Fastly, etc. But I agree that it's un… https://t.co/sk7BwNHuII",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965866927557169200,
+   "in_reply_to_status_id_str": "965866927557169152",
+   "in_reply_to_screen_name": "buro9",
+   "urls": [
+    {
+     "url": "https://t.co/sk7BwNHuII",
+     "expand": "https://twitter.com/i/web/status/965867703134314496"
+    }
+   ]
+  },
+  {
+   "id": 965865568652943400,
+   "id_str": "965865568652943360",
+   "created_at": "Tue Feb 20 08:27:51 +0000 2018",
+   "text": "@buro9 I thought HTTP/2 would have made it easier to shard across origins by coalescing multiple origins' connectio… https://t.co/LcSYEcJybH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965863370846064600,
+   "in_reply_to_status_id_str": "965863370846064640",
+   "in_reply_to_screen_name": "buro9",
+   "urls": [
+    {
+     "url": "https://t.co/LcSYEcJybH",
+     "expand": "https://twitter.com/i/web/status/965865568652943360"
+    }
+   ]
+  },
+  {
+   "id": 965864835408855000,
+   "id_str": "965864835408855040",
+   "created_at": "Tue Feb 20 08:24:56 +0000 2018",
+   "text": "@ndm Eventually, I'll get back to https://t.co/bPlkK2xIsp. And we'll have to figure out something for folks like y'… https://t.co/0nOH6qn5Tc",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965864448622645200,
+   "in_reply_to_status_id_str": "965864448622645248",
+   "in_reply_to_screen_name": "ndm",
+   "urls": [
+    {
+     "url": "https://t.co/bPlkK2xIsp",
+     "expand": "https://mikewest.github.io/artur-yes/"
+    },
+    {
+     "url": "https://t.co/0nOH6qn5Tc",
+     "expand": "https://twitter.com/i/web/status/965864835408855040"
+    }
+   ]
+  },
+  {
+   "id": 965864487449440300,
+   "id_str": "965864487449440257",
+   "created_at": "Tue Feb 20 08:23:33 +0000 2018",
+   "text": "@mik235 I don't know the details, but I imagine it boils down to \"poorly\".",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965862938274799600,
+   "in_reply_to_status_id_str": "965862938274799616",
+   "in_reply_to_screen_name": "mik235",
+   "urls": []
+  },
+  {
+   "id": 965862409503232000,
+   "id_str": "965862409503232000",
+   "created_at": "Tue Feb 20 08:15:17 +0000 2018",
+   "text": "@buro9 Today, it seems better to move static resources to an explicitly cookieless domain. As you note, it's going… https://t.co/mgYgocx46X",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965861257357267000,
+   "in_reply_to_status_id_str": "965861257357266944",
+   "in_reply_to_screen_name": "buro9",
+   "urls": [
+    {
+     "url": "https://t.co/mgYgocx46X",
+     "expand": "https://twitter.com/i/web/status/965862409503232000"
+    }
+   ]
+  },
+  {
+   "id": 965861268430245900,
+   "id_str": "965861268430245888",
+   "created_at": "Tue Feb 20 08:10:45 +0000 2018",
+   "text": "@buro9 Cookies do support path limitations today, which makes it possible to segregate delivery by app, assuming th… https://t.co/RxwW8Jf5B0",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965860871313477600,
+   "in_reply_to_status_id_str": "965860871313477632",
+   "in_reply_to_screen_name": "buro9",
+   "urls": [
+    {
+     "url": "https://t.co/RxwW8Jf5B0",
+     "expand": "https://twitter.com/i/web/status/965861268430245888"
+    }
+   ]
+  },
+  {
+   "id": 965860440277508100,
+   "id_str": "965860440277508096",
+   "created_at": "Tue Feb 20 08:07:28 +0000 2018",
+   "text": "Based on a ~week's worth of data from Canary, 5% of `Cookie` headers are longer than 2305 bytes. 1% are longer than… https://t.co/zwZ0sKlNUe",
+   "retweet_count": 15,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zwZ0sKlNUe",
+     "expand": "https://twitter.com/i/web/status/965860440277508096"
+    }
+   ]
+  },
+  {
+   "id": 965559175869878300,
+   "id_str": "965559175869878272",
+   "created_at": "Mon Feb 19 12:10:21 +0000 2018",
+   "text": "@Scott_Helme @manicode *ahem* This might come as something as a shock, but browsers have all sorts of bugs. Like, e… https://t.co/M7R1TS240p",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 965558849989210100,
+   "in_reply_to_status_id_str": "965558849989210114",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/M7R1TS240p",
+     "expand": "https://twitter.com/i/web/status/965559175869878272"
+    }
+   ]
+  },
+  {
+   "id": 965558602814623700,
+   "id_str": "965558602814623744",
+   "created_at": "Mon Feb 19 12:08:04 +0000 2018",
+   "text": "@Scott_Helme @manicode Modulo Browser bugs, I guess. I could imagine that we do the checks in the wrong order. Hope… https://t.co/CXUywyWKez",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965558175507337200,
+   "in_reply_to_status_id_str": "965558175507337217",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/CXUywyWKez",
+     "expand": "https://twitter.com/i/web/status/965558602814623744"
+    }
+   ]
+  },
+  {
+   "id": 965557053912645600,
+   "id_str": "965557053912645632",
+   "created_at": "Mon Feb 19 12:01:55 +0000 2018",
+   "text": "@Scott_Helme @manicode I’d phrase it differently: SRI from an origin only works for resources that explicitly choos… https://t.co/XJkY2bk2rP",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965556530014810100,
+   "in_reply_to_status_id_str": "965556530014810113",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/XJkY2bk2rP",
+     "expand": "https://twitter.com/i/web/status/965557053912645632"
+    }
+   ]
+  },
+  {
+   "id": 965542386800775200,
+   "id_str": "965542386800775168",
+   "created_at": "Mon Feb 19 11:03:38 +0000 2018",
+   "text": "@garito Munich in winter is a bad place for sun of any sort. :/",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965541514943361000,
+   "in_reply_to_status_id_str": "965541514943361025",
+   "in_reply_to_screen_name": "garito",
+   "urls": []
+  },
+  {
+   "id": 965541020078366700,
+   "id_str": "965541020078366721",
+   "created_at": "Mon Feb 19 10:58:12 +0000 2018",
+   "text": "@manicode 👍",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965540560592240600,
+   "in_reply_to_status_id_str": "965540560592240640",
+   "in_reply_to_screen_name": "manicode",
+   "urls": []
+  },
+  {
+   "id": 965538463356538900,
+   "id_str": "965538463356538880",
+   "created_at": "Mon Feb 19 10:48:03 +0000 2018",
+   "text": "@manicode I don't understand how that's \"leakage\". SRI only works if the endpoint opts-into allowing the data to be… https://t.co/rRRD7wiZxg",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965537315559845900,
+   "in_reply_to_status_id_str": "965537315559845888",
+   "in_reply_to_screen_name": "manicode",
+   "urls": [
+    {
+     "url": "https://t.co/rRRD7wiZxg",
+     "expand": "https://twitter.com/i/web/status/965538463356538880"
+    }
+   ]
+  },
+  {
+   "id": 965518073087299600,
+   "id_str": "965518073087299584",
+   "created_at": "Mon Feb 19 09:27:01 +0000 2018",
+   "text": "Basically every flat surface in my house is currently covered in used tissues and half-drunk mugs of cold tea.\n\nAh, flu season.",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965448723055697900,
+   "id_str": "965448723055697920",
+   "created_at": "Mon Feb 19 04:51:27 +0000 2018",
+   "text": "@estark37 @DasSurma @cramforce Mike is learning to delegate! Folks on the loading team are refactoring our CORS imp… https://t.co/i1N7PGA6Bp",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965322814977818600,
+   "in_reply_to_status_id_str": "965322814977818624",
+   "in_reply_to_screen_name": "estark37",
+   "urls": [
+    {
+     "url": "https://t.co/i1N7PGA6Bp",
+     "expand": "https://twitter.com/i/web/status/965448723055697920"
+    }
+   ]
+  },
+  {
+   "id": 965447802569613300,
+   "id_str": "965447802569613312",
+   "created_at": "Mon Feb 19 04:47:47 +0000 2018",
+   "text": "@estark37 @frgx @jaffathecake @DasSurma @cramforce The proposal @estark37 linked would indeed force a preflight for… https://t.co/CtC7k9JttY",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965348762657865700,
+   "in_reply_to_status_id_str": "965348762657865729",
+   "in_reply_to_screen_name": "estark37",
+   "urls": [
+    {
+     "url": "https://t.co/CtC7k9JttY",
+     "expand": "https://twitter.com/i/web/status/965447802569613312"
+    }
+   ]
+  },
+  {
+   "id": 965263111174443000,
+   "id_str": "965263111174443008",
+   "created_at": "Sun Feb 18 16:33:54 +0000 2018",
+   "text": "@patricktoomey @KingstonTime @github @fastly @letsencrypt 🤯",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965253433598103600,
+   "in_reply_to_status_id_str": "965253433598103557",
+   "in_reply_to_screen_name": "patricktoomey",
+   "urls": []
+  },
+  {
+   "id": 964951111781232600,
+   "id_str": "964951111781232641",
+   "created_at": "Sat Feb 17 19:54:07 +0000 2018",
+   "text": "@farbenstau *ba dum tss* :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964873244653256700,
+   "in_reply_to_status_id_str": "964873244653256705",
+   "in_reply_to_screen_name": "farbenstau",
+   "urls": []
+  },
+  {
+   "id": 964867242323267600,
+   "id_str": "964867242323267584",
+   "created_at": "Sat Feb 17 14:20:51 +0000 2018",
+   "text": "I'm back home after what's probably the least vacationey vacation I've had in a while. Happily, my wife is mostly f… https://t.co/S9z0n3kUcg",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/S9z0n3kUcg",
+     "expand": "https://twitter.com/i/web/status/964867242323267584"
+    }
+   ]
+  },
+  {
+   "id": 964866024641384400,
+   "id_str": "964866024641384448",
+   "created_at": "Sat Feb 17 14:16:01 +0000 2018",
+   "text": "RT @reaperhulk: Gervase Markham’s work on Mozilla’s PKI program was mostly invisible (to laypeople) yet incredibly impactful to the securit…",
+   "retweet_count": 46,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964720383428563000,
+    "id_str": "964720383428562944",
+    "created_at": "Sat Feb 17 04:37:17 +0000 2018",
+    "text": "Gervase Markham’s work on Mozilla’s PKI program was mostly invisible (to laypeople) yet incredibly impactful to the… https://t.co/396bryZECV",
+    "retweet_count": 46,
+    "favorite_count": 78,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/396bryZECV",
+      "expand": "https://twitter.com/i/web/status/964720383428562944"
+     }
+    ]
+   }
   }
  ]
 }

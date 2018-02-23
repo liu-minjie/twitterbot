@@ -1,6 +1,93 @@
 {
- "time": 1518873194037,
+ "time": 1519367416783,
  "lists": [
+  {
+   "id": 966370096049475600,
+   "id_str": "966370096049475585",
+   "created_at": "Wed Feb 21 17:52:39 +0000 2018",
+   "text": "RT @cryptofun1: Typical new \"ICO\" team: https://t.co/84wKD7mfdS",
+   "retweet_count": 89,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966306174583869400,
+    "id_str": "966306174583869440",
+    "created_at": "Wed Feb 21 13:38:39 +0000 2018",
+    "text": "Typical new \"ICO\" team: https://t.co/84wKD7mfdS",
+    "retweet_count": 89,
+    "favorite_count": 328,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966349280033300500,
+   "id_str": "966349280033300482",
+   "created_at": "Wed Feb 21 16:29:56 +0000 2018",
+   "text": "New blog post: @aspnet like master pages with @angular: https://t.co/RdTiEmHFUR\n\nLive demo powered by @stackblitz: https://t.co/c4kXBmouFw",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RdTiEmHFUR",
+     "expand": "https://www.radzen.com/blog/angular-master-pages/"
+    },
+    {
+     "url": "https://t.co/c4kXBmouFw",
+     "expand": "https://stackblitz.com/edit/angular-quik5b?embed=1&file=app/master.module.ts"
+    }
+   ]
+  },
+  {
+   "id": 965582014400352300,
+   "id_str": "965582014400352257",
+   "created_at": "Mon Feb 19 13:41:06 +0000 2018",
+   "text": "@rstankov or number two ...",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965578015085355000,
+   "in_reply_to_status_id_str": "965578015085355009",
+   "in_reply_to_screen_name": "rstankov",
+   "urls": []
+  },
+  {
+   "id": 965581828823404500,
+   "id_str": "965581828823404545",
+   "created_at": "Mon Feb 19 13:40:22 +0000 2018",
+   "text": "RT @CodeWisdom: “Don’t document the problem, fix it.”– Atli Björgvin Oddsson",
+   "retweet_count": 198,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 931582770484338700,
+    "id_str": "931582770484338688",
+    "created_at": "Fri Nov 17 18:00:15 +0000 2017",
+    "text": "“Don’t document the problem, fix it.”– Atli Björgvin Oddsson",
+    "retweet_count": 198,
+    "favorite_count": 444,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
   {
    "id": 963825335891644400,
    "id_str": "963825335891644416",
@@ -10,6 +97,7 @@
    "favorite_count": 1,
    "place": null,
    "in_reply_to_status_id": 963696428341190700,
+   "in_reply_to_status_id_str": "963696428341190659",
    "in_reply_to_screen_name": "rstankov",
    "urls": []
   }

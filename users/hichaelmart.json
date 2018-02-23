@@ -1,22 +1,567 @@
 {
- "time": 1518873198214,
+ "time": 1519367420040,
  "lists": [
   {
-   "id": 964596969514721300,
-   "id_str": "964596969514721280",
-   "created_at": "Fri Feb 16 20:26:53 +0000 2018",
-   "text": "Oh, my friend? Yeah, er, she lives in, like, the capital of Europe. Somewhere downtown if I remember correctly, in… https://t.co/IXXTgntmEI",
+   "id": 966834725267624000,
+   "id_str": "966834725267623937",
+   "created_at": "Fri Feb 23 00:38:56 +0000 2018",
+   "text": "Still waiting for the CI build to finish. https://t.co/185BUuTknY https://t.co/ds2VlZjIcj",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/185BUuTknY",
+     "expand": "https://www.wired.com/story/us-border-patrol-hasnt-validated-e-passport-data-for-years"
+    }
+   ]
+  },
+  {
+   "id": 966787720428310500,
+   "id_str": "966787720428310529",
+   "created_at": "Thu Feb 22 21:32:09 +0000 2018",
+   "text": "RT @ThisAlienNation: Join @aaciman, @MeeraNairNY, @rojoperezzz, @TheTaraSummers, @1demerith and Gabe Shnider on March 13 to celebrate immig…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966407549321818100,
+    "id_str": "966407549321818113",
+    "created_at": "Wed Feb 21 20:21:29 +0000 2018",
+    "text": "Join @aaciman, @MeeraNairNY, @rojoperezzz, @TheTaraSummers, @1demerith and Gabe Shnider on March 13 to celebrate im… https://t.co/rUlU1XOOET",
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rUlU1XOOET",
+      "expand": "https://twitter.com/i/web/status/966407549321818113"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966734789326901200,
+   "id_str": "966734789326901248",
+   "created_at": "Thu Feb 22 18:01:49 +0000 2018",
+   "text": "Node.js v9.6.0 is out, including dynamic importing 🎉 https://t.co/bawNVPQAZ9 – my tiny Alpine Docker images of it a… https://t.co/q3lexnA5rQ",
    "retweet_count": 0,
    "favorite_count": 3,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/IXXTgntmEI",
-     "expand": "https://twitter.com/i/web/status/964596969514721280"
+     "url": "https://t.co/bawNVPQAZ9",
+     "expand": "https://nodejs.org/en/blog/release/v9.6.0/"
+    },
+    {
+     "url": "https://t.co/q3lexnA5rQ",
+     "expand": "https://twitter.com/i/web/status/966734789326901248"
     }
    ]
+  },
+  {
+   "id": 966723944731545600,
+   "id_str": "966723944731545600",
+   "created_at": "Thu Feb 22 17:18:43 +0000 2018",
+   "text": "RT @Una: Look at this adorable AF crew 🤗 Come work with us @bustle!\n\nWe're looking for a product manager &amp; are always keeping an eye out fo…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966718479910035500,
+    "id_str": "966718479910035456",
+    "created_at": "Thu Feb 22 16:57:01 +0000 2018",
+    "text": "Look at this adorable AF crew 🤗 Come work with us @bustle!\n\nWe're looking for a product manager &amp; are always keepin… https://t.co/zmgHieftqP",
+    "retweet_count": 8,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zmgHieftqP",
+      "expand": "https://twitter.com/i/web/status/966718479910035456"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966543205494919200,
+   "id_str": "966543205494919168",
+   "created_at": "Thu Feb 22 05:20:32 +0000 2018",
+   "text": "@noopkat Wow, pretty brutal subtweet Suz. I didn't really want to know why the chicken crossed the road.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966539161640624100,
+   "in_reply_to_status_id_str": "966539161640624129",
+   "in_reply_to_screen_name": "noopkat",
+   "urls": []
+  },
+  {
+   "id": 966535669475676200,
+   "id_str": "966535669475676160",
+   "created_at": "Thu Feb 22 04:50:35 +0000 2018",
+   "text": "RT @sstefanovic: Feeling pretty over the moon about our lineup. Come celebrate immigration with us! https://t.co/OvhgNWZRrQ",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OvhgNWZRrQ",
+     "expand": "https://twitter.com/thisaliennation/status/966407549321818113"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966417824746037200,
+    "id_str": "966417824746037250",
+    "created_at": "Wed Feb 21 21:02:19 +0000 2018",
+    "text": "Feeling pretty over the moon about our lineup. Come celebrate immigration with us! https://t.co/OvhgNWZRrQ",
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OvhgNWZRrQ",
+      "expand": "https://twitter.com/thisaliennation/status/966407549321818113"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966534954350981100,
+   "id_str": "966534954350981125",
+   "created_at": "Thu Feb 22 04:47:45 +0000 2018",
+   "text": "@brendamarienyc have a great time in Melbs! https://t.co/kRWSZF9A9W",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "brendamarienyc",
+   "urls": [
+    {
+     "url": "https://t.co/kRWSZF9A9W",
+     "expand": "http://www.abc.net.au/news/2018-02-22/deadly-tiger-snake-stops-traffic-in-central-melbourne/9474864"
+    }
+   ]
+  },
+  {
+   "id": 966382712687878100,
+   "id_str": "966382712687878145",
+   "created_at": "Wed Feb 21 18:42:47 +0000 2018",
+   "text": "NYC confused. This number should be Fahrenheit right now. ☀️ https://t.co/1u5JU0xgkp",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": "Manhattan, NY",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966330319975735300,
+   "id_str": "966330319975735297",
+   "created_at": "Wed Feb 21 15:14:36 +0000 2018",
+   "text": "@PaulDJohnston @southpolesteve @JoeEmison There's some more comparisons here: https://t.co/PSp20CIsrd – 95th percen… https://t.co/ZJJdwNGKzI",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966329097822654500,
+   "in_reply_to_status_id_str": "966329097822654464",
+   "in_reply_to_screen_name": "hichaelmart",
+   "urls": [
+    {
+     "url": "https://t.co/PSp20CIsrd",
+     "expand": "https://twitter.com/fsenart/status/962070727330377735"
+    },
+    {
+     "url": "https://t.co/ZJJdwNGKzI",
+     "expand": "https://twitter.com/i/web/status/966330319975735297"
+    }
+   ]
+  },
+  {
+   "id": 966329097822654500,
+   "id_str": "966329097822654464",
+   "created_at": "Wed Feb 21 15:09:45 +0000 2018",
+   "text": "@PaulDJohnston @southpolesteve @JoeEmison Sure, but @JoeEmison was asking about startup time (which I assume means… https://t.co/HhFc0bkKhA",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966328809585872900,
+   "in_reply_to_status_id_str": "966328809585872897",
+   "in_reply_to_screen_name": "PaulDJohnston",
+   "urls": [
+    {
+     "url": "https://t.co/HhFc0bkKhA",
+     "expand": "https://twitter.com/i/web/status/966329097822654464"
+    }
+   ]
+  },
+  {
+   "id": 966326706708639700,
+   "id_str": "966326706708639747",
+   "created_at": "Wed Feb 21 15:00:15 +0000 2018",
+   "text": "@PaulDJohnston @southpolesteve @JoeEmison A Rust binary was even faster actually (because it was 474kb vs 8MB for G… https://t.co/aOuHhbmuYI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966325020669685800,
+   "in_reply_to_status_id_str": "966325020669685761",
+   "in_reply_to_screen_name": "hichaelmart",
+   "urls": [
+    {
+     "url": "https://t.co/aOuHhbmuYI",
+     "expand": "https://twitter.com/i/web/status/966326706708639747"
+    }
+   ]
+  },
+  {
+   "id": 966325020669685800,
+   "id_str": "966325020669685761",
+   "created_at": "Wed Feb 21 14:53:33 +0000 2018",
+   "text": "@PaulDJohnston @southpolesteve @JoeEmison Should have clarified – this was using the Node.js 0.10 binary on a Go ru… https://t.co/hMOEXfOGVY",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966324295281664000,
+   "in_reply_to_status_id_str": "966324295281664002",
+   "in_reply_to_screen_name": "PaulDJohnston",
+   "urls": [
+    {
+     "url": "https://t.co/hMOEXfOGVY",
+     "expand": "https://twitter.com/i/web/status/966325020669685761"
+    }
+   ]
+  },
+  {
+   "id": 966323728106876900,
+   "id_str": "966323728106876929",
+   "created_at": "Wed Feb 21 14:48:24 +0000 2018",
+   "text": "@southpolesteve @JoeEmison @PaulDJohnston It wasn't faster for cold boots. In fact, Node 0.10 was the fastest in my… https://t.co/1pAzFdQKJE",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966300062933487600,
+   "in_reply_to_status_id_str": "966300062933487617",
+   "in_reply_to_screen_name": "southpolesteve",
+   "urls": [
+    {
+     "url": "https://t.co/1pAzFdQKJE",
+     "expand": "https://twitter.com/i/web/status/966323728106876929"
+    }
+   ]
+  },
+  {
+   "id": 966178614831145000,
+   "id_str": "966178614831144961",
+   "created_at": "Wed Feb 21 05:11:47 +0000 2018",
+   "text": "RT @WoL_NYC: And here is @katewalsh – a woman of multiple superpowers (including winging it – and winning us over 😘) https://t.co/NJQndfbCB0",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966168984583393300,
+    "id_str": "966168984583393280",
+    "created_at": "Wed Feb 21 04:33:31 +0000 2018",
+    "text": "And here is @katewalsh – a woman of multiple superpowers (including winging it – and winning us over 😘) https://t.co/NJQndfbCB0",
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966178548879937500,
+   "id_str": "966178548879937537",
+   "created_at": "Wed Feb 21 05:11:31 +0000 2018",
+   "text": "RT @WoL_NYC: Our host @sstefanovic on her unfulfilled dreams of being a spy. 🕵️‍♀️ https://t.co/67p5umJOQ0",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966167791756816400,
+    "id_str": "966167791756816385",
+    "created_at": "Wed Feb 21 04:28:46 +0000 2018",
+    "text": "Our host @sstefanovic on her unfulfilled dreams of being a spy. 🕵️‍♀️ https://t.co/67p5umJOQ0",
+    "retweet_count": 3,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966158599276900400,
+   "id_str": "966158599276900352",
+   "created_at": "Wed Feb 21 03:52:15 +0000 2018",
+   "text": "@haacked Well I mean, your eyes are bro and your hair is bro, so I think your photo is on point",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966068866651598800,
+   "in_reply_to_status_id_str": "966068866651598848",
+   "in_reply_to_screen_name": "haacked",
+   "urls": []
+  },
+  {
+   "id": 966027780097040400,
+   "id_str": "966027780097040385",
+   "created_at": "Tue Feb 20 19:12:25 +0000 2018",
+   "text": "RT @manhattan_js: 💃 Thank you to @bustle for providing the drinks for tomorrow’s event. \n\nYou could join their awesome team!\n👉 https://t.co…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966001215455756300,
+    "id_str": "966001215455756288",
+    "created_at": "Tue Feb 20 17:26:51 +0000 2018",
+    "text": "💃 Thank you to @bustle for providing the drinks for tomorrow’s event. \n\nYou could join their awesome team!\n👉 https://t.co/WvQavK49V9",
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "place": "Financial District, Manhattan",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WvQavK49V9",
+      "expand": "https://www.bustle.com/labs#jobs"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965972561153658900,
+   "id_str": "965972561153658881",
+   "created_at": "Tue Feb 20 15:33:00 +0000 2018",
+   "text": "docker-lambda (https://t.co/zMc4bMcivv) now supports the dotnetcore2.0 runtime 🎉 Thanks heaps to… https://t.co/ARPwf9McfV",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zMc4bMcivv",
+     "expand": "https://github.com/lambci/docker-lambda"
+    },
+    {
+     "url": "https://t.co/ARPwf9McfV",
+     "expand": "https://twitter.com/i/web/status/965972561153658881"
+    }
+   ]
+  },
+  {
+   "id": 965398799618314200,
+   "id_str": "965398799618314240",
+   "created_at": "Mon Feb 19 01:33:04 +0000 2018",
+   "text": "For a country so obsessed with arbitrary things you can or can't do to it, what's with no-one singing along to the… https://t.co/HsI60EYRIS",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HsI60EYRIS",
+     "expand": "https://twitter.com/i/web/status/965398799618314240"
+    }
+   ]
+  },
+  {
+   "id": 965365283518107600,
+   "id_str": "965365283518107650",
+   "created_at": "Sun Feb 18 23:19:53 +0000 2018",
+   "text": "Hard to appreciate Object.keys() enough until you try to do it in Rust.",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965071293962997800,
+   "id_str": "965071293962997761",
+   "created_at": "Sun Feb 18 03:51:41 +0000 2018",
+   "text": "RT @HistoryInPix: Rush Hour, New York City, 1909. https://t.co/4QrsSg0q1f",
+   "retweet_count": 193,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965069625498185700,
+    "id_str": "965069625498185728",
+    "created_at": "Sun Feb 18 03:45:03 +0000 2018",
+    "text": "Rush Hour, New York City, 1909. https://t.co/4QrsSg0q1f",
+    "retweet_count": 193,
+    "favorite_count": 695,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965063657041420300,
+   "id_str": "965063657041420288",
+   "created_at": "Sun Feb 18 03:21:20 +0000 2018",
+   "text": "RT @WoL_NYC: This Tues, Feb 20 @sarahsophief, @NikkiGlaser, @anyamarina, @sharronica, paolamendoza &amp; @katewalsh read 'A letter to my secret…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965003639415803900,
+    "id_str": "965003639415803909",
+    "created_at": "Sat Feb 17 23:22:51 +0000 2018",
+    "text": "This Tues, Feb 20 @sarahsophief, @NikkiGlaser, @anyamarina, @sharronica, paolamendoza &amp; @katewalsh read 'A letter t… https://t.co/YRllzF4rFe",
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YRllzF4rFe",
+      "expand": "https://twitter.com/i/web/status/965003639415803909"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965061744543584300,
+   "id_str": "965061744543584256",
+   "created_at": "Sun Feb 18 03:13:44 +0000 2018",
+   "text": "@awesomeintheory @rustlang I mean, even knowing what all of those types are, and what the difference is, is hard to get information on!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964998963949686800,
+   "in_reply_to_status_id_str": "964998963949686784",
+   "in_reply_to_screen_name": "awesomeintheory",
+   "urls": []
+  },
+  {
+   "id": 964972529289957400,
+   "id_str": "964972529289957377",
+   "created_at": "Sat Feb 17 21:19:13 +0000 2018",
+   "text": "Wanna write a data [de]serializer in @rustlang? No probs! Just implement bool, i8-i64, u8-u64, f32-f64, char, str,… https://t.co/JN8qkZa1vn",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JN8qkZa1vn",
+     "expand": "https://twitter.com/i/web/status/964972529289957377"
+    }
+   ]
+  },
+  {
+   "id": 964959857270050800,
+   "id_str": "964959857270050816",
+   "created_at": "Sat Feb 17 20:28:52 +0000 2018",
+   "text": "It me. https://t.co/8sLDE7x9E7",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8sLDE7x9E7",
+     "expand": "https://twitter.com/lulu_cheng/status/964947708275343361"
+    }
+   ]
+  },
+  {
+   "id": 964910025922744300,
+   "id_str": "964910025922744321",
+   "created_at": "Sat Feb 17 17:10:51 +0000 2018",
+   "text": "Intrigued to know if anyone's played around with @allenai_org ELMo word embeddings yet?  https://t.co/b1aWeo0MtX – @Smerity @jeremyphoward ?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/b1aWeo0MtX",
+     "expand": "https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md"
+    }
+   ]
+  },
+  {
+   "id": 964893079638560800,
+   "id_str": "964893079638560771",
+   "created_at": "Sat Feb 17 16:03:31 +0000 2018",
+   "text": "@chrismunns Congrats!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964877672492011500,
+   "in_reply_to_status_id_str": "964877672492011520",
+   "in_reply_to_screen_name": "chrismunns",
+   "urls": []
   }
  ]
 }
