@@ -62,7 +62,7 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 		screen_name: username,
 		count: 200,
 		max_id: max_id || undefined,
-		include_entities: true,
+		include_entities: false,
 		trim_user: true,
 		since_id: since_id || undefined
 	}, (error, tweets, response) => {
@@ -72,13 +72,13 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 	  	if (count > 14) {
 	  		saveTimeline(username, ret, next);
 	  	}
+console.log(tool.count)
 	  	console.log(JSON.stringify(error), count);
 	  	return
 	  }
 
 	  tweets = tweets || [];
 	  ret = ret.concat(tweets.map((item) => {
-	  	const urls = item.entities.urls;
 	  	const data = {
 	  		id_str: item.id_str,
 	  		in_reply_to_status_id_str: item.in_reply_to_status_id_str
@@ -193,7 +193,6 @@ function getFavoritesList (ret, username, max_id, next) {
 		screen_name: username,
 		count: 200,
 		max_id: max_id || undefined,
-		include_entities: true
 	}, (error, tweets, response) => {
 	  if (error) {
 	  	console.log(JSON.stringify(error));
@@ -202,9 +201,6 @@ function getFavoritesList (ret, username, max_id, next) {
 
 	  tweets = tweets || [];
 	  ret = ret.concat(tweets.map((item) => {
-	  	item.entities = item.entities || {};
-	  	item.entities.urls = item.entities.urls || [];
-	  	const urls =  item.entities.urls;
 	  	return {
 	  		id_str: item.id_str,
 	  		in_reply_to_status_id_str: item.in_reply_to_status_id_str
