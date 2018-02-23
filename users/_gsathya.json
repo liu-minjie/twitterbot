@@ -1,6 +1,127 @@
 {
- "time": 1518869616970,
+ "time": 1519367046553,
  "lists": [
+  {
+   "id": 966914337464926200,
+   "id_str": "966914337464926211",
+   "created_at": "Fri Feb 23 05:55:17 +0000 2018",
+   "text": "@pzuraq @service Do you think it adds too much noise to have empty parens? To me, intuitively, a function call need… https://t.co/V5J2AxaKyB",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966911904202412000,
+   "in_reply_to_status_id_str": "966911904202412032",
+   "in_reply_to_screen_name": "pzuraq",
+   "urls": [
+    {
+     "url": "https://t.co/V5J2AxaKyB",
+     "expand": "https://twitter.com/i/web/status/966914337464926211"
+    }
+   ]
+  },
+  {
+   "id": 966906461807812600,
+   "id_str": "966906461807812608",
+   "created_at": "Fri Feb 23 05:23:59 +0000 2018",
+   "text": "@pzuraq Ah, you're correct, there is some extra boilerplate required /if/ you want to support both the forms with t… https://t.co/dq7ILwqGxE",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966901990834843600,
+   "in_reply_to_status_id_str": "966901990834843648",
+   "in_reply_to_screen_name": "pzuraq",
+   "urls": [
+    {
+     "url": "https://t.co/dq7ILwqGxE",
+     "expand": "https://twitter.com/i/web/status/966906461807812608"
+    }
+   ]
+  },
+  {
+   "id": 966868246312886300,
+   "id_str": "966868246312886272",
+   "created_at": "Fri Feb 23 02:52:08 +0000 2018",
+   "text": "Ref: https://t.co/HifMcWzpqB",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966868245180330000,
+   "in_reply_to_status_id_str": "966868245180329984",
+   "in_reply_to_screen_name": "_gsathya",
+   "urls": [
+    {
+     "url": "https://t.co/HifMcWzpqB",
+     "expand": "https://github.com/tc39/proposal-decorators-previous/issues/24"
+    }
+   ]
+  },
+  {
+   "id": 966868245180330000,
+   "id_str": "966868245180329984",
+   "created_at": "Fri Feb 23 02:52:07 +0000 2018",
+   "text": "I'm not sure if I'm missing something but I don't understand why\n\n@foo\nclass Bar {}\n\nshould be the same as\n\n@foo()… https://t.co/4ALzBiE7Rx",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4ALzBiE7Rx",
+     "expand": "https://twitter.com/i/web/status/966868245180329984"
+    }
+   ]
+  },
+  {
+   "id": 966143665746755600,
+   "id_str": "966143665746755584",
+   "created_at": "Wed Feb 21 02:52:54 +0000 2018",
+   "text": "@sruthiprabhu02 💕",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 966142504230821900,
+   "in_reply_to_status_id_str": "966142504230821888",
+   "in_reply_to_screen_name": "sruthiprabhu02",
+   "urls": []
+  },
+  {
+   "id": 965625443310186500,
+   "id_str": "965625443310186496",
+   "created_at": "Mon Feb 19 16:33:40 +0000 2018",
+   "text": "RT @mraleph: \"Maybe you don't need Rust and WASM to speed up your JS\"\n\nhttps://t.co/mMvi5JaJub",
+   "retweet_count": 210,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mMvi5JaJub",
+     "expand": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965589745605767200,
+    "id_str": "965589745605767168",
+    "created_at": "Mon Feb 19 14:11:49 +0000 2018",
+    "text": "\"Maybe you don't need Rust and WASM to speed up your JS\"\n\nhttps://t.co/mMvi5JaJub",
+    "retweet_count": 210,
+    "favorite_count": 548,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mMvi5JaJub",
+      "expand": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+     }
+    ]
+   }
+  },
   {
    "id": 964672080477274100,
    "id_str": "964672080477274112",
@@ -10,6 +131,7 @@
    "favorite_count": 1,
    "place": "San Francisco, CA",
    "in_reply_to_status_id": 964572079939993600,
+   "in_reply_to_status_id_str": "964572079939993600",
    "in_reply_to_screen_name": "gauntface",
    "urls": [
     {

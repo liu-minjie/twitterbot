@@ -1,16 +1,3695 @@
 {
- "time": 1518873092290,
+ "time": 1519367044473,
  "lists": [
   {
-   "id": 964759377138745300,
-   "id_str": "964759377138745345",
-   "created_at": "Sat Feb 17 07:12:14 +0000 2018",
-   "text": "@statenjason @knitcodemonkey No that's not merging for 4.0. this will be after we don't want too many breaks in ecosystem",
+   "id": 966906928604495900,
+   "id_str": "966906928604495872",
+   "created_at": "Fri Feb 23 05:25:50 +0000 2018",
+   "text": "RT @usahockey: #GOLD!!!!!!!!!!!!!!!",
+   "retweet_count": 7854,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966571433743679500,
+    "id_str": "966571433743679488",
+    "created_at": "Thu Feb 22 07:12:42 +0000 2018",
+    "text": "#GOLD!!!!!!!!!!!!!!!",
+    "retweet_count": 7854,
+    "favorite_count": 21210,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966905021961941000,
+   "id_str": "966905021961940992",
+   "created_at": "Fri Feb 23 05:18:16 +0000 2018",
+   "text": "RT @shellscape: @johnny_reilly @TheLarkInn https://t.co/MexYzrTviW\n\nI'd recommend that any errors extend WebpackError at the moment. and yo…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MexYzrTviW",
+     "expand": "https://github.com/webpack/webpack/issues/6534"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966747009578303500,
+    "id_str": "966747009578303488",
+    "created_at": "Thu Feb 22 18:50:23 +0000 2018",
+    "text": "@johnny_reilly @TheLarkInn https://t.co/MexYzrTviW\n\nI'd recommend that any errors extend WebpackError at the moment… https://t.co/cjnsV6eO1V",
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": 966743470919561200,
+    "in_reply_to_status_id_str": "966743470919561222",
+    "in_reply_to_screen_name": "johnny_reilly",
+    "urls": [
+     {
+      "url": "https://t.co/MexYzrTviW",
+      "expand": "https://github.com/webpack/webpack/issues/6534"
+     },
+     {
+      "url": "https://t.co/cjnsV6eO1V",
+      "expand": "https://twitter.com/i/web/status/966747009578303488"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966904965720494100,
+   "id_str": "966904965720494080",
+   "created_at": "Fri Feb 23 05:18:02 +0000 2018",
+   "text": "@RedQueenCoder I was getting emotional to the max.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966904402022826000,
+   "in_reply_to_status_id_str": "966904402022825984",
+   "in_reply_to_screen_name": "RedQueenCoder",
+   "urls": []
+  },
+  {
+   "id": 966904335140503600,
+   "id_str": "966904335140503555",
+   "created_at": "Fri Feb 23 05:15:32 +0000 2018",
+   "text": "RT @codehitchhiker: @TheLarkInn @nuxt_js @vuejs The scoped CSS is RIGHT UP my alley. While I do appreciate the way others have done it... I…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966885016499179500,
+    "id_str": "966885016499179520",
+    "created_at": "Fri Feb 23 03:58:46 +0000 2018",
+    "text": "@TheLarkInn @nuxt_js @vuejs The scoped CSS is RIGHT UP my alley. While I do appreciate the way others have done it.… https://t.co/7c10usrCP2",
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": 966882635266994200,
+    "in_reply_to_status_id_str": "966882635266994176",
+    "in_reply_to_screen_name": "codehitchhiker",
+    "urls": [
+     {
+      "url": "https://t.co/7c10usrCP2",
+      "expand": "https://twitter.com/i/web/status/966885016499179520"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966904249278906400,
+   "id_str": "966904249278906368",
+   "created_at": "Fri Feb 23 05:15:11 +0000 2018",
+   "text": "RT @codehitchhiker: @TheLarkInn @nuxt_js @vuejs Something I was asking every templating language ever to do is also possible, you can inclu…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966882336930345000,
+    "id_str": "966882336930344962",
+    "created_at": "Fri Feb 23 03:48:07 +0000 2018",
+    "text": "@TheLarkInn @nuxt_js @vuejs Something I was asking every templating language ever to do is also possible, you can i… https://t.co/0hUffhQJEP",
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": 966881099321303000,
+    "in_reply_to_status_id_str": "966881099321303042",
+    "in_reply_to_screen_name": "codehitchhiker",
+    "urls": [
+     {
+      "url": "https://t.co/0hUffhQJEP",
+      "expand": "https://twitter.com/i/web/status/966882336930344962"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966904040058572800,
+   "id_str": "966904040058572800",
+   "created_at": "Fri Feb 23 05:14:22 +0000 2018",
+   "text": "@RedQueenCoder Medvedeva got robbed.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966903748227252200,
+   "in_reply_to_status_id_str": "966903748227252224",
+   "in_reply_to_screen_name": "RedQueenCoder",
+   "urls": []
+  },
+  {
+   "id": 966903772562640900,
+   "id_str": "966903772562640896",
+   "created_at": "Fri Feb 23 05:13:18 +0000 2018",
+   "text": "@cvitullo Maybe, also //@ts-check is legit for this too I believe",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966883633687482400,
+   "in_reply_to_status_id_str": "966883633687482368",
+   "in_reply_to_screen_name": "cvitullo",
+   "urls": []
+  },
+  {
+   "id": 966903528450023400,
+   "id_str": "966903528450023425",
+   "created_at": "Fri Feb 23 05:12:20 +0000 2018",
+   "text": "RT @codehitchhiker: @TheLarkInn @nuxt_js @vuejs You can mix your Southern California Style Sheets (scss) and JerseyScript, too, when you ne…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966881099321303000,
+    "id_str": "966881099321303042",
+    "created_at": "Fri Feb 23 03:43:12 +0000 2018",
+    "text": "@TheLarkInn @nuxt_js @vuejs You can mix your Southern California Style Sheets (scss) and JerseyScript, too, when yo… https://t.co/ATJYTmbKF7",
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": 966880266730946600,
+    "in_reply_to_status_id_str": "966880266730946560",
+    "in_reply_to_screen_name": "codehitchhiker",
+    "urls": [
+     {
+      "url": "https://t.co/ATJYTmbKF7",
+      "expand": "https://twitter.com/i/web/status/966881099321303042"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966903070637477900,
+   "id_str": "966903070637477889",
+   "created_at": "Fri Feb 23 05:10:30 +0000 2018",
+   "text": "@Daman @ThisCharmingMo @dylanmarron Star trek tho",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 964475436959899600,
+   "in_reply_to_status_id_str": "964475436959899648",
+   "in_reply_to_screen_name": "Daman",
+   "urls": []
+  },
+  {
+   "id": 966901474570657800,
+   "id_str": "966901474570657792",
+   "created_at": "Fri Feb 23 05:04:10 +0000 2018",
+   "text": "Medvedeva got robbed.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966879504021971000,
+   "id_str": "966879504021970944",
+   "created_at": "Fri Feb 23 03:36:52 +0000 2018",
+   "text": "@codehitchhiker @nuxt_js @vuejs Okay also, totally legit takes :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966879450297073700,
+   "in_reply_to_status_id_str": "966879450297073664",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966879450297073700,
+   "id_str": "966879450297073664",
+   "created_at": "Fri Feb 23 03:36:39 +0000 2018",
+   "text": "@codehitchhiker @nuxt_js @vuejs Whoa stop everything. You are at Starbucks now. ARE YOU IN SEATTLE NOW ALSO?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966878960968716300,
+   "in_reply_to_status_id_str": "966878960968716288",
+   "in_reply_to_screen_name": "codehitchhiker",
+   "urls": []
+  },
+  {
+   "id": 966877238925799400,
+   "id_str": "966877238925799427",
+   "created_at": "Fri Feb 23 03:27:52 +0000 2018",
+   "text": "@codehitchhiker @nuxt_js For those who've never used @vuejs would you mind discussing for a hot second how it feels… https://t.co/wTVNEYsCp5",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966876297522831400,
+   "in_reply_to_status_id_str": "966876297522831360",
+   "in_reply_to_screen_name": "codehitchhiker",
+   "urls": [
+    {
+     "url": "https://t.co/wTVNEYsCp5",
+     "expand": "https://twitter.com/i/web/status/966877238925799427"
+    }
+   ]
+  },
+  {
+   "id": 966876994863427600,
+   "id_str": "966876994863427584",
+   "created_at": "Fri Feb 23 03:26:53 +0000 2018",
+   "text": "RT @codehitchhiker: I ported my site last night to @nuxt_js and I've been so thrilled working with it. I'm really glad everyone got on my S…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966876297522831400,
+    "id_str": "966876297522831360",
+    "created_at": "Fri Feb 23 03:24:07 +0000 2018",
+    "text": "I ported my site last night to @nuxt_js and I've been so thrilled working with it. I'm really glad everyone got on… https://t.co/m5vcnTClzX",
+    "retweet_count": 1,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/m5vcnTClzX",
+      "expand": "https://twitter.com/i/web/status/966876297522831360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966875536067674100,
+   "id_str": "966875536067674112",
+   "created_at": "Fri Feb 23 03:21:06 +0000 2018",
+   "text": "RT @holtbt: @stephenrivasjr @sarah_edo @kentcdodds @TheLarkInn This is where I started hysterically laughing: https://t.co/clvPEPLCgd",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/clvPEPLCgd",
+     "expand": "https://twitter.com/sarah_edo/status/824358801549774848"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966857787195121700,
+    "id_str": "966857787195121664",
+    "created_at": "Fri Feb 23 02:10:34 +0000 2018",
+    "text": "@stephenrivasjr @sarah_edo @kentcdodds @TheLarkInn This is where I started hysterically laughing: https://t.co/clvPEPLCgd",
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": 966855539207692300,
+    "in_reply_to_status_id_str": "966855539207692288",
+    "in_reply_to_screen_name": "stephenrivasjr",
+    "urls": [
+     {
+      "url": "https://t.co/clvPEPLCgd",
+      "expand": "https://twitter.com/sarah_edo/status/824358801549774848"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966873965581934600,
+   "id_str": "966873965581934596",
+   "created_at": "Fri Feb 23 03:14:51 +0000 2018",
+   "text": "@jkup Feels",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966868136237580300,
+   "in_reply_to_status_id_str": "966868136237580288",
+   "in_reply_to_screen_name": "jkup",
+   "urls": []
+  },
+  {
+   "id": 966845020555759600,
+   "id_str": "966845020555759616",
+   "created_at": "Fri Feb 23 01:19:50 +0000 2018",
+   "text": "@jkup Which part",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966842722597261300,
+   "in_reply_to_status_id_str": "966842722597261317",
+   "in_reply_to_screen_name": "jkup",
+   "urls": []
+  },
+  {
+   "id": 966837763998859300,
+   "id_str": "966837763998859264",
+   "created_at": "Fri Feb 23 00:51:00 +0000 2018",
+   "text": "@dshaw @Tzmanics @indexconf Wat the fak",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966837606427197400,
+   "in_reply_to_status_id_str": "966837606427197441",
+   "in_reply_to_screen_name": "dshaw",
+   "urls": []
+  },
+  {
+   "id": 966833438257954800,
+   "id_str": "966833438257954816",
+   "created_at": "Fri Feb 23 00:33:49 +0000 2018",
+   "text": "@megames1066 @tlakomy Doesn't even make sense! :-D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966679213301432300,
+   "in_reply_to_status_id_str": "966679213301432321",
+   "in_reply_to_screen_name": "megames1066",
+   "urls": []
+  },
+  {
+   "id": 966831330867626000,
+   "id_str": "966831330867625985",
+   "created_at": "Fri Feb 23 00:25:26 +0000 2018",
+   "text": "@louisdescioli 😫😫😫😫 upstream breaking changes just from folks shipping modules, blegh cc @wSokra what do you think… https://t.co/Akv92ePE7T",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 964749023415451600,
-   "in_reply_to_screen_name": "statenjason",
+   "in_reply_to_status_id": 966830920022896600,
+   "in_reply_to_status_id_str": "966830920022896640",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/Akv92ePE7T",
+     "expand": "https://twitter.com/i/web/status/966831330867625985"
+    }
+   ]
+  },
+  {
+   "id": 966830920022896600,
+   "id_str": "966830920022896640",
+   "created_at": "Fri Feb 23 00:23:48 +0000 2018",
+   "text": "@louisdescioli Could you still ship that as a semver major then, but work with react-document-title to patch semver… https://t.co/Elr8d9xzV3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966829762994982900,
+   "in_reply_to_status_id_str": "966829762994982912",
+   "in_reply_to_screen_name": "louisdescioli",
+   "urls": [
+    {
+     "url": "https://t.co/Elr8d9xzV3",
+     "expand": "https://twitter.com/i/web/status/966830920022896640"
+    }
+   ]
+  },
+  {
+   "id": 966829549257240600,
+   "id_str": "966829549257240577",
+   "created_at": "Fri Feb 23 00:18:22 +0000 2018",
+   "text": "@kenneth_chau Can you spin up discussion in the thread that this came up in. Or maybe show me an example? Team's message works well too ;-)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966829160545988600,
+   "in_reply_to_status_id_str": "966829160545988608",
+   "in_reply_to_screen_name": "kenneth_chau",
+   "urls": []
+  },
+  {
+   "id": 966829277290180600,
+   "id_str": "966829277290180608",
+   "created_at": "Fri Feb 23 00:17:17 +0000 2018",
+   "text": "@louisdescioli Is this because people are using the CJS format on their side? And its breaking?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966822183577235500,
+   "in_reply_to_status_id_str": "966822183577235457",
+   "in_reply_to_screen_name": "louisdescioli",
+   "urls": []
+  },
+  {
+   "id": 966824639023345700,
+   "id_str": "966824639023345664",
+   "created_at": "Thu Feb 22 23:58:51 +0000 2018",
+   "text": "@CasseyLottman I tried to correct but blegh it got eaten up. Regardless i think bold decisions from large and small… https://t.co/wvMY3CIl7d",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966824127767240700,
+   "in_reply_to_status_id_str": "966824127767240704",
+   "in_reply_to_screen_name": "CasseyLottman",
+   "urls": [
+    {
+     "url": "https://t.co/wvMY3CIl7d",
+     "expand": "https://twitter.com/i/web/status/966824639023345664"
+    }
+   ]
+  },
+  {
+   "id": 966820121690820600,
+   "id_str": "966820121690820608",
+   "created_at": "Thu Feb 22 23:40:54 +0000 2018",
+   "text": "PS: Seattle is the place to be these days. Just saying. 😎😏 https://t.co/7p0deYNYf4",
+   "retweet_count": 1,
+   "favorite_count": 15,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7p0deYNYf4",
+     "expand": "https://twitter.com/TheLarkInn/status/966811054553448449"
+    }
+   ]
+  },
+  {
+   "id": 966819286743334900,
+   "id_str": "966819286743334912",
+   "created_at": "Thu Feb 22 23:37:35 +0000 2018",
+   "text": "@julienrenaux \"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.\"",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966818630703906800,
+   "in_reply_to_status_id_str": "966818630703906816",
+   "in_reply_to_screen_name": "julienrenaux",
+   "urls": []
+  },
+  {
+   "id": 966818688484573200,
+   "id_str": "966818688484573185",
+   "created_at": "Thu Feb 22 23:35:12 +0000 2018",
+   "text": "@sehurlburt We got your back.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966818485954211800,
+   "in_reply_to_status_id_str": "966818485954211840",
+   "in_reply_to_screen_name": "sehurlburt",
+   "urls": []
+  },
+  {
+   "id": 966818636814942200,
+   "id_str": "966818636814942208",
+   "created_at": "Thu Feb 22 23:35:00 +0000 2018",
+   "text": "RT @sehurlburt: Exciting plans in the works from multiple angles to significantly improve web performance and download times by improving i…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966818485954211800,
+    "id_str": "966818485954211840",
+    "created_at": "Thu Feb 22 23:34:24 +0000 2018",
+    "text": "Exciting plans in the works from multiple angles to significantly improve web performance and download times by imp… https://t.co/pSgGlGsk6n",
+    "retweet_count": 16,
+    "favorite_count": 172,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pSgGlGsk6n",
+      "expand": "https://twitter.com/i/web/status/966818485954211840"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966818163559096300,
+   "id_str": "966818163559096320",
+   "created_at": "Thu Feb 22 23:33:07 +0000 2018",
+   "text": "RT @jennschiffer: someone in my TL is complaining about how people are making \"joke repos\" now. now? lmao let me tell you about 5 years ago…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966763499677511700,
+    "id_str": "966763499677511680",
+    "created_at": "Thu Feb 22 19:55:54 +0000 2018",
+    "text": "someone in my TL is complaining about how people are making \"joke repos\" now. now? lmao let me tell you about 5 yea… https://t.co/py7dTFA31S",
+    "retweet_count": 3,
+    "favorite_count": 55,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/py7dTFA31S",
+      "expand": "https://twitter.com/i/web/status/966763499677511680"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966817852496859100,
+   "id_str": "966817852496859136",
+   "created_at": "Thu Feb 22 23:31:53 +0000 2018",
+   "text": "@bradlygreen @dodgymigrant @angular That is a very very exciting thing. Code splitting becomes a much more less cum… https://t.co/5qUZdvmqLa",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966768794000478200,
+   "in_reply_to_status_id_str": "966768794000478208",
+   "in_reply_to_screen_name": "bradlygreen",
+   "urls": [
+    {
+     "url": "https://t.co/5qUZdvmqLa",
+     "expand": "https://twitter.com/i/web/status/966817852496859136"
+    }
+   ]
+  },
+  {
+   "id": 966816867267502100,
+   "id_str": "966816867267502080",
+   "created_at": "Thu Feb 22 23:27:58 +0000 2018",
+   "text": "@codemixers @juantreminio Yes!!! https://t.co/O0LfQuglc3 is also a great free learning resource!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966814202479431700,
+   "in_reply_to_status_id_str": "966814202479431680",
+   "in_reply_to_screen_name": "codemixers",
+   "urls": [
+    {
+     "url": "https://t.co/O0LfQuglc3",
+     "expand": "http://Webpack.academy"
+    }
+   ]
+  },
+  {
+   "id": 966815170243653600,
+   "id_str": "966815170243653633",
+   "created_at": "Thu Feb 22 23:21:13 +0000 2018",
+   "text": "@KevinJHill @sehurlburt Many to be made :), and many people to enable as well. 🎉😍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": 966812180602544100,
+   "in_reply_to_status_id_str": "966812180602544128",
+   "in_reply_to_screen_name": "KevinJHill",
+   "urls": []
+  },
+  {
+   "id": 966814618671722500,
+   "id_str": "966814618671722498",
+   "created_at": "Thu Feb 22 23:19:02 +0000 2018",
+   "text": "It's awesome to see***",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": 966814290190655500,
+   "in_reply_to_status_id_str": "966814290190655490",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966814291788628000,
+   "id_str": "966814291788627968",
+   "created_at": "Thu Feb 22 23:17:44 +0000 2018",
+   "text": "PS: I will not make any comment or stance on these issues.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": 966814290190655500,
+   "in_reply_to_status_id_str": "966814290190655490",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966814290190655500,
+   "id_str": "966814290190655490",
+   "created_at": "Thu Feb 22 23:17:43 +0000 2018",
+   "text": "Regardless of stance on the issue, as former Nebraskan, it's to see institutions like this making bold stances. Neb… https://t.co/qxdmGA23s7",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qxdmGA23s7",
+     "expand": "https://twitter.com/i/web/status/966814290190655490"
+    }
+   ]
+  },
+  {
+   "id": 966812178673094700,
+   "id_str": "966812178673094656",
+   "created_at": "Thu Feb 22 23:09:20 +0000 2018",
+   "text": "@Loilo92 Agreed!!! We are working on this first for our @WebpackContrib libs first and also important common plugin… https://t.co/UioEFA8w38",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": 966780893108080600,
+   "in_reply_to_status_id_str": "966780893108080643",
+   "in_reply_to_screen_name": "Loilo92",
+   "urls": [
+    {
+     "url": "https://t.co/UioEFA8w38",
+     "expand": "https://twitter.com/i/web/status/966812178673094656"
+    }
+   ]
+  },
+  {
+   "id": 966811054553448400,
+   "id_str": "966811054553448449",
+   "created_at": "Thu Feb 22 23:04:52 +0000 2018",
+   "text": "Such a privilege to spend some time with @sehurlburt and talk #webpack, BASIS, web perf, open source, and the insan… https://t.co/N9xNRRBzjS",
+   "retweet_count": 5,
+   "favorite_count": 100,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/N9xNRRBzjS",
+     "expand": "https://twitter.com/i/web/status/966811054553448449"
+    }
+   ]
+  },
+  {
+   "id": 966785660559372300,
+   "id_str": "966785660559372288",
+   "created_at": "Thu Feb 22 21:23:58 +0000 2018",
+   "text": "@GabeRicard I believe this content is static and can be found under the components directory in… https://t.co/wOqmpxBq3u",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Seattle, WA",
+   "in_reply_to_status_id": 966780141086150700,
+   "in_reply_to_status_id_str": "966780141086150656",
+   "in_reply_to_screen_name": "GabeRicard",
+   "urls": [
+    {
+     "url": "https://t.co/wOqmpxBq3u",
+     "expand": "https://twitter.com/i/web/status/966785660559372288"
+    }
+   ]
+  },
+  {
+   "id": 966779932260024300,
+   "id_str": "966779932260024320",
+   "created_at": "Thu Feb 22 21:01:12 +0000 2018",
+   "text": "@GabeRicard Do you want the honor of PRing it?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966779393975734300,
+   "in_reply_to_status_id_str": "966779393975734273",
+   "in_reply_to_screen_name": "GabeRicard",
+   "urls": []
+  },
+  {
+   "id": 966779548049141800,
+   "id_str": "966779548049141760",
+   "created_at": "Thu Feb 22 20:59:40 +0000 2018",
+   "text": "RT @johnny_reilly: The #webpack 4 changes have been merged into ts-loader's master branch. We're ready to release ts-loader 4 as soon as we…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966564693837013000,
+    "id_str": "966564693837012992",
+    "created_at": "Thu Feb 22 06:45:55 +0000 2018",
+    "text": "The #webpack 4 changes have been merged into ts-loader's master branch. We're ready to release ts-loader 4 as soon… https://t.co/EgL0o9WC8X",
+    "retweet_count": 11,
+    "favorite_count": 62,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EgL0o9WC8X",
+      "expand": "https://twitter.com/i/web/status/966564693837012992"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966779537898987500,
+   "id_str": "966779537898987520",
+   "created_at": "Thu Feb 22 20:59:38 +0000 2018",
+   "text": "ICYMI:\n\nts-loader 4 is ready as beta!!!!! 🔥🚨🔥🚨🔥🔥🔥🚨🔥🔥🔥🔥🎉🎉🎉🎉🎉 https://t.co/rqyLWdxq3P",
+   "retweet_count": 1,
+   "favorite_count": 18,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rqyLWdxq3P",
+     "expand": "https://twitter.com/johnny_reilly/status/966564693837012992"
+    }
+   ]
+  },
+  {
+   "id": 966757313628352500,
+   "id_str": "966757313628352512",
+   "created_at": "Thu Feb 22 19:31:19 +0000 2018",
+   "text": "If we had a note there that said: WEBPACK 4 IS IN BETA, TRY IT TODAY, SEE THESE ARTICLES: \n* Change Log\n* 2/3 mediu… https://t.co/CIWr5IxzEk",
+   "retweet_count": 1,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 966756951588683800,
+   "in_reply_to_status_id_str": "966756951588683776",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/CIWr5IxzEk",
+     "expand": "https://twitter.com/i/web/status/966757313628352512"
+    }
+   ]
+  },
+  {
+   "id": 966756951588683800,
+   "id_str": "966756951588683776",
+   "created_at": "Thu Feb 22 19:29:53 +0000 2018",
+   "text": "@GabeRicard So reading the commentary is really valuable so I appreciate this effort to document your thoughts. \n\nQ… https://t.co/Wpl2eUKxL5",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966751695853174800,
+   "in_reply_to_status_id_str": "966751695853174784",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/Wpl2eUKxL5",
+     "expand": "https://twitter.com/i/web/status/966756951588683776"
+    }
+   ]
+  },
+  {
+   "id": 966755565610311700,
+   "id_str": "966755565610311680",
+   "created_at": "Thu Feb 22 19:24:22 +0000 2018",
+   "text": "RT @rauchg: A webpack loader that uploads your assets to https://t.co/RDfMlQe8IJ 🤯\n\nhttps://t.co/cX9eHULrSi https://t.co/8XjSzYjG8A",
+   "retweet_count": 32,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RDfMlQe8IJ",
+     "expand": "http://Now.sh"
+    },
+    {
+     "url": "https://t.co/cX9eHULrSi",
+     "expand": "https://github.com/pranaygp/now-loader"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966712177070547000,
+    "id_str": "966712177070546945",
+    "created_at": "Thu Feb 22 16:31:58 +0000 2018",
+    "text": "A webpack loader that uploads your assets to https://t.co/RDfMlQe8IJ 🤯\n\nhttps://t.co/cX9eHULrSi https://t.co/8XjSzYjG8A",
+    "retweet_count": 32,
+    "favorite_count": 163,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RDfMlQe8IJ",
+      "expand": "http://Now.sh"
+     },
+     {
+      "url": "https://t.co/cX9eHULrSi",
+      "expand": "https://github.com/pranaygp/now-loader"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966755325264068600,
+   "id_str": "966755325264068609",
+   "created_at": "Thu Feb 22 19:23:25 +0000 2018",
+   "text": "@zorigitano @SiliconPrairie NaARdddddd",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966755171370971100,
+   "in_reply_to_status_id_str": "966755171370971136",
+   "in_reply_to_screen_name": "zorigitano",
+   "urls": []
+  },
+  {
+   "id": 966751695853174800,
+   "id_str": "966751695853174784",
+   "created_at": "Thu Feb 22 19:09:00 +0000 2018",
+   "text": "@GabeRicard YAZZZ Thank you!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966674511008600000,
+   "in_reply_to_status_id_str": "966674511008600064",
+   "in_reply_to_screen_name": "GabeRicard",
+   "urls": []
+  },
+  {
+   "id": 966751644699381800,
+   "id_str": "966751644699381760",
+   "created_at": "Thu Feb 22 19:08:48 +0000 2018",
+   "text": "RT @bradleymeck: @sethreidnz @TheLarkInn @tbaxter Cascade does have some real gotchas\n1. cascade applies to *some* rules\n2. specifier rules…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966694746843435000,
+    "id_str": "966694746843435009",
+    "created_at": "Thu Feb 22 15:22:42 +0000 2018",
+    "text": "@sethreidnz @TheLarkInn @tbaxter Cascade does have some real gotchas\n1. cascade applies to *some* rules\n2. specifie… https://t.co/AziMoQJxDa",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": 966197711950229500,
+    "in_reply_to_status_id_str": "966197711950229504",
+    "in_reply_to_screen_name": "sethreidnz",
+    "urls": [
+     {
+      "url": "https://t.co/AziMoQJxDa",
+      "expand": "https://twitter.com/i/web/status/966694746843435009"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966751578911735800,
+   "id_str": "966751578911735808",
+   "created_at": "Thu Feb 22 19:08:32 +0000 2018",
+   "text": "@davatron5000 @DasSurma @bradleymeck You can always DM me Dave ;-)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966708067818770400,
+   "in_reply_to_status_id_str": "966708067818770432",
+   "in_reply_to_screen_name": "davatron5000",
+   "urls": []
+  },
+  {
+   "id": 966750255218810900,
+   "id_str": "966750255218810881",
+   "created_at": "Thu Feb 22 19:03:16 +0000 2018",
+   "text": "@ivansieder @webpack The basics are the best place to start :) the next free course there also is another excellent primer",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966749135029358600,
+   "in_reply_to_status_id_str": "966749135029358593",
+   "in_reply_to_screen_name": "ivansieder",
+   "urls": []
+  },
+  {
+   "id": 966740671821316100,
+   "id_str": "966740671821316097",
+   "created_at": "Thu Feb 22 18:25:11 +0000 2018",
+   "text": "@CLarkin6348 Lmao if people only knew it's the opposite.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966735624282759200,
+   "in_reply_to_status_id_str": "966735624282759168",
+   "in_reply_to_screen_name": "CLarkin6348",
+   "urls": []
+  },
+  {
+   "id": 966740506750287900,
+   "id_str": "966740506750287872",
+   "created_at": "Thu Feb 22 18:24:32 +0000 2018",
+   "text": "@rachelnabors Moving to modules :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966739406232023000,
+   "in_reply_to_status_id_str": "966739406232023040",
+   "in_reply_to_screen_name": "rachelnabors",
+   "urls": []
+  },
+  {
+   "id": 966739146961121300,
+   "id_str": "966739146961121280",
+   "created_at": "Thu Feb 22 18:19:08 +0000 2018",
+   "text": "@rachelnabors Lol is that really how it went?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966738899945967600,
+   "in_reply_to_status_id_str": "966738899945967616",
+   "in_reply_to_screen_name": "rachelnabors",
+   "urls": []
+  },
+  {
+   "id": 966637644372328400,
+   "id_str": "966637644372328448",
+   "created_at": "Thu Feb 22 11:35:48 +0000 2018",
+   "text": "RT @NAChristakis: You can train monkeys to like logos by pairing them with high-status or sexy monkey photos. Evolutionary psychology in al…",
+   "retweet_count": 122,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966320301872156700,
+    "id_str": "966320301872156672",
+    "created_at": "Wed Feb 21 14:34:47 +0000 2018",
+    "text": "You can train monkeys to like logos by pairing them with high-status or sexy monkey photos. Evolutionary psychology… https://t.co/hXasRX6x2v",
+    "retweet_count": 122,
+    "favorite_count": 188,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hXasRX6x2v",
+      "expand": "https://twitter.com/i/web/status/966320301872156672"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966631548559609900,
+   "id_str": "966631548559609856",
+   "created_at": "Thu Feb 22 11:11:34 +0000 2018",
+   "text": "@iamdevloper Best subtweet.",
+   "retweet_count": 0,
+   "favorite_count": 13,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966628584453533700,
+   "in_reply_to_status_id_str": "966628584453533696",
+   "in_reply_to_screen_name": "iamdevloper",
+   "urls": []
+  },
+  {
+   "id": 966631459799756800,
+   "id_str": "966631459799756800",
+   "created_at": "Thu Feb 22 11:11:13 +0000 2018",
+   "text": "RT @iamdevloper: wait, wtf is a &lt;link /&gt; tag?",
+   "retweet_count": 89,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966628584453533700,
+    "id_str": "966628584453533696",
+    "created_at": "Thu Feb 22 10:59:48 +0000 2018",
+    "text": "wait, wtf is a &lt;link /&gt; tag?",
+    "retweet_count": 89,
+    "favorite_count": 584,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966628114557055000,
+   "id_str": "966628114557054977",
+   "created_at": "Thu Feb 22 10:57:56 +0000 2018",
+   "text": "@DasSurma @bradleymeck @davatron5000 So it defines it's own registration system. I was looking for more primitive c… https://t.co/xYvr7CfIbi",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966626787349459000,
+   "in_reply_to_status_id_str": "966626787349458944",
+   "in_reply_to_screen_name": "DasSurma",
+   "urls": [
+    {
+     "url": "https://t.co/xYvr7CfIbi",
+     "expand": "https://twitter.com/i/web/status/966628114557054977"
+    }
+   ]
+  },
+  {
+   "id": 966626360138461200,
+   "id_str": "966626360138461184",
+   "created_at": "Thu Feb 22 10:50:57 +0000 2018",
+   "text": "@DasSurma @bradleymeck @davatron5000 And also, this is not relevant to the thread, so im more asking because… https://t.co/bqToSY9oeW",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966626019414192100,
+   "in_reply_to_status_id_str": "966626019414192129",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/bqToSY9oeW",
+     "expand": "https://twitter.com/i/web/status/966626360138461184"
+    }
+   ]
+  },
+  {
+   "id": 966626019414192100,
+   "id_str": "966626019414192129",
+   "created_at": "Thu Feb 22 10:49:36 +0000 2018",
+   "text": "@DasSurma @bradleymeck @davatron5000 I guess what I mean is, what if I don't want to us my worklet to a later time,… https://t.co/bc5pAzHS3M",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966625591712796700,
+   "in_reply_to_status_id_str": "966625591712796673",
+   "in_reply_to_screen_name": "DasSurma",
+   "urls": [
+    {
+     "url": "https://t.co/bc5pAzHS3M",
+     "expand": "https://twitter.com/i/web/status/966626019414192129"
+    }
+   ]
+  },
+  {
+   "id": 966625458870612000,
+   "id_str": "966625458870611968",
+   "created_at": "Thu Feb 22 10:47:23 +0000 2018",
+   "text": "@DasSurma @bradleymeck @davatron5000 how about a promise that returns a module ;-)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966614984724590600,
+   "in_reply_to_status_id_str": "966614984724590599",
+   "in_reply_to_screen_name": "DasSurma",
+   "urls": []
+  },
+  {
+   "id": 966593871101636600,
+   "id_str": "966593871101636608",
+   "created_at": "Thu Feb 22 08:41:51 +0000 2018",
+   "text": "@dangitdennis I'd say a considerable amount. It taught me about\n* Module systems\n* Event based architecture\n* Algor… https://t.co/O3rRwS9pAG",
+   "retweet_count": 3,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966560525395025900,
+   "in_reply_to_status_id_str": "966560525395025921",
+   "in_reply_to_screen_name": "dangitdennis",
+   "urls": [
+    {
+     "url": "https://t.co/O3rRwS9pAG",
+     "expand": "https://twitter.com/i/web/status/966593871101636608"
+    }
+   ]
+  },
+  {
+   "id": 966593415130497000,
+   "id_str": "966593415130497024",
+   "created_at": "Thu Feb 22 08:40:03 +0000 2018",
+   "text": "@darryldexter @jason_kelly6 Was this a place in the D?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966550227153928200,
+   "in_reply_to_status_id_str": "966550227153928197",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966592713498902500,
+   "id_str": "966592713498902528",
+   "created_at": "Thu Feb 22 08:37:15 +0000 2018",
+   "text": "@richardtallent I'd say that's a top 3 concern, but even greater is a way to isolate and reduce the scope that the… https://t.co/onr5n2ye2P",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966571196568539100,
+   "in_reply_to_status_id_str": "966571196568539136",
+   "in_reply_to_screen_name": "richardtallent",
+   "urls": [
+    {
+     "url": "https://t.co/onr5n2ye2P",
+     "expand": "https://twitter.com/i/web/status/966592713498902528"
+    }
+   ]
+  },
+  {
+   "id": 966551606413082600,
+   "id_str": "966551606413082625",
+   "created_at": "Thu Feb 22 05:53:55 +0000 2018",
+   "text": "RT @Rich_Harris: Vue and Svelte will be sharing the @manhattan_js stage tomorrow night, so this is a timely write-up (yes, Svelte really do…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966070396717019100,
+    "id_str": "966070396717019138",
+    "created_at": "Tue Feb 20 22:01:45 +0000 2018",
+    "text": "Vue and Svelte will be sharing the @manhattan_js stage tomorrow night, so this is a timely write-up (yes, Svelte re… https://t.co/F6kJlKrarn",
+    "retweet_count": 16,
+    "favorite_count": 56,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/F6kJlKrarn",
+      "expand": "https://twitter.com/i/web/status/966070396717019138"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966550227153928200,
+   "id_str": "966550227153928197",
+   "created_at": "Thu Feb 22 05:48:26 +0000 2018",
+   "text": "@darryldexter @jason_kelly6 Maybe they want to assess whether or not you have the exploration capabilities to learn… https://t.co/J5barScU8j",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966518310773850100,
+   "in_reply_to_status_id_str": "966518310773850112",
+   "in_reply_to_screen_name": "darryldexter",
+   "urls": [
+    {
+     "url": "https://t.co/J5barScU8j",
+     "expand": "https://twitter.com/i/web/status/966550227153928197"
+    }
+   ]
+  },
+  {
+   "id": 966549812500770800,
+   "id_str": "966549812500770816",
+   "created_at": "Thu Feb 22 05:46:47 +0000 2018",
+   "text": "@_X_y_z_ I'm excited to have you try webpack 4. We really are excited about extending the developer experience story there :-D",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966529341348708400,
+   "in_reply_to_status_id_str": "966529341348708352",
+   "in_reply_to_screen_name": "_X_y_z_",
+   "urls": []
+  },
+  {
+   "id": 966549445495029800,
+   "id_str": "966549445495029761",
+   "created_at": "Thu Feb 22 05:45:20 +0000 2018",
+   "text": "@_zouhir Is there something you want me to get him in touch with :-D",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966543610765131800,
+   "in_reply_to_status_id_str": "966543610765131776",
+   "in_reply_to_screen_name": "_zouhir",
+   "urls": []
+  },
+  {
+   "id": 966540299269886000,
+   "id_str": "966540299269885953",
+   "created_at": "Thu Feb 22 05:08:59 +0000 2018",
+   "text": "@theednaffattack @jamonholmgren 🙇🙇🙇🙇 thanks. We're working hard on the v4 ones as we speak.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966540134903529500,
+   "in_reply_to_status_id_str": "966540134903529473",
+   "in_reply_to_screen_name": "theednaffattack",
+   "urls": []
+  },
+  {
+   "id": 966539084695924700,
+   "id_str": "966539084695924736",
+   "created_at": "Thu Feb 22 05:04:09 +0000 2018",
+   "text": "@theednaffattack @jamonholmgren YESSS sorry I didn't see this!!!!!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966416846172729300,
+   "in_reply_to_status_id_str": "966416846172729344",
+   "in_reply_to_screen_name": "theednaffattack",
+   "urls": []
+  },
+  {
+   "id": 966538775634485200,
+   "id_str": "966538775634485248",
+   "created_at": "Thu Feb 22 05:02:56 +0000 2018",
+   "text": "RT @bentlegen: We adopted @storybookjs at @getsentry about 8 months ago and it's really  accelerated how we build UI components:  https://t…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966451788076347400,
+    "id_str": "966451788076347392",
+    "created_at": "Wed Feb 21 23:17:16 +0000 2018",
+    "text": "We adopted @storybookjs at @getsentry about 8 months ago and it's really  accelerated how we build UI components:… https://t.co/N3atT5RHwJ",
+    "retweet_count": 14,
+    "favorite_count": 73,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/N3atT5RHwJ",
+      "expand": "https://twitter.com/i/web/status/966451788076347392"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966538344661368800,
+   "id_str": "966538344661368832",
+   "created_at": "Thu Feb 22 05:01:13 +0000 2018",
+   "text": "@amcsi_san One step at a time :) we support node 6 still so once we drop support for that we'll start exploring our… https://t.co/uSBZ1XQG7z",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966531556662706200,
+   "in_reply_to_status_id_str": "966531556662706176",
+   "in_reply_to_screen_name": "amcsi_san",
+   "urls": [
+    {
+     "url": "https://t.co/uSBZ1XQG7z",
+     "expand": "https://twitter.com/i/web/status/966538344661368832"
+    }
+   ]
+  },
+  {
+   "id": 966537243232890900,
+   "id_str": "966537243232890880",
+   "created_at": "Thu Feb 22 04:56:50 +0000 2018",
+   "text": "RT @jhford: In case you didn't know:\n\n1. Canada has a Strategic National Maple Syrup Reserve\n2. It was stolen\n3. Netflix has a documentary…",
+   "retweet_count": 14110,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966362442195456000,
+    "id_str": "966362442195456000",
+    "created_at": "Wed Feb 21 17:22:15 +0000 2018",
+    "text": "In case you didn't know:\n\n1. Canada has a Strategic National Maple Syrup Reserve\n2. It was stolen\n3. Netflix has a… https://t.co/hVLy7UhZ7S",
+    "retweet_count": 14110,
+    "favorite_count": 44840,
+    "place": "München, Bayern",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hVLy7UhZ7S",
+      "expand": "https://twitter.com/i/web/status/966362442195456000"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966533912628404200,
+   "id_str": "966533912628404224",
+   "created_at": "Thu Feb 22 04:43:36 +0000 2018",
+   "text": "@Anagobarreto @samccone @sebmck  https://t.co/bzH9hCcdZB",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966532991756283900,
+   "in_reply_to_status_id_str": "966532991756283905",
+   "in_reply_to_screen_name": "Anagobarreto",
+   "urls": []
+  },
+  {
+   "id": 966530815856296000,
+   "id_str": "966530815856295936",
+   "created_at": "Thu Feb 22 04:31:18 +0000 2018",
+   "text": "@sebmck @samccone We embrace change and learning as part of life. So, I'm not too concerned :)",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966523946978783200,
+   "in_reply_to_status_id_str": "966523946978783232",
+   "in_reply_to_screen_name": "sebmck",
+   "urls": []
+  },
+  {
+   "id": 966522295161258000,
+   "id_str": "966522295161257984",
+   "created_at": "Thu Feb 22 03:57:26 +0000 2018",
+   "text": "I know some 2 year olds already can sing songs, but this made me so proud to hear my son mimicing motivic patterns… https://t.co/ZMQ4by1CCC",
+   "retweet_count": 0,
+   "favorite_count": 67,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZMQ4by1CCC",
+     "expand": "https://twitter.com/i/web/status/966522295161257984"
+    }
+   ]
+  },
+  {
+   "id": 966518647811227600,
+   "id_str": "966518647811227648",
+   "created_at": "Thu Feb 22 03:42:57 +0000 2018",
+   "text": "@kensodev Have you taken a look at our guide for build performance?? https://t.co/AyF4EKAd0S",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966494086378082300,
+   "in_reply_to_status_id_str": "966494086378082305",
+   "in_reply_to_screen_name": "kensodev",
+   "urls": [
+    {
+     "url": "https://t.co/AyF4EKAd0S",
+     "expand": "http://webpack.js.org/guides/build-performance"
+    }
+   ]
+  },
+  {
+   "id": 966514196677472300,
+   "id_str": "966514196677472256",
+   "created_at": "Thu Feb 22 03:25:16 +0000 2018",
+   "text": "@jonasschmedtman Hey Jonas, to ensure the proper knowledge is being shared about #webpack, I'd like to set up some… https://t.co/NpQBIw1HyS",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 965962186177830900,
+   "in_reply_to_status_id_str": "965962186177830915",
+   "in_reply_to_screen_name": "jonasschmedtman",
+   "urls": [
+    {
+     "url": "https://t.co/NpQBIw1HyS",
+     "expand": "https://twitter.com/i/web/status/966514196677472256"
+    }
+   ]
+  },
+  {
+   "id": 966513817344602100,
+   "id_str": "966513817344602112",
+   "created_at": "Thu Feb 22 03:23:45 +0000 2018",
+   "text": "@_jayphelps @mistyHarsh Whatcha sniffing out Jay?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966505382456672300,
+   "in_reply_to_status_id_str": "966505382456672256",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": []
+  },
+  {
+   "id": 966509117916328000,
+   "id_str": "966509117916327937",
+   "created_at": "Thu Feb 22 03:05:05 +0000 2018",
+   "text": "@davatron5000 Specifically here: https://t.co/mRSOtB8R21",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966489752261283800,
+   "in_reply_to_status_id_str": "966489752261283841",
+   "in_reply_to_screen_name": "davatron5000",
+   "urls": [
+    {
+     "url": "https://t.co/mRSOtB8R21",
+     "expand": "https://twitter.com/TheLarkInn/status/966402728023932928"
+    }
+   ]
+  },
+  {
+   "id": 966507076703854600,
+   "id_str": "966507076703854592",
+   "created_at": "Thu Feb 22 02:56:58 +0000 2018",
+   "text": "RT @captbaritone: Holy moly. You can write a key logger  in pure CSS. I wonder if @reddit custom themes would be vulnerable. https://t.co/y…",
+   "retweet_count": 2576,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966051583132758000,
+    "id_str": "966051583132758016",
+    "created_at": "Tue Feb 20 20:47:00 +0000 2018",
+    "text": "Holy moly. You can write a key logger  in pure CSS. I wonder if @reddit custom themes would be vulnerable.… https://t.co/qVmveKwO4R",
+    "retweet_count": 2576,
+    "favorite_count": 3613,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qVmveKwO4R",
+      "expand": "https://twitter.com/i/web/status/966051583132758016"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966499694435123200,
+   "id_str": "966499694435123201",
+   "created_at": "Thu Feb 22 02:27:38 +0000 2018",
+   "text": "@bradleymeck @davatron5000 Ugh there's too much to keep track of, I didn't know they are using some random .import(… https://t.co/QEpiabgSDI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966490782059368400,
+   "in_reply_to_status_id_str": "966490782059368456",
+   "in_reply_to_screen_name": "bradleymeck",
+   "urls": [
+    {
+     "url": "https://t.co/QEpiabgSDI",
+     "expand": "https://twitter.com/i/web/status/966499694435123201"
+    }
+   ]
+  },
+  {
+   "id": 966482211510693900,
+   "id_str": "966482211510693888",
+   "created_at": "Thu Feb 22 01:18:10 +0000 2018",
+   "text": "@davatron5000 However something more specific to static analysis and composition is ideal!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966481027429318700,
+   "in_reply_to_status_id_str": "966481027429318656",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966481027429318700,
+   "id_str": "966481027429318656",
+   "created_at": "Thu Feb 22 01:13:27 +0000 2018",
+   "text": "@davatron5000 I'm not looking for specifically an HTML imports style solution, or something coming from or even clo… https://t.co/Q8U9qvUc8z",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966480600042532900,
+   "in_reply_to_status_id_str": "966480600042532864",
+   "in_reply_to_screen_name": "davatron5000",
+   "urls": [
+    {
+     "url": "https://t.co/Q8U9qvUc8z",
+     "expand": "https://twitter.com/i/web/status/966481027429318656"
+    }
+   ]
+  },
+  {
+   "id": 966457449271083000,
+   "id_str": "966457449271083008",
+   "created_at": "Wed Feb 21 23:39:46 +0000 2018",
+   "text": "@sebmarkbage For webpack (and browserify I assume), we follow the node reso algo except it's async so much faster.… https://t.co/Wo1OsLVbKo",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966456744737169400,
+   "in_reply_to_status_id_str": "966456744737169408",
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": [
+    {
+     "url": "https://t.co/Wo1OsLVbKo",
+     "expand": "https://twitter.com/i/web/status/966457449271083008"
+    }
+   ]
+  },
+  {
+   "id": 966456512838123500,
+   "id_str": "966456512838123520",
+   "created_at": "Wed Feb 21 23:36:03 +0000 2018",
+   "text": "@sehurlburt Yessssssssssss. I am back from travels here until next week :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966455560815038500,
+   "in_reply_to_status_id_str": "966455560815038465",
+   "in_reply_to_screen_name": "sehurlburt",
+   "urls": []
+  },
+  {
+   "id": 966455343776645100,
+   "id_str": "966455343776645120",
+   "created_at": "Wed Feb 21 23:31:24 +0000 2018",
+   "text": "@sehurlburt what's your preferred communication medium. Going to shoot ya a (mail/dm/whatever) on some things :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "sehurlburt",
+   "urls": []
+  },
+  {
+   "id": 966455187656224800,
+   "id_str": "966455187656224768",
+   "created_at": "Wed Feb 21 23:30:47 +0000 2018",
+   "text": "RT @sehurlburt: In fact, open source friends, this advice might apply to you too\n\nI know too many open source authors who try to get corpor…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966454181119709200,
+    "id_str": "966454181119709185",
+    "created_at": "Wed Feb 21 23:26:47 +0000 2018",
+    "text": "In fact, open source friends, this advice might apply to you too\n\nI know too many open source authors who try to ge… https://t.co/rhVUFVipri",
+    "retweet_count": 14,
+    "favorite_count": 77,
+    "place": null,
+    "in_reply_to_status_id": 966453143037816800,
+    "in_reply_to_status_id_str": "966453143037816832",
+    "in_reply_to_screen_name": "sehurlburt",
+    "urls": [
+     {
+      "url": "https://t.co/rhVUFVipri",
+      "expand": "https://twitter.com/i/web/status/966454181119709185"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966455174767067100,
+   "id_str": "966455174767067136",
+   "created_at": "Wed Feb 21 23:30:44 +0000 2018",
+   "text": "EVERYTHING THIS FOR @opencollect and all open source projects: show a company their dividends by becoming a shareho… https://t.co/yJfoa5bN5Z",
+   "retweet_count": 3,
+   "favorite_count": 9,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yJfoa5bN5Z",
+     "expand": "https://twitter.com/i/web/status/966455174767067136"
+    }
+   ]
+  },
+  {
+   "id": 966454667688362000,
+   "id_str": "966454667688361984",
+   "created_at": "Wed Feb 21 23:28:43 +0000 2018",
+   "text": "@drewml @cmuench @erickpatrick @magento Yay!!!!!!!!!!!!!!!!!! Let's tag team this and spin up a thread. Partnership… https://t.co/74xdey56oM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966454424892735500,
+   "in_reply_to_status_id_str": "966454424892735488",
+   "in_reply_to_screen_name": "drewml",
+   "urls": [
+    {
+     "url": "https://t.co/74xdey56oM",
+     "expand": "https://twitter.com/i/web/status/966454667688361984"
+    }
+   ]
+  },
+  {
+   "id": 966454301106188300,
+   "id_str": "966454301106188288",
+   "created_at": "Wed Feb 21 23:27:15 +0000 2018",
+   "text": "RT @mannersd: Webpack with e-commerce projects from Nintendo's own @erickpatrick https://t.co/XMJrhkQWXh",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966381590623543300,
+    "id_str": "966381590623543296",
+    "created_at": "Wed Feb 21 18:38:20 +0000 2018",
+    "text": "Webpack with e-commerce projects from Nintendo's own @erickpatrick https://t.co/XMJrhkQWXh",
+    "retweet_count": 1,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966454189437067300,
+   "id_str": "966454189437067264",
+   "created_at": "Wed Feb 21 23:26:49 +0000 2018",
+   "text": "RT @cmuench: In the first session @erickpatrick shows us how Nintendo integrated #webpack in #Magento 2. The module is already open sourced…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966386874397884400,
+    "id_str": "966386874397884418",
+    "created_at": "Wed Feb 21 18:59:20 +0000 2018",
+    "text": "In the first session @erickpatrick shows us how Nintendo integrated #webpack in #Magento 2. The module is already o… https://t.co/IiZZrSNPrB",
+    "retweet_count": 8,
+    "favorite_count": 22,
+    "place": "Frankfurt am Main, Deutschland",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IiZZrSNPrB",
+      "expand": "https://twitter.com/i/web/status/966386874397884418"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966454167978963000,
+   "id_str": "966454167978962944",
+   "created_at": "Wed Feb 21 23:26:44 +0000 2018",
+   "text": "@cmuench @erickpatrick 😍🔥😍🔥😍🔥😍 \n\nI didn't know Nintendo was using webpack. Would love to speak with the team given… https://t.co/RXCRxq8vmH",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966386874397884400,
+   "in_reply_to_status_id_str": "966386874397884418",
+   "in_reply_to_screen_name": "cmuench",
+   "urls": [
+    {
+     "url": "https://t.co/RXCRxq8vmH",
+     "expand": "https://twitter.com/i/web/status/966454167978962944"
+    }
+   ]
+  },
+  {
+   "id": 966453333870301200,
+   "id_str": "966453333870301184",
+   "created_at": "Wed Feb 21 23:23:25 +0000 2018",
+   "text": "@bb8bear Sometimes it tends to make things seem overwhelming at first. Any way we can help??\n\nAlso:\nStarter vids (f… https://t.co/W1Muc2KQ5Q",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966440335453950000,
+   "in_reply_to_status_id_str": "966440335453949952",
+   "in_reply_to_screen_name": "bb8bear",
+   "urls": [
+    {
+     "url": "https://t.co/W1Muc2KQ5Q",
+     "expand": "https://twitter.com/i/web/status/966453333870301184"
+    }
+   ]
+  },
+  {
+   "id": 966453052159836200,
+   "id_str": "966453052159836161",
+   "created_at": "Wed Feb 21 23:22:18 +0000 2018",
+   "text": "@dissimile @parceljs This your production site? I'd love to take it for a test drive. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966378053256523800,
+   "in_reply_to_status_id_str": "966378053256523776",
+   "in_reply_to_screen_name": "dissimile",
+   "urls": []
+  },
+  {
+   "id": 966452812778422300,
+   "id_str": "966452812778422272",
+   "created_at": "Wed Feb 21 23:21:21 +0000 2018",
+   "text": "RT @knitcodemonkey: Another project, another 80% build time savings. Thanks #webpack 4!",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966413827444064300,
+    "id_str": "966413827444064256",
+    "created_at": "Wed Feb 21 20:46:26 +0000 2018",
+    "text": "Another project, another 80% build time savings. Thanks #webpack 4!",
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966452696755576800,
+   "id_str": "966452696755576833",
+   "created_at": "Wed Feb 21 23:20:53 +0000 2018",
+   "text": "RT @bitandbang: So yesterday I learned from Joel Chen at @WalmartLabs that @electrode_io is the basis for the entire https://t.co/qGRHmxBWV…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966378969934176300,
+    "id_str": "966378969934176256",
+    "created_at": "Wed Feb 21 18:27:55 +0000 2018",
+    "text": "So yesterday I learned from Joel Chen at @WalmartLabs that @electrode_io is the basis for the entire… https://t.co/VMuaLpvehl",
+    "retweet_count": 20,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VMuaLpvehl",
+      "expand": "https://twitter.com/i/web/status/966378969934176256"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966452618238177300,
+   "id_str": "966452618238177280",
+   "created_at": "Wed Feb 21 23:20:34 +0000 2018",
+   "text": "@sebmarkbage I'd like to hear more about the high fidelity support.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966431428291547100,
+   "in_reply_to_status_id_str": "966431428291547137",
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": []
+  },
+  {
+   "id": 966452351002267600,
+   "id_str": "966452351002267648",
+   "created_at": "Wed Feb 21 23:19:30 +0000 2018",
+   "text": "@Aaron_Vail I saw lol. The vulgar commit bots are fun ones.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966448209290715100,
+   "in_reply_to_status_id_str": "966448209290715136",
+   "in_reply_to_screen_name": "Aaron_Vail",
+   "urls": []
+  },
+  {
+   "id": 966442531364880400,
+   "id_str": "966442531364880384",
+   "created_at": "Wed Feb 21 22:40:29 +0000 2018",
+   "text": "@_jwerner_ @vuejs It was also a poke to the Vue team to get in touch with you :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966441658232516600,
+   "in_reply_to_status_id_str": "966441658232516609",
+   "in_reply_to_screen_name": "_jwerner_",
+   "urls": []
+  },
+  {
+   "id": 966440462415413200,
+   "id_str": "966440462415413250",
+   "created_at": "Wed Feb 21 22:32:16 +0000 2018",
+   "text": "RT @gilfink: @AngularUP's first speaker lineup announced. You can go to our website to see them - https://t.co/IKKydScdHG\ncc @robwormald, @…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IKKydScdHG",
+     "expand": "http://angular-up.com/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965481082668896300,
+    "id_str": "965481082668896256",
+    "created_at": "Mon Feb 19 07:00:02 +0000 2018",
+    "text": "@AngularUP's first speaker lineup announced. You can go to our website to see them - https://t.co/IKKydScdHG\ncc… https://t.co/dvOVCTRkNK",
+    "retweet_count": 8,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": "AngularUP",
+    "urls": [
+     {
+      "url": "https://t.co/IKKydScdHG",
+      "expand": "http://angular-up.com/"
+     },
+     {
+      "url": "https://t.co/dvOVCTRkNK",
+      "expand": "https://twitter.com/i/web/status/965481082668896256"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966417496122130400,
+   "id_str": "966417496122130432",
+   "created_at": "Wed Feb 21 21:01:00 +0000 2018",
+   "text": "When your wife sends you Facebook mom memes. https://t.co/B1XPjOBmr6",
+   "retweet_count": 0,
+   "favorite_count": 20,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966409041827135500,
+   "id_str": "966409041827135488",
+   "created_at": "Wed Feb 21 20:27:25 +0000 2018",
+   "text": "@sebmck @samccone @trek @jamiebuilds @contrahacks @BenLesh",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966407256534167600,
+   "in_reply_to_status_id_str": "966407256534167552",
+   "in_reply_to_screen_name": "sebmck",
+   "urls": []
+  },
+  {
+   "id": 966408798532378600,
+   "id_str": "966408798532378624",
+   "created_at": "Wed Feb 21 20:26:27 +0000 2018",
+   "text": "@sebmck Although you pseudo troll, there was truth to this especially with previous module systems. Although it's n… https://t.co/KAaMpRwObt",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966407199625855000,
+   "in_reply_to_status_id_str": "966407199625854976",
+   "in_reply_to_screen_name": "sebmck",
+   "urls": [
+    {
+     "url": "https://t.co/KAaMpRwObt",
+     "expand": "https://twitter.com/i/web/status/966408798532378624"
+    }
+   ]
+  },
+  {
+   "id": 966406830585868300,
+   "id_str": "966406830585868288",
+   "created_at": "Wed Feb 21 20:18:38 +0000 2018",
+   "text": "@shaneckel Precisely, this isn't an attack on the system that has served itself so well for page and book, but rath… https://t.co/prlY0FFrdW",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966406312723705900,
+   "in_reply_to_status_id_str": "966406312723705856",
+   "in_reply_to_screen_name": "shaneckel",
+   "urls": [
+    {
+     "url": "https://t.co/prlY0FFrdW",
+     "expand": "https://twitter.com/i/web/status/966406830585868288"
+    }
+   ]
+  },
+  {
+   "id": 966406507062427600,
+   "id_str": "966406507062427648",
+   "created_at": "Wed Feb 21 20:17:20 +0000 2018",
+   "text": "I love hearing statements like this about @vuejs. @_jwerner_, I bet the @vuejs team would love a customer story abo… https://t.co/bMbIhEcEAg",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bMbIhEcEAg",
+     "expand": "https://twitter.com/i/web/status/966406507062427648"
+    }
+   ]
+  },
+  {
+   "id": 966405145369092100,
+   "id_str": "966405145369092096",
+   "created_at": "Wed Feb 21 20:11:56 +0000 2018",
+   "text": "@_koblinski @aframevr @survivejs I saw someone like this post, and so Vicky, (not pressure), did you get around to… https://t.co/sXNbTTpcvq",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 932637602041049100,
+   "in_reply_to_status_id_str": "932637602041049088",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/sXNbTTpcvq",
+     "expand": "https://twitter.com/i/web/status/966405145369092096"
+    }
+   ]
+  },
+  {
+   "id": 966404983489884200,
+   "id_str": "966404983489884160",
+   "created_at": "Wed Feb 21 20:11:17 +0000 2018",
+   "text": "@sethreidnz @tbaxter That's more of a round peg square hole issue: I touch on this here in this response. \n\nhttps://t.co/mRSOtB8R21",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966197711950229500,
+   "in_reply_to_status_id_str": "966197711950229504",
+   "in_reply_to_screen_name": "sethreidnz",
+   "urls": [
+    {
+     "url": "https://t.co/mRSOtB8R21",
+     "expand": "https://twitter.com/TheLarkInn/status/966402728023932928"
+    }
+   ]
+  },
+  {
+   "id": 966404828761960400,
+   "id_str": "966404828761960448",
+   "created_at": "Wed Feb 21 20:10:40 +0000 2018",
+   "text": "Here's some more clarification to this thread:\n\nhttps://t.co/mRSOtB8R21",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966156052180869100,
+   "in_reply_to_status_id_str": "966156052180869120",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/mRSOtB8R21",
+     "expand": "https://twitter.com/TheLarkInn/status/966402728023932928"
+    }
+   ]
+  },
+  {
+   "id": 966403304908406800,
+   "id_str": "966403304908406785",
+   "created_at": "Wed Feb 21 20:04:37 +0000 2018",
+   "text": "@theednaffattack @jamonholmgren We empathize with all the pack things",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966392518995689500,
+   "in_reply_to_status_id_str": "966392518995689472",
+   "in_reply_to_screen_name": "theednaffattack",
+   "urls": []
+  },
+  {
+   "id": 966403127824998400,
+   "id_str": "966403127824998400",
+   "created_at": "Wed Feb 21 20:03:55 +0000 2018",
+   "text": "@coderitual Sure I'm not saying someone should or not. I'm simply saying that it's a holistic and culture change th… https://t.co/wMuX7FaP3L",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966400196660875300,
+   "in_reply_to_status_id_str": "966400196660875265",
+   "in_reply_to_screen_name": "coderitual",
+   "urls": [
+    {
+     "url": "https://t.co/wMuX7FaP3L",
+     "expand": "https://twitter.com/i/web/status/966403127824998400"
+    }
+   ]
+  },
+  {
+   "id": 966402807510089700,
+   "id_str": "966402807510089730",
+   "created_at": "Wed Feb 21 20:02:38 +0000 2018",
+   "text": "@drakecode And this causes a lot of overhead also.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966402728023932900,
+   "in_reply_to_status_id_str": "966402728023932928",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966402728023932900,
+   "id_str": "966402728023932928",
+   "created_at": "Wed Feb 21 20:02:19 +0000 2018",
+   "text": "@drakecode It does. But in this case. We sometimes fight an uphill battle of not having native encapsulation primit… https://t.co/AOr17r9LQx",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966402387568201700,
+   "in_reply_to_status_id_str": "966402387568201730",
+   "in_reply_to_screen_name": "drakecode",
+   "urls": [
+    {
+     "url": "https://t.co/AOr17r9LQx",
+     "expand": "https://twitter.com/i/web/status/966402728023932928"
+    }
+   ]
+  },
+  {
+   "id": 966398435115941900,
+   "id_str": "966398435115941889",
+   "created_at": "Wed Feb 21 19:45:16 +0000 2018",
+   "text": "RT @TheLarkInn: After finally getting to listen to one of our distinguished eng. discuss the entire Web formatting, compositor, layout and…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966154420642725900,
+    "id_str": "966154420642725888",
+    "created_at": "Wed Feb 21 03:35:38 +0000 2018",
+    "text": "After finally getting to listen to one of our distinguished eng. discuss the entire Web formatting, compositor, lay… https://t.co/X5xiHVr0dY",
+    "retweet_count": 5,
+    "favorite_count": 58,
+    "place": "Sammamish, WA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/X5xiHVr0dY",
+      "expand": "https://twitter.com/i/web/status/966154420642725888"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966398387607126000,
+   "id_str": "966398387607126016",
+   "created_at": "Wed Feb 21 19:45:05 +0000 2018",
+   "text": "@coderitual Definition of what a job well done also needs to be in the growth mindset for it to make an impact.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966397581835341800,
+   "in_reply_to_status_id_str": "966397581835341824",
+   "in_reply_to_screen_name": "coderitual",
+   "urls": []
+  },
+  {
+   "id": 966397356470972400,
+   "id_str": "966397356470972417",
+   "created_at": "Wed Feb 21 19:40:59 +0000 2018",
+   "text": "@ianstormtaylor Kyle's exactly right. With lodash-es today you don't need any special work just mode: performance f… https://t.co/nzzIERBSnT",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966363569645211600,
+   "in_reply_to_status_id_str": "966363569645211648",
+   "in_reply_to_screen_name": "ianstormtaylor",
+   "urls": [
+    {
+     "url": "https://t.co/nzzIERBSnT",
+     "expand": "https://twitter.com/i/web/status/966397356470972417"
+    }
+   ]
+  },
+  {
+   "id": 966397123267711000,
+   "id_str": "966397123267710976",
+   "created_at": "Wed Feb 21 19:40:03 +0000 2018",
+   "text": "RT @lucpotage: @Atinux @nuxt_js @_achopin @_pi0_ @ClarkDu_ Nuxt helps me focus on design systems and reusable components. It made me dig in…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966393843993272300,
+    "id_str": "966393843993272320",
+    "created_at": "Wed Feb 21 19:27:01 +0000 2018",
+    "text": "@Atinux @nuxt_js @_achopin @_pi0_ @ClarkDu_ Nuxt helps me focus on design systems and reusable components. It made… https://t.co/rUIyMMVPZS",
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": 966370266208194600,
+    "in_reply_to_status_id_str": "966370266208194563",
+    "in_reply_to_screen_name": "Atinux",
+    "urls": [
+     {
+      "url": "https://t.co/rUIyMMVPZS",
+      "expand": "https://twitter.com/i/web/status/966393843993272320"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966396640566243300,
+   "id_str": "966396640566243329",
+   "created_at": "Wed Feb 21 19:38:08 +0000 2018",
+   "text": "Heh that awesome alumni moment. https://t.co/cIH2N8nacR",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966376446506577900,
+   "in_reply_to_status_id_str": "966376446506577920",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966386931125821400,
+   "id_str": "966386931125821440",
+   "created_at": "Wed Feb 21 18:59:33 +0000 2018",
+   "text": "RT @bridgetkromhout: Engineers at Microsoft are encouraged to be directly in touch with end users. Super important for empathy! @SamGuckenh…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966386861986873300,
+    "id_str": "966386861986873344",
+    "created_at": "Wed Feb 21 18:59:17 +0000 2018",
+    "text": "Engineers at Microsoft are encouraged to be directly in touch with end users. Super important for empathy!… https://t.co/SIiAwRywPe",
+    "retweet_count": 6,
+    "favorite_count": 19,
+    "place": "Union Square, San Francisco",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SIiAwRywPe",
+      "expand": "https://twitter.com/i/web/status/966386861986873344"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966376446506577900,
+   "id_str": "966376446506577920",
+   "created_at": "Wed Feb 21 18:17:53 +0000 2018",
+   "text": "Kinda cool, I got an email response from Donald Knuth.",
+   "retweet_count": 1,
+   "favorite_count": 44,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966371429796098000,
+   "id_str": "966371429796098049",
+   "created_at": "Wed Feb 21 17:57:57 +0000 2018",
+   "text": "RT @_developit: Microbundle 0.4.4 is out 🔥\n- TypeScript 2.x support\n- Improvements to the Node API!\nhttps://t.co/vXumhymhku https://t.co/Rp…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vXumhymhku",
+     "expand": "https://github.com/developit/microbundle/releases/tag/0.4.4"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966160569484173300,
+    "id_str": "966160569484173312",
+    "created_at": "Wed Feb 21 04:00:04 +0000 2018",
+    "text": "Microbundle 0.4.4 is out 🔥\n- TypeScript 2.x support\n- Improvements to the Node API!\nhttps://t.co/vXumhymhku https://t.co/RpfvIpUMFq",
+    "retweet_count": 39,
+    "favorite_count": 170,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vXumhymhku",
+      "expand": "https://github.com/developit/microbundle/releases/tag/0.4.4"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966370545947230200,
+   "id_str": "966370545947230209",
+   "created_at": "Wed Feb 21 17:54:27 +0000 2018",
+   "text": "RT @Nayruuu: J'ai réussi à setup webpack avec les loaders babel et sass. https://t.co/VXeO7ycl88",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966324932719317000,
+    "id_str": "966324932719316993",
+    "created_at": "Wed Feb 21 14:53:12 +0000 2018",
+    "text": "J'ai réussi à setup webpack avec les loaders babel et sass. https://t.co/VXeO7ycl88",
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "place": "Paris, France",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966370300886581200,
+   "id_str": "966370300886581248",
+   "created_at": "Wed Feb 21 17:53:28 +0000 2018",
+   "text": "@nicoschneider @sbelak @ericnormand 🤔",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966360122225250300,
+   "in_reply_to_status_id_str": "966360122225250305",
+   "in_reply_to_screen_name": "nicoschneider",
+   "urls": []
+  },
+  {
+   "id": 966370030995697700,
+   "id_str": "966370030995697664",
+   "created_at": "Wed Feb 21 17:52:24 +0000 2018",
+   "text": "@tlakomy https://t.co/Re7BddwI8T",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966232611919138800,
+   "in_reply_to_status_id_str": "966232611919138816",
+   "in_reply_to_screen_name": "tlakomy",
+   "urls": [
+    {
+     "url": "https://t.co/Re7BddwI8T",
+     "expand": "https://twitter.com/TheLarkInn/status/966001249819619328"
+    }
+   ]
+  },
+  {
+   "id": 966369405885034500,
+   "id_str": "966369405885034496",
+   "created_at": "Wed Feb 21 17:49:55 +0000 2018",
+   "text": "@BenLesh @YurySoloviov Well for sure millions of millions of dollars of wasted developer time.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966366051746267100,
+   "in_reply_to_status_id_str": "966366051746267137",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966261600658141200,
+   "id_str": "966261600658141184",
+   "created_at": "Wed Feb 21 10:41:32 +0000 2018",
+   "text": "@wldcordeiro https://t.co/mC1zZW9C3f also last to posts",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966261547281494000,
+   "in_reply_to_status_id_str": "966261547281494017",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/mC1zZW9C3f",
+     "expand": "http://medium.com/webpack"
+    }
+   ]
+  },
+  {
+   "id": 966261547281494000,
+   "id_str": "966261547281494017",
+   "created_at": "Wed Feb 21 10:41:19 +0000 2018",
+   "text": "@wldcordeiro Releases page has the changelog",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966225286093193200,
+   "in_reply_to_status_id_str": "966225286093193216",
+   "in_reply_to_screen_name": "wldcordeiro",
+   "urls": []
+  },
+  {
+   "id": 966215042487242800,
+   "id_str": "966215042487242753",
+   "created_at": "Wed Feb 21 07:36:32 +0000 2018",
+   "text": "@wldcordeiro Check optimize.splitchunks.runtimeChunk: true I believe or for multipage apps \"single\"",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966197953382768600,
+   "in_reply_to_status_id_str": "966197953382768641",
+   "in_reply_to_screen_name": "wldcordeiro",
+   "urls": []
+  },
+  {
+   "id": 966214623119708200,
+   "id_str": "966214623119708160",
+   "created_at": "Wed Feb 21 07:34:52 +0000 2018",
+   "text": "@hrasoahaingo @tbaxter Never said it should be together :) however I do believe that a module system helps remove the need for it.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966207319267795000,
+   "in_reply_to_status_id_str": "966207319267794944",
+   "in_reply_to_screen_name": "hrasoahaingo",
+   "urls": []
+  },
+  {
+   "id": 966214472070324200,
+   "id_str": "966214472070324224",
+   "created_at": "Wed Feb 21 07:34:16 +0000 2018",
+   "text": "@YurySoloviov Oh no one said there arent tradeoffs. And we know where the holes are. In fact, my time is better spe… https://t.co/JDsMAXFbMu",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966212391187951600,
+   "in_reply_to_status_id_str": "966212391187951616",
+   "in_reply_to_screen_name": "YurySoloviov",
+   "urls": [
+    {
+     "url": "https://t.co/JDsMAXFbMu",
+     "expand": "https://twitter.com/i/web/status/966214472070324224"
+    }
+   ]
+  },
+  {
+   "id": 966183660763451400,
+   "id_str": "966183660763451394",
+   "created_at": "Wed Feb 21 05:31:50 +0000 2018",
+   "text": "@tusharmath @bmeurer @wSokra Not yet! :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966150268227289100,
+   "in_reply_to_status_id_str": "966150268227289089",
+   "in_reply_to_screen_name": "tusharmath",
+   "urls": []
+  },
+  {
+   "id": 966180237527715800,
+   "id_str": "966180237527715840",
+   "created_at": "Wed Feb 21 05:18:14 +0000 2018",
+   "text": "@samccone @sebmck @PampyLaCroixBoy OMG yess.....😂😂😂😂",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966165705199558700,
+   "in_reply_to_status_id_str": "966165705199558656",
+   "in_reply_to_screen_name": "samccone",
+   "urls": []
+  },
+  {
+   "id": 966179958480605200,
+   "id_str": "966179958480605184",
+   "created_at": "Wed Feb 21 05:17:07 +0000 2018",
+   "text": "@abritinthebay Honestly I'm not crazy about the systems we have in place. Looking for an intersection that's native… https://t.co/0d3G9kp0Hp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966172135646404600,
+   "in_reply_to_status_id_str": "966172135646404608",
+   "in_reply_to_screen_name": "abritinthebay",
+   "urls": [
+    {
+     "url": "https://t.co/0d3G9kp0Hp",
+     "expand": "https://twitter.com/i/web/status/966179958480605184"
+    }
+   ]
+  },
+  {
+   "id": 966175948939739100,
+   "id_str": "966175948939739136",
+   "created_at": "Wed Feb 21 05:01:11 +0000 2018",
+   "text": "@robwierzbowski Take it a step further, I want to prevent the formatter from being forced to process and reprocess… https://t.co/sS2cjB8NSA",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966175425431875600,
+   "in_reply_to_status_id_str": "966175425431875584",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/sS2cjB8NSA",
+     "expand": "https://twitter.com/i/web/status/966175948939739136"
+    }
+   ]
+  },
+  {
+   "id": 966175425431875600,
+   "id_str": "966175425431875584",
+   "created_at": "Wed Feb 21 04:59:06 +0000 2018",
+   "text": "@robwierzbowski Dont need to hate disagreeing. :) The discussion is always worth exploring. \n\nMy problem isn't with… https://t.co/ftY8NzhPrH",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966174250557231100,
+   "in_reply_to_status_id_str": "966174250557231105",
+   "in_reply_to_screen_name": "robwierzbowski",
+   "urls": [
+    {
+     "url": "https://t.co/ftY8NzhPrH",
+     "expand": "https://twitter.com/i/web/status/966175425431875584"
+    }
+   ]
+  },
+  {
+   "id": 966171741742497800,
+   "id_str": "966171741742497797",
+   "created_at": "Wed Feb 21 04:44:28 +0000 2018",
+   "text": "@cbo317110 They are modular by nature standalone. But when we make UI for the Web, it's never standalone.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966156029623963600,
+   "in_reply_to_status_id_str": "966156029623963649",
+   "in_reply_to_screen_name": "cbo317110",
+   "urls": []
+  },
+  {
+   "id": 966171153604649000,
+   "id_str": "966171153604648960",
+   "created_at": "Wed Feb 21 04:42:08 +0000 2018",
+   "text": "@devongovett @jkup @svinkle We specialize in long threads. 😂",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966168300492222500,
+   "in_reply_to_status_id_str": "966168300492222464",
+   "in_reply_to_screen_name": "devongovett",
+   "urls": []
+  },
+  {
+   "id": 966171073602502700,
+   "id_str": "966171073602502657",
+   "created_at": "Wed Feb 21 04:41:49 +0000 2018",
+   "text": "@abritinthebay I don't criticize the pipeline. How is designed and works is brilliant. But there's also a lot (not… https://t.co/lKNJobUVV1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966169297763446800,
+   "in_reply_to_status_id_str": "966169297763446784",
+   "in_reply_to_screen_name": "abritinthebay",
+   "urls": [
+    {
+     "url": "https://t.co/lKNJobUVV1",
+     "expand": "https://twitter.com/i/web/status/966171073602502657"
+    }
+   ]
+  },
+  {
+   "id": 966168150705229800,
+   "id_str": "966168150705229826",
+   "created_at": "Wed Feb 21 04:30:12 +0000 2018",
+   "text": "@tbaxter Those don't seem controversial to me. Remember, I have no fight in the game here. Im not in for WC, CSSinJ… https://t.co/TQF0NzuBlj",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966166271422234600,
+   "in_reply_to_status_id_str": "966166271422234625",
+   "in_reply_to_screen_name": "tbaxter",
+   "urls": [
+    {
+     "url": "https://t.co/TQF0NzuBlj",
+     "expand": "https://twitter.com/i/web/status/966168150705229826"
+    }
+   ]
+  },
+  {
+   "id": 966165866084642800,
+   "id_str": "966165866084642824",
+   "created_at": "Wed Feb 21 04:21:07 +0000 2018",
+   "text": "@tbaxter Not because shit JS. Sure there's a lot of that running around but it doesn't add up as a root cause. \n\nPS… https://t.co/5OVbdtbP0w",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966165152927117300,
+   "in_reply_to_status_id_str": "966165152927117313",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/5OVbdtbP0w",
+     "expand": "https://twitter.com/i/web/status/966165866084642824"
+    }
+   ]
+  },
+  {
+   "id": 966165338390904800,
+   "id_str": "966165338390904832",
+   "created_at": "Wed Feb 21 04:19:01 +0000 2018",
+   "text": "@eliperelman Ha i see the other side: someone so skeptic that it prevents their growth.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966160241464430600,
+   "in_reply_to_status_id_str": "966160241464430592",
+   "in_reply_to_screen_name": "eliperelman",
+   "urls": []
+  },
+  {
+   "id": 966165152927117300,
+   "id_str": "966165152927117313",
+   "created_at": "Wed Feb 21 04:18:17 +0000 2018",
+   "text": "@tbaxter It's pretty close but it's because of years of no real module system, tooling trying to adapt to module sy… https://t.co/lQw97lGlxt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966164065113530400,
+   "in_reply_to_status_id_str": "966164065113530374",
+   "in_reply_to_screen_name": "tbaxter",
+   "urls": [
+    {
+     "url": "https://t.co/lQw97lGlxt",
+     "expand": "https://twitter.com/i/web/status/966165152927117313"
+    }
+   ]
+  },
+  {
+   "id": 966164116455899100,
+   "id_str": "966164116455899139",
+   "created_at": "Wed Feb 21 04:14:10 +0000 2018",
+   "text": "@sethreidnz ECMA module spec is a great start. It not only now is adopted as the underlying WASM implementation, ho… https://t.co/ksdtU406Kk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966162488046764000,
+   "in_reply_to_status_id_str": "966162488046764032",
+   "in_reply_to_screen_name": "sethreidnz",
+   "urls": [
+    {
+     "url": "https://t.co/ksdtU406Kk",
+     "expand": "https://twitter.com/i/web/status/966164116455899139"
+    }
+   ]
+  },
+  {
+   "id": 966163083507908600,
+   "id_str": "966163083507908608",
+   "created_at": "Wed Feb 21 04:10:04 +0000 2018",
+   "text": "@tbaxter Tim, anecdotally we are talking top 1000 websites, filled with experts across the web. Is it really fair o… https://t.co/Ez8L2QHNPC",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966162284392386600,
+   "in_reply_to_status_id_str": "966162284392386561",
+   "in_reply_to_screen_name": "tbaxter",
+   "urls": [
+    {
+     "url": "https://t.co/Ez8L2QHNPC",
+     "expand": "https://twitter.com/i/web/status/966163083507908608"
+    }
+   ]
+  },
+  {
+   "id": 966161955827286000,
+   "id_str": "966161955827286016",
+   "created_at": "Wed Feb 21 04:05:35 +0000 2018",
+   "text": "@tbaxter Top 1000 Alexa sites***",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966161689136701400,
+   "in_reply_to_status_id_str": "966161689136701440",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966161689136701400,
+   "id_str": "966161689136701440",
+   "created_at": "Wed Feb 21 04:04:31 +0000 2018",
+   "text": "@tbaxter I agree there is a lot of shit css. But why? Why is it so hard for people to manage their CSS? Why does ou… https://t.co/6JxGq3sUXe",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966158541856919600,
+   "in_reply_to_status_id_str": "966158541856919553",
+   "in_reply_to_screen_name": "tbaxter",
+   "urls": [
+    {
+     "url": "https://t.co/6JxGq3sUXe",
+     "expand": "https://twitter.com/i/web/status/966161689136701440"
+    }
+   ]
+  },
+  {
+   "id": 966158082769281000,
+   "id_str": "966158082769281024",
+   "created_at": "Wed Feb 21 03:50:11 +0000 2018",
+   "text": "@pelotom It's not. We are still vetting names of pieces and confidential vs not confidential information. But if legit we will share.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966157555272568800,
+   "in_reply_to_status_id_str": "966157555272568832",
+   "in_reply_to_screen_name": "pelotom",
+   "urls": []
+  },
+  {
+   "id": 966157478416101400,
+   "id_str": "966157478416101376",
+   "created_at": "Wed Feb 21 03:47:47 +0000 2018",
+   "text": "@tbaxter First off: no one told me anything. I learned end to end how this works, and for documents, for the early… https://t.co/q76DOB6FLi",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966155472112967700,
+   "in_reply_to_status_id_str": "966155472112967685",
+   "in_reply_to_screen_name": "tbaxter",
+   "urls": [
+    {
+     "url": "https://t.co/q76DOB6FLi",
+     "expand": "https://twitter.com/i/web/status/966157478416101376"
+    }
+   ]
+  },
+  {
+   "id": 966156052180869100,
+   "id_str": "966156052180869120",
+   "created_at": "Wed Feb 21 03:42:07 +0000 2018",
+   "text": "Every new selector we add via our current and broken system, adds one more level of computational complexity.  Enough is enough.",
+   "retweet_count": 1,
+   "favorite_count": 16,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966155056339828700,
+   "in_reply_to_status_id_str": "966155056339828736",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966155056339828700,
+   "id_str": "966155056339828736",
+   "created_at": "Wed Feb 21 03:38:10 +0000 2018",
+   "text": "No this has nothing to do with CSS in JS. CSS in JS is literally just an attempt for people to manage #CSSs inheren… https://t.co/X1gLUrkmPU",
+   "retweet_count": 3,
+   "favorite_count": 15,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966154420642725900,
+   "in_reply_to_status_id_str": "966154420642725888",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/X1gLUrkmPU",
+     "expand": "https://twitter.com/i/web/status/966155056339828736"
+    }
+   ]
+  },
+  {
+   "id": 966154420642725900,
+   "id_str": "966154420642725888",
+   "created_at": "Wed Feb 21 03:35:38 +0000 2018",
+   "text": "After finally getting to listen to one of our distinguished eng. discuss the entire Web formatting, compositor, lay… https://t.co/X5xiHVr0dY",
+   "retweet_count": 5,
+   "favorite_count": 58,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/X5xiHVr0dY",
+     "expand": "https://twitter.com/i/web/status/966154420642725888"
+    }
+   ]
+  },
+  {
+   "id": 966151105741709300,
+   "id_str": "966151105741709312",
+   "created_at": "Wed Feb 21 03:22:28 +0000 2018",
+   "text": "@fdsmars @drosenwasser Pwned&lt;Tweet&gt;",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966150460280221700,
+   "in_reply_to_status_id_str": "966150460280221696",
+   "in_reply_to_screen_name": "fdsmars",
+   "urls": []
+  },
+  {
+   "id": 966149383229091800,
+   "id_str": "966149383229091841",
+   "created_at": "Wed Feb 21 03:15:37 +0000 2018",
+   "text": "@devongovett @svinkle @jkup Makes sense, standardizing sounds like the right path.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966148819862700000,
+   "in_reply_to_status_id_str": "966148819862700032",
+   "in_reply_to_screen_name": "devongovett",
+   "urls": []
+  },
+  {
+   "id": 966148505730302000,
+   "id_str": "966148505730301952",
+   "created_at": "Wed Feb 21 03:12:08 +0000 2018",
+   "text": "@bmeurer @wSokra Precisely. I mean, it makes sense here. (At least in our perspective, and given constraints), but… https://t.co/dM3kUXen5d",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966147724751056900,
+   "in_reply_to_status_id_str": "966147724751056896",
+   "in_reply_to_screen_name": "bmeurer",
+   "urls": [
+    {
+     "url": "https://t.co/dM3kUXen5d",
+     "expand": "https://twitter.com/i/web/status/966148505730301952"
+    }
+   ]
+  },
+  {
+   "id": 966147128018939900,
+   "id_str": "966147128018939904",
+   "created_at": "Wed Feb 21 03:06:40 +0000 2018",
+   "text": "@devongovett @svinkle @jkup Only question is, does source delegate module or not. Because source stage vs modules o… https://t.co/8GQ1wYHXmx",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966145874379206700,
+   "in_reply_to_status_id_str": "966145874379206656",
+   "in_reply_to_screen_name": "devongovett",
+   "urls": [
+    {
+     "url": "https://t.co/8GQ1wYHXmx",
+     "expand": "https://twitter.com/i/web/status/966147128018939904"
+    }
+   ]
+  },
+  {
+   "id": 966143681152540700,
+   "id_str": "966143681152540673",
+   "created_at": "Wed Feb 21 02:52:58 +0000 2018",
+   "text": "Literally our dog attacks any stuffed animal puppet. 😂😂😂 https://t.co/RdPVuwFrYo",
+   "retweet_count": 0,
+   "favorite_count": 20,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966130504083824600,
+   "id_str": "966130504083824640",
+   "created_at": "Wed Feb 21 02:00:36 +0000 2018",
+   "text": "@AskLyft  https://t.co/eYRgrObuIs",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Sammamish, WA",
+   "in_reply_to_status_id": 966121831487782900,
+   "in_reply_to_status_id_str": "966121831487782912",
+   "in_reply_to_screen_name": "AskLyft",
+   "urls": []
+  },
+  {
+   "id": 966121484644098000,
+   "id_str": "966121484644098050",
+   "created_at": "Wed Feb 21 01:24:46 +0000 2018",
+   "text": "@AskLyft **Driver** got off with a warning and I'm safe for sure. So no need to follow up on safety line.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966120808681676800,
+   "in_reply_to_status_id_str": "966120808681676801",
+   "in_reply_to_screen_name": "AskLyft",
+   "urls": []
+  },
+  {
+   "id": 966121210697343000,
+   "id_str": "966121210697342976",
+   "created_at": "Wed Feb 21 01:23:40 +0000 2018",
+   "text": "Want to know how we will implement persistent and reusable caching in #webpack 5? https://t.co/ATNnYJ7uCv… https://t.co/0u0ukl2Iho",
+   "retweet_count": 6,
+   "favorite_count": 32,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ATNnYJ7uCv",
+     "expand": "https://github.com/webpack/webpack/issues/6527"
+    },
+    {
+     "url": "https://t.co/0u0ukl2Iho",
+     "expand": "https://twitter.com/i/web/status/966121210697342976"
+    }
+   ]
+  },
+  {
+   "id": 966119802468147200,
+   "id_str": "966119802468147208",
+   "created_at": "Wed Feb 21 01:18:05 +0000 2018",
+   "text": "First time experience: being in @lyft,  and cop pulling over driver.\n\nY I K E S",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966116964664991700,
+   "id_str": "966116964664991744",
+   "created_at": "Wed Feb 21 01:06:48 +0000 2018",
+   "text": "@jkup @svinkle @PostCSS Yup. If you are using Vue w/ the rest of Adobe and Behance slowly migrating over. You'll se… https://t.co/VuiiIbLrZp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966116653640462300,
+   "in_reply_to_status_id_str": "966116653640462336",
+   "in_reply_to_screen_name": "jkup",
+   "urls": [
+    {
+     "url": "https://t.co/VuiiIbLrZp",
+     "expand": "https://twitter.com/i/web/status/966116964664991744"
+    }
+   ]
+  },
+  {
+   "id": 966116258029609000,
+   "id_str": "966116258029608965",
+   "created_at": "Wed Feb 21 01:04:00 +0000 2018",
+   "text": "@jkup @svinkle @PostCSS Ya, so this is where it gets tricky. You could in that case also ship your first class choi… https://t.co/1Fhly0oNOq",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966115738179158000,
+   "in_reply_to_status_id_str": "966115738179158016",
+   "in_reply_to_screen_name": "jkup",
+   "urls": [
+    {
+     "url": "https://t.co/1Fhly0oNOq",
+     "expand": "https://twitter.com/i/web/status/966116258029608965"
+    }
+   ]
+  },
+  {
+   "id": 966115932048302100,
+   "id_str": "966115932048302080",
+   "created_at": "Wed Feb 21 01:02:42 +0000 2018",
+   "text": "@jkup @svinkle @PostCSS Until css has a first class module system, its just pain all the way down anyways.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966115467487191000,
+   "in_reply_to_status_id_str": "966115467487191041",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966115467487191000,
+   "id_str": "966115467487191041",
+   "created_at": "Wed Feb 21 01:00:51 +0000 2018",
+   "text": "@jkup @svinkle That's more of a \"technology choices\" realm. For css stuff. I steer towards either @PostCSS or just… https://t.co/DCOzfNoiU5",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966114883489079300,
+   "in_reply_to_status_id_str": "966114883489079298",
+   "in_reply_to_screen_name": "jkup",
+   "urls": [
+    {
+     "url": "https://t.co/DCOzfNoiU5",
+     "expand": "https://twitter.com/i/web/status/966115467487191041"
+    }
+   ]
+  },
+  {
+   "id": 966114451765174300,
+   "id_str": "966114451765174273",
+   "created_at": "Wed Feb 21 00:56:49 +0000 2018",
+   "text": "@jkup @svinkle So ofcourse, this frustrates people to hear but I say: \"It depends on who your consumer is\". If the… https://t.co/8xfnjUoyYB",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966114126496899100,
+   "in_reply_to_status_id_str": "966114126496899072",
+   "in_reply_to_screen_name": "jkup",
+   "urls": [
+    {
+     "url": "https://t.co/8xfnjUoyYB",
+     "expand": "https://twitter.com/i/web/status/966114451765174273"
+    }
+   ]
+  },
+  {
+   "id": 966113720345665500,
+   "id_str": "966113720345665537",
+   "created_at": "Wed Feb 21 00:53:55 +0000 2018",
+   "text": "@svinkle @jkup My take: (PS: there is no standard so of course no one agrees): \n\nEverything should have a \"backdoor… https://t.co/MYPtw7cL0O",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 966112887407304700,
+   "in_reply_to_status_id_str": "966112887407304704",
+   "in_reply_to_screen_name": "svinkle",
+   "urls": [
+    {
+     "url": "https://t.co/MYPtw7cL0O",
+     "expand": "https://twitter.com/i/web/status/966113720345665537"
+    }
+   ]
+  },
+  {
+   "id": 966091089923924000,
+   "id_str": "966091089923923968",
+   "created_at": "Tue Feb 20 23:23:59 +0000 2018",
+   "text": "RT @noopkat: also @sarah_edo has inspired me to give @vuejs a try, so here we go 😳",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965766128332140500,
+    "id_str": "965766128332140544",
+    "created_at": "Tue Feb 20 01:52:42 +0000 2018",
+    "text": "also @sarah_edo has inspired me to give @vuejs a try, so here we go 😳",
+    "retweet_count": 1,
+    "favorite_count": 35,
+    "place": null,
+    "in_reply_to_status_id": 965765048307273700,
+    "in_reply_to_status_id_str": "965765048307273728",
+    "in_reply_to_screen_name": "noopkat",
+    "urls": []
+   }
+  },
+  {
+   "id": 966090620514197500,
+   "id_str": "966090620514197504",
+   "created_at": "Tue Feb 20 23:22:07 +0000 2018",
+   "text": "RT @dhh: Why I started the “On Writing Software Well” series. https://t.co/1vuJY7Eaw4 https://t.co/kcxiCVybZz",
+   "retweet_count": 198,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1vuJY7Eaw4",
+     "expand": "https://m.signalvnoise.com/on-writing-software-well-aee3780767a6"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966015538165141500,
+    "id_str": "966015538165141506",
+    "created_at": "Tue Feb 20 18:23:46 +0000 2018",
+    "text": "Why I started the “On Writing Software Well” series. https://t.co/1vuJY7Eaw4 https://t.co/kcxiCVybZz",
+    "retweet_count": 198,
+    "favorite_count": 768,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1vuJY7Eaw4",
+      "expand": "https://m.signalvnoise.com/on-writing-software-well-aee3780767a6"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966090611236339700,
+   "id_str": "966090611236339712",
+   "created_at": "Tue Feb 20 23:22:05 +0000 2018",
+   "text": "Essentially #webpack https://t.co/r3dSbIKjaJ",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r3dSbIKjaJ",
+     "expand": "https://twitter.com/dhh/status/966015538165141506"
+    }
+   ]
+  },
+  {
+   "id": 966090268372971500,
+   "id_str": "966090268372971520",
+   "created_at": "Tue Feb 20 23:20:43 +0000 2018",
+   "text": "RT @Caleb__Eli: White people : black people are doing too much. Wakanda doesn't even exist. \n\nBlack people : Neither does Hogwarts. \n\nWhite…",
+   "retweet_count": 125666,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965813365917536300,
+    "id_str": "965813365917536256",
+    "created_at": "Tue Feb 20 05:00:25 +0000 2018",
+    "text": "White people : black people are doing too much. Wakanda doesn't even exist. \n\nBlack people : Neither does Hogwarts.… https://t.co/1oo4TePfgG",
+    "retweet_count": 125666,
+    "favorite_count": 328477,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1oo4TePfgG",
+      "expand": "https://twitter.com/i/web/status/965813365917536256"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966083127658479600,
+   "id_str": "966083127658479618",
+   "created_at": "Tue Feb 20 22:52:21 +0000 2018",
+   "text": "RT @LadieAuPair: I am so excited that we have launched our #GamingForEveryone website with spaces for each community 💚\n\nCheck it out, share…",
+   "retweet_count": 38,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966058103828504600,
+    "id_str": "966058103828504576",
+    "created_at": "Tue Feb 20 21:12:55 +0000 2018",
+    "text": "I am so excited that we have launched our #GamingForEveryone website with spaces for each community 💚\n\nCheck it out… https://t.co/A8fIuuf9Wj",
+    "retweet_count": 38,
+    "favorite_count": 54,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/A8fIuuf9Wj",
+      "expand": "https://twitter.com/i/web/status/966058103828504576"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966083052404400100,
+   "id_str": "966083052404400128",
+   "created_at": "Tue Feb 20 22:52:03 +0000 2018",
+   "text": "@sarah_federman Congrats regardless :-D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966083002483671000,
+   "in_reply_to_status_id_str": "966083002483671040",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 966083002483671000,
+   "id_str": "966083002483671040",
+   "created_at": "Tue Feb 20 22:51:51 +0000 2018",
+   "text": "@sarah_federman Aw thats too bad!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966082849773256700,
+   "in_reply_to_status_id_str": "966082849773256705",
+   "in_reply_to_screen_name": "sarah_federman",
+   "urls": []
+  },
+  {
+   "id": 966082961568276500,
+   "id_str": "966082961568276480",
+   "created_at": "Tue Feb 20 22:51:41 +0000 2018",
+   "text": "@rasliche @adamwathan @tailwindcss @vuejs @import 👏\n\n👏\n\n👏\n\n👏\n\n👏\n\n👏\n\n👏",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966082536433684500,
+   "in_reply_to_status_id_str": "966082536433684481",
+   "in_reply_to_screen_name": "rasliche",
+   "urls": []
+  },
+  {
+   "id": 966082740729737200,
+   "id_str": "966082740729737216",
+   "created_at": "Tue Feb 20 22:50:48 +0000 2018",
+   "text": "@sarah_federman Is it public and can you share it? :-D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965837145184264200,
+   "in_reply_to_status_id_str": "965837145184264192",
+   "in_reply_to_screen_name": "sarah_federman",
+   "urls": []
+  },
+  {
+   "id": 966082297618300900,
+   "id_str": "966082297618300928",
+   "created_at": "Tue Feb 20 22:49:03 +0000 2018",
+   "text": "@tomdale I think you've exhausted all your points here. This being the best, and they are all worthy.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966045543112872000,
+   "in_reply_to_status_id_str": "966045543112871937",
+   "in_reply_to_screen_name": "tomdale",
+   "urls": []
+  },
+  {
+   "id": 966082183872917500,
+   "id_str": "966082183872917505",
+   "created_at": "Tue Feb 20 22:48:36 +0000 2018",
+   "text": "RT @tomdale: I'll go a step further: insistence on human-readable formats on the web is a pretty intense display of Western privilege. Bina…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966045543112872000,
+    "id_str": "966045543112871937",
+    "created_at": "Tue Feb 20 20:23:00 +0000 2018",
+    "text": "I'll go a step further: insistence on human-readable formats on the web is a pretty intense display of Western priv… https://t.co/uJTl4FPVaF",
+    "retweet_count": 18,
+    "favorite_count": 90,
+    "place": null,
+    "in_reply_to_status_id": 966043238909009900,
+    "in_reply_to_status_id_str": "966043238909009925",
+    "in_reply_to_screen_name": "tomdale",
+    "urls": [
+     {
+      "url": "https://t.co/uJTl4FPVaF",
+      "expand": "https://twitter.com/i/web/status/966045543112871937"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966080575688687600,
+   "id_str": "966080575688687616",
+   "created_at": "Tue Feb 20 22:42:12 +0000 2018",
+   "text": "RT @GabeRicard: I finally got #webpack 4 to work (sort of) in our setup, at least enough to do a test build. Speed up was 35s -&gt; 11s. I did…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966047780027367400,
+    "id_str": "966047780027367425",
+    "created_at": "Tue Feb 20 20:31:53 +0000 2018",
+    "text": "I finally got #webpack 4 to work (sort of) in our setup, at least enough to do a test build. Speed up was 35s -&gt; 11… https://t.co/oxRoWXlpzE",
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oxRoWXlpzE",
+      "expand": "https://twitter.com/i/web/status/966047780027367425"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966080502212935700,
+   "id_str": "966080502212935680",
+   "created_at": "Tue Feb 20 22:41:55 +0000 2018",
+   "text": "Why we see #webpack presets in v4.x-5 being a really big deal for people :-D https://t.co/2r3nrEQ2DU",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2r3nrEQ2DU",
+     "expand": "https://twitter.com/housecor/status/966016709378433024"
+    }
+   ]
+  },
+  {
+   "id": 966080371803668500,
+   "id_str": "966080371803668480",
+   "created_at": "Tue Feb 20 22:41:24 +0000 2018",
+   "text": "@schillerdesigns Nice work! Was there something on our end we could make easier to avoid those errors?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966056153179480000,
+   "in_reply_to_status_id_str": "966056153179480064",
+   "in_reply_to_screen_name": "schillerdesigns",
+   "urls": []
+  },
+  {
+   "id": 966079989270507500,
+   "id_str": "966079989270507520",
+   "created_at": "Tue Feb 20 22:39:52 +0000 2018",
+   "text": "@rasliche @adamwathan @tailwindcss @vuejs Learning more about webpack first: https://t.co/gokGy1Zy8M,… https://t.co/rk9vivZ7IO",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966074806801260500,
+   "in_reply_to_status_id_str": "966074806801260544",
+   "in_reply_to_screen_name": "rasliche",
+   "urls": [
+    {
+     "url": "https://t.co/gokGy1Zy8M",
+     "expand": "http://webpack.academy"
+    },
+    {
+     "url": "https://t.co/rk9vivZ7IO",
+     "expand": "https://twitter.com/i/web/status/966079989270507520"
+    }
+   ]
+  },
+  {
+   "id": 966079386314158100,
+   "id_str": "966079386314158080",
+   "created_at": "Tue Feb 20 22:37:29 +0000 2018",
+   "text": "@amirrajan Just out of a google search, otherwise I haven't used, or heard of it besides.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966079143526961200,
+   "in_reply_to_status_id_str": "966079143526961152",
+   "in_reply_to_screen_name": "amirrajan",
+   "urls": []
+  },
+  {
+   "id": 966078973162659800,
+   "id_str": "966078973162659840",
+   "created_at": "Tue Feb 20 22:35:50 +0000 2018",
+   "text": "@amirrajan Is this closurescript related?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966077851823984600,
+   "in_reply_to_status_id_str": "966077851823984641",
+   "in_reply_to_screen_name": "amirrajan",
+   "urls": []
+  },
+  {
+   "id": 966078743130222600,
+   "id_str": "966078743130222592",
+   "created_at": "Tue Feb 20 22:34:55 +0000 2018",
+   "text": "Not only that, but @wsokra defined very well what we were trying to accomplish as we talk about the changes we made… https://t.co/KoLWMfQgFh",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 966077693467926500,
+   "in_reply_to_status_id_str": "966077693467926528",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/KoLWMfQgFh",
+     "expand": "https://twitter.com/i/web/status/966078743130222592"
+    }
+   ]
+  },
+  {
+   "id": 966077693467926500,
+   "id_str": "966077693467926528",
+   "created_at": "Tue Feb 20 22:30:45 +0000 2018",
+   "text": "People have been curious about what we did in #webpack to make it so much faster in v4. \n\nThis kind of monomorphic… https://t.co/fB4g0lpTPV",
+   "retweet_count": 0,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fB4g0lpTPV",
+     "expand": "https://twitter.com/i/web/status/966077693467926528"
+    }
+   ]
+  },
+  {
+   "id": 966077010958196700,
+   "id_str": "966077010958196736",
+   "created_at": "Tue Feb 20 22:28:02 +0000 2018",
+   "text": "@ericnakagawa @probablyup Read higher up in the thread from that post, but my quote here is that as this informatio… https://t.co/1Nmq3BbcVp",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966073986533662700,
+   "in_reply_to_status_id_str": "966073986533662720",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/1Nmq3BbcVp",
+     "expand": "https://twitter.com/i/web/status/966077010958196736"
+    }
+   ]
+  },
+  {
+   "id": 966075293461921800,
+   "id_str": "966075293461921792",
+   "created_at": "Tue Feb 20 22:21:13 +0000 2018",
+   "text": "@jesselpalmer I have not yet! I've been going through a lot of our material we have at MS which embody our efforts… https://t.co/3HVfhk4Xa4",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966073765179277300,
+   "in_reply_to_status_id_str": "966073765179277314",
+   "in_reply_to_screen_name": "jesselpalmer",
+   "urls": [
+    {
+     "url": "https://t.co/3HVfhk4Xa4",
+     "expand": "https://twitter.com/i/web/status/966075293461921792"
+    }
+   ]
+  },
+  {
+   "id": 966075082262003700,
+   "id_str": "966075082262003712",
+   "created_at": "Tue Feb 20 22:20:23 +0000 2018",
+   "text": "@amirrajan No harm done at all. My only goal is ensuring you are helped :-D. We take criticism humbly at webpack! :… https://t.co/OZgcESxxxq",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966074804599214100,
+   "in_reply_to_status_id_str": "966074804599214086",
+   "in_reply_to_screen_name": "amirrajan",
+   "urls": [
+    {
+     "url": "https://t.co/OZgcESxxxq",
+     "expand": "https://twitter.com/i/web/status/966075082262003712"
+    }
+   ]
+  },
+  {
+   "id": 966074226611335200,
+   "id_str": "966074226611335168",
+   "created_at": "Tue Feb 20 22:16:59 +0000 2018",
+   "text": "@ardennl @kylemathews @robwierzbowski And there is the sideEffects feature which can significantly reduce the size of bundles etc.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 965872399387430900,
+   "in_reply_to_status_id_str": "965872399387430912",
+   "in_reply_to_screen_name": "ardennl",
+   "urls": []
+  },
+  {
+   "id": 966073986533662700,
+   "id_str": "966073986533662720",
+   "created_at": "Tue Feb 20 22:16:01 +0000 2018",
+   "text": "@ericnakagawa @probablyup #webpack 4 :-D \n\nThere are a lot of things we did, some with very high levels of metaprog… https://t.co/8VgwDe65aT",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966057767646609400,
+   "in_reply_to_status_id_str": "966057767646609409",
+   "in_reply_to_screen_name": "ericnakagawa",
+   "urls": [
+    {
+     "url": "https://t.co/8VgwDe65aT",
+     "expand": "https://twitter.com/i/web/status/966073986533662720"
+    }
+   ]
+  },
+  {
+   "id": 966073433212645400,
+   "id_str": "966073433212645376",
+   "created_at": "Tue Feb 20 22:13:49 +0000 2018",
+   "text": "@ManuelBieh I think most find that you can collaborate more confidently, and not fear of failure, and out of the box thinking etc.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966067089319583700,
+   "in_reply_to_status_id_str": "966067089319583750",
+   "in_reply_to_screen_name": "ManuelBieh",
+   "urls": []
+  },
+  {
+   "id": 966073065401589800,
+   "id_str": "966073065401589760",
+   "created_at": "Tue Feb 20 22:12:22 +0000 2018",
+   "text": "Exactly, I think also, those \"old school devs\" still are living in a Fixed Mindset, where they: \n\n* Fear reaching o… https://t.co/wnpTVgWCK8",
+   "retweet_count": 6,
+   "favorite_count": 39,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wnpTVgWCK8",
+     "expand": "https://twitter.com/i/web/status/966073065401589760"
+    }
+   ]
+  },
+  {
+   "id": 966072585610932200,
+   "id_str": "966072585610932224",
+   "created_at": "Tue Feb 20 22:10:27 +0000 2018",
+   "text": "@cdiddy42 There might be other teams who do remote work! See anyone under @Azure",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966072426315460600,
+   "in_reply_to_status_id_str": "966072426315460608",
+   "in_reply_to_screen_name": "cdiddy42",
+   "urls": []
+  },
+  {
+   "id": 966067412658344000,
+   "id_str": "966067412658343936",
+   "created_at": "Tue Feb 20 21:49:54 +0000 2018",
+   "text": "\"The moment we believe that success is determined by an ingrained level of ability, we will be brittle in the face… https://t.co/J6fWgDMcGS",
+   "retweet_count": 1,
+   "favorite_count": 7,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966066283807522800,
+   "in_reply_to_status_id_str": "966066283807522817",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/J6fWgDMcGS",
+     "expand": "https://twitter.com/i/web/status/966067412658343936"
+    }
+   ]
+  },
+  {
+   "id": 966066283807522800,
+   "id_str": "966066283807522817",
+   "created_at": "Tue Feb 20 21:45:25 +0000 2018",
+   "text": "Heck I think what scares the shit out of people when it comes to #JavaScript is that it literally encapsulates Grow… https://t.co/R3xAxqA09e",
+   "retweet_count": 1,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/R3xAxqA09e",
+     "expand": "https://twitter.com/i/web/status/966066283807522817"
+    }
+   ]
+  },
+  {
+   "id": 966065666586435600,
+   "id_str": "966065666586435584",
+   "created_at": "Tue Feb 20 21:42:58 +0000 2018",
+   "text": "@amirrajan We have a great set of documentation for this if you are interested, or have seen them: https://t.co/9W7lY9VcJX",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966064794255216600,
+   "in_reply_to_status_id_str": "966064794255216641",
+   "in_reply_to_screen_name": "amirrajan",
+   "urls": [
+    {
+     "url": "https://t.co/9W7lY9VcJX",
+     "expand": "https://webpack.js.org/concepts/hot-module-replacement/"
+    }
+   ]
+  },
+  {
+   "id": 966065220383776800,
+   "id_str": "966065220383776768",
+   "created_at": "Tue Feb 20 21:41:11 +0000 2018",
+   "text": "I really have fallen in love with the concept of having a Growth mindset: \n\nThe belief that your abilities can grow… https://t.co/tS3xHesBBH",
+   "retweet_count": 18,
+   "favorite_count": 131,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tS3xHesBBH",
+     "expand": "https://twitter.com/i/web/status/966065220383776768"
+    }
+   ]
+  },
+  {
+   "id": 966056381831770100,
+   "id_str": "966056381831770112",
+   "created_at": "Tue Feb 20 21:06:04 +0000 2018",
+   "text": "@FernandoSamitha No problem, and then also you can check out https://t.co/mC1zZW9C3f to see some of the What's new… https://t.co/CRkxsJ50VM",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966055512696545300,
+   "in_reply_to_status_id_str": "966055512696545280",
+   "in_reply_to_screen_name": "FernandoSamitha",
+   "urls": [
+    {
+     "url": "https://t.co/mC1zZW9C3f",
+     "expand": "http://medium.com/webpack"
+    },
+    {
+     "url": "https://t.co/CRkxsJ50VM",
+     "expand": "https://twitter.com/i/web/status/966056381831770112"
+    }
+   ]
+  },
+  {
+   "id": 966055421277495300,
+   "id_str": "966055421277495296",
+   "created_at": "Tue Feb 20 21:02:15 +0000 2018",
+   "text": "@FernandoSamitha The best place to start is change log under \"releases\" on https://t.co/t0wlwevLUc",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Redmond, WA",
+   "in_reply_to_status_id": 966055145359392800,
+   "in_reply_to_status_id_str": "966055145359392768",
+   "in_reply_to_screen_name": "FernandoSamitha",
+   "urls": [
+    {
+     "url": "https://t.co/t0wlwevLUc",
+     "expand": "http://github.com/webpack/webpack"
+    }
+   ]
+  },
+  {
+   "id": 966055237273272300,
+   "id_str": "966055237273272320",
+   "created_at": "Tue Feb 20 21:01:31 +0000 2018",
+   "text": "RT @shellscape: Would you like to see more consistency in webpack's output? Please voice your thoughts: https://t.co/MexYzrTviW",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MexYzrTviW",
+     "expand": "https://github.com/webpack/webpack/issues/6534"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966026758121193500,
+    "id_str": "966026758121193472",
+    "created_at": "Tue Feb 20 19:08:21 +0000 2018",
+    "text": "Would you like to see more consistency in webpack's output? Please voice your thoughts: https://t.co/MexYzrTviW",
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MexYzrTviW",
+      "expand": "https://github.com/webpack/webpack/issues/6534"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966055171972202500,
+   "id_str": "966055171972202496",
+   "created_at": "Tue Feb 20 21:01:16 +0000 2018",
+   "text": "@amirrajan #webpack and HMR alone are typically not the complex pieces, but the framework requirements or pieces ar… https://t.co/pryaHlCQ5i",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966041630485766100,
+   "in_reply_to_status_id_str": "966041630485766144",
+   "in_reply_to_screen_name": "amirrajan",
+   "urls": [
+    {
+     "url": "https://t.co/pryaHlCQ5i",
+     "expand": "https://twitter.com/i/web/status/966055171972202496"
+    }
+   ]
+  },
+  {
+   "id": 966054669314240500,
+   "id_str": "966054669314240512",
+   "created_at": "Tue Feb 20 20:59:16 +0000 2018",
+   "text": "@GabeRicard Oooooo ooo which pieces are struggling?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Bellevue, WA",
+   "in_reply_to_status_id": 966047780027367400,
+   "in_reply_to_status_id_str": "966047780027367425",
+   "in_reply_to_screen_name": "GabeRicard",
    "urls": []
   }
  ]

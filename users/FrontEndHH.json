@@ -1,29 +1,80 @@
 {
- "time": 1518870386375,
+ "time": 1519367051302,
  "lists": [
   {
-   "id": 964577024101593100,
-   "id_str": "964577024101593088",
-   "created_at": "Fri Feb 16 19:07:38 +0000 2018",
-   "text": "RT @burgessdryan: Happy #ChineseNewYear https://t.co/XhsNmEiRCV",
-   "retweet_count": 3,
+   "id": 966808095983747100,
+   "id_str": "966808095983747072",
+   "created_at": "Thu Feb 22 22:53:07 +0000 2018",
+   "text": "RT @burgessdryan: Are you interested in A/B testing your code? We do a lot of A/B testing at #Netflix. My  team is looking for #JavaScript…",
+   "retweet_count": 16,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964576447904890900,
-    "id_str": "964576447904890880",
-    "created_at": "Fri Feb 16 19:05:20 +0000 2018",
-    "text": "Happy #ChineseNewYear https://t.co/XhsNmEiRCV",
-    "retweet_count": 3,
-    "favorite_count": 43,
+    "id": 966807614930718700,
+    "id_str": "966807614930718721",
+    "created_at": "Thu Feb 22 22:51:12 +0000 2018",
+    "text": "Are you interested in A/B testing your code? We do a lot of A/B testing at #Netflix. My  team is looking for… https://t.co/kLwdOR7SSU",
+    "retweet_count": 16,
+    "favorite_count": 37,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
-    "urls": []
+    "urls": [
+     {
+      "url": "https://t.co/kLwdOR7SSU",
+      "expand": "https://twitter.com/i/web/status/966807614930718721"
+     }
+    ]
    }
+  },
+  {
+   "id": 966686664901840900,
+   "id_str": "966686664901840897",
+   "created_at": "Thu Feb 22 14:50:35 +0000 2018",
+   "text": "@areddicks1014 Good luck on the interviews!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966685403452526600,
+   "in_reply_to_status_id_str": "966685403452526593",
+   "in_reply_to_screen_name": "areddicks1014",
+   "urls": []
+  },
+  {
+   "id": 965654717656285200,
+   "id_str": "965654717656285184",
+   "created_at": "Mon Feb 19 18:30:00 +0000 2018",
+   "text": "@d4m1n Thanks 🙏",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965638309119713300,
+   "in_reply_to_status_id_str": "965638309119713286",
+   "in_reply_to_screen_name": "d4m1n",
+   "urls": []
+  },
+  {
+   "id": 965617859240996900,
+   "id_str": "965617859240996864",
+   "created_at": "Mon Feb 19 16:03:32 +0000 2018",
+   "text": "We released a brand new episode https://t.co/xjCP30rrlg #javascript #webdev #frontend",
+   "retweet_count": 22,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xjCP30rrlg",
+     "expand": "http://frontendhappyhour.com/episodes/gin-and-toxic-culture/"
+    }
+   ]
   }
  ]
 }

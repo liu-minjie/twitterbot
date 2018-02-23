@@ -1,6 +1,55 @@
 {
- "time": 1518873198907,
+ "time": 1519367059652,
  "lists": [
+  {
+   "id": 966696161196236800,
+   "id_str": "966696161196236800",
+   "created_at": "Thu Feb 22 15:28:19 +0000 2018",
+   "text": "@ben336 - Please keep me posted on the CS content. I've very interested. Are you aware of this content? https://t.co/lfA7VFgZNk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "ben336",
+   "urls": [
+    {
+     "url": "https://t.co/lfA7VFgZNk",
+     "expand": "https://frontendmasters.com/courses/computer-science/"
+    }
+   ]
+  },
+  {
+   "id": 966289328258236400,
+   "id_str": "966289328258236416",
+   "created_at": "Wed Feb 21 12:31:43 +0000 2018",
+   "text": "RT @cpojer: React is the first web framework that *successfully* abstracted away DOM manipulation enough to allow the community to think mo…",
+   "retweet_count": 169,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966058023025283100,
+    "id_str": "966058023025283073",
+    "created_at": "Tue Feb 20 21:12:35 +0000 2018",
+    "text": "React is the first web framework that *successfully* abstracted away DOM manipulation enough to allow the community… https://t.co/yR292LlQuE",
+    "retweet_count": 169,
+    "favorite_count": 730,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yR292LlQuE",
+      "expand": "https://twitter.com/i/web/status/966058023025283073"
+     }
+    ]
+   }
+  },
   {
    "id": 964541939000393700,
    "id_str": "964541939000393729",
@@ -10,6 +59,7 @@
    "favorite_count": 2,
    "place": null,
    "in_reply_to_status_id": 964541201234911200,
+   "in_reply_to_status_id_str": "964541201234911233",
    "in_reply_to_screen_name": "mjackson",
    "urls": []
   }

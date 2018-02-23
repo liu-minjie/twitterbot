@@ -1,15 +1,410 @@
 {
- "time": 1518873195512,
+ "time": 1519367053836,
  "lists": [
+  {
+   "id": 966916440518377500,
+   "id_str": "966916440518377472",
+   "created_at": "Fri Feb 23 06:03:38 +0000 2018",
+   "text": "@_shu I may have oversimplified my tweet a bit. I think the major win actually comes from that we can throw away pa… https://t.co/QnHazZDGEm",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966911115182534700,
+   "in_reply_to_status_id_str": "966911115182534670",
+   "in_reply_to_screen_name": "_shu",
+   "urls": [
+    {
+     "url": "https://t.co/QnHazZDGEm",
+     "expand": "https://twitter.com/i/web/status/966916440518377472"
+    }
+   ]
+  },
+  {
+   "id": 966874782049255400,
+   "id_str": "966874782049255424",
+   "created_at": "Fri Feb 23 03:18:06 +0000 2018",
+   "text": "@Vjeux Ah, but it's not incrementing and decrementing that matters, but getting to that function. E.g. invoking fin… https://t.co/BlnrnaZUTU",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966873170308296700,
+   "in_reply_to_status_id_str": "966873170308296704",
+   "in_reply_to_screen_name": "Vjeux",
+   "urls": [
+    {
+     "url": "https://t.co/BlnrnaZUTU",
+     "expand": "https://twitter.com/i/web/status/966874782049255424"
+    }
+   ]
+  },
+  {
+   "id": 966867903046824000,
+   "id_str": "966867903046823937",
+   "created_at": "Fri Feb 23 02:50:46 +0000 2018",
+   "text": "Tracing GC has a lot of qualities that makes it more performant than ref counting, in many ways. For I/O we typical… https://t.co/XsnYBYTqi3",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XsnYBYTqi3",
+     "expand": "https://twitter.com/i/web/status/966867903046823937"
+    }
+   ]
+  },
+  {
+   "id": 966460878873874400,
+   "id_str": "966460878873874433",
+   "created_at": "Wed Feb 21 23:53:24 +0000 2018",
+   "text": "@TheLarkInn No I'm referring to differences in the semantics of the code running the module scope ignoring differen… https://t.co/V8QL3OPthI",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966457449271083000,
+   "in_reply_to_status_id_str": "966457449271083008",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/V8QL3OPthI",
+     "expand": "https://twitter.com/i/web/status/966460878873874433"
+    }
+   ]
+  },
+  {
+   "id": 966456744737169400,
+   "id_str": "966456744737169408",
+   "created_at": "Wed Feb 21 23:36:58 +0000 2018",
+   "text": "@TheLarkInn If you ignore the resolution mechanism, there are still other semantic differences. Are things in local… https://t.co/Kjc8QZREUY",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966452618238177300,
+   "in_reply_to_status_id_str": "966452618238177280",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/Kjc8QZREUY",
+     "expand": "https://twitter.com/i/web/status/966456744737169408"
+    }
+   ]
+  },
+  {
+   "id": 966431802243059700,
+   "id_str": "966431802243059717",
+   "created_at": "Wed Feb 21 21:57:51 +0000 2018",
+   "text": "Despite the controversy I do appreciate Node.js sticking to the semantics defined by spec, for better or worse. For this reason.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 966431428291547100,
+   "in_reply_to_status_id_str": "966431428291547137",
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": []
+  },
+  {
+   "id": 966431428291547100,
+   "id_str": "966431428291547137",
+   "created_at": "Wed Feb 21 21:56:22 +0000 2018",
+   "text": "I wish CommonJS was a bit more common. :) There are so many subtle differences between Node.js and packagers, and b… https://t.co/m5IMYrR7xH",
+   "retweet_count": 4,
+   "favorite_count": 28,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/m5IMYrR7xH",
+     "expand": "https://twitter.com/i/web/status/966431428291547137"
+    }
+   ]
+  },
+  {
+   "id": 966158320036794400,
+   "id_str": "966158320036794368",
+   "created_at": "Wed Feb 21 03:51:08 +0000 2018",
+   "text": "@rossipedia @ManishEarth A lot of text inputs are contentEditable and checkboxes are also at the very least possibl… https://t.co/fdgNiubUvg",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966139197596745700,
+   "in_reply_to_status_id_str": "966139197596745728",
+   "in_reply_to_screen_name": "rossipedia",
+   "urls": [
+    {
+     "url": "https://t.co/fdgNiubUvg",
+     "expand": "https://twitter.com/i/web/status/966158320036794368"
+    }
+   ]
+  },
+  {
+   "id": 966091192478851100,
+   "id_str": "966091192478851072",
+   "created_at": "Tue Feb 20 23:24:24 +0000 2018",
+   "text": "@ManishEarth This was a controversial change for many reasons when we added shadowing properties into attributes in… https://t.co/xmJSzvki9F",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966080113749053400,
+   "in_reply_to_status_id_str": "966080113749053440",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": [
+    {
+     "url": "https://t.co/xmJSzvki9F",
+     "expand": "https://twitter.com/i/web/status/966091192478851072"
+    }
+   ]
+  },
+  {
+   "id": 966023402287804400,
+   "id_str": "966023402287804416",
+   "created_at": "Tue Feb 20 18:55:01 +0000 2018",
+   "text": "@ryanflorence @stephenrivasjr @mjackson @rauchg I have to say that @Storyville in Seattle is my all time favorite t… https://t.co/HgDMzSUULV",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966023020098723800,
+   "in_reply_to_status_id_str": "966023020098723840",
+   "in_reply_to_screen_name": "ryanflorence",
+   "urls": [
+    {
+     "url": "https://t.co/HgDMzSUULV",
+     "expand": "https://twitter.com/i/web/status/966023402287804416"
+    }
+   ]
+  },
+  {
+   "id": 966022293519347700,
+   "id_str": "966022293519347712",
+   "created_at": "Tue Feb 20 18:50:37 +0000 2018",
+   "text": "@stephenrivasjr @mjackson @ryanflorence @rauchg I was there yesterday. Agree.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966021443313111000,
+   "in_reply_to_status_id_str": "966021443313111040",
+   "in_reply_to_screen_name": "stephenrivasjr",
+   "urls": []
+  },
+  {
+   "id": 966019006900482000,
+   "id_str": "966019006900482048",
+   "created_at": "Tue Feb 20 18:37:33 +0000 2018",
+   "text": "@ryanflorence @rauchg You casually have breakfast sandwiches with The @rauchg? 😮🍳🥪 What’d you get?",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966015762530951200,
+   "in_reply_to_status_id_str": "966015762530951168",
+   "in_reply_to_screen_name": "ryanflorence",
+   "urls": []
+  },
+  {
+   "id": 966018693946724400,
+   "id_str": "966018693946724352",
+   "created_at": "Tue Feb 20 18:36:19 +0000 2018",
+   "text": "RT @zeithq: A one-day event for our community. April 28th, 2018.\nhttps://t.co/SO3NLtybyW https://t.co/PabZOY35Cz",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SO3NLtybyW",
+     "expand": "https://zeit.co/day"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966009184901677000,
+    "id_str": "966009184901677056",
+    "created_at": "Tue Feb 20 17:58:31 +0000 2018",
+    "text": "A one-day event for our community. April 28th, 2018.\nhttps://t.co/SO3NLtybyW https://t.co/PabZOY35Cz",
+    "retweet_count": 33,
+    "favorite_count": 138,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SO3NLtybyW",
+      "expand": "https://zeit.co/day"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965789139051229200,
+   "id_str": "965789139051229184",
+   "created_at": "Tue Feb 20 03:24:08 +0000 2018",
+   "text": "Every time Apple releases a new tvOS version my old one stops working with many streaming services. I hope they fix… https://t.co/WdmixGGMY6",
+   "retweet_count": 2,
+   "favorite_count": 18,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WdmixGGMY6",
+     "expand": "https://twitter.com/i/web/status/965789139051229184"
+    }
+   ]
+  },
+  {
+   "id": 965769180254384100,
+   "id_str": "965769180254384129",
+   "created_at": "Tue Feb 20 02:04:50 +0000 2018",
+   "text": "@thegreenhouseio The original Domain Driven Design book by Eric Evans. The key lessons are timeless and any modern… https://t.co/OJs9m8Ns3H",
+   "retweet_count": 1,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": 965763631735627800,
+   "in_reply_to_status_id_str": "965763631735627776",
+   "in_reply_to_screen_name": "thegreenhouseio",
+   "urls": [
+    {
+     "url": "https://t.co/OJs9m8Ns3H",
+     "expand": "https://twitter.com/i/web/status/965769180254384129"
+    }
+   ]
+  },
+  {
+   "id": 965748495247319000,
+   "id_str": "965748495247319040",
+   "created_at": "Tue Feb 20 00:42:38 +0000 2018",
+   "text": "A lot of the frameworks we used to use to model Domain Driven Development proved in accurate to describe certain pr… https://t.co/H8Ht4CqQN4",
+   "retweet_count": 1,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": 965747993277165600,
+   "in_reply_to_status_id_str": "965747993277165568",
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": [
+    {
+     "url": "https://t.co/H8Ht4CqQN4",
+     "expand": "https://twitter.com/i/web/status/965748495247319040"
+    }
+   ]
+  },
+  {
+   "id": 965747993277165600,
+   "id_str": "965747993277165568",
+   "created_at": "Tue Feb 20 00:40:38 +0000 2018",
+   "text": "How well a model is able to abstract a problem can be disproven by its inaccuracies in dealing with more case and r… https://t.co/bgsS218OGv",
+   "retweet_count": 0,
+   "favorite_count": 18,
+   "place": null,
+   "in_reply_to_status_id": 965747560383103000,
+   "in_reply_to_status_id_str": "965747560383102976",
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": [
+    {
+     "url": "https://t.co/bgsS218OGv",
+     "expand": "https://twitter.com/i/web/status/965747993277165568"
+    }
+   ]
+  },
+  {
+   "id": 965747560383103000,
+   "id_str": "965747560383102976",
+   "created_at": "Tue Feb 20 00:38:55 +0000 2018",
+   "text": "We in the twittersphere don't put enough emphasis on the process of modeling. We focus on lines written, how code l… https://t.co/ocirvF8EVD",
+   "retweet_count": 26,
+   "favorite_count": 137,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ocirvF8EVD",
+     "expand": "https://twitter.com/i/web/status/965747560383102976"
+    }
+   ]
+  },
+  {
+   "id": 965727820751159300,
+   "id_str": "965727820751159296",
+   "created_at": "Mon Feb 19 23:20:29 +0000 2018",
+   "text": "The bet is that once you have a generation of UI programmers writing in a style that doesn’t necessitate storing in… https://t.co/JtGjfMiMdE",
+   "retweet_count": 4,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JtGjfMiMdE",
+     "expand": "https://twitter.com/i/web/status/965727820751159296"
+    }
+   ]
+  },
+  {
+   "id": 964959512619769900,
+   "id_str": "964959512619769856",
+   "created_at": "Sat Feb 17 20:27:30 +0000 2018",
+   "text": "RT @sebmarkbage: @srescio @necolas This is a good point. A lot of what I’m thinking about for the next gen React actually has a lot to do w…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964959454838980600,
+    "id_str": "964959454838980608",
+    "created_at": "Sat Feb 17 20:27:16 +0000 2018",
+    "text": "@srescio @necolas This is a good point. A lot of what I’m thinking about for the next gen React actually has a lot… https://t.co/ZLM7f349X3",
+    "retweet_count": 3,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": 964940611970269200,
+    "in_reply_to_status_id_str": "964940611970269184",
+    "in_reply_to_screen_name": "srescio",
+    "urls": [
+     {
+      "url": "https://t.co/ZLM7f349X3",
+      "expand": "https://twitter.com/i/web/status/964959454838980608"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964959454838980600,
+   "id_str": "964959454838980608",
+   "created_at": "Sat Feb 17 20:27:16 +0000 2018",
+   "text": "@srescio @necolas This is a good point. A lot of what I’m thinking about for the next gen React actually has a lot… https://t.co/ZLM7f349X3",
+   "retweet_count": 3,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": 964940611970269200,
+   "in_reply_to_status_id_str": "964940611970269184",
+   "in_reply_to_screen_name": "srescio",
+   "urls": [
+    {
+     "url": "https://t.co/ZLM7f349X3",
+     "expand": "https://twitter.com/i/web/status/964959454838980608"
+    }
+   ]
+  },
   {
    "id": 964751886438973400,
    "id_str": "964751886438973441",
    "created_at": "Sat Feb 17 06:42:28 +0000 2018",
    "text": "Curling. Don’t make fun. It’s a real sport and it’s more fun to watch than any American sport.",
    "retweet_count": 2,
-   "favorite_count": 22,
+   "favorite_count": 46,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": []
   }

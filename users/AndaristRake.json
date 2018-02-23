@@ -1,15 +1,350 @@
 {
- "time": 1518873216108,
+ "time": 1519367082010,
  "lists": [
+  {
+   "id": 966694673174626300,
+   "id_str": "966694673174626305",
+   "created_at": "Thu Feb 22 15:22:25 +0000 2018",
+   "text": "@jlongster createRef is meant as alternative to string refs, callback refs will still be allowed for more advanced… https://t.co/dJjcfqc7wS",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966688606902476800,
+   "in_reply_to_status_id_str": "966688606902476800",
+   "in_reply_to_screen_name": "jlongster",
+   "urls": [
+    {
+     "url": "https://t.co/dJjcfqc7wS",
+     "expand": "https://twitter.com/i/web/status/966694673174626305"
+    }
+   ]
+  },
+  {
+   "id": 966690534675898400,
+   "id_str": "966690534675898368",
+   "created_at": "Thu Feb 22 15:05:58 +0000 2018",
+   "text": "@netweb @gziolo i didnt mean that i would see this global file, rather that there is a higher risk of somebody comm… https://t.co/1QW1txCwZt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966683692218249200,
+   "in_reply_to_status_id_str": "966683692218249216",
+   "in_reply_to_screen_name": "netweb",
+   "urls": [
+    {
+     "url": "https://t.co/1QW1txCwZt",
+     "expand": "https://twitter.com/i/web/status/966690534675898368"
+    }
+   ]
+  },
+  {
+   "id": 966623144160251900,
+   "id_str": "966623144160251905",
+   "created_at": "Thu Feb 22 10:38:11 +0000 2018",
+   "text": "@gziolo @netweb i just dont see what moving this to per user .gitignore_global would give me - besides more problem… https://t.co/YPTIdOACsn",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966617465278124000,
+   "in_reply_to_status_id_str": "966617465278124032",
+   "in_reply_to_screen_name": "gziolo",
+   "urls": [
+    {
+     "url": "https://t.co/YPTIdOACsn",
+     "expand": "https://twitter.com/i/web/status/966623144160251905"
+    }
+   ]
+  },
+  {
+   "id": 966607338890235900,
+   "id_str": "966607338890235904",
+   "created_at": "Thu Feb 22 09:35:22 +0000 2018",
+   "text": "@gziolo @netweb U risk new contributors commiting them then",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966604796546506800,
+   "in_reply_to_status_id_str": "966604796546506752",
+   "in_reply_to_screen_name": "gziolo",
+   "urls": []
+  },
+  {
+   "id": 966574883151937500,
+   "id_str": "966574883151937538",
+   "created_at": "Thu Feb 22 07:26:24 +0000 2018",
+   "text": "@probablyup Not bad at all, i feel the same about bunch of css features, although i fake css vars in emotion thanks to stylis plugin",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966564090213781500,
+   "in_reply_to_status_id_str": "966564090213781504",
+   "in_reply_to_screen_name": "probablyup",
+   "urls": []
+  },
+  {
+   "id": 966376483697627100,
+   "id_str": "966376483697627138",
+   "created_at": "Wed Feb 21 18:18:02 +0000 2018",
+   "text": "RT @threepointone: yo I get that redux-saga is advanced and overkill for most stuff, but the project I'm working on right now is most defin…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966370647046803500,
+    "id_str": "966370647046803456",
+    "created_at": "Wed Feb 21 17:54:51 +0000 2018",
+    "text": "yo I get that redux-saga is advanced and overkill for most stuff, but the project I'm working on right now is most… https://t.co/cWUin8IvPz",
+    "retweet_count": 8,
+    "favorite_count": 99,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cWUin8IvPz",
+      "expand": "https://twitter.com/i/web/status/966370647046803456"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966094000917794800,
+   "id_str": "966094000917794816",
+   "created_at": "Tue Feb 20 23:35:33 +0000 2018",
+   "text": "@kelin2025 @re_gain not much value in writing that glue by hand, but ofc there are some potential bytes savings if… https://t.co/wuSVFVx9I6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966093554463453200,
+   "in_reply_to_status_id_str": "966093554463453184",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/wuSVFVx9I6",
+     "expand": "https://twitter.com/i/web/status/966094000917794816"
+    }
+   ]
+  },
+  {
+   "id": 966093554463453200,
+   "id_str": "966093554463453184",
+   "created_at": "Tue Feb 20 23:33:47 +0000 2018",
+   "text": "@kelin2025 @re_gain regarding 1. its imho true to some extent, on the other hand even \"sugar syntax\" should be used… https://t.co/fpvhnSO6Qs",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966093043228139500,
+   "in_reply_to_status_id_str": "966093043228139521",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/fpvhnSO6Qs",
+     "expand": "https://twitter.com/i/web/status/966093554463453184"
+    }
+   ]
+  },
+  {
+   "id": 966093043228139500,
+   "id_str": "966093043228139521",
+   "created_at": "Tue Feb 20 23:31:45 +0000 2018",
+   "text": "@kelin2025 @re_gain actually I think the given example works fine (didnt check right now though), there are problem… https://t.co/2BRVRIwTtz",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966085437566615600,
+   "in_reply_to_status_id_str": "966085437566615552",
+   "in_reply_to_screen_name": "kelin2025",
+   "urls": [
+    {
+     "url": "https://t.co/2BRVRIwTtz",
+     "expand": "https://twitter.com/i/web/status/966093043228139521"
+    }
+   ]
+  },
+  {
+   "id": 966083437936463900,
+   "id_str": "966083437936463872",
+   "created_at": "Tue Feb 20 22:53:35 +0000 2018",
+   "text": "@kelin2025 @re_gain I hope u didnt take my article as offending to ur work. I think ur articles are gr8 and i see m… https://t.co/pxl4pzmB9K",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966081815738908700,
+   "in_reply_to_status_id_str": "966081815738908673",
+   "in_reply_to_screen_name": "kelin2025",
+   "urls": [
+    {
+     "url": "https://t.co/pxl4pzmB9K",
+     "expand": "https://twitter.com/i/web/status/966083437936463872"
+    }
+   ]
+  },
+  {
+   "id": 965925049856352300,
+   "id_str": "965925049856352256",
+   "created_at": "Tue Feb 20 12:24:12 +0000 2018",
+   "text": "@ThisIsMissEm @flowtype @typescriptlang ive seen tsgen once - https://t.co/Fzo0pmtEzV , dunno if its feature comple… https://t.co/Cu6UQrvgvr",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965922278964908000,
+   "in_reply_to_status_id_str": "965922278964908033",
+   "in_reply_to_screen_name": "ThisIsMissEm",
+   "urls": [
+    {
+     "url": "https://t.co/Fzo0pmtEzV",
+     "expand": "https://github.com/styled-components/polished/blob/ee912ff48c87af34af51409ba19d0f15c1ced0e6/package.json#L22"
+    },
+    {
+     "url": "https://t.co/Cu6UQrvgvr",
+     "expand": "https://twitter.com/i/web/status/965925049856352256"
+    }
+   ]
+  },
+  {
+   "id": 965910077776506900,
+   "id_str": "965910077776506880",
+   "created_at": "Tue Feb 20 11:24:42 +0000 2018",
+   "text": "So I've written best practices for JS package publishing (more coming soon!) using @RollupJS &amp; @babeljs , use them… https://t.co/tbjzegtx4N",
+   "retweet_count": 39,
+   "favorite_count": 111,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tbjzegtx4N",
+     "expand": "https://twitter.com/i/web/status/965910077776506880"
+    }
+   ]
+  },
+  {
+   "id": 965880982481055700,
+   "id_str": "965880982481055745",
+   "created_at": "Tue Feb 20 09:29:06 +0000 2018",
+   "text": "@kylemathews does it contain some other vendors too? did you transpile everything from the source or was some thing… https://t.co/94CIlJfS0v",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965768495341305900,
+   "in_reply_to_status_id_str": "965768495341305856",
+   "in_reply_to_screen_name": "kylemathews",
+   "urls": [
+    {
+     "url": "https://t.co/94CIlJfS0v",
+     "expand": "https://twitter.com/i/web/status/965880982481055745"
+    }
+   ]
+  },
+  {
+   "id": 965673759934906400,
+   "id_str": "965673759934906369",
+   "created_at": "Mon Feb 19 19:45:40 +0000 2018",
+   "text": "@svensauleau Aint sure what \"handling the instance\" is here (having to pass it around from within the importing clo… https://t.co/FNzIZSj47P",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965645769129779200,
+   "in_reply_to_status_id_str": "965645769129779202",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": [
+    {
+     "url": "https://t.co/FNzIZSj47P",
+     "expand": "https://twitter.com/i/web/status/965673759934906369"
+    }
+   ]
+  },
+  {
+   "id": 965656513254756400,
+   "id_str": "965656513254756381",
+   "created_at": "Mon Feb 19 18:37:08 +0000 2018",
+   "text": "RT @paldepind: New library I've been working on: List. An immutable list with\n- extremely good performance\n- a functional API\n- full tree s…",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965631115838017500,
+    "id_str": "965631115838017536",
+    "created_at": "Mon Feb 19 16:56:13 +0000 2018",
+    "text": "New library I've been working on: List. An immutable list with\n- extremely good performance\n- a functional API\n- fu… https://t.co/sU0Icprxix",
+    "retweet_count": 29,
+    "favorite_count": 77,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sU0Icprxix",
+      "expand": "https://twitter.com/i/web/status/965631115838017536"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965641278254977000,
+   "id_str": "965641278254977024",
+   "created_at": "Mon Feb 19 17:36:36 +0000 2018",
+   "text": "@svensauleau Magic in a sense that the program flow is unclear",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965616594742325200,
+   "in_reply_to_status_id_str": "965616594742325253",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": []
+  },
+  {
+   "id": 965641169462939600,
+   "id_str": "965641169462939648",
+   "created_at": "Mon Feb 19 17:36:10 +0000 2018",
+   "text": "@svensauleau It just seems magic to me, what would happen if id call factorial before makeInstance?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965616594742325200,
+   "in_reply_to_status_id_str": "965616594742325253",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": []
+  },
+  {
+   "id": 965614840944394200,
+   "id_str": "965614840944394240",
+   "created_at": "Mon Feb 19 15:51:32 +0000 2018",
+   "text": "@svensauleau i have no idea about .wasm, but cannot initialized module return something to the javascript call site… https://t.co/0HsSnsHP7O",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965604521643855900,
+   "in_reply_to_status_id_str": "965604521643855872",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": [
+    {
+     "url": "https://t.co/0HsSnsHP7O",
+     "expand": "https://twitter.com/i/web/status/965614840944394240"
+    }
+   ]
+  },
   {
    "id": 964827771053723600,
    "id_str": "964827771053723649",
    "created_at": "Sat Feb 17 11:44:00 +0000 2018",
    "text": "@alexmkrolick @EricVicenti @felipecocco @reactjs @replit @kentcdodds 's downshift has shipped this lately, although… https://t.co/ojR0NTl6Tu",
    "retweet_count": 0,
-   "favorite_count": 0,
+   "favorite_count": 2,
    "place": null,
    "in_reply_to_status_id": 964396520031207400,
+   "in_reply_to_status_id_str": "964396520031207424",
    "in_reply_to_screen_name": "alexmkrolick",
    "urls": [
     {

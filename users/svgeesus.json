@@ -1,34 +1,62 @@
 {
- "time": 1518870385069,
+ "time": 1519367050092,
  "lists": [
   {
-   "id": 964626373145956400,
-   "id_str": "964626373145956352",
-   "created_at": "Fri Feb 16 22:23:43 +0000 2018",
-   "text": "RT @jendziura: My 3yo said she wanted to be an astronaut, and I said she had to study hard, go to college, learn a lot of science, and take…",
-   "retweet_count": 84313,
+   "id": 966686463533502500,
+   "id_str": "966686463533502464",
+   "created_at": "Thu Feb 22 14:49:47 +0000 2018",
+   "text": "This is a great conference, run by great folks, consider going! https://t.co/fG87pN05rc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fG87pN05rc",
+     "expand": "https://twitter.com/Sareh88/status/966603771932528640"
+    }
+   ]
+  },
+  {
+   "id": 966627944926982100,
+   "id_str": "966627944926982144",
+   "created_at": "Thu Feb 22 10:57:15 +0000 2018",
+   "text": "RT @CatalansForYes: MAJOR BREAKING: Amnesty International accuses Spain of violating human rights in Catalonia and restricting freedom of e…",
+   "retweet_count": 481,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 963978450175516700,
-    "id_str": "963978450175516672",
-    "created_at": "Thu Feb 15 03:29:07 +0000 2018",
-    "text": "My 3yo said she wanted to be an astronaut, and I said she had to study hard, go to college, learn a lot of science,… https://t.co/p6P1xgX1g2",
-    "retweet_count": 84313,
-    "favorite_count": 414304,
+    "id": 966576201404993500,
+    "id_str": "966576201404993537",
+    "created_at": "Thu Feb 22 07:31:39 +0000 2018",
+    "text": "MAJOR BREAKING: Amnesty International accuses Spain of violating human rights in Catalonia and restricting freedom of expression.",
+    "retweet_count": 481,
+    "favorite_count": 647,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/p6P1xgX1g2",
-      "expand": "https://twitter.com/i/web/status/963978450175516672"
-     }
-    ]
+    "urls": []
    }
+  },
+  {
+   "id": 966087143000039400,
+   "id_str": "966087143000039424",
+   "created_at": "Tue Feb 20 23:08:18 +0000 2018",
+   "text": "@eevee Wrapping text was in SVG2. SVG 1 does allow hard line breaks; use a tspan with dx and dy attributes. Or use multiple text elements.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966053068608434200,
+   "in_reply_to_status_id_str": "966053068608434176",
+   "in_reply_to_screen_name": "eevee",
+   "urls": []
   }
  ]
 }

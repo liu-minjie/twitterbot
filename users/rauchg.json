@@ -1,17 +1,488 @@
 {
- "time": 1518873196459,
+ "time": 1519367059939,
  "lists": [
   {
-   "id": 964663008227029000,
-   "id_str": "964663008227028993",
-   "created_at": "Sat Feb 17 00:49:18 +0000 2018",
-   "text": "`ninja` is a very aptly named project",
-   "retweet_count": 1,
-   "favorite_count": 10,
+   "id": 966737331955757000,
+   "id_str": "966737331955757056",
+   "created_at": "Thu Feb 22 18:11:55 +0000 2018",
+   "text": "I can't wait to try an Airbnb Plus home 😍\nhttps://t.co/TT4Muc7Z3G",
+   "retweet_count": 0,
+   "favorite_count": 52,
    "place": "San Francisco, CA",
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TT4Muc7Z3G",
+     "expand": "https://www.airbnb.com/plus"
+    }
+   ]
+  },
+  {
+   "id": 966712177070547000,
+   "id_str": "966712177070546945",
+   "created_at": "Thu Feb 22 16:31:58 +0000 2018",
+   "text": "A webpack loader that uploads your assets to https://t.co/RDfMlQe8IJ 🤯\n\nhttps://t.co/cX9eHULrSi https://t.co/8XjSzYjG8A",
+   "retweet_count": 32,
+   "favorite_count": 163,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RDfMlQe8IJ",
+     "expand": "http://Now.sh"
+    },
+    {
+     "url": "https://t.co/cX9eHULrSi",
+     "expand": "https://github.com/pranaygp/now-loader"
+    }
+   ]
+  },
+  {
+   "id": 966108985756590100,
+   "id_str": "966108985756590080",
+   "created_at": "Wed Feb 21 00:35:06 +0000 2018",
+   "text": "RT @archillect: https://t.co/xC37Cti5lF",
+   "retweet_count": 144,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966105210543378400,
+    "id_str": "966105210543378432",
+    "created_at": "Wed Feb 21 00:20:06 +0000 2018",
+    "text": "https://t.co/xC37Cti5lF",
+    "retweet_count": 144,
+    "favorite_count": 576,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966084534042116100,
+   "id_str": "966084534042116096",
+   "created_at": "Tue Feb 20 22:57:56 +0000 2018",
+   "text": "RT @jcukier: next week, join us at Uber offices for https://t.co/EPOQcIrnih with @AriyaHidayat, @rauchg and Uber visualization team's own @…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EPOQcIrnih",
+     "expand": "https://www.uber.com/p/destination-web/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966083502264541200,
+    "id_str": "966083502264541184",
+    "created_at": "Tue Feb 20 22:53:50 +0000 2018",
+    "text": "next week, join us at Uber offices for https://t.co/EPOQcIrnih with @AriyaHidayat, @rauchg and Uber visualization team's own @heshan_cheri",
+    "retweet_count": 7,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EPOQcIrnih",
+      "expand": "https://www.uber.com/p/destination-web/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966061310638145500,
+   "id_str": "966061310638145536",
+   "created_at": "Tue Feb 20 21:25:39 +0000 2018",
+   "text": "From this coming Friday to Sunday @pranaygp, @CHaBou69 and I will be representing @zeithq at Hack Illinois! Looking… https://t.co/0j5qYiush0",
+   "retweet_count": 5,
+   "favorite_count": 29,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0j5qYiush0",
+     "expand": "https://twitter.com/i/web/status/966061310638145536"
+    }
+   ]
+  },
+  {
+   "id": 966009647906750500,
+   "id_str": "966009647906750464",
+   "created_at": "Tue Feb 20 18:00:22 +0000 2018",
+   "text": "RT @zeithq: A one-day event for our community. April 28th, 2018.\nhttps://t.co/SO3NLtybyW https://t.co/PabZOY35Cz",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SO3NLtybyW",
+     "expand": "https://zeit.co/day"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966009184901677000,
+    "id_str": "966009184901677056",
+    "created_at": "Tue Feb 20 17:58:31 +0000 2018",
+    "text": "A one-day event for our community. April 28th, 2018.\nhttps://t.co/SO3NLtybyW https://t.co/PabZOY35Cz",
+    "retweet_count": 33,
+    "favorite_count": 138,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SO3NLtybyW",
+      "expand": "https://zeit.co/day"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965811767073914900,
+   "id_str": "965811767073914882",
+   "created_at": "Tue Feb 20 04:54:03 +0000 2018",
+   "text": "@JamesCPoole @masonic_tweets @youfoundron @harbor Nice use of `create-next-app` cc @fouadmatin 😌",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965810494421450800,
+   "in_reply_to_status_id_str": "965810494421450752",
+   "in_reply_to_screen_name": "JamesCPoole",
+   "urls": []
+  },
+  {
+   "id": 965728495560044500,
+   "id_str": "965728495560044544",
+   "created_at": "Mon Feb 19 23:23:10 +0000 2018",
+   "text": "@jkup @fhinkel has some recommended reads on her website, and good articles / videos\nhttps://t.co/bbl8CeGHpq",
+   "retweet_count": 0,
+   "favorite_count": 20,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965727655428440000,
+   "in_reply_to_status_id_str": "965727655428440064",
+   "in_reply_to_screen_name": "jkup",
+   "urls": [
+    {
+     "url": "https://t.co/bbl8CeGHpq",
+     "expand": "https://fhinkel.rocks/"
+    }
+   ]
+  },
+  {
+   "id": 965726453298970600,
+   "id_str": "965726453298970624",
+   "created_at": "Mon Feb 19 23:15:03 +0000 2018",
+   "text": "Always bet on [a VM engineer optimizing your] JS\nhttps://t.co/W3qvuunOS1",
+   "retweet_count": 28,
+   "favorite_count": 179,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W3qvuunOS1",
+     "expand": "https://twitter.com/mraleph/status/965720238452101121"
+    }
+   ]
+  },
+  {
+   "id": 965724709428981800,
+   "id_str": "965724709428981760",
+   "created_at": "Mon Feb 19 23:08:07 +0000 2018",
+   "text": "RT @rauchg: PHP index.php\n&lt;h1&gt;Hello &lt;?= $var ?&gt;&lt;/h1&gt;\n\nNext.js pages/index.js\nexport default ({var }) =&gt; &lt;h1&gt;{ var }&lt;/h1&gt;",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 806926647383363600,
+    "id_str": "806926647383363584",
+    "created_at": "Thu Dec 08 18:21:19 +0000 2016",
+    "text": "PHP index.php\n&lt;h1&gt;Hello &lt;?= $var ?&gt;&lt;/h1&gt;\n\nNext.js pages/index.js\nexport default ({var }) =&gt; &lt;h1&gt;{ var }&lt;/h1&gt;",
+    "retweet_count": 18,
+    "favorite_count": 55,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": 806926021916180500,
+    "in_reply_to_status_id_str": "806926021916180480",
+    "in_reply_to_screen_name": "rauchg",
+    "urls": []
+   }
+  },
+  {
+   "id": 965724558316666900,
+   "id_str": "965724558316666880",
+   "created_at": "Mon Feb 19 23:07:31 +0000 2018",
+   "text": "@old_sound @sergiodxa Yep. And IMO the initial \"familiarity\" is useful for beginners, even though there's an abstra… https://t.co/YZO2rZmDBZ",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965724241214824400,
+   "in_reply_to_status_id_str": "965724241214824448",
+   "in_reply_to_screen_name": "old_sound",
+   "urls": [
+    {
+     "url": "https://t.co/YZO2rZmDBZ",
+     "expand": "https://twitter.com/i/web/status/965724558316666880"
+    }
+   ]
+  },
+  {
+   "id": 965724076210733000,
+   "id_str": "965724076210733056",
+   "created_at": "Mon Feb 19 23:05:36 +0000 2018",
+   "text": "@old_sound @sergiodxa You probably don't care about the specifics in that case, only that you get a heading level 1… https://t.co/edFvW6lTQc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965722944889655300,
+   "in_reply_to_status_id_str": "965722944889655297",
+   "in_reply_to_screen_name": "old_sound",
+   "urls": [
+    {
+     "url": "https://t.co/edFvW6lTQc",
+     "expand": "https://twitter.com/i/web/status/965724076210733056"
+    }
+   ]
+  },
+  {
+   "id": 965721964844171300,
+   "id_str": "965721964844171264",
+   "created_at": "Mon Feb 19 22:57:13 +0000 2018",
+   "text": "@old_sound @sergiodxa They do, because in practice you can just as easily have &lt;H1&gt;bla&lt;/H1&gt; which represents a &lt;H1&gt;… https://t.co/7vF30wYBq3",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965721425230336000,
+   "in_reply_to_status_id_str": "965721425230336001",
+   "in_reply_to_screen_name": "old_sound",
+   "urls": [
+    {
+     "url": "https://t.co/7vF30wYBq3",
+     "expand": "https://twitter.com/i/web/status/965721964844171264"
+    }
+   ]
+  },
+  {
+   "id": 965674358629810200,
+   "id_str": "965674358629810176",
+   "created_at": "Mon Feb 19 19:48:03 +0000 2018",
+   "text": "@orta @zeithq fixed",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965670525610680300,
+   "in_reply_to_status_id_str": "965670525610680320",
+   "in_reply_to_screen_name": "orta",
+   "urls": []
+  },
+  {
+   "id": 965672812433219600,
+   "id_str": "965672812433219585",
+   "created_at": "Mon Feb 19 19:41:54 +0000 2018",
+   "text": "@ken_wheeler *this* is why they hate our freedom",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 965664932342661100,
+   "in_reply_to_status_id_str": "965664932342661122",
+   "in_reply_to_screen_name": "ken_wheeler",
+   "urls": []
+  },
+  {
+   "id": 965620030514675700,
+   "id_str": "965620030514675712",
+   "created_at": "Mon Feb 19 16:12:10 +0000 2018",
+   "text": "RT @bmeurer: @mraleph Don't try this at home... https://t.co/VntRz88VE6",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965618190624673800,
+    "id_str": "965618190624673792",
+    "created_at": "Mon Feb 19 16:04:51 +0000 2018",
+    "text": "@mraleph Don't try this at home... https://t.co/VntRz88VE6",
+    "retweet_count": 8,
+    "favorite_count": 63,
+    "place": null,
+    "in_reply_to_status_id": 965589745605767200,
+    "in_reply_to_status_id_str": "965589745605767168",
+    "in_reply_to_screen_name": "mraleph",
+    "urls": []
+   }
+  },
+  {
+   "id": 965465453622472700,
+   "id_str": "965465453622472704",
+   "created_at": "Mon Feb 19 05:57:56 +0000 2018",
+   "text": "Some surprises coming this week, stay alert 😌",
+   "retweet_count": 4,
+   "favorite_count": 169,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": []
+  },
+  {
+   "id": 965302336540192800,
+   "id_str": "965302336540192768",
+   "created_at": "Sun Feb 18 19:09:46 +0000 2018",
+   "text": "RT @pranaygp: In a file, setting the first line to `#!/usr/bin/env node` makes it so simply executing the file with './file' runs it with t…",
+   "retweet_count": 38,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965291612539584500,
+    "id_str": "965291612539584512",
+    "created_at": "Sun Feb 18 18:27:09 +0000 2018",
+    "text": "In a file, setting the first line to `#!/usr/bin/env node` makes it so simply executing the file with './file' runs… https://t.co/IlKoF3ca3t",
+    "retweet_count": 38,
+    "favorite_count": 183,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IlKoF3ca3t",
+      "expand": "https://twitter.com/i/web/status/965291612539584512"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965267880811012100,
+   "id_str": "965267880811012096",
+   "created_at": "Sun Feb 18 16:52:51 +0000 2018",
+   "text": "RT @ragingwind: 🌈 Released a new webpack plugin for Next.js PWA https://t.co/ngjOanu0Ix\n\n- Powered by @workboxjs \n- Easy integration with N…",
+   "retweet_count": 60,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ngjOanu0Ix",
+     "expand": "https://goo.gl/MPFVbR"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964859128077107200,
+    "id_str": "964859128077107200",
+    "created_at": "Sat Feb 17 13:48:37 +0000 2018",
+    "text": "🌈 Released a new webpack plugin for Next.js PWA https://t.co/ngjOanu0Ix\n\n- Powered by @workboxjs \n- Easy integratio… https://t.co/iLIIXmJzZz",
+    "retweet_count": 60,
+    "favorite_count": 243,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ngjOanu0Ix",
+      "expand": "https://goo.gl/MPFVbR"
+     },
+     {
+      "url": "https://t.co/iLIIXmJzZz",
+      "expand": "https://twitter.com/i/web/status/964859128077107200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964951060057022500,
+   "id_str": "964951060057022464",
+   "created_at": "Sat Feb 17 19:53:55 +0000 2018",
+   "text": "Repl۔it's new IDE combines Redux and Next.js server-rendering 🤯\nhttps://t.co/DkPeT5DSP9 https://t.co/vzAmU7fJVd",
+   "retweet_count": 28,
+   "favorite_count": 135,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DkPeT5DSP9",
+     "expand": "https://repl.it/site/blog/ide"
+    }
+   ]
+  },
+  {
+   "id": 964932970292305900,
+   "id_str": "964932970292305920",
+   "created_at": "Sat Feb 17 18:42:02 +0000 2018",
+   "text": "@liran_tal @notquiteleo @AgentConf @cpojer I stole this one from @rickyrauch 😂😂",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": 964932018785214500,
+   "in_reply_to_status_id_str": "964932018785214465",
+   "in_reply_to_screen_name": "liran_tal",
+   "urls": []
+  },
+  {
+   "id": 964907069668126700,
+   "id_str": "964907069668126720",
+   "created_at": "Sat Feb 17 16:59:07 +0000 2018",
+   "text": "RT @james_k_nelson: Just pushed a new site for MDX: JSX in Markdown. Thanks @rauchg and @dan_abramov for getting the word out there! https:…",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964758350364725200,
+    "id_str": "964758350364725248",
+    "created_at": "Sat Feb 17 07:08:09 +0000 2018",
+    "text": "Just pushed a new site for MDX: JSX in Markdown. Thanks @rauchg and @dan_abramov for getting the word out there! https://t.co/nytXszrGBL",
+    "retweet_count": 33,
+    "favorite_count": 130,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nytXszrGBL",
+      "expand": "http://mdxc.reactarmory.com/"
+     }
+    ]
+   }
   }
  ]
 }

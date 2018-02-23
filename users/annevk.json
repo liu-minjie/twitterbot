@@ -1,15 +1,199 @@
 {
- "time": 1518870385887,
+ "time": 1519367050892,
  "lists": [
+  {
+   "id": 966730976683528200,
+   "id_str": "966730976683528193",
+   "created_at": "Thu Feb 22 17:46:40 +0000 2018",
+   "text": "Really admire and appreciate @littledan’s holistic approach to adding BigInt to the web (patching JS, HTML, IDL, wa… https://t.co/xu03sxqIbx",
+   "retweet_count": 2,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xu03sxqIbx",
+     "expand": "https://twitter.com/i/web/status/966730976683528193"
+    }
+   ]
+  },
+  {
+   "id": 966676639139680300,
+   "id_str": "966676639139680257",
+   "created_at": "Thu Feb 22 14:10:45 +0000 2018",
+   "text": "@marcoarment You might want to look at https://t.co/ASPryo9d2n as your site can no longer be accessed in… https://t.co/6LbP33myqv",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966671280740151300,
+   "in_reply_to_status_id_str": "966671280740151296",
+   "in_reply_to_screen_name": "marcoarment",
+   "urls": [
+    {
+     "url": "https://t.co/ASPryo9d2n",
+     "expand": "https://www.ssllabs.com/ssltest/analyze.html?d=marco.org"
+    },
+    {
+     "url": "https://t.co/6LbP33myqv",
+     "expand": "https://twitter.com/i/web/status/966676639139680257"
+    }
+   ]
+  },
+  {
+   "id": 966560191314526200,
+   "id_str": "966560191314526208",
+   "created_at": "Thu Feb 22 06:28:02 +0000 2018",
+   "text": "RT @kateconger: Breaking: Google has fired and disciplined employees who spoke up in favor of its diversity initiatives https://t.co/ArufOu…",
+   "retweet_count": 665,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966451866157461500,
+    "id_str": "966451866157461504",
+    "created_at": "Wed Feb 21 23:17:35 +0000 2018",
+    "text": "Breaking: Google has fired and disciplined employees who spoke up in favor of its diversity initiatives https://t.co/ArufOuXPKY",
+    "retweet_count": 665,
+    "favorite_count": 623,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ArufOuXPKY",
+      "expand": "https://gizmodo.com/google-fired-and-disciplined-employees-for-speaking-out-1822277125"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966374291091722200,
+   "id_str": "966374291091722240",
+   "created_at": "Wed Feb 21 18:09:20 +0000 2018",
+   "text": "I have now been called twice by a Swiss-German call center trying to sell me Bitcoin. (I called it scam the second… https://t.co/kc1AiSmee3",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kc1AiSmee3",
+     "expand": "https://twitter.com/i/web/status/966374291091722240"
+    }
+   ]
+  },
+  {
+   "id": 966275018677194800,
+   "id_str": "966275018677194753",
+   "created_at": "Wed Feb 21 11:34:51 +0000 2018",
+   "text": "Nice work @estark37 et al! https://t.co/tL61xzfokv",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tL61xzfokv",
+     "expand": "https://twitter.com/emilstahl/status/965538063739904000"
+    }
+   ]
+  },
+  {
+   "id": 965907993572278300,
+   "id_str": "965907993572278272",
+   "created_at": "Tue Feb 20 11:16:26 +0000 2018",
+   "text": "I want a mixed content violation to affect eTLD+1 until cookies/storage get cleared: https://t.co/0CRpbZhjUh. Seems… https://t.co/yq5oDIczGk",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0CRpbZhjUh",
+     "expand": "https://github.com/w3c/webappsec-mixed-content/issues/7"
+    },
+    {
+     "url": "https://t.co/yq5oDIczGk",
+     "expand": "https://twitter.com/i/web/status/965907993572278272"
+    }
+   ]
+  },
+  {
+   "id": 965872130838712300,
+   "id_str": "965872130838712321",
+   "created_at": "Tue Feb 20 08:53:55 +0000 2018",
+   "text": "RT @mulegirl: I just published “Be a Pal, My Dudes” https://t.co/SrVmZF3QPU",
+   "retweet_count": 63,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SrVmZF3QPU",
+     "expand": "https://medium.com/@mulegirl/be-a-pal-my-dudes-a34c06df1b1d"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965718267955372000,
+    "id_str": "965718267955372032",
+    "created_at": "Mon Feb 19 22:42:31 +0000 2018",
+    "text": "I just published “Be a Pal, My Dudes” https://t.co/SrVmZF3QPU",
+    "retweet_count": 63,
+    "favorite_count": 120,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SrVmZF3QPU",
+      "expand": "https://medium.com/@mulegirl/be-a-pal-my-dudes-a34c06df1b1d"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965520807379243000,
+   "id_str": "965520807379243008",
+   "created_at": "Mon Feb 19 09:37:53 +0000 2018",
+   "text": "@mikewest I had not even considered that the tissues would go away again when the kids get older. (Tea is usually p… https://t.co/RK8O2GPzbD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965518073087299600,
+   "in_reply_to_status_id_str": "965518073087299584",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": [
+    {
+     "url": "https://t.co/RK8O2GPzbD",
+     "expand": "https://twitter.com/i/web/status/965520807379243008"
+    }
+   ]
+  },
   {
    "id": 964446675480858600,
    "id_str": "964446675480858625",
    "created_at": "Fri Feb 16 10:29:40 +0000 2018",
    "text": "RT @Julia_SCI: This one broke me https://t.co/aczYaTQZLF",
-   "retweet_count": 25636,
+   "retweet_count": 40011,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +201,11 @@
     "id_str": "964301554906877952",
     "created_at": "Fri Feb 16 00:53:01 +0000 2018",
     "text": "This one broke me https://t.co/aczYaTQZLF",
-    "retweet_count": 25636,
-    "favorite_count": 40732,
+    "retweet_count": 40011,
+    "favorite_count": 69567,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
    }

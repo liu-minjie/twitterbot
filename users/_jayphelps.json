@@ -1,15 +1,1078 @@
 {
- "time": 1518869616679,
+ "time": 1519367045606,
  "lists": [
+  {
+   "id": 966893086969290800,
+   "id_str": "966893086969290752",
+   "created_at": "Fri Feb 23 04:30:50 +0000 2018",
+   "text": "\"The first dash is free!\" -@BenLesh https://t.co/4b9FErJQL5",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966756339182534700,
+   "id_str": "966756339182534656",
+   "created_at": "Thu Feb 22 19:27:27 +0000 2018",
+   "text": "RT @BenLesh: Here are my slides from today's @thisdotmedia #thisjs talk on the state of #RxJS: https://t.co/X8OOQnMhG5",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/X8OOQnMhG5",
+     "expand": "https://docs.google.com/presentation/d/1_V1hIBY60vs7YqbH7qDSZosAiaPYTRTUlzUUUFfvvoM/edit?usp=sharing"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966737425488789500,
+    "id_str": "966737425488789504",
+    "created_at": "Thu Feb 22 18:12:18 +0000 2018",
+    "text": "Here are my slides from today's @thisdotmedia #thisjs talk on the state of #RxJS: https://t.co/X8OOQnMhG5",
+    "retweet_count": 30,
+    "favorite_count": 81,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/X8OOQnMhG5",
+      "expand": "https://docs.google.com/presentation/d/1_V1hIBY60vs7YqbH7qDSZosAiaPYTRTUlzUUUFfvvoM/edit?usp=sharing"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966748762918961200,
+   "id_str": "966748762918961152",
+   "created_at": "Thu Feb 22 18:57:21 +0000 2018",
+   "text": "RT @jfbastien: I still think this is one of my best suggestions to improve JavaScript: name the global object one of the Unicode globes 🌎🌍🌏…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966747148069949400,
+    "id_str": "966747148069949441",
+    "created_at": "Thu Feb 22 18:50:56 +0000 2018",
+    "text": "I still think this is one of my best suggestions to improve JavaScript: name the global object one of the Unicode g… https://t.co/ePzJPOh41A",
+    "retweet_count": 4,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ePzJPOh41A",
+      "expand": "https://twitter.com/i/web/status/966747148069949441"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966747823776530400,
+   "id_str": "966747823776530432",
+   "created_at": "Thu Feb 22 18:53:37 +0000 2018",
+   "text": "@jfbastien jeffmo with the save https://t.co/6PIHp1PrCd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966747148069949400,
+   "in_reply_to_status_id_str": "966747148069949441",
+   "in_reply_to_screen_name": "jfbastien",
+   "urls": []
+  },
+  {
+   "id": 966569709180141600,
+   "id_str": "966569709180141568",
+   "created_at": "Thu Feb 22 07:05:51 +0000 2018",
+   "text": "@mattpodwysocki happy birthday https://t.co/dp179Cib5W",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "mattpodwysocki",
+   "urls": []
+  },
+  {
+   "id": 966567691480850400,
+   "id_str": "966567691480850432",
+   "created_at": "Thu Feb 22 06:57:50 +0000 2018",
+   "text": "RT @rauschma: My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
+   "retweet_count": 570,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mhQWF9OaJk",
+     "expand": "http://exploringjs.com/es2018-es2019/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966343761876979700,
+    "id_str": "966343761876979714",
+    "created_at": "Wed Feb 21 16:08:01 +0000 2018",
+    "text": "My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
+    "retweet_count": 570,
+    "favorite_count": 1235,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mhQWF9OaJk",
+      "expand": "http://exploringjs.com/es2018-es2019/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966567639945367600,
+   "id_str": "966567639945367552",
+   "created_at": "Thu Feb 22 06:57:37 +0000 2018",
+   "text": "@captainsafia  https://t.co/nmSM7Ng99v",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966563181714911200,
+   "in_reply_to_status_id_str": "966563181714911233",
+   "in_reply_to_screen_name": "captainsafia",
+   "urls": []
+  },
+  {
+   "id": 966533119040827400,
+   "id_str": "966533119040827392",
+   "created_at": "Thu Feb 22 04:40:27 +0000 2018",
+   "text": "@ShopRunner FWIW tried to sign up today but couldn't because your sign up form email validation incorrectly doesn't… https://t.co/Lp56PvvUfx",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "ShopRunner",
+   "urls": [
+    {
+     "url": "https://t.co/Lp56PvvUfx",
+     "expand": "https://twitter.com/i/web/status/966533119040827392"
+    }
+   ]
+  },
+  {
+   "id": 966514330547245000,
+   "id_str": "966514330547245056",
+   "created_at": "Thu Feb 22 03:25:48 +0000 2018",
+   "text": "@AdamRackis @Rich_Harris I meant packages which *only* ship ESM as \"main\", not CJS/UMD which means consumers would… https://t.co/DDNNUfUiIa",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966514012807561200,
+   "in_reply_to_status_id_str": "966514012807561216",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/DDNNUfUiIa",
+     "expand": "https://twitter.com/i/web/status/966514330547245056"
+    }
+   ]
+  },
+  {
+   "id": 966514012807561200,
+   "id_str": "966514012807561216",
+   "created_at": "Thu Feb 22 03:24:32 +0000 2018",
+   "text": "@AdamRackis @Rich_Harris nope but I'm finding my question was confusing/misleading, sorry bout that https://t.co/91IPTsx2P9",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966512555589029900,
+   "in_reply_to_status_id_str": "966512555589029888",
+   "in_reply_to_screen_name": "AdamRackis",
+   "urls": [
+    {
+     "url": "https://t.co/91IPTsx2P9",
+     "expand": "https://unpkg.com/d3@4.13.0/package.json"
+    }
+   ]
+  },
+  {
+   "id": 966506431271678000,
+   "id_str": "966506431271677952",
+   "created_at": "Thu Feb 22 02:54:24 +0000 2018",
+   "text": "@lumpej If you do have issues, lmk! I'd be very interested to diagnose and prevent.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966505738460942300,
+   "in_reply_to_status_id_str": "966505738460942336",
+   "in_reply_to_screen_name": "lumpej",
+   "urls": []
+  },
+  {
+   "id": 966505605723598800,
+   "id_str": "966505605723598848",
+   "created_at": "Thu Feb 22 02:51:07 +0000 2018",
+   "text": "@BenLesh @knitcodemonkey @_ojkwon To this day, everytime I hear the name \"Conan the Barbarian\" I think they're sayi… https://t.co/IRujOHcSOH",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 966495473879035900,
+   "in_reply_to_status_id_str": "966495473879035904",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": [
+    {
+     "url": "https://t.co/IRujOHcSOH",
+     "expand": "https://twitter.com/i/web/status/966505605723598848"
+    }
+   ]
+  },
+  {
+   "id": 966505382456672300,
+   "id_str": "966505382456672256",
+   "created_at": "Thu Feb 22 02:50:14 +0000 2018",
+   "text": "@mistyHarsh very interesting anecdotes! thank you for sharing.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966502778674741200,
+   "in_reply_to_status_id_str": "966502778674741248",
+   "in_reply_to_screen_name": "mistyHarsh",
+   "urls": []
+  },
+  {
+   "id": 966505038758625300,
+   "id_str": "966505038758625280",
+   "created_at": "Thu Feb 22 02:48:52 +0000 2018",
+   "text": "@lumpej nteract is a cool example if you're ever looking for an app that went \"all-in\" on rxjs/redux-observable and… https://t.co/tdRInRUXZN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966504506308440000,
+   "in_reply_to_status_id_str": "966504506308440064",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/tdRInRUXZN",
+     "expand": "https://twitter.com/i/web/status/966505038758625280"
+    }
+   ]
+  },
+  {
+   "id": 966504506308440000,
+   "id_str": "966504506308440064",
+   "created_at": "Thu Feb 22 02:46:45 +0000 2018",
+   "text": "@lumpej Definitely feel free to use abstractions though! Just because _all_ of your http requests aren't the same d… https://t.co/XgLCMLSnAH",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966504291635675100,
+   "in_reply_to_status_id_str": "966504291635675136",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/XgLCMLSnAH",
+     "expand": "https://twitter.com/i/web/status/966504506308440064"
+    }
+   ]
+  },
+  {
+   "id": 966504291635675100,
+   "id_str": "966504291635675136",
+   "created_at": "Thu Feb 22 02:45:54 +0000 2018",
+   "text": "@lumpej to be clear, it doesn't use redux-observable (if it even ever did, I can't recall). Just in the similar rea… https://t.co/blYjEXeeeV",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966503985052971000,
+   "in_reply_to_status_id_str": "966503985052971008",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/blYjEXeeeV",
+     "expand": "https://twitter.com/i/web/status/966504291635675136"
+    }
+   ]
+  },
+  {
+   "id": 966503985052971000,
+   "id_str": "966503985052971008",
+   "created_at": "Thu Feb 22 02:44:41 +0000 2018",
+   "text": "@lumpej Small apps can get away with a generic request epic for sure, but in those cases I don't think you'd need t… https://t.co/E0JKzNeemo",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966494588579008500,
+   "in_reply_to_status_id_str": "966494588579008513",
+   "in_reply_to_screen_name": "lumpej",
+   "urls": [
+    {
+     "url": "https://t.co/E0JKzNeemo",
+     "expand": "https://twitter.com/i/web/status/966503985052971008"
+    }
+   ]
+  },
+  {
+   "id": 966503198314741800,
+   "id_str": "966503198314741760",
+   "created_at": "Thu Feb 22 02:41:33 +0000 2018",
+   "text": "@nick_zuber I believe it doesn't ship ESM as the default \"main\", instead it uses CJS and then also supports the \"mo… https://t.co/xvL3vOytCi",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966493174196854800,
+   "in_reply_to_status_id_str": "966493174196854784",
+   "in_reply_to_screen_name": "nick_zuber",
+   "urls": [
+    {
+     "url": "https://t.co/xvL3vOytCi",
+     "expand": "https://twitter.com/i/web/status/966503198314741760"
+    }
+   ]
+  },
+  {
+   "id": 966490321885548500,
+   "id_str": "966490321885548547",
+   "created_at": "Thu Feb 22 01:50:23 +0000 2018",
+   "text": "@knitcodemonkey @BenLesh @_ojkwon (unrelated, I do agree of course moderation is great)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966490084051624000,
+   "in_reply_to_status_id_str": "966490084051623937",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": []
+  },
+  {
+   "id": 966490084051624000,
+   "id_str": "966490084051623937",
+   "created_at": "Thu Feb 22 01:49:27 +0000 2018",
+   "text": "@knitcodemonkey @BenLesh @_ojkwon sorry, I was totally joking and trolling cause Ben and I are buds.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966488894760894500,
+   "in_reply_to_status_id_str": "966488894760894469",
+   "in_reply_to_screen_name": "knitcodemonkey",
+   "urls": []
+  },
+  {
+   "id": 966488201048113200,
+   "id_str": "966488201048113153",
+   "created_at": "Thu Feb 22 01:41:58 +0000 2018",
+   "text": "@BenLesh @knitcodemonkey @_ojkwon You should be ashamed",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966487069676552200,
+   "in_reply_to_status_id_str": "966487069676552192",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966485145959120900,
+   "id_str": "966485145959120896",
+   "created_at": "Thu Feb 22 01:29:49 +0000 2018",
+   "text": "RT @kentcdodds: Actual feedback I got from my workshop today (paraphrased):\n\nPerson 1: \"The exercise was too simplistic. Not real world eno…",
+   "retweet_count": 34,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966482675837100000,
+    "id_str": "966482675837100032",
+    "created_at": "Thu Feb 22 01:20:00 +0000 2018",
+    "text": "Actual feedback I got from my workshop today (paraphrased):\n\nPerson 1: \"The exercise was too simplistic. Not real w… https://t.co/eWPZVcs51y",
+    "retweet_count": 34,
+    "favorite_count": 364,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eWPZVcs51y",
+      "expand": "https://twitter.com/i/web/status/966482675837100032"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966483804759052300,
+   "id_str": "966483804759052288",
+   "created_at": "Thu Feb 22 01:24:30 +0000 2018",
+   "text": "@BenLesh @_ojkwon *and just like that, @BenLesh unwittingly volunteered*",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 966483512554545200,
+   "in_reply_to_status_id_str": "966483512554545152",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966483019581112300,
+   "id_str": "966483019581112320",
+   "created_at": "Thu Feb 22 01:21:22 +0000 2018",
+   "text": "@BenLesh @_ojkwon shhhhh Ben. Don't spoil my secret plan!",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 966482403156873200,
+   "in_reply_to_status_id_str": "966482403156873216",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966481815350394900,
+   "id_str": "966481815350394880",
+   "created_at": "Thu Feb 22 01:16:35 +0000 2018",
+   "text": "@tbranyen @jmeaspls With semver I dont see why people couldn’t technically ship ESM? Sure, some people won’t use it… https://t.co/2khZiGSiHz",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966476442144919600,
+   "in_reply_to_status_id_str": "966476442144919552",
+   "in_reply_to_screen_name": "tbranyen",
+   "urls": [
+    {
+     "url": "https://t.co/2khZiGSiHz",
+     "expand": "https://twitter.com/i/web/status/966481815350394880"
+    }
+   ]
+  },
+  {
+   "id": 966481446180307000,
+   "id_str": "966481446180306944",
+   "created_at": "Thu Feb 22 01:15:07 +0000 2018",
+   "text": "I mean that “main” is ESM and no CJS to be found",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966474343017402400,
+   "in_reply_to_status_id_str": "966474343017402371",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": []
+  },
+  {
+   "id": 966476252612739100,
+   "id_str": "966476252612739079",
+   "created_at": "Thu Feb 22 00:54:29 +0000 2018",
+   "text": "@tbranyen @jmeaspls looks like your \"main\" is still pointing to cjs? https://t.co/bQ3Mtc9lDj",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966476152687571000,
+   "in_reply_to_status_id_str": "966476152687570944",
+   "in_reply_to_screen_name": "tbranyen",
+   "urls": [
+    {
+     "url": "https://t.co/bQ3Mtc9lDj",
+     "expand": "https://unpkg.com/diffhtml@1.0.0-beta.9/package.json"
+    }
+   ]
+  },
+  {
+   "id": 966475545536995300,
+   "id_str": "966475545536995328",
+   "created_at": "Thu Feb 22 00:51:40 +0000 2018",
+   "text": "@treshugart yep looking for ESM-only `main`, but thank you!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966475340292931600,
+   "in_reply_to_status_id_str": "966475340292931584",
+   "in_reply_to_screen_name": "treshugart",
+   "urls": []
+  },
+  {
+   "id": 966475399252160500,
+   "id_str": "966475399252160512",
+   "created_at": "Thu Feb 22 00:51:06 +0000 2018",
+   "text": "@jmeaspls Yep, just curious how crazy it would be.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966475116740730900,
+   "in_reply_to_status_id_str": "966475116740730880",
+   "in_reply_to_screen_name": "jmeaspls",
+   "urls": []
+  },
+  {
+   "id": 966474343017402400,
+   "id_str": "966474343017402371",
+   "created_at": "Thu Feb 22 00:46:54 +0000 2018",
+   "text": "Are any notable JavaScript packages published to npm using ES Modules only yet, no CJS? (not side builds like lodash-es)",
+   "retweet_count": 5,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966437129868820500,
+   "id_str": "966437129868820481",
+   "created_at": "Wed Feb 21 22:19:01 +0000 2018",
+   "text": "@BrendanEich @davywtf *No VBScript.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966436437859229700,
+   "in_reply_to_status_id_str": "966436437859229696",
+   "in_reply_to_screen_name": "BrendanEich",
+   "urls": []
+  },
+  {
+   "id": 966431549716545500,
+   "id_str": "966431549716545536",
+   "created_at": "Wed Feb 21 21:56:51 +0000 2018",
+   "text": "@cilice The issue is more complicated and tough to explain here but there is an rxjs ticket I link to in the one above",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966429689173676000,
+   "in_reply_to_status_id_str": "966429689173676032",
+   "in_reply_to_screen_name": "cilice",
+   "urls": []
+  },
+  {
+   "id": 966428691797442600,
+   "id_str": "966428691797442562",
+   "created_at": "Wed Feb 21 21:45:30 +0000 2018",
+   "text": "@BenLesh @sebmck @TheLarkInn @samccone @trek @jamiebuilds @contrahacks @momster2929 @ladyleet",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966428372766044200,
+   "in_reply_to_status_id_str": "966428372766044160",
+   "in_reply_to_screen_name": "BenLesh",
+   "urls": []
+  },
+  {
+   "id": 966428576877748200,
+   "id_str": "966428576877748224",
+   "created_at": "Wed Feb 21 21:45:02 +0000 2018",
+   "text": "@cilice I'm actively working on the v6 blockers btw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966428464801660900,
+   "in_reply_to_status_id_str": "966428464801660929",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": []
+  },
+  {
+   "id": 966428464801660900,
+   "id_str": "966428464801660929",
+   "created_at": "Wed Feb 21 21:44:36 +0000 2018",
+   "text": "@cilice function bind is most likely dead, but there are some pending blockers around migrating rxjs to v6 and usin… https://t.co/3UM3nJ5cFM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966416996970782700,
+   "in_reply_to_status_id_str": "966416996970782720",
+   "in_reply_to_screen_name": "cilice",
+   "urls": [
+    {
+     "url": "https://t.co/3UM3nJ5cFM",
+     "expand": "https://twitter.com/i/web/status/966428464801660929"
+    }
+   ]
+  },
+  {
+   "id": 966427528888922100,
+   "id_str": "966427528888922112",
+   "created_at": "Wed Feb 21 21:40:52 +0000 2018",
+   "text": "RT @ieatyourcode: Anyone else using ECS/ECR experiencing issues where ECS cannot pull an image from ECR and it throws an i/o timeout? #aws…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966426933394210800,
+    "id_str": "966426933394210816",
+    "created_at": "Wed Feb 21 21:38:30 +0000 2018",
+    "text": "Anyone else using ECS/ECR experiencing issues where ECS cannot pull an image from ECR and it throws an i/o timeout? #aws #ecr #ecs #s3",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966390720062869500,
+   "id_str": "966390720062869504",
+   "created_at": "Wed Feb 21 19:14:36 +0000 2018",
+   "text": "RT @captbaritone: Holy moly. You can write a key logger  in pure CSS. I wonder if @reddit custom themes would be vulnerable. https://t.co/y…",
+   "retweet_count": 2576,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966051583132758000,
+    "id_str": "966051583132758016",
+    "created_at": "Tue Feb 20 20:47:00 +0000 2018",
+    "text": "Holy moly. You can write a key logger  in pure CSS. I wonder if @reddit custom themes would be vulnerable.… https://t.co/qVmveKwO4R",
+    "retweet_count": 2576,
+    "favorite_count": 3613,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qVmveKwO4R",
+      "expand": "https://twitter.com/i/web/status/966051583132758016"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966376806172393500,
+   "id_str": "966376806172393472",
+   "created_at": "Wed Feb 21 18:19:19 +0000 2018",
+   "text": "RT @ThisDotMedia: Tomorrow @ 9am PST tune in live! We will be broadcasting This.JavaScript: Framework edition - Make sure you're registered…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966376515419148300,
+    "id_str": "966376515419148289",
+    "created_at": "Wed Feb 21 18:18:10 +0000 2018",
+    "text": "Tomorrow @ 9am PST tune in live! We will be broadcasting This.JavaScript: Framework edition - Make sure you're regi… https://t.co/VaDPjqNmZV",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VaDPjqNmZV",
+      "expand": "https://twitter.com/i/web/status/966376515419148289"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966075261832765400,
+   "id_str": "966075261832765440",
+   "created_at": "Tue Feb 20 22:21:05 +0000 2018",
+   "text": "@suhas_rd @spectacleapp  https://t.co/qRZ5jSTAHF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966060505738563600,
+   "in_reply_to_status_id_str": "966060505738563584",
+   "in_reply_to_screen_name": "suhas_rd",
+   "urls": []
+  },
+  {
+   "id": 966071580227911700,
+   "id_str": "966071580227911680",
+   "created_at": "Tue Feb 20 22:06:28 +0000 2018",
+   "text": "RT @moderndotweb: Listen to @thelarkinn, @_jayphelps, @ladyleet, &amp; @benlesh discuss the \"Current State of WebAssembly\" in this podcast http…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966071225956126700,
+    "id_str": "966071225956126720",
+    "created_at": "Tue Feb 20 22:05:03 +0000 2018",
+    "text": "Listen to @thelarkinn, @_jayphelps, @ladyleet, &amp; @benlesh discuss the \"Current State of WebAssembly\" in this podcast https://t.co/453eHh1il0",
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/453eHh1il0",
+      "expand": "https://buff.ly/2CRhEiu"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966034329003372500,
+   "id_str": "966034329003372544",
+   "created_at": "Tue Feb 20 19:38:26 +0000 2018",
+   "text": "@psegalen I would expect redux-saga performance to be relatively comparable FWIW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966029432044613600,
+   "in_reply_to_status_id_str": "966029432044613633",
+   "in_reply_to_screen_name": "psegalen",
+   "urls": []
+  },
+  {
+   "id": 966021227671253000,
+   "id_str": "966021227671252992",
+   "created_at": "Tue Feb 20 18:46:23 +0000 2018",
+   "text": "@psegalen Do you think you'll be reaching a large number of epics?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966021202836770800,
+   "in_reply_to_status_id_str": "966021202836770816",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": []
+  },
+  {
+   "id": 966021202836770800,
+   "id_str": "966021202836770816",
+   "created_at": "Tue Feb 20 18:46:17 +0000 2018",
+   "text": "@psegalen Still, it would be quite insane to have tens of thousands of epics in practice and if that case ever come… https://t.co/p0KT6ue0NZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966020984250617900,
+   "in_reply_to_status_id_str": "966020984250617858",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/p0KT6ue0NZ",
+     "expand": "https://twitter.com/i/web/status/966021202836770816"
+    }
+   ]
+  },
+  {
+   "id": 966020984250617900,
+   "id_str": "966020984250617858",
+   "created_at": "Tue Feb 20 18:45:25 +0000 2018",
+   "text": "@psegalen Generally speaking you might have a measurable slow down if you have tens of thousands of epics. and by m… https://t.co/5VbpNr0Hnv",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966020100489818100,
+   "in_reply_to_status_id_str": "966020100489818112",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/5VbpNr0Hnv",
+     "expand": "https://twitter.com/i/web/status/966020984250617858"
+    }
+   ]
+  },
+  {
+   "id": 966020100489818100,
+   "id_str": "966020100489818112",
+   "created_at": "Tue Feb 20 18:41:54 +0000 2018",
+   "text": "@psegalen The number of epics you can have before you start noticing a performance impact highly depends on the ava… https://t.co/8FtW8qmTrM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965953202628776000,
+   "in_reply_to_status_id_str": "965953202628775936",
+   "in_reply_to_screen_name": "psegalen",
+   "urls": [
+    {
+     "url": "https://t.co/8FtW8qmTrM",
+     "expand": "https://twitter.com/i/web/status/966020100489818112"
+    }
+   ]
+  },
+  {
+   "id": 966000227084681200,
+   "id_str": "966000227084681216",
+   "created_at": "Tue Feb 20 17:22:56 +0000 2018",
+   "text": "@_jwerner_ @spectacleapp Right on. Do you use a large monitor?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965990519447932900,
+   "in_reply_to_status_id_str": "965990519447932929",
+   "in_reply_to_screen_name": "_jwerner_",
+   "urls": []
+  },
+  {
+   "id": 965857172746719200,
+   "id_str": "965857172746719232",
+   "created_at": "Tue Feb 20 07:54:29 +0000 2018",
+   "text": "RT @MkHeck: How to build a horse. 😉 https://t.co/kF75mcWf7W",
+   "retweet_count": 425,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965616414924124200,
+    "id_str": "965616414924124160",
+    "created_at": "Mon Feb 19 15:57:48 +0000 2018",
+    "text": "How to build a horse. 😉 https://t.co/kF75mcWf7W",
+    "retweet_count": 425,
+    "favorite_count": 688,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965829110411833300,
+   "id_str": "965829110411833344",
+   "created_at": "Tue Feb 20 06:02:58 +0000 2018",
+   "text": "RT @ncjamieson: I just published “RxJS: Understanding Expand” https://t.co/yklmWIaT1N",
+   "retweet_count": 44,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yklmWIaT1N",
+     "expand": "https://medium.com/p/rxjs-understanding-expand-a5f8b41a3602"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965717318226636800,
+    "id_str": "965717318226636800",
+    "created_at": "Mon Feb 19 22:38:45 +0000 2018",
+    "text": "I just published “RxJS: Understanding Expand” https://t.co/yklmWIaT1N",
+    "retweet_count": 44,
+    "favorite_count": 123,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yklmWIaT1N",
+      "expand": "https://medium.com/p/rxjs-understanding-expand-a5f8b41a3602"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965828863149318100,
+   "id_str": "965828863149318144",
+   "created_at": "Tue Feb 20 06:01:59 +0000 2018",
+   "text": "@botherchou @spectacleapp Here’s another one, though I haven’t tried it yet https://t.co/Y7n7KNQPph",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965810448288419800,
+   "in_reply_to_status_id_str": "965810448288419840",
+   "in_reply_to_screen_name": "botherchou",
+   "urls": [
+    {
+     "url": "https://t.co/Y7n7KNQPph",
+     "expand": "https://twitter.com/justsml/status/965807340468387840"
+    }
+   ]
+  },
+  {
+   "id": 965785715639382000,
+   "id_str": "965785715639382017",
+   "created_at": "Tue Feb 20 03:10:32 +0000 2018",
+   "text": "RT @adamthomann: @_jayphelps @spectacleapp I've been using a combo between Hammerspoon and BetterTouchTool.  Agree it is pretty essential",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965785282946748400,
+    "id_str": "965785282946748416",
+    "created_at": "Tue Feb 20 03:08:49 +0000 2018",
+    "text": "@_jayphelps @spectacleapp I've been using a combo between Hammerspoon and BetterTouchTool.  Agree it is pretty essential",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": 965783451847635000,
+    "in_reply_to_status_id_str": "965783451847634944",
+    "in_reply_to_screen_name": "_jayphelps",
+    "urls": []
+   }
+  },
+  {
+   "id": 965784348338237400,
+   "id_str": "965784348338237440",
+   "created_at": "Tue Feb 20 03:05:06 +0000 2018",
+   "text": "@walesmd @spectacleapp 👍👍 I remember using it years ago too. Can't recall why I switched. Maybe just simply because… https://t.co/aXPk9qkBFQ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965783845655195600,
+   "in_reply_to_status_id_str": "965783845655195653",
+   "in_reply_to_screen_name": "walesmd",
+   "urls": [
+    {
+     "url": "https://t.co/aXPk9qkBFQ",
+     "expand": "https://twitter.com/i/web/status/965784348338237440"
+    }
+   ]
+  },
+  {
+   "id": 965783763606106100,
+   "id_str": "965783763606106112",
+   "created_at": "Tue Feb 20 03:02:47 +0000 2018",
+   "text": "Honestly I forget it isn't just how macOS works until I use someone else's computer or get a new one. Then I wonder… https://t.co/kV38JRJG7m",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 965783451847635000,
+   "in_reply_to_status_id_str": "965783451847634944",
+   "in_reply_to_screen_name": "_jayphelps",
+   "urls": [
+    {
+     "url": "https://t.co/kV38JRJG7m",
+     "expand": "https://twitter.com/i/web/status/965783763606106112"
+    }
+   ]
+  },
+  {
+   "id": 965783451847635000,
+   "id_str": "965783451847634944",
+   "created_at": "Tue Feb 20 03:01:32 +0000 2018",
+   "text": "If you're on a Mac, using a custom window layout manager like @spectacleapp will become essential to your productiv… https://t.co/Rw9hVwYMJ3",
+   "retweet_count": 16,
+   "favorite_count": 98,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Rw9hVwYMJ3",
+     "expand": "https://twitter.com/i/web/status/965783451847634944"
+    }
+   ]
+  },
+  {
+   "id": 965764020539019300,
+   "id_str": "965764020539019266",
+   "created_at": "Tue Feb 20 01:44:20 +0000 2018",
+   "text": "RT @ladyleet: Enjoy keeping up with open source frameworks, libraries, and browser standards? Then you're def not going to want to miss our…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965722751720984600,
+    "id_str": "965722751720984576",
+    "created_at": "Mon Feb 19 23:00:20 +0000 2018",
+    "text": "Enjoy keeping up with open source frameworks, libraries, and browser standards? Then you're def not going to want t… https://t.co/wLPQf0JZ3y",
+    "retweet_count": 6,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wLPQf0JZ3y",
+      "expand": "https://twitter.com/i/web/status/965722751720984576"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965431460323721200,
+   "id_str": "965431460323721216",
+   "created_at": "Mon Feb 19 03:42:51 +0000 2018",
+   "text": "@AdamRackis I left Netflix last week 😂 https://t.co/yQKCnBYwGK",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 965431274784600000,
+   "in_reply_to_status_id_str": "965431274784600065",
+   "in_reply_to_screen_name": "AdamRackis",
+   "urls": [
+    {
+     "url": "https://t.co/yQKCnBYwGK",
+     "expand": "https://twitter.com/_jayphelps/status/962367319576948736"
+    }
+   ]
+  },
+  {
+   "id": 964955612667940900,
+   "id_str": "964955612667940865",
+   "created_at": "Sat Feb 17 20:12:00 +0000 2018",
+   "text": "@ladyleet @ARebelBelle I’ve been running around all day lol 😅",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 964943100559929300,
+   "in_reply_to_status_id_str": "964943100559929349",
+   "in_reply_to_screen_name": "ladyleet",
+   "urls": []
+  },
+  {
+   "id": 964919278427402200,
+   "id_str": "964919278427402240",
+   "created_at": "Sat Feb 17 17:47:37 +0000 2018",
+   "text": "@holtbt Depending on where they live, there are high output transmitters, including ones which act like a line of s… https://t.co/tU8wrOfK9Y",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 964916724825862100,
+   "in_reply_to_status_id_str": "964916724825862145",
+   "in_reply_to_screen_name": "holtbt",
+   "urls": [
+    {
+     "url": "https://t.co/tU8wrOfK9Y",
+     "expand": "https://twitter.com/i/web/status/964919278427402240"
+    }
+   ]
+  },
   {
    "id": 964723636509790200,
    "id_str": "964723636509790208",
    "created_at": "Sat Feb 17 04:50:13 +0000 2018",
    "text": "RT @stevelikescups: We tried getting the two for one special at black panther. The manager was not having it. https://t.co/Ktqsuh7s3m",
-   "retweet_count": 56161,
+   "retweet_count": 182423,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +1080,11 @@
     "id_str": "964622725833670656",
     "created_at": "Fri Feb 16 22:09:14 +0000 2018",
     "text": "We tried getting the two for one special at black panther. The manager was not having it. https://t.co/Ktqsuh7s3m",
-    "retweet_count": 56161,
-    "favorite_count": 122496,
+    "retweet_count": 182423,
+    "favorite_count": 449574,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
    }

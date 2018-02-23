@@ -1,34 +1,23 @@
 {
- "time": 1518873087543,
+ "time": 1519367078917,
  "lists": [
   {
-   "id": 964765665189036000,
-   "id_str": "964765665189036032",
-   "created_at": "Sat Feb 17 07:37:13 +0000 2018",
-   "text": "RT @Percona: New Post: ProxySQL 1.4.5 and Updated proxysql-admin Tool Now in the Percona Repository. By, Dmitriy Kostiuk. Read More: https:…",
-   "retweet_count": 3,
+   "id": 966903727478120400,
+   "id_str": "966903727478120449",
+   "created_at": "Fri Feb 23 05:13:07 +0000 2018",
+   "text": "How to compile and run @ProxySQL on #FreeBSD : https://t.co/17uQBIp9km",
+   "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964232883589304300,
-    "id_str": "964232883589304321",
-    "created_at": "Thu Feb 15 20:20:08 +0000 2018",
-    "text": "New Post: ProxySQL 1.4.5 and Updated proxysql-admin Tool Now in the Percona Repository. By, Dmitriy Kostiuk. Read M… https://t.co/hmd18r4Lym",
-    "retweet_count": 3,
-    "favorite_count": 7,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/hmd18r4Lym",
-      "expand": "https://twitter.com/i/web/status/964232883589304321"
-     }
-    ]
-   }
+   "urls": [
+    {
+     "url": "https://t.co/17uQBIp9km",
+     "expand": "http://www.proxysql.com/blog/proxysql-on-freebsd"
+    }
+   ]
   }
  ]
 }

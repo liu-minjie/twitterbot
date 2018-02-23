@@ -1,17 +1,41 @@
 {
- "time": 1518870384288,
+ "time": 1519367049022,
  "lists": [
   {
-   "id": 963642547255029800,
-   "id_str": "963642547255029762",
-   "created_at": "Wed Feb 14 05:14:21 +0000 2018",
-   "text": ".@bradleygriffith Honored to congratulate you on your release of Blotter. What a fucking cool piece of software man, good shit!",
-   "retweet_count": 0,
+   "id": 966888165045760000,
+   "id_str": "966888165045760001",
+   "created_at": "Fri Feb 23 04:11:17 +0000 2018",
+   "text": "RT @jongleberry: I just published “Monitor All The Things” https://t.co/wf7ikJmbA6",
+   "retweet_count": 3,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": []
+   "urls": [
+    {
+     "url": "https://t.co/wf7ikJmbA6",
+     "expand": "https://medium.com/p/monitor-all-the-things-4b6f88a922e6"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966544553988718600,
+    "id_str": "966544553988718593",
+    "created_at": "Thu Feb 22 05:25:53 +0000 2018",
+    "text": "I just published “Monitor All The Things” https://t.co/wf7ikJmbA6",
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wf7ikJmbA6",
+      "expand": "https://medium.com/p/monitor-all-the-things-4b6f88a922e6"
+     }
+    ]
+   }
   }
  ]
 }

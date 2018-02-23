@@ -1,15 +1,471 @@
 {
- "time": 1518869614083,
+ "time": 1519367043302,
  "lists": [
+  {
+   "id": 966832567025524700,
+   "id_str": "966832567025524736",
+   "created_at": "Fri Feb 23 00:30:21 +0000 2018",
+   "text": "@Castroalas @angular Still doing lots of improvements to i18n. We should probably publish a roadmap for that too. @vberchet",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966816365758877700,
+   "in_reply_to_status_id_str": "966816365758877697",
+   "in_reply_to_screen_name": "Castroalas",
+   "urls": []
+  },
+  {
+   "id": 966831970515763200,
+   "id_str": "966831970515763200",
+   "created_at": "Fri Feb 23 00:27:59 +0000 2018",
+   "text": "@MarkPieszak That WAS a great experience!",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966816222552748000,
+   "in_reply_to_status_id_str": "966816222552748032",
+   "in_reply_to_screen_name": "MarkPieszak",
+   "urls": []
+  },
+  {
+   "id": 966768794000478200,
+   "id_str": "966768794000478208",
+   "created_at": "Thu Feb 22 20:16:56 +0000 2018",
+   "text": "@dodgymigrant @angular Yes, this is on the table along with many other simplifications that become much easier with… https://t.co/QuyixSYoJ2",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 966765273540948000,
+   "in_reply_to_status_id_str": "966765273540947969",
+   "in_reply_to_screen_name": "dodgymigrant",
+   "urls": [
+    {
+     "url": "https://t.co/QuyixSYoJ2",
+     "expand": "https://twitter.com/i/web/status/966768794000478208"
+    }
+   ]
+  },
+  {
+   "id": 966754499854413800,
+   "id_str": "966754499854413824",
+   "created_at": "Thu Feb 22 19:20:08 +0000 2018",
+   "text": "Just blogged on Angular's 2018 Roadmap and my awesome experience at the ngAtlanta conference.\n\nhttps://t.co/NdDLHy0zs1",
+   "retweet_count": 44,
+   "favorite_count": 113,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NdDLHy0zs1",
+     "expand": "https://blog.angular.io/trip-report-from-ngatlanta-angulars-roadmap-inclusion-and-more-b6c8bae85417"
+    }
+   ]
+  },
+  {
+   "id": 966490499417743400,
+   "id_str": "966490499417743361",
+   "created_at": "Thu Feb 22 01:51:06 +0000 2018",
+   "text": "RT @AngularGirls: ngGirls is coming to Galicia, Spain! 🎉 one day #Angular workshop introducing women to the tech world - March 9th, Vigo. A…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966373844301860900,
+    "id_str": "966373844301860864",
+    "created_at": "Wed Feb 21 18:07:33 +0000 2018",
+    "text": "ngGirls is coming to Galicia, Spain! 🎉 one day #Angular workshop introducing women to the tech world - March 9th, V… https://t.co/RQTT2T5YCr",
+    "retweet_count": 17,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RQTT2T5YCr",
+      "expand": "https://twitter.com/i/web/status/966373844301860864"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966490340495511600,
+   "id_str": "966490340495511552",
+   "created_at": "Thu Feb 22 01:50:28 +0000 2018",
+   "text": "RT @nrwl_io: New Course on Angular Playbook: \"Angular v6: What is Coming and Updates Since v5\"\nhttps://t.co/jfKKPBKfjg",
+   "retweet_count": 106,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jfKKPBKfjg",
+     "expand": "https://blog.nrwl.io/angular-enterprise-playbook-course-angular-v6-what-is-coming-and-updates-since-v5-60542e8436bd"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966360722534887400,
+    "id_str": "966360722534887424",
+    "created_at": "Wed Feb 21 17:15:25 +0000 2018",
+    "text": "New Course on Angular Playbook: \"Angular v6: What is Coming and Updates Since v5\"\nhttps://t.co/jfKKPBKfjg",
+    "retweet_count": 106,
+    "favorite_count": 197,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jfKKPBKfjg",
+      "expand": "https://blog.nrwl.io/angular-enterprise-playbook-course-angular-v6-what-is-coming-and-updates-since-v5-60542e8436bd"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966062935297544200,
+   "id_str": "966062935297544193",
+   "created_at": "Tue Feb 20 21:32:07 +0000 2018",
+   "text": "@bnymncoskuner @IgorMinar @ngconf We're letting everyone draw their own inspiration from the name. So....yes? 😀",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965820096580112400,
+   "in_reply_to_status_id_str": "965820096580112384",
+   "in_reply_to_screen_name": "bnymncoskuner",
+   "urls": []
+  },
+  {
+   "id": 966062276938678300,
+   "id_str": "966062276938678273",
+   "created_at": "Tue Feb 20 21:29:30 +0000 2018",
+   "text": "@sahilmalik As are all such things in the list 😀",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965997548824559600,
+   "in_reply_to_status_id_str": "965997548824559617",
+   "in_reply_to_screen_name": "sahilmalik",
+   "urls": []
+  },
+  {
+   "id": 965995560091099100,
+   "id_str": "965995560091099136",
+   "created_at": "Tue Feb 20 17:04:23 +0000 2018",
+   "text": "RT @ABCPolitics: ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on his arm.…",
+   "retweet_count": 72728,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965711747419115500,
+    "id_str": "965711747419115522",
+    "created_at": "Mon Feb 19 22:16:37 +0000 2018",
+    "text": "ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on h… https://t.co/boeBgtXNE0",
+    "retweet_count": 72728,
+    "favorite_count": 201702,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/boeBgtXNE0",
+      "expand": "https://twitter.com/i/web/status/965711747419115522"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965995228485247000,
+   "id_str": "965995228485246977",
+   "created_at": "Tue Feb 20 17:03:04 +0000 2018",
+   "text": "@jesselpalmer ❤️",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965992632445894700,
+   "in_reply_to_status_id_str": "965992632445894663",
+   "in_reply_to_screen_name": "jesselpalmer",
+   "urls": []
+  },
+  {
+   "id": 965994997584511000,
+   "id_str": "965994997584510977",
+   "created_at": "Tue Feb 20 17:02:09 +0000 2018",
+   "text": "RT @jesselpalmer: https://t.co/CKnRlmlP2X",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965992632445894700,
+    "id_str": "965992632445894663",
+    "created_at": "Tue Feb 20 16:52:45 +0000 2018",
+    "text": "https://t.co/CKnRlmlP2X",
+    "retweet_count": 18,
+    "favorite_count": 35,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965994801022746600,
+   "id_str": "965994801022746625",
+   "created_at": "Tue Feb 20 17:01:22 +0000 2018",
+   "text": "@magyarsrac Thanks for the kind words! I really enjoyed putting this together.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965570130091696100,
+   "in_reply_to_status_id_str": "965570130091696128",
+   "in_reply_to_screen_name": "magyarsrac",
+   "urls": []
+  },
+  {
+   "id": 965994646231957500,
+   "id_str": "965994646231957504",
+   "created_at": "Tue Feb 20 17:00:45 +0000 2018",
+   "text": "@dave_lifeAI @citylinkai @yourlifeai I don't have plans to have our team work on this, but it would be much easier… https://t.co/LhPY1PiREI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965807851498176500,
+   "in_reply_to_status_id_str": "965807851498176512",
+   "in_reply_to_screen_name": "dave_lifeAI",
+   "urls": [
+    {
+     "url": "https://t.co/LhPY1PiREI",
+     "expand": "https://twitter.com/i/web/status/965994646231957504"
+    }
+   ]
+  },
+  {
+   "id": 965993641524121600,
+   "id_str": "965993641524121601",
+   "created_at": "Tue Feb 20 16:56:46 +0000 2018",
+   "text": "@Algorithmist Nooooooo! :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965990189540827100,
+   "in_reply_to_status_id_str": "965990189540827136",
+   "in_reply_to_screen_name": "Algorithmist",
+   "urls": []
+  },
+  {
+   "id": 965990255357603800,
+   "id_str": "965990255357603840",
+   "created_at": "Tue Feb 20 16:43:18 +0000 2018",
+   "text": "@Hchan_mgn @angular @trotylyu Great job, @trotylyu! Thanks for taking the time to write this.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 965962758213705700,
+   "in_reply_to_status_id_str": "965962758213705729",
+   "in_reply_to_screen_name": "Hchan_mgn",
+   "urls": []
+  },
+  {
+   "id": 965988940011397100,
+   "id_str": "965988940011397120",
+   "created_at": "Tue Feb 20 16:38:05 +0000 2018",
+   "text": "RT @ngconf: Super-Powered, Server-Rendered Progressive Native Apps 🔥  Join #AngularUniversal Expert @jeffwhelpley and #NativeScript Guru @w…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965677435957149700,
+    "id_str": "965677435957149696",
+    "created_at": "Mon Feb 19 20:00:16 +0000 2018",
+    "text": "Super-Powered, Server-Rendered Progressive Native Apps 🔥  Join #AngularUniversal Expert @jeffwhelpley and… https://t.co/eDEadJngb1",
+    "retweet_count": 9,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eDEadJngb1",
+      "expand": "https://twitter.com/i/web/status/965677435957149696"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965988844121149400,
+   "id_str": "965988844121149440",
+   "created_at": "Tue Feb 20 16:37:42 +0000 2018",
+   "text": "RT @mgechev: Tomorrow I have a talk at Google's office in San Francisco, right next to Bay Bridge. Feel free to join and see what you can d…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965681327868592100,
+    "id_str": "965681327868592128",
+    "created_at": "Mon Feb 19 20:15:44 +0000 2018",
+    "text": "Tomorrow I have a talk at Google's office in San Francisco, right next to Bay Bridge. Feel free to join and see wha… https://t.co/arxJ5fOKob",
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/arxJ5fOKob",
+      "expand": "https://twitter.com/i/web/status/965681327868592128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965988595361173500,
+   "id_str": "965988595361173504",
+   "created_at": "Tue Feb 20 16:36:42 +0000 2018",
+   "text": "What would be a good word for that slightly sad moment in the morning when you've finished your last sip of coffee… https://t.co/PhkKqb2o2E",
+   "retweet_count": 0,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PhkKqb2o2E",
+     "expand": "https://twitter.com/i/web/status/965988595361173504"
+    }
+   ]
+  },
+  {
+   "id": 965961636627464200,
+   "id_str": "965961636627464192",
+   "created_at": "Tue Feb 20 14:49:35 +0000 2018",
+   "text": "@Hchan_mgn @angular @trotylyu Such an amazingly clear blog post! I wish we'd written it. 😀",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 965472053997400000,
+   "in_reply_to_status_id_str": "965472053997400064",
+   "in_reply_to_screen_name": "Hchan_mgn",
+   "urls": []
+  },
+  {
+   "id": 964871077057867800,
+   "id_str": "964871077057867776",
+   "created_at": "Sat Feb 17 14:36:05 +0000 2018",
+   "text": "RT @angelmbanks: 5 Rules for Designer-Engineer Collaboration https://t.co/L6nONAhTuE #ux #design #softwaredevelopment #productdesign https:…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/L6nONAhTuE",
+     "expand": "https://buff.ly/2o9kJmY"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964613361718751200,
+    "id_str": "964613361718751233",
+    "created_at": "Fri Feb 16 21:32:01 +0000 2018",
+    "text": "5 Rules for Designer-Engineer Collaboration https://t.co/L6nONAhTuE #ux #design #softwaredevelopment #productdesign https://t.co/deSArhzhnh",
+    "retweet_count": 6,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/L6nONAhTuE",
+      "expand": "https://buff.ly/2o9kJmY"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964871026935939100,
+   "id_str": "964871026935939072",
+   "created_at": "Sat Feb 17 14:35:53 +0000 2018",
+   "text": "RT @mmmmichi: How many days in a row can I retweet this article by @aprilwensel before I'm totally obnoxious? This is so important for ever…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964587923256438800,
+    "id_str": "964587923256438784",
+    "created_at": "Fri Feb 16 19:50:56 +0000 2018",
+    "text": "How many days in a row can I retweet this article by @aprilwensel before I'm totally obnoxious? This is so importan… https://t.co/fJFaafM12F",
+    "retweet_count": 18,
+    "favorite_count": 26,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fJFaafM12F",
+      "expand": "https://twitter.com/i/web/status/964587923256438784"
+     }
+    ]
+   }
+  },
+  {
+   "id": 964870781061644300,
+   "id_str": "964870781061644288",
+   "created_at": "Sat Feb 17 14:34:55 +0000 2018",
+   "text": "@Tzmanics @ladyleet @bonnster75 @John_Papa @CarmenPopoviciu I gave everyone that as a subliminal suggestion during the keynote.",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 964637503230799900,
+   "in_reply_to_status_id_str": "964637503230799872",
+   "in_reply_to_screen_name": "Tzmanics",
+   "urls": []
+  },
   {
    "id": 964568551838203900,
    "id_str": "964568551838203904",
    "created_at": "Fri Feb 16 18:33:58 +0000 2018",
    "text": "RT @kammysliwiec: Latest @nestframework release comes with a lot of new features, bugfixes, and several improvements, but also is a teaser…",
-   "retweet_count": 21,
+   "retweet_count": 32,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +473,11 @@
     "id_str": "964541286987567104",
     "created_at": "Fri Feb 16 16:45:37 +0000 2018",
     "text": "Latest @nestframework release comes with a lot of new features, bugfixes, and several improvements, but also is a t… https://t.co/vVpUv6ajmu",
-    "retweet_count": 21,
-    "favorite_count": 56,
+    "retweet_count": 32,
+    "favorite_count": 78,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

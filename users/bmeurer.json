@@ -1,15 +1,730 @@
 {
- "time": 1518873091521,
+ "time": 1519367082399,
  "lists": [
+  {
+   "id": 966653499147612200,
+   "id_str": "966653499147612161",
+   "created_at": "Thu Feb 22 12:38:48 +0000 2018",
+   "text": "RT @fhinkel: .@ThisDotMedia is happening today https://t.co/CoSrhMTi2P 🤗😍@ladyleet @rachelnabors @youyuxi @BenLesh @justinfagnani @mjackson…",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CoSrhMTi2P",
+     "expand": "https://www.thisdot.co/javascript/02-22-2018"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966623911659098100,
+    "id_str": "966623911659098112",
+    "created_at": "Thu Feb 22 10:41:14 +0000 2018",
+    "text": ".@ThisDotMedia is happening today https://t.co/CoSrhMTi2P 🤗😍@ladyleet @rachelnabors @youyuxi @BenLesh… https://t.co/cS4mZCiJOa",
+    "retweet_count": 24,
+    "favorite_count": 42,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CoSrhMTi2P",
+      "expand": "https://www.thisdot.co/javascript/02-22-2018"
+     },
+     {
+      "url": "https://t.co/cS4mZCiJOa",
+      "expand": "https://twitter.com/i/web/status/966623911659098112"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966563983997186000,
+   "id_str": "966563983997186048",
+   "created_at": "Thu Feb 22 06:43:06 +0000 2018",
+   "text": "@svensauleau @AgentConf @mlippautz We use generational GC plus incremental+concurrent marking. The work stealing is… https://t.co/2KhId1lDXc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966563590328279000,
+   "in_reply_to_status_id_str": "966563590328279040",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": [
+    {
+     "url": "https://t.co/2KhId1lDXc",
+     "expand": "https://twitter.com/i/web/status/966563983997186048"
+    }
+   ]
+  },
+  {
+   "id": 966562075693723600,
+   "id_str": "966562075693723648",
+   "created_at": "Thu Feb 22 06:35:31 +0000 2018",
+   "text": "@svensauleau @AgentConf The GC however uses multiple threads and work stealing to distribute the tasks. @mlippautz did most of that.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966561760890249200,
+   "in_reply_to_status_id_str": "966561760890249216",
+   "in_reply_to_screen_name": "bmeurer",
+   "urls": []
+  },
+  {
+   "id": 966561760890249200,
+   "id_str": "966561760890249216",
+   "created_at": "Thu Feb 22 06:34:16 +0000 2018",
+   "text": "@svensauleau @AgentConf No, same argument. The cost of scheduling work at that granularity doesn't pay off. And you… https://t.co/5YlbebkTyz",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966561359189114900,
+   "in_reply_to_status_id_str": "966561359189114880",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": [
+    {
+     "url": "https://t.co/5YlbebkTyz",
+     "expand": "https://twitter.com/i/web/status/966561760890249216"
+    }
+   ]
+  },
+  {
+   "id": 966435520153899000,
+   "id_str": "966435520153899008",
+   "created_at": "Wed Feb 21 22:12:38 +0000 2018",
+   "text": "@svensauleau @AgentConf We can reorder independent instructions, but we don't run on multiple threads. This wouldn'… https://t.co/2nroJQ6gpo",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966358313775632400,
+   "in_reply_to_status_id_str": "966358313775632385",
+   "in_reply_to_screen_name": "svensauleau",
+   "urls": [
+    {
+     "url": "https://t.co/2nroJQ6gpo",
+     "expand": "https://twitter.com/i/web/status/966435520153899008"
+    }
+   ]
+  },
+  {
+   "id": 966276979166244900,
+   "id_str": "966276979166244864",
+   "created_at": "Wed Feb 21 11:42:39 +0000 2018",
+   "text": "@slsoftworks @mathias @fhinkel @evilpies @littledan, @bterlson or @BrendanEich would know 😋",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966276546662223900,
+   "in_reply_to_status_id_str": "966276546662223872",
+   "in_reply_to_screen_name": "slsoftworks",
+   "urls": []
+  },
+  {
+   "id": 966242126987186200,
+   "id_str": "966242126987186177",
+   "created_at": "Wed Feb 21 09:24:09 +0000 2018",
+   "text": "@ev1stensberg Depends. You need to set proper iteration count to average out the noise.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966240380357406700,
+   "in_reply_to_status_id_str": "966240380357406720",
+   "in_reply_to_screen_name": "ev1stensberg",
+   "urls": []
+  },
+  {
+   "id": 966239956757897200,
+   "id_str": "966239956757897216",
+   "created_at": "Wed Feb 21 09:15:32 +0000 2018",
+   "text": "@ev1stensberg console.time/timeEnd are available in d8 as well.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966239451281346600,
+   "in_reply_to_status_id_str": "966239451281346561",
+   "in_reply_to_screen_name": "ev1stensberg",
+   "urls": []
+  },
+  {
+   "id": 966147724751056900,
+   "id_str": "966147724751056896",
+   "created_at": "Wed Feb 21 03:09:02 +0000 2018",
+   "text": "@TheLarkInn @wSokra It's definitely a great accomplishment. But you need to be super careful using this, since over… https://t.co/rsE0ic5TeS",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 966078743130222600,
+   "in_reply_to_status_id_str": "966078743130222592",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/rsE0ic5TeS",
+     "expand": "https://twitter.com/i/web/status/966147724751056896"
+    }
+   ]
+  },
+  {
+   "id": 966147183169949700,
+   "id_str": "966147183169949696",
+   "created_at": "Wed Feb 21 03:06:53 +0000 2018",
+   "text": "@ev1stensberg You mean console.time/timeEnd?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966079956802572300,
+   "in_reply_to_status_id_str": "966079956802572288",
+   "in_reply_to_screen_name": "ev1stensberg",
+   "urls": []
+  },
+  {
+   "id": 966146800989229000,
+   "id_str": "966146800989229056",
+   "created_at": "Wed Feb 21 03:05:22 +0000 2018",
+   "text": "@kentcdodds @FWeinb @tkh44 @cerebraljs It depends. I guess for many uses the performance of proxies should be reaso… https://t.co/BSQTFmJ4pF",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966080992904667100,
+   "in_reply_to_status_id_str": "966080992904667136",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/BSQTFmJ4pF",
+     "expand": "https://twitter.com/i/web/status/966146800989229056"
+    }
+   ]
+  },
+  {
+   "id": 966044408922673200,
+   "id_str": "966044408922673152",
+   "created_at": "Tue Feb 20 20:18:29 +0000 2018",
+   "text": "@paweloque @topaxi @v8js I don't know TBH. You'll have to run that question by @SpiderMonkeyJS folks.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966040259363516400,
+   "in_reply_to_status_id_str": "966040259363516418",
+   "in_reply_to_screen_name": "paweloque",
+   "urls": []
+  },
+  {
+   "id": 965976280050126800,
+   "id_str": "965976280050126850",
+   "created_at": "Tue Feb 20 15:47:46 +0000 2018",
+   "text": "RT @gsoc: Students can begin applying for Google Summer of Code 2018 on March 12, but should be preparing now!\n\nHow? Find the answers in th…",
+   "retweet_count": 127,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965632077398986800,
+    "id_str": "965632077398986753",
+    "created_at": "Mon Feb 19 17:00:02 +0000 2018",
+    "text": "Students can begin applying for Google Summer of Code 2018 on March 12, but should be preparing now!\n\nHow? Find the… https://t.co/aNawnPGwPB",
+    "retweet_count": 127,
+    "favorite_count": 164,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aNawnPGwPB",
+      "expand": "https://twitter.com/i/web/status/965632077398986753"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965976061442953200,
+   "id_str": "965976061442953216",
+   "created_at": "Tue Feb 20 15:46:54 +0000 2018",
+   "text": "@samccone @wSokra @TheLarkInn @mraleph  https://t.co/rHJpXFMOlV",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 965964415513186300,
+   "in_reply_to_status_id_str": "965964415513186304",
+   "in_reply_to_screen_name": "samccone",
+   "urls": []
+  },
+  {
+   "id": 965955303345983500,
+   "id_str": "965955303345983488",
+   "created_at": "Tue Feb 20 14:24:25 +0000 2018",
+   "text": "RT @jsconfeu: 🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take us a few we…",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965954122519404500,
+    "id_str": "965954122519404547",
+    "created_at": "Tue Feb 20 14:19:44 +0000 2018",
+    "text": "🚨 Big news. 🚨 This is it. 🚨 This is the beginning of our big 2018 speaker announcement thread. It’s going to take u… https://t.co/Vg1Ytm0VAB",
+    "retweet_count": 28,
+    "favorite_count": 84,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Vg1Ytm0VAB",
+      "expand": "https://twitter.com/i/web/status/965954122519404547"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965939195213762600,
+   "id_str": "965939195213762560",
+   "created_at": "Tue Feb 20 13:20:25 +0000 2018",
+   "text": "@topaxi @paweloque In @v8js we only have a single execution stack (same as C++). When suspending a generator or an… https://t.co/qFlpkP0jtg",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965936630149341200,
+   "in_reply_to_status_id_str": "965936630149341186",
+   "in_reply_to_screen_name": "topaxi",
+   "urls": [
+    {
+     "url": "https://t.co/qFlpkP0jtg",
+     "expand": "https://twitter.com/i/web/status/965939195213762560"
+    }
+   ]
+  },
+  {
+   "id": 965908956194508800,
+   "id_str": "965908956194508800",
+   "created_at": "Tue Feb 20 11:20:15 +0000 2018",
+   "text": "@notquiteleo Herzlichen Glückwunsch 🎉",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965864888970002400,
+   "in_reply_to_status_id_str": "965864888970002432",
+   "in_reply_to_screen_name": "notquiteleo",
+   "urls": []
+  },
+  {
+   "id": 965819342347755500,
+   "id_str": "965819342347755521",
+   "created_at": "Tue Feb 20 05:24:09 +0000 2018",
+   "text": "@mraleph @mikesherov @samccone @steveklabnik @SpiderMonkeyJS For the custom sort function, we had previously discus… https://t.co/hzipXFMSsl",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965817188702675000,
+   "in_reply_to_status_id_str": "965817188702674944",
+   "in_reply_to_screen_name": "mraleph",
+   "urls": [
+    {
+     "url": "https://t.co/hzipXFMSsl",
+     "expand": "https://twitter.com/i/web/status/965819342347755521"
+    }
+   ]
+  },
+  {
+   "id": 965818934686617600,
+   "id_str": "965818934686617600",
+   "created_at": "Tue Feb 20 05:22:32 +0000 2018",
+   "text": "@mraleph @mikesherov @samccone @steveklabnik @SpiderMonkeyJS You mean Array#sort? IIRC we'll have an intern working… https://t.co/iygAhHX08p",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965817188702675000,
+   "in_reply_to_status_id_str": "965817188702674944",
+   "in_reply_to_screen_name": "mraleph",
+   "urls": [
+    {
+     "url": "https://t.co/iygAhHX08p",
+     "expand": "https://twitter.com/i/web/status/965818934686617600"
+    }
+   ]
+  },
+  {
+   "id": 965816535171371000,
+   "id_str": "965816535171371008",
+   "created_at": "Tue Feb 20 05:13:00 +0000 2018",
+   "text": "@mikesherov @samccone @mraleph @steveklabnik @SpiderMonkeyJS https://t.co/hlLkYdzhVN",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965814463914967000,
+   "in_reply_to_status_id_str": "965814463914967050",
+   "in_reply_to_screen_name": "bmeurer",
+   "urls": [
+    {
+     "url": "https://t.co/hlLkYdzhVN",
+     "expand": "https://bugs.chromium.org/p/v8/issues/detail?id=7460"
+    }
+   ]
+  },
+  {
+   "id": 965814463914967000,
+   "id_str": "965814463914967050",
+   "created_at": "Tue Feb 20 05:04:46 +0000 2018",
+   "text": "@mikesherov @samccone @mraleph @steveklabnik The ArgumentsAdaptor issue for sure, as you can see in @SpiderMonkeyJS… https://t.co/acTskgetUs",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965812791004278800,
+   "in_reply_to_status_id_str": "965812791004278784",
+   "in_reply_to_screen_name": "mikesherov",
+   "urls": [
+    {
+     "url": "https://t.co/acTskgetUs",
+     "expand": "https://twitter.com/i/web/status/965814463914967050"
+    }
+   ]
+  },
+  {
+   "id": 965812524531765200,
+   "id_str": "965812524531765248",
+   "created_at": "Tue Feb 20 04:57:04 +0000 2018",
+   "text": "@mikesherov @samccone @mraleph @steveklabnik I wouldn't have done that TBH, and I generally advocate against (mis-)… https://t.co/bGyCTbjnID",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965809437645602800,
+   "in_reply_to_status_id_str": "965809437645602816",
+   "in_reply_to_screen_name": "mikesherov",
+   "urls": [
+    {
+     "url": "https://t.co/bGyCTbjnID",
+     "expand": "https://twitter.com/i/web/status/965812524531765248"
+    }
+   ]
+  },
+  {
+   "id": 965806421068730400,
+   "id_str": "965806421068730368",
+   "created_at": "Tue Feb 20 04:32:49 +0000 2018",
+   "text": "@mikesherov @samccone @mraleph @steveklabnik Indeed my prediction is that it will be way worse than JS.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965806221004505100,
+   "in_reply_to_status_id_str": "965806221004505088",
+   "in_reply_to_screen_name": "bmeurer",
+   "urls": []
+  },
+  {
+   "id": 965806221004505100,
+   "id_str": "965806221004505088",
+   "created_at": "Tue Feb 20 04:32:01 +0000 2018",
+   "text": "@mikesherov @samccone @mraleph @steveklabnik To a certain extent I think you are right. It highlights some key area… https://t.co/Qqi9jhacUm",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965786776412573700,
+   "in_reply_to_status_id_str": "965786776412573696",
+   "in_reply_to_screen_name": "mikesherov",
+   "urls": [
+    {
+     "url": "https://t.co/Qqi9jhacUm",
+     "expand": "https://twitter.com/i/web/status/965806221004505088"
+    }
+   ]
+  },
+  {
+   "id": 965796749687345200,
+   "id_str": "965796749687345152",
+   "created_at": "Tue Feb 20 03:54:23 +0000 2018",
+   "text": "@hashseed @getify @_vramana @_gsathya @getify I guess this by itself is already valuable for teaching 😃",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965600105838645200,
+   "in_reply_to_status_id_str": "965600105838645249",
+   "in_reply_to_screen_name": "hashseed",
+   "urls": []
+  },
+  {
+   "id": 965691926635741200,
+   "id_str": "965691926635741184",
+   "created_at": "Mon Feb 19 20:57:51 +0000 2018",
+   "text": "RT @sir_pepe: Bei @workingdraft nerden wir heute extra hart mit @bmeurer über die V8 im Speziellen und JS-Engines im Allgemeinen ab. Macht…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965687528564158500,
+    "id_str": "965687528564158467",
+    "created_at": "Mon Feb 19 20:40:23 +0000 2018",
+    "text": "Bei @workingdraft nerden wir heute extra hart mit @bmeurer über die V8 im Speziellen und JS-Engines im Allgemeinen… https://t.co/7HCNWu0Ep9",
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7HCNWu0Ep9",
+      "expand": "https://twitter.com/i/web/status/965687528564158467"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965623999744094200,
+   "id_str": "965623999744094208",
+   "created_at": "Mon Feb 19 16:27:56 +0000 2018",
+   "text": "@bnjbvr @mraleph I think that this is the common misconception. It's a bit like saying \"if you code in x64 assembly… https://t.co/ANLwBe6YSK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965612908477603800,
+   "in_reply_to_status_id_str": "965612908477603841",
+   "in_reply_to_screen_name": "bnjbvr",
+   "urls": [
+    {
+     "url": "https://t.co/ANLwBe6YSK",
+     "expand": "https://twitter.com/i/web/status/965623999744094208"
+    }
+   ]
+  },
+  {
+   "id": 965618218890092500,
+   "id_str": "965618218890092544",
+   "created_at": "Mon Feb 19 16:04:58 +0000 2018",
+   "text": "RT @bmeurer: @mraleph Don't try this at home... https://t.co/VntRz88VE6",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965618190624673800,
+    "id_str": "965618190624673792",
+    "created_at": "Mon Feb 19 16:04:51 +0000 2018",
+    "text": "@mraleph Don't try this at home... https://t.co/VntRz88VE6",
+    "retweet_count": 8,
+    "favorite_count": 63,
+    "place": null,
+    "in_reply_to_status_id": 965589745605767200,
+    "in_reply_to_status_id_str": "965589745605767168",
+    "in_reply_to_screen_name": "mraleph",
+    "urls": []
+   }
+  },
+  {
+   "id": 965618190624673800,
+   "id_str": "965618190624673792",
+   "created_at": "Mon Feb 19 16:04:51 +0000 2018",
+   "text": "@mraleph Don't try this at home... https://t.co/VntRz88VE6",
+   "retweet_count": 8,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": 965589745605767200,
+   "in_reply_to_status_id_str": "965589745605767168",
+   "in_reply_to_screen_name": "mraleph",
+   "urls": []
+  },
+  {
+   "id": 965595913728163800,
+   "id_str": "965595913728163845",
+   "created_at": "Mon Feb 19 14:36:20 +0000 2018",
+   "text": "RT @mraleph: \"Maybe you don't need Rust and WASM to speed up your JS\"\n\nhttps://t.co/mMvi5JaJub",
+   "retweet_count": 210,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mMvi5JaJub",
+     "expand": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965589745605767200,
+    "id_str": "965589745605767168",
+    "created_at": "Mon Feb 19 14:11:49 +0000 2018",
+    "text": "\"Maybe you don't need Rust and WASM to speed up your JS\"\n\nhttps://t.co/mMvi5JaJub",
+    "retweet_count": 210,
+    "favorite_count": 548,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mMvi5JaJub",
+      "expand": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965590778390237200,
+   "id_str": "965590778390237184",
+   "created_at": "Mon Feb 19 14:15:56 +0000 2018",
+   "text": "@getify @_vramana @_gsathya I don't know what DevTools does TBH and I'm on my way home so I cannot test right now,… https://t.co/6HPWG1OoKZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965589954964357100,
+   "in_reply_to_status_id_str": "965589954964357120",
+   "in_reply_to_screen_name": "getify",
+   "urls": [
+    {
+     "url": "https://t.co/6HPWG1OoKZ",
+     "expand": "https://twitter.com/i/web/status/965590778390237184"
+    }
+   ]
+  },
+  {
+   "id": 965590179036753900,
+   "id_str": "965590179036753920",
+   "created_at": "Mon Feb 19 14:13:33 +0000 2018",
+   "text": "@getify @_vramana @_gsathya Haha, yeah 😁 Fair enough.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965589838488571900,
+   "in_reply_to_status_id_str": "965589838488571904",
+   "in_reply_to_screen_name": "getify",
+   "urls": []
+  },
+  {
+   "id": 965589214531342300,
+   "id_str": "965589214531342336",
+   "created_at": "Mon Feb 19 14:09:43 +0000 2018",
+   "text": "@getify @_vramana @_gsathya It will eventually be collected. But the exact timing is dependent on many factors.\nTha… https://t.co/jw0aVVxAzK",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965588808103325700,
+   "in_reply_to_status_id_str": "965588808103325697",
+   "in_reply_to_screen_name": "bmeurer",
+   "urls": [
+    {
+     "url": "https://t.co/jw0aVVxAzK",
+     "expand": "https://twitter.com/i/web/status/965589214531342336"
+    }
+   ]
+  },
+  {
+   "id": 965588808103325700,
+   "id_str": "965588808103325697",
+   "created_at": "Mon Feb 19 14:08:06 +0000 2018",
+   "text": "@getify @_vramana @_gsathya Weak collection entries are only collected after full GCs, so that might require a couple cycles.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965588366472466400,
+   "in_reply_to_status_id_str": "965588366472466432",
+   "in_reply_to_screen_name": "getify",
+   "urls": []
+  },
+  {
+   "id": 965540340873793500,
+   "id_str": "965540340873793537",
+   "created_at": "Mon Feb 19 10:55:30 +0000 2018",
+   "text": "@krassxalex @kyrylkov @v8js That's currently work-in-progress.\ncc @targos89 @MylesBorins",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 965539082028965900,
+   "in_reply_to_status_id_str": "965539082028965889",
+   "in_reply_to_screen_name": "krassxalex",
+   "urls": []
+  },
+  {
+   "id": 965446279617826800,
+   "id_str": "965446279617826816",
+   "created_at": "Mon Feb 19 04:41:44 +0000 2018",
+   "text": "@YurySoloviov @AgentConf @sigurdschn and @expatdanno will give talks about TurboFan optimizations next 👍",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 965328189726888000,
+   "in_reply_to_status_id_str": "965328189726887937",
+   "in_reply_to_screen_name": "YurySoloviov",
+   "urls": []
+  },
+  {
+   "id": 965277801686462500,
+   "id_str": "965277801686462467",
+   "created_at": "Sun Feb 18 17:32:16 +0000 2018",
+   "text": "@noahdleigh @AgentConf https://t.co/3e3yz2WRX3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 957066171248934900,
+   "in_reply_to_status_id_str": "957066171248934913",
+   "in_reply_to_screen_name": "noahdleigh",
+   "urls": [
+    {
+     "url": "https://t.co/3e3yz2WRX3",
+     "expand": "https://twitter.com/bmeurer/status/965277068585046017"
+    }
+   ]
+  },
+  {
+   "id": 965277692751990800,
+   "id_str": "965277692751990790",
+   "created_at": "Sun Feb 18 17:31:50 +0000 2018",
+   "text": "@AgentConf @matvi3nko https://t.co/3e3yz2WRX3",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 956850311452340200,
+   "in_reply_to_status_id_str": "956850311452340225",
+   "in_reply_to_screen_name": "AgentConf",
+   "urls": [
+    {
+     "url": "https://t.co/3e3yz2WRX3",
+     "expand": "https://twitter.com/bmeurer/status/965277068585046017"
+    }
+   ]
+  },
+  {
+   "id": 965277068585046000,
+   "id_str": "965277068585046017",
+   "created_at": "Sun Feb 18 17:29:21 +0000 2018",
+   "text": "📹 Recording available from my \"What's inside of TurboFan?\" talk at @AgentConf\nhttps://t.co/UGQPoDK3nf",
+   "retweet_count": 15,
+   "favorite_count": 52,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UGQPoDK3nf",
+     "expand": "https://www.youtube.com/watch?v=Eowsw8XXVCQ"
+    }
+   ]
+  },
   {
    "id": 964500642659225600,
    "id_str": "964500642659225603",
    "created_at": "Fri Feb 16 14:04:07 +0000 2018",
    "text": "@left_pad Exciting news man! All the best for your next adventure. Hope we meet again 😄",
    "retweet_count": 0,
-   "favorite_count": 4,
+   "favorite_count": 5,
    "place": null,
    "in_reply_to_status_id": 964285313815400400,
+   "in_reply_to_status_id_str": "964285313815400448",
    "in_reply_to_screen_name": "left_pad",
    "urls": []
   }

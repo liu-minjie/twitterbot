@@ -1,6 +1,280 @@
 {
- "time": 1518869614350,
+ "time": 1519367043520,
  "lists": [
+  {
+   "id": 966553596883021800,
+   "id_str": "966553596883021824",
+   "created_at": "Thu Feb 22 06:01:49 +0000 2018",
+   "text": "RT @dsenneff: Made an SVG animated login avatar, with the help of some trigonometry &amp; GSAP. #animation #UX #gsap \nhttps://t.co/nfWVd0D4va h…",
+   "retweet_count": 5059,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nfWVd0D4va",
+     "expand": "https://codepen.io/dsenneff/pen/QajVxO"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965393299614859300,
+    "id_str": "965393299614859265",
+    "created_at": "Mon Feb 19 01:11:13 +0000 2018",
+    "text": "Made an SVG animated login avatar, with the help of some trigonometry &amp; GSAP. #animation #UX #gsap… https://t.co/0AZRWCw258",
+    "retweet_count": 5059,
+    "favorite_count": 12942,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0AZRWCw258",
+      "expand": "https://twitter.com/i/web/status/965393299614859265"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966553343886876700,
+   "id_str": "966553343886876672",
+   "created_at": "Thu Feb 22 06:00:49 +0000 2018",
+   "text": "RT @sailorhg: 〰🔶💜HELLO WORLD💜🔶〰 tshirt sample arrived!! https://t.co/cSH38jJrQ4",
+   "retweet_count": 532,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966403149455016000,
+    "id_str": "966403149455015936",
+    "created_at": "Wed Feb 21 20:04:00 +0000 2018",
+    "text": "〰🔶💜HELLO WORLD💜🔶〰 tshirt sample arrived!! https://t.co/cSH38jJrQ4",
+    "retweet_count": 532,
+    "favorite_count": 3788,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 966449971150118900,
+   "id_str": "966449971150118913",
+   "created_at": "Wed Feb 21 23:10:03 +0000 2018",
+   "text": "RT @patmeenan: Dev chatter is all around Vue, React, SPA's, etc.\n\nI just scanned the 3M domains in the Chrome User Experience report and 27…",
+   "retweet_count": 57,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966351781604229100,
+    "id_str": "966351781604229125",
+    "created_at": "Wed Feb 21 16:39:53 +0000 2018",
+    "text": "Dev chatter is all around Vue, React, SPA's, etc.\n\nI just scanned the 3M domains in the Chrome User Experience repo… https://t.co/rfHRuZnTus",
+    "retweet_count": 57,
+    "favorite_count": 110,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rfHRuZnTus",
+      "expand": "https://twitter.com/i/web/status/966351781604229125"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966446075002449900,
+   "id_str": "966446075002449920",
+   "created_at": "Wed Feb 21 22:54:34 +0000 2018",
+   "text": "@patmeenan @AndyDavies @ericlaw @letsencrypt thanks Pat! 👏👏",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966445795649183700,
+   "in_reply_to_status_id_str": "966445795649183746",
+   "in_reply_to_screen_name": "patmeenan",
+   "urls": []
+  },
+  {
+   "id": 966426393193205800,
+   "id_str": "966426393193205760",
+   "created_at": "Wed Feb 21 21:36:22 +0000 2018",
+   "text": "@patmeenan @ericlaw @letsencrypt I set up certs for https://t.co/ozer20ubVa and https://t.co/aUFZxN3B2N but never b… https://t.co/eWjY1VpuTK",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966425462720344000,
+   "in_reply_to_status_id_str": "966425462720344069",
+   "in_reply_to_screen_name": "patmeenan",
+   "urls": [
+    {
+     "url": "https://t.co/ozer20ubVa",
+     "expand": "http://beta.httparchive.org"
+    },
+    {
+     "url": "https://t.co/aUFZxN3B2N",
+     "expand": "http://cdn.httparchive.org"
+    },
+    {
+     "url": "https://t.co/eWjY1VpuTK",
+     "expand": "https://twitter.com/i/web/status/966426393193205760"
+    }
+   ]
+  },
+  {
+   "id": 966035470084968400,
+   "id_str": "966035470084968448",
+   "created_at": "Tue Feb 20 19:42:58 +0000 2018",
+   "text": "RT @HenriHelvetica: In the last 18 months, the bytes delivered down the wire to #mobile has *outpaced* desktop x4. Let that sink in. courte…",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966032535078817800,
+    "id_str": "966032535078817792",
+    "created_at": "Tue Feb 20 19:31:19 +0000 2018",
+    "text": "In the last 18 months, the bytes delivered down the wire to #mobile has *outpaced* desktop x4. Let that sink in. co… https://t.co/kb9NmR0kYb",
+    "retweet_count": 33,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/kb9NmR0kYb",
+      "expand": "https://twitter.com/i/web/status/966032535078817792"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966033805441192000,
+   "id_str": "966033805441191936",
+   "created_at": "Tue Feb 20 19:36:21 +0000 2018",
+   "text": "⛔️ This WebPageTest feature is unassuming yet so powerful. Great post by @AndyDavies about how to block 3rd parties… https://t.co/3BkTSsW9T6",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3BkTSsW9T6",
+     "expand": "https://twitter.com/i/web/status/966033805441191936"
+    }
+   ]
+  },
+  {
+   "id": 965850465350058000,
+   "id_str": "965850465350057984",
+   "created_at": "Tue Feb 20 07:27:50 +0000 2018",
+   "text": "RT @cvaneenige: Something new is almost ready! Just making sure everything is 💯! Keep in mind to run @____lighthouse every once in a while…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965701517713072100,
+    "id_str": "965701517713072128",
+    "created_at": "Mon Feb 19 21:35:58 +0000 2018",
+    "text": "Something new is almost ready! Just making sure everything is 💯! Keep in mind to run @____lighthouse every once in… https://t.co/vGIU4h35XH",
+    "retweet_count": 3,
+    "favorite_count": 41,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vGIU4h35XH",
+      "expand": "https://twitter.com/i/web/status/965701517713072128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965670991035854800,
+   "id_str": "965670991035854848",
+   "created_at": "Mon Feb 19 19:34:40 +0000 2018",
+   "text": "@alv9n Ah yeah larger time units could be helpful. Maybe displayed like a histogram? Just thinking out loud 🙂",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965669810179895300,
+   "in_reply_to_status_id_str": "965669810179895297",
+   "in_reply_to_screen_name": "alv9n",
+   "urls": []
+  },
+  {
+   "id": 965667901440184300,
+   "id_str": "965667901440184320",
+   "created_at": "Mon Feb 19 19:22:23 +0000 2018",
+   "text": "@alv9n Hey Alvin! I enjoy reading your data journalism. One thing about these charts though is that with so many se… https://t.co/sFRU8obZRf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965648345569071100,
+   "in_reply_to_status_id_str": "965648345569071104",
+   "in_reply_to_screen_name": "alv9n",
+   "urls": [
+    {
+     "url": "https://t.co/sFRU8obZRf",
+     "expand": "https://twitter.com/i/web/status/965667901440184320"
+    }
+   ]
+  },
+  {
+   "id": 965463709937266700,
+   "id_str": "965463709937266689",
+   "created_at": "Mon Feb 19 05:51:00 +0000 2018",
+   "text": "RT @nywebperf: Our next meetup is next Thursday + features Suz Hinton (@noopkat) on Browser Run Performance Strategies - register at https:…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964240603545571300,
+    "id_str": "964240603545571328",
+    "created_at": "Thu Feb 15 20:50:49 +0000 2018",
+    "text": "Our next meetup is next Thursday + features Suz Hinton (@noopkat) on Browser Run Performance Strategies - register… https://t.co/siNOrVneoK",
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/siNOrVneoK",
+      "expand": "https://twitter.com/i/web/status/964240603545571328"
+     }
+    ]
+   }
+  },
   {
    "id": 964635772216381400,
    "id_str": "964635772216381440",
@@ -10,6 +284,7 @@
    "favorite_count": 2,
    "place": null,
    "in_reply_to_status_id": 964635768533803000,
+   "in_reply_to_status_id_str": "964635768533803008",
    "in_reply_to_screen_name": "rick_viscomi",
    "urls": [
     {

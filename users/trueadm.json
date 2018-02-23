@@ -1,15 +1,144 @@
 {
- "time": 1518869612940,
+ "time": 1519367042288,
  "lists": [
+  {
+   "id": 966689060394799100,
+   "id_str": "966689060394799105",
+   "created_at": "Thu Feb 22 15:00:06 +0000 2018",
+   "text": "@AdamWeeks @wesbos @dan_abramov Ah, I never even saw the comment tot he right of the console.log in the original sc… https://t.co/pRyCl3vngw",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966688618067693600,
+   "in_reply_to_status_id_str": "966688618067693570",
+   "in_reply_to_screen_name": "AdamWeeks",
+   "urls": [
+    {
+     "url": "https://t.co/pRyCl3vngw",
+     "expand": "https://twitter.com/i/web/status/966689060394799105"
+    }
+   ]
+  },
+  {
+   "id": 966688221978644500,
+   "id_str": "966688221978644480",
+   "created_at": "Thu Feb 22 14:56:46 +0000 2018",
+   "text": "@AdamWeeks @wesbos @dan_abramov The object should never be `null`. The ref will contain a property called `value` t… https://t.co/7xMjpRiXV6",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966687625112444900,
+   "in_reply_to_status_id_str": "966687625112444928",
+   "in_reply_to_screen_name": "AdamWeeks",
+   "urls": [
+    {
+     "url": "https://t.co/7xMjpRiXV6",
+     "expand": "https://twitter.com/i/web/status/966688221978644480"
+    }
+   ]
+  },
+  {
+   "id": 966687552978800600,
+   "id_str": "966687552978800640",
+   "created_at": "Thu Feb 22 14:54:07 +0000 2018",
+   "text": "@wesbos @dan_abramov I got it working with 16.3.0-alpha.1 here: https://t.co/GHKV8J8lLI\n\nMake sure react and react-… https://t.co/5f4XlHomZi",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 966685921532956700,
+   "in_reply_to_status_id_str": "966685921532956672",
+   "in_reply_to_screen_name": "wesbos",
+   "urls": [
+    {
+     "url": "https://t.co/GHKV8J8lLI",
+     "expand": "https://codesandbox.io/s/0yr3r313q0"
+    },
+    {
+     "url": "https://t.co/5f4XlHomZi",
+     "expand": "https://twitter.com/i/web/status/966687552978800640"
+    }
+   ]
+  },
+  {
+   "id": 966469352072646700,
+   "id_str": "966469352072646656",
+   "created_at": "Thu Feb 22 00:27:04 +0000 2018",
+   "text": "@xander76 @mjackson Sorry to derail the discussion to talk about school pets!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966468064777715700,
+   "in_reply_to_status_id_str": "966468064777715712",
+   "in_reply_to_screen_name": "xander76",
+   "urls": []
+  },
+  {
+   "id": 966467620902928400,
+   "id_str": "966467620902928384",
+   "created_at": "Thu Feb 22 00:20:11 +0000 2018",
+   "text": "@mjackson @xander76 I know which one you were referring to :) I was just curious as that sort of thing is not common at all in the UK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966467223714807800,
+   "in_reply_to_status_id_str": "966467223714807808",
+   "in_reply_to_screen_name": "mjackson",
+   "urls": []
+  },
+  {
+   "id": 966466241685868500,
+   "id_str": "966466241685868544",
+   "created_at": "Thu Feb 22 00:14:42 +0000 2018",
+   "text": "@mjackson @xander76 Are lizard tanks common in US classrooms?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966457578745024500,
+   "in_reply_to_status_id_str": "966457578745024513",
+   "in_reply_to_screen_name": "mjackson",
+   "urls": []
+  },
+  {
+   "id": 964963595854536700,
+   "id_str": "964963595854536704",
+   "created_at": "Sat Feb 17 20:43:44 +0000 2018",
+   "text": "RT @reactjs: We're relicensing React Native (including Fresco, Metro, and Yoga) under the MIT license to match React. https://t.co/Ypg7ozX9…",
+   "retweet_count": 1693,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964689022747476000,
+    "id_str": "964689022747475968",
+    "created_at": "Sat Feb 17 02:32:40 +0000 2018",
+    "text": "We're relicensing React Native (including Fresco, Metro, and Yoga) under the MIT license to match React. https://t.co/Ypg7ozX958",
+    "retweet_count": 1693,
+    "favorite_count": 4035,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ypg7ozX958",
+      "expand": "https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88"
+     }
+    ]
+   }
+  },
   {
    "id": 964790217013121000,
    "id_str": "964790217013121025",
    "created_at": "Sat Feb 17 09:14:47 +0000 2018",
    "text": "RT @sebmarkbage: Watching the React team slowly turn from UI developers to VM engineers and compiler theorists... 😅",
-   "retweet_count": 29,
+   "retweet_count": 60,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +146,11 @@
     "id_str": "964677876879536129",
     "created_at": "Sat Feb 17 01:48:23 +0000 2018",
     "text": "Watching the React team slowly turn from UI developers to VM engineers and compiler theorists... 😅",
-    "retweet_count": 29,
-    "favorite_count": 262,
+    "retweet_count": 60,
+    "favorite_count": 503,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
    }

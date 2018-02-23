@@ -1,15 +1,223 @@
 {
- "time": 1518869612724,
+ "time": 1519367042021,
  "lists": [
+  {
+   "id": 966437275050676200,
+   "id_str": "966437275050676229",
+   "created_at": "Wed Feb 21 22:19:36 +0000 2018",
+   "text": "RT @getify: here's the deal: i love teaching, writing, speaking, working on OSS projects, trying to launch my startup, building a blockchai…",
+   "retweet_count": 128,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966420090387402800,
+    "id_str": "966420090387402753",
+    "created_at": "Wed Feb 21 21:11:19 +0000 2018",
+    "text": "here's the deal: i love teaching, writing, speaking, working on OSS projects, trying to launch my startup, building… https://t.co/mWin2VY7kq",
+    "retweet_count": 128,
+    "favorite_count": 122,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mWin2VY7kq",
+      "expand": "https://twitter.com/i/web/status/966420090387402753"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966395004624261100,
+   "id_str": "966395004624261126",
+   "created_at": "Wed Feb 21 19:31:38 +0000 2018",
+   "text": "RT @threepointone: yo I get that redux-saga is advanced and overkill for most stuff, but the project I'm working on right now is most defin…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966370647046803500,
+    "id_str": "966370647046803456",
+    "created_at": "Wed Feb 21 17:54:51 +0000 2018",
+    "text": "yo I get that redux-saga is advanced and overkill for most stuff, but the project I'm working on right now is most… https://t.co/cWUin8IvPz",
+    "retweet_count": 8,
+    "favorite_count": 99,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cWUin8IvPz",
+      "expand": "https://twitter.com/i/web/status/966370647046803456"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965913831573786600,
+   "id_str": "965913831573786625",
+   "created_at": "Tue Feb 20 11:39:37 +0000 2018",
+   "text": "RT @KRUZAA_: This is the most frustrating gif I've ever seen in my life https://t.co/eTzcg4LJfq",
+   "retweet_count": 96835,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965328382102777900,
+    "id_str": "965328382102777856",
+    "created_at": "Sun Feb 18 20:53:15 +0000 2018",
+    "text": "This is the most frustrating gif I've ever seen in my life https://t.co/eTzcg4LJfq",
+    "retweet_count": 96835,
+    "favorite_count": 153600,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 965913170912141300,
+   "id_str": "965913170912141312",
+   "created_at": "Tue Feb 20 11:37:00 +0000 2018",
+   "text": "RT @AndaristRake: So I've written best practices for JS package publishing (more coming soon!) using @RollupJS &amp; @babeljs , use them to mak…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965910077776506900,
+    "id_str": "965910077776506880",
+    "created_at": "Tue Feb 20 11:24:42 +0000 2018",
+    "text": "So I've written best practices for JS package publishing (more coming soon!) using @RollupJS &amp; @babeljs , use them… https://t.co/tbjzegtx4N",
+    "retweet_count": 39,
+    "favorite_count": 111,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/tbjzegtx4N",
+      "expand": "https://twitter.com/i/web/status/965910077776506880"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965872502428889100,
+   "id_str": "965872502428889093",
+   "created_at": "Tue Feb 20 08:55:24 +0000 2018",
+   "text": "RT @paldepind: New library I've been working on: List. An immutable list with\n- extremely good performance\n- a functional API\n- full tree s…",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965631115838017500,
+    "id_str": "965631115838017536",
+    "created_at": "Mon Feb 19 16:56:13 +0000 2018",
+    "text": "New library I've been working on: List. An immutable list with\n- extremely good performance\n- a functional API\n- fu… https://t.co/sU0Icprxix",
+    "retweet_count": 29,
+    "favorite_count": 77,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sU0Icprxix",
+      "expand": "https://twitter.com/i/web/status/965631115838017536"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965540276788957200,
+   "id_str": "965540276788957184",
+   "created_at": "Mon Feb 19 10:55:15 +0000 2018",
+   "text": "RT @punchesbears: working on an Animation Creator so players can create &amp; share their own dances. I really suck at UI #Wreckoons https://t.…",
+   "retweet_count": 1375,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 965376196744593400,
+    "id_str": "965376196744593408",
+    "created_at": "Mon Feb 19 00:03:15 +0000 2018",
+    "text": "working on an Animation Creator so players can create &amp; share their own dances. I really suck at UI #Wreckoons https://t.co/jfcUeN7rml",
+    "retweet_count": 1375,
+    "favorite_count": 5670,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 964969410334163000,
+   "id_str": "964969410334162944",
+   "created_at": "Sat Feb 17 21:06:50 +0000 2018",
+   "text": "RT @dan_abramov: @threepointone @necolas @mjackson If it is possible to do something, and your lib is popular enough, someone will do it. E…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964951096539131900,
+    "id_str": "964951096539131904",
+    "created_at": "Sat Feb 17 19:54:03 +0000 2018",
+    "text": "@threepointone @necolas @mjackson If it is possible to do something, and your lib is popular enough, someone will d… https://t.co/3pzvmb4Zyd",
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": 964950783526686700,
+    "in_reply_to_status_id_str": "964950783526686726",
+    "in_reply_to_screen_name": "dan_abramov",
+    "urls": [
+     {
+      "url": "https://t.co/3pzvmb4Zyd",
+      "expand": "https://twitter.com/i/web/status/964951096539131904"
+     }
+    ]
+   }
+  },
   {
    "id": 964440492879556600,
    "id_str": "964440492879556608",
    "created_at": "Fri Feb 16 10:05:06 +0000 2018",
    "text": "RT @wycats: We're all learning, all the time. How can you be proud to say that someone doesn't belong simply because they don't yet have a…",
-   "retweet_count": 266,
+   "retweet_count": 274,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +225,11 @@
     "id_str": "963954158276567041",
     "created_at": "Thu Feb 15 01:52:35 +0000 2018",
     "text": "We're all learning, all the time. How can you be proud to say that someone doesn't belong simply because they don't… https://t.co/WRN5yCCQhs",
-    "retweet_count": 266,
-    "favorite_count": 1097,
+    "retweet_count": 274,
+    "favorite_count": 1121,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {

@@ -1,6 +1,90 @@
 {
- "time": 1518873191016,
+ "time": 1519367056734,
  "lists": [
+  {
+   "id": 965924125238849500,
+   "id_str": "965924125238849536",
+   "created_at": "Tue Feb 20 12:20:32 +0000 2018",
+   "text": "RT @bdc: Fun fact about https://t.co/lTUAoczWCO : while the hero image is loading, the header displays an inline SVG illustration blurred w…",
+   "retweet_count": 281,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lTUAoczWCO",
+     "expand": "https://stripe.com/environment"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965880151690096600,
+    "id_str": "965880151690096651",
+    "created_at": "Tue Feb 20 09:25:48 +0000 2018",
+    "text": "Fun fact about https://t.co/lTUAoczWCO : while the hero image is loading, the header displays an inline SVG illustr… https://t.co/SBL8AOvw3T",
+    "retweet_count": 281,
+    "favorite_count": 1310,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lTUAoczWCO",
+      "expand": "https://stripe.com/environment"
+     },
+     {
+      "url": "https://t.co/SBL8AOvw3T",
+      "expand": "https://twitter.com/i/web/status/965880151690096651"
+     }
+    ]
+   }
+  },
+  {
+   "id": 965910766502236200,
+   "id_str": "965910766502236160",
+   "created_at": "Tue Feb 20 11:27:27 +0000 2018",
+   "text": "What flavor you lot using these days?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 965623760832299000,
+   "id_str": "965623760832299009",
+   "created_at": "Mon Feb 19 16:26:59 +0000 2018",
+   "text": "RT @Stephenpeebee: Please retweet. These are the messages that the #Malta government is desperately trying to hide from local and internati…",
+   "retweet_count": 125,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 964817386074529800,
+    "id_str": "964817386074529792",
+    "created_at": "Sat Feb 17 11:02:44 +0000 2018",
+    "text": "Please retweet. These are the messages that the #Malta government is desperately trying to hide from local and inte… https://t.co/dyugdJ1hDB",
+    "retweet_count": 125,
+    "favorite_count": 95,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dyugdJ1hDB",
+      "expand": "https://twitter.com/i/web/status/964817386074529792"
+     }
+    ]
+   }
+  },
   {
    "id": 956168672690753500,
    "id_str": "956168672690753536",
@@ -10,6 +94,7 @@
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": 956164851143004200,
+   "in_reply_to_status_id_str": "956164851143004160",
    "in_reply_to_screen_name": "HMRCcustomers",
    "urls": []
   }

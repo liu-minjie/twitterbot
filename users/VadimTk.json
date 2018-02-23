@@ -1,22 +1,18 @@
 {
- "time": 1518873087306,
+ "time": 1519367078792,
  "lists": [
   {
-   "id": 964664035391168500,
-   "id_str": "964664035391168512",
-   "created_at": "Sat Feb 17 00:53:23 +0000 2018",
-   "text": "Why ZFS Affects MySQL Performance https://t.co/NmP5JilbI8",
-   "retweet_count": 4,
-   "favorite_count": 10,
+   "id": 966511071782555600,
+   "id_str": "966511071782555648",
+   "created_at": "Thu Feb 22 03:12:51 +0000 2018",
+   "text": "@markcallaghan @andy_pavlo maybe @andy_pavlo can help us to get self-tuned @RocksDB ... I can count hundreds tuning knobs there",
+   "retweet_count": 0,
+   "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/NmP5JilbI8",
-     "expand": "https://lnkd.in/gtxScWU"
-    }
-   ]
+   "in_reply_to_status_id": 966464603478663200,
+   "in_reply_to_status_id_str": "966464603478663168",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": []
   }
  ]
 }

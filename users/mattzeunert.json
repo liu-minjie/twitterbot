@@ -1,15 +1,281 @@
 {
- "time": 1518873189734,
+ "time": 1519367048369,
  "lists": [
+  {
+   "id": 966700462920548400,
+   "id_str": "966700462920548352",
+   "created_at": "Thu Feb 22 15:45:25 +0000 2018",
+   "text": "I love visual design advice you can follow without understanding design https://t.co/OCoGcwTpwL",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OCoGcwTpwL",
+     "expand": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886"
+    }
+   ]
+  },
+  {
+   "id": 966692449966989300,
+   "id_str": "966692449966989313",
+   "created_at": "Thu Feb 22 15:13:35 +0000 2018",
+   "text": "@Paul_Kinlan I use this Trello board for testing a lot https://t.co/uhkIKaeCrr",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966691811950579700,
+   "in_reply_to_status_id_str": "966691811950579712",
+   "in_reply_to_screen_name": "Paul_Kinlan",
+   "urls": [
+    {
+     "url": "https://t.co/uhkIKaeCrr",
+     "expand": "https://trello.com/b/Jx4NVZmY/fromjs-test"
+    }
+   ]
+  },
+  {
+   "id": 966688721683624000,
+   "id_str": "966688721683623937",
+   "created_at": "Thu Feb 22 14:58:46 +0000 2018",
+   "text": "I watched a Forensic Files episode recently where they identified a bank robber's shirt by how the pocket aligned w… https://t.co/MNkO1v38rC",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MNkO1v38rC",
+     "expand": "https://twitter.com/i/web/status/966688721683623937"
+    }
+   ]
+  },
+  {
+   "id": 966509369503313900,
+   "id_str": "966509369503313920",
+   "created_at": "Thu Feb 22 03:06:05 +0000 2018",
+   "text": "The threads module by @andywritescode is really well done. Even has support for debugging, \"thread\" pools, ... https://t.co/V6Z6JPLasA",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/V6Z6JPLasA",
+     "expand": "https://www.npmjs.com/package/threads"
+    }
+   ]
+  },
+  {
+   "id": 966501515887132700,
+   "id_str": "966501515887132672",
+   "created_at": "Thu Feb 22 02:34:52 +0000 2018",
+   "text": "@jasonlaster11 TTD could be very useful, both for better speed and to avoid having to capture a lot of data upfront… https://t.co/QeVZo6WoyG",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966500906765140000,
+   "in_reply_to_status_id_str": "966500906765139968",
+   "in_reply_to_screen_name": "mattzeunert",
+   "urls": [
+    {
+     "url": "https://t.co/QeVZo6WoyG",
+     "expand": "https://twitter.com/i/web/status/966501515887132672"
+    }
+   ]
+  },
+  {
+   "id": 966500906765140000,
+   "id_str": "966500906765139968",
+   "created_at": "Thu Feb 22 02:32:27 +0000 2018",
+   "text": "@jasonlaster11 There are so many use cases! I'm trying to do something fairly simple right now: find when values li… https://t.co/3C5SSZEJZc",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966494163301695500,
+   "in_reply_to_status_id_str": "966494163301695488",
+   "in_reply_to_screen_name": "jasonlaster11",
+   "urls": [
+    {
+     "url": "https://t.co/3C5SSZEJZc",
+     "expand": "https://twitter.com/i/web/status/966500906765139968"
+    }
+   ]
+  },
+  {
+   "id": 966490743773610000,
+   "id_str": "966490743773609984",
+   "created_at": "Thu Feb 22 01:52:04 +0000 2018",
+   "text": "@jasonlaster11 I'm still with my favorite hobby of instrumenting browser JS to capture call stacks, and then displa… https://t.co/ytoSoejTrk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966352129744097300,
+   "in_reply_to_status_id_str": "966352129744097285",
+   "in_reply_to_screen_name": "jasonlaster11",
+   "urls": [
+    {
+     "url": "https://t.co/ytoSoejTrk",
+     "expand": "https://twitter.com/i/web/status/966490743773609984"
+    }
+   ]
+  },
+  {
+   "id": 966252409352679400,
+   "id_str": "966252409352679424",
+   "created_at": "Wed Feb 21 10:05:01 +0000 2018",
+   "text": "@baddox @Vjeux I have a bunch of source locations in minified code, I want to format that code, and then show the m… https://t.co/wVc6kMkD3L",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 966182617375797200,
+   "in_reply_to_status_id_str": "966182617375797248",
+   "in_reply_to_screen_name": "baddox",
+   "urls": [
+    {
+     "url": "https://t.co/wVc6kMkD3L",
+     "expand": "https://twitter.com/i/web/status/966252409352679424"
+    }
+   ]
+  },
+  {
+   "id": 966156324403781600,
+   "id_str": "966156324403781633",
+   "created_at": "Wed Feb 21 03:43:12 +0000 2018",
+   "text": "RT @ChromeDevTools: Tip: Use the .cls pane to enable or disable an element's CSS classes.\n\nhttps://t.co/iqubJEDQFs",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iqubJEDQFs",
+     "expand": "https://youtu.be/vlOmTZZsXUU"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964514717376147500,
+    "id_str": "964514717376147457",
+    "created_at": "Fri Feb 16 15:00:03 +0000 2018",
+    "text": "Tip: Use the .cls pane to enable or disable an element's CSS classes.\n\nhttps://t.co/iqubJEDQFs",
+    "retweet_count": 13,
+    "favorite_count": 45,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iqubJEDQFs",
+      "expand": "https://youtu.be/vlOmTZZsXUU"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966156287443574800,
+   "id_str": "966156287443574784",
+   "created_at": "Wed Feb 21 03:43:03 +0000 2018",
+   "text": "@ChromeDevTools @kaycebasques I've been using it a lot recently, it's super useful!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 964514717376147500,
+   "in_reply_to_status_id_str": "964514717376147457",
+   "in_reply_to_screen_name": "ChromeDevTools",
+   "urls": []
+  },
+  {
+   "id": 966152565690843100,
+   "id_str": "966152565690843136",
+   "created_at": "Wed Feb 21 03:28:16 +0000 2018",
+   "text": "Trying to map a source location from original code to prettified version. Prettier has column-level accuracy, but i… https://t.co/In0fqdNcTR",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/In0fqdNcTR",
+     "expand": "https://twitter.com/i/web/status/966152565690843136"
+    }
+   ]
+  },
+  {
+   "id": 965624099941822500,
+   "id_str": "965624099941822466",
+   "created_at": "Mon Feb 19 16:28:20 +0000 2018",
+   "text": "Some thoughts on when to write tests. https://t.co/QoVWVRFPJg",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QoVWVRFPJg",
+     "expand": "http://www.mattzeunert.com/2018/02/19/when-to-write-tests.html"
+    }
+   ]
+  },
+  {
+   "id": 965617822670889000,
+   "id_str": "965617822670888960",
+   "created_at": "Mon Feb 19 16:03:23 +0000 2018",
+   "text": "Apparently in the 19th century half of all Chinese women had their toes broken by family members or professional fo… https://t.co/utsg2fgIOP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/utsg2fgIOP",
+     "expand": "https://twitter.com/i/web/status/965617822670888960"
+    }
+   ]
+  },
+  {
+   "id": 965174385815404500,
+   "id_str": "965174385815404544",
+   "created_at": "Sun Feb 18 10:41:20 +0000 2018",
+   "text": "I'm trying to understand the single responsibility principle, but it mostly seems to be about partial deploys and m… https://t.co/BNgIWnOhdm",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BNgIWnOhdm",
+     "expand": "https://twitter.com/i/web/status/965174385815404544"
+    }
+   ]
+  },
   {
    "id": 964391858301427700,
    "id_str": "964391858301427713",
    "created_at": "Fri Feb 16 06:51:51 +0000 2018",
    "text": "RT @KevinGoldsmith: introvert tip: One of the reasons I like speaking at conferences is because it makes networking a lot easier. People kn…",
-   "retweet_count": 741,
+   "retweet_count": 773,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
@@ -17,10 +283,11 @@
     "id_str": "963850794440187904",
     "created_at": "Wed Feb 14 19:01:51 +0000 2018",
     "text": "introvert tip: One of the reasons I like speaking at conferences is because it makes networking a lot easier. Peopl… https://t.co/1Hf6whswWa",
-    "retweet_count": 741,
-    "favorite_count": 3030,
+    "retweet_count": 773,
+    "favorite_count": 3140,
     "place": null,
     "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
