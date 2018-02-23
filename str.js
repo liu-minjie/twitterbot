@@ -72,7 +72,7 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 	  	if (count > 14) {
 	  		saveTimeline(username, ret, next);
 	  	}
-console.log(tool.count)
+console.log(tool.count.length)
 	  	console.log(JSON.stringify(error), count);
 	  	return
 	  }
