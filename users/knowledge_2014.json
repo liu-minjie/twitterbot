@@ -1,31 +1,665 @@
 {
- "time": 1519367432607,
+ "time": 1522595205038,
  "lists": [
   {
-   "id": 966866803396923400,
-   "id_str": "966866803396923392",
-   "created_at": "Fri Feb 23 02:46:24 +0000 2018",
-   "text": "@Bugcrowd 👌👏🙌 https://t.co/6CPRFa7igZ",
+   "id": 980198990988931100,
+   "id_str": "980198990988931072",
+   "created_at": "Sat Mar 31 21:43:45 +0000 2018",
+   "text": "@silencemind_ @Hacker0x01  https://t.co/KAvGbUCssd",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 980177752992243700,
+   "in_reply_to_status_id_str": "980177752992243720",
+   "in_reply_to_screen_name": "silencemind_",
+   "urls": []
+  },
+  {
+   "id": 980184374862807000,
+   "id_str": "980184374862807041",
+   "created_at": "Sat Mar 31 20:45:40 +0000 2018",
+   "text": "@x1m_martijn  https://t.co/F4iAxwJY5v",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
+   "in_reply_to_status_id": 980170469667205100,
+   "in_reply_to_status_id_str": "980170469667205120",
+   "in_reply_to_screen_name": "x1m_martijn",
+   "urls": []
+  },
+  {
+   "id": 979960479752818700,
+   "id_str": "979960479752818689",
+   "created_at": "Sat Mar 31 05:55:59 +0000 2018",
+   "text": "very interesting! https://t.co/aAsY5CwjaH @Hacker0x01 🚪🔑😱",
+   "retweet_count": 7,
+   "favorite_count": 27,
+   "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": "Bugcrowd",
+   "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/6CPRFa7igZ",
-     "expand": "https://twitter.com/riskybusiness/status/966785965183217664"
+     "url": "https://t.co/aAsY5CwjaH",
+     "expand": "https://hackerone.com/reports/317543"
     }
    ]
   },
   {
-   "id": 966814978283065300,
-   "id_str": "966814978283065344",
-   "created_at": "Thu Feb 22 23:20:28 +0000 2018",
-   "text": "\"When you create the perfect PoC\" https://t.co/KQz0eAy8bM",
+   "id": 979903152693456900,
+   "id_str": "979903152693456896",
+   "created_at": "Sat Mar 31 02:08:11 +0000 2018",
+   "text": "@Alra3ees @adrien_jeanneau @IsecEmAll @Dinosn this guy is pissed off 🤣",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 979902835381932000,
+   "in_reply_to_status_id_str": "979902835381932032",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 979902736404693000,
+   "id_str": "979902736404692992",
+   "created_at": "Sat Mar 31 02:06:32 +0000 2018",
+   "text": "@rootpentesting @hackthebox_eu you are on fire!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979851368839237600,
+   "in_reply_to_status_id_str": "979851368839237632",
+   "in_reply_to_screen_name": "rootpentesting",
+   "urls": []
+  },
+  {
+   "id": 979901364045103100,
+   "id_str": "979901364045103104",
+   "created_at": "Sat Mar 31 02:01:05 +0000 2018",
+   "text": "@tabahi_90 @Hacker0x01  https://t.co/3B6wVyWzPN",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979900138708787200,
+   "in_reply_to_status_id_str": "979900138708787201",
+   "in_reply_to_screen_name": "tabahi_90",
+   "urls": []
+  },
+  {
+   "id": 979900844240879600,
+   "id_str": "979900844240879617",
+   "created_at": "Sat Mar 31 01:59:01 +0000 2018",
+   "text": "@shashc0ma so.. im asking myself why this dude still follow me..",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979891593699143700,
+   "in_reply_to_status_id_str": "979891593699143680",
+   "in_reply_to_screen_name": "shashc0ma",
+   "urls": []
+  },
+  {
+   "id": 979834190882639900,
+   "id_str": "979834190882639873",
+   "created_at": "Fri Mar 30 21:34:10 +0000 2018",
+   "text": "@rootxharsh Always i been kind amazed with your achievements, so will be more than great read some of your finds, l… https://t.co/WwM5kx1uMj",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 979833367108694000,
+   "in_reply_to_status_id_str": "979833367108694016",
+   "in_reply_to_screen_name": "rootxharsh",
+   "urls": [
+    {
+     "url": "https://t.co/WwM5kx1uMj",
+     "expand": "https://twitter.com/i/web/status/979834190882639873"
+    }
+   ]
+  },
+  {
+   "id": 979833271860293600,
+   "id_str": "979833271860293632",
+   "created_at": "Fri Mar 30 21:30:31 +0000 2018",
+   "text": "@saamux you will for sure!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979832912014200800,
+   "in_reply_to_status_id_str": "979832912014200834",
+   "in_reply_to_screen_name": "saamux",
+   "urls": []
+  },
+  {
+   "id": 979832177096646700,
+   "id_str": "979832177096646657",
+   "created_at": "Fri Mar 30 21:26:10 +0000 2018",
+   "text": "RT @stefanohablando: In conclusion: report to kudos/no-reward programs or not, write about what you find or not, and tweet about your rewar…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979831555307733000,
+    "id_str": "979831555307732992",
+    "created_at": "Fri Mar 30 21:23:41 +0000 2018",
+    "text": "In conclusion: report to kudos/no-reward programs or not, write about what you find or not, and tweet about your re… https://t.co/W6gIuh8TdQ",
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/W6gIuh8TdQ",
+      "expand": "https://twitter.com/i/web/status/979831555307732992"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979816346958684200,
+   "id_str": "979816346958684160",
+   "created_at": "Fri Mar 30 20:23:15 +0000 2018",
+   "text": "@ImtiazAqsar @phwd @stefanohablando @IsecEmAll @bugbounty_world ok, but don't be pissed off. we are just only discussing.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979813192993067000,
+   "in_reply_to_status_id_str": "979813192993067008",
+   "in_reply_to_screen_name": "ImtiazAqsar",
+   "urls": []
+  },
+  {
+   "id": 979814659468546000,
+   "id_str": "979814659468546048",
+   "created_at": "Fri Mar 30 20:16:33 +0000 2018",
+   "text": "@stefanohablando @phwd @IsecEmAll @bugbounty_world  https://t.co/asW8TGd6vJ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979814125709742100,
+   "in_reply_to_status_id_str": "979814125709742081",
+   "in_reply_to_screen_name": "stefanohablando",
+   "urls": []
+  },
+  {
+   "id": 979813651795333100,
+   "id_str": "979813651795333121",
+   "created_at": "Fri Mar 30 20:12:33 +0000 2018",
+   "text": "@ImtiazAqsar @phwd @stefanohablando @IsecEmAll @bugbounty_world or maybe you are defending your identity to feel th… https://t.co/IUPYwuTqwt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979813192993067000,
+   "in_reply_to_status_id_str": "979813192993067008",
+   "in_reply_to_screen_name": "ImtiazAqsar",
+   "urls": [
+    {
+     "url": "https://t.co/IUPYwuTqwt",
+     "expand": "https://twitter.com/i/web/status/979813651795333121"
+    }
+   ]
+  },
+  {
+   "id": 979813323746181100,
+   "id_str": "979813323746181120",
+   "created_at": "Fri Mar 30 20:11:15 +0000 2018",
+   "text": "@testalways Exactly, that a fact. If we cannot adapt in some way to it, we will suffer to play this game.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979812740620542000,
+   "in_reply_to_status_id_str": "979812740620541952",
+   "in_reply_to_screen_name": "testalways",
+   "urls": []
+  },
+  {
+   "id": 979812315871809500,
+   "id_str": "979812315871809537",
+   "created_at": "Fri Mar 30 20:07:14 +0000 2018",
+   "text": "@stefanohablando @Alyssa_Herrera_ @phwd @IsecEmAll @bugbounty_world exactly. this is the beauty and escence of our freedom.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979811735057117200,
+   "in_reply_to_status_id_str": "979811735057117184",
+   "in_reply_to_screen_name": "stefanohablando",
+   "urls": []
+  },
+  {
+   "id": 979811565531729900,
+   "id_str": "979811565531729926",
+   "created_at": "Fri Mar 30 20:04:15 +0000 2018",
+   "text": "@ImtiazAqsar @phwd @stefanohablando @IsecEmAll @bugbounty_world Yes, is true. if we cannot change as we go forward… https://t.co/b5q2kGYCuQ",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979811019806650400,
+   "in_reply_to_status_id_str": "979811019806650368",
+   "in_reply_to_screen_name": "ImtiazAqsar",
+   "urls": [
+    {
+     "url": "https://t.co/b5q2kGYCuQ",
+     "expand": "https://twitter.com/i/web/status/979811565531729926"
+    }
+   ]
+  },
+  {
+   "id": 979810693565304800,
+   "id_str": "979810693565304833",
+   "created_at": "Fri Mar 30 20:00:48 +0000 2018",
+   "text": "@phwd @stefanohablando @IsecEmAll @bugbounty_world So you choose how to play. live and let live.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979809653281509400,
+   "in_reply_to_status_id_str": "979809653281509376",
+   "in_reply_to_screen_name": "phwd",
+   "urls": []
+  },
+  {
+   "id": 979808782929793000,
+   "id_str": "979808782929793026",
+   "created_at": "Fri Mar 30 19:53:12 +0000 2018",
+   "text": "@phwd @stefanohablando @IsecEmAll @bugbounty_world Bug Bounty is far away from real infosec research it is,  becaus… https://t.co/JDeQysiFAq",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979807558549504000,
+   "in_reply_to_status_id_str": "979807558549504000",
+   "in_reply_to_screen_name": "phwd",
+   "urls": [
+    {
+     "url": "https://t.co/JDeQysiFAq",
+     "expand": "https://twitter.com/i/web/status/979808782929793026"
+    }
+   ]
+  },
+  {
+   "id": 979803440288321500,
+   "id_str": "979803440288321536",
+   "created_at": "Fri Mar 30 19:31:58 +0000 2018",
+   "text": "@smiegles it is also true that here in South America at the moment We do not eat hof or t-shirts",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979798721633439700,
+   "in_reply_to_status_id_str": "979798721633439750",
+   "in_reply_to_screen_name": "smiegles",
+   "urls": []
+  },
+  {
+   "id": 979802973831422000,
+   "id_str": "979802973831421952",
+   "created_at": "Fri Mar 30 19:30:07 +0000 2018",
+   "text": "@smiegles I agree with you. We learn while doing, especially when we make mistakes.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979798721633439700,
+   "in_reply_to_status_id_str": "979798721633439750",
+   "in_reply_to_screen_name": "smiegles",
+   "urls": []
+  },
+  {
+   "id": 979801598313541600,
+   "id_str": "979801598313541632",
+   "created_at": "Fri Mar 30 19:24:39 +0000 2018",
+   "text": "@showthread I agree with that :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979801244414959600,
+   "in_reply_to_status_id_str": "979801244414959616",
+   "in_reply_to_screen_name": "showthread",
+   "urls": []
+  },
+  {
+   "id": 979801204648742900,
+   "id_str": "979801204648742912",
+   "created_at": "Fri Mar 30 19:23:05 +0000 2018",
+   "text": "@phwd @IsecEmAll @stefanohablando @bugbounty_world We have @bugbounty_world which is a great place with more than 5… https://t.co/45cP1AZGqU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979799434044362800,
+   "in_reply_to_status_id_str": "979799434044362753",
+   "in_reply_to_screen_name": "phwd",
+   "urls": [
+    {
+     "url": "https://t.co/45cP1AZGqU",
+     "expand": "https://twitter.com/i/web/status/979801204648742912"
+    }
+   ]
+  },
+  {
+   "id": 979800797511856100,
+   "id_str": "979800797511856128",
+   "created_at": "Fri Mar 30 19:21:28 +0000 2018",
+   "text": "@phwd @IsecEmAll @stefanohablando @bugbounty_world Am I being judged for doing what I love to do or am I being forc… https://t.co/sBVxo9YyWD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979799434044362800,
+   "in_reply_to_status_id_str": "979799434044362753",
+   "in_reply_to_screen_name": "phwd",
+   "urls": [
+    {
+     "url": "https://t.co/sBVxo9YyWD",
+     "expand": "https://twitter.com/i/web/status/979800797511856128"
+    }
+   ]
+  },
+  {
+   "id": 979797484997414900,
+   "id_str": "979797484997414914",
+   "created_at": "Fri Mar 30 19:08:18 +0000 2018",
+   "text": "@IsecEmAll @stefanohablando My personal blog: https://t.co/m3sSTnyZsg. and our free community slack channel @bugbounty_world",
    "retweet_count": 1,
-   "favorite_count": 13,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979796283840921600,
+   "in_reply_to_status_id_str": "979796283840921606",
+   "in_reply_to_screen_name": "IsecEmAll",
+   "urls": [
+    {
+     "url": "https://t.co/m3sSTnyZsg",
+     "expand": "http://medium.com/@know.0nix/"
+    }
+   ]
+  },
+  {
+   "id": 979797132990349300,
+   "id_str": "979797132990349313",
+   "created_at": "Fri Mar 30 19:06:54 +0000 2018",
+   "text": "@IsecEmAll @stefanohablando You look the balance but not my shared write ups? you look my balance but not my contri… https://t.co/5L3LGoJ57L",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979794235552563200,
+   "in_reply_to_status_id_str": "979794235552563200",
+   "in_reply_to_screen_name": "IsecEmAll",
+   "urls": [
+    {
+     "url": "https://t.co/5L3LGoJ57L",
+     "expand": "https://twitter.com/i/web/status/979797132990349313"
+    }
+   ]
+  },
+  {
+   "id": 979795611611516900,
+   "id_str": "979795611611516929",
+   "created_at": "Fri Mar 30 19:00:52 +0000 2018",
+   "text": "@stefanohablando @IsecEmAll im so happy that I have no job, bug bounty makes me free. I can play from any place in… https://t.co/Yiv3bMChsR",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979791107805663200,
+   "in_reply_to_status_id_str": "979791107805663232",
+   "in_reply_to_screen_name": "stefanohablando",
+   "urls": [
+    {
+     "url": "https://t.co/Yiv3bMChsR",
+     "expand": "https://twitter.com/i/web/status/979795611611516929"
+    }
+   ]
+  },
+  {
+   "id": 979785270286528500,
+   "id_str": "979785270286528512",
+   "created_at": "Fri Mar 30 18:19:46 +0000 2018",
+   "text": "@IsecEmAll @stefanohablando We can do bug bounties for living and at same time we can share our experiencies to the… https://t.co/FDAa8noEvn",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979624105870807000,
+   "in_reply_to_status_id_str": "979624105870807040",
+   "in_reply_to_screen_name": "IsecEmAll",
+   "urls": [
+    {
+     "url": "https://t.co/FDAa8noEvn",
+     "expand": "https://twitter.com/i/web/status/979785270286528512"
+    }
+   ]
+  },
+  {
+   "id": 979477571069980700,
+   "id_str": "979477571069980672",
+   "created_at": "Thu Mar 29 21:57:05 +0000 2018",
+   "text": "@adrien_jeanneau  https://t.co/5SQU8GPLah",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979458691555577900,
+   "in_reply_to_status_id_str": "979458691555577857",
+   "in_reply_to_screen_name": "adrien_jeanneau",
+   "urls": []
+  },
+  {
+   "id": 979457603083350000,
+   "id_str": "979457603083350018",
+   "created_at": "Thu Mar 29 20:37:44 +0000 2018",
+   "text": "@Alyssa_Herrera_  https://t.co/go93oGsdS6",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979389182937190400,
+   "in_reply_to_status_id_str": "979389182937190400",
+   "in_reply_to_screen_name": "Alyssa_Herrera_",
+   "urls": []
+  },
+  {
+   "id": 979449476459966500,
+   "id_str": "979449476459966465",
+   "created_at": "Thu Mar 29 20:05:27 +0000 2018",
+   "text": "Great writeup @gwendallecoguic  With a lot of bugbounty shared feelings! \"Why i choosed #BugBounty and why i love i… https://t.co/0u9GAl7Qij",
+   "retweet_count": 1,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0u9GAl7Qij",
+     "expand": "https://twitter.com/i/web/status/979449476459966465"
+    }
+   ]
+  },
+  {
+   "id": 979431106696138800,
+   "id_str": "979431106696138752",
+   "created_at": "Thu Mar 29 18:52:27 +0000 2018",
+   "text": "@brentwdesign ok: Winter2018.-",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 979000764730363900,
+   "in_reply_to_status_id_str": "979000764730363905",
+   "in_reply_to_screen_name": "brentwdesign",
+   "urls": []
+  },
+  {
+   "id": 979145075715436500,
+   "id_str": "979145075715436546",
+   "created_at": "Wed Mar 28 23:55:52 +0000 2018",
+   "text": "@caseyjohnellis  https://t.co/p5kMY4CcMf",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979120673980276700,
+   "in_reply_to_status_id_str": "979120673980276736",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": []
+  },
+  {
+   "id": 978968027365625900,
+   "id_str": "978968027365625856",
+   "created_at": "Wed Mar 28 12:12:20 +0000 2018",
+   "text": "@HusseiN98D @Hacker0x01 wow! congrats! bug type?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978919895432880100,
+   "in_reply_to_status_id_str": "978919895432880128",
+   "in_reply_to_screen_name": "HusseiN98D",
+   "urls": []
+  },
+  {
+   "id": 978967519632470000,
+   "id_str": "978967519632470016",
+   "created_at": "Wed Mar 28 12:10:19 +0000 2018",
+   "text": "@jackds1986 @Hacker0x01 yahoo is love",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978878495932772400,
+   "in_reply_to_status_id_str": "978878495932772354",
+   "in_reply_to_screen_name": "jackds1986",
+   "urls": []
+  },
+  {
+   "id": 978965948295270400,
+   "id_str": "978965948295270403",
+   "created_at": "Wed Mar 28 12:04:05 +0000 2018",
+   "text": "@x1m_martijn sure! done!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978953601904201700,
+   "in_reply_to_status_id_str": "978953601904201729",
+   "in_reply_to_screen_name": "x1m_martijn",
+   "urls": []
+  },
+  {
+   "id": 978759713000165400,
+   "id_str": "978759713000165378",
+   "created_at": "Tue Mar 27 22:24:34 +0000 2018",
+   "text": "@saamux  https://t.co/R5dVrjTTo4",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978759200770854900,
+   "in_reply_to_status_id_str": "978759200770854912",
+   "in_reply_to_screen_name": "saamux",
+   "urls": []
+  },
+  {
+   "id": 978759023796334600,
+   "id_str": "978759023796334593",
+   "created_at": "Tue Mar 27 22:21:50 +0000 2018",
+   "text": "@saamux ademas de eso, lo cochino es que te pidan \"needs more info\" y cuando re-testeas el bug ya no está porque lo… https://t.co/2T7ZUPsclo",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978758725556109300,
+   "in_reply_to_status_id_str": "978758725556109312",
+   "in_reply_to_screen_name": "saamux",
+   "urls": [
+    {
+     "url": "https://t.co/2T7ZUPsclo",
+     "expand": "https://twitter.com/i/web/status/978759023796334593"
+    }
+   ]
+  },
+  {
+   "id": 978758676889645000,
+   "id_str": "978758676889645056",
+   "created_at": "Tue Mar 27 22:20:27 +0000 2018",
+   "text": "@yappare yup that's a good tip too!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978757437716029400,
+   "in_reply_to_status_id_str": "978757437716029440",
+   "in_reply_to_screen_name": "yappare",
+   "urls": []
+  },
+  {
+   "id": 978756914606760000,
+   "id_str": "978756914606759936",
+   "created_at": "Tue Mar 27 22:13:27 +0000 2018",
+   "text": "@yogendra_h1 @Hacker0x01 yes, I had too, with some knowns programs on h1 too",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978756807253348400,
+   "in_reply_to_status_id_str": "978756807253348353",
+   "in_reply_to_screen_name": "yogendra_h1",
+   "urls": []
+  },
+  {
+   "id": 978755480678993900,
+   "id_str": "978755480678993922",
+   "created_at": "Tue Mar 27 22:07:45 +0000 2018",
+   "text": "BugBounty tip: Always attach a Video PoC to your report. Nasty things can occur with some programs: As example: \"We… https://t.co/0Bmw9a7wgW",
+   "retweet_count": 18,
+   "favorite_count": 93,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0Bmw9a7wgW",
+     "expand": "https://twitter.com/i/web/status/978755480678993922"
+    }
+   ]
+  },
+  {
+   "id": 978714933918609400,
+   "id_str": "978714933918609416",
+   "created_at": "Tue Mar 27 19:26:38 +0000 2018",
+   "text": "Facebook Container Extension:  Take control of how you’re being tracked\nhttps://t.co/3O9knkYMLb",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3O9knkYMLb",
+     "expand": "https://blog.mozilla.org/firefox/facebook-container-extension/"
+    }
+   ]
+  },
+  {
+   "id": 978697754607345700,
+   "id_str": "978697754607345664",
+   "created_at": "Tue Mar 27 18:18:22 +0000 2018",
+   "text": "@zk34911  https://t.co/879fwWakso",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978693649054580700,
+   "in_reply_to_status_id_str": "978693649054580737",
+   "in_reply_to_screen_name": "zk34911",
+   "urls": []
+  },
+  {
+   "id": 978476686047170600,
+   "id_str": "978476686047170560",
+   "created_at": "Tue Mar 27 03:39:55 +0000 2018",
+   "text": "@agrawalsmart7 go outside, social life &amp; nature helps a lot !",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 976145943480303600,
+   "in_reply_to_status_id_str": "976145943480303618",
+   "in_reply_to_screen_name": "agrawalsmart7",
+   "urls": []
+  },
+  {
+   "id": 978394422412038100,
+   "id_str": "978394422412038144",
+   "created_at": "Mon Mar 26 22:13:02 +0000 2018",
+   "text": "😂🤣🔑🚪 https://t.co/a6grwbjukc",
+   "retweet_count": 10,
+   "favorite_count": 46,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
@@ -33,113 +667,2043 @@
    "urls": []
   },
   {
-   "id": 966804839329157100,
-   "id_str": "966804839329157125",
-   "created_at": "Thu Feb 22 22:40:10 +0000 2018",
-   "text": "@apfeifer27 @Hacker0x01  https://t.co/T9ytTv33qw",
+   "id": 978346346808619000,
+   "id_str": "978346346808619008",
+   "created_at": "Mon Mar 26 19:02:00 +0000 2018",
+   "text": "@x1m_martijn yes! that happens a lot! dont understimate the begginers mind! in there are a lot of possibilities!",
    "retweet_count": 0,
-   "favorite_count": 10,
+   "favorite_count": 4,
    "place": null,
-   "in_reply_to_status_id": 966795578280693800,
-   "in_reply_to_status_id_str": "966795578280693760",
-   "in_reply_to_screen_name": "apfeifer27",
+   "in_reply_to_status_id": 978345858466017300,
+   "in_reply_to_status_id_str": "978345858466017282",
+   "in_reply_to_screen_name": "x1m_martijn",
    "urls": []
   },
   {
-   "id": 966804574525952000,
-   "id_str": "966804574525952001",
-   "created_at": "Thu Feb 22 22:39:07 +0000 2018",
-   "text": "@disclosedh1 @Anonymouseeyou is like a  blind disclosure, nice...",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966794775528603600,
-   "in_reply_to_status_id_str": "966794775528603648",
-   "in_reply_to_screen_name": "disclosedh1",
-   "urls": []
-  },
-  {
-   "id": 966787306215657500,
-   "id_str": "966787306215657474",
-   "created_at": "Thu Feb 22 21:30:30 +0000 2018",
-   "text": "@gwendallecoguic display no such app because you dont deploy an static page..",
+   "id": 978345213189152800,
+   "id_str": "978345213189152773",
+   "created_at": "Mon Mar 26 18:57:30 +0000 2018",
+   "text": "@vibs123i wow! congrats!!",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 966708730460065800,
-   "in_reply_to_status_id_str": "966708730460065792",
-   "in_reply_to_screen_name": "gwendallecoguic",
+   "in_reply_to_status_id": 978321908780302300,
+   "in_reply_to_status_id_str": "978321908780302336",
+   "in_reply_to_screen_name": "vibs123i",
    "urls": []
   },
   {
-   "id": 966737885453045800,
-   "id_str": "966737885453045761",
-   "created_at": "Thu Feb 22 18:14:07 +0000 2018",
-   "text": "@sxcurity @rootpentesting @iamnoooob @x0rz why so leet",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966728494980915200,
-   "in_reply_to_status_id_str": "966728494980915201",
-   "in_reply_to_screen_name": "sxcurity",
-   "urls": []
-  },
-  {
-   "id": 966725054364028900,
-   "id_str": "966725054364028928",
-   "created_at": "Thu Feb 22 17:23:08 +0000 2018",
-   "text": "@rootpentesting @iamnoooob @x0rz im close but @iamnoooob is the boss.. bam bam bam https://t.co/EAabQ6IFDi",
+   "id": 978345053365198800,
+   "id_str": "978345053365198853",
+   "created_at": "Mon Mar 26 18:56:52 +0000 2018",
+   "text": "@x1m_martijn that report is hilarious! 🤣",
    "retweet_count": 0,
    "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 966724557494202400,
-   "in_reply_to_status_id_str": "966724557494202371",
-   "in_reply_to_screen_name": "rootpentesting",
+   "in_reply_to_status_id": 978183695713603600,
+   "in_reply_to_status_id_str": "978183695713603584",
+   "in_reply_to_screen_name": "x1m_martijn",
    "urls": []
   },
   {
-   "id": 966718443390165000,
-   "id_str": "966718443390164993",
-   "created_at": "Thu Feb 22 16:56:52 +0000 2018",
-   "text": "@iamnoooob @x0rz why so leet?",
+   "id": 978344886322724900,
+   "id_str": "978344886322724870",
+   "created_at": "Mon Mar 26 18:56:12 +0000 2018",
+   "text": "@prateek_0490  https://t.co/sOwSrUgBqX",
    "retweet_count": 0,
-   "favorite_count": 0,
+   "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 966704712891404300,
-   "in_reply_to_status_id_str": "966704712891404290",
-   "in_reply_to_screen_name": "iamnoooob",
+   "in_reply_to_status_id": 978266896867954700,
+   "in_reply_to_status_id_str": "978266896867954692",
+   "in_reply_to_screen_name": "prateek_0490",
    "urls": []
   },
   {
-   "id": 966586187103244300,
-   "id_str": "966586187103244288",
-   "created_at": "Thu Feb 22 08:11:19 +0000 2018",
-   "text": "@c0d3G33k IDOR",
+   "id": 978344064381870100,
+   "id_str": "978344064381870082",
+   "created_at": "Mon Mar 26 18:52:56 +0000 2018",
+   "text": "@itscachemoney @Hacker0x01 @Mapbox great guys doing awesome things.. congrats!",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 966586032475930600,
-   "in_reply_to_status_id_str": "966586032475930624",
+   "in_reply_to_status_id": 978340935997247500,
+   "in_reply_to_status_id_str": "978340935997247488",
+   "in_reply_to_screen_name": "itscachemoney",
+   "urls": []
+  },
+  {
+   "id": 978343797313720300,
+   "id_str": "978343797313720322",
+   "created_at": "Mon Mar 26 18:51:52 +0000 2018",
+   "text": "@iPrincipito Así habló Zaratustra por Friedrich Nietzsche. Cierto?",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 978341119128989700,
+   "in_reply_to_status_id_str": "978341119128989700",
+   "in_reply_to_screen_name": "iPrincipito",
+   "urls": []
+  },
+  {
+   "id": 978343412830269400,
+   "id_str": "978343412830269451",
+   "created_at": "Mon Mar 26 18:50:21 +0000 2018",
+   "text": "@spexyone @kpixaba_bsb next marvel superhero is born.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977823369361059800,
+   "in_reply_to_status_id_str": "977823369361059841",
+   "in_reply_to_screen_name": "spexyone",
+   "urls": []
+  },
+  {
+   "id": 978342978396803100,
+   "id_str": "978342978396803072",
+   "created_at": "Mon Mar 26 18:48:37 +0000 2018",
+   "text": "@jontsai i totally agree, all market is specific prepared for a fast mind set reaction without really think. The on… https://t.co/JNtSgijbHx",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978342316971905000,
+   "in_reply_to_status_id_str": "978342316971905024",
+   "in_reply_to_screen_name": "jontsai",
+   "urls": [
+    {
+     "url": "https://t.co/JNtSgijbHx",
+     "expand": "https://twitter.com/i/web/status/978342978396803072"
+    }
+   ]
+  },
+  {
+   "id": 978334410859741200,
+   "id_str": "978334410859741184",
+   "created_at": "Mon Mar 26 18:14:34 +0000 2018",
+   "text": "@yaworsk @Rosenawesome the giant spider was changed by a waffle? seems yummy!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978309161929748500,
+   "in_reply_to_status_id_str": "978309161929748480",
+   "in_reply_to_screen_name": "yaworsk",
+   "urls": []
+  },
+  {
+   "id": 978334087378341900,
+   "id_str": "978334087378341888",
+   "created_at": "Mon Mar 26 18:13:17 +0000 2018",
+   "text": "@v0sx9b @SynackRedTeam congrats and welcome!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978129778615169000,
+   "in_reply_to_status_id_str": "978129778615169025",
+   "in_reply_to_screen_name": "v0sx9b",
+   "urls": []
+  },
+  {
+   "id": 978066751727554600,
+   "id_str": "978066751727554566",
+   "created_at": "Mon Mar 26 00:30:59 +0000 2018",
+   "text": "@kelseyhightower thanks!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978062925972758500,
+   "in_reply_to_status_id_str": "978062925972758529",
+   "in_reply_to_screen_name": "kelseyhightower",
+   "urls": []
+  },
+  {
+   "id": 978060539610968000,
+   "id_str": "978060539610968065",
+   "created_at": "Mon Mar 26 00:06:18 +0000 2018",
+   "text": "I earned $400 for my submission on @bugcrowd #ItTakesACrowd",
+   "retweet_count": 0,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978048701930369000,
+   "id_str": "978048701930369024",
+   "created_at": "Sun Mar 25 23:19:16 +0000 2018",
+   "text": "🤣😂🤣😂 https://t.co/ZXh3XaMzhz",
+   "retweet_count": 11,
+   "favorite_count": 30,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978047667438841900,
+   "id_str": "978047667438841857",
+   "created_at": "Sun Mar 25 23:15:09 +0000 2018",
+   "text": "@Yassineaboukir  https://t.co/G5v8a664LF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978035176704966700,
+   "in_reply_to_status_id_str": "978035176704966657",
+   "in_reply_to_screen_name": "Yassineaboukir",
+   "urls": []
+  },
+  {
+   "id": 978006979686920200,
+   "id_str": "978006979686920192",
+   "created_at": "Sun Mar 25 20:33:29 +0000 2018",
+   "text": "@Alra3ees @knoxss_me @brutelogic congrats! XSS ATM!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977999701755736000,
+   "in_reply_to_status_id_str": "977999701755736064",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 977994777147920400,
+   "id_str": "977994777147920385",
+   "created_at": "Sun Mar 25 19:44:59 +0000 2018",
+   "text": "🧠🗣️😑 https://t.co/aowyqWjHbL",
+   "retweet_count": 446,
+   "favorite_count": 1069,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 977970440214900700,
+   "id_str": "977970440214900736",
+   "created_at": "Sun Mar 25 18:08:17 +0000 2018",
+   "text": "@minturebr @brutelogic write up?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977945641560297500,
+   "in_reply_to_status_id_str": "977945641560297472",
+   "in_reply_to_screen_name": "minturebr",
+   "urls": []
+  },
+  {
+   "id": 977789906448797700,
+   "id_str": "977789906448797697",
+   "created_at": "Sun Mar 25 06:10:54 +0000 2018",
+   "text": "@kp625544 @D0rkerDevil @c0d3G33k @synack  https://t.co/roKcEY9Bhh",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977789512402182100,
+   "in_reply_to_status_id_str": "977789512402182144",
+   "in_reply_to_screen_name": "kp625544",
+   "urls": []
+  },
+  {
+   "id": 977788925950464000,
+   "id_str": "977788925950464000",
+   "created_at": "Sun Mar 25 06:07:01 +0000 2018",
+   "text": "@sgrove i make an awesome coffee :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977743711055441900,
+   "in_reply_to_status_id_str": "977743711055441920",
+   "in_reply_to_screen_name": "sgrove",
+   "urls": []
+  },
+  {
+   "id": 977787351333265400,
+   "id_str": "977787351333265410",
+   "created_at": "Sun Mar 25 06:00:45 +0000 2018",
+   "text": "@c0d3G33k @synack that's weird.. im on snack and I don't have OSCP :/",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 977783741102903300,
+   "in_reply_to_status_id_str": "977783741102903297",
    "in_reply_to_screen_name": "c0d3G33k",
    "urls": []
   },
   {
-   "id": 966586079972331500,
-   "id_str": "966586079972331521",
-   "created_at": "Thu Feb 22 08:10:54 +0000 2018",
-   "text": "@tbmnull congrats! and welcome to the club 🤪",
+   "id": 977649961851551700,
+   "id_str": "977649961851551744",
+   "created_at": "Sat Mar 24 20:54:49 +0000 2018",
+   "text": "@samhouston I love 80' &amp; 90' ! welcome to the club!",
    "retweet_count": 0,
-   "favorite_count": 5,
+   "favorite_count": 4,
    "place": null,
-   "in_reply_to_status_id": 966578899940532200,
-   "in_reply_to_status_id_str": "966578899940532224",
-   "in_reply_to_screen_name": "tbmnull",
+   "in_reply_to_status_id": 977649130125193200,
+   "in_reply_to_status_id_str": "977649130125193216",
+   "in_reply_to_screen_name": "samhouston",
    "urls": []
   },
   {
-   "id": 966583564446945300,
-   "id_str": "966583564446945281",
-   "created_at": "Thu Feb 22 08:00:54 +0000 2018",
+   "id": 977641944871555100,
+   "id_str": "977641944871555077",
+   "created_at": "Sat Mar 24 20:22:58 +0000 2018",
+   "text": "@thomasmedhurst That's awesome! I always asked myself what it feels like when surfing.. I'll have to experience it at some point!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977640580753768400,
+   "in_reply_to_status_id_str": "977640580753768448",
+   "in_reply_to_screen_name": "thomasmedhurst",
+   "urls": []
+  },
+  {
+   "id": 977631036074070000,
+   "id_str": "977631036074070021",
+   "created_at": "Sat Mar 24 19:39:37 +0000 2018",
+   "text": "@HanseSecure @Alra3ees @YoKoAcc @OrOneEqualsOne thanks for the kind reply!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977628735976431600,
+   "in_reply_to_status_id_str": "977628735976431616",
+   "in_reply_to_screen_name": "HanseSecure",
+   "urls": []
+  },
+  {
+   "id": 977625791189209100,
+   "id_str": "977625791189209088",
+   "created_at": "Sat Mar 24 19:18:46 +0000 2018",
+   "text": "RT @schlaf: How to foster a beginner’s mind: \n-Focus on questions, not answers\n-Discard fear of failure\n-One step at a time\n-Fall down, get…",
+   "retweet_count": 194,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976912444605059100,
+    "id_str": "976912444605059072",
+    "created_at": "Thu Mar 22 20:04:11 +0000 2018",
+    "text": "How to foster a beginner’s mind: \n-Focus on questions, not answers\n-Discard fear of failure\n-One step at a time\n-Fa… https://t.co/BUy13LJsqi",
+    "retweet_count": 194,
+    "favorite_count": 533,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/BUy13LJsqi",
+      "expand": "https://twitter.com/i/web/status/976912444605059072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977406170615992300,
+   "id_str": "977406170615992320",
+   "created_at": "Sat Mar 24 04:46:05 +0000 2018",
+   "text": "@Alra3ees @YoKoAcc @HanseSecure he doesn't explain how find the command injection endpoint from burp suite",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977115498994372600,
+   "in_reply_to_status_id_str": "977115498994372608",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 977364406051967000,
+   "id_str": "977364406051966976",
+   "created_at": "Sat Mar 24 02:00:07 +0000 2018",
+   "text": "@Alra3ees i start a thread over BBW I tagged you there",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977363047575584800,
+   "in_reply_to_status_id_str": "977363047575584768",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 977360922435047400,
+   "id_str": "977360922435047425",
+   "created_at": "Sat Mar 24 01:46:17 +0000 2018",
+   "text": "this force to us to contact directly the manager of the program outside the platform to streamline the triage which… https://t.co/VYS0UTJ5x1",
+   "retweet_count": 1,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 977359327332880400,
+   "in_reply_to_status_id_str": "977359327332880390",
+   "in_reply_to_screen_name": "knowledge_2014",
+   "urls": [
+    {
+     "url": "https://t.co/VYS0UTJ5x1",
+     "expand": "https://twitter.com/i/web/status/977360922435047425"
+    }
+   ]
+  },
+  {
+   "id": 977359327332880400,
+   "id_str": "977359327332880390",
+   "created_at": "Sat Mar 24 01:39:56 +0000 2018",
+   "text": "@bugcrowd When analyst knows about a program and common bugs reported from specific researcher, the flow of triage… https://t.co/FkhZgKlxPV",
+   "retweet_count": 1,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "Bugcrowd",
+   "urls": [
+    {
+     "url": "https://t.co/FkhZgKlxPV",
+     "expand": "https://twitter.com/i/web/status/977359327332880390"
+    }
+   ]
+  },
+  {
+   "id": 977011017321467900,
+   "id_str": "977011017321467904",
+   "created_at": "Fri Mar 23 02:35:53 +0000 2018",
+   "text": "If you think that you are mapped the complete application or available endpoints, look again: Read their API docs f… https://t.co/2MjLbgGWGO",
+   "retweet_count": 12,
+   "favorite_count": 56,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2MjLbgGWGO",
+     "expand": "https://twitter.com/i/web/status/977011017321467904"
+    }
+   ]
+  },
+  {
+   "id": 976912337608347600,
+   "id_str": "976912337608347650",
+   "created_at": "Thu Mar 22 20:03:46 +0000 2018",
+   "text": "@sonofrenuka @MeredWilliams @1oder0 https://t.co/MUV09HTSol",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976583589105098800,
+   "in_reply_to_status_id_str": "976583589105098752",
+   "in_reply_to_screen_name": "sonofrenuka",
+   "urls": [
+    {
+     "url": "https://t.co/MUV09HTSol",
+     "expand": "https://mashable.com/2018/03/19/escaping-facebook-delete-account/"
+    }
+   ]
+  },
+  {
+   "id": 976911107020480500,
+   "id_str": "976911107020480514",
+   "created_at": "Thu Mar 22 19:58:52 +0000 2018",
+   "text": "impressive!! https://t.co/0dhFGuK2TV",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0dhFGuK2TV",
+     "expand": "https://twitter.com/DannyDutch/status/976192537122701315"
+    }
+   ]
+  },
+  {
+   "id": 976893665863000000,
+   "id_str": "976893665863000064",
+   "created_at": "Thu Mar 22 18:49:34 +0000 2018",
+   "text": "RT @caseyjohnellis: we're hiring! engineering, product, technical ops, se's and sales people. come join the @bugcrowd! https://t.co/3RdwSxD…",
+   "retweet_count": 46,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976882739730374700,
+    "id_str": "976882739730374656",
+    "created_at": "Thu Mar 22 18:06:09 +0000 2018",
+    "text": "we're hiring! engineering, product, technical ops, se's and sales people. come join the @bugcrowd! https://t.co/3RdwSxDdKX #bugbounty",
+    "retweet_count": 46,
+    "favorite_count": 59,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3RdwSxDdKX",
+      "expand": "https://www.bugcrowd.com/about/careers/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976875298582138900,
+   "id_str": "976875298582138885",
+   "created_at": "Thu Mar 22 17:36:35 +0000 2018",
+   "text": "@Alra3ees @openbugbounty well done mate!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976855374732120000,
+   "in_reply_to_status_id_str": "976855374732120064",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 976663542010171400,
+   "id_str": "976663542010171393",
+   "created_at": "Thu Mar 22 03:35:08 +0000 2018",
+   "text": "@s4thi5h_infosec @Bugcrowd great!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976655151778889700,
+   "in_reply_to_status_id_str": "976655151778889728",
+   "in_reply_to_screen_name": "s4thi5h_infosec",
+   "urls": []
+  },
+  {
+   "id": 976634897459810300,
+   "id_str": "976634897459810304",
+   "created_at": "Thu Mar 22 01:41:19 +0000 2018",
+   "text": "@mashable nice! phone explosions everywhere!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976440036739764200,
+   "in_reply_to_status_id_str": "976440036739764225",
+   "in_reply_to_screen_name": "mashable",
+   "urls": []
+  },
+  {
+   "id": 976632675409817600,
+   "id_str": "976632675409817600",
+   "created_at": "Thu Mar 22 01:32:29 +0000 2018",
+   "text": "@celalerdik @Bugcrowd congrats! @Bugcrowd is love 😍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976610011001614300,
+   "in_reply_to_status_id_str": "976610011001614336",
+   "in_reply_to_screen_name": "celalerdik",
+   "urls": []
+  },
+  {
+   "id": 976612899367129100,
+   "id_str": "976612899367129089",
+   "created_at": "Thu Mar 22 00:13:54 +0000 2018",
+   "text": "@HusseiN98D @Bugcrowd bounty machine!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976597822626828300,
+   "in_reply_to_status_id_str": "976597822626828288",
+   "in_reply_to_screen_name": "HusseiN98D",
+   "urls": []
+  },
+  {
+   "id": 976593323191406600,
+   "id_str": "976593323191406593",
+   "created_at": "Wed Mar 21 22:56:07 +0000 2018",
+   "text": "@bughuntercat the cost of free bugs is that we are wasting our life time :) #nomorefreebugs",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976589733445894100,
+   "in_reply_to_status_id_str": "976589733445894146",
+   "in_reply_to_screen_name": "bughuntercat",
+   "urls": []
+  },
+  {
+   "id": 976592015793229800,
+   "id_str": "976592015793229824",
+   "created_at": "Wed Mar 21 22:50:55 +0000 2018",
+   "text": "@omespino I Agree partially,as researchers we want to improves ourselves in knowledge, skills and maybe develop an… https://t.co/jHIcI2Kuor",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 976588927422300200,
+   "in_reply_to_status_id_str": "976588927422300160",
+   "in_reply_to_screen_name": "omespino",
+   "urls": [
+    {
+     "url": "https://t.co/jHIcI2Kuor",
+     "expand": "https://twitter.com/i/web/status/976592015793229824"
+    }
+   ]
+  },
+  {
+   "id": 976581202328113200,
+   "id_str": "976581202328113152",
+   "created_at": "Wed Mar 21 22:07:57 +0000 2018",
+   "text": "@sonofrenuka @MeredWilliams @1oder0 Even if you delete your account a copy remains in their databases. Wake up Neo!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976579705888325600,
+   "in_reply_to_status_id_str": "976579705888325633",
+   "in_reply_to_screen_name": "sonofrenuka",
+   "urls": []
+  },
+  {
+   "id": 976579716781092900,
+   "id_str": "976579716781092870",
+   "created_at": "Wed Mar 21 22:02:03 +0000 2018",
+   "text": "Why doing Bug bounty For free? Every BugBounty Program should have a min reward for valid reports. If you touch the… https://t.co/JtbgsDsYV2",
+   "retweet_count": 29,
+   "favorite_count": 99,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JtbgsDsYV2",
+     "expand": "https://twitter.com/i/web/status/976579716781092870"
+    }
+   ]
+  },
+  {
+   "id": 976566035305377800,
+   "id_str": "976566035305377797",
+   "created_at": "Wed Mar 21 21:07:41 +0000 2018",
+   "text": "@jessysaurusrex @1oder0  https://t.co/MzoGBLn9sn",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976498487469551600,
+   "in_reply_to_status_id_str": "976498487469551616",
+   "in_reply_to_screen_name": "jessysaurusrex",
+   "urls": []
+  },
+  {
+   "id": 976565567883829200,
+   "id_str": "976565567883829248",
+   "created_at": "Wed Mar 21 21:05:49 +0000 2018",
+   "text": "@_bl4de @coinbase  https://t.co/TcE5KbtzNO",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976563079453597700,
+   "in_reply_to_status_id_str": "976563079453597696",
+   "in_reply_to_screen_name": "_bl4de",
+   "urls": []
+  },
+  {
+   "id": 976563118603161600,
+   "id_str": "976563118603161600",
+   "created_at": "Wed Mar 21 20:56:05 +0000 2018",
+   "text": "@MeredWilliams @1oder0 your account is never deleted, is an illusion.-",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 976436482717208600,
+   "in_reply_to_status_id_str": "976436482717208576",
+   "in_reply_to_screen_name": "MeredWilliams",
+   "urls": []
+  },
+  {
+   "id": 976562753874866200,
+   "id_str": "976562753874866179",
+   "created_at": "Wed Mar 21 20:54:38 +0000 2018",
+   "text": "@spookphia  https://t.co/XsLMWBKxys",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976389767079321600,
+   "in_reply_to_status_id_str": "976389767079321600",
+   "in_reply_to_screen_name": "spookphia",
+   "urls": []
+  },
+  {
+   "id": 976562532793151500,
+   "id_str": "976562532793151491",
+   "created_at": "Wed Mar 21 20:53:46 +0000 2018",
+   "text": "@CMD_0_0 @yappare @evanricafort  https://t.co/00IfTnjPfw",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976546980141858800,
+   "in_reply_to_status_id_str": "976546980141858816",
+   "in_reply_to_screen_name": "CMD_0_0",
+   "urls": []
+  },
+  {
+   "id": 976542118016704500,
+   "id_str": "976542118016704512",
+   "created_at": "Wed Mar 21 19:32:38 +0000 2018",
+   "text": "@samhouston wow!!! seems freezing out there!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976436763894992900,
+   "in_reply_to_status_id_str": "976436763894992896",
+   "in_reply_to_screen_name": "samhouston",
+   "urls": []
+  },
+  {
+   "id": 976513087313498100,
+   "id_str": "976513087313498112",
+   "created_at": "Wed Mar 21 17:37:17 +0000 2018",
+   "text": "@s4thi5h_infosec @Bugcrowd congrats! only 1 bug?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976306638519861200,
+   "in_reply_to_status_id_str": "976306638519861248",
+   "in_reply_to_screen_name": "s4thi5h_infosec",
+   "urls": []
+  },
+  {
+   "id": 976496534933164000,
+   "id_str": "976496534933164033",
+   "created_at": "Wed Mar 21 16:31:31 +0000 2018",
+   "text": "RT @Alra3ees: I just published “Google adwords 3133.7$ Stored XSS” https://t.co/iFxuWYrXBn",
+   "retweet_count": 124,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iFxuWYrXBn",
+     "expand": "https://medium.com/p/google-adwords-3133-7-stored-xss-27bb083b8d27"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976373759841046500,
+    "id_str": "976373759841046529",
+    "created_at": "Wed Mar 21 08:23:39 +0000 2018",
+    "text": "I just published “Google adwords 3133.7$ Stored XSS” https://t.co/iFxuWYrXBn",
+    "retweet_count": 124,
+    "favorite_count": 352,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iFxuWYrXBn",
+      "expand": "https://medium.com/p/google-adwords-3133-7-stored-xss-27bb083b8d27"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976496517430349800,
+   "id_str": "976496517430349825",
+   "created_at": "Wed Mar 21 16:31:26 +0000 2018",
+   "text": "@Alra3ees congrats my friend! hard work pays of!",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 976373759841046500,
+   "in_reply_to_status_id_str": "976373759841046529",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 976282170481303600,
+   "id_str": "976282170481303553",
+   "created_at": "Wed Mar 21 02:19:42 +0000 2018",
+   "text": "👏👏👏 https://t.co/Xk7DZ248PF",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Xk7DZ248PF",
+     "expand": "https://twitter.com/caseyjohnellis/status/976268035802644480"
+    }
+   ]
+  },
+  {
+   "id": 976282085580140500,
+   "id_str": "976282085580140544",
+   "created_at": "Wed Mar 21 02:19:22 +0000 2018",
+   "text": "@caseyjohnellis @Bugcrowd 👏👏👏",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976268035802644500,
+   "in_reply_to_status_id_str": "976268035802644480",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": []
+  },
+  {
+   "id": 976247131529994200,
+   "id_str": "976247131529994241",
+   "created_at": "Wed Mar 21 00:00:28 +0000 2018",
+   "text": "@Alra3ees congrats man! I know it that you can do it!!! im happy!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976144527600816100,
+   "in_reply_to_status_id_str": "976144527600816129",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 976179625381556200,
+   "id_str": "976179625381556226",
+   "created_at": "Tue Mar 20 19:32:13 +0000 2018",
+   "text": "@malwareunicorn jajajaj @bughuntercat",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975780440307941400,
+   "in_reply_to_status_id_str": "975780440307941378",
+   "in_reply_to_screen_name": "malwareunicorn",
+   "urls": []
+  },
+  {
+   "id": 976143233855246300,
+   "id_str": "976143233855246336",
+   "created_at": "Tue Mar 20 17:07:37 +0000 2018",
+   "text": "@Anonymouseeyou @Hacker0x01 congrats buddy!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975970416832467000,
+   "in_reply_to_status_id_str": "975970416832466944",
+   "in_reply_to_screen_name": "Anonymouseeyou",
+   "urls": []
+  },
+  {
+   "id": 976141645841358800,
+   "id_str": "976141645841358853",
+   "created_at": "Tue Mar 20 17:01:18 +0000 2018",
+   "text": "@vis_hacker @Hacker0x01 congrats buddy! excelent work!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975958805019353100,
+   "in_reply_to_status_id_str": "975958805019353088",
+   "in_reply_to_screen_name": "vis_hacker",
+   "urls": []
+  },
+  {
+   "id": 975939673313955800,
+   "id_str": "975939673313955840",
+   "created_at": "Tue Mar 20 03:38:44 +0000 2018",
+   "text": "@yogendra_h1 @Yassineaboukir @fransrosen congrats buddy!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975918626623561700,
+   "in_reply_to_status_id_str": "975918626623561728",
+   "in_reply_to_screen_name": "yogendra_h1",
+   "urls": []
+  },
+  {
+   "id": 975865748085182500,
+   "id_str": "975865748085182464",
+   "created_at": "Mon Mar 19 22:44:59 +0000 2018",
+   "text": "@Fox0x01 @Securityblog @TheSAS2018 shiny girl! 🌻",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975835379810041900,
+   "in_reply_to_status_id_str": "975835379810041857",
+   "in_reply_to_screen_name": "Fox0x01",
+   "urls": []
+  },
+  {
+   "id": 975865348007350300,
+   "id_str": "975865348007350273",
+   "created_at": "Mon Mar 19 22:43:24 +0000 2018",
+   "text": "@mashable  https://t.co/A8NJygF2ZD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975861465528848400,
+   "in_reply_to_status_id_str": "975861465528848384",
+   "in_reply_to_screen_name": "mashable",
+   "urls": []
+  },
+  {
+   "id": 975836312652611600,
+   "id_str": "975836312652611584",
+   "created_at": "Mon Mar 19 20:48:01 +0000 2018",
+   "text": "@ValaAfshar @blackmirror is real!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975791322492751900,
+   "in_reply_to_status_id_str": "975791322492751872",
+   "in_reply_to_screen_name": "ValaAfshar",
+   "urls": []
+  },
+  {
+   "id": 975789802405625900,
+   "id_str": "975789802405625863",
+   "created_at": "Mon Mar 19 17:43:12 +0000 2018",
+   "text": "@caseyjohnellis It is sad to see our dears passing away... but they now fill our hearts with unlimited love that we… https://t.co/er5X5ay2Lf",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 975620481175859200,
+   "in_reply_to_status_id_str": "975620481175859200",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": [
+    {
+     "url": "https://t.co/er5X5ay2Lf",
+     "expand": "https://twitter.com/i/web/status/975789802405625863"
+    }
+   ]
+  },
+  {
+   "id": 975535059389374500,
+   "id_str": "975535059389374464",
+   "created_at": "Mon Mar 19 00:50:57 +0000 2018",
+   "text": "@saamux @opnsec yes, please. 😁",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 975509201190563800,
+   "in_reply_to_status_id_str": "975509201190563840",
+   "in_reply_to_screen_name": "saamux",
+   "urls": []
+  },
+  {
+   "id": 975445535250354200,
+   "id_str": "975445535250354177",
+   "created_at": "Sun Mar 18 18:55:13 +0000 2018",
+   "text": "@secuninja 80 &amp; 90! im an old wolf!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975443320876003300,
+   "in_reply_to_status_id_str": "975443320876003328",
+   "in_reply_to_screen_name": "secuninja",
+   "urls": []
+  },
+  {
+   "id": 975422259748900900,
+   "id_str": "975422259748900865",
+   "created_at": "Sun Mar 18 17:22:43 +0000 2018",
+   "text": "@secuninja  https://t.co/VCKh4Xz3dY",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975090900639670300,
+   "in_reply_to_status_id_str": "975090900639670272",
+   "in_reply_to_screen_name": "secuninja",
+   "urls": []
+  },
+  {
+   "id": 975185539044438000,
+   "id_str": "975185539044438016",
+   "created_at": "Sun Mar 18 01:42:05 +0000 2018",
+   "text": "@ValaAfshar @Seeker this is why technology &amp; science must exists!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975177083109433300,
+   "in_reply_to_status_id_str": "975177083109433346",
+   "in_reply_to_screen_name": "ValaAfshar",
+   "urls": []
+  },
+  {
+   "id": 975184365524279300,
+   "id_str": "975184365524279296",
+   "created_at": "Sun Mar 18 01:37:25 +0000 2018",
+   "text": "@NotHumanNinja @Google $13337 bounty coming!",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 974998649380810800,
+   "in_reply_to_status_id_str": "974998649380810753",
+   "in_reply_to_screen_name": "NotHumanNinja",
+   "urls": []
+  },
+  {
+   "id": 975184129129177100,
+   "id_str": "975184129129177088",
+   "created_at": "Sun Mar 18 01:36:29 +0000 2018",
+   "text": "@Abdulahhusam as always you rock man! congrats!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974636139364737000,
+   "in_reply_to_status_id_str": "974636139364737025",
+   "in_reply_to_screen_name": "Abdulahhusam",
+   "urls": []
+  },
+  {
+   "id": 975085582752903200,
+   "id_str": "975085582752903169",
+   "created_at": "Sat Mar 17 19:04:53 +0000 2018",
+   "text": "@ZephrFish congrats! drive safe!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 974908634315526100,
+   "in_reply_to_status_id_str": "974908634315526144",
+   "in_reply_to_screen_name": "ZephrFish",
+   "urls": []
+  },
+  {
+   "id": 975072558860177400,
+   "id_str": "975072558860177408",
+   "created_at": "Sat Mar 17 18:13:08 +0000 2018",
+   "text": "@rootxharsh @Vimeo @Hacker0x01 nice socks",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974994066285912000,
+   "in_reply_to_status_id_str": "974994066285912064",
+   "in_reply_to_screen_name": "rootxharsh",
+   "urls": []
+  },
+  {
+   "id": 974493749157027800,
+   "id_str": "974493749157027842",
+   "created_at": "Fri Mar 16 03:53:09 +0000 2018",
+   "text": "@ret2got @magicmac2000 how?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974154981619073000,
+   "in_reply_to_status_id_str": "974154981619073024",
+   "in_reply_to_screen_name": "ret2got",
+   "urls": []
+  },
+  {
+   "id": 974366169573548000,
+   "id_str": "974366169573548033",
+   "created_at": "Thu Mar 15 19:26:12 +0000 2018",
+   "text": "@magicmac2000 @ret2got haha! thanks my friend! 😁 https://t.co/Clc8BWvgzB",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974359995692314600,
+   "in_reply_to_status_id_str": "974359995692314630",
+   "in_reply_to_screen_name": "magicmac2000",
+   "urls": []
+  },
+  {
+   "id": 974354008826662900,
+   "id_str": "974354008826662913",
+   "created_at": "Thu Mar 15 18:37:52 +0000 2018",
+   "text": "@magicmac2000 @ret2got hi there thanks for the quick reply (soy argento tambien :) al parecer funciona en el ultimo… https://t.co/Dz95vtnvM8",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974303351994290200,
+   "in_reply_to_status_id_str": "974303351994290181",
+   "in_reply_to_screen_name": "magicmac2000",
+   "urls": [
+    {
+     "url": "https://t.co/Dz95vtnvM8",
+     "expand": "https://twitter.com/i/web/status/974354008826662913"
+    }
+   ]
+  },
+  {
+   "id": 974144549529571300,
+   "id_str": "974144549529571328",
+   "created_at": "Thu Mar 15 04:45:33 +0000 2018",
+   "text": "@LANACION Que en paz descanses maestro! gracias por las risas!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973977346557521900,
+   "in_reply_to_status_id_str": "973977346557521922",
+   "in_reply_to_screen_name": "LANACION",
+   "urls": []
+  },
+  {
+   "id": 974144256213504000,
+   "id_str": "974144256213504001",
+   "created_at": "Thu Mar 15 04:44:24 +0000 2018",
+   "text": "@magicmac2000 hi mate, how are you? spoof referer on MSEdge support POST requests? thanks!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "magicmac2000",
+   "urls": []
+  },
+  {
+   "id": 974129295676379100,
+   "id_str": "974129295676379137",
+   "created_at": "Thu Mar 15 03:44:57 +0000 2018",
+   "text": "@yappare @Bugcrowd thanks!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974010755296124900,
+   "in_reply_to_status_id_str": "974010755296124929",
+   "in_reply_to_screen_name": "yappare",
+   "urls": []
+  },
+  {
+   "id": 974129061189636100,
+   "id_str": "974129061189636096",
+   "created_at": "Thu Mar 15 03:44:01 +0000 2018",
+   "text": "@samhouston sure! they will delete the email 🤣",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 974057235612446700,
+   "in_reply_to_status_id_str": "974057235612446720",
+   "in_reply_to_screen_name": "samhouston",
+   "urls": []
+  },
+  {
+   "id": 974044966132572200,
+   "id_str": "974044966132572162",
+   "created_at": "Wed Mar 14 22:09:51 +0000 2018",
+   "text": "@Lowebrew @caseyjohnellis @Bugcrowd thanks!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973980379072880600,
+   "in_reply_to_status_id_str": "973980379072880640",
+   "in_reply_to_screen_name": "Lowebrew",
+   "urls": []
+  },
+  {
+   "id": 973947531896991700,
+   "id_str": "973947531896991744",
+   "created_at": "Wed Mar 14 15:42:41 +0000 2018",
+   "text": "@g0tmi1k  https://t.co/UIFnkiTCKt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973938552366141400,
+   "in_reply_to_status_id_str": "973938552366141441",
+   "in_reply_to_screen_name": "g0tmi1k",
+   "urls": []
+  },
+  {
+   "id": 973924059074453500,
+   "id_str": "973924059074453505",
+   "created_at": "Wed Mar 14 14:09:24 +0000 2018",
+   "text": "@evanricafort @Bugcrowd thanks mate!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973884752963952600,
+   "in_reply_to_status_id_str": "973884752963952640",
+   "in_reply_to_screen_name": "evanricafort",
+   "urls": []
+  },
+  {
+   "id": 973923582433747000,
+   "id_str": "973923582433746945",
+   "created_at": "Wed Mar 14 14:07:31 +0000 2018",
+   "text": "@zseano @Bugcrowd maybe there are more comfortable handle the program in that way. every program has his own rules… https://t.co/h3Rhx8ffgE",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973900959201062900,
+   "in_reply_to_status_id_str": "973900959201062912",
+   "in_reply_to_screen_name": "zseano",
+   "urls": [
+    {
+     "url": "https://t.co/h3Rhx8ffgE",
+     "expand": "https://twitter.com/i/web/status/973923582433746945"
+    }
+   ]
+  },
+  {
+   "id": 973922494884261900,
+   "id_str": "973922494884261888",
+   "created_at": "Wed Mar 14 14:03:12 +0000 2018",
+   "text": "@ITSecurityguard @Bugcrowd is not about P1, is about business impact.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973914174190473200,
+   "in_reply_to_status_id_str": "973914174190473216",
+   "in_reply_to_screen_name": "ITSecurityguard",
+   "urls": []
+  },
+  {
+   "id": 973673413440045000,
+   "id_str": "973673413440045056",
+   "created_at": "Tue Mar 13 21:33:26 +0000 2018",
+   "text": "@brutelogic a vampire https://t.co/zrMr00of9d",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973647935882846200,
+   "in_reply_to_status_id_str": "973647935882846208",
+   "in_reply_to_screen_name": "brutelogic",
+   "urls": []
+  },
+  {
+   "id": 973672833581834200,
+   "id_str": "973672833581834241",
+   "created_at": "Tue Mar 13 21:31:08 +0000 2018",
+   "text": "@SYNTAXERRORBA @Bugcrowd thanks mate, you inspire me every day 🙏",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 973668560777117700,
+   "in_reply_to_status_id_str": "973668560777117696",
+   "in_reply_to_screen_name": "SYNTAXERRORBA",
+   "urls": []
+  },
+  {
+   "id": 973666357731610600,
+   "id_str": "973666357731610624",
+   "created_at": "Tue Mar 13 21:05:24 +0000 2018",
+   "text": "@sasi2103",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 973665692984672300,
+   "in_reply_to_status_id_str": "973665692984672257",
+   "in_reply_to_screen_name": "knowledge_2014",
+   "urls": []
+  },
+  {
+   "id": 973665692984672300,
+   "id_str": "973665692984672257",
+   "created_at": "Tue Mar 13 21:02:45 +0000 2018",
+   "text": "One more reason to keep hunting on @Bugcrowd I feel like Home :)       *P1 reported to only Kudos Program and then… https://t.co/kAGVkuaHVT",
+   "retweet_count": 3,
+   "favorite_count": 90,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kAGVkuaHVT",
+     "expand": "https://twitter.com/i/web/status/973665692984672257"
+    }
+   ]
+  },
+  {
+   "id": 973659925061697500,
+   "id_str": "973659925061697543",
+   "created_at": "Tue Mar 13 20:39:50 +0000 2018",
+   "text": "I earned $1,500 for my submission on @bugcrowd #ItTakesACrowd",
+   "retweet_count": 0,
+   "favorite_count": 42,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973655595315286000,
+   "id_str": "973655595315286017",
+   "created_at": "Tue Mar 13 20:22:38 +0000 2018",
+   "text": "@agrawalsmart7  https://t.co/z6juhkU0ys",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973637420397748200,
+   "in_reply_to_status_id_str": "973637420397748224",
+   "in_reply_to_screen_name": "agrawalsmart7",
+   "urls": []
+  },
+  {
+   "id": 973618917359935500,
+   "id_str": "973618917359935488",
+   "created_at": "Tue Mar 13 17:56:53 +0000 2018",
+   "text": "@caseyjohnellis  https://t.co/AUOI7ONe5x",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973422287746621400,
+   "in_reply_to_status_id_str": "973422287746621440",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": []
+  },
+  {
+   "id": 973375162912559100,
+   "id_str": "973375162912559104",
+   "created_at": "Tue Mar 13 01:48:17 +0000 2018",
+   "text": "@Alra3ees @Burp_Suite your welcome! 😃",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973372247539929100,
+   "in_reply_to_status_id_str": "973372247539929090",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 973330226649423900,
+   "id_str": "973330226649423872",
+   "created_at": "Mon Mar 12 22:49:44 +0000 2018",
+   "text": "@hacks4pancakes its called freedom, best of the best :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973329964652253200,
+   "in_reply_to_status_id_str": "973329964652253185",
+   "in_reply_to_screen_name": "hacks4pancakes",
+   "urls": []
+  },
+  {
+   "id": 973324233920180200,
+   "id_str": "973324233920180226",
+   "created_at": "Mon Mar 12 22:25:55 +0000 2018",
+   "text": "So you cant's hijack cookies session ID because HttpOnly? ok, steal CSRF token or API administrator key. Full accou… https://t.co/L1G0lvEwfv",
+   "retweet_count": 15,
+   "favorite_count": 49,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/L1G0lvEwfv",
+     "expand": "https://twitter.com/i/web/status/973324233920180226"
+    }
+   ]
+  },
+  {
+   "id": 973322791213813800,
+   "id_str": "973322791213813763",
+   "created_at": "Mon Mar 12 22:20:11 +0000 2018",
+   "text": "@HusseiN98D @Bugcrowd master of mastersss",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973316274326470700,
+   "in_reply_to_status_id_str": "973316274326470658",
+   "in_reply_to_screen_name": "HusseiN98D",
+   "urls": []
+  },
+  {
+   "id": 973261344374952000,
+   "id_str": "973261344374951939",
+   "created_at": "Mon Mar 12 18:16:01 +0000 2018",
+   "text": "Yay, I was awarded a $500 bounty on @Hacker0x01! https://t.co/Ou60BTLHes #TogetherWeHitHarder",
+   "retweet_count": 1,
+   "favorite_count": 36,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ou60BTLHes",
+     "expand": "https://hackerone.com/ak1t4"
+    }
+   ]
+  },
+  {
+   "id": 972976673351196700,
+   "id_str": "972976673351196672",
+   "created_at": "Sun Mar 11 23:24:50 +0000 2018",
+   "text": "@sirdarckcat @kl_sree indeed, was fixed and mapped to external google accounts domain",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972956320394612700,
+   "in_reply_to_status_id_str": "972956320394612736",
+   "in_reply_to_screen_name": "knowledge_2014",
+   "urls": []
+  },
+  {
+   "id": 972974947655143400,
+   "id_str": "972974947655143431",
+   "created_at": "Sun Mar 11 23:17:59 +0000 2018",
+   "text": "@adrien_jeanneau @dsopas @disclosedh1 If the report hasn't feasibility why bother to triage? even why remove the DN… https://t.co/94WaRLwEyh",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972973570317013000,
+   "in_reply_to_status_id_str": "972973570317012993",
+   "in_reply_to_screen_name": "adrien_jeanneau",
+   "urls": [
+    {
+     "url": "https://t.co/94WaRLwEyh",
+     "expand": "https://twitter.com/i/web/status/972974947655143431"
+    }
+   ]
+  },
+  {
+   "id": 972972791225036800,
+   "id_str": "972972791225036801",
+   "created_at": "Sun Mar 11 23:09:25 +0000 2018",
+   "text": "@adrien_jeanneau @dsopas @disclosedh1 what credentials? in that case you need only a Wordpress account, then add th… https://t.co/vuisrojMJh",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972972037802221600,
+   "in_reply_to_status_id_str": "972972037802221569",
+   "in_reply_to_screen_name": "adrien_jeanneau",
+   "urls": [
+    {
+     "url": "https://t.co/vuisrojMJh",
+     "expand": "https://twitter.com/i/web/status/972972791225036801"
+    }
+   ]
+  },
+  {
+   "id": 972972093376745500,
+   "id_str": "972972093376745473",
+   "created_at": "Sun Mar 11 23:06:38 +0000 2018",
+   "text": "@adrien_jeanneau @dsopas @disclosedh1 in some cases, if the team needs a more detailed PoC,  they always can ask to… https://t.co/K2LV33L5XW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972970817498775600,
+   "in_reply_to_status_id_str": "972970817498775552",
+   "in_reply_to_screen_name": "adrien_jeanneau",
+   "urls": [
+    {
+     "url": "https://t.co/K2LV33L5XW",
+     "expand": "https://twitter.com/i/web/status/972972093376745473"
+    }
+   ]
+  },
+  {
+   "id": 972971498175647700,
+   "id_str": "972971498175647744",
+   "created_at": "Sun Mar 11 23:04:16 +0000 2018",
+   "text": "@adrien_jeanneau @dsopas @disclosedh1 a takeover is a takeover: with PoC or NoT pOc.-",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972970817498775600,
+   "in_reply_to_status_id_str": "972970817498775552",
+   "in_reply_to_screen_name": "adrien_jeanneau",
+   "urls": []
+  },
+  {
+   "id": 972957486910263300,
+   "id_str": "972957486910263303",
+   "created_at": "Sun Mar 11 22:08:36 +0000 2018",
+   "text": "@dsopas @disclosedh1 or a gum.-",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972947216435482600,
+   "in_reply_to_status_id_str": "972947216435482634",
+   "in_reply_to_screen_name": "dsopas",
+   "urls": []
+  },
+  {
+   "id": 972957454853181400,
+   "id_str": "972957454853181441",
+   "created_at": "Sun Mar 11 22:08:28 +0000 2018",
+   "text": "@disclosedh1 @wordpress shame on you :/",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 972940276586164200,
+   "in_reply_to_status_id_str": "972940276586164224",
+   "in_reply_to_screen_name": "disclosedh1",
+   "urls": []
+  },
+  {
+   "id": 972956320394612700,
+   "id_str": "972956320394612736",
+   "created_at": "Sun Mar 11 22:03:58 +0000 2018",
+   "text": "@sirdarckcat @kl_sree Perfectly understood.  My concern was about if the service allowed the creation of accounts,… https://t.co/YnqjWBSIye",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972954224245043200,
+   "in_reply_to_status_id_str": "972954224245043201",
+   "in_reply_to_screen_name": "sirdarckcat",
+   "urls": [
+    {
+     "url": "https://t.co/YnqjWBSIye",
+     "expand": "https://twitter.com/i/web/status/972956320394612736"
+    }
+   ]
+  },
+  {
+   "id": 972948416455168000,
+   "id_str": "972948416455168001",
+   "created_at": "Sun Mar 11 21:32:33 +0000 2018",
+   "text": "@kl_sree @sirdarckcat @sirdarckcat I have P1/S2 accepted/fixed with \"impact is not enough for a monetary reward\". I… https://t.co/PPrlbic8GD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972875694123266000,
+   "in_reply_to_status_id_str": "972875694123266048",
+   "in_reply_to_screen_name": "kl_sree",
+   "urls": [
+    {
+     "url": "https://t.co/PPrlbic8GD",
+     "expand": "https://twitter.com/i/web/status/972948416455168001"
+    }
+   ]
+  },
+  {
+   "id": 972946262914936800,
+   "id_str": "972946262914936833",
+   "created_at": "Sun Mar 11 21:24:00 +0000 2018",
+   "text": "@kl_sree @sirdarckcat your finds are awesome, congrats! for that",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972875694123266000,
+   "in_reply_to_status_id_str": "972875694123266048",
+   "in_reply_to_screen_name": "kl_sree",
+   "urls": []
+  },
+  {
+   "id": 972938559823937500,
+   "id_str": "972938559823937538",
+   "created_at": "Sun Mar 11 20:53:23 +0000 2018",
+   "text": "RT @binance_2017: #Binance Hacker Bounty has just been announced. \n\nEven though the hacking attempt against Binance on March 7th was not su…",
+   "retweet_count": 1981,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972773801174822900,
+    "id_str": "972773801174822912",
+    "created_at": "Sun Mar 11 09:58:42 +0000 2018",
+    "text": "#Binance Hacker Bounty has just been announced. \n\nEven though the hacking attempt against Binance on March 7th was… https://t.co/5wn3U315Yh",
+    "retweet_count": 1981,
+    "favorite_count": 4922,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5wn3U315Yh",
+      "expand": "https://twitter.com/i/web/status/972773801174822912"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972936090008064000,
+   "id_str": "972936090008064002",
+   "created_at": "Sun Mar 11 20:43:34 +0000 2018",
+   "text": "@ValaAfshar 14. Skynet",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972159458880172000,
+   "in_reply_to_status_id_str": "972159458880172034",
+   "in_reply_to_screen_name": "ValaAfshar",
+   "urls": []
+  },
+  {
+   "id": 972932808321716200,
+   "id_str": "972932808321716224",
+   "created_at": "Sun Mar 11 20:30:32 +0000 2018",
+   "text": "@Jhaddix very very clever! https://t.co/gu9DOOU2dL",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 972926512595746800,
+   "in_reply_to_status_id_str": "972926512595746816",
+   "in_reply_to_screen_name": "Jhaddix",
+   "urls": []
+  },
+  {
+   "id": 972913745679798300,
+   "id_str": "972913745679798273",
+   "created_at": "Sun Mar 11 19:14:47 +0000 2018",
+   "text": "RT @elonmusk: Why Falcon Heavy &amp; Starman?\n\nLife cannot just be about solving one sad problem after another. There need to be things that in…",
+   "retweet_count": 32048,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972628124893671400,
+    "id_str": "972628124893671432",
+    "created_at": "Sun Mar 11 00:19:50 +0000 2018",
+    "text": "Why Falcon Heavy &amp; Starman?\n\nLife cannot just be about solving one sad problem after another. There need to be thin… https://t.co/yiipelSB2Q",
+    "retweet_count": 32048,
+    "favorite_count": 105925,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yiipelSB2Q",
+      "expand": "https://twitter.com/i/web/status/972628124893671432"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972529492219572200,
+   "id_str": "972529492219572225",
+   "created_at": "Sat Mar 10 17:47:54 +0000 2018",
+   "text": "@prateek_0490 @Zomato @ZomatoIN amazing! you deserve it! you are doing an excelent work on zomato bbp!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972520508817379300,
+   "in_reply_to_status_id_str": "972520508817379329",
+   "in_reply_to_screen_name": "prateek_0490",
+   "urls": []
+  },
+  {
+   "id": 972362720082382800,
+   "id_str": "972362720082382848",
+   "created_at": "Sat Mar 10 06:45:12 +0000 2018",
+   "text": "@hizeena @ThreatPinch welcome to the club.-",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971788877596889100,
+   "in_reply_to_status_id_str": "971788877596889088",
+   "in_reply_to_screen_name": "hizeena",
+   "urls": []
+  },
+  {
+   "id": 972315690517622800,
+   "id_str": "972315690517622789",
+   "created_at": "Sat Mar 10 03:38:20 +0000 2018",
+   "text": "USENIX Enigma 2018 - Combining the Power of Builders and Breakers by @caseyjohnellis  @bugcrowd  👏👏👏 https://t.co/SgDvgv9wHg",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SgDvgv9wHg",
+     "expand": "https://www.youtube.com/watch?time_continue=16&v=2wY0Kt5L9lk"
+    }
+   ]
+  },
+  {
+   "id": 972246566047244300,
+   "id_str": "972246566047244293",
+   "created_at": "Fri Mar 09 23:03:39 +0000 2018",
+   "text": "@SYNTAXERRORBA its true, thats is a common mistake that they do! first consult company for a potential valid impact!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 972246108134170600,
+   "in_reply_to_status_id_str": "972246108134170624",
+   "in_reply_to_screen_name": "SYNTAXERRORBA",
+   "urls": []
+  },
+  {
+   "id": 972205670706663400,
+   "id_str": "972205670706663425",
+   "created_at": "Fri Mar 09 20:21:09 +0000 2018",
+   "text": "@Alra3ees @Hacker0x01 congrats man!!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972201362628005900,
+   "in_reply_to_status_id_str": "972201362628005889",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 972195028788564000,
+   "id_str": "972195028788563969",
+   "created_at": "Fri Mar 09 19:38:52 +0000 2018",
+   "text": "@jessicaivins @thomasmedhurst  https://t.co/Arsydf2rB1",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972182737384804400,
+   "in_reply_to_status_id_str": "972182737384804354",
+   "in_reply_to_screen_name": "jessicaivins",
+   "urls": []
+  },
+  {
+   "id": 972176132316508200,
+   "id_str": "972176132316508160",
+   "created_at": "Fri Mar 09 18:23:46 +0000 2018",
+   "text": "@brutelogic @s0md3v  https://t.co/gD3VFCnFcW",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972173911210299400,
+   "in_reply_to_status_id_str": "972173911210299392",
+   "in_reply_to_screen_name": "brutelogic",
+   "urls": []
+  },
+  {
+   "id": 972175967140700200,
+   "id_str": "972175967140700160",
+   "created_at": "Fri Mar 09 18:23:07 +0000 2018",
+   "text": "RT @s0md3v: Press Ctrl+X or cut \"z\" with right click to execute.\nAgnostic event handlers: oncut, oncopy, onpaste, onclick, onmousedown, onm…",
+   "retweet_count": 74,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972155580008742900,
+    "id_str": "972155580008742912",
+    "created_at": "Fri Mar 09 17:02:06 +0000 2018",
+    "text": "Press Ctrl+X or cut \"z\" with right click to execute.\nAgnostic event handlers: oncut, oncopy, onpaste, onclick, onmo… https://t.co/Da5UlZFpIK",
+    "retweet_count": 74,
+    "favorite_count": 145,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Da5UlZFpIK",
+      "expand": "https://twitter.com/i/web/status/972155580008742912"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972168417699618800,
+   "id_str": "972168417699618817",
+   "created_at": "Fri Mar 09 17:53:07 +0000 2018",
+   "text": "@vis_hacker @Hacker0x01 you deserve it! a lot of hard work! congrats man!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972167972595810300,
+   "in_reply_to_status_id_str": "972167972595810304",
+   "in_reply_to_screen_name": "vis_hacker",
+   "urls": []
+  },
+  {
+   "id": 972166833565585400,
+   "id_str": "972166833565585408",
+   "created_at": "Fri Mar 09 17:46:49 +0000 2018",
+   "text": "@vis_hacker @Hacker0x01 impressive! black magic?",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 972140038304751600,
+   "in_reply_to_status_id_str": "972140038304751616",
+   "in_reply_to_screen_name": "vis_hacker",
+   "urls": []
+  },
+  {
+   "id": 972166499250135000,
+   "id_str": "972166499250135040",
+   "created_at": "Fri Mar 09 17:45:30 +0000 2018",
+   "text": "@caseyjohnellis i make an awesome coffee 😆",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 972162884426854400,
+   "in_reply_to_status_id_str": "972162884426854400",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": []
+  },
+  {
+   "id": 972012935877939200,
+   "id_str": "972012935877939200",
+   "created_at": "Fri Mar 09 07:35:17 +0000 2018",
+   "text": "@AliRazzaq_ maybe? 🤪",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972012352219394000,
+   "in_reply_to_status_id_str": "972012352219394048",
+   "in_reply_to_screen_name": "AliRazzaq_",
+   "urls": []
+  },
+  {
+   "id": 972012378358460400,
+   "id_str": "972012378358460416",
+   "created_at": "Fri Mar 09 07:33:04 +0000 2018",
+   "text": "@Jhaddix @g0tmi1k 😂 https://t.co/zyBDaxWr87",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971622611229712400,
+   "in_reply_to_status_id_str": "971622611229712387",
+   "in_reply_to_screen_name": "Jhaddix",
+   "urls": []
+  },
+  {
+   "id": 972007262767075300,
+   "id_str": "972007262767075328",
+   "created_at": "Fri Mar 09 07:12:45 +0000 2018",
+   "text": "0day on 3rd party services which affects +3000 domains (includes a known bug bounty platform) 🙀👻 🔑🚪… https://t.co/wnyBXxAYHn",
+   "retweet_count": 0,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wnyBXxAYHn",
+     "expand": "https://twitter.com/i/web/status/972007262767075328"
+    }
+   ]
+  },
+  {
+   "id": 971917948221820900,
+   "id_str": "971917948221820928",
+   "created_at": "Fri Mar 09 01:17:50 +0000 2018",
+   "text": "@mashable  https://t.co/VqpH86YniN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971915219655012400,
+   "in_reply_to_status_id_str": "971915219655012358",
+   "in_reply_to_screen_name": "mashable",
+   "urls": []
+  },
+  {
+   "id": 971917359421231100,
+   "id_str": "971917359421231106",
+   "created_at": "Fri Mar 09 01:15:30 +0000 2018",
+   "text": "Yay, I was awarded a $150 bounty on @Hacker0x01! https://t.co/Ou60BTLHes #TogetherWeHitHarder",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ou60BTLHes",
+     "expand": "https://hackerone.com/ak1t4"
+    }
+   ]
+  },
+  {
+   "id": 971899932004307000,
+   "id_str": "971899932004306945",
+   "created_at": "Fri Mar 09 00:06:15 +0000 2018",
+   "text": "@brutelogic people doesn't know how much valuable is a responsible disclosure, they pissed off because their mistak… https://t.co/WxYXCjSAWl",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971451177626939400,
+   "in_reply_to_status_id_str": "971451177626939394",
+   "in_reply_to_screen_name": "brutelogic",
+   "urls": [
+    {
+     "url": "https://t.co/WxYXCjSAWl",
+     "expand": "https://twitter.com/i/web/status/971899932004306945"
+    }
+   ]
+  },
+  {
+   "id": 971899389869482000,
+   "id_str": "971899389869481986",
+   "created_at": "Fri Mar 09 00:04:06 +0000 2018",
+   "text": "An awesome example of responsible disclosure with an unprofessional team response.- @x1m_martijn  great work man! https://t.co/H35nixt7sG",
+   "retweet_count": 3,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/H35nixt7sG",
+     "expand": "https://twitter.com/x1m_martijn/status/971382166683873280"
+    }
+   ]
+  },
+  {
+   "id": 971898971722604500,
+   "id_str": "971898971722604544",
+   "created_at": "Fri Mar 09 00:02:26 +0000 2018",
+   "text": "@x1m_martijn @laravelphp @taylorotwell @jeffrey_way @vuejs @x1m_martijn Great Find and amazing responsible disclosu… https://t.co/gmPtZWo5Yx",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971382166683873300,
+   "in_reply_to_status_id_str": "971382166683873280",
+   "in_reply_to_screen_name": "x1m_martijn",
+   "urls": [
+    {
+     "url": "https://t.co/gmPtZWo5Yx",
+     "expand": "https://twitter.com/i/web/status/971898971722604544"
+    }
+   ]
+  },
+  {
+   "id": 971893236963954700,
+   "id_str": "971893236963954688",
+   "created_at": "Thu Mar 08 23:39:39 +0000 2018",
+   "text": "@soaj1664ashar @sirdarckcat @msftsecresponse congrats!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971747000306798600,
+   "in_reply_to_status_id_str": "971747000306798593",
+   "in_reply_to_screen_name": "soaj1664ashar",
+   "urls": []
+  },
+  {
+   "id": 971840615884447700,
+   "id_str": "971840615884447744",
+   "created_at": "Thu Mar 08 20:10:33 +0000 2018",
+   "text": "@famo  https://t.co/R6n0UBTjz0",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971836597871067100,
+   "in_reply_to_status_id_str": "971836597871067136",
+   "in_reply_to_screen_name": "famo",
+   "urls": []
+  },
+  {
+   "id": 971829419831685100,
+   "id_str": "971829419831685126",
+   "created_at": "Thu Mar 08 19:26:04 +0000 2018",
+   "text": "@EnQueManoEsta @fermetilli olakase?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971814733899759600,
+   "in_reply_to_status_id_str": "971814733899759617",
+   "in_reply_to_screen_name": "EnQueManoEsta",
+   "urls": []
+  },
+  {
+   "id": 971829339598794800,
+   "id_str": "971829339598794758",
+   "created_at": "Thu Mar 08 19:25:44 +0000 2018",
+   "text": "You think that money is really the most valuable thing? No. Most valuable is your time. Use it wisely.-",
+   "retweet_count": 4,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971802656250519600,
+   "id_str": "971802656250519552",
+   "created_at": "Thu Mar 08 17:39:43 +0000 2018",
+   "text": "BB Tip: As hunter you can't pretend discover bugs over programs which has big products/services as scope. Mapping/t… https://t.co/7vqLvizJd7",
+   "retweet_count": 4,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7vqLvizJd7",
+     "expand": "https://twitter.com/i/web/status/971802656250519552"
+    }
+   ]
+  },
+  {
+   "id": 971800952679358500,
+   "id_str": "971800952679358464",
+   "created_at": "Thu Mar 08 17:32:56 +0000 2018",
+   "text": "An actual problem over Bug Bounty Platforms: skill's filtering are not working. As hunters we have marked skills so… https://t.co/ekHIxZDTZz",
+   "retweet_count": 0,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ekHIxZDTZz",
+     "expand": "https://twitter.com/i/web/status/971800952679358464"
+    }
+   ]
+  },
+  {
+   "id": 971794349171322900,
+   "id_str": "971794349171322881",
+   "created_at": "Thu Mar 08 17:06:42 +0000 2018",
+   "text": "@Rockcena5 @Bugcrowd congrats!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971540401889972200,
+   "in_reply_to_status_id_str": "971540401889972226",
+   "in_reply_to_screen_name": "Rockcena5",
+   "urls": []
+  },
+  {
+   "id": 971563800452362200,
+   "id_str": "971563800452362241",
+   "created_at": "Thu Mar 08 01:50:35 +0000 2018",
+   "text": "@Alra3ees @Bugcrowd thanks my brother!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971563186968244200,
+   "in_reply_to_status_id_str": "971563186968244226",
+   "in_reply_to_screen_name": "Alra3ees",
+   "urls": []
+  },
+  {
+   "id": 971561380661874700,
+   "id_str": "971561380661874688",
+   "created_at": "Thu Mar 08 01:40:58 +0000 2018",
+   "text": "@caseyjohnellis @Bugcrowd thanks!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971542431576420400,
+   "in_reply_to_status_id_str": "971542431576420352",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": []
+  },
+  {
+   "id": 971531428314873900,
+   "id_str": "971531428314873856",
+   "created_at": "Wed Mar 07 23:41:57 +0000 2018",
+   "text": "@ret2twit @average_sec i don't know about other people.. in my case the posts are only for me, they keep me motivated :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971501117858287600,
+   "in_reply_to_status_id_str": "971501117858287617",
+   "in_reply_to_screen_name": "ret2twit",
+   "urls": []
+  },
+  {
+   "id": 971531147166584800,
+   "id_str": "971531147166584832",
+   "created_at": "Wed Mar 07 23:40:50 +0000 2018",
+   "text": "@Hacklad @Bugcrowd thanks mate!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971530205843075100,
+   "in_reply_to_status_id_str": "971530205843075072",
+   "in_reply_to_screen_name": "Hacklad",
+   "urls": []
+  },
+  {
+   "id": 971529849998323700,
+   "id_str": "971529849998323713",
+   "created_at": "Wed Mar 07 23:35:41 +0000 2018",
    "text": "I earned $750 for my submission on @bugcrowd #ItTakesACrowd",
    "retweet_count": 0,
    "favorite_count": 35,
@@ -150,242 +2714,271 @@
    "urls": []
   },
   {
-   "id": 966533418615033900,
-   "id_str": "966533418615033856",
-   "created_at": "Thu Feb 22 04:41:38 +0000 2018",
-   "text": "@keritzy i love sci-fi.. black mirror.. and movies like: Her, blade runner 2049, ghost in the shell.. in those mome… https://t.co/ZaGNBIFtCJ",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966531487083520000,
-   "in_reply_to_status_id_str": "966531487083520000",
-   "in_reply_to_screen_name": "keritzy",
-   "urls": [
-    {
-     "url": "https://t.co/ZaGNBIFtCJ",
-     "expand": "https://twitter.com/i/web/status/966533418615033856"
-    }
-   ]
-  },
-  {
-   "id": 966521180860616700,
-   "id_str": "966521180860616704",
-   "created_at": "Thu Feb 22 03:53:01 +0000 2018",
-   "text": "Future is now.- https://t.co/jtz5Ks1nyq",
-   "retweet_count": 0,
-   "favorite_count": 0,
+   "id": 971288099702693900,
+   "id_str": "971288099702693888",
+   "created_at": "Wed Mar 07 07:35:03 +0000 2018",
+   "text": "Ver lo correcto y no hacerlo es falta de coraje o de principios.\n\nConfucio.-",
+   "retweet_count": 1,
+   "favorite_count": 8,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/jtz5Ks1nyq",
-     "expand": "https://twitter.com/mashable/status/966520683164418048"
-    }
-   ]
-  },
-  {
-   "id": 966474915342897200,
-   "id_str": "966474915342897154",
-   "created_at": "Thu Feb 22 00:49:10 +0000 2018",
-   "text": "@mashable if the plant dies, your lover dies twice? x2?",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966248893146046500,
-   "in_reply_to_status_id_str": "966248893146046464",
-   "in_reply_to_screen_name": "mashable",
    "urls": []
   },
   {
-   "id": 966428245716537300,
-   "id_str": "966428245716537344",
-   "created_at": "Wed Feb 21 21:43:43 +0000 2018",
-   "text": "@Alra3ees @Hacker0x01 good! congrats!!",
+   "id": 971286192682602500,
+   "id_str": "971286192682602496",
+   "created_at": "Wed Mar 07 07:27:28 +0000 2018",
+   "text": "@Caronolikeno @detectify best t-shirt ever!",
    "retweet_count": 0,
    "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 966417603609661400,
-   "in_reply_to_status_id_str": "966417603609661441",
-   "in_reply_to_screen_name": "Alra3ees",
+   "in_reply_to_status_id": 971109250947838000,
+   "in_reply_to_status_id_str": "971109250947837952",
+   "in_reply_to_screen_name": "Caronolikeno",
    "urls": []
   },
   {
-   "id": 966179420053626900,
-   "id_str": "966179420053626881",
-   "created_at": "Wed Feb 21 05:14:59 +0000 2018",
-   "text": "@Alra3ees https://t.co/MJD1w2EjVp",
+   "id": 971282020356763600,
+   "id_str": "971282020356763650",
+   "created_at": "Wed Mar 07 07:10:53 +0000 2018",
+   "text": "@average_sec who knows :/",
    "retweet_count": 0,
-   "favorite_count": 2,
+   "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 966114096935592000,
-   "in_reply_to_status_id_str": "966114096935591936",
-   "in_reply_to_screen_name": "Alra3ees",
-   "urls": [
-    {
-     "url": "https://t.co/MJD1w2EjVp",
-     "expand": "http://notmining.org"
-    }
-   ]
+   "in_reply_to_status_id": 971278999975493600,
+   "in_reply_to_status_id_str": "971278999975493632",
+   "in_reply_to_screen_name": "average_sec",
+   "urls": []
   },
   {
-   "id": 965788203797053400,
-   "id_str": "965788203797053442",
-   "created_at": "Tue Feb 20 03:20:25 +0000 2018",
-   "text": "@SynackRedTeam @prakharprasad  https://t.co/x29r7nDijT",
+   "id": 971277235142451200,
+   "id_str": "971277235142451200",
+   "created_at": "Wed Mar 07 06:51:52 +0000 2018",
+   "text": "@average_sec why people follow people do don't like",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 735915360101208000,
-   "in_reply_to_status_id_str": "735915360101208064",
-   "in_reply_to_screen_name": "SynackRedTeam",
+   "in_reply_to_status_id": 971271534194122800,
+   "in_reply_to_status_id_str": "971271534194122752",
+   "in_reply_to_screen_name": "average_sec",
    "urls": []
   },
   {
-   "id": 965753024089149400,
-   "id_str": "965753024089149441",
-   "created_at": "Tue Feb 20 01:00:38 +0000 2018",
-   "text": "@caseyjohnellis best time invested! 😀",
+   "id": 971225206688755700,
+   "id_str": "971225206688755712",
+   "created_at": "Wed Mar 07 03:25:08 +0000 2018",
+   "text": "me when i got bounty... akita happy! https://t.co/a7POz3Lho1",
    "retweet_count": 0,
-   "favorite_count": 3,
+   "favorite_count": 13,
    "place": null,
-   "in_reply_to_status_id": 965398941637345300,
-   "in_reply_to_status_id_str": "965398941637345280",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971163773800247300,
+   "id_str": "971163773800247302",
+   "created_at": "Tue Mar 06 23:21:01 +0000 2018",
+   "text": "@caseyjohnellis insane! 🙀",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971161666523078700,
+   "in_reply_to_status_id_str": "971161666523078656",
    "in_reply_to_screen_name": "caseyjohnellis",
    "urls": []
   },
   {
-   "id": 965750248139378700,
-   "id_str": "965750248139378689",
-   "created_at": "Tue Feb 20 00:49:36 +0000 2018",
-   "text": "@xlimbolandx @Hacker0x01 I do not think so... it's a fact that a clear mind sees beyond anything else.. dont forget… https://t.co/CKWZ4TAaqK",
+   "id": 971139151692271600,
+   "id_str": "971139151692271617",
+   "created_at": "Tue Mar 06 21:43:11 +0000 2018",
+   "text": "I earned $300 for my submission on @bugcrowd #ItTakesACrowd",
    "retweet_count": 0,
-   "favorite_count": 8,
-   "place": null,
-   "in_reply_to_status_id": 965667092325437400,
-   "in_reply_to_status_id_str": "965667092325437440",
-   "in_reply_to_screen_name": "xlimbolandx",
-   "urls": [
-    {
-     "url": "https://t.co/CKWZ4TAaqK",
-     "expand": "https://twitter.com/i/web/status/965750248139378689"
-    }
-   ]
-  },
-  {
-   "id": 965686250450620400,
-   "id_str": "965686250450620416",
-   "created_at": "Mon Feb 19 20:35:18 +0000 2018",
-   "text": "@agrawalsmart7 congrats! poc afterr",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965677831266058200,
-   "in_reply_to_status_id_str": "965677831266058240",
-   "in_reply_to_screen_name": "agrawalsmart7",
-   "urls": []
-  },
-  {
-   "id": 965685776402042900,
-   "id_str": "965685776402042881",
-   "created_at": "Mon Feb 19 20:33:25 +0000 2018",
-   "text": "@missoum1307 @sirdarckcat congrats!!",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965675733694722000,
-   "in_reply_to_status_id_str": "965675733694722048",
-   "in_reply_to_screen_name": "missoum1307",
-   "urls": []
-  },
-  {
-   "id": 965657035852451800,
-   "id_str": "965657035852451841",
-   "created_at": "Mon Feb 19 18:39:13 +0000 2018",
-   "text": "I asked to one of the Top #10 on @Hacker0x01 what was the secret of his success and his reply was:\n\n#bugbounty… https://t.co/v9QOFkZQVK",
-   "retweet_count": 20,
-   "favorite_count": 142,
+   "favorite_count": 22,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/v9QOFkZQVK",
-     "expand": "https://twitter.com/i/web/status/965657035852451841"
-    }
-   ]
-  },
-  {
-   "id": 965655102051835900,
-   "id_str": "965655102051835906",
-   "created_at": "Mon Feb 19 18:31:31 +0000 2018",
-   "text": "@brutelogic haha https://t.co/Mev3WLkFrs",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 935860998644301800,
-   "in_reply_to_status_id_str": "935860998644301835",
-   "in_reply_to_screen_name": "brutelogic",
    "urls": []
   },
   {
-   "id": 965397050933284900,
-   "id_str": "965397050933284864",
-   "created_at": "Mon Feb 19 01:26:07 +0000 2018",
-   "text": "@Alra3ees @knoxss_me @brutelogic look the CSP!",
-   "retweet_count": 0,
-   "favorite_count": 2,
+   "id": 971133616297250800,
+   "id_str": "971133616297250816",
+   "created_at": "Tue Mar 06 21:21:11 +0000 2018",
+   "text": "RT @ValaAfshar: You did not choose your:\n1 birthplace\n2 skin color\n3 birth parents, family\n4 birth gender\n5 birth language\n6 birth name\n7 e…",
+   "retweet_count": 59536,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 965395118630015000,
-   "in_reply_to_status_id_str": "965395118630014976",
-   "in_reply_to_screen_name": "Alra3ees",
-   "urls": []
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 945267544054730800,
+    "id_str": "945267544054730752",
+    "created_at": "Mon Dec 25 12:18:39 +0000 2017",
+    "text": "You did not choose your:\n1 birthplace\n2 skin color\n3 birth parents, family\n4 birth gender\n5 birth language\n6 birth… https://t.co/Fzk5pVNtfI",
+    "retweet_count": 59536,
+    "favorite_count": 104596,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Fzk5pVNtfI",
+      "expand": "https://twitter.com/i/web/status/945267544054730752"
+     }
+    ]
+   }
   },
   {
-   "id": 965344758104297500,
-   "id_str": "965344758104297475",
-   "created_at": "Sun Feb 18 21:58:20 +0000 2018",
-   "text": "@BrentTerhune @n0x00 the choo-choo train! https://t.co/wB0nvNkgPV",
+   "id": 971132771484799000,
+   "id_str": "971132771484798977",
+   "created_at": "Tue Mar 06 21:17:50 +0000 2018",
+   "text": "@CryptoPopsicle @ValaAfshar but nobody could nor could do it, from there that each human experience is different",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964339280716943400,
-   "in_reply_to_status_id_str": "964339280716943361",
-   "in_reply_to_screen_name": "BrentTerhune",
+   "in_reply_to_status_id": 971108671055908900,
+   "in_reply_to_status_id_str": "971108671055908864",
+   "in_reply_to_screen_name": "CryptoPopsicle",
    "urls": []
   },
   {
-   "id": 965313298743820300,
-   "id_str": "965313298743820289",
-   "created_at": "Sun Feb 18 19:53:19 +0000 2018",
-   "text": "@g0blinResearch @blackroomsec let's make happen! https://t.co/NVCp1zFgRP",
+   "id": 971113097426554900,
+   "id_str": "971113097426554880",
+   "created_at": "Tue Mar 06 19:59:39 +0000 2018",
+   "text": "@logicbomb_1 @restr1ct3d I love your write ups! keep with your awesome work!",
    "retweet_count": 0,
-   "favorite_count": 1,
+   "favorite_count": 3,
    "place": null,
-   "in_reply_to_status_id": 965299524217589800,
-   "in_reply_to_status_id_str": "965299524217589764",
-   "in_reply_to_screen_name": "g0blinResearch",
+   "in_reply_to_status_id": 971055135345578000,
+   "in_reply_to_status_id_str": "971055135345577984",
+   "in_reply_to_screen_name": "logicbomb_1",
    "urls": []
   },
   {
-   "id": 965293550698156000,
-   "id_str": "965293550698156033",
-   "created_at": "Sun Feb 18 18:34:51 +0000 2018",
-   "text": "For an old man like me this is gold\n\nhttps://t.co/kH4WVEgele",
+   "id": 971106793903525900,
+   "id_str": "971106793903525891",
+   "created_at": "Tue Mar 06 19:34:36 +0000 2018",
+   "text": "@CryptoPopsicle @ValaAfshar life dosn't works like mathematics, it is a constant human learning and challenge, some… https://t.co/rfTai96EfP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971101214413860900,
+   "in_reply_to_status_id_str": "971101214413860865",
+   "in_reply_to_screen_name": "CryptoPopsicle",
+   "urls": [
+    {
+     "url": "https://t.co/rfTai96EfP",
+     "expand": "https://twitter.com/i/web/status/971106793903525891"
+    }
+   ]
+  },
+  {
+   "id": 971100250776666100,
+   "id_str": "971100250776666115",
+   "created_at": "Tue Mar 06 19:08:36 +0000 2018",
+   "text": "@CryptoPopsicle @ValaAfshar we are all fighting with our inner daemons, like you at this moment at your life. Im no… https://t.co/5urbjp34nU",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970862074904662000,
+   "in_reply_to_status_id_str": "970862074904662016",
+   "in_reply_to_screen_name": "CryptoPopsicle",
+   "urls": [
+    {
+     "url": "https://t.co/5urbjp34nU",
+     "expand": "https://twitter.com/i/web/status/971100250776666115"
+    }
+   ]
+  },
+  {
+   "id": 971088906375565300,
+   "id_str": "971088906375565312",
+   "created_at": "Tue Mar 06 18:23:31 +0000 2018",
+   "text": "payday bam bam bam! 😎😁 https://t.co/RZ2vbp18ky",
+   "retweet_count": 0,
+   "favorite_count": 59,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970879427402981400,
+   "id_str": "970879427402981376",
+   "created_at": "Tue Mar 06 04:31:08 +0000 2018",
+   "text": "When Companies Stop Caring About Data Loss, Risk Will Be Resilience-based and Focused on Business Disruption and Hu… https://t.co/HH2zsnA4KF",
    "retweet_count": 1,
-   "favorite_count": 9,
+   "favorite_count": 12,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/kH4WVEgele",
-     "expand": "https://www.youtube.com/watch?v=fCP2-Bfhy04"
+     "url": "https://t.co/HH2zsnA4KF",
+     "expand": "https://twitter.com/i/web/status/970879427402981376"
     }
    ]
+  },
+  {
+   "id": 970788210338074600,
+   "id_str": "970788210338074625",
+   "created_at": "Mon Mar 05 22:28:40 +0000 2018",
+   "text": "@saamux @Hacker0x01  https://t.co/RRzuvYwgMg",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970784951292649500,
+   "in_reply_to_status_id_str": "970784951292649479",
+   "in_reply_to_screen_name": "saamux",
+   "urls": []
+  },
+  {
+   "id": 970723428004085800,
+   "id_str": "970723428004085763",
+   "created_at": "Mon Mar 05 18:11:15 +0000 2018",
+   "text": "@rootpentesting hi there,  i see you https://t.co/KV3QGjW1cU",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970607168469774300,
+   "in_reply_to_status_id_str": "970607168469774336",
+   "in_reply_to_screen_name": "rootpentesting",
+   "urls": []
+  },
+  {
+   "id": 970569464738668500,
+   "id_str": "970569464738668544",
+   "created_at": "Mon Mar 05 07:59:27 +0000 2018",
+   "text": "@PrazolBista  https://t.co/0toa2KeudW",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970559861938204700,
+   "in_reply_to_status_id_str": "970559861938204672",
+   "in_reply_to_screen_name": "PrazolBista",
+   "urls": []
+  },
+  {
+   "id": 970432972573827100,
+   "id_str": "970432972573827078",
+   "created_at": "Sun Mar 04 22:57:05 +0000 2018",
+   "text": "@jschauma nice, all that non-weird things are weird",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970375834463883300,
+   "in_reply_to_status_id_str": "970375834463883264",
+   "in_reply_to_screen_name": "jschauma",
+   "urls": []
   }
  ]
 }

@@ -1,11 +1,202 @@
 {
- "time": 1519367407872,
+ "time": 1522595156422,
  "lists": [
   {
-   "id": 966792465956077600,
-   "id_str": "966792465956077568",
-   "created_at": "Thu Feb 22 21:51:00 +0000 2018",
-   "text": "RT @MozillaIoT: How to create your own adapter add-on for the Things Gateway, by Project Things wizards @hobinjk and mstegeman https://t.co…",
+   "id": 979821863391113200,
+   "id_str": "979821863391113216",
+   "created_at": "Fri Mar 30 20:45:11 +0000 2018",
+   "text": "RT @MozDevNet: Tip: Change SVG images using CSS filters!\nWe have an interactive demo you can play with to see how it works: https://t.co/LV…",
+   "retweet_count": 37,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979761398107463700,
+    "id_str": "979761398107463680",
+    "created_at": "Fri Mar 30 16:44:55 +0000 2018",
+    "text": "Tip: Change SVG images using CSS filters!\nWe have an interactive demo you can play with to see how it works:… https://t.co/Nlhs7ORWrN",
+    "retweet_count": 37,
+    "favorite_count": 98,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Nlhs7ORWrN",
+      "expand": "https://twitter.com/i/web/status/979761398107463680"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979743321575821300,
+   "id_str": "979743321575821313",
+   "created_at": "Fri Mar 30 15:33:05 +0000 2018",
+   "text": "RT @FirefoxNightly: Search engines can now be added to the location bar via the Page Action menu, demo with Bugzilla https://t.co/7NQC9J8pm…",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979649108611870700,
+    "id_str": "979649108611870721",
+    "created_at": "Fri Mar 30 09:18:43 +0000 2018",
+    "text": "Search engines can now be added to the location bar via the Page Action menu, demo with Bugzilla… https://t.co/i5V8IehFfa",
+    "retweet_count": 24,
+    "favorite_count": 65,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/i5V8IehFfa",
+      "expand": "https://twitter.com/i/web/status/979649108611870721"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979743275555881000,
+   "id_str": "979743275555880960",
+   "created_at": "Fri Mar 30 15:32:54 +0000 2018",
+   "text": "RT @Teoli2003: My article about the \"Hack on MDN\" event I organized is live: https://t.co/9Z1Z2CmgxG",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9Z1Z2CmgxG",
+     "expand": "https://hacks.mozilla.org/2018/03/hack-on-mdn-building-useful-tools-with-browser-compatibility-data/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979617112007245800,
+    "id_str": "979617112007245824",
+    "created_at": "Fri Mar 30 07:11:34 +0000 2018",
+    "text": "My article about the \"Hack on MDN\" event I organized is live: https://t.co/9Z1Z2CmgxG",
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9Z1Z2CmgxG",
+      "expand": "https://hacks.mozilla.org/2018/03/hack-on-mdn-building-useful-tools-with-browser-compatibility-data/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979737488225955800,
+   "id_str": "979737488225955841",
+   "created_at": "Fri Mar 30 15:09:54 +0000 2018",
+   "text": "RT @davrous: #OpenCV.js &amp; #WebAssembly, great resources to read:\n- Computer Vision for the Masses by @IntelSoftware: https://t.co/1uaQwBmgc…",
+   "retweet_count": 73,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979736002477678600,
+    "id_str": "979736002477678593",
+    "created_at": "Fri Mar 30 15:04:00 +0000 2018",
+    "text": "#OpenCV.js &amp; #WebAssembly, great resources to read:\n- Computer Vision for the Masses by @IntelSoftware:… https://t.co/wvhMIaqIny",
+    "retweet_count": 73,
+    "favorite_count": 133,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wvhMIaqIny",
+      "expand": "https://twitter.com/i/web/status/979736002477678593"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979737350271053800,
+   "id_str": "979737350271053826",
+   "created_at": "Fri Mar 30 15:09:21 +0000 2018",
+   "text": "RT @vaidehijoshi: Extremely excited to announce that I will be keynoting @RustFest this May! 🇫🇷 See you in PARIS, mon chéris 🥐🥐🥐\n\nhttps://t…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979713553606230000,
+    "id_str": "979713553606230017",
+    "created_at": "Fri Mar 30 13:34:48 +0000 2018",
+    "text": "Extremely excited to announce that I will be keynoting @RustFest this May! 🇫🇷 See you in PARIS, mon chéris 🥐🥐🥐\n\nhttps://t.co/63V41BKW5x",
+    "retweet_count": 8,
+    "favorite_count": 74,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/63V41BKW5x",
+      "expand": "https://blog.rustfest.eu/this-week-in-rustfest-3-cfp-keynote-speakers"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979467944802574300,
+   "id_str": "979467944802574336",
+   "created_at": "Thu Mar 29 21:18:50 +0000 2018",
+   "text": "RT @mozilla: We were the first investor for Rust, an open-source systems programming language. Today @rustlang team supports RustBridge whi…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979394050750107600,
+    "id_str": "979394050750107648",
+    "created_at": "Thu Mar 29 16:25:12 +0000 2018",
+    "text": "We were the first investor for Rust, an open-source systems programming language. Today @rustlang team supports Rus… https://t.co/JIe9PFbRmx",
+    "retweet_count": 36,
+    "favorite_count": 119,
+    "place": null,
+    "in_reply_to_status_id": 979368644047073300,
+    "in_reply_to_status_id_str": "979368644047073280",
+    "in_reply_to_screen_name": "mozilla",
+    "urls": [
+     {
+      "url": "https://t.co/JIe9PFbRmx",
+      "expand": "https://twitter.com/i/web/status/979394050750107648"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979467300142309400,
+   "id_str": "979467300142309376",
+   "created_at": "Thu Mar 29 21:16:16 +0000 2018",
+   "text": "RT @yglf_kyiv: We are happy to introduce our next speaker to you — @hj_chen! \nAs she rocked YGLF stage in Tel-Aviv and numerous other confe…",
    "retweet_count": 7,
    "favorite_count": 0,
    "place": null,
@@ -14,66 +205,79 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 962028364021121000,
-    "id_str": "962028364021121024",
-    "created_at": "Fri Feb 09 18:20:10 +0000 2018",
-    "text": "How to create your own adapter add-on for the Things Gateway, by Project Things wizards @hobinjk and mstegeman https://t.co/HpZen4qtr7",
+    "id": 941998215670501400,
+    "id_str": "941998215670501377",
+    "created_at": "Sat Dec 16 11:47:30 +0000 2017",
+    "text": "We are happy to introduce our next speaker to you — @hj_chen! \nAs she rocked YGLF stage in Tel-Aviv and numerous ot… https://t.co/LCxtkOOImb",
     "retweet_count": 7,
-    "favorite_count": 10,
+    "favorite_count": 21,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/HpZen4qtr7",
-      "expand": "https://hacks.mozilla.org/2018/02/creating-an-add-on-for-the-project-things-gateway/"
+      "url": "https://t.co/LCxtkOOImb",
+      "expand": "https://twitter.com/i/web/status/941998215670501377"
      }
     ]
    }
   },
   {
-   "id": 966791415987687400,
-   "id_str": "966791415987687427",
-   "created_at": "Thu Feb 22 21:46:50 +0000 2018",
-   "text": "RT @TobiReif: Firefox Nightly now supports paint-order for HTML text:\nhttps://t.co/T1hO5TLb21\nScreenshot: https://t.co/fj15lsZy46",
-   "retweet_count": 13,
+   "id": 979464829147795500,
+   "id_str": "979464829147795460",
+   "created_at": "Thu Mar 29 21:06:27 +0000 2018",
+   "text": "RT @EmilyKager: Want to get involved in #OpenSource? Know a little bit about #AndroidDev? Are you awesome? Come contribute to @FirefoxFocus…",
+   "retweet_count": 18,
    "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979413284045533200,
+    "id_str": "979413284045533190",
+    "created_at": "Thu Mar 29 17:41:38 +0000 2018",
+    "text": "Want to get involved in #OpenSource? Know a little bit about #AndroidDev? Are you awesome? Come contribute to… https://t.co/hh41QYGqK3",
+    "retweet_count": 18,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hh41QYGqK3",
+      "expand": "https://twitter.com/i/web/status/979413284045533190"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979459876542873600,
+   "id_str": "979459876542873601",
+   "created_at": "Thu Mar 29 20:46:46 +0000 2018",
+   "text": "Step #1:\nBuild and release an open and free dataset for various browsers and web standards;\n\nStep #2:\nInvite the co… https://t.co/8gqhLuTL61",
+   "retweet_count": 5,
+   "favorite_count": 12,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/T1hO5TLb21",
-     "expand": "https://developer.mozilla.org/en-US/docs/Web/CSS/paint-order"
+     "url": "https://t.co/8gqhLuTL61",
+     "expand": "https://twitter.com/i/web/status/979459876542873601"
     }
-   ],
-   "retweeted_status": {
-    "id": 966711161390497800,
-    "id_str": "966711161390497792",
-    "created_at": "Thu Feb 22 16:27:56 +0000 2018",
-    "text": "Firefox Nightly now supports paint-order for HTML text:\nhttps://t.co/T1hO5TLb21\nScreenshot: https://t.co/fj15lsZy46",
-    "retweet_count": 13,
-    "favorite_count": 26,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/T1hO5TLb21",
-      "expand": "https://developer.mozilla.org/en-US/docs/Web/CSS/paint-order"
-     }
-    ]
-   }
+   ]
   },
   {
-   "id": 966719747546058800,
-   "id_str": "966719747546058754",
-   "created_at": "Thu Feb 22 17:02:03 +0000 2018",
-   "text": "RT @graydon_pub: Aspiring compiler and/or logic nerds: joining Niko to work on the heart of a modern industrial type system will be highly…",
-   "retweet_count": 30,
+   "id": 979455293548527600,
+   "id_str": "979455293548527616",
+   "created_at": "Thu Mar 29 20:28:34 +0000 2018",
+   "text": "RT @jsconfeu: #35 Lin Clark (@linclark) is going to give a “Secret Talk”, the very special topic of which we’ll announce on the first day o…",
+   "retweet_count": 14,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -81,91 +285,29 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966502250997678100,
-    "id_str": "966502250997678080",
-    "created_at": "Thu Feb 22 02:37:48 +0000 2018",
-    "text": "Aspiring compiler and/or logic nerds: joining Niko to work on the heart of a modern industrial type system will be… https://t.co/RiJPGqutKB",
-    "retweet_count": 30,
-    "favorite_count": 78,
+    "id": 979267927437398000,
+    "id_str": "979267927437398018",
+    "created_at": "Thu Mar 29 08:04:02 +0000 2018",
+    "text": "#35 Lin Clark (@linclark) is going to give a “Secret Talk”, the very special topic of which we’ll announce on the f… https://t.co/VQn2R7qPtQ",
+    "retweet_count": 14,
+    "favorite_count": 53,
     "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 979267925042397200,
+    "in_reply_to_status_id_str": "979267925042397184",
+    "in_reply_to_screen_name": "jsconfeu",
     "urls": [
      {
-      "url": "https://t.co/RiJPGqutKB",
-      "expand": "https://twitter.com/i/web/status/966502250997678080"
+      "url": "https://t.co/VQn2R7qPtQ",
+      "expand": "https://twitter.com/i/web/status/979267927437398018"
      }
     ]
    }
   },
   {
-   "id": 966719204153053200,
-   "id_str": "966719204153053184",
-   "created_at": "Thu Feb 22 16:59:53 +0000 2018",
-   "text": "RT @jensimmons: Design your layouts on top of a good foundation of HTML, making sure your HTML semantics &amp; source order work for situations…",
-   "retweet_count": 103,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966675222161248300,
-    "id_str": "966675222161248257",
-    "created_at": "Thu Feb 22 14:05:07 +0000 2018",
-    "text": "Design your layouts on top of a good foundation of HTML, making sure your HTML semantics &amp; source order work for si… https://t.co/BMQi34CHEV",
-    "retweet_count": 103,
-    "favorite_count": 258,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/BMQi34CHEV",
-      "expand": "https://twitter.com/i/web/status/966675222161248257"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966716482288746500,
-   "id_str": "966716482288746496",
-   "created_at": "Thu Feb 22 16:49:04 +0000 2018",
-   "text": "RT @MozillaIoT: Ever wanted to turn your lights on by clapping your hands? Web of Things wizard @hobinjk can show you how. \"Making a Clap-S…",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966706649967849500,
-    "id_str": "966706649967849472",
-    "created_at": "Thu Feb 22 16:10:00 +0000 2018",
-    "text": "Ever wanted to turn your lights on by clapping your hands? Web of Things wizard @hobinjk can show you how. \"Making… https://t.co/K5jUnziV1b",
-    "retweet_count": 2,
-    "favorite_count": 11,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/K5jUnziV1b",
-      "expand": "https://twitter.com/i/web/status/966706649967849472"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966483839215456300,
-   "id_str": "966483839215456257",
-   "created_at": "Thu Feb 22 01:24:38 +0000 2018",
-   "text": "RT @KingstonTime: If you notice any missing images/media on @FirefoxNightly please let us know, it might be this experimental change to fix…",
+   "id": 979455281544474600,
+   "id_str": "979455281544474625",
+   "created_at": "Thu Mar 29 20:28:31 +0000 2018",
+   "text": "RT @jsconfeu: #33 Jason Laster (@jasonlaster11) “Time travel debugging: A step-by-step guide”. Want to know how a bug was introduced? No pr…",
    "retweet_count": 9,
    "favorite_count": 0,
    "place": null,
@@ -174,199 +316,30 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966476590027812900,
-    "id_str": "966476590027812864",
-    "created_at": "Thu Feb 22 00:55:49 +0000 2018",
-    "text": "If you notice any missing images/media on @FirefoxNightly please let us know, it might be this experimental change… https://t.co/DkKiZQ8jlD",
+    "id": 979267922068754400,
+    "id_str": "979267922068754432",
+    "created_at": "Thu Mar 29 08:04:01 +0000 2018",
+    "text": "#33 Jason Laster (@jasonlaster11) “Time travel debugging: A step-by-step guide”. Want to know how a bug was introdu… https://t.co/QnwWFT5eqs",
     "retweet_count": 9,
-    "favorite_count": 15,
+    "favorite_count": 18,
     "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/DkKiZQ8jlD",
-      "expand": "https://twitter.com/i/web/status/966476590027812864"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966435175415664600,
-   "id_str": "966435175415664642",
-   "created_at": "Wed Feb 21 22:11:15 +0000 2018",
-   "text": "RT @rustlang: A new blog post by @mozilla is out! They spoke with @snips about their usage of #rustlang in production: https://t.co/ITcanp1…",
-   "retweet_count": 61,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966422813220507600,
-    "id_str": "966422813220507651",
-    "created_at": "Wed Feb 21 21:22:08 +0000 2018",
-    "text": "A new blog post by @mozilla is out! They spoke with @snips about their usage of #rustlang in production: https://t.co/ITcanp1346",
-    "retweet_count": 61,
-    "favorite_count": 132,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ITcanp1346",
-      "expand": "https://blog.mozilla.org/blog/2018/02/21/snips-uses-rust-embedded-voice-assistant/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966434493228863500,
-   "id_str": "966434493228863488",
-   "created_at": "Wed Feb 21 22:08:33 +0000 2018",
-   "text": "RT @nnethercote: I fixed an old bug: https://t.co/llDURdHUN8\n\nImagine going back in time and telling the reporter \"this bug will get fixed…",
-   "retweet_count": 61,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/llDURdHUN8",
-     "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=107264"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966070764754550800,
-    "id_str": "966070764754550784",
-    "created_at": "Tue Feb 20 22:03:13 +0000 2018",
-    "text": "I fixed an old bug: https://t.co/llDURdHUN8\n\nImagine going back in time and telling the reporter \"this bug will get… https://t.co/mDxbtFv6iU",
-    "retweet_count": 61,
-    "favorite_count": 196,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/llDURdHUN8",
-      "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=107264"
-     },
-     {
-      "url": "https://t.co/mDxbtFv6iU",
-      "expand": "https://twitter.com/i/web/status/966070764754550784"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966368700541624300,
-   "id_str": "966368700541624321",
-   "created_at": "Wed Feb 21 17:47:07 +0000 2018",
-   "text": "RT @bacharakis: Have you ever tried to contribute (successfully or  unsuccessfully) to an Open Source Project? Help us understand where and…",
-   "retweet_count": 24,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966310579882348500,
-    "id_str": "966310579882348546",
-    "created_at": "Wed Feb 21 13:56:10 +0000 2018",
-    "text": "Have you ever tried to contribute (successfully or  unsuccessfully) to an Open Source Project? Help us understand w… https://t.co/i6NY2TFwFk",
-    "retweet_count": 24,
-    "favorite_count": 26,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/i6NY2TFwFk",
-      "expand": "https://twitter.com/i/web/status/966310579882348546"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966368592114667500,
-   "id_str": "966368592114667521",
-   "created_at": "Wed Feb 21 17:46:41 +0000 2018",
-   "text": "RT @jsconfeu: #5 Ola Gasidlo (@misprintedtype) on “TCP — A story about hope, (pkg) loss &amp;&amp; the missing link” which will cover everything yo…",
-   "retweet_count": 8,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966243417343787000,
-    "id_str": "966243417343787010",
-    "created_at": "Wed Feb 21 09:29:17 +0000 2018",
-    "text": "#5 Ola Gasidlo (@misprintedtype) on “TCP — A story about hope, (pkg) loss &amp;&amp; the missing link” which will cover eve… https://t.co/wYdBallEYQ",
-    "retweet_count": 8,
-    "favorite_count": 29,
-    "place": null,
-    "in_reply_to_status_id": 966243415779369000,
-    "in_reply_to_status_id_str": "966243415779368960",
+    "in_reply_to_status_id": 979267920722321400,
+    "in_reply_to_status_id_str": "979267920722321408",
     "in_reply_to_screen_name": "jsconfeu",
     "urls": [
      {
-      "url": "https://t.co/wYdBallEYQ",
-      "expand": "https://twitter.com/i/web/status/966243417343787010"
+      "url": "https://t.co/QnwWFT5eqs",
+      "expand": "https://twitter.com/i/web/status/979267922068754432"
      }
     ]
    }
   },
   {
-   "id": 966367901472251900,
-   "id_str": "966367901472251905",
-   "created_at": "Wed Feb 21 17:43:56 +0000 2018",
-   "text": "RT @rauschma: My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
-   "retweet_count": 571,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/mhQWF9OaJk",
-     "expand": "http://exploringjs.com/es2018-es2019/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966343761876979700,
-    "id_str": "966343761876979714",
-    "created_at": "Wed Feb 21 16:08:01 +0000 2018",
-    "text": "My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
-    "retweet_count": 571,
-    "favorite_count": 1237,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/mhQWF9OaJk",
-      "expand": "http://exploringjs.com/es2018-es2019/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966351064030240800,
-   "id_str": "966351064030240768",
-   "created_at": "Wed Feb 21 16:37:02 +0000 2018",
-   "text": "RT @smashingmag: ✏️ If speaking at a conference or event is something you would love to do, make a start today. @rachelandrew on how to get…",
-   "retweet_count": 35,
+   "id": 979448691512688600,
+   "id_str": "979448691512688640",
+   "created_at": "Thu Mar 29 20:02:19 +0000 2018",
+   "text": "RT @immediatedelay: Gameboy emulator in #WebAssembly, written in Rust and WebGL 2.0!\nStill have some audio bugs to track down and underused…",
+   "retweet_count": 317,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -374,30 +347,30 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965528170769342500,
-    "id_str": "965528170769342464",
-    "created_at": "Mon Feb 19 10:07:09 +0000 2018",
-    "text": "✏️ If speaking at a conference or event is something you would love to do, make a start today. @rachelandrew on how… https://t.co/nhyaNBQ8tZ",
-    "retweet_count": 35,
-    "favorite_count": 85,
+    "id": 979379609954222100,
+    "id_str": "979379609954222080",
+    "created_at": "Thu Mar 29 15:27:49 +0000 2018",
+    "text": "Gameboy emulator in #WebAssembly, written in Rust and WebGL 2.0!\nStill have some audio bugs to track down and under… https://t.co/9i2kPaoEuK",
+    "retweet_count": 317,
+    "favorite_count": 948,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/nhyaNBQ8tZ",
-      "expand": "https://twitter.com/i/web/status/965528170769342464"
+      "url": "https://t.co/9i2kPaoEuK",
+      "expand": "https://twitter.com/i/web/status/979379609954222080"
      }
     ]
    }
   },
   {
-   "id": 966104800055169000,
-   "id_str": "966104800055169024",
-   "created_at": "Wed Feb 21 00:18:28 +0000 2018",
-   "text": "RT @FluentConf: Lin Clark @linclark Mozilla Engineer and Code Cartoonist (@codecartoons) is keynoting at #FluentConf https://t.co/DHXaMq8gC…",
-   "retweet_count": 12,
+   "id": 979447768073650200,
+   "id_str": "979447768073650176",
+   "created_at": "Thu Mar 29 19:58:39 +0000 2018",
+   "text": "RT @MozDevNet: MDN has collected browser compatibility information for the last decade, but integrating this info directly into MDN pages h…",
+   "retweet_count": 11,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -405,30 +378,30 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966059927042216000,
-    "id_str": "966059927042215936",
-    "created_at": "Tue Feb 20 21:20:09 +0000 2018",
-    "text": "Lin Clark @linclark Mozilla Engineer and Code Cartoonist (@codecartoons) is keynoting at #FluentConf… https://t.co/8nL1PDQd1C",
-    "retweet_count": 12,
-    "favorite_count": 34,
+    "id": 979433939004608500,
+    "id_str": "979433939004608512",
+    "created_at": "Thu Mar 29 19:03:42 +0000 2018",
+    "text": "MDN has collected browser compatibility information for the last decade, but integrating this info directly into MD… https://t.co/cteGCRwVOA",
+    "retweet_count": 11,
+    "favorite_count": 12,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/8nL1PDQd1C",
-      "expand": "https://twitter.com/i/web/status/966059927042215936"
+      "url": "https://t.co/cteGCRwVOA",
+      "expand": "https://twitter.com/i/web/status/979433939004608512"
      }
     ]
    }
   },
   {
-   "id": 966104672615436300,
-   "id_str": "966104672615436288",
-   "created_at": "Wed Feb 21 00:17:57 +0000 2018",
-   "text": "RT @mozillareality: Great to see @blairmacintyre and others talking about the exciting future and advantages of #WebXR over native, but als…",
-   "retweet_count": 7,
+   "id": 979447165637484500,
+   "id_str": "979447165637484544",
+   "created_at": "Thu Mar 29 19:56:16 +0000 2018",
+   "text": "RT @mozilla: The internet should promote healthy collaboration.   \n\nWe are committed to an internet that catalyzes collaboration among dive…",
+   "retweet_count": 47,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -436,30 +409,30 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965585421408374800,
-    "id_str": "965585421408374784",
-    "created_at": "Mon Feb 19 13:54:38 +0000 2018",
-    "text": "Great to see @blairmacintyre and others talking about the exciting future and advantages of #WebXR over native, but… https://t.co/nGvNY4gb3y",
-    "retweet_count": 7,
-    "favorite_count": 23,
+    "id": 979367658595401700,
+    "id_str": "979367658595401730",
+    "created_at": "Thu Mar 29 14:40:20 +0000 2018",
+    "text": "The internet should promote healthy collaboration.   \n\nWe are committed to an internet that catalyzes collaboration… https://t.co/LdTwgsvnJl",
+    "retweet_count": 47,
+    "favorite_count": 93,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/nGvNY4gb3y",
-      "expand": "https://twitter.com/i/web/status/965585421408374784"
+      "url": "https://t.co/LdTwgsvnJl",
+      "expand": "https://twitter.com/i/web/status/979367658595401730"
      }
     ]
    }
   },
   {
-   "id": 966103818982260700,
-   "id_str": "966103818982260737",
-   "created_at": "Wed Feb 21 00:14:34 +0000 2018",
-   "text": "RT @patrickbrosset: Thanks to @rajatvijay my devtools finder/highlighter extension can now select nodes in the inspector panel of @FirefoxD…",
-   "retweet_count": 10,
+   "id": 979379262062030800,
+   "id_str": "979379262062030848",
+   "created_at": "Thu Mar 29 15:26:26 +0000 2018",
+   "text": "RT @jensimmons: There are many significant new(ish) tools in CSS that radically change what’s possible in web page layout &amp; graphic design.…",
+   "retweet_count": 313,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -467,30 +440,30 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965882880252694500,
-    "id_str": "965882880252694528",
-    "created_at": "Tue Feb 20 09:36:38 +0000 2018",
-    "text": "Thanks to @rajatvijay my devtools finder/highlighter extension can now select nodes in the inspector panel of… https://t.co/Z2IiqwEPiO",
-    "retweet_count": 10,
-    "favorite_count": 28,
+    "id": 978720681948074000,
+    "id_str": "978720681948073986",
+    "created_at": "Tue Mar 27 19:49:28 +0000 2018",
+    "text": "There are many significant new(ish) tools in CSS that radically change what’s possible in web page layout &amp; graphic… https://t.co/XQlQP3ua9Y",
+    "retweet_count": 313,
+    "favorite_count": 1282,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/Z2IiqwEPiO",
-      "expand": "https://twitter.com/i/web/status/965882880252694528"
+      "url": "https://t.co/XQlQP3ua9Y",
+      "expand": "https://twitter.com/i/web/status/978720681948073986"
      }
     ]
    }
   },
   {
-   "id": 966102687979900900,
-   "id_str": "966102687979900928",
-   "created_at": "Wed Feb 21 00:10:04 +0000 2018",
-   "text": "RT @jensimmons: I redesigned the channel page for Layout Land to make it easier to find all the videos in one glance: https://t.co/t1b95OSL…",
-   "retweet_count": 19,
+   "id": 979259375465517000,
+   "id_str": "979259375465517056",
+   "created_at": "Thu Mar 29 07:30:03 +0000 2018",
+   "text": "RT @cramforce: Reconciling ES6 modules, Common JS modules, node.js, browsers, high latency network load performance, and npm is maybe the g…",
+   "retweet_count": 22,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -498,164 +471,48 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966067838082601000,
-    "id_str": "966067838082600960",
-    "created_at": "Tue Feb 20 21:51:35 +0000 2018",
-    "text": "I redesigned the channel page for Layout Land to make it easier to find all the videos in one glance: https://t.co/t1b95OSLFf",
-    "retweet_count": 19,
-    "favorite_count": 94,
+    "id": 979009828528930800,
+    "id_str": "979009828528930816",
+    "created_at": "Wed Mar 28 14:58:26 +0000 2018",
+    "text": "Reconciling ES6 modules, Common JS modules, node.js, browsers, high latency network load performance, and npm is ma… https://t.co/CjsQeIZz3f",
+    "retweet_count": 22,
+    "favorite_count": 48,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/t1b95OSLFf",
-      "expand": "http://youtube.com/layoutland"
+      "url": "https://t.co/CjsQeIZz3f",
+      "expand": "https://twitter.com/i/web/status/979009828528930816"
      }
     ]
    }
   },
   {
-   "id": 966004628088393700,
-   "id_str": "966004628088393728",
-   "created_at": "Tue Feb 20 17:40:25 +0000 2018",
-   "text": "RT @jsconfasia: Curious what the web’s capabilities will be going forward? @david_bryant shares Mozillas emerging tech https://t.co/a3peMb3…",
-   "retweet_count": 8,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964745668618215400,
-    "id_str": "964745668618215425",
-    "created_at": "Sat Feb 17 06:17:46 +0000 2018",
-    "text": "Curious what the web’s capabilities will be going forward? @david_bryant shares Mozillas emerging tech… https://t.co/wQ0tqQVREA",
-    "retweet_count": 8,
-    "favorite_count": 15,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/wQ0tqQVREA",
-      "expand": "https://twitter.com/i/web/status/964745668618215425"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965997205436977200,
-   "id_str": "965997205436977152",
-   "created_at": "Tue Feb 20 17:10:55 +0000 2018",
-   "text": "RT @MozDevNet: Forging Better Tools for the Web: A Firefox DevTools Retrospective: https://t.co/6zFVQT4xjA https://t.co/lOEI7lcxxe",
-   "retweet_count": 24,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/6zFVQT4xjA",
-     "expand": "https://hacks.mozilla.org/2018/02/forging-better-tools-for-the-web/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965843976862490600,
-    "id_str": "965843976862490624",
-    "created_at": "Tue Feb 20 07:02:03 +0000 2018",
-    "text": "Forging Better Tools for the Web: A Firefox DevTools Retrospective: https://t.co/6zFVQT4xjA https://t.co/lOEI7lcxxe",
-    "retweet_count": 24,
-    "favorite_count": 88,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/6zFVQT4xjA",
-      "expand": "https://hacks.mozilla.org/2018/02/forging-better-tools-for-the-web/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965997053460598800,
-   "id_str": "965997053460598784",
-   "created_at": "Tue Feb 20 17:10:19 +0000 2018",
-   "text": "RT @jensimmons: CSS Grid is amazing because it totally changes what’s possible web design. So many great design ideas used to be impossible…",
-   "retweet_count": 118,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965828419043954700,
-    "id_str": "965828419043954688",
-    "created_at": "Tue Feb 20 06:00:13 +0000 2018",
-    "text": "CSS Grid is amazing because it totally changes what’s possible web design. So many great design ideas used to be im… https://t.co/AwIf2AuCEH",
-    "retweet_count": 118,
-    "favorite_count": 500,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/AwIf2AuCEH",
-      "expand": "https://twitter.com/i/web/status/965828419043954688"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965709508659089400,
-   "id_str": "965709508659089408",
-   "created_at": "Mon Feb 19 22:07:43 +0000 2018",
-   "text": "RT @Mcr_FRED: Sign up: https://t.co/ZKB1qzG1BO \n\n@chrisdavidmills from @mozilla will be talking about \"A more efficient, usable web\"\n\n👌🏻",
+   "id": 979055425512407000,
+   "id_str": "979055425512407040",
+   "created_at": "Wed Mar 28 17:59:38 +0000 2018",
+   "text": "AR/VR-TL;DR\n\na.k.a What The Heck Is Mixed Reality?! with @joshmarinacci &amp; @mozillareality in just 2 minutes: https://t.co/fcvuWVm9hf",
    "retweet_count": 6,
-   "favorite_count": 0,
+   "favorite_count": 17,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/ZKB1qzG1BO",
-     "expand": "https://www.meetup.com/McrFRED/events/246643039/"
+     "url": "https://t.co/fcvuWVm9hf",
+     "expand": "https://www.youtube.com/watch?v=v8wtHZDVdlc"
     }
-   ],
-   "retweeted_status": {
-    "id": 965680292617998300,
-    "id_str": "965680292617998341",
-    "created_at": "Mon Feb 19 20:11:37 +0000 2018",
-    "text": "Sign up: https://t.co/ZKB1qzG1BO \n\n@chrisdavidmills from @mozilla will be talking about \"A more efficient, usable web\"\n\n👌🏻",
-    "retweet_count": 6,
-    "favorite_count": 5,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ZKB1qzG1BO",
-      "expand": "https://www.meetup.com/McrFRED/events/246643039/"
-     }
-    ]
-   }
+   ]
   },
   {
-   "id": 964881493523927000,
-   "id_str": "964881493523927040",
-   "created_at": "Sat Feb 17 15:17:29 +0000 2018",
-   "text": "RT @jensimmons: I’m honored &amp; excited to present at Ampersand again, this time in Brighton. And I’m even more excited because I’ll be demon…",
-   "retweet_count": 5,
+   "id": 979015208743026700,
+   "id_str": "979015208743026694",
+   "created_at": "Wed Mar 28 15:19:49 +0000 2018",
+   "text": "RT @linclark: ES modules will be in all browsers soon!\n\nBut who really knows how they work? 🤷🏻‍♀️ \n\nI went on a cartoon deep-dive to explai…",
+   "retweet_count": 902,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -663,29 +520,60 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964502094597312500,
-    "id_str": "964502094597312512",
-    "created_at": "Fri Feb 16 14:09:53 +0000 2018",
-    "text": "I’m honored &amp; excited to present at Ampersand again, this time in Brighton. And I’m even more excited because I’ll… https://t.co/1aqk6jhbhh",
-    "retweet_count": 5,
-    "favorite_count": 43,
+    "id": 979010705469849600,
+    "id_str": "979010705469849600",
+    "created_at": "Wed Mar 28 15:01:55 +0000 2018",
+    "text": "ES modules will be in all browsers soon!\n\nBut who really knows how they work? 🤷🏻‍♀️ \n\nI went on a cartoon deep-dive… https://t.co/5AGDiqbWNJ",
+    "retweet_count": 902,
+    "favorite_count": 2066,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/1aqk6jhbhh",
-      "expand": "https://twitter.com/i/web/status/964502094597312512"
+      "url": "https://t.co/5AGDiqbWNJ",
+      "expand": "https://twitter.com/i/web/status/979010705469849600"
      }
     ]
    }
   },
   {
-   "id": 964578346532331500,
-   "id_str": "964578346532331523",
-   "created_at": "Fri Feb 16 19:12:53 +0000 2018",
-   "text": "RT @MozillaIoT: Announcing “Project Things” – An open framework for connecting your devices to the web. https://t.co/ehnmV5LJNQ",
+   "id": 978784004374609900,
+   "id_str": "978784004374609925",
+   "created_at": "Wed Mar 28 00:01:06 +0000 2018",
+   "text": "RT @mozilla: We made a new add-on for @firefox called Facebook Container in response to the growing demand we see for tools that help manag…",
+   "retweet_count": 618,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978640114782945300,
+    "id_str": "978640114782945280",
+    "created_at": "Tue Mar 27 14:29:20 +0000 2018",
+    "text": "We made a new add-on for @firefox called Facebook Container in response to the growing demand we see for tools that… https://t.co/GQW6vxqj8p",
+    "retweet_count": 618,
+    "favorite_count": 1043,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GQW6vxqj8p",
+      "expand": "https://twitter.com/i/web/status/978640114782945280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978674919335632900,
+   "id_str": "978674919335632896",
+   "created_at": "Tue Mar 27 16:47:38 +0000 2018",
+   "text": "RT @tecgirl: Firefox now isolates Facebook tracking https://t.co/cE7tuLvcyL",
    "retweet_count": 51,
    "favorite_count": 0,
    "place": null,
@@ -694,16 +582,1599 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/ehnmV5LJNQ",
-     "expand": "https://blog.mozilla.org/blog/2018/02/06/announcing-project-things-open-framework-connecting-devices-web/"
+     "url": "https://t.co/cE7tuLvcyL",
+     "expand": "https://www.theverge.com/2018/3/27/17167094/mozilla-firefox-facebook-container-tracker-blocker"
     }
    ],
    "retweeted_status": {
-    "id": 960923624508153900,
-    "id_str": "960923624508153856",
-    "created_at": "Tue Feb 06 17:10:19 +0000 2018",
-    "text": "Announcing “Project Things” – An open framework for connecting your devices to the web. https://t.co/ehnmV5LJNQ",
+    "id": 978643740536455200,
+    "id_str": "978643740536455169",
+    "created_at": "Tue Mar 27 14:43:44 +0000 2018",
+    "text": "Firefox now isolates Facebook tracking https://t.co/cE7tuLvcyL",
     "retweet_count": 51,
+    "favorite_count": 60,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cE7tuLvcyL",
+      "expand": "https://www.theverge.com/2018/3/27/17167094/mozilla-firefox-facebook-container-tracker-blocker"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978453944266457100,
+   "id_str": "978453944266457089",
+   "created_at": "Tue Mar 27 02:09:33 +0000 2018",
+   "text": "RT @donutjs: DISCLAIMER: Donut.js is not responsible for any items lost during the event of a dimensional rift caused by the creation of ne…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978435266175119400,
+    "id_str": "978435266175119360",
+    "created_at": "Tue Mar 27 00:55:20 +0000 2018",
+    "text": "DISCLAIMER: Donut.js is not responsible for any items lost during the event of a dimensional rift caused by the cre… https://t.co/a5tiseW867",
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/a5tiseW867",
+      "expand": "https://twitter.com/i/web/status/978435266175119360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977256246834118700,
+   "id_str": "977256246834118656",
+   "created_at": "Fri Mar 23 18:50:20 +0000 2018",
+   "text": "✨Recommended ✨: Firefox Roadmap -  2018 - \"Firefox browsers will be fast, personal, mobile, and opinionated\" - 🔥https://t.co/5YqfdkvhBy",
+   "retweet_count": 4,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5YqfdkvhBy",
+     "expand": "https://mzl.la/GN11O"
+    }
+   ]
+  },
+  {
+   "id": 976964554331643900,
+   "id_str": "976964554331643904",
+   "created_at": "Thu Mar 22 23:31:15 +0000 2018",
+   "text": ".@MozillaIoT demoing Project Things and the Things Gateway - see what @2braids &amp; @kgiori are building: https://t.co/yc4p9oYLtu",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yc4p9oYLtu",
+     "expand": "https://twitter.com/digikey/status/976839776975441920"
+    }
+   ]
+  },
+  {
+   "id": 976919747651498000,
+   "id_str": "976919747651497985",
+   "created_at": "Thu Mar 22 20:33:12 +0000 2018",
+   "text": "Insights from @mozillareleases  on building the browser: https://t.co/ViPoi7OPQb",
+   "retweet_count": 8,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ViPoi7OPQb",
+     "expand": "https://twitter.com/SylvestreLedru/status/976917117546229762"
+    }
+   ]
+  },
+  {
+   "id": 976909801761341400,
+   "id_str": "976909801761341440",
+   "created_at": "Thu Mar 22 19:53:41 +0000 2018",
+   "text": "RT @bitmovin: We are starting the first session of our Introduction to #AV1 webinar with @Mozilla and @Bitmovin. Join @smole3 @nathanegge a…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976819506512367600,
+    "id_str": "976819506512367617",
+    "created_at": "Thu Mar 22 13:54:53 +0000 2018",
+    "text": "We are starting the first session of our Introduction to #AV1 webinar with @Mozilla and @Bitmovin. Join @smole3… https://t.co/2WiPRJIiFO",
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2WiPRJIiFO",
+      "expand": "https://twitter.com/i/web/status/976819506512367617"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976909707443978200,
+   "id_str": "976909707443978240",
+   "created_at": "Thu Mar 22 19:53:19 +0000 2018",
+   "text": "RT @selenamarie: We're looking for a Performance Manager for the Firefox Engineering team! You'll work on optimizing Gecko performance, tra…",
+   "retweet_count": 54,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976577835363057700,
+    "id_str": "976577835363057664",
+    "created_at": "Wed Mar 21 21:54:34 +0000 2018",
+    "text": "We're looking for a Performance Manager for the Firefox Engineering team! You'll work on optimizing Gecko performan… https://t.co/gGhuhq8lbp",
+    "retweet_count": 54,
+    "favorite_count": 59,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gGhuhq8lbp",
+      "expand": "https://twitter.com/i/web/status/976577835363057664"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976909670995566600,
+   "id_str": "976909670995566592",
+   "created_at": "Thu Mar 22 19:53:10 +0000 2018",
+   "text": "RT @rachelandrew: The interactive examples on @MozDevNet are so useful, happy to have been a part of getting the CSS examples ready! https:…",
+   "retweet_count": 45,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976880439725056000,
+    "id_str": "976880439725056000",
+    "created_at": "Thu Mar 22 17:57:01 +0000 2018",
+    "text": "The interactive examples on @MozDevNet are so useful, happy to have been a part of getting the CSS examples ready! https://t.co/2obT1ydHxQ",
+    "retweet_count": 45,
+    "favorite_count": 170,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2obT1ydHxQ",
+      "expand": "https://buff.ly/2GMdXg5"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976837784764895200,
+   "id_str": "976837784764895232",
+   "created_at": "Thu Mar 22 15:07:31 +0000 2018",
+   "text": "On a related note: “On Mobile Apps, Who Can See Your Personal Data?” by @Mozilla fellow Rishab Nithyanand https://t.co/x1rAwE6oaH",
+   "retweet_count": 6,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/x1rAwE6oaH",
+     "expand": "http://bit.ly/2HW3XQD"
+    }
+   ]
+  },
+  {
+   "id": 976836043264659500,
+   "id_str": "976836043264659458",
+   "created_at": "Thu Mar 22 15:00:36 +0000 2018",
+   "text": "RT @mozilla: We champion platforms and technologies that are good for the web *and* for people. We stand up for transparency &amp; user control…",
+   "retweet_count": 390,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976698348282429400,
+    "id_str": "976698348282429440",
+    "created_at": "Thu Mar 22 05:53:27 +0000 2018",
+    "text": "We champion platforms and technologies that are good for the web *and* for people. We stand up for transparency &amp; u… https://t.co/FTfOTE2Hd4",
+    "retweet_count": 390,
+    "favorite_count": 714,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FTfOTE2Hd4",
+      "expand": "https://twitter.com/i/web/status/976698348282429440"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976660175959466000,
+   "id_str": "976660175959465985",
+   "created_at": "Thu Mar 22 03:21:46 +0000 2018",
+   "text": "RT @alispivak: I'm thrilled to be one of the speakers at https://t.co/ZqRHMgOHdU, April 19-20! The @samsunginternet team has put together a…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZqRHMgOHdU",
+     "expand": "https://samsungcreate.com"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976527396286287900,
+    "id_str": "976527396286287872",
+    "created_at": "Wed Mar 21 18:34:08 +0000 2018",
+    "text": "I'm thrilled to be one of the speakers at https://t.co/ZqRHMgOHdU, April 19-20! The @samsunginternet team has put t… https://t.co/tqCNmw7NO8",
+    "retweet_count": 5,
+    "favorite_count": 29,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZqRHMgOHdU",
+      "expand": "https://samsungcreate.com"
+     },
+     {
+      "url": "https://t.co/tqCNmw7NO8",
+      "expand": "https://twitter.com/i/web/status/976527396286287872"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976643075828105200,
+   "id_str": "976643075828105217",
+   "created_at": "Thu Mar 22 02:13:49 +0000 2018",
+   "text": "RT @donutjs: Josh Marinacci (@joshmarinacci) will walk us through the building of a WebVR scene complete with 3D models, lighting, shadows,…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976233973020938200,
+    "id_str": "976233973020938241",
+    "created_at": "Tue Mar 20 23:08:11 +0000 2018",
+    "text": "Josh Marinacci (@joshmarinacci) will walk us through the building of a WebVR scene complete with 3D models, lightin… https://t.co/0edRxIgn5h",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": 976233972156911600,
+    "in_reply_to_status_id_str": "976233972156911616",
+    "in_reply_to_screen_name": "donutjs",
+    "urls": [
+     {
+      "url": "https://t.co/0edRxIgn5h",
+      "expand": "https://twitter.com/i/web/status/976233973020938241"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976643053845803000,
+   "id_str": "976643053845803008",
+   "created_at": "Thu Mar 22 02:13:43 +0000 2018",
+   "text": "RT @donutjs: March comes in like a lion and out with a ton of donuts and talks! 🍩 Join us for another fun-filled and friendly and fantastic…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976233969128636400,
+    "id_str": "976233969128636417",
+    "created_at": "Tue Mar 20 23:08:10 +0000 2018",
+    "text": "March comes in like a lion and out with a ton of donuts and talks! 🍩 Join us for another fun-filled and friendly an… https://t.co/gFXTitoAVQ",
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gFXTitoAVQ",
+      "expand": "https://twitter.com/i/web/status/976233969128636417"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976575407750180900,
+   "id_str": "976575407750180864",
+   "created_at": "Wed Mar 21 21:44:55 +0000 2018",
+   "text": "RT @MozDevNet: We're looking for a person or people to do an audit of MDN and let us know how we could improve our page load time. Interest…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976538239887724500,
+    "id_str": "976538239887724545",
+    "created_at": "Wed Mar 21 19:17:14 +0000 2018",
+    "text": "We're looking for a person or people to do an audit of MDN and let us know how we could improve our page load time.… https://t.co/71zmHNJIdc",
+    "retweet_count": 5,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/71zmHNJIdc",
+      "expand": "https://twitter.com/i/web/status/976538239887724545"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976521436318675000,
+   "id_str": "976521436318674944",
+   "created_at": "Wed Mar 21 18:10:27 +0000 2018",
+   "text": "RT @dietrich: Great opportunity, cool people, important project. Apply! https://t.co/X8W7l05esM",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/X8W7l05esM",
+     "expand": "https://twitter.com/dat_project/status/976460446222954499"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976484147957964800,
+    "id_str": "976484147957964800",
+    "created_at": "Wed Mar 21 15:42:17 +0000 2018",
+    "text": "Great opportunity, cool people, important project. Apply! https://t.co/X8W7l05esM",
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/X8W7l05esM",
+      "expand": "https://twitter.com/dat_project/status/976460446222954499"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976521229472489500,
+   "id_str": "976521229472489472",
+   "created_at": "Wed Mar 21 18:09:38 +0000 2018",
+   "text": "RT @MozillaParis: The Paris office of Mozilla will host  some of the RustFest Paris 2018. More on https://t.co/e3wOPQ1dfr cc @rustlang http…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/e3wOPQ1dfr",
+     "expand": "https://paris.rustfest.eu/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976458873526784000,
+    "id_str": "976458873526784000",
+    "created_at": "Wed Mar 21 14:01:51 +0000 2018",
+    "text": "The Paris office of Mozilla will host  some of the RustFest Paris 2018. More on https://t.co/e3wOPQ1dfr cc @rustlang https://t.co/F8ocuJata5",
+    "retweet_count": 15,
+    "favorite_count": 51,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/e3wOPQ1dfr",
+      "expand": "https://paris.rustfest.eu/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976521124556099600,
+   "id_str": "976521124556099585",
+   "created_at": "Wed Mar 21 18:09:13 +0000 2018",
+   "text": "RT @mozilla: Mozilla Fellows stop the spread of misinformation, put individuals in control of their data, and keep artificial intelligence…",
+   "retweet_count": 191,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976445412763668500,
+    "id_str": "976445412763668480",
+    "created_at": "Wed Mar 21 13:08:22 +0000 2018",
+    "text": "Mozilla Fellows stop the spread of misinformation, put individuals in control of their data, and keep artificial in… https://t.co/HggyRkcdo2",
+    "retweet_count": 191,
+    "favorite_count": 201,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HggyRkcdo2",
+      "expand": "https://twitter.com/i/web/status/976445412763668480"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976394722796122100,
+   "id_str": "976394722796122112",
+   "created_at": "Wed Mar 21 09:46:57 +0000 2018",
+   "text": "Marvel: \"Infinity War is the most ambitious crossover event in history.\"\n\n🔥🦊: https://t.co/pmViurntrI",
+   "retweet_count": 14,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 976157676718710800,
+   "id_str": "976157676718710785",
+   "created_at": "Tue Mar 20 18:05:00 +0000 2018",
+   "text": "RT @rustlang: Building a fast Electron app with #rustlang  https://t.co/Mz9Dby8Paq",
+   "retweet_count": 54,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Mz9Dby8Paq",
+     "expand": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975318821459386400,
+    "id_str": "975318821459386368",
+    "created_at": "Sun Mar 18 10:31:42 +0000 2018",
+    "text": "Building a fast Electron app with #rustlang  https://t.co/Mz9Dby8Paq",
+    "retweet_count": 54,
+    "favorite_count": 184,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Mz9Dby8Paq",
+      "expand": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976155027411681300,
+   "id_str": "976155027411681280",
+   "created_at": "Tue Mar 20 17:54:29 +0000 2018",
+   "text": "RT @ServoDev: 🎈Can't stop, won't stop! This week: automated performance tests; safer and more expressive WebIDL bindings; fewer memory leak…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975780984217129000,
+    "id_str": "975780984217128960",
+    "created_at": "Mon Mar 19 17:08:10 +0000 2018",
+    "text": "🎈Can't stop, won't stop! This week: automated performance tests; safer and more expressive WebIDL bindings; fewer m… https://t.co/Inf2drNf0V",
+    "retweet_count": 14,
+    "favorite_count": 48,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Inf2drNf0V",
+      "expand": "https://twitter.com/i/web/status/975780984217128960"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976155002333904900,
+   "id_str": "976155002333904896",
+   "created_at": "Tue Mar 20 17:54:23 +0000 2018",
+   "text": "RT @jensimmons: Can we finally do drop-caps on the web in a robust and foolproof way? When should we use them? What are they good for? http…",
+   "retweet_count": 81,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975952839657783300,
+    "id_str": "975952839657783297",
+    "created_at": "Tue Mar 20 04:31:03 +0000 2018",
+    "text": "Can we finally do drop-caps on the web in a robust and foolproof way? When should we use them? What are they good f… https://t.co/LhvpruslOX",
+    "retweet_count": 81,
+    "favorite_count": 380,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LhvpruslOX",
+      "expand": "https://twitter.com/i/web/status/975952839657783297"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976140300119720000,
+   "id_str": "976140300119719936",
+   "created_at": "Tue Mar 20 16:55:58 +0000 2018",
+   "text": "RT @pascalchevrel: Getting ready for mozilla events! https://t.co/NFH3XrGcKG",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975701904285106200,
+    "id_str": "975701904285106177",
+    "created_at": "Mon Mar 19 11:53:56 +0000 2018",
+    "text": "Getting ready for mozilla events! https://t.co/NFH3XrGcKG",
+    "retweet_count": 20,
+    "favorite_count": 252,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 976139874720890900,
+   "id_str": "976139874720890881",
+   "created_at": "Tue Mar 20 16:54:16 +0000 2018",
+   "text": "RT @mozillareality: We’re delighted to be able to share that we’re teamed up with @magicleap as an early access dev partner to explore spat…",
+   "retweet_count": 176,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975769431522635800,
+    "id_str": "975769431522635777",
+    "created_at": "Mon Mar 19 16:22:16 +0000 2018",
+    "text": "We’re delighted to be able to share that we’re teamed up with @magicleap as an early access dev partner to explore… https://t.co/b5M3bHOdum",
+    "retweet_count": 176,
+    "favorite_count": 466,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/b5M3bHOdum",
+      "expand": "https://twitter.com/i/web/status/975769431522635777"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976134238817763300,
+   "id_str": "976134238817763331",
+   "created_at": "Tue Mar 20 16:31:52 +0000 2018",
+   "text": "It may look like a \"pretty small change\" — but it has been more than a year in the making: The story of interactive… https://t.co/AnySoVzQ78",
+   "retweet_count": 15,
+   "favorite_count": 46,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AnySoVzQ78",
+     "expand": "https://twitter.com/i/web/status/976134238817763331"
+    }
+   ]
+  },
+  {
+   "id": 975778612925231100,
+   "id_str": "975778612925231104",
+   "created_at": "Mon Mar 19 16:58:45 +0000 2018",
+   "text": "like Magic! 🔮 https://t.co/D9wSGQFpCZ",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/D9wSGQFpCZ",
+     "expand": "https://twitter.com/mozillareality/status/975769431522635777"
+    }
+   ]
+  },
+  {
+   "id": 974686601262624800,
+   "id_str": "974686601262624768",
+   "created_at": "Fri Mar 16 16:39:29 +0000 2018",
+   "text": "RT @FirefoxDevTools: DevTools tip:\n\nStarting with Firefox 60 (in beta now), you can see interesting CSS display types directly in the inspe…",
+   "retweet_count": 227,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974685361342484500,
+    "id_str": "974685361342484480",
+    "created_at": "Fri Mar 16 16:34:33 +0000 2018",
+    "text": "DevTools tip:\n\nStarting with Firefox 60 (in beta now), you can see interesting CSS display types directly in the in… https://t.co/05VlVzKmZH",
+    "retweet_count": 227,
+    "favorite_count": 538,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/05VlVzKmZH",
+      "expand": "https://twitter.com/i/web/status/974685361342484480"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974421873671921700,
+   "id_str": "974421873671921664",
+   "created_at": "Thu Mar 15 23:07:33 +0000 2018",
+   "text": ".@MozillaReality in the house: https://t.co/2p8kIzlCpC",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2p8kIzlCpC",
+     "expand": "https://twitter.com/gfodor/status/974295074732367872"
+    }
+   ]
+  },
+  {
+   "id": 974292597924614100,
+   "id_str": "974292597924614145",
+   "created_at": "Thu Mar 15 14:33:51 +0000 2018",
+   "text": "Time to scratch that old itch! 📢\nJoin the #FirefoxQuantum Extensions Challenge &amp; use the latest #WebExtensions APIs… https://t.co/FCBLpT0zum",
+   "retweet_count": 12,
+   "favorite_count": 16,
+   "place": "Le Mesnil-Amelot, France",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FCBLpT0zum",
+     "expand": "https://twitter.com/i/web/status/974292597924614145"
+    }
+   ]
+  },
+  {
+   "id": 973973377475063800,
+   "id_str": "973973377475063812",
+   "created_at": "Wed Mar 14 17:25:23 +0000 2018",
+   "text": "RT @seanwhite: Much to be addressed in a mixed reality world. @blairmacintyre reflecting on some of the challenges as we experiment. https:…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973959272445902800,
+    "id_str": "973959272445902848",
+    "created_at": "Wed Mar 14 16:29:20 +0000 2018",
+    "text": "Much to be addressed in a mixed reality world. @blairmacintyre reflecting on some of the challenges as we experimen… https://t.co/bQTNFu0ooO",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bQTNFu0ooO",
+      "expand": "https://twitter.com/i/web/status/973959272445902848"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973967810857766900,
+   "id_str": "973967810857766912",
+   "created_at": "Wed Mar 14 17:03:16 +0000 2018",
+   "text": "RT @linclark: 2018 goals: Make WebAssembly easier to use with JavaScript\n\nHere’s what the Rust team is doing→\nhttps://t.co/sXLsOCLHmp",
+   "retweet_count": 258,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/sXLsOCLHmp",
+     "expand": "https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973939073252511700,
+    "id_str": "973939073252511744",
+    "created_at": "Wed Mar 14 15:09:04 +0000 2018",
+    "text": "2018 goals: Make WebAssembly easier to use with JavaScript\n\nHere’s what the Rust team is doing→\nhttps://t.co/sXLsOCLHmp",
+    "retweet_count": 258,
+    "favorite_count": 615,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sXLsOCLHmp",
+      "expand": "https://hacks.mozilla.org/2018/03/making-webassembly-better-for-rust-for-all-languages/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973960664891916300,
+   "id_str": "973960664891916288",
+   "created_at": "Wed Mar 14 16:34:52 +0000 2018",
+   "text": "RT @ServoDev: Want to make it a little bit easier to report bugs involving graphical problems in Servo? 🐛 https://t.co/czZGPbH2JP has step…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/czZGPbH2JP",
+     "expand": "https://github.com/servo/servo/issues/20295"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973956031679254500,
+    "id_str": "973956031679254528",
+    "created_at": "Wed Mar 14 16:16:27 +0000 2018",
+    "text": "Want to make it a little bit easier to report bugs involving graphical problems in Servo? 🐛 https://t.co/czZGPbH2JP… https://t.co/I0aWZsOYcu",
+    "retweet_count": 5,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/czZGPbH2JP",
+      "expand": "https://github.com/servo/servo/issues/20295"
+     },
+     {
+      "url": "https://t.co/I0aWZsOYcu",
+      "expand": "https://twitter.com/i/web/status/973956031679254528"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973958047272980500,
+   "id_str": "973958047272980480",
+   "created_at": "Wed Mar 14 16:24:28 +0000 2018",
+   "text": "RT @soapdog: So happy to be able to contribute meaningfully to #Firefox59 💖❤🦊\n\nMy idea and patch to whitelist #decentralization protocols h…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973699164105306100,
+    "id_str": "973699164105306112",
+    "created_at": "Tue Mar 13 23:15:45 +0000 2018",
+    "text": "So happy to be able to contribute meaningfully to #Firefox59 💖❤🦊\n\nMy idea and patch to whitelist #decentralization… https://t.co/O7jVSbZ4GL",
+    "retweet_count": 19,
+    "favorite_count": 110,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/O7jVSbZ4GL",
+      "expand": "https://twitter.com/i/web/status/973699164105306112"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973952222139703300,
+   "id_str": "973952222139703297",
+   "created_at": "Wed Mar 14 16:01:19 +0000 2018",
+   "text": "RT @jensimmons: Did you know that CSS Grid makes it easy to overlap things? We can use this common-in-print graphic design touch on the web…",
+   "retweet_count": 188,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973907498360033300,
+    "id_str": "973907498360033280",
+    "created_at": "Wed Mar 14 13:03:36 +0000 2018",
+    "text": "Did you know that CSS Grid makes it easy to overlap things? We can use this common-in-print graphic design touch on… https://t.co/vCHeRU0RGk",
+    "retweet_count": 188,
+    "favorite_count": 709,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vCHeRU0RGk",
+      "expand": "https://twitter.com/i/web/status/973907498360033280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973942020548022300,
+   "id_str": "973942020548022274",
+   "created_at": "Wed Mar 14 15:20:47 +0000 2018",
+   "text": "RT @RustHungary: First up: Mozilla's @nicalsilva's tour of the WebRender engine, conceived in Servo and slowly but surely making its way in…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973854633885040600,
+    "id_str": "973854633885040640",
+    "created_at": "Wed Mar 14 09:33:32 +0000 2018",
+    "text": "First up: Mozilla's @nicalsilva's tour of the WebRender engine, conceived in Servo and slowly but surely making its… https://t.co/uOng3HRc2P",
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": 973852712344354800,
+    "in_reply_to_status_id_str": "973852712344354816",
+    "in_reply_to_screen_name": "RustHungary",
+    "urls": [
+     {
+      "url": "https://t.co/uOng3HRc2P",
+      "expand": "https://twitter.com/i/web/status/973854633885040640"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973940619130363900,
+   "id_str": "973940619130363904",
+   "created_at": "Wed Mar 14 15:15:13 +0000 2018",
+   "text": "RT @infinite_lee: Coming soon to a browser near you\n@mozillareality @aframevr https://t.co/HBrUGgNBGB\nbuilt with networked-aframe, aframe-p…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HBrUGgNBGB",
+     "expand": "https://github.com/mozilla/mr-social-client/pull/66"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973726028467023900,
+    "id_str": "973726028467023872",
+    "created_at": "Wed Mar 14 01:02:30 +0000 2018",
+    "text": "Coming soon to a browser near you\n@mozillareality @aframevr https://t.co/HBrUGgNBGB\nbuilt with networked-aframe, af… https://t.co/sw56g9GuM9",
+    "retweet_count": 39,
+    "favorite_count": 120,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HBrUGgNBGB",
+      "expand": "https://github.com/mozilla/mr-social-client/pull/66"
+     },
+     {
+      "url": "https://t.co/sw56g9GuM9",
+      "expand": "https://twitter.com/i/web/status/973726028467023872"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973940497424109600,
+   "id_str": "973940497424109568",
+   "created_at": "Wed Mar 14 15:14:44 +0000 2018",
+   "text": "RT @aprilmpls: The @Mozilla Observatory will now warn sites if they're using Symantec certificates that will be distrusted come Chrome 66 a…",
+   "retweet_count": 60,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973683042198937600,
+    "id_str": "973683042198937600",
+    "created_at": "Tue Mar 13 22:11:42 +0000 2018",
+    "text": "The @Mozilla Observatory will now warn sites if they're using Symantec certificates that will be distrusted come Ch… https://t.co/56u4OY4Fqs",
+    "retweet_count": 60,
+    "favorite_count": 74,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/56u4OY4Fqs",
+      "expand": "https://twitter.com/i/web/status/973683042198937600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973940426674769900,
+   "id_str": "973940426674769920",
+   "created_at": "Wed Mar 14 15:14:27 +0000 2018",
+   "text": "RT @FirefoxNightly: If one of your extensions overrides your new tab content, we now tell you which extension it is in the door-hanger noti…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973905932018159600,
+    "id_str": "973905932018159616",
+    "created_at": "Wed Mar 14 12:57:23 +0000 2018",
+    "text": "If one of your extensions overrides your new tab content, we now tell you which extension it is in the door-hanger… https://t.co/3eLvxFvZ7k",
+    "retweet_count": 16,
+    "favorite_count": 45,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3eLvxFvZ7k",
+      "expand": "https://twitter.com/i/web/status/973905932018159616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973940378180169700,
+   "id_str": "973940378180169728",
+   "created_at": "Wed Mar 14 15:14:15 +0000 2018",
+   "text": "RT @FirefoxNightly: Tab warming is now enabled by default on Firefox Nightly https://t.co/cCfTXnVx5e https://t.co/JDMeIdiwWO",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cCfTXnVx5e",
+     "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=1423220"
+    },
+    {
+     "url": "https://t.co/JDMeIdiwWO",
+     "expand": "https://twitter.com/firefoxnightly/status/951577148619444225"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973675905104171000,
+    "id_str": "973675905104171016",
+    "created_at": "Tue Mar 13 21:43:20 +0000 2018",
+    "text": "Tab warming is now enabled by default on Firefox Nightly https://t.co/cCfTXnVx5e https://t.co/JDMeIdiwWO",
+    "retweet_count": 19,
+    "favorite_count": 39,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cCfTXnVx5e",
+      "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=1423220"
+     },
+     {
+      "url": "https://t.co/JDMeIdiwWO",
+      "expand": "https://twitter.com/firefoxnightly/status/951577148619444225"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973664889272176600,
+   "id_str": "973664889272176642",
+   "created_at": "Tue Mar 13 20:59:34 +0000 2018",
+   "text": "RT @streamsstandard: API design opinions wanted! We're doing TextEncoder/TextDecoder transform streams, but should we make the constructed…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973535466845712400,
+    "id_str": "973535466845712385",
+    "created_at": "Tue Mar 13 12:25:17 +0000 2018",
+    "text": "API design opinions wanted! We're doing TextEncoder/TextDecoder transform streams, but should we make the construct… https://t.co/5apPLgHGIr",
+    "retweet_count": 20,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5apPLgHGIr",
+      "expand": "https://twitter.com/i/web/status/973535466845712385"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973657037740691500,
+   "id_str": "973657037740691456",
+   "created_at": "Tue Mar 13 20:28:22 +0000 2018",
+   "text": "RT @ioctaptceb: Hey JS developers! Are you interested in how JavaScript is spec'd? I want to help you get the information you need! I made…",
+   "retweet_count": 110,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973633022011625500,
+    "id_str": "973633022011625472",
+    "created_at": "Tue Mar 13 18:52:56 +0000 2018",
+    "text": "Hey JS developers! Are you interested in how JavaScript is spec'd? I want to help you get the information you need!… https://t.co/T02xkOUatD",
+    "retweet_count": 110,
+    "favorite_count": 103,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/T02xkOUatD",
+      "expand": "https://twitter.com/i/web/status/973633022011625472"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973655176077770800,
+   "id_str": "973655176077770753",
+   "created_at": "Tue Mar 13 20:20:58 +0000 2018",
+   "text": "In previous Layout Land episodes @jensimmons has already shown how flexbox or #cssgrid can make laying things out o… https://t.co/qKJe8kzmJO",
+   "retweet_count": 4,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qKJe8kzmJO",
+     "expand": "https://twitter.com/i/web/status/973655176077770753"
+    }
+   ]
+  },
+  {
+   "id": 973650174177435600,
+   "id_str": "973650174177435648",
+   "created_at": "Tue Mar 13 20:01:05 +0000 2018",
+   "text": "RT @jensimmons: My video on Flexbox vs Grid now has captions in 7 languages, thanks to the hard work of volunteers! Thank you everyone doin…",
+   "retweet_count": 42,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973287156012679200,
+    "id_str": "973287156012679169",
+    "created_at": "Mon Mar 12 19:58:35 +0000 2018",
+    "text": "My video on Flexbox vs Grid now has captions in 7 languages, thanks to the hard work of volunteers! Thank you every… https://t.co/GHczWR7S3w",
+    "retweet_count": 42,
+    "favorite_count": 293,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GHczWR7S3w",
+      "expand": "https://twitter.com/i/web/status/973287156012679169"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973649172028149800,
+   "id_str": "973649172028149762",
+   "created_at": "Tue Mar 13 19:57:06 +0000 2018",
+   "text": "…and while there, why stop at just VR? Our @mozillareality team presents their device-agnostic adaptive &amp; responsiv… https://t.co/h6GGADtxIv",
+   "retweet_count": 2,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 973641103332331500,
+   "in_reply_to_status_id_str": "973641103332331520",
+   "in_reply_to_screen_name": "mozhacks",
+   "urls": [
+    {
+     "url": "https://t.co/h6GGADtxIv",
+     "expand": "https://twitter.com/i/web/status/973649172028149762"
+    }
+   ]
+  },
+  {
+   "id": 973643365341433900,
+   "id_str": "973643365341433856",
+   "created_at": "Tue Mar 13 19:34:02 +0000 2018",
+   "text": "RT @potch: Firefox 59 is out! https://t.co/bwmtw3t7ED",
+   "retweet_count": 137,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973623749390905300,
+    "id_str": "973623749390905344",
+    "created_at": "Tue Mar 13 18:16:05 +0000 2018",
+    "text": "Firefox 59 is out! https://t.co/bwmtw3t7ED",
+    "retweet_count": 137,
+    "favorite_count": 339,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 973641103332331500,
+   "id_str": "973641103332331520",
+   "created_at": "Tue Mar 13 19:25:03 +0000 2018",
+   "text": "If all you ever wanted was a start-to-finish tutorial on creating interactive VR experiences for the browser in… https://t.co/NO46LRHVNH",
+   "retweet_count": 20,
+   "favorite_count": 56,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NO46LRHVNH",
+     "expand": "https://twitter.com/i/web/status/973641103332331520"
+    }
+   ]
+  },
+  {
+   "id": 973606108374929400,
+   "id_str": "973606108374929410",
+   "created_at": "Tue Mar 13 17:05:59 +0000 2018",
+   "text": "RT @ServoDev: 🌟 This week in Servo: a new reviewer; better platform integration with Glutin; more WebGL APIs. Can't stop progress! 😎 https:…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973256440738664400,
+    "id_str": "973256440738664448",
+    "created_at": "Mon Mar 12 17:56:32 +0000 2018",
+    "text": "🌟 This week in Servo: a new reviewer; better platform integration with Glutin; more WebGL APIs. Can't stop progress… https://t.co/obqi8V31uI",
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/obqi8V31uI",
+      "expand": "https://twitter.com/i/web/status/973256440738664448"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973606096253448200,
+   "id_str": "973606096253448193",
+   "created_at": "Tue Mar 13 17:05:56 +0000 2018",
+   "text": "RT @rustlang: “For the third year in a row, Rust is the most loved programming language among our respondents” https://t.co/Iwci4vZIoP",
+   "retweet_count": 254,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Iwci4vZIoP",
+     "expand": "https://insights.stackoverflow.com/survey/2018/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973491170289610800,
+    "id_str": "973491170289610752",
+    "created_at": "Tue Mar 13 09:29:16 +0000 2018",
+    "text": "“For the third year in a row, Rust is the most loved programming language among our respondents” https://t.co/Iwci4vZIoP",
+    "retweet_count": 254,
+    "favorite_count": 576,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Iwci4vZIoP",
+      "expand": "https://insights.stackoverflow.com/survey/2018/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973234936844046300,
+   "id_str": "973234936844046337",
+   "created_at": "Mon Mar 12 16:31:05 +0000 2018",
+   "text": "RT @vlh: Want to use CSS Grid today but aren't sure how to handle older browser? @jensimmons has you covered:  https://t.co/iK0Mxvn6o1",
+   "retweet_count": 56,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iK0Mxvn6o1",
+     "expand": "https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973215830719844400,
+    "id_str": "973215830719844354",
+    "created_at": "Mon Mar 12 15:15:10 +0000 2018",
+    "text": "Want to use CSS Grid today but aren't sure how to handle older browser? @jensimmons has you covered:  https://t.co/iK0Mxvn6o1",
+    "retweet_count": 56,
+    "favorite_count": 184,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iK0Mxvn6o1",
+      "expand": "https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973231429948670000,
+   "id_str": "973231429948669958",
+   "created_at": "Mon Mar 12 16:17:09 +0000 2018",
+   "text": "RT @jensimmons: Quantum CSS. https://t.co/WTZXBr8YY6 https://t.co/H70YBp9Qmb",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WTZXBr8YY6",
+     "expand": "https://youtu.be/u00FY9vADfQ"
+    },
+    {
+     "url": "https://t.co/H70YBp9Qmb",
+     "expand": "https://twitter.com/__sun__/status/972762986812076032"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972803099919306800,
+    "id_str": "972803099919306752",
+    "created_at": "Sun Mar 11 11:55:07 +0000 2018",
+    "text": "Quantum CSS. https://t.co/WTZXBr8YY6 https://t.co/H70YBp9Qmb",
+    "retweet_count": 8,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WTZXBr8YY6",
+      "expand": "https://youtu.be/u00FY9vADfQ"
+     },
+     {
+      "url": "https://t.co/H70YBp9Qmb",
+      "expand": "https://twitter.com/__sun__/status/972762986812076032"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973231268405051400,
+   "id_str": "973231268405051392",
+   "created_at": "Mon Mar 12 16:16:30 +0000 2018",
+   "text": "RT @mozTechSpeakers: Enlightening and to the point, as always: Peter Gasston @stopsatgreen shares learnings of six years of public speaking…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972883742619553800,
+    "id_str": "972883742619553794",
+    "created_at": "Sun Mar 11 17:15:34 +0000 2018",
+    "text": "Enlightening and to the point, as always: Peter Gasston @stopsatgreen shares learnings of six years of public speak… https://t.co/Lmk30T5bWo",
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Lmk30T5bWo",
+      "expand": "https://twitter.com/i/web/status/972883742619553794"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973230859489857500,
+   "id_str": "973230859489857536",
+   "created_at": "Mon Mar 12 16:14:53 +0000 2018",
+   "text": "RT @ladybenko: New post in my blog: \"Talk at FrontFest 2018 – Improving as Developers\" https://t.co/8rKpscaG5V",
+   "retweet_count": 27,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8rKpscaG5V",
+     "expand": "https://www.belenalbeza.com/articles/talk-at-frontfest-2018-improving-as-developers/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973151763246272500,
+    "id_str": "973151763246272513",
+    "created_at": "Mon Mar 12 11:00:35 +0000 2018",
+    "text": "New post in my blog: \"Talk at FrontFest 2018 – Improving as Developers\" https://t.co/8rKpscaG5V",
+    "retweet_count": 27,
+    "favorite_count": 47,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8rKpscaG5V",
+      "expand": "https://www.belenalbeza.com/articles/talk-at-frontfest-2018-improving-as-developers/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973230588059582500,
+   "id_str": "973230588059582465",
+   "created_at": "Mon Mar 12 16:13:48 +0000 2018",
+   "text": "RT @MozillaReleases: Good morning, happy release week! https://t.co/pn3LspsRD6",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pn3LspsRD6",
+     "expand": "https://wiki.mozilla.org/RapidRelease/Calendar"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973114035796435000,
+    "id_str": "973114035796434944",
+    "created_at": "Mon Mar 12 08:30:40 +0000 2018",
+    "text": "Good morning, happy release week! https://t.co/pn3LspsRD6",
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pn3LspsRD6",
+      "expand": "https://wiki.mozilla.org/RapidRelease/Calendar"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973224447397285900,
+   "id_str": "973224447397285889",
+   "created_at": "Mon Mar 12 15:49:24 +0000 2018",
+   "text": "RT @g33konaut: Hey hey, y'all! 👋 Tomorrow the amazing @Lady_Ada_King and yours truly will be live in a @smashingmag webinar on #WebVR / #we…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973194814614310900,
+    "id_str": "973194814614310913",
+    "created_at": "Mon Mar 12 13:51:39 +0000 2018",
+    "text": "Hey hey, y'all! 👋 Tomorrow the amazing @Lady_Ada_King and yours truly will be live in a @smashingmag webinar on… https://t.co/HNsrVJwGss",
+    "retweet_count": 22,
+    "favorite_count": 64,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HNsrVJwGss",
+      "expand": "https://twitter.com/i/web/status/973194814614310913"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973156406064017400,
+   "id_str": "973156406064017408",
+   "created_at": "Mon Mar 12 11:19:02 +0000 2018",
+   "text": "📢 Periodic Reminder:\nIf you are speaking at conferences or entertaining the idea of doing so (and hey, why wouldn't… https://t.co/tvoXcshxUG",
+   "retweet_count": 12,
+   "favorite_count": 13,
+   "place": "Budapest, Magyarország",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tvoXcshxUG",
+     "expand": "https://twitter.com/i/web/status/973156406064017408"
+    }
+   ]
+  },
+  {
+   "id": 972258265848602600,
+   "id_str": "972258265848602630",
+   "created_at": "Fri Mar 09 23:50:08 +0000 2018",
+   "text": "RT @ServoDev: Big news, everyone! The Mozilla @servodev team will be focusing on @mozillareality #WebXR #VR #AR to ensure we push into a to…",
+   "retweet_count": 43,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972231542390042600,
+    "id_str": "972231542390042624",
+    "created_at": "Fri Mar 09 22:03:57 +0000 2018",
+    "text": "Big news, everyone! The Mozilla @servodev team will be focusing on @mozillareality #WebXR #VR #AR to ensure we push… https://t.co/vM6aXGorCg",
+    "retweet_count": 43,
     "favorite_count": 87,
     "place": null,
     "in_reply_to_status_id": null,
@@ -711,8 +2182,1943 @@
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/ehnmV5LJNQ",
-      "expand": "https://blog.mozilla.org/blog/2018/02/06/announcing-project-things-open-framework-connecting-devices-web/"
+      "url": "https://t.co/vM6aXGorCg",
+      "expand": "https://twitter.com/i/web/status/972231542390042624"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972173171343478800,
+   "id_str": "972173171343478784",
+   "created_at": "Fri Mar 09 18:12:00 +0000 2018",
+   "text": "RT @kennethrohde: Thanks to @domenic I now have WebP images working in Firefox! https://t.co/41fILzEMIt",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972145877853900800,
+    "id_str": "972145877853900801",
+    "created_at": "Fri Mar 09 16:23:33 +0000 2018",
+    "text": "Thanks to @domenic I now have WebP images working in Firefox! https://t.co/41fILzEMIt",
+    "retweet_count": 9,
+    "favorite_count": 46,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 972169078289911800,
+   "id_str": "972169078289911808",
+   "created_at": "Fri Mar 09 17:55:44 +0000 2018",
+   "text": "RT @larissashapiro: Our worklab project live on Hacks for IWD https://t.co/PJA8XDNU7S",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PJA8XDNU7S",
+     "expand": "https://twitter.com/mozhacks/status/971866383834165248"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971943076024352800,
+    "id_str": "971943076024352768",
+    "created_at": "Fri Mar 09 02:57:41 +0000 2018",
+    "text": "Our worklab project live on Hacks for IWD https://t.co/PJA8XDNU7S",
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PJA8XDNU7S",
+      "expand": "https://twitter.com/mozhacks/status/971866383834165248"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972167743859458000,
+   "id_str": "972167743859458048",
+   "created_at": "Fri Mar 09 17:50:26 +0000 2018",
+   "text": "RT @MozDevNet: CSS Overrides: By thinking through your CSS, and leveraging the power of the cascade and the way CSS overrides itself, you c…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972125489006563300,
+    "id_str": "972125489006563328",
+    "created_at": "Fri Mar 09 15:02:32 +0000 2018",
+    "text": "CSS Overrides: By thinking through your CSS, and leveraging the power of the cascade and the way CSS overrides itse… https://t.co/BJQTkla9fF",
+    "retweet_count": 8,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/BJQTkla9fF",
+      "expand": "https://twitter.com/i/web/status/972125489006563328"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972161208936693800,
+   "id_str": "972161208936693761",
+   "created_at": "Fri Mar 09 17:24:28 +0000 2018",
+   "text": "RT @SylvestreLedru: The Firefox preferences parser has been redeveloped using Rust instead of C++, more on Nicholas's blog https://t.co/uDr…",
+   "retweet_count": 48,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972040386532307000,
+    "id_str": "972040386532306944",
+    "created_at": "Fri Mar 09 09:24:22 +0000 2018",
+    "text": "The Firefox preferences parser has been redeveloped using Rust instead of C++, more on Nicholas's blog https://t.co/uDraKgDMvB",
+    "retweet_count": 48,
+    "favorite_count": 137,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uDraKgDMvB",
+      "expand": "https://blog.mozilla.org/nnethercote/2018/03/09/a-new-preferences-parser-for-firefox/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972158133597548500,
+   "id_str": "972158133597548549",
+   "created_at": "Fri Mar 09 17:12:15 +0000 2018",
+   "text": "How could you easily organize your very own security CTF event? Here are some handy tips from @MozillaSecurity's Fi… https://t.co/fjxeS5w5Lp",
+   "retweet_count": 14,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fjxeS5w5Lp",
+     "expand": "https://twitter.com/i/web/status/972158133597548549"
+    }
+   ]
+  },
+  {
+   "id": 971866383834165200,
+   "id_str": "971866383834165248",
+   "created_at": "Thu Mar 08 21:52:56 +0000 2018",
+   "text": "Mozilla is taking on gender bias in code reviews with an add-on experiment that anonymizes pull requests -… https://t.co/l4W6DDHsuy",
+   "retweet_count": 34,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/l4W6DDHsuy",
+     "expand": "https://twitter.com/i/web/status/971866383834165248"
+    }
+   ]
+  },
+  {
+   "id": 971817837189877800,
+   "id_str": "971817837189877767",
+   "created_at": "Thu Mar 08 18:40:02 +0000 2018",
+   "text": "RT @mozilla: “At Mozilla, we’ve experienced that not only does it feel right to work with colleagues from diverse backgrounds, it actually…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971506798585962500,
+    "id_str": "971506798585962496",
+    "created_at": "Wed Mar 07 22:04:05 +0000 2018",
+    "text": "“At Mozilla, we’ve experienced that not only does it feel right to work with colleagues from diverse backgrounds, i… https://t.co/GOOzbCoWhX",
+    "retweet_count": 41,
+    "favorite_count": 81,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GOOzbCoWhX",
+      "expand": "https://twitter.com/i/web/status/971506798585962496"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971798815757004800,
+   "id_str": "971798815757004801",
+   "created_at": "Thu Mar 08 17:24:27 +0000 2018",
+   "text": "RT @RustFest: 🎉 Our first batch of std::tickets is available now 🎉\nhttps://t.co/IUjOWxFHI2",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IUjOWxFHI2",
+     "expand": "https://ti.to/asquera-event-ug/rustfest-paris-2018/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971667409475162100,
+    "id_str": "971667409475162113",
+    "created_at": "Thu Mar 08 08:42:17 +0000 2018",
+    "text": "🎉 Our first batch of std::tickets is available now 🎉\nhttps://t.co/IUjOWxFHI2",
+    "retweet_count": 25,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IUjOWxFHI2",
+      "expand": "https://ti.to/asquera-event-ug/rustfest-paris-2018/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971795820273127400,
+   "id_str": "971795820273127424",
+   "created_at": "Thu Mar 08 17:12:33 +0000 2018",
+   "text": "RT @MozDevNet: How do you write CSS that works in every browser? Rely on the error handling model of CSS itself: https://t.co/fk6GKEeT87 ht…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fk6GKEeT87",
+     "expand": "https://www.youtube.com/watch?v=NJjlzxud4_M"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971532207088111600,
+    "id_str": "971532207088111616",
+    "created_at": "Wed Mar 07 23:45:03 +0000 2018",
+    "text": "How do you write CSS that works in every browser? Rely on the error handling model of CSS itself:… https://t.co/wpYY6xIUuT",
+    "retweet_count": 19,
+    "favorite_count": 62,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wpYY6xIUuT",
+      "expand": "https://twitter.com/i/web/status/971532207088111616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971795171624063000,
+   "id_str": "971795171624062977",
+   "created_at": "Thu Mar 08 17:09:58 +0000 2018",
+   "text": "RT @pcwalton: Screenshots of Pathfinder rendering glyphs in Firefox. Coming along well :) https://t.co/HcEoSRSMpb",
+   "retweet_count": 44,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971475785616797700,
+    "id_str": "971475785616797698",
+    "created_at": "Wed Mar 07 20:00:51 +0000 2018",
+    "text": "Screenshots of Pathfinder rendering glyphs in Firefox. Coming along well :) https://t.co/HcEoSRSMpb",
+    "retweet_count": 44,
+    "favorite_count": 272,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 971486746042015700,
+   "id_str": "971486746042015744",
+   "created_at": "Wed Mar 07 20:44:24 +0000 2018",
+   "text": "RT @mikko: Tomorrow, I'll be speaking at the @Mozilla HQ in Mountain View, in their Monthly Speaker Series. Wednesday the 7th of March, 10a…",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971044579960029200,
+    "id_str": "971044579960029184",
+    "created_at": "Tue Mar 06 15:27:23 +0000 2018",
+    "text": "Tomorrow, I'll be speaking at the @Mozilla HQ in Mountain View, in their Monthly Speaker Series. Wednesday the 7th… https://t.co/bbag2OKJdV",
+    "retweet_count": 31,
+    "favorite_count": 70,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bbag2OKJdV",
+      "expand": "https://twitter.com/i/web/status/971044579960029184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971440522010259500,
+   "id_str": "971440522010259456",
+   "created_at": "Wed Mar 07 17:40:43 +0000 2018",
+   "text": "RT @randhindi: Because we love you, we just open sourced our core @snips NLU engine under an Apache2 license! It includes both a #python an…",
+   "retweet_count": 50,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971437867703685100,
+    "id_str": "971437867703685120",
+    "created_at": "Wed Mar 07 17:30:10 +0000 2018",
+    "text": "Because we love you, we just open sourced our core @snips NLU engine under an Apache2 license! It includes both a… https://t.co/EZDrtnwcEM",
+    "retweet_count": 50,
+    "favorite_count": 98,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EZDrtnwcEM",
+      "expand": "https://twitter.com/i/web/status/971437867703685120"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971432467734368300,
+   "id_str": "971432467734368259",
+   "created_at": "Wed Mar 07 17:08:43 +0000 2018",
+   "text": "RT @mozTechCFPs: 📢 The Grace Hopper Celebration 2018 CFP closes today!\n📆 September 26-28, Houston, TX 🇺🇸\nhttps://t.co/sRyP1J4aio",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/sRyP1J4aio",
+     "expand": "https://ghc.anitab.org/2018-speakers/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971375221348454400,
+    "id_str": "971375221348454400",
+    "created_at": "Wed Mar 07 13:21:14 +0000 2018",
+    "text": "📢 The Grace Hopper Celebration 2018 CFP closes today!\n📆 September 26-28, Houston, TX 🇺🇸\nhttps://t.co/sRyP1J4aio",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sRyP1J4aio",
+      "expand": "https://ghc.anitab.org/2018-speakers/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971432133406396400,
+   "id_str": "971432133406396417",
+   "created_at": "Wed Mar 07 17:07:23 +0000 2018",
+   "text": "RT @rustconf: The RustConf 2018 CFP is now open!\n\nhttps://t.co/Wu78IyDpDG\n\n#rustlang #rustconf",
+   "retweet_count": 40,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Wu78IyDpDG",
+     "expand": "https://cfp.rustconf.com/events/rustconf-2018"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968173242451083300,
+    "id_str": "968173242451083264",
+    "created_at": "Mon Feb 26 17:17:43 +0000 2018",
+    "text": "The RustConf 2018 CFP is now open!\n\nhttps://t.co/Wu78IyDpDG\n\n#rustlang #rustconf",
+    "retweet_count": 40,
+    "favorite_count": 47,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Wu78IyDpDG",
+      "expand": "https://cfp.rustconf.com/events/rustconf-2018"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971432088661577700,
+   "id_str": "971432088661577728",
+   "created_at": "Wed Mar 07 17:07:12 +0000 2018",
+   "text": "RT @RustFest: The CfP is open for another 10 days. Don't forget to submit your talk proposal and join us in Paris to talk about Rust!\n\nhttp…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971326185786544100,
+    "id_str": "971326185786544128",
+    "created_at": "Wed Mar 07 10:06:23 +0000 2018",
+    "text": "The CfP is open for another 10 days. Don't forget to submit your talk proposal and join us in Paris to talk about R… https://t.co/zAsKnXRGd1",
+    "retweet_count": 21,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zAsKnXRGd1",
+      "expand": "https://twitter.com/i/web/status/971326185786544128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971431800269656000,
+   "id_str": "971431800269656065",
+   "created_at": "Wed Mar 07 17:06:04 +0000 2018",
+   "text": "RT @jsconfeu: #12 Brittany Storoz’s (@brittanystoroz) “The Etymology of Programming”. Did you ever stop and wonder about where all our tech…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971296302213496800,
+    "id_str": "971296302213496832",
+    "created_at": "Wed Mar 07 08:07:38 +0000 2018",
+    "text": "#12 Brittany Storoz’s (@brittanystoroz) “The Etymology of Programming”. Did you ever stop and wonder about where al… https://t.co/koKPak6FpZ",
+    "retweet_count": 13,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": 971296298753253400,
+    "in_reply_to_status_id_str": "971296298753253376",
+    "in_reply_to_screen_name": "jsconfeu",
+    "urls": [
+     {
+      "url": "https://t.co/koKPak6FpZ",
+      "expand": "https://twitter.com/i/web/status/971296302213496832"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971430511661998100,
+   "id_str": "971430511661998081",
+   "created_at": "Wed Mar 07 17:00:56 +0000 2018",
+   "text": "RT @jensimmons: CSS Grid is one year old today. It shipped in Firefox 52 on March 7, 2017. By the end of the month, had shipped in Chrome,…",
+   "retweet_count": 467,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971422340142764000,
+    "id_str": "971422340142764033",
+    "created_at": "Wed Mar 07 16:28:28 +0000 2018",
+    "text": "CSS Grid is one year old today. It shipped in Firefox 52 on March 7, 2017. By the end of the month, had shipped in… https://t.co/giUJRSqNYE",
+    "retweet_count": 467,
+    "favorite_count": 1245,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/giUJRSqNYE",
+      "expand": "https://twitter.com/i/web/status/971422340142764033"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971429824186273800,
+   "id_str": "971429824186273792",
+   "created_at": "Wed Mar 07 16:58:13 +0000 2018",
+   "text": "Feeling empowered yet? Get set, create! Try and come up with something  medieval-themed, as you have still a few we… https://t.co/eFnzqHDJJt",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 971422222656180200,
+   "in_reply_to_status_id_str": "971422222656180224",
+   "in_reply_to_screen_name": "mozhacks",
+   "urls": [
+    {
+     "url": "https://t.co/eFnzqHDJJt",
+     "expand": "https://twitter.com/i/web/status/971429824186273792"
+    }
+   ]
+  },
+  {
+   "id": 971422222656180200,
+   "id_str": "971422222656180224",
+   "created_at": "Wed Mar 07 16:28:00 +0000 2018",
+   "text": "\"Not realistic\" also does not mean your game has to look &amp; sound dull, either! @aframevr is perfectly suited to pim… https://t.co/qg3aB6cdBi",
+   "retweet_count": 3,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 971420966147493900,
+   "in_reply_to_status_id_str": "971420966147493888",
+   "in_reply_to_screen_name": "mozhacks",
+   "urls": [
+    {
+     "url": "https://t.co/qg3aB6cdBi",
+     "expand": "https://twitter.com/i/web/status/971422222656180224"
+    }
+   ]
+  },
+  {
+   "id": 971420966147493900,
+   "id_str": "971420966147493888",
+   "created_at": "Wed Mar 07 16:23:01 +0000 2018",
+   "text": "Building something immersive does not necessarily mean it has to be realistic! @joshmarinacci in his two-part serie… https://t.co/xCHYTD6MwW",
+   "retweet_count": 7,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xCHYTD6MwW",
+     "expand": "https://twitter.com/i/web/status/971420966147493888"
+    }
+   ]
+  },
+  {
+   "id": 971076768831549400,
+   "id_str": "971076768831549440",
+   "created_at": "Tue Mar 06 17:35:18 +0000 2018",
+   "text": "(...and did you know you could already try AV1 in @FirefoxNightly?) https://t.co/ZoEt9XKSAF",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 971076471811952600,
+   "in_reply_to_status_id_str": "971076471811952640",
+   "in_reply_to_screen_name": "mozhacks",
+   "urls": [
+    {
+     "url": "https://t.co/ZoEt9XKSAF",
+     "expand": "https://twitter.com/mozhacks/status/935533896061673479"
+    }
+   ]
+  },
+  {
+   "id": 971076471811952600,
+   "id_str": "971076471811952640",
+   "created_at": "Tue Mar 06 17:34:07 +0000 2018",
+   "text": "A completely royalty-free video codec for streaming and the web backed by practically *all* major players!? It's no… https://t.co/t13A0lLCCX",
+   "retweet_count": 29,
+   "favorite_count": 42,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/t13A0lLCCX",
+     "expand": "https://twitter.com/i/web/status/971076471811952640"
+    }
+   ]
+  },
+  {
+   "id": 971076015056400400,
+   "id_str": "971076015056400385",
+   "created_at": "Tue Mar 06 17:32:18 +0000 2018",
+   "text": "RT @mozTechSpeakers: Our previous TechSpeakers Tech Briefing is now online! Catch @hj_chen spilling some A+ #CSSGrid layout tips in this ex…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971063002031099900,
+    "id_str": "971063002031099904",
+    "created_at": "Tue Mar 06 16:40:35 +0000 2018",
+    "text": "Our previous TechSpeakers Tech Briefing is now online! Catch @hj_chen spilling some A+ #CSSGrid layout tips in this… https://t.co/Nj6zFhTgcO",
+    "retweet_count": 10,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Nj6zFhTgcO",
+      "expand": "https://twitter.com/i/web/status/971063002031099904"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971045145889079300,
+   "id_str": "971045145889079296",
+   "created_at": "Tue Mar 06 15:29:38 +0000 2018",
+   "text": "RT @bharatramnani94: Woah, I didn't know `margin: auto` worked vertically as well, using #flexbox. I almost always used `justify-content` a…",
+   "retweet_count": 163,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970906365056053200,
+    "id_str": "970906365056053249",
+    "created_at": "Tue Mar 06 06:18:10 +0000 2018",
+    "text": "Woah, I didn't know `margin: auto` worked vertically as well, using #flexbox. I almost always used `justify-content… https://t.co/EjTiZokue8",
+    "retweet_count": 163,
+    "favorite_count": 676,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EjTiZokue8",
+      "expand": "https://twitter.com/i/web/status/970906365056053249"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971044420891086800,
+   "id_str": "971044420891086848",
+   "created_at": "Tue Mar 06 15:26:45 +0000 2018",
+   "text": "RT @jensimmons: Today marked the publication of the 20th Layout Land video (with 9 more to come in Season 1). For those of you who'd like t…",
+   "retweet_count": 71,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969710027387916300,
+    "id_str": "969710027387916289",
+    "created_at": "Fri Mar 02 23:04:21 +0000 2018",
+    "text": "Today marked the publication of the 20th Layout Land video (with 9 more to come in Season 1). For those of you who'… https://t.co/aUiSuqd1Cu",
+    "retweet_count": 71,
+    "favorite_count": 244,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aUiSuqd1Cu",
+      "expand": "https://twitter.com/i/web/status/969710027387916289"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970945015018082300,
+   "id_str": "970945015018082305",
+   "created_at": "Tue Mar 06 08:51:45 +0000 2018",
+   "text": "RT @hj_chen: the Resilient CSS video series is complete and here's the playlist:\nhttps://t.co/47Gt3OXpM6\nthe most useful series of videos o…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/47Gt3OXpM6",
+     "expand": "https://www.youtube.com/watch?v=u00FY9vADfQ&list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969541200632979500,
+    "id_str": "969541200632979456",
+    "created_at": "Fri Mar 02 11:53:30 +0000 2018",
+    "text": "the Resilient CSS video series is complete and here's the playlist:\nhttps://t.co/47Gt3OXpM6\nthe most useful series… https://t.co/wl4L7jzLra",
+    "retweet_count": 39,
+    "favorite_count": 138,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/47Gt3OXpM6",
+      "expand": "https://www.youtube.com/watch?v=u00FY9vADfQ&list=PLbSquHt1VCf1kpv9WRGMCA9_Nn4vCLZ9Y"
+     },
+     {
+      "url": "https://t.co/wl4L7jzLra",
+      "expand": "https://twitter.com/i/web/status/969541200632979456"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970854502558502900,
+   "id_str": "970854502558502912",
+   "created_at": "Tue Mar 06 02:52:05 +0000 2018",
+   "text": "RT @MozillaIoT: Want to benefit from FOSS sw on your IoT design? Experience Mozilla Project Things at this event -- demo and workshop -- te…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970841958628208600,
+    "id_str": "970841958628208640",
+    "created_at": "Tue Mar 06 02:02:14 +0000 2018",
+    "text": "Want to benefit from FOSS sw on your IoT design? Experience Mozilla Project Things at this event -- demo and worksh… https://t.co/hGyNBJYu77",
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hGyNBJYu77",
+      "expand": "https://twitter.com/i/web/status/970841958628208640"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970854391057190900,
+   "id_str": "970854391057190912",
+   "created_at": "Tue Mar 06 02:51:39 +0000 2018",
+   "text": "RT @mgattozzi: The @rustlang 2018 Roadmap RFC just got merged! Great job @aaron_turon for synthesizing all of the community feedback into i…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970779080156205000,
+    "id_str": "970779080156205056",
+    "created_at": "Mon Mar 05 21:52:23 +0000 2018",
+    "text": "The @rustlang 2018 Roadmap RFC just got merged! Great job @aaron_turon for synthesizing all of the community feedba… https://t.co/AYsFBndjtU",
+    "retweet_count": 22,
+    "favorite_count": 46,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AYsFBndjtU",
+      "expand": "https://twitter.com/i/web/status/970779080156205056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970720072003194900,
+   "id_str": "970720072003194880",
+   "created_at": "Mon Mar 05 17:57:54 +0000 2018",
+   "text": "RT @mozillareality: Get ready for #WebVR @SteamVR support on #macos in @firefox 60. @kearwoodgilbert &amp; team are planning to bring it to all…",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969992297206120400,
+    "id_str": "969992297206120453",
+    "created_at": "Sat Mar 03 17:45:59 +0000 2018",
+    "text": "Get ready for #WebVR @SteamVR support on #macos in @firefox 60. @kearwoodgilbert &amp; team are planning to bring it to… https://t.co/8W52aesqgX",
+    "retweet_count": 31,
+    "favorite_count": 68,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8W52aesqgX",
+      "expand": "https://twitter.com/i/web/status/969992297206120453"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970719088623439900,
+   "id_str": "970719088623439872",
+   "created_at": "Mon Mar 05 17:54:00 +0000 2018",
+   "text": "RT @FirefoxNightly: WebRender newsletter #15 https://t.co/iGmPQiseTI",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iGmPQiseTI",
+     "expand": "https://mozillagfx.wordpress.com/2018/03/05/webrender-newsletter-15/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970689545606959100,
+    "id_str": "970689545606959104",
+    "created_at": "Mon Mar 05 15:56:36 +0000 2018",
+    "text": "WebRender newsletter #15 https://t.co/iGmPQiseTI",
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iGmPQiseTI",
+      "expand": "https://mozillagfx.wordpress.com/2018/03/05/webrender-newsletter-15/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970689746740461600,
+   "id_str": "970689746740461570",
+   "created_at": "Mon Mar 05 15:57:24 +0000 2018",
+   "text": "RT @freshelectrons: Hello lazyweb, please help: If you are the editor of a (tech) blog or online magazine, describe what you do. Here's min…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970507484950446100,
+    "id_str": "970507484950446085",
+    "created_at": "Mon Mar 05 03:53:10 +0000 2018",
+    "text": "Hello lazyweb, please help: If you are the editor of a (tech) blog or online magazine, describe what you do. Here's… https://t.co/HYSt8ZDJZP",
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HYSt8ZDJZP",
+      "expand": "https://twitter.com/i/web/status/970507484950446085"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970689648803553300,
+   "id_str": "970689648803553291",
+   "created_at": "Mon Mar 05 15:57:01 +0000 2018",
+   "text": "RT @jensimmons: Gosh, I love it that people are submitting translations of the captions for Layout Land videos. You can now watch https://t…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970651413851332600,
+    "id_str": "970651413851332608",
+    "created_at": "Mon Mar 05 13:25:05 +0000 2018",
+    "text": "Gosh, I love it that people are submitting translations of the captions for Layout Land videos. You can now watch… https://t.co/aq4oixr9NH",
+    "retweet_count": 18,
+    "favorite_count": 138,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aq4oixr9NH",
+      "expand": "https://twitter.com/i/web/status/970651413851332608"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970689204152758300,
+   "id_str": "970689204152758273",
+   "created_at": "Mon Mar 05 15:55:15 +0000 2018",
+   "text": "Last week @jensimmons dedicated an entire week to Writing CSS That Works in Every Browser (even in those very old o… https://t.co/SNrE3F8TvI",
+   "retweet_count": 18,
+   "favorite_count": 41,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SNrE3F8TvI",
+     "expand": "https://twitter.com/i/web/status/970689204152758273"
+    }
+   ]
+  },
+  {
+   "id": 969566742073655300,
+   "id_str": "969566742073655296",
+   "created_at": "Fri Mar 02 13:34:59 +0000 2018",
+   "text": "RT @slsoftworks: “Integrating a brand new CSS engine into a browser is somewhat like doing open heart surgery—on a person who's still consc…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969562475447242800,
+    "id_str": "969562475447242752",
+    "created_at": "Fri Mar 02 13:18:02 +0000 2018",
+    "text": "“Integrating a brand new CSS engine into a browser is somewhat like doing open heart surgery—on a person who's stil… https://t.co/gbm0dnjTJ9",
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "place": "Ísland",
+    "in_reply_to_status_id": 969561579812356100,
+    "in_reply_to_status_id_str": "969561579812356097",
+    "in_reply_to_screen_name": "slsoftworks",
+    "urls": [
+     {
+      "url": "https://t.co/gbm0dnjTJ9",
+      "expand": "https://twitter.com/i/web/status/969562475447242752"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969566694275407900,
+   "id_str": "969566694275407872",
+   "created_at": "Fri Mar 02 13:34:48 +0000 2018",
+   "text": "When the world keeps changing around you your browser engine needs to change with it:\n@Teoli2003 presenting the sto… https://t.co/mZxFQA0MKN",
+   "retweet_count": 3,
+   "favorite_count": 14,
+   "place": "Ísland",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mZxFQA0MKN",
+     "expand": "https://twitter.com/i/web/status/969566694275407872"
+    }
+   ]
+  },
+  {
+   "id": 969251427167211500,
+   "id_str": "969251427167211520",
+   "created_at": "Thu Mar 01 16:42:02 +0000 2018",
+   "text": "RT @linclark: This write-up of WebAssembly startup time optimization for apps is 💯\n\n👏🏻 @giuseppegurgone \n\nhttps://t.co/VDU8Ur5AUe",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VDU8Ur5AUe",
+     "expand": "https://pspdfkit.com/blog/2018/optimize-webassembly-startup-performance/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968946440436318200,
+    "id_str": "968946440436318210",
+    "created_at": "Wed Feb 28 20:30:08 +0000 2018",
+    "text": "This write-up of WebAssembly startup time optimization for apps is 💯\n\n👏🏻 @giuseppegurgone \n\nhttps://t.co/VDU8Ur5AUe",
+    "retweet_count": 21,
+    "favorite_count": 86,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VDU8Ur5AUe",
+      "expand": "https://pspdfkit.com/blog/2018/optimize-webassembly-startup-performance/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969251333319651300,
+   "id_str": "969251333319651328",
+   "created_at": "Thu Mar 01 16:41:40 +0000 2018",
+   "text": "RT @jankeromnes: Exciting times! You can now build and contribute to the @RustLang compiler on https://t.co/O4NxiIFJCx in just a few clicks…",
+   "retweet_count": 23,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/O4NxiIFJCx",
+     "expand": "https://janitor.technology"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968908780808306700,
+    "id_str": "968908780808306689",
+    "created_at": "Wed Feb 28 18:00:29 +0000 2018",
+    "text": "Exciting times! You can now build and contribute to the @RustLang compiler on https://t.co/O4NxiIFJCx in just a few… https://t.co/6Ndp2Mv02m",
+    "retweet_count": 23,
+    "favorite_count": 78,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/O4NxiIFJCx",
+      "expand": "https://janitor.technology"
+     },
+     {
+      "url": "https://t.co/6Ndp2Mv02m",
+      "expand": "https://twitter.com/i/web/status/968908780808306689"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969202384298790900,
+   "id_str": "969202384298790913",
+   "created_at": "Thu Mar 01 13:27:09 +0000 2018",
+   "text": "RT @slsoftworks: To really understand the motivations behind @mozilla's Common Voice project, we need to take a trip down memory lane—aaaal…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969177997944205300,
+    "id_str": "969177997944205313",
+    "created_at": "Thu Mar 01 11:50:15 +0000 2018",
+    "text": "To really understand the motivations behind @mozilla's Common Voice project, we need to take a trip down memory lan… https://t.co/90hbmKw6jS",
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "place": "Ísland",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/90hbmKw6jS",
+      "expand": "https://twitter.com/i/web/status/969177997944205313"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969201747146297300,
+   "id_str": "969201747146297345",
+   "created_at": "Thu Mar 01 13:24:38 +0000 2018",
+   "text": "Reykjavík's sun-drenched harbor provides the perfect backdrop for brilliant conversations around diversity and incl… https://t.co/ORp1m5Y6TH",
+   "retweet_count": 7,
+   "favorite_count": 26,
+   "place": "Ísland",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ORp1m5Y6TH",
+     "expand": "https://twitter.com/i/web/status/969201747146297345"
+    }
+   ]
+  },
+  {
+   "id": 969087605068517400,
+   "id_str": "969087605068517376",
+   "created_at": "Thu Mar 01 05:51:04 +0000 2018",
+   "text": "RT @TatumCreative: Work in a distributed company? Here is how you can help the remotees, especially if you're in an office. RTs welcome.",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968862125404950500,
+    "id_str": "968862125404950529",
+    "created_at": "Wed Feb 28 14:55:05 +0000 2018",
+    "text": "Work in a distributed company? Here is how you can help the remotees, especially if you're in an office. RTs welcome.",
+    "retweet_count": 26,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969085767325835300,
+   "id_str": "969085767325835264",
+   "created_at": "Thu Mar 01 05:43:46 +0000 2018",
+   "text": "RT @tbiz: \"When I first built the Observatory @mozilla I had never imagined that it would see such widespread use. 6.6M scans across 2.3M u…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969079327022186500,
+    "id_str": "969079327022186496",
+    "created_at": "Thu Mar 01 05:18:10 +0000 2018",
+    "text": "\"When I first built the Observatory @mozilla I had never imagined that it would see such widespread use. 6.6M scans… https://t.co/Usxc24DOZI",
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Usxc24DOZI",
+      "expand": "https://twitter.com/i/web/status/969079327022186496"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968900453718200300,
+   "id_str": "968900453718200321",
+   "created_at": "Wed Feb 28 17:27:24 +0000 2018",
+   "text": "RT @japaricious: 🎉 Announcing the Embedded Devices Working Group 🎉\n\nLet's make 2018 the year of #embedded #rustlang ! \n\nhttps://t.co/r0HBAC…",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968532517639909400,
+    "id_str": "968532517639909377",
+    "created_at": "Tue Feb 27 17:05:21 +0000 2018",
+    "text": "🎉 Announcing the Embedded Devices Working Group 🎉\n\nLet's make 2018 the year of #embedded #rustlang ! \n\nhttps://t.co/r0HBACeuUk",
+    "retweet_count": 25,
+    "favorite_count": 65,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/r0HBACeuUk",
+      "expand": "https://internals.rust-lang.org/t/announcing-the-embedded-devices-working-group/6839/1"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968900358687903700,
+   "id_str": "968900358687903751",
+   "created_at": "Wed Feb 28 17:27:01 +0000 2018",
+   "text": "RT @MozDevNet: Give yourself a round of applause... and create a mini-rave! Build your  own clap-sensing web thing using Mozilla's new Thin…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968728559249485800,
+    "id_str": "968728559249485826",
+    "created_at": "Wed Feb 28 06:04:21 +0000 2018",
+    "text": "Give yourself a round of applause... and create a mini-rave! Build your  own clap-sensing web thing using Mozilla's… https://t.co/O3hFYIR4wJ",
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/O3hFYIR4wJ",
+      "expand": "https://twitter.com/i/web/status/968728559249485826"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968899542828625900,
+   "id_str": "968899542828625920",
+   "created_at": "Wed Feb 28 17:23:46 +0000 2018",
+   "text": "RT @jasonlaster11: The new @FirefoxDevTools Debugger steps right into original functions.\n\n🚶‍♂️🚶‍♀️🦊 https://t.co/QiONOis3gB",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968600189991817200,
+    "id_str": "968600189991817217",
+    "created_at": "Tue Feb 27 21:34:15 +0000 2018",
+    "text": "The new @FirefoxDevTools Debugger steps right into original functions.\n\n🚶‍♂️🚶‍♀️🦊 https://t.co/QiONOis3gB",
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": 968597155773648900,
+    "in_reply_to_status_id_str": "968597155773648896",
+    "in_reply_to_screen_name": "jasonlaster11",
+    "urls": []
+   }
+  },
+  {
+   "id": 968897611833970700,
+   "id_str": "968897611833970688",
+   "created_at": "Wed Feb 28 17:16:06 +0000 2018",
+   "text": "RT @fitzgen: Help wanted! Come join the Rust and WebAssembly domain working group!\n\nLet's make 🦀 + 🕸️ = 💖!\n\nhttps://t.co/W9rbk882jg",
+   "retweet_count": 55,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W9rbk882jg",
+     "expand": "http://fitzgeraldnick.com/2018/02/27/wasm-domain-working-group.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968567207268532200,
+    "id_str": "968567207268532224",
+    "created_at": "Tue Feb 27 19:23:11 +0000 2018",
+    "text": "Help wanted! Come join the Rust and WebAssembly domain working group!\n\nLet's make 🦀 + 🕸️ = 💖!\n\nhttps://t.co/W9rbk882jg",
+    "retweet_count": 55,
+    "favorite_count": 108,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/W9rbk882jg",
+      "expand": "http://fitzgeraldnick.com/2018/02/27/wasm-domain-working-group.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968897590162083800,
+   "id_str": "968897590162083841",
+   "created_at": "Wed Feb 28 17:16:01 +0000 2018",
+   "text": "RT @fernandojsg: I've just released an @aframevr component to pan, rotate and scale the user camera on #webvr, inspired by VR editors like…",
+   "retweet_count": 93,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968839714445975600,
+    "id_str": "968839714445975553",
+    "created_at": "Wed Feb 28 13:26:02 +0000 2018",
+    "text": "I've just released an @aframevr component to pan, rotate and scale the user camera on #webvr, inspired by VR editor… https://t.co/V7855cNP0F",
+    "retweet_count": 93,
+    "favorite_count": 281,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/V7855cNP0F",
+      "expand": "https://twitter.com/i/web/status/968839714445975553"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968897442346422300,
+   "id_str": "968897442346422272",
+   "created_at": "Wed Feb 28 17:15:26 +0000 2018",
+   "text": "RT @jensimmons: Today, I’ll show you how use to CSS Overrides to architect code that works in every browser at the same time: https://t.co/…",
+   "retweet_count": 70,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968720192653201400,
+    "id_str": "968720192653201408",
+    "created_at": "Wed Feb 28 05:31:06 +0000 2018",
+    "text": "Today, I’ll show you how use to CSS Overrides to architect code that works in every browser at the same time:… https://t.co/Ne8uHed6og",
+    "retweet_count": 70,
+    "favorite_count": 416,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ne8uHed6og",
+      "expand": "https://twitter.com/i/web/status/968720192653201408"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968615246649790500,
+   "id_str": "968615246649790465",
+   "created_at": "Tue Feb 27 22:34:05 +0000 2018",
+   "text": "RT @potch: CSS can feel like a trade-off between shiny new tech and supporting the most users possible. But it doesn't have to!\n\nCheck out…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968163658147668000,
+    "id_str": "968163658147667970",
+    "created_at": "Mon Feb 26 16:39:38 +0000 2018",
+    "text": "CSS can feel like a trade-off between shiny new tech and supporting the most users possible. But it doesn't have to… https://t.co/V2nUzcy8BB",
+    "retweet_count": 12,
+    "favorite_count": 35,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/V2nUzcy8BB",
+      "expand": "https://twitter.com/i/web/status/968163658147667970"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968615129196761100,
+   "id_str": "968615129196761089",
+   "created_at": "Tue Feb 27 22:33:37 +0000 2018",
+   "text": "RT @jensimmons: Mozilla is looking for a product manager to help lead &amp; design the future of what it means to use a search bar / address ba…",
+   "retweet_count": 52,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968213548949295100,
+    "id_str": "968213548949295104",
+    "created_at": "Mon Feb 26 19:57:53 +0000 2018",
+    "text": "Mozilla is looking for a product manager to help lead &amp; design the future of what it means to use a search bar / ad… https://t.co/FEKbUL8IG3",
+    "retweet_count": 52,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FEKbUL8IG3",
+      "expand": "https://twitter.com/i/web/status/968213548949295104"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968614618636652500,
+   "id_str": "968614618636652544",
+   "created_at": "Tue Feb 27 22:31:35 +0000 2018",
+   "text": "RT @jensimmons: A terrific intro to our new Layout including CSS Grid, a presentation by @hj_chen https://t.co/tUuYCSTk1q",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tUuYCSTk1q",
+     "expand": "https://twitter.com/engineersftw/status/968338906474217473"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968480705037721600,
+    "id_str": "968480705037721600",
+    "created_at": "Tue Feb 27 13:39:28 +0000 2018",
+    "text": "A terrific intro to our new Layout including CSS Grid, a presentation by @hj_chen https://t.co/tUuYCSTk1q",
+    "retweet_count": 8,
+    "favorite_count": 48,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/tUuYCSTk1q",
+      "expand": "https://twitter.com/engineersftw/status/968338906474217473"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968610119243173900,
+   "id_str": "968610119243173890",
+   "created_at": "Tue Feb 27 22:13:42 +0000 2018",
+   "text": "RT @mozilla: Calling all Makers! Mozilla’s Global Sprint is a fun, two-day hackathon, where engineers, artists, scientists, &amp; many others c…",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968607685628309500,
+    "id_str": "968607685628309504",
+    "created_at": "Tue Feb 27 22:04:02 +0000 2018",
+    "text": "Calling all Makers! Mozilla’s Global Sprint is a fun, two-day hackathon, where engineers, artists, scientists, &amp; ma… https://t.co/Erk7uqwyoo",
+    "retweet_count": 31,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Erk7uqwyoo",
+      "expand": "https://twitter.com/i/web/status/968607685628309504"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968535478608826400,
+   "id_str": "968535478608826369",
+   "created_at": "Tue Feb 27 17:17:07 +0000 2018",
+   "text": "RT @ServoDev: Good news, Servo enthusiasts - weekly updates are back! This week, text input controls become more conformant, and WebRender…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968160298451349500,
+    "id_str": "968160298451349504",
+    "created_at": "Mon Feb 26 16:26:17 +0000 2018",
+    "text": "Good news, Servo enthusiasts - weekly updates are back! This week, text input controls become more conformant, and… https://t.co/2vpy8NrYS9",
+    "retweet_count": 16,
+    "favorite_count": 46,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2vpy8NrYS9",
+      "expand": "https://twitter.com/i/web/status/968160298451349504"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968535350938427400,
+   "id_str": "968535350938427392",
+   "created_at": "Tue Feb 27 17:16:36 +0000 2018",
+   "text": "RT @fredric_: we created a small @aframevr #3dio showcase that allows you to create your own unique #isometricroom in seconds and thanks to…",
+   "retweet_count": 52,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968509685753106400,
+    "id_str": "968509685753106439",
+    "created_at": "Tue Feb 27 15:34:37 +0000 2018",
+    "text": "we created a small @aframevr #3dio showcase that allows you to create your own unique #isometricroom in seconds and… https://t.co/jVdxx21EXg",
+    "retweet_count": 52,
+    "favorite_count": 149,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jVdxx21EXg",
+      "expand": "https://twitter.com/i/web/status/968509685753106439"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968515759264673800,
+   "id_str": "968515759264673797",
+   "created_at": "Tue Feb 27 15:58:45 +0000 2018",
+   "text": "RT @slsoftworks: JSCONF ICELAND HAS A LIVE STREAM! 🤯\n\n📺 Tune in on Thursday/Friday later this week! https://t.co/GLClKjZvSt",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GLClKjZvSt",
+     "expand": "https://twitter.com/jsconfis/status/968192130240872448"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968427702666571800,
+    "id_str": "968427702666571776",
+    "created_at": "Tue Feb 27 10:08:51 +0000 2018",
+    "text": "JSCONF ICELAND HAS A LIVE STREAM! 🤯\n\n📺 Tune in on Thursday/Friday later this week! https://t.co/GLClKjZvSt",
+    "retweet_count": 4,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GLClKjZvSt",
+      "expand": "https://twitter.com/jsconfis/status/968192130240872448"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968515724196053000,
+   "id_str": "968515724196052994",
+   "created_at": "Tue Feb 27 15:58:37 +0000 2018",
+   "text": "RT @web_rebels: 🚨 \nWe reopened our CfP because of the confusion we caused with the deadline, you have another couple of days to submit unti…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968048350749655000,
+    "id_str": "968048350749655040",
+    "created_at": "Mon Feb 26 09:01:26 +0000 2018",
+    "text": "🚨 \nWe reopened our CfP because of the confusion we caused with the deadline, you have another couple of days to sub… https://t.co/yBdebBsYMZ",
+    "retweet_count": 18,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yBdebBsYMZ",
+      "expand": "https://twitter.com/i/web/status/968048350749655040"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968515569417846800,
+   "id_str": "968515569417846784",
+   "created_at": "Tue Feb 27 15:58:00 +0000 2018",
+   "text": "RT @jensimmons: To write CSS that works in every browser at the same time, you want to use the way a browser handle errors to your advantag…",
+   "retweet_count": 168,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968357795501363200,
+    "id_str": "968357795501363200",
+    "created_at": "Tue Feb 27 05:31:04 +0000 2018",
+    "text": "To write CSS that works in every browser at the same time, you want to use the way a browser handle errors to your… https://t.co/SULb347ngQ",
+    "retweet_count": 168,
+    "favorite_count": 686,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SULb347ngQ",
+      "expand": "https://twitter.com/i/web/status/968357795501363200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968515454640603100,
+   "id_str": "968515454640603136",
+   "created_at": "Tue Feb 27 15:57:33 +0000 2018",
+   "text": "RT @fitzgen: Speed ⚡ Without Wizardry 🚫🧙\n\nAn update to Rust and WebAssembly in the `source-map` library.\n\nhttps://t.co/946yxWRMtY",
+   "retweet_count": 53,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/946yxWRMtY",
+     "expand": "http://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968146167132389400,
+    "id_str": "968146167132389376",
+    "created_at": "Mon Feb 26 15:30:08 +0000 2018",
+    "text": "Speed ⚡ Without Wizardry 🚫🧙\n\nAn update to Rust and WebAssembly in the `source-map` library.\n\nhttps://t.co/946yxWRMtY",
+    "retweet_count": 53,
+    "favorite_count": 88,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/946yxWRMtY",
+      "expand": "http://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968427960226209800,
+   "id_str": "968427960226209797",
+   "created_at": "Tue Feb 27 10:09:52 +0000 2018",
+   "text": "RT @mikehenrty: Hi friends, who's joining me at @jsconfis this week? I'm already inspired just thinking about the amazing talks and kind pe…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968186036785475600,
+    "id_str": "968186036785475585",
+    "created_at": "Mon Feb 26 18:08:33 +0000 2018",
+    "text": "Hi friends, who's joining me at @jsconfis this week? I'm already inspired just thinking about the amazing talks and… https://t.co/VlymvtdXZg",
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VlymvtdXZg",
+      "expand": "https://twitter.com/i/web/status/968186036785475585"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968427772166246400,
+   "id_str": "968427772166246400",
+   "created_at": "Tue Feb 27 10:09:08 +0000 2018",
+   "text": "RT @jsconfis: Join us in the diversity and inclusion panel on Thursday during the lunch break! https://t.co/rLmlyK1JSa https://t.co/oMNMuHy…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rLmlyK1JSa",
+     "expand": "https://www.facebook.com/events/1722269197836249/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967762628763422700,
+    "id_str": "967762628763422720",
+    "created_at": "Sun Feb 25 14:06:05 +0000 2018",
+    "text": "Join us in the diversity and inclusion panel on Thursday during the lunch break! https://t.co/rLmlyK1JSa https://t.co/oMNMuHydaG",
+    "retweet_count": 9,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rLmlyK1JSa",
+      "expand": "https://www.facebook.com/events/1722269197836249/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968165317242511400,
+   "id_str": "968165317242511360",
+   "created_at": "Mon Feb 26 16:46:13 +0000 2018",
+   "text": "Make sure all your designs give visitors a chance to experience the web's Amazing Future today—by writing resilient… https://t.co/OVIe8zWW35",
+   "retweet_count": 7,
+   "favorite_count": 22,
+   "place": "Ísland",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OVIe8zWW35",
+     "expand": "https://twitter.com/i/web/status/968165317242511360"
+    }
+   ]
+  },
+  {
+   "id": 967093344940773400,
+   "id_str": "967093344940773376",
+   "created_at": "Fri Feb 23 17:46:35 +0000 2018",
+   "text": "RT @alexandereardon: As a part of @Atlassian #ShipIt41 @seancurtis @britmerlot and I worked on \"Drag and drop for the visually impaired\" wh…",
+   "retweet_count": 58,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966879586217701400,
+    "id_str": "966879586217701379",
+    "created_at": "Fri Feb 23 03:37:11 +0000 2018",
+    "text": "As a part of @Atlassian #ShipIt41 @seancurtis @britmerlot and I worked on \"Drag and drop for the visually impaired\"… https://t.co/2Cop9iC83y",
+    "retweet_count": 58,
+    "favorite_count": 208,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2Cop9iC83y",
+      "expand": "https://twitter.com/i/web/status/966879586217701379"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967093085565055000,
+   "id_str": "967093085565054976",
+   "created_at": "Fri Feb 23 17:45:33 +0000 2018",
+   "text": "RT @johnregan3: Vertical Responsiveness in #Webdesign?  @jensimmons is out of control with this whole #cssgrid thing.\nhttps://t.co/TOKS6rBM…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966768234245558300,
+    "id_str": "966768234245558272",
+    "created_at": "Thu Feb 22 20:14:43 +0000 2018",
+    "text": "Vertical Responsiveness in #Webdesign?  @jensimmons is out of control with this whole #cssgrid thing.… https://t.co/GkI4iwubWw",
+    "retweet_count": 9,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GkI4iwubWw",
+      "expand": "https://twitter.com/i/web/status/966768234245558272"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967090248546181100,
+   "id_str": "967090248546181126",
+   "created_at": "Fri Feb 23 17:34:17 +0000 2018",
+   "text": "RT @patrickbrosset: Trying to make the devtools-highlighter extension chrome-compatible.\nSo I just filed a bunch of easy-ish issues here: h…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966958101957050400,
+    "id_str": "966958101957050368",
+    "created_at": "Fri Feb 23 08:49:11 +0000 2018",
+    "text": "Trying to make the devtools-highlighter extension chrome-compatible.\nSo I just filed a bunch of easy-ish issues her… https://t.co/sBJt8OXLUj",
+    "retweet_count": 9,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sBJt8OXLUj",
+      "expand": "https://twitter.com/i/web/status/966958101957050368"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967076999356436500,
+   "id_str": "967076999356436480",
+   "created_at": "Fri Feb 23 16:41:38 +0000 2018",
+   "text": "RT @tschneidereit: I'm a bit late on this, but this post on FOSS maintainership by @fitzgen is a great read: https://t.co/DHQMJxLbXy",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DHQMJxLbXy",
+     "expand": "http://fitzgeraldnick.com/2018/01/30/foss-maintenance-stress.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966288117979340800,
+    "id_str": "966288117979340802",
+    "created_at": "Wed Feb 21 12:26:54 +0000 2018",
+    "text": "I'm a bit late on this, but this post on FOSS maintainership by @fitzgen is a great read: https://t.co/DHQMJxLbXy",
+    "retweet_count": 3,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DHQMJxLbXy",
+      "expand": "http://fitzgeraldnick.com/2018/01/30/foss-maintenance-stress.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967075471455375400,
+   "id_str": "967075471455375361",
+   "created_at": "Fri Feb 23 16:35:34 +0000 2018",
+   "text": "RT @fernandojsg: Excited to see @glTF3D support on facebook! Hopefully we will get fully 2.0 support so we could use @aframevr and #threejs…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966478597094543400,
+    "id_str": "966478597094543361",
+    "created_at": "Thu Feb 22 01:03:48 +0000 2018",
+    "text": "Excited to see @glTF3D support on facebook! Hopefully we will get fully 2.0 support so we could use @aframevr and… https://t.co/xNRHLBSui3",
+    "retweet_count": 21,
+    "favorite_count": 51,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xNRHLBSui3",
+      "expand": "https://twitter.com/i/web/status/966478597094543361"
      }
     ]
    }

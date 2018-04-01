@@ -1,6 +1,2042 @@
 {
- "time": 1519367440304,
+ "time": 1522595226239,
  "lists": [
+  {
+   "id": 980435505186836500,
+   "id_str": "980435505186836485",
+   "created_at": "Sun Apr 01 13:23:34 +0000 2018",
+   "text": "@JoshWComeau @mxstbr Ive written similar thing lately to transform this in compile time https://t.co/aFi9C0aeXw",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 980049490202845200,
+   "in_reply_to_status_id_str": "980049490202845184",
+   "in_reply_to_screen_name": "JoshWComeau",
+   "urls": [
+    {
+     "url": "https://t.co/aFi9C0aeXw",
+     "expand": "https://github.com/Andarist/babel-plugin-jsx-adopt"
+    }
+   ]
+  },
+  {
+   "id": 979842653549465600,
+   "id_str": "979842653549465606",
+   "created_at": "Fri Mar 30 22:07:47 +0000 2018",
+   "text": "@acdlite Sure thing",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979842344810926100,
+   "in_reply_to_status_id_str": "979842344810926080",
+   "in_reply_to_screen_name": "acdlite",
+   "urls": []
+  },
+  {
+   "id": 979835281871441900,
+   "id_str": "979835281871441920",
+   "created_at": "Fri Mar 30 21:38:30 +0000 2018",
+   "text": "@acdlite do u consider adding builtin useContext? I've also noticed smth now - are Provider.context and Consumer.Co… https://t.co/GVHiRaapZ2",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979738195884675100,
+   "in_reply_to_status_id_str": "979738195884675072",
+   "in_reply_to_screen_name": "acdlite",
+   "urls": [
+    {
+     "url": "https://t.co/GVHiRaapZ2",
+     "expand": "https://twitter.com/i/web/status/979835281871441920"
+    }
+   ]
+  },
+  {
+   "id": 979739575642927100,
+   "id_str": "979739575642927104",
+   "created_at": "Fri Mar 30 15:18:12 +0000 2018",
+   "text": "@JanryWang @lastmjs @timdorr hah, thought creating this! just hadnt time yet, nice 👏 gonna look into it later today",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979690886786355200,
+   "in_reply_to_status_id_str": "979690886786355201",
+   "in_reply_to_screen_name": "JanryWang",
+   "urls": []
+  },
+  {
+   "id": 978938920556728300,
+   "id_str": "978938920556728320",
+   "created_at": "Wed Mar 28 10:16:41 +0000 2018",
+   "text": "@erikras @acemarke not possible, without hacking it's possible only through middleware or other store enhancer (any… https://t.co/UtpGDufEVf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978934445809045500,
+   "in_reply_to_status_id_str": "978934445809045504",
+   "in_reply_to_screen_name": "erikras",
+   "urls": [
+    {
+     "url": "https://t.co/UtpGDufEVf",
+     "expand": "https://twitter.com/i/web/status/978938920556728320"
+    }
+   ]
+  },
+  {
+   "id": 978697006095962100,
+   "id_str": "978697006095962114",
+   "created_at": "Tue Mar 27 18:15:24 +0000 2018",
+   "text": "@erikras Preparing a small PR to RFF just now, I'm pretty sure you will like it 😉",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978696294087708700,
+   "in_reply_to_status_id_str": "978696294087708672",
+   "in_reply_to_screen_name": "erikras",
+   "urls": []
+  },
+  {
+   "id": 978696150130806800,
+   "id_str": "978696150130806785",
+   "created_at": "Tue Mar 27 18:12:00 +0000 2018",
+   "text": "@erikras i've just reported slight problem with RFF via survey, only to read the docs once again and realize you go… https://t.co/fkttRtGasD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "erikras",
+   "urls": [
+    {
+     "url": "https://t.co/fkttRtGasD",
+     "expand": "https://twitter.com/i/web/status/978696150130806785"
+    }
+   ]
+  },
+  {
+   "id": 978554466382352400,
+   "id_str": "978554466382352387",
+   "created_at": "Tue Mar 27 08:49:00 +0000 2018",
+   "text": "@diegohaz @0xsven about the indentation problem, u might be interested in https://t.co/aFi9C0aeXw , although still… https://t.co/3EHNOHvphU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978346469181788200,
+   "in_reply_to_status_id_str": "978346469181788162",
+   "in_reply_to_screen_name": "diegohaz",
+   "urls": [
+    {
+     "url": "https://t.co/aFi9C0aeXw",
+     "expand": "https://github.com/Andarist/babel-plugin-jsx-adopt"
+    },
+    {
+     "url": "https://t.co/3EHNOHvphU",
+     "expand": "https://twitter.com/i/web/status/978554466382352387"
+    }
+   ]
+  },
+  {
+   "id": 978209000004177900,
+   "id_str": "978209000004177921",
+   "created_at": "Mon Mar 26 09:56:14 +0000 2018",
+   "text": "@thymikee @SBekkhus it seems that jsdom is wrapping timers, but looking at the implementation it doesnt do any cust… https://t.co/bo8dEce4f3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978206684589051900,
+   "in_reply_to_status_id_str": "978206684589051904",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/bo8dEce4f3",
+     "expand": "https://twitter.com/i/web/status/978209000004177921"
+    }
+   ]
+  },
+  {
+   "id": 978206684589051900,
+   "id_str": "978206684589051904",
+   "created_at": "Mon Mar 26 09:47:02 +0000 2018",
+   "text": "@thymikee @SBekkhus hm, gonna investigate this then, but it's a fresh &amp; rly small project, didnt configure anything… https://t.co/8i1FRQe3Dh",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978206311354683400,
+   "in_reply_to_status_id_str": "978206311354683393",
+   "in_reply_to_screen_name": "thymikee",
+   "urls": [
+    {
+     "url": "https://t.co/8i1FRQe3Dh",
+     "expand": "https://twitter.com/i/web/status/978206684589051904"
+    }
+   ]
+  },
+  {
+   "id": 978194133952102400,
+   "id_str": "978194133952102401",
+   "created_at": "Mon Mar 26 08:57:10 +0000 2018",
+   "text": "@thymikee q about #jest - cant find in the docs, i find timers not reliable, any special reason for that? i know i… https://t.co/qkox20S5qf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "thymikee",
+   "urls": [
+    {
+     "url": "https://t.co/qkox20S5qf",
+     "expand": "https://twitter.com/i/web/status/978194133952102401"
+    }
+   ]
+  },
+  {
+   "id": 977860590671728600,
+   "id_str": "977860590671728641",
+   "created_at": "Sun Mar 25 10:51:47 +0000 2018",
+   "text": "@ws_ubi @RollupJS @babeljs General setting should be quite the same, only with something like rollup-plugin-typescr… https://t.co/5RBBIHNX6m",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977796222055411700,
+   "in_reply_to_status_id_str": "977796222055411713",
+   "in_reply_to_screen_name": "ws_ubi",
+   "urls": [
+    {
+     "url": "https://t.co/5RBBIHNX6m",
+     "expand": "https://twitter.com/i/web/status/977860590671728641"
+    }
+   ]
+  },
+  {
+   "id": 977609763151327200,
+   "id_str": "977609763151327232",
+   "created_at": "Sat Mar 24 18:15:05 +0000 2018",
+   "text": "@kentcdodds If they have created those PRs they are probably in need of those changes, so if they do not get merged… https://t.co/najoB4YTbd",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 977602099901943800,
+   "in_reply_to_status_id_str": "977602099901943808",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/najoB4YTbd",
+     "expand": "https://twitter.com/i/web/status/977609763151327232"
+    }
+   ]
+  },
+  {
+   "id": 976966138960711700,
+   "id_str": "976966138960711680",
+   "created_at": "Thu Mar 22 23:37:33 +0000 2018",
+   "text": "@probablyup So technically ideal situation (with tools available today) is - es with untouched inline checks, cjs c… https://t.co/VhFmpyZYz5",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976965527045275600,
+   "in_reply_to_status_id_str": "976965527045275650",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/VhFmpyZYz5",
+     "expand": "https://twitter.com/i/web/status/976966138960711680"
+    }
+   ]
+  },
+  {
+   "id": 976965527045275600,
+   "id_str": "976965527045275650",
+   "created_at": "Thu Mar 22 23:35:07 +0000 2018",
+   "text": "@probablyup + according to react team process reads are costful in node, so if u want to avoid that u can additiona… https://t.co/qJepQikYd2",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976964480574939100,
+   "in_reply_to_status_id_str": "976964480574939136",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/qJepQikYd2",
+     "expand": "https://twitter.com/i/web/status/976965527045275650"
+    }
+   ]
+  },
+  {
+   "id": 976964480574939100,
+   "id_str": "976964480574939136",
+   "created_at": "Thu Mar 22 23:30:57 +0000 2018",
+   "text": "@probablyup Which is probably what u already do in your source files if u want to flat bundle ur package with for 2 modes",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976964062289563600,
+   "in_reply_to_status_id_str": "976964062289563649",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 976964062289563600,
+   "id_str": "976964062289563649",
+   "created_at": "Thu Mar 22 23:29:18 +0000 2018",
+   "text": "@probablyup Yeah, u cannot conditionally import stuff, but whole requested module can be wrapped with env check and… https://t.co/bBBD9c1ZNT",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976963654980657200,
+   "in_reply_to_status_id_str": "976963654980657152",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/bBBD9c1ZNT",
+     "expand": "https://twitter.com/i/web/status/976964062289563649"
+    }
+   ]
+  },
+  {
+   "id": 976963654980657200,
+   "id_str": "976963654980657152",
+   "created_at": "Thu Mar 22 23:27:41 +0000 2018",
+   "text": "@probablyup What i mean is that when publishing do not replace process.env checks, leave them there for future replacement (when bundling)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976963027143741400,
+   "in_reply_to_status_id_str": "976963027143741440",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 976963027143741400,
+   "id_str": "976963027143741440",
+   "created_at": "Thu Mar 22 23:25:11 +0000 2018",
+   "text": "@probablyup Just branch logic locally, let webpack replace process.env with DefinePlugin as usual and dead branches… https://t.co/TJJdreEFCZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976962545360736300,
+   "in_reply_to_status_id_str": "976962545360736257",
+   "in_reply_to_screen_name": "probablyup",
+   "urls": [
+    {
+     "url": "https://t.co/TJJdreEFCZ",
+     "expand": "https://twitter.com/i/web/status/976963027143741440"
+    }
+   ]
+  },
+  {
+   "id": 976961984309719000,
+   "id_str": "976961984309719040",
+   "created_at": "Thu Mar 22 23:21:02 +0000 2018",
+   "text": "@probablyup I agree though that this might not be intuitive, there are so many pitfalls when it comes to publishing… https://t.co/6B6WTEGpNB",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976961649990099000,
+   "in_reply_to_status_id_str": "976961649990098945",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/6B6WTEGpNB",
+     "expand": "https://twitter.com/i/web/status/976961984309719040"
+    }
+   ]
+  },
+  {
+   "id": 976961649990099000,
+   "id_str": "976961649990098945",
+   "created_at": "Thu Mar 22 23:19:43 +0000 2018",
+   "text": "@probablyup Why not „just” use process.env.NODE_ENV checks inline instead of wrapping both dev and prod outputs with conditional require?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976683296947130400,
+   "in_reply_to_status_id_str": "976683296947130368",
+   "in_reply_to_screen_name": "probablyup",
+   "urls": []
+  },
+  {
+   "id": 976409715696685000,
+   "id_str": "976409715696685056",
+   "created_at": "Wed Mar 21 10:46:31 +0000 2018",
+   "text": "RT @mgechev: Excited to share my most recent research! 🔬 Applying Machine-Learning with @GoogleAnalytics data for *faster* @Angular &amp; @Reac…",
+   "retweet_count": 471,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976120561070846000,
+    "id_str": "976120561070845959",
+    "created_at": "Tue Mar 20 15:37:31 +0000 2018",
+    "text": "Excited to share my most recent research! 🔬 Applying Machine-Learning with @GoogleAnalytics data for *faster*… https://t.co/wPtUBiq6up",
+    "retweet_count": 471,
+    "favorite_count": 1070,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wPtUBiq6up",
+      "expand": "https://twitter.com/i/web/status/976120561070845959"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976205097628729300,
+   "id_str": "976205097628729344",
+   "created_at": "Tue Mar 20 21:13:26 +0000 2018",
+   "text": "@bmeurer Actually it is pretty useful to pass it any value for me, i wouldnt mind wrapping them with Promise.resolv… https://t.co/qTMlRGgAJZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976179569656057900,
+   "in_reply_to_status_id_str": "976179569656057856",
+   "in_reply_to_screen_name": "bmeurer",
+   "urls": [
+    {
+     "url": "https://t.co/qTMlRGgAJZ",
+     "expand": "https://twitter.com/i/web/status/976205097628729344"
+    }
+   ]
+  },
+  {
+   "id": 976140315563143200,
+   "id_str": "976140315563143168",
+   "created_at": "Tue Mar 20 16:56:01 +0000 2018",
+   "text": "@kentcdodds done https://t.co/PNtUcQSc2K",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976126959821324300,
+   "in_reply_to_status_id_str": "976126959821324289",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/PNtUcQSc2K",
+     "expand": "https://github.com/paypal/downshift/issues/380"
+    }
+   ]
+  },
+  {
+   "id": 976114010176270300,
+   "id_str": "976114010176270336",
+   "created_at": "Tue Mar 20 15:11:30 +0000 2018",
+   "text": "@kentcdodds Cool! Cant check it right now if uve already done it but - dont forget to remove .default property assi… https://t.co/PxOl4lTU4p",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976111376962699300,
+   "in_reply_to_status_id_str": "976111376962699264",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/PxOl4lTU4p",
+     "expand": "https://twitter.com/i/web/status/976114010176270336"
+    }
+   ]
+  },
+  {
+   "id": 975856978667954200,
+   "id_str": "975856978667954177",
+   "created_at": "Mon Mar 19 22:10:08 +0000 2018",
+   "text": "@_pier @babeljs @trueadm @threepointone @IAmTrySound @reactjs actual generator-based output is broken on rerenders,… https://t.co/93m3QQgK3K",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975848220885647400,
+   "in_reply_to_status_id_str": "975848220885647360",
+   "in_reply_to_screen_name": "_pier",
+   "urls": [
+    {
+     "url": "https://t.co/93m3QQgK3K",
+     "expand": "https://twitter.com/i/web/status/975856978667954177"
+    }
+   ]
+  },
+  {
+   "id": 975845569343230000,
+   "id_str": "975845569343229954",
+   "created_at": "Mon Mar 19 21:24:48 +0000 2018",
+   "text": "@kentcdodds @timdorr @trueadm @babeljs @threepointone @IAmTrySound @reactjs this flavour of adopt syntax has also a… https://t.co/kEryvdgo7d",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975839396934160400,
+   "in_reply_to_status_id_str": "975839396934160385",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/kEryvdgo7d",
+     "expand": "https://twitter.com/i/web/status/975845569343229954"
+    }
+   ]
+  },
+  {
+   "id": 975805607541387300,
+   "id_str": "975805607541387265",
+   "created_at": "Mon Mar 19 18:46:01 +0000 2018",
+   "text": "@edygarDeLima @trueadm @babeljs @threepointone @IAmTrySound @reactjs Any will work :) we can start an issue though… https://t.co/KQpEnHuaha",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975805340666261500,
+   "in_reply_to_status_id_str": "975805340666261505",
+   "in_reply_to_screen_name": "edygarDeLima",
+   "urls": [
+    {
+     "url": "https://t.co/KQpEnHuaha",
+     "expand": "https://twitter.com/i/web/status/975805607541387265"
+    }
+   ]
+  },
+  {
+   "id": 975805318633574400,
+   "id_str": "975805318633574402",
+   "created_at": "Mon Mar 19 18:44:52 +0000 2018",
+   "text": "@_pier @babeljs @trueadm @threepointone @IAmTrySound @reactjs I actually use a generator fallback for more complex… https://t.co/BxrlHDw16l",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975796972530688000,
+   "in_reply_to_status_id_str": "975796972530688001",
+   "in_reply_to_screen_name": "_pier",
+   "urls": [
+    {
+     "url": "https://t.co/BxrlHDw16l",
+     "expand": "https://twitter.com/i/web/status/975805318633574402"
+    }
+   ]
+  },
+  {
+   "id": 975804782849024000,
+   "id_str": "975804782849024000",
+   "created_at": "Mon Mar 19 18:42:44 +0000 2018",
+   "text": "@edygarDeLima @trueadm @babeljs @threepointone @IAmTrySound @reactjs not sure if i understand what do u mean, maybe… https://t.co/cptnon9Ddd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975796325487870000,
+   "in_reply_to_status_id_str": "975796325487869952",
+   "in_reply_to_screen_name": "edygarDeLima",
+   "urls": [
+    {
+     "url": "https://t.co/cptnon9Ddd",
+     "expand": "https://twitter.com/i/web/status/975804782849024000"
+    }
+   ]
+  },
+  {
+   "id": 975786309137633300,
+   "id_str": "975786309137633281",
+   "created_at": "Mon Mar 19 17:29:19 +0000 2018",
+   "text": "@threepointone @jamiebuilds its exactly like await, it just unwraps the value from the render prop, so u dont end u… https://t.co/YDku6E6gNI",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975774982772002800,
+   "in_reply_to_status_id_str": "975774982772002816",
+   "in_reply_to_screen_name": "threepointone",
+   "urls": [
+    {
+     "url": "https://t.co/YDku6E6gNI",
+     "expand": "https://twitter.com/i/web/status/975786309137633281"
+    }
+   ]
+  },
+  {
+   "id": 975785982338453500,
+   "id_str": "975785982338453505",
+   "created_at": "Mon Mar 19 17:28:02 +0000 2018",
+   "text": "@alexeyraspopov @acdlite @sebmarkbage if u want to access \"context\" without components u might get interested in… https://t.co/2ajIzp29Au",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975785777031516200,
+   "in_reply_to_status_id_str": "975785777031516162",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/2ajIzp29Au",
+     "expand": "https://twitter.com/i/web/status/975785982338453505"
+    }
+   ]
+  },
+  {
+   "id": 975785777031516200,
+   "id_str": "975785777031516162",
+   "created_at": "Mon Mar 19 17:27:13 +0000 2018",
+   "text": "@alexeyraspopov @acdlite @sebmarkbage i've implemented this idea here https://t.co/aFi9C0aeXw . it desugars to comp… https://t.co/e0DxonDYwE",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975772778673647600,
+   "in_reply_to_status_id_str": "975772778673647618",
+   "in_reply_to_screen_name": "alexeyraspopov",
+   "urls": [
+    {
+     "url": "https://t.co/aFi9C0aeXw",
+     "expand": "https://github.com/Andarist/babel-plugin-jsx-adopt"
+    },
+    {
+     "url": "https://t.co/e0DxonDYwE",
+     "expand": "https://twitter.com/i/web/status/975785777031516162"
+    }
+   ]
+  },
+  {
+   "id": 975766325921566700,
+   "id_str": "975766325921566720",
+   "created_at": "Mon Mar 19 16:09:55 +0000 2018",
+   "text": "@edygarDeLima @trueadm @babeljs @threepointone @IAmTrySound @reactjs yeah, i just clone each yielded (adopted) elem… https://t.co/kxb4qUMzQU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975765506992074800,
+   "in_reply_to_status_id_str": "975765506992074755",
+   "in_reply_to_screen_name": "edygarDeLima",
+   "urls": [
+    {
+     "url": "https://t.co/kxb4qUMzQU",
+     "expand": "https://twitter.com/i/web/status/975766325921566720"
+    }
+   ]
+  },
+  {
+   "id": 975760791428325400,
+   "id_str": "975760791428325382",
+   "created_at": "Mon Mar 19 15:47:56 +0000 2018",
+   "text": "@edygarDeLima @trueadm @babeljs @threepointone @IAmTrySound @reactjs cool! u can also look how im handling adopt wi… https://t.co/r2tLeS2fFP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975755783093747700,
+   "in_reply_to_status_id_str": "975755783093747713",
+   "in_reply_to_screen_name": "edygarDeLima",
+   "urls": [
+    {
+     "url": "https://t.co/r2tLeS2fFP",
+     "expand": "https://twitter.com/i/web/status/975760791428325382"
+    }
+   ]
+  },
+  {
+   "id": 975743405153275900,
+   "id_str": "975743405153275904",
+   "created_at": "Mon Mar 19 14:38:50 +0000 2018",
+   "text": "@wmertens @trueadm @babeljs @threepointone @IAmTrySound @reactjs would love to hear about technical details of the… https://t.co/vrdKlqlrPx",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975742175353950200,
+   "in_reply_to_status_id_str": "975742175353950209",
+   "in_reply_to_screen_name": "wmertens",
+   "urls": [
+    {
+     "url": "https://t.co/vrdKlqlrPx",
+     "expand": "https://twitter.com/i/web/status/975743405153275904"
+    }
+   ]
+  },
+  {
+   "id": 975742729564180500,
+   "id_str": "975742729564180481",
+   "created_at": "Mon Mar 19 14:36:09 +0000 2018",
+   "text": "@wmertens @IAmTrySound @trueadm @babeljs @threepointone @reactjs for those cases (which are less common in the wild… https://t.co/fABlosM4c9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975741622964183000,
+   "in_reply_to_status_id_str": "975741622964183040",
+   "in_reply_to_screen_name": "wmertens",
+   "urls": [
+    {
+     "url": "https://t.co/fABlosM4c9",
+     "expand": "https://twitter.com/i/web/status/975742729564180481"
+    }
+   ]
+  },
+  {
+   "id": 975742386742743000,
+   "id_str": "975742386742743045",
+   "created_at": "Mon Mar 19 14:34:48 +0000 2018",
+   "text": "@wmertens @trueadm @babeljs @threepointone @IAmTrySound @reactjs cant wait to see this react compiler in action, so… https://t.co/sn53qbpo4s",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975741981778473000,
+   "in_reply_to_status_id_str": "975741981778472960",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/sn53qbpo4s",
+     "expand": "https://twitter.com/i/web/status/975742386742743045"
+    }
+   ]
+  },
+  {
+   "id": 975741981778473000,
+   "id_str": "975741981778472960",
+   "created_at": "Mon Mar 19 14:33:11 +0000 2018",
+   "text": "@wmertens @trueadm @babeljs @threepointone @IAmTrySound @reactjs what i dont like about render props is that contex… https://t.co/lC4X6p7JKT",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975741478902423600,
+   "in_reply_to_status_id_str": "975741478902423553",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/lC4X6p7JKT",
+     "expand": "https://twitter.com/i/web/status/975741981778472960"
+    }
+   ]
+  },
+  {
+   "id": 975741478902423600,
+   "id_str": "975741478902423553",
+   "created_at": "Mon Mar 19 14:31:11 +0000 2018",
+   "text": "@wmertens @trueadm @babeljs @threepointone @IAmTrySound @reactjs i couldnt use a new keyword, because new syntax ca… https://t.co/wvNtJUUF7H",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975737017949704200,
+   "in_reply_to_status_id_str": "975737017949704193",
+   "in_reply_to_screen_name": "wmertens",
+   "urls": [
+    {
+     "url": "https://t.co/wvNtJUUF7H",
+     "expand": "https://twitter.com/i/web/status/975741478902423553"
+    }
+   ]
+  },
+  {
+   "id": 975711022374883300,
+   "id_str": "975711022374883328",
+   "created_at": "Mon Mar 19 12:30:10 +0000 2018",
+   "text": "@emilpersson maybe ive misunderstood what gets extracted by await in ur example, i thought its state/data, but it s… https://t.co/aZf63QlVgN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975698167294505000,
+   "in_reply_to_status_id_str": "975698167294504967",
+   "in_reply_to_screen_name": "emilpersson",
+   "urls": [
+    {
+     "url": "https://t.co/aZf63QlVgN",
+     "expand": "https://twitter.com/i/web/status/975711022374883328"
+    }
+   ]
+  },
+  {
+   "id": 975696221925933000,
+   "id_str": "975696221925933056",
+   "created_at": "Mon Mar 19 11:31:21 +0000 2018",
+   "text": "@emilpersson hm, u'd like to have elements resolved to its data/state, or introduce something special for elements… https://t.co/1BnyYXKdsD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975695338509164500,
+   "in_reply_to_status_id_str": "975695338509164544",
+   "in_reply_to_screen_name": "emilpersson",
+   "urls": [
+    {
+     "url": "https://t.co/1BnyYXKdsD",
+     "expand": "https://twitter.com/i/web/status/975696221925933056"
+    }
+   ]
+  },
+  {
+   "id": 975690056894697500,
+   "id_str": "975690056894697472",
+   "created_at": "Mon Mar 19 11:06:51 +0000 2018",
+   "text": "@wmertens @babeljs @trueadm @threepointone @IAmTrySound @reactjs not the biggest fun of them myself (although i see… https://t.co/p26xW3NvWj",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975687841190686700,
+   "in_reply_to_status_id_str": "975687841190686720",
+   "in_reply_to_screen_name": "wmertens",
+   "urls": [
+    {
+     "url": "https://t.co/p26xW3NvWj",
+     "expand": "https://twitter.com/i/web/status/975690056894697472"
+    }
+   ]
+  },
+  {
+   "id": 975668205359370200,
+   "id_str": "975668205359370241",
+   "created_at": "Mon Mar 19 09:40:01 +0000 2018",
+   "text": "@emilpersson u'd have to back it up with some pseudo code snippet so I could comprehend it better",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975657573234987000,
+   "in_reply_to_status_id_str": "975657573234987008",
+   "in_reply_to_screen_name": "emilpersson",
+   "urls": []
+  },
+  {
+   "id": 975666799076311000,
+   "id_str": "975666799076311045",
+   "created_at": "Mon Mar 19 09:34:26 +0000 2018",
+   "text": "@threepointone @babeljs @trueadm @IAmTrySound @reactjs still some rough edges to fix 😉 but ill get to it",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975653131475472400,
+   "in_reply_to_status_id_str": "975653131475472384",
+   "in_reply_to_screen_name": "threepointone",
+   "urls": []
+  },
+  {
+   "id": 975666473023758300,
+   "id_str": "975666473023758337",
+   "created_at": "Mon Mar 19 09:33:08 +0000 2018",
+   "text": "@erikras @finalformjs hah, thats like literally my first imaginary \"problem to solve\" when comparing form solutions… https://t.co/76buhuCeoO",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975665833195327500,
+   "in_reply_to_status_id_str": "975665833195327490",
+   "in_reply_to_screen_name": "erikras",
+   "urls": [
+    {
+     "url": "https://t.co/76buhuCeoO",
+     "expand": "https://twitter.com/i/web/status/975666473023758337"
+    }
+   ]
+  },
+  {
+   "id": 975665747702755300,
+   "id_str": "975665747702755328",
+   "created_at": "Mon Mar 19 09:30:15 +0000 2018",
+   "text": "RT @jamonholmgren: If you use an open source project, you become one of its developers. Act that way.",
+   "retweet_count": 56,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 947572237170700300,
+    "id_str": "947572237170700288",
+    "created_at": "Sun Dec 31 20:56:41 +0000 2017",
+    "text": "If you use an open source project, you become one of its developers. Act that way.",
+    "retweet_count": 56,
+    "favorite_count": 107,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 975656525904646100,
+   "id_str": "975656525904646144",
+   "created_at": "Mon Mar 19 08:53:37 +0000 2018",
+   "text": "@emilpersson ideally this transform doesnt need any runtime (for code u are likely to write, complex/convoluted cas… https://t.co/EEYegrS5qj",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975641885833400300,
+   "in_reply_to_status_id_str": "975641885833400320",
+   "in_reply_to_screen_name": "emilpersson",
+   "urls": [
+    {
+     "url": "https://t.co/EEYegrS5qj",
+     "expand": "https://twitter.com/i/web/status/975656525904646144"
+    }
+   ]
+  },
+  {
+   "id": 975652656223080400,
+   "id_str": "975652656223080448",
+   "created_at": "Mon Mar 19 08:38:14 +0000 2018",
+   "text": "@GabeRicard @trueadm @babeljs @threepointone @IAmTrySound @reactjs adopted values are just values, u can pass aroun… https://t.co/rgWwWrGlwc",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 975566896962646000,
+   "in_reply_to_status_id_str": "975566896962646016",
+   "in_reply_to_screen_name": "GabeRicard",
+   "urls": [
+    {
+     "url": "https://t.co/rgWwWrGlwc",
+     "expand": "https://twitter.com/i/web/status/975652656223080448"
+    }
+   ]
+  },
+  {
+   "id": 975518828376608800,
+   "id_str": "975518828376608770",
+   "created_at": "Sun Mar 18 23:46:27 +0000 2018",
+   "text": "@leogcrespo @trueadm @babeljs @threepointone @IAmTrySound @reactjs Dont think so, this way u can use adopted value… https://t.co/k76hw8lvv3",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975518253924614100,
+   "in_reply_to_status_id_str": "975518253924614145",
+   "in_reply_to_screen_name": "leogcrespo",
+   "urls": [
+    {
+     "url": "https://t.co/k76hw8lvv3",
+     "expand": "https://twitter.com/i/web/status/975518828376608770"
+    }
+   ]
+  },
+  {
+   "id": 975518296513634300,
+   "id_str": "975518296513634305",
+   "created_at": "Sun Mar 18 23:44:20 +0000 2018",
+   "text": "@leogcrespo @trueadm @babeljs @threepointone @IAmTrySound @reactjs Yeap, it acts exactly like await!",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 975517948143169500,
+   "in_reply_to_status_id_str": "975517948143169537",
+   "in_reply_to_screen_name": "leogcrespo",
+   "urls": []
+  },
+  {
+   "id": 975517332373205000,
+   "id_str": "975517332373204992",
+   "created_at": "Sun Mar 18 23:40:30 +0000 2018",
+   "text": "@trueadm @babeljs @threepointone @IAmTrySound @reactjs regular inputs are super easy to transform, for complex expr… https://t.co/09X7EC5bzF",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975516004624339000,
+   "in_reply_to_status_id_str": "975516004624338945",
+   "in_reply_to_screen_name": "trueadm",
+   "urls": [
+    {
+     "url": "https://t.co/09X7EC5bzF",
+     "expand": "https://twitter.com/i/web/status/975517332373204992"
+    }
+   ]
+  },
+  {
+   "id": 975514517374492700,
+   "id_str": "975514517374492674",
+   "created_at": "Sun Mar 18 23:29:19 +0000 2018",
+   "text": "Just published a new experimental @babeljs plugin which makes it easier to write render props (no nesting!) based o… https://t.co/G0wGQ4RWdk",
+   "retweet_count": 52,
+   "favorite_count": 237,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/G0wGQ4RWdk",
+     "expand": "https://twitter.com/i/web/status/975514517374492674"
+    }
+   ]
+  },
+  {
+   "id": 975483718314938400,
+   "id_str": "975483718314938368",
+   "created_at": "Sun Mar 18 21:26:56 +0000 2018",
+   "text": "@sophiebits @_ericelliott agreed about idiomatic react code, although using a single debugging workflow for any cod… https://t.co/rndujAWcXD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975482986610114600,
+   "in_reply_to_status_id_str": "975482986610114560",
+   "in_reply_to_screen_name": "sophiebits",
+   "urls": [
+    {
+     "url": "https://t.co/rndujAWcXD",
+     "expand": "https://twitter.com/i/web/status/975483718314938368"
+    }
+   ]
+  },
+  {
+   "id": 975429711085080600,
+   "id_str": "975429711085080582",
+   "created_at": "Sun Mar 18 17:52:20 +0000 2018",
+   "text": "@michaelpeyper @acemarke @CompuIves sneak peek - https://t.co/CoPJOTANYj",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975428628413632500,
+   "in_reply_to_status_id_str": "975428628413632512",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/CoPJOTANYj",
+     "expand": "https://github.com/babel/website/pull/1600/files#diff-13734ac24709204bbae97c4b659d1ba1R11"
+    }
+   ]
+  },
+  {
+   "id": 975428628413632500,
+   "id_str": "975428628413632512",
+   "created_at": "Sun Mar 18 17:48:02 +0000 2018",
+   "text": "@michaelpeyper @acemarke @CompuIves from what i know @Compulves has some beta (?) reusable components that can be used in other online repls",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975423951500226600,
+   "in_reply_to_status_id_str": "975423951500226560",
+   "in_reply_to_screen_name": "michaelpeyper",
+   "urls": []
+  },
+  {
+   "id": 975374800020557800,
+   "id_str": "975374800020557826",
+   "created_at": "Sun Mar 18 14:14:08 +0000 2018",
+   "text": "@sophiebits @_ericelliott inspecting current surrounding env is super useful, i also prefer to inspect \"frozen worl… https://t.co/GVge9Ld6A3",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975317708840476700,
+   "in_reply_to_status_id_str": "975317708840476672",
+   "in_reply_to_screen_name": "sophiebits",
+   "urls": [
+    {
+     "url": "https://t.co/GVge9Ld6A3",
+     "expand": "https://twitter.com/i/web/status/975374800020557826"
+    }
+   ]
+  },
+  {
+   "id": 975190177164464100,
+   "id_str": "975190177164464128",
+   "created_at": "Sun Mar 18 02:00:31 +0000 2018",
+   "text": "@minh_ngvyen Hi there! Sorry I didnt yet look into it, was travelling for past few days. Definitely going to review… https://t.co/FlahEV521n",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975131564903452700,
+   "in_reply_to_status_id_str": "975131564903452673",
+   "in_reply_to_screen_name": "minh_ngvyen",
+   "urls": [
+    {
+     "url": "https://t.co/FlahEV521n",
+     "expand": "https://twitter.com/i/web/status/975190177164464128"
+    }
+   ]
+  },
+  {
+   "id": 974591006921420800,
+   "id_str": "974591006921420801",
+   "created_at": "Fri Mar 16 10:19:37 +0000 2018",
+   "text": "@IAmTrySound @trueadm @threepointone With generator based approach i have to manipulate children at runtime, any id… https://t.co/MNfpwQvUNR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974590507090432000,
+   "in_reply_to_status_id_str": "974590507090432000",
+   "in_reply_to_screen_name": "IAmTrySound",
+   "urls": [
+    {
+     "url": "https://t.co/MNfpwQvUNR",
+     "expand": "https://twitter.com/i/web/status/974591006921420801"
+    }
+   ]
+  },
+  {
+   "id": 974589898018746400,
+   "id_str": "974589898018746368",
+   "created_at": "Fri Mar 16 10:15:13 +0000 2018",
+   "text": "@IAmTrySound @trueadm @threepointone still on the trip, coming back 2morrow, need to wrap this up to have a generat… https://t.co/LcjAPhG6C1",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974589193979646000,
+   "in_reply_to_status_id_str": "974589193979645952",
+   "in_reply_to_screen_name": "IAmTrySound",
+   "urls": [
+    {
+     "url": "https://t.co/LcjAPhG6C1",
+     "expand": "https://twitter.com/i/web/status/974589898018746368"
+    }
+   ]
+  },
+  {
+   "id": 974588997031907300,
+   "id_str": "974588997031907328",
+   "created_at": "Fri Mar 16 10:11:38 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound let me know if you want me to pursue the implementation as proof of concept, s… https://t.co/BIXPktE1yA",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974588602083659800,
+   "in_reply_to_status_id_str": "974588602083659776",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/BIXPktE1yA",
+     "expand": "https://twitter.com/i/web/status/974588997031907328"
+    }
+   ]
+  },
+  {
+   "id": 974588602083659800,
+   "id_str": "974588602083659776",
+   "created_at": "Fri Mar 16 10:10:04 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound still thinking that it provides a better DX than \"adopt theme from ThemeConsumer\" 😄",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974588275259256800,
+   "in_reply_to_status_id_str": "974588275259256832",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 974588275259256800,
+   "id_str": "974588275259256832",
+   "created_at": "Fri Mar 16 10:08:46 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound i guess things like generators bring too much complexity on the audience and u… https://t.co/aaC2hbJm7x",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974587662651875300,
+   "in_reply_to_status_id_str": "974587662651875328",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/aaC2hbJm7x",
+     "expand": "https://twitter.com/i/web/status/974588275259256832"
+    }
+   ]
+  },
+  {
+   "id": 974587662651875300,
+   "id_str": "974587662651875328",
+   "created_at": "Fri Mar 16 10:06:20 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound but to truly make it work I think I have to transpile most of complex cases to… https://t.co/t7GGeTqQuY",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974587150590201900,
+   "in_reply_to_status_id_str": "974587150590201856",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/t7GGeTqQuY",
+     "expand": "https://twitter.com/i/web/status/974587662651875328"
+    }
+   ]
+  },
+  {
+   "id": 974587150590201900,
+   "id_str": "974587150590201856",
+   "created_at": "Fri Mar 16 10:04:18 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound ok, so i've certainly didn't think it through entirely before, i've implemente… https://t.co/k89Xge4ZPM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972791176075071500,
+   "in_reply_to_status_id_str": "972791176075071489",
+   "in_reply_to_screen_name": "trueadm",
+   "urls": [
+    {
+     "url": "https://t.co/k89Xge4ZPM",
+     "expand": "https://twitter.com/i/web/status/974587150590201856"
+    }
+   ]
+  },
+  {
+   "id": 974383527897780200,
+   "id_str": "974383527897780225",
+   "created_at": "Thu Mar 15 20:35:10 +0000 2018",
+   "text": "@sebmarkbage Are there any layout callbacks available? :o",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974324324717936600,
+   "in_reply_to_status_id_str": "974324324717936640",
+   "in_reply_to_screen_name": "sebmarkbage",
+   "urls": []
+  },
+  {
+   "id": 974323162518351900,
+   "id_str": "974323162518351872",
+   "created_at": "Thu Mar 15 16:35:18 +0000 2018",
+   "text": "@kentcdodds So it should not be every1 responsibility to remember that we want them being imported per file + eslin… https://t.co/04sIJrtdMG",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974322826936307700,
+   "in_reply_to_status_id_str": "974322826936307712",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/04sIJrtdMG",
+     "expand": "https://twitter.com/i/web/status/974323162518351872"
+    }
+   ]
+  },
+  {
+   "id": 974322826936307700,
+   "id_str": "974322826936307712",
+   "created_at": "Thu Mar 15 16:33:58 +0000 2018",
+   "text": "@kentcdodds Thats a downside for sure, but kinda the same as with any other dep. We use only new statics or new bul… https://t.co/fMKBzahDZf",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974322025492774900,
+   "in_reply_to_status_id_str": "974322025492774912",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/fMKBzahDZf",
+     "expand": "https://twitter.com/i/web/status/974322826936307712"
+    }
+   ]
+  },
+  {
+   "id": 974321981842776000,
+   "id_str": "974321981842776064",
+   "created_at": "Thu Mar 15 16:30:37 +0000 2018",
+   "text": "@kentcdodds That way im in a full control of what gets polyfilled and what kind of polyfill it is, what polyfill lib im using etc",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974321738640224300,
+   "in_reply_to_status_id_str": "974321738640224256",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 974321738640224300,
+   "id_str": "974321738640224256",
+   "created_at": "Thu Mar 15 16:29:39 +0000 2018",
+   "text": "@kentcdodds I just polyfill 'manually' as we cant polyfill global env anyway in our use case",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974312444112834600,
+   "in_reply_to_status_id_str": "974312444112834561",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 973267188500004900,
+   "id_str": "973267188500004864",
+   "created_at": "Mon Mar 12 18:39:14 +0000 2018",
+   "text": "@tkh44 didnt know it \"bypasses\" stylesheet insertion order, really cool!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973265255504609300,
+   "in_reply_to_status_id_str": "973265255504609282",
+   "in_reply_to_screen_name": "tkh44",
+   "urls": []
+  },
+  {
+   "id": 972752802836615200,
+   "id_str": "972752802836615168",
+   "created_at": "Sun Mar 11 08:35:15 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound Constants ofc also makes other static analysis easier, but dunno how much valu… https://t.co/SFsE0LFjj4",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972751914021609500,
+   "in_reply_to_status_id_str": "972751914021609472",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/SFsE0LFjj4",
+     "expand": "https://twitter.com/i/web/status/972752802836615168"
+    }
+   ]
+  },
+  {
+   "id": 972751914021609500,
+   "id_str": "972751914021609472",
+   "created_at": "Sun Mar 11 08:31:43 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound Well, i see the point how constants makes it  way easier to write a transform… https://t.co/WQNuBrKkEM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972633088437248000,
+   "in_reply_to_status_id_str": "972633088437248000",
+   "in_reply_to_screen_name": "trueadm",
+   "urls": [
+    {
+     "url": "https://t.co/WQNuBrKkEM",
+     "expand": "https://twitter.com/i/web/status/972751914021609472"
+    }
+   ]
+  },
+  {
+   "id": 972631868347732000,
+   "id_str": "972631868347731968",
+   "created_at": "Sun Mar 11 00:34:42 +0000 2018",
+   "text": "@trueadm @threepointone @IAmTrySound Could u point me to the discussion about it? I dont think its under any of the… https://t.co/TzBKbw2d1l",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972630136871948300,
+   "in_reply_to_status_id_str": "972630136871948288",
+   "in_reply_to_screen_name": "trueadm",
+   "urls": [
+    {
+     "url": "https://t.co/TzBKbw2d1l",
+     "expand": "https://twitter.com/i/web/status/972631868347731968"
+    }
+   ]
+  },
+  {
+   "id": 972620964721778700,
+   "id_str": "972620964721778689",
+   "created_at": "Sat Mar 10 23:51:23 +0000 2018",
+   "text": "@threepointone @trueadm @IAmTrySound I've already started working on this yesterday 😉 having a vacation though, so… https://t.co/V8afcAegYZ",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 972611964588478500,
+   "in_reply_to_status_id_str": "972611964588478464",
+   "in_reply_to_screen_name": "threepointone",
+   "urls": [
+    {
+     "url": "https://t.co/V8afcAegYZ",
+     "expand": "https://twitter.com/i/web/status/972620964721778689"
+    }
+   ]
+  },
+  {
+   "id": 972606673532670000,
+   "id_str": "972606673532669958",
+   "created_at": "Sat Mar 10 22:54:35 +0000 2018",
+   "text": "@threepointone @IAmTrySound https://t.co/nNHoanFVDC",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972606316425437200,
+   "in_reply_to_status_id_str": "972606316425437184",
+   "in_reply_to_screen_name": "threepointone",
+   "urls": [
+    {
+     "url": "https://t.co/nNHoanFVDC",
+     "expand": "https://gist.github.com/trueadm/35f083d32e5af93dd8fd706dae378123#file-2-future-ideas-js-L24"
+    }
+   ]
+  },
+  {
+   "id": 972603842205552600,
+   "id_str": "972603842205552641",
+   "created_at": "Sat Mar 10 22:43:20 +0000 2018",
+   "text": "@kentcdodds sure thing, if it's an overkill for the use u certainly shouldn't use it :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972603496309538800,
+   "in_reply_to_status_id_str": "972603496309538816",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 972600191315578900,
+   "id_str": "972600191315578885",
+   "created_at": "Sat Mar 10 22:28:50 +0000 2018",
+   "text": "@kentcdodds u've checked without gzip, with gzip it's actually at 6.8kb which ofc still way more than the simplest… https://t.co/kCGREJ4ypg",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972467285335072800,
+   "in_reply_to_status_id_str": "972467285335072768",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/kCGREJ4ypg",
+     "expand": "https://twitter.com/i/web/status/972600191315578885"
+    }
+   ]
+  },
+  {
+   "id": 972438954996912100,
+   "id_str": "972438954996912128",
+   "created_at": "Sat Mar 10 11:48:08 +0000 2018",
+   "text": "@kentcdodds Emotion core is pretty small and can be used without react",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972268883339108400,
+   "in_reply_to_status_id_str": "972268883339108352",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": []
+  },
+  {
+   "id": 972186171366309900,
+   "id_str": "972186171366309889",
+   "created_at": "Fri Mar 09 19:03:40 +0000 2018",
+   "text": "@neoziro fun! was hooking into CRA overlay just a week ago - I develop a page with an iframe, but to use this nice… https://t.co/9WQ0D7IbCD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972128404807016400,
+   "in_reply_to_status_id_str": "972128404807016449",
+   "in_reply_to_screen_name": "neoziro",
+   "urls": [
+    {
+     "url": "https://t.co/9WQ0D7IbCD",
+     "expand": "https://twitter.com/i/web/status/972186171366309889"
+    }
+   ]
+  },
+  {
+   "id": 972146736545325000,
+   "id_str": "972146736545325057",
+   "created_at": "Fri Mar 09 16:26:58 +0000 2018",
+   "text": "@scottcorgan this is a total exaggeration 😉 u can write 1 line requests in saga just fine, aint sure about what blo… https://t.co/uWNxPJPzQl",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972145101303664600,
+   "in_reply_to_status_id_str": "972145101303664640",
+   "in_reply_to_screen_name": "scottcorgan",
+   "urls": [
+    {
+     "url": "https://t.co/uWNxPJPzQl",
+     "expand": "https://twitter.com/i/web/status/972146736545325057"
+    }
+   ]
+  },
+  {
+   "id": 971818842543591400,
+   "id_str": "971818842543591424",
+   "created_at": "Thu Mar 08 18:44:02 +0000 2018",
+   "text": "RT @mattpodwysocki: Array.prototype.spłaszczyć done, we have a new name, using standard Polish notation instead of Array.prototype.flatten",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971789702499053600,
+    "id_str": "971789702499053569",
+    "created_at": "Thu Mar 08 16:48:14 +0000 2018",
+    "text": "Array.prototype.spłaszczyć done, we have a new name, using standard Polish notation instead of Array.prototype.flatten",
+    "retweet_count": 3,
+    "favorite_count": 28,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 971671998266069000,
+   "id_str": "971671998266068992",
+   "created_at": "Thu Mar 08 09:00:31 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey good picks, i actually wanted to use Anomander, but it was taken, so I've picke… https://t.co/vtwM5qEVuX",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971540651622871000,
+   "in_reply_to_status_id_str": "971540651622871040",
+   "in_reply_to_screen_name": "brianleroux",
+   "urls": [
+    {
+     "url": "https://t.co/vtwM5qEVuX",
+     "expand": "https://twitter.com/i/web/status/971671998266068992"
+    }
+   ]
+  },
+  {
+   "id": 971539932719337500,
+   "id_str": "971539932719337472",
+   "created_at": "Thu Mar 08 00:15:44 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey we are discussing some irrelevant stuff here - could you _finally_ tell me what… https://t.co/splODbcSiD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971536929450872800,
+   "in_reply_to_status_id_str": "971536929450872833",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/splODbcSiD",
+     "expand": "https://twitter.com/i/web/status/971539932719337472"
+    }
+   ]
+  },
+  {
+   "id": 971539494326370300,
+   "id_str": "971539494326370305",
+   "created_at": "Thu Mar 08 00:14:00 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey I think common language with other languages &amp; concepts in general is worth fig… https://t.co/Sb2ijwTfK3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971538757974335500,
+   "in_reply_to_status_id_str": "971538757974335488",
+   "in_reply_to_screen_name": "brianleroux",
+   "urls": [
+    {
+     "url": "https://t.co/Sb2ijwTfK3",
+     "expand": "https://twitter.com/i/web/status/971539494326370305"
+    }
+   ]
+  },
+  {
+   "id": 971538915827085300,
+   "id_str": "971538915827085317",
+   "created_at": "Thu Mar 08 00:11:42 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey What would lead to marginal percentage of web users being broken by that (and any other future) change",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971538737430712300,
+   "in_reply_to_status_id_str": "971538737430712320",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 971538737430712300,
+   "id_str": "971538737430712320",
+   "created_at": "Thu Mar 08 00:10:59 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey Atm it seems like a rushed decision that is based on some assumptions that migh… https://t.co/u2qtSzMuv6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971538299532783600,
+   "in_reply_to_status_id_str": "971538299532783617",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/u2qtSzMuv6",
+     "expand": "https://twitter.com/i/web/status/971538737430712320"
+    }
+   ]
+  },
+  {
+   "id": 971538299532783600,
+   "id_str": "971538299532783617",
+   "created_at": "Thu Mar 08 00:09:15 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey I could agree on that if only we could ever make a change that would not potent… https://t.co/U9YrU4bV5D",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971537742109671400,
+   "in_reply_to_status_id_str": "971537742109671424",
+   "in_reply_to_screen_name": "brianleroux",
+   "urls": [
+    {
+     "url": "https://t.co/U9YrU4bV5D",
+     "expand": "https://twitter.com/i/web/status/971538299532783617"
+    }
+   ]
+  },
+  {
+   "id": 971537781951524900,
+   "id_str": "971537781951524864",
+   "created_at": "Thu Mar 08 00:07:12 +0000 2018",
+   "text": "@JoshWComeau Also it's not only about the name - but more about the common language with other languages &amp; concepts… https://t.co/ihKUIvVNi6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971537554183991300,
+   "in_reply_to_status_id_str": "971537554183991296",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/ihKUIvVNi6",
+     "expand": "https://twitter.com/i/web/status/971537781951524864"
+    }
+   ]
+  },
+  {
+   "id": 971537554183991300,
+   "id_str": "971537554183991296",
+   "created_at": "Thu Mar 08 00:06:17 +0000 2018",
+   "text": "@JoshWComeau I could live with some other name (although smoosh is imho a horrible choice). I also don't know scale… https://t.co/3x4YLYf5n1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971536552986927100,
+   "in_reply_to_status_id_str": "971536552986927108",
+   "in_reply_to_screen_name": "JoshWComeau",
+   "urls": [
+    {
+     "url": "https://t.co/3x4YLYf5n1",
+     "expand": "https://twitter.com/i/web/status/971537554183991296"
+    }
+   ]
+  },
+  {
+   "id": 971536929450872800,
+   "id_str": "971536929450872833",
+   "created_at": "Thu Mar 08 00:03:48 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey It is! ;)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971536724672225300,
+   "in_reply_to_status_id_str": "971536724672225280",
+   "in_reply_to_screen_name": "brianleroux",
+   "urls": []
+  },
+  {
+   "id": 971536055659847700,
+   "id_str": "971536055659847682",
+   "created_at": "Thu Mar 08 00:00:20 +0000 2018",
+   "text": "@JoshWComeau To break the site 1 would have to: 1. use MooTools 2. use their version of flatMap 3. rely on it flatt… https://t.co/nvQgpO1FW2",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971535541190701000,
+   "in_reply_to_status_id_str": "971535541190701057",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/nvQgpO1FW2",
+     "expand": "https://twitter.com/i/web/status/971536055659847682"
+    }
+   ]
+  },
+  {
+   "id": 971535541190701000,
+   "id_str": "971535541190701057",
+   "created_at": "Wed Mar 07 23:58:17 +0000 2018",
+   "text": "@JoshWComeau IMHO the problem is that every such additive change CAN break some websites (thus their users). Such s… https://t.co/QQJYFEXtu8",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971481510560677900,
+   "in_reply_to_status_id_str": "971481510560677890",
+   "in_reply_to_screen_name": "JoshWComeau",
+   "urls": [
+    {
+     "url": "https://t.co/QQJYFEXtu8",
+     "expand": "https://twitter.com/i/web/status/971535541190701057"
+    }
+   ]
+  },
+  {
+   "id": 971531741142929400,
+   "id_str": "971531741142929408",
+   "created_at": "Wed Mar 07 23:43:11 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey I feel like we are held hostage atm by some rly old tools and we are volunteral… https://t.co/3VKQPPXA4b",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 971531119849025500,
+   "in_reply_to_status_id_str": "971531119849025536",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/3VKQPPXA4b",
+     "expand": "https://twitter.com/i/web/status/971531741142929408"
+    }
+   ]
+  },
+  {
+   "id": 971531119849025500,
+   "id_str": "971531119849025536",
+   "created_at": "Wed Mar 07 23:40:43 +0000 2018",
+   "text": "@brianleroux @TheLarkInn @theKashey First please present the data about what actual breakage flatMap would cause, n… https://t.co/GzhLYu2Ywi",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 971503408636035100,
+   "in_reply_to_status_id_str": "971503408636035073",
+   "in_reply_to_screen_name": "brianleroux",
+   "urls": [
+    {
+     "url": "https://t.co/GzhLYu2Ywi",
+     "expand": "https://twitter.com/i/web/status/971531119849025536"
+    }
+   ]
+  },
+  {
+   "id": 971376983841046500,
+   "id_str": "971376983841046562",
+   "created_at": "Wed Mar 07 13:28:14 +0000 2018",
+   "text": "2nd part of my guide on how to squeeze the most out of building libraries with @RollupJS, use those tips to make yo… https://t.co/fIEyHFgUcV",
+   "retweet_count": 9,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fIEyHFgUcV",
+     "expand": "https://twitter.com/i/web/status/971376983841046562"
+    }
+   ]
+  },
+  {
+   "id": 971299682319327200,
+   "id_str": "971299682319327234",
+   "created_at": "Wed Mar 07 08:21:04 +0000 2018",
+   "text": "@youthoverturn @jdalton was a smoosh tweet not a joke? :o",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971272286870364200,
+   "in_reply_to_status_id_str": "971272286870364161",
+   "in_reply_to_screen_name": "youthoverturn",
+   "urls": []
+  },
+  {
+   "id": 970774012203798500,
+   "id_str": "970774012203798528",
+   "created_at": "Mon Mar 05 21:32:15 +0000 2018",
+   "text": "@dan_abramov @YassineElouafi2 Cool about siblings, figured it out that it has to be able to suspend subtrees indepe… https://t.co/ggnhVyEtTk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970772315456835600,
+   "in_reply_to_status_id_str": "970772315456835584",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": [
+    {
+     "url": "https://t.co/ggnhVyEtTk",
+     "expand": "https://twitter.com/i/web/status/970774012203798528"
+    }
+   ]
+  },
+  {
+   "id": 970773002488107000,
+   "id_str": "970773002488107015",
+   "created_at": "Mon Mar 05 21:28:14 +0000 2018",
+   "text": "@tkh44 @kylemathews @mitchellhamiltn @kpdecker Ive looked through the API really quickly, but at this point its har… https://t.co/4RXOpewBhQ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970756450631888900,
+   "in_reply_to_status_id_str": "970756450631888896",
+   "in_reply_to_screen_name": "tkh44",
+   "urls": [
+    {
+     "url": "https://t.co/4RXOpewBhQ",
+     "expand": "https://twitter.com/i/web/status/970773002488107015"
+    }
+   ]
+  },
+  {
+   "id": 970772042147663900,
+   "id_str": "970772042147663872",
+   "created_at": "Mon Mar 05 21:24:25 +0000 2018",
+   "text": "@YassineElouafi2 @dan_abramov Thats a little bummer because u need to think about it, i thought renders are execute… https://t.co/pJ8UVQznxW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970754606249730000,
+   "in_reply_to_status_id_str": "970754606249730054",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": [
+    {
+     "url": "https://t.co/pJ8UVQznxW",
+     "expand": "https://twitter.com/i/web/status/970772042147663872"
+    }
+   ]
+  },
+  {
+   "id": 970748504581853200,
+   "id_str": "970748504581853185",
+   "created_at": "Mon Mar 05 19:50:53 +0000 2018",
+   "text": "@tkh44 @kylemathews @mitchellhamiltn @kpdecker Excited about this a lot, need to pay attention to possible changes… https://t.co/Hw7QeZVdMO",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970731262158676000,
+   "in_reply_to_status_id_str": "970731262158675968",
+   "in_reply_to_screen_name": "tkh44",
+   "urls": [
+    {
+     "url": "https://t.co/Hw7QeZVdMO",
+     "expand": "https://twitter.com/i/web/status/970748504581853185"
+    }
+   ]
+  },
+  {
+   "id": 970441748530024400,
+   "id_str": "970441748530024448",
+   "created_at": "Sun Mar 04 23:31:57 +0000 2018",
+   "text": "@satya164 That was my main concern during RFC :/ u can always write custom createContext that would generate a Cons… https://t.co/cgi1QIr1Eh",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970367130091868200,
+   "in_reply_to_status_id_str": "970367130091868160",
+   "in_reply_to_screen_name": "satya164",
+   "urls": [
+    {
+     "url": "https://t.co/cgi1QIr1Eh",
+     "expand": "https://twitter.com/i/web/status/970441748530024448"
+    }
+   ]
+  },
+  {
+   "id": 970359913636679700,
+   "id_str": "970359913636679681",
+   "created_at": "Sun Mar 04 18:06:46 +0000 2018",
+   "text": "@jukben Wouldnt call it similar to MtG :P it's kinda a race for points while the other is combat &amp; every1 starts with same cards",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970322187931578400,
+   "in_reply_to_status_id_str": "970322187931578369",
+   "in_reply_to_screen_name": "jukben",
+   "urls": []
+  },
+  {
+   "id": 970261089115082800,
+   "id_str": "970261089115082752",
+   "created_at": "Sun Mar 04 11:34:04 +0000 2018",
+   "text": "RT @MikeMcQuaid: You think you’re annoyed at the open source project that just pushed out a breaking change. You’re actually annoyed at you…",
+   "retweet_count": 147,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969654593088098300,
+    "id_str": "969654593088098304",
+    "created_at": "Fri Mar 02 19:24:04 +0000 2018",
+    "text": "You think you’re annoyed at the open source project that just pushed out a breaking change. You’re actually annoyed… https://t.co/fYPxGDHFXv",
+    "retweet_count": 147,
+    "favorite_count": 477,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fYPxGDHFXv",
+      "expand": "https://twitter.com/i/web/status/969654593088098304"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969302527257776100,
+   "id_str": "969302527257776128",
+   "created_at": "Thu Mar 01 20:05:05 +0000 2018",
+   "text": "@kentcdodds @wSokra It kinda never was a tool for that job (not alone at least). Its still relevant for data cachin… https://t.co/PRddlwf3MT",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969287245739057200,
+   "in_reply_to_status_id_str": "969287245739057152",
+   "in_reply_to_screen_name": "kentcdodds",
+   "urls": [
+    {
+     "url": "https://t.co/PRddlwf3MT",
+     "expand": "https://twitter.com/i/web/status/969302527257776128"
+    }
+   ]
+  },
+  {
+   "id": 968512010718732300,
+   "id_str": "968512010718732288",
+   "created_at": "Tue Feb 27 15:43:52 +0000 2018",
+   "text": "@xwillmadeit @RollupJS @babeljs keep in mind that: export default { arrayFunc, setCookie, getCookie } would actuall… https://t.co/6vcMBxrnb4",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968511799980101600,
+   "in_reply_to_status_id_str": "968511799980101634",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/6vcMBxrnb4",
+     "expand": "https://twitter.com/i/web/status/968512010718732288"
+    }
+   ]
+  },
+  {
+   "id": 968511799980101600,
+   "id_str": "968511799980101634",
+   "created_at": "Tue Feb 27 15:43:01 +0000 2018",
+   "text": "@xwillmadeit @RollupJS @babeljs also this is not exporting an object, its an export declaration which contains expo… https://t.co/Jxwbb52Wc7",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968511533297930200,
+   "in_reply_to_status_id_str": "968511533297930240",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": [
+    {
+     "url": "https://t.co/Jxwbb52Wc7",
+     "expand": "https://twitter.com/i/web/status/968511799980101634"
+    }
+   ]
+  },
+  {
+   "id": 968511533297930200,
+   "id_str": "968511533297930240",
+   "created_at": "Tue Feb 27 15:41:58 +0000 2018",
+   "text": "@xwillmadeit @RollupJS @babeljs when preparing a lib bundle what you export from your entry point will be always pr… https://t.co/rEf8dQ6HIZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968466159996624900,
+   "in_reply_to_status_id_str": "968466159996624896",
+   "in_reply_to_screen_name": "xwillmadeit",
+   "urls": [
+    {
+     "url": "https://t.co/rEf8dQ6HIZ",
+     "expand": "https://twitter.com/i/web/status/968511533297930240"
+    }
+   ]
+  },
+  {
+   "id": 968414388129542100,
+   "id_str": "968414388129542144",
+   "created_at": "Tue Feb 27 09:15:57 +0000 2018",
+   "text": "@xwillmadeit @RollupJS @babeljs Then you can follow instructions from my article, build index.js with rollup (it wi… https://t.co/9YwzMaa9FS",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968412065936285700,
+   "in_reply_to_status_id_str": "968412065936285697",
+   "in_reply_to_screen_name": "xwillmadeit",
+   "urls": [
+    {
+     "url": "https://t.co/9YwzMaa9FS",
+     "expand": "https://twitter.com/i/web/status/968414388129542144"
+    }
+   ]
+  },
+  {
+   "id": 968387846431264800,
+   "id_str": "968387846431264769",
+   "created_at": "Tue Feb 27 07:30:29 +0000 2018",
+   "text": "@xwillmadeit @RollupJS @babeljs Is your goal to have the util bundled as package or are you just interested in nice… https://t.co/iMPLY997JN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968267594879795200,
+   "in_reply_to_status_id_str": "968267594879795200",
+   "in_reply_to_screen_name": "xwillmadeit",
+   "urls": [
+    {
+     "url": "https://t.co/iMPLY997JN",
+     "expand": "https://twitter.com/i/web/status/968387846431264769"
+    }
+   ]
+  },
+  {
+   "id": 967381243213074400,
+   "id_str": "967381243213074432",
+   "created_at": "Sat Feb 24 12:50:36 +0000 2018",
+   "text": "@sebastienlorber @notbrent What do u mean? What they provide? Would love the insight",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967338441309675500,
+   "in_reply_to_status_id_str": "967338441309675522",
+   "in_reply_to_screen_name": "sebastienlorber",
+   "urls": []
+  },
+  {
+   "id": 967346815778598900,
+   "id_str": "967346815778598912",
+   "created_at": "Sat Feb 24 10:33:47 +0000 2018",
+   "text": "@sebastienlorber @YassineElouafi2 btw do you leverage React's error boundaries in a similar way?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967342851406417900,
+   "in_reply_to_status_id_str": "967342851406417921",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 967342851406417900,
+   "id_str": "967342851406417921",
+   "created_at": "Sat Feb 24 10:18:02 +0000 2018",
+   "text": "@sebastienlorber @YassineElouafi2 But ofc whatever works for you 😀 (i know many other people like this approach too)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967342615569092600,
+   "in_reply_to_status_id_str": "967342615569092608",
+   "in_reply_to_screen_name": "AndaristRake",
+   "urls": []
+  },
+  {
+   "id": 967342615569092600,
+   "id_str": "967342615569092608",
+   "created_at": "Sat Feb 24 10:17:06 +0000 2018",
+   "text": "@sebastienlorber @YassineElouafi2 I'm not that comfortable with advising such approaches as those caught errors are… https://t.co/QQBSbapEur",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967341643136421900,
+   "in_reply_to_status_id_str": "967341643136421889",
+   "in_reply_to_screen_name": "sebastienlorber",
+   "urls": [
+    {
+     "url": "https://t.co/QQBSbapEur",
+     "expand": "https://twitter.com/i/web/status/967342615569092608"
+    }
+   ]
+  },
+  {
+   "id": 967098719064686600,
+   "id_str": "967098719064686592",
+   "created_at": "Fri Feb 23 18:07:57 +0000 2018",
+   "text": "@vincentriemer @kentcdodds @_developit Will you be sending a PR for this? I've planned to do it... eventually. Woul… https://t.co/UOu3mYtxJc",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 967055001947398100,
+   "in_reply_to_status_id_str": "967055001947398144",
+   "in_reply_to_screen_name": "vincentriemer",
+   "urls": [
+    {
+     "url": "https://t.co/UOu3mYtxJc",
+     "expand": "https://twitter.com/i/web/status/967098719064686592"
+    }
+   ]
+  },
+  {
+   "id": 966999313124487200,
+   "id_str": "966999313124487168",
+   "created_at": "Fri Feb 23 11:32:56 +0000 2018",
+   "text": "RT @maurobringolf: Have you ever wondered how a JavaScript minifier works? I do https://t.co/yWvXsvUeIV #javascript #opensource #babel #js…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yWvXsvUeIV",
+     "expand": "https://maurobringolf.ch/2018/02/oss-deep-dive-what-does-a-javascript-minifier-do/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964985617036861400,
+    "id_str": "964985617036861440",
+    "created_at": "Sat Feb 17 22:11:14 +0000 2018",
+    "text": "Have you ever wondered how a JavaScript minifier works? I do https://t.co/yWvXsvUeIV #javascript #opensource #babel #js #babeljs #oss",
+    "retweet_count": 13,
+    "favorite_count": 29,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yWvXsvUeIV",
+      "expand": "https://maurobringolf.ch/2018/02/oss-deep-dive-what-does-a-javascript-minifier-do/"
+     }
+    ]
+   }
+  },
   {
    "id": 966694673174626300,
    "id_str": "966694673174626305",

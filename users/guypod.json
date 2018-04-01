@@ -1,6 +1,2151 @@
 {
- "time": 1519367438960,
+ "time": 1522595220652,
  "lists": [
+  {
+   "id": 980072855571501000,
+   "id_str": "980072855571501056",
+   "created_at": "Sat Mar 31 13:22:32 +0000 2018",
+   "text": "RT @DZone: [New Guide] The 2018 Guide to #Performance: Testing and Tuning. Download the free PDF here: https://t.co/1tlxnW7xm2 \n\n- Discover…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1tlxnW7xm2",
+     "expand": "http://bit.ly/2018PerformanceGuide"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978240310949175300,
+    "id_str": "978240310949175296",
+    "created_at": "Mon Mar 26 12:00:39 +0000 2018",
+    "text": "[New Guide] The 2018 Guide to #Performance: Testing and Tuning. Download the free PDF here: https://t.co/1tlxnW7xm2… https://t.co/6FUDEKRw3E",
+    "retweet_count": 16,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1tlxnW7xm2",
+      "expand": "http://bit.ly/2018PerformanceGuide"
+     },
+     {
+      "url": "https://t.co/6FUDEKRw3E",
+      "expand": "https://twitter.com/i/web/status/978240310949175296"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979823621093974000,
+   "id_str": "979823621093974016",
+   "created_at": "Fri Mar 30 20:52:10 +0000 2018",
+   "text": "RT @snyksec: Yup, it’s our own vulnerability database securing developers using Chrome Lighthouse. We’re proud to be partnering with Google…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979797039390384100,
+    "id_str": "979797039390384128",
+    "created_at": "Fri Mar 30 19:06:32 +0000 2018",
+    "text": "Yup, it’s our own vulnerability database securing developers using Chrome Lighthouse. We’re proud to be partnering… https://t.co/0HX0zCefOK",
+    "retweet_count": 2,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0HX0zCefOK",
+      "expand": "https://twitter.com/i/web/status/979797039390384128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979383743151517700,
+   "id_str": "979383743151517697",
+   "created_at": "Thu Mar 29 15:44:15 +0000 2018",
+   "text": "RT @snyksec: We’re very happy to partner with Google — Snyk is powering Chrome Lighthouse to more easily detect JavaScript vulnerabilities…",
+   "retweet_count": 23,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979380378048835600,
+    "id_str": "979380378048835584",
+    "created_at": "Thu Mar 29 15:30:52 +0000 2018",
+    "text": "We’re very happy to partner with Google — Snyk is powering Chrome Lighthouse to more easily detect JavaScript vulne… https://t.co/lI9qDdUPhj",
+    "retweet_count": 23,
+    "favorite_count": 71,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lI9qDdUPhj",
+      "expand": "https://twitter.com/i/web/status/979380378048835584"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979076731444265000,
+   "id_str": "979076731444264960",
+   "created_at": "Wed Mar 28 19:24:17 +0000 2018",
+   "text": "RT @HTTPArchive: 🎓 After many months of work, we're rolling out the new (formerly known as \"beta\") HTTP Archive experience today! Go try it…",
+   "retweet_count": 186,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979039393024442400,
+    "id_str": "979039393024442373",
+    "created_at": "Wed Mar 28 16:55:55 +0000 2018",
+    "text": "🎓 After many months of work, we're rolling out the new (formerly known as \"beta\") HTTP Archive experience today! Go… https://t.co/zPqAc1JDnE",
+    "retweet_count": 186,
+    "favorite_count": 337,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zPqAc1JDnE",
+      "expand": "https://twitter.com/i/web/status/979039393024442373"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978901696029052900,
+   "id_str": "978901696029052928",
+   "created_at": "Wed Mar 28 07:48:46 +0000 2018",
+   "text": "RT @edsim: I just published “The Enterprise Strikes Back” https://t.co/XgRYCgic5D",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XgRYCgic5D",
+     "expand": "https://medium.com/p/the-enterprise-strikes-back-f2334b34fb15"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978714864469364700,
+    "id_str": "978714864469364742",
+    "created_at": "Tue Mar 27 19:26:21 +0000 2018",
+    "text": "I just published “The Enterprise Strikes Back” https://t.co/XgRYCgic5D",
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XgRYCgic5D",
+      "expand": "https://medium.com/p/the-enterprise-strikes-back-f2334b34fb15"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978284265073918000,
+   "id_str": "978284265073917952",
+   "created_at": "Mon Mar 26 14:55:19 +0000 2018",
+   "text": "PagerDuty open sourced their internal security training! \nSecurity education is key, even if your company has very… https://t.co/bg8vFYUIVe",
+   "retweet_count": 62,
+   "favorite_count": 122,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bg8vFYUIVe",
+     "expand": "https://twitter.com/i/web/status/978284265073917952"
+    }
+   ]
+  },
+  {
+   "id": 978185116798373900,
+   "id_str": "978185116798373889",
+   "created_at": "Mon Mar 26 08:21:20 +0000 2018",
+   "text": "Welcome onboard, thrilled to have you on the team! https://t.co/b4XO1a1vrl",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/b4XO1a1vrl",
+     "expand": "https://twitter.com/moynibell/status/978181052127698944"
+    }
+   ]
+  },
+  {
+   "id": 976998561589100500,
+   "id_str": "976998561589100544",
+   "created_at": "Fri Mar 23 01:46:23 +0000 2018",
+   "text": "RT @snyksec: It’s the week of Sports Relief! So it’s a topical time to release a case study of how Comic Relief uses Snyk to make use of OS…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976857180761743400,
+    "id_str": "976857180761743360",
+    "created_at": "Thu Mar 22 16:24:35 +0000 2018",
+    "text": "It’s the week of Sports Relief! So it’s a topical time to release a case study of how Comic Relief uses Snyk to mak… https://t.co/9tcRwIPwXc",
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9tcRwIPwXc",
+      "expand": "https://twitter.com/i/web/status/976857180761743360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975162708692791300,
+   "id_str": "975162708692791297",
+   "created_at": "Sun Mar 18 00:11:22 +0000 2018",
+   "text": "RT @InfoQ: At #qconsf 2017, Guy Podjarny (@guypod) broke into a vulnerable #Serverless application and exploited its multiple weaknesses. W…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975114638034653200,
+    "id_str": "975114638034653185",
+    "created_at": "Sat Mar 17 21:00:21 +0000 2018",
+    "text": "At #qconsf 2017, Guy Podjarny (@guypod) broke into a vulnerable #Serverless application and exploited its multiple… https://t.co/zF7ZYGV1ji",
+    "retweet_count": 13,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zF7ZYGV1ji",
+      "expand": "https://twitter.com/i/web/status/975114638034653185"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973515768439681000,
+   "id_str": "973515768439681024",
+   "created_at": "Tue Mar 13 11:07:00 +0000 2018",
+   "text": "Microsoft offers a local version of Azure to government. \nInteresting to see public cloud evolving into private clo… https://t.co/zA0UJV9k4q",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zA0UJV9k4q",
+     "expand": "https://twitter.com/i/web/status/973515768439681024"
+    }
+   ]
+  },
+  {
+   "id": 973341951461417000,
+   "id_str": "973341951461416962",
+   "created_at": "Mon Mar 12 23:36:19 +0000 2018",
+   "text": "RT @snyksec: There are still spaces at the Snyk London office warming party. We’re gonna geek out with some live hacking by @guypod and a s…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973244183673745400,
+    "id_str": "973244183673745409",
+    "created_at": "Mon Mar 12 17:07:50 +0000 2018",
+    "text": "There are still spaces at the Snyk London office warming party. We’re gonna geek out with some live hacking by… https://t.co/qOsWX0bRW8",
+    "retweet_count": 8,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qOsWX0bRW8",
+      "expand": "https://twitter.com/i/web/status/973244183673745409"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973341756833108000,
+   "id_str": "973341756833107968",
+   "created_at": "Mon Mar 12 23:35:33 +0000 2018",
+   "text": "RT @rseroter: If you liked @guypod's insightful @InfoQ article about serverless security (https://t.co/ieen5vOagY) but don't like, you know…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ieen5vOagY",
+     "expand": "https://www.infoq.com/articles/serverless-security"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973244730766217200,
+    "id_str": "973244730766217218",
+    "created_at": "Mon Mar 12 17:10:00 +0000 2018",
+    "text": "If you liked @guypod's insightful @InfoQ article about serverless security (https://t.co/ieen5vOagY) but don't like… https://t.co/7BMb32ke53",
+    "retweet_count": 11,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ieen5vOagY",
+      "expand": "https://www.infoq.com/articles/serverless-security"
+     },
+     {
+      "url": "https://t.co/7BMb32ke53",
+      "expand": "https://twitter.com/i/web/status/973244730766217218"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973341347586412500,
+   "id_str": "973341347586412549",
+   "created_at": "Mon Mar 12 23:33:55 +0000 2018",
+   "text": "RT @snyksec: Watch @guypod break into a serverless application from the comfort of your own home! While serverless can be considered one of…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973192780674629600,
+    "id_str": "973192780674629632",
+    "created_at": "Mon Mar 12 13:43:34 +0000 2018",
+    "text": "Watch @guypod break into a serverless application from the comfort of your own home! While serverless can be consid… https://t.co/DEKiKQOJ49",
+    "retweet_count": 8,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DEKiKQOJ49",
+      "expand": "https://twitter.com/i/web/status/973192780674629632"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973302050573385700,
+   "id_str": "973302050573385729",
+   "created_at": "Mon Mar 12 20:57:46 +0000 2018",
+   "text": "RT @jfrog: Join us at the JFrog and @snyksec Meetup in Silicon Valley! We will discuss how to find security vulnerabilities in open source…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973293325552898000,
+    "id_str": "973293325552898048",
+    "created_at": "Mon Mar 12 20:23:06 +0000 2018",
+    "text": "Join us at the JFrog and @snyksec Meetup in Silicon Valley! We will discuss how to find security vulnerabilities in… https://t.co/tvx7eaBqP6",
+    "retweet_count": 10,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/tvx7eaBqP6",
+      "expand": "https://twitter.com/i/web/status/973293325552898048"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973244229148467200,
+   "id_str": "973244229148467200",
+   "created_at": "Mon Mar 12 17:08:00 +0000 2018",
+   "text": "Serverless creates new opportunities for developers. \nVery well said by @thomasj\nhttps://t.co/MWYNsY6M4q",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MWYNsY6M4q",
+     "expand": "https://buff.ly/2Fq7zxH"
+    }
+   ]
+  },
+  {
+   "id": 973153389386321900,
+   "id_str": "973153389386321920",
+   "created_at": "Mon Mar 12 11:07:03 +0000 2018",
+   "text": "What does ops look like in the world of Serverless? Is it small enough to be a side competency of a dev in the prod… https://t.co/WvJ8eiuOBu",
+   "retweet_count": 4,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WvJ8eiuOBu",
+     "expand": "https://twitter.com/i/web/status/973153389386321920"
+    }
+   ]
+  },
+  {
+   "id": 973128147377025000,
+   "id_str": "973128147377025024",
+   "created_at": "Mon Mar 12 09:26:44 +0000 2018",
+   "text": "The title alone is worth a tweet! https://t.co/FZuOtOzzeF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FZuOtOzzeF",
+     "expand": "https://www.buzzfeed.com/venessawong/amazon-alexa-devices-are-laughing-creepy"
+    }
+   ]
+  },
+  {
+   "id": 972964922295496700,
+   "id_str": "972964922295496704",
+   "created_at": "Sun Mar 11 22:38:08 +0000 2018",
+   "text": "RT @danielbryantuk: Great @InfoQ summary by @janstenberg -&gt; \"The Future of Microservices and Distributed Systems: #QConLondon Microservices…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972883330348802000,
+    "id_str": "972883330348802050",
+    "created_at": "Sun Mar 11 17:13:55 +0000 2018",
+    "text": "Great @InfoQ summary by @janstenberg -&gt; \"The Future of Microservices and Distributed Systems: #QConLondon Microserv… https://t.co/wK6YueP84k",
+    "retweet_count": 10,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wK6YueP84k",
+      "expand": "https://twitter.com/i/web/status/972883330348802050"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972624622721159200,
+   "id_str": "972624622721159170",
+   "created_at": "Sun Mar 11 00:05:55 +0000 2018",
+   "text": "@LiamT To be clear, I don’t have deep insights re this vulnerability, but when the attack vector is so easily reach… https://t.co/lcyPXzyHru",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972622536214184000,
+   "in_reply_to_status_id_str": "972622536214183937",
+   "in_reply_to_screen_name": "guypod",
+   "urls": [
+    {
+     "url": "https://t.co/lcyPXzyHru",
+     "expand": "https://twitter.com/i/web/status/972624622721159170"
+    }
+   ]
+  },
+  {
+   "id": 972622536214184000,
+   "id_str": "972622536214183937",
+   "created_at": "Sat Mar 10 23:57:37 +0000 2018",
+   "text": "@LiamT Happy to - DM me and we’ll connect",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972575279108550700,
+   "in_reply_to_status_id_str": "972575279108550657",
+   "in_reply_to_screen_name": "LiamT",
+   "urls": []
+  },
+  {
+   "id": 972519480785080300,
+   "id_str": "972519480785080321",
+   "created_at": "Sat Mar 10 17:08:07 +0000 2018",
+   "text": "Open-source Exim has a potential remote command execution vulnerability, and MANY servers remain unpatched. \nExploi… https://t.co/SV4xZ7QKDp",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SV4xZ7QKDp",
+     "expand": "https://twitter.com/i/web/status/972519480785080321"
+    }
+   ]
+  },
+  {
+   "id": 972428605161648100,
+   "id_str": "972428605161648128",
+   "created_at": "Sat Mar 10 11:07:00 +0000 2018",
+   "text": "If a suspected criminal in the US stored incriminating info in an EU cloud server, should authorities be allowed to… https://t.co/BrotZU3PJ6",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BrotZU3PJ6",
+     "expand": "https://twitter.com/i/web/status/972428605161648128"
+    }
+   ]
+  },
+  {
+   "id": 972264851136532500,
+   "id_str": "972264851136532480",
+   "created_at": "Sat Mar 10 00:16:18 +0000 2018",
+   "text": "RT @edsim: 🔥 Hot off the press: “What's Hot in Enterprise IT/VC - Issue #72” https://t.co/mc4IHwg5KC (via @revue)",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mc4IHwg5KC",
+     "expand": "http://digest.beyondvc.com/archive/100181"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972129938877878300,
+    "id_str": "972129938877878274",
+    "created_at": "Fri Mar 09 15:20:13 +0000 2018",
+    "text": "🔥 Hot off the press: “What's Hot in Enterprise IT/VC - Issue #72” https://t.co/mc4IHwg5KC (via @revue)",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mc4IHwg5KC",
+      "expand": "http://digest.beyondvc.com/archive/100181"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972264453319397400,
+   "id_str": "972264453319397376",
+   "created_at": "Sat Mar 10 00:14:44 +0000 2018",
+   "text": "RT @snyksec: We’ll be speaking at a @jfrog\nMeetup on March 22nd in Sunnydale, CA. Join @jbaruch and @gevasolo live hack a vulnerable applic…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972191950840451100,
+    "id_str": "972191950840451079",
+    "created_at": "Fri Mar 09 19:26:38 +0000 2018",
+    "text": "We’ll be speaking at a @jfrog\nMeetup on March 22nd in Sunnydale, CA. Join @jbaruch and @gevasolo live hack a vulner… https://t.co/v1VcgngJHX",
+    "retweet_count": 7,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/v1VcgngJHX",
+      "expand": "https://twitter.com/i/web/status/972191950840451079"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972087171879489500,
+   "id_str": "972087171879489536",
+   "created_at": "Fri Mar 09 12:30:16 +0000 2018",
+   "text": "RT @snyksec: We’re happy to help bring @devseccon to Tel Aviv this May! We’d love it if you joined us.\n\nhttps://t.co/wDEnxGyELB https://t.c…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wDEnxGyELB",
+     "expand": "https://www.devseccon.com/tel-aviv-2018/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972087107983462400,
+    "id_str": "972087107983462401",
+    "created_at": "Fri Mar 09 12:30:01 +0000 2018",
+    "text": "We’re happy to help bring @devseccon to Tel Aviv this May! We’d love it if you joined us.\n\nhttps://t.co/wDEnxGyELB https://t.co/UXX8aeOInH",
+    "retweet_count": 8,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wDEnxGyELB",
+      "expand": "https://www.devseccon.com/tel-aviv-2018/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971822816495571000,
+   "id_str": "971822816495570945",
+   "created_at": "Thu Mar 08 18:59:49 +0000 2018",
+   "text": "@TimHaines @snyksec Good suggestions!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971579499799195600,
+   "in_reply_to_status_id_str": "971579499799195648",
+   "in_reply_to_screen_name": "TimHaines",
+   "urls": []
+  },
+  {
+   "id": 971816447050768400,
+   "id_str": "971816447050768384",
+   "created_at": "Thu Mar 08 18:34:31 +0000 2018",
+   "text": "Great reasons why your biz should contribute to open source by @ShwetaHari: \n\n1. It’s Not Just Code, It’s A Communi… https://t.co/T0LwhDnOO3",
+   "retweet_count": 5,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/T0LwhDnOO3",
+     "expand": "https://twitter.com/i/web/status/971816447050768384"
+    }
+   ]
+  },
+  {
+   "id": 971814652995874800,
+   "id_str": "971814652995874817",
+   "created_at": "Thu Mar 08 18:27:23 +0000 2018",
+   "text": "The Pentagon wants to choose a single cloud provider for the next few years, bets are on AWS. \n\nWill give them a gr… https://t.co/GlrWLwbKC5",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GlrWLwbKC5",
+     "expand": "https://twitter.com/i/web/status/971814652995874817"
+    }
+   ]
+  },
+  {
+   "id": 971809997033230300,
+   "id_str": "971809997033230336",
+   "created_at": "Thu Mar 08 18:08:53 +0000 2018",
+   "text": "RT @snyksec: . @guypod shares our plans to take over the world (securely) with our series A funding. Plus, a huge thank you to all those wh…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971809208478916600,
+    "id_str": "971809208478916609",
+    "created_at": "Thu Mar 08 18:05:45 +0000 2018",
+    "text": ". @guypod shares our plans to take over the world (securely) with our series A funding. Plus, a huge thank you to a… https://t.co/gycZa4F6CG",
+    "retweet_count": 7,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gycZa4F6CG",
+      "expand": "https://twitter.com/i/web/status/971809208478916609"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971809923691679700,
+   "id_str": "971809923691679744",
+   "created_at": "Thu Mar 08 18:08:35 +0000 2018",
+   "text": "@TimHaines @snyksec The difference is that ShellJS is assumed to be sanitising parameters and didn’t do it successf… https://t.co/Suv9PMcomu",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971579499799195600,
+   "in_reply_to_status_id_str": "971579499799195648",
+   "in_reply_to_screen_name": "TimHaines",
+   "urls": [
+    {
+     "url": "https://t.co/Suv9PMcomu",
+     "expand": "https://twitter.com/i/web/status/971809923691679744"
+    }
+   ]
+  },
+  {
+   "id": 971537325871202300,
+   "id_str": "971537325871202305",
+   "created_at": "Thu Mar 08 00:05:23 +0000 2018",
+   "text": "RT @edsim: Doubling down and second time around with @guypod! https://t.co/AQBvC8D1sW",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AQBvC8D1sW",
+     "expand": "https://twitter.com/Boldstartvc/status/971519456596946945"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971519783446425600,
+    "id_str": "971519783446425602",
+    "created_at": "Wed Mar 07 22:55:40 +0000 2018",
+    "text": "Doubling down and second time around with @guypod! https://t.co/AQBvC8D1sW",
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AQBvC8D1sW",
+      "expand": "https://twitter.com/Boldstartvc/status/971519456596946945"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971442838603956200,
+   "id_str": "971442838603956224",
+   "created_at": "Wed Mar 07 17:49:55 +0000 2018",
+   "text": "RT @snyksec: Will 2018 be a breakout year for DevSecOps? [SPOILER] YES! \n\nCheck out @guypod’s predictions for 2018 https://t.co/oJlMU1qel7",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oJlMU1qel7",
+     "expand": "https://sdtimes.com/dsops/why-2018-will-be-a-breakout-year-for-devsecops/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971420109876154400,
+    "id_str": "971420109876154370",
+    "created_at": "Wed Mar 07 16:19:36 +0000 2018",
+    "text": "Will 2018 be a breakout year for DevSecOps? [SPOILER] YES! \n\nCheck out @guypod’s predictions for 2018 https://t.co/oJlMU1qel7",
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oJlMU1qel7",
+      "expand": "https://sdtimes.com/dsops/why-2018-will-be-a-breakout-year-for-devsecops/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971412502604021800,
+   "id_str": "971412502604021760",
+   "created_at": "Wed Mar 07 15:49:23 +0000 2018",
+   "text": "RT @snyksec: Hooray, we’re in our swanky new London office! You're invited to celebrate with us on the evening of March 14th. There will be…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971396144747241500,
+    "id_str": "971396144747241472",
+    "created_at": "Wed Mar 07 14:44:23 +0000 2018",
+    "text": "Hooray, we’re in our swanky new London office! You're invited to celebrate with us on the evening of March 14th. Th… https://t.co/UYIgrYBic2",
+    "retweet_count": 10,
+    "favorite_count": 31,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UYIgrYBic2",
+      "expand": "https://twitter.com/i/web/status/971396144747241472"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971363593718550500,
+   "id_str": "971363593718550528",
+   "created_at": "Wed Mar 07 12:35:02 +0000 2018",
+   "text": "@IanAndrewsDC @snyksec Very nicely - and without a pause ;)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971346933813039100,
+   "in_reply_to_status_id_str": "971346933813039104",
+   "in_reply_to_screen_name": "IanAndrewsDC",
+   "urls": []
+  },
+  {
+   "id": 971328090747043800,
+   "id_str": "971328090747043840",
+   "created_at": "Wed Mar 07 10:13:57 +0000 2018",
+   "text": "@danielbryantuk @PaulDJohnston @samnewman @chrismunns @qconlondon @InfoQ A good opportunity to mention I’ve written… https://t.co/SSWeF3UGA9",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 970963284030644200,
+   "in_reply_to_status_id_str": "970963284030644224",
+   "in_reply_to_screen_name": "danielbryantuk",
+   "urls": [
+    {
+     "url": "https://t.co/SSWeF3UGA9",
+     "expand": "https://twitter.com/i/web/status/971328090747043840"
+    }
+   ]
+  },
+  {
+   "id": 971327555222589400,
+   "id_str": "971327555222589440",
+   "created_at": "Wed Mar 07 10:11:50 +0000 2018",
+   "text": "@PaulDJohnston @samnewman @chrismunns @qconlondon Paul, worry not, the talk definitely doesn’t say Serverless is in… https://t.co/twnBDY4f1s",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971067912424390700,
+   "in_reply_to_status_id_str": "971067912424390661",
+   "in_reply_to_screen_name": "PaulDJohnston",
+   "urls": [
+    {
+     "url": "https://t.co/twnBDY4f1s",
+     "expand": "https://twitter.com/i/web/status/971327555222589440"
+    }
+   ]
+  },
+  {
+   "id": 971145719879958500,
+   "id_str": "971145719879958529",
+   "created_at": "Tue Mar 06 22:09:17 +0000 2018",
+   "text": "@matteocollina @dshaw To me that’s a part of the “tools maturing” bit :) \nNo doubt that using Serverless means putt… https://t.co/ZYTu3GGhm6",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970926604569497600,
+   "in_reply_to_status_id_str": "970926604569497600",
+   "in_reply_to_screen_name": "matteocollina",
+   "urls": [
+    {
+     "url": "https://t.co/ZYTu3GGhm6",
+     "expand": "https://twitter.com/i/web/status/971145719879958529"
+    }
+   ]
+  },
+  {
+   "id": 971145011881545700,
+   "id_str": "971145011881545728",
+   "created_at": "Tue Mar 06 22:06:28 +0000 2018",
+   "text": "@inlined @snyksec No offence taken :)\nI agree the two are different layers, but for many people it’s a consideratio… https://t.co/KuFLRE1m0E",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971129377298595800,
+   "in_reply_to_status_id_str": "971129377298595840",
+   "in_reply_to_screen_name": "inlined",
+   "urls": [
+    {
+     "url": "https://t.co/KuFLRE1m0E",
+     "expand": "https://twitter.com/i/web/status/971145011881545728"
+    }
+   ]
+  },
+  {
+   "id": 971105234192863200,
+   "id_str": "971105234192863232",
+   "created_at": "Tue Mar 06 19:28:24 +0000 2018",
+   "text": "@caseyjohnellis Absolutely!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971085101831356400,
+   "in_reply_to_status_id_str": "971085101831356416",
+   "in_reply_to_screen_name": "caseyjohnellis",
+   "urls": []
+  },
+  {
+   "id": 971083217326534700,
+   "id_str": "971083217326534656",
+   "created_at": "Tue Mar 06 18:00:55 +0000 2018",
+   "text": "RT @heavybit: Huge congrats to the @snyksec team on their $7m Series A funding! We're thrilled to partner with you, @Boldstartvc &amp; @canaanp…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971059371663810600,
+    "id_str": "971059371663810560",
+    "created_at": "Tue Mar 06 16:26:10 +0000 2018",
+    "text": "Huge congrats to the @snyksec team on their $7m Series A funding! We're thrilled to partner with you, @Boldstartvc… https://t.co/OV9qywO5gH",
+    "retweet_count": 3,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OV9qywO5gH",
+      "expand": "https://twitter.com/i/web/status/971059371663810560"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971042605336277000,
+   "id_str": "971042605336276992",
+   "created_at": "Tue Mar 06 15:19:32 +0000 2018",
+   "text": "RT @Boldstartvc: Super excited to lead @snyksec new round with @canaanpartners incl. @heavybit to scale dev-focused open source security! W…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971041913582256100,
+    "id_str": "971041913582256130",
+    "created_at": "Tue Mar 06 15:16:47 +0000 2018",
+    "text": "Super excited to lead @snyksec new round with @canaanpartners incl. @heavybit to scale dev-focused open source secu… https://t.co/QrMK9SP2nS",
+    "retweet_count": 10,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QrMK9SP2nS",
+      "expand": "https://twitter.com/i/web/status/971041913582256130"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971036661101547500,
+   "id_str": "971036661101547531",
+   "created_at": "Tue Mar 06 14:55:55 +0000 2018",
+   "text": "Excited to announce our Series A!\n\nLook forward to using this funding to grow our awesome team, expand the product,… https://t.co/nTNoakbhup",
+   "retweet_count": 2,
+   "favorite_count": 43,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nTNoakbhup",
+     "expand": "https://twitter.com/i/web/status/971036661101547531"
+    }
+   ]
+  },
+  {
+   "id": 970792644237516800,
+   "id_str": "970792644237516800",
+   "created_at": "Mon Mar 05 22:46:17 +0000 2018",
+   "text": "@chrismunns @kriswager I think it’s different due to the granularity of functions. In a while, there will be many m… https://t.co/SLFEQzC0Dk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970792059060867100,
+   "in_reply_to_status_id_str": "970792059060867072",
+   "in_reply_to_screen_name": "chrismunns",
+   "urls": [
+    {
+     "url": "https://t.co/SLFEQzC0Dk",
+     "expand": "https://twitter.com/i/web/status/970792644237516800"
+    }
+   ]
+  },
+  {
+   "id": 970791651651342300,
+   "id_str": "970791651651342336",
+   "created_at": "Mon Mar 05 22:42:20 +0000 2018",
+   "text": "@chrismunns @kriswager You can indeed find out if a function is called, but if it’s not called, can you delete it?… https://t.co/GG7bMEdy3Z",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970753591253323800,
+   "in_reply_to_status_id_str": "970753591253323777",
+   "in_reply_to_screen_name": "chrismunns",
+   "urls": [
+    {
+     "url": "https://t.co/GG7bMEdy3Z",
+     "expand": "https://twitter.com/i/web/status/970791651651342336"
+    }
+   ]
+  },
+  {
+   "id": 970702942998327300,
+   "id_str": "970702942998327297",
+   "created_at": "Mon Mar 05 16:49:51 +0000 2018",
+   "text": "RT @tkadlec: Some big and exciting news for me!\n\nI'm returning to independent work, helping folks who want to build a faster web that works…",
+   "retweet_count": 32,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970698596109705200,
+    "id_str": "970698596109705216",
+    "created_at": "Mon Mar 05 16:32:34 +0000 2018",
+    "text": "Some big and exciting news for me!\n\nI'm returning to independent work, helping folks who want to build a faster web… https://t.co/1fYPEDN9hP",
+    "retweet_count": 32,
+    "favorite_count": 198,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1fYPEDN9hP",
+      "expand": "https://twitter.com/i/web/status/970698596109705216"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970701626444009500,
+   "id_str": "970701626444009472",
+   "created_at": "Mon Mar 05 16:44:37 +0000 2018",
+   "text": "@colinbjohnson Fundamentally the platform handles more of the security concerns, and on average the platform does i… https://t.co/EsmIjWMSfn",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970697142565130200,
+   "in_reply_to_status_id_str": "970697142565130240",
+   "in_reply_to_screen_name": "colinbjohnson",
+   "urls": [
+    {
+     "url": "https://t.co/EsmIjWMSfn",
+     "expand": "https://twitter.com/i/web/status/970701626444009472"
+    }
+   ]
+  },
+  {
+   "id": 970700623283916800,
+   "id_str": "970700623283916800",
+   "created_at": "Mon Mar 05 16:40:37 +0000 2018",
+   "text": "RT @qconlondon: .@guypod breaks into a vulnerable #Serverless application and exploits multiple weaknesses, helping #qconlondon attendees b…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970699995992264700,
+    "id_str": "970699995992264704",
+    "created_at": "Mon Mar 05 16:38:08 +0000 2018",
+    "text": ".@guypod breaks into a vulnerable #Serverless application and exploits multiple weaknesses, helping #qconlondon att… https://t.co/vfvcAus4qN",
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vfvcAus4qN",
+      "expand": "https://twitter.com/i/web/status/970699995992264704"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970696865938362400,
+   "id_str": "970696865938362368",
+   "created_at": "Mon Mar 05 16:25:42 +0000 2018",
+   "text": "Brilliant move by @1Password.\n\n(Via @samnewman at @qconlondon) https://t.co/8yI9nNpF49",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970696497288417300,
+   "id_str": "970696497288417280",
+   "created_at": "Mon Mar 05 16:24:14 +0000 2018",
+   "text": "Pure @xkcd_rss material 😂\n(Via @samnewman in @qconlondon) https://t.co/fp6FhNzBkw",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970695298392748000,
+   "id_str": "970695298392748032",
+   "created_at": "Mon Mar 05 16:19:28 +0000 2018",
+   "text": "A less security conscious team will likely create *more* security issues with micro services. \n\nA more security con… https://t.co/HbfQWiUSC3",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HbfQWiUSC3",
+     "expand": "https://twitter.com/i/web/status/970695298392748032"
+    }
+   ]
+  },
+  {
+   "id": 970694500468305900,
+   "id_str": "970694500468305924",
+   "created_at": "Mon Mar 05 16:16:18 +0000 2018",
+   "text": "@qconlondon With a monolith application, we have to protect the least important information the same way we protect… https://t.co/hZ0xqCaBzZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "qconlondon",
+   "urls": [
+    {
+     "url": "https://t.co/hZ0xqCaBzZ",
+     "expand": "https://twitter.com/i/web/status/970694500468305924"
+    }
+   ]
+  },
+  {
+   "id": 970683736747585500,
+   "id_str": "970683736747585536",
+   "created_at": "Mon Mar 05 15:33:31 +0000 2018",
+   "text": "@PaulDJohnston @samnewman @chrismunns @qconlondon I think we’re getting into black and white land. Here’s what I th… https://t.co/Fe1ZvgF4hZ",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970667484494942200,
+   "in_reply_to_status_id_str": "970667484494942208",
+   "in_reply_to_screen_name": "PaulDJohnston",
+   "urls": [
+    {
+     "url": "https://t.co/Fe1ZvgF4hZ",
+     "expand": "https://twitter.com/i/web/status/970683736747585536"
+    }
+   ]
+  },
+  {
+   "id": 970683431238717400,
+   "id_str": "970683431238717440",
+   "created_at": "Mon Mar 05 15:32:19 +0000 2018",
+   "text": "Serverless is not “less secure” than containers.\n\nServerless is likely *more* secure than containers, or will be on… https://t.co/IOSbQBPtQ8",
+   "retweet_count": 22,
+   "favorite_count": 65,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IOSbQBPtQ8",
+     "expand": "https://twitter.com/i/web/status/970683431238717440"
+    }
+   ]
+  },
+  {
+   "id": 970681087256088600,
+   "id_str": "970681087256088576",
+   "created_at": "Mon Mar 05 15:23:00 +0000 2018",
+   "text": "@danielbryantuk @chrismunns @samnewman @qconlondon In addition, FaaS platform never show which libraries a function… https://t.co/NQoxnfMZjO",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970680483251212300,
+   "in_reply_to_status_id_str": "970680483251212289",
+   "in_reply_to_screen_name": "guypod",
+   "urls": [
+    {
+     "url": "https://t.co/NQoxnfMZjO",
+     "expand": "https://twitter.com/i/web/status/970681087256088576"
+    }
+   ]
+  },
+  {
+   "id": 970680483251212300,
+   "id_str": "970680483251212289",
+   "created_at": "Mon Mar 05 15:20:36 +0000 2018",
+   "text": "@danielbryantuk @chrismunns @samnewman @qconlondon My talk explains what’s left to protect in Serverless. FaaS hand… https://t.co/IKTzeDRz2x",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970665435329900500,
+   "in_reply_to_status_id_str": "970665435329900544",
+   "in_reply_to_screen_name": "danielbryantuk",
+   "urls": [
+    {
+     "url": "https://t.co/IKTzeDRz2x",
+     "expand": "https://twitter.com/i/web/status/970680483251212289"
+    }
+   ]
+  },
+  {
+   "id": 970673751712034800,
+   "id_str": "970673751712034816",
+   "created_at": "Mon Mar 05 14:53:51 +0000 2018",
+   "text": "RT @samnewman: So your serverless function only has 19 lines of code? Think again... @guypod at @qconlondon https://t.co/6nC5gMIXeQ",
+   "retweet_count": 55,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970657380248834000,
+    "id_str": "970657380248834048",
+    "created_at": "Mon Mar 05 13:48:48 +0000 2018",
+    "text": "So your serverless function only has 19 lines of code? Think again... @guypod at @qconlondon https://t.co/6nC5gMIXeQ",
+    "retweet_count": 55,
+    "favorite_count": 101,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 970652725095686100,
+   "id_str": "970652725095686146",
+   "created_at": "Mon Mar 05 13:30:18 +0000 2018",
+   "text": "Want to see some live hacking of a Serverless app? and get advice on how to keep that from being your app?...\n\nGett… https://t.co/gdRJ97qizB",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gdRJ97qizB",
+     "expand": "https://twitter.com/i/web/status/970652725095686146"
+    }
+   ]
+  },
+  {
+   "id": 970636051751596000,
+   "id_str": "970636051751596032",
+   "created_at": "Mon Mar 05 12:24:02 +0000 2018",
+   "text": "Amazing - @GetSoloIO’s Gloo (open source!) let’s you debug and route at the function level. \n\nLet’s you combine arc… https://t.co/syHLzjBfVG",
+   "retweet_count": 5,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 970634150532276200,
+   "in_reply_to_status_id_str": "970634150532276224",
+   "in_reply_to_screen_name": "guypod",
+   "urls": [
+    {
+     "url": "https://t.co/syHLzjBfVG",
+     "expand": "https://twitter.com/i/web/status/970636051751596032"
+    }
+   ]
+  },
+  {
+   "id": 970634150532276200,
+   "id_str": "970634150532276224",
+   "created_at": "Mon Mar 05 12:16:29 +0000 2018",
+   "text": "Transitioning to the next evolution in infra is hard... requires changing concepts and apps, as well as surrounding… https://t.co/3O1BDKLNLA",
+   "retweet_count": 3,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3O1BDKLNLA",
+     "expand": "https://twitter.com/i/web/status/970634150532276224"
+    }
+   ]
+  },
+  {
+   "id": 970633678400426000,
+   "id_str": "970633678400425985",
+   "created_at": "Mon Mar 05 12:14:37 +0000 2018",
+   "text": "SO much insight about debugging micro services in @Idit_Levine’s talk (at @qconlondon). \n\nBe sure to check out Open… https://t.co/WhA4D4bCC7",
+   "retweet_count": 3,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WhA4D4bCC7",
+     "expand": "https://twitter.com/i/web/status/970633678400425985"
+    }
+   ]
+  },
+  {
+   "id": 970628395892641800,
+   "id_str": "970628395892641792",
+   "created_at": "Mon Mar 05 11:53:37 +0000 2018",
+   "text": "Great tweet to kick off @Idit_Levine’s @qconlondon talk 😂 https://t.co/8I8nisSsgn",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970621889478611000,
+   "id_str": "970621889478610944",
+   "created_at": "Mon Mar 05 11:27:46 +0000 2018",
+   "text": "A microservice can promise certain things about itself, which you should define &amp; monitor. \n\nA set of microservices… https://t.co/EW7VUKslxZ",
+   "retweet_count": 7,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EW7VUKslxZ",
+     "expand": "https://twitter.com/i/web/status/970621889478610944"
+    }
+   ]
+  },
+  {
+   "id": 970618364430299100,
+   "id_str": "970618364430299137",
+   "created_at": "Mon Mar 05 11:13:45 +0000 2018",
+   "text": "@DKundel @jawache it’s tricky because CSRF compromises an individual user, not an entire site. So the place to look… https://t.co/pUpqHc8P5M",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968876967931105300,
+   "in_reply_to_status_id_str": "968876967931105283",
+   "in_reply_to_screen_name": "DKundel",
+   "urls": [
+    {
+     "url": "https://t.co/pUpqHc8P5M",
+     "expand": "https://twitter.com/i/web/status/970618364430299137"
+    }
+   ]
+  },
+  {
+   "id": 970379590509187100,
+   "id_str": "970379590509187073",
+   "created_at": "Sun Mar 04 19:24:57 +0000 2018",
+   "text": "RT @jbcnconf: We are very happy to announce we have @sjmaple as speaker on #jbcn18 with one talk about #java #vulnerabilities https://t.co/…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969485214249553900,
+    "id_str": "969485214249553920",
+    "created_at": "Fri Mar 02 08:11:01 +0000 2018",
+    "text": "We are very happy to announce we have @sjmaple as speaker on #jbcn18 with one talk about #java #vulnerabilities… https://t.co/7TSn39KszU",
+    "retweet_count": 13,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7TSn39KszU",
+      "expand": "https://twitter.com/i/web/status/969485214249553920"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970278115195998200,
+   "id_str": "970278115195998208",
+   "created_at": "Sun Mar 04 12:41:44 +0000 2018",
+   "text": "RT @jaffathecake: 📝 Third party CSS is not 'safe'.\n➡️ Yes, in some situations CSS can 'keylog' password fields, but it's the tip of the ice…",
+   "retweet_count": 616,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968500192210227200,
+    "id_str": "968500192210227202",
+    "created_at": "Tue Feb 27 14:56:54 +0000 2018",
+    "text": "📝 Third party CSS is not 'safe'.\n➡️ Yes, in some situations CSS can 'keylog' password fields, but it's the tip of t… https://t.co/HARq4fgmw6",
+    "retweet_count": 616,
+    "favorite_count": 1024,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HARq4fgmw6",
+      "expand": "https://twitter.com/i/web/status/968500192210227202"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969976892056133600,
+   "id_str": "969976892056133632",
+   "created_at": "Sat Mar 03 16:44:47 +0000 2018",
+   "text": "RT @iRomin: If FaaS is your area of interest, here is an excellent article that covers various security areas to take care of while working…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969728288577945600,
+    "id_str": "969728288577945600",
+    "created_at": "Sat Mar 03 00:16:55 +0000 2018",
+    "text": "If FaaS is your area of interest, here is an excellent article that covers various security areas to take care of w… https://t.co/blK15MLfER",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/blK15MLfER",
+      "expand": "https://twitter.com/i/web/status/969728288577945600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969852236129099800,
+   "id_str": "969852236129099776",
+   "created_at": "Sat Mar 03 08:29:26 +0000 2018",
+   "text": "The 18% of enterprises that excel in DevOps grow at a 60% faster rate. \n\nIis DevOps making them successful or their… https://t.co/A4sCAWokcF",
+   "retweet_count": 2,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/A4sCAWokcF",
+     "expand": "https://twitter.com/i/web/status/969852236129099776"
+    }
+   ]
+  },
+  {
+   "id": 969723029407354900,
+   "id_str": "969723029407354881",
+   "created_at": "Fri Mar 02 23:56:01 +0000 2018",
+   "text": "RT @OReillySecurity: The Software Composition Analysis (SCA) tooling landscape is evolving at an extremely fast pace - and In this chapter,…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969615865690951700,
+    "id_str": "969615865690951680",
+    "created_at": "Fri Mar 02 16:50:11 +0000 2018",
+    "text": "The Software Composition Analysis (SCA) tooling landscape is evolving at an extremely fast pace - and In this chapt… https://t.co/8uLgjv0lfK",
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8uLgjv0lfK",
+      "expand": "https://twitter.com/i/web/status/969615865690951680"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969488400410607600,
+   "id_str": "969488400410607616",
+   "created_at": "Fri Mar 02 08:23:41 +0000 2018",
+   "text": "Current status https://t.co/0azaGOg7i1",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 969486702216646700,
+   "id_str": "969486702216646657",
+   "created_at": "Fri Mar 02 08:16:56 +0000 2018",
+   "text": "Vodafone adding its domains to websites’s CSP implies it’s injecting scripts to those pages, a terrible (yet not ne… https://t.co/UXsff3wbTD",
+   "retweet_count": 6,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UXsff3wbTD",
+     "expand": "https://twitter.com/i/web/status/969486702216646657"
+    }
+   ]
+  },
+  {
+   "id": 969287047709167600,
+   "id_str": "969287047709167616",
+   "created_at": "Thu Mar 01 19:03:35 +0000 2018",
+   "text": "RT @OReillySecurity: Responding to newly disclosed vulnerabilities is where your true defensive skills shine. An excerpt from Securing Open…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969252228803555300,
+    "id_str": "969252228803555328",
+    "created_at": "Thu Mar 01 16:45:13 +0000 2018",
+    "text": "Responding to newly disclosed vulnerabilities is where your true defensive skills shine. An excerpt from Securing O… https://t.co/3aGPMGdtHD",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3aGPMGdtHD",
+      "expand": "https://twitter.com/i/web/status/969252228803555328"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969124009844641800,
+   "id_str": "969124009844641792",
+   "created_at": "Thu Mar 01 08:15:44 +0000 2018",
+   "text": "Will DevOps kill the RFP?\nAt the very least, it should change how you purchase and evaluate professional services.… https://t.co/qYS6ArTXcz",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qYS6ArTXcz",
+     "expand": "https://twitter.com/i/web/status/969124009844641792"
+    }
+   ]
+  },
+  {
+   "id": 968983048409768000,
+   "id_str": "968983048409767938",
+   "created_at": "Wed Feb 28 22:55:36 +0000 2018",
+   "text": "RT @bgalbs: Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive it forward.…",
+   "retweet_count": 103,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968714821628780500,
+    "id_str": "968714821628780544",
+    "created_at": "Wed Feb 28 05:09:45 +0000 2018",
+    "text": "Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive… https://t.co/uaqiVrXU1y",
+    "retweet_count": 103,
+    "favorite_count": 266,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uaqiVrXU1y",
+      "expand": "https://twitter.com/i/web/status/968714821628780544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968983000619864000,
+   "id_str": "968983000619864064",
+   "created_at": "Wed Feb 28 22:55:24 +0000 2018",
+   "text": "RT @OReillySecurity: Once you’ve found and fixed (or at least acknowledged) the security flaws in the libraries you use, it’s time to look…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968930078162935800,
+    "id_str": "968930078162935808",
+    "created_at": "Wed Feb 28 19:25:07 +0000 2018",
+    "text": "Once you’ve found and fixed (or at least acknowledged) the security flaws in the libraries you use, it’s time to lo… https://t.co/0W4ZuNelHY",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0W4ZuNelHY",
+      "expand": "https://twitter.com/i/web/status/968930078162935808"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968925293112152000,
+   "id_str": "968925293112152065",
+   "created_at": "Wed Feb 28 19:06:06 +0000 2018",
+   "text": "It’s great to see Microsoft investing in open source. \nAnd it’s great to see the importance of open source being so… https://t.co/JUxJUChMQN",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JUxJUChMQN",
+     "expand": "https://twitter.com/i/web/status/968925293112152065"
+    }
+   ]
+  },
+  {
+   "id": 968579691627057200,
+   "id_str": "968579691627057154",
+   "created_at": "Tue Feb 27 20:12:48 +0000 2018",
+   "text": "Seminal court case today: US asks Microsoft to share info stored in Ireland, potentially violating Irish laws. \n\nMa… https://t.co/7EFCIes4bF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7EFCIes4bF",
+     "expand": "https://twitter.com/i/web/status/968579691627057154"
+    }
+   ]
+  },
+  {
+   "id": 968559155836522500,
+   "id_str": "968559155836522497",
+   "created_at": "Tue Feb 27 18:51:12 +0000 2018",
+   "text": "Will containers kill release automation tools (Chef, Puppet, Ansible)? \n\nWhile “Nothing ever dies in Enterprise IT”… https://t.co/oXRhLU2w0l",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oXRhLU2w0l",
+     "expand": "https://twitter.com/i/web/status/968559155836522497"
+    }
+   ]
+  },
+  {
+   "id": 968559123209113600,
+   "id_str": "968559123209113600",
+   "created_at": "Tue Feb 27 18:51:04 +0000 2018",
+   "text": "Breaking into the olympics is hard. \nNot getting caught is harder. \nPinning it on someone a nearby neighbour is tak… https://t.co/nSYA3xfIQK",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nSYA3xfIQK",
+     "expand": "https://twitter.com/i/web/status/968559123209113600"
+    }
+   ]
+  },
+  {
+   "id": 968422668826566700,
+   "id_str": "968422668826566656",
+   "created_at": "Tue Feb 27 09:48:51 +0000 2018",
+   "text": "@jllord how about joining us at Snyk and fix open source security? :) \nFeels like a great fit for your current know… https://t.co/EJ4fCpE6An",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "jllord",
+   "urls": [
+    {
+     "url": "https://t.co/EJ4fCpE6An",
+     "expand": "https://twitter.com/i/web/status/968422668826566656"
+    }
+   ]
+  },
+  {
+   "id": 968263556855722000,
+   "id_str": "968263556855721986",
+   "created_at": "Mon Feb 26 23:16:36 +0000 2018",
+   "text": "RT @OReillyMedia: The Software Composition Analysis (SCA) tooling landscape is evolving at an extremely fast pace - and In this chapter, @g…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968166339545325600,
+    "id_str": "968166339545325571",
+    "created_at": "Mon Feb 26 16:50:17 +0000 2018",
+    "text": "The Software Composition Analysis (SCA) tooling landscape is evolving at an extremely fast pace - and In this chapt… https://t.co/1OfVih9wiY",
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1OfVih9wiY",
+      "expand": "https://twitter.com/i/web/status/968166339545325571"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968263518016495600,
+   "id_str": "968263518016495616",
+   "created_at": "Mon Feb 26 23:16:26 +0000 2018",
+   "text": "RT @ben11kehoe: \"Serverless Security: What's Left to Protect?\" The answer, from @guypod, is \"lots\"  https://t.co/S6xeuK84qg",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/S6xeuK84qg",
+     "expand": "https://www.infoq.com/articles/serverless-security#.WpQWMXo3mrk.twitter"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968127234862182400,
+    "id_str": "968127234862182400",
+    "created_at": "Mon Feb 26 14:14:54 +0000 2018",
+    "text": "\"Serverless Security: What's Left to Protect?\" The answer, from @guypod, is \"lots\"  https://t.co/S6xeuK84qg",
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/S6xeuK84qg",
+      "expand": "https://www.infoq.com/articles/serverless-security#.WpQWMXo3mrk.twitter"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968117118075048000,
+   "id_str": "968117118075047936",
+   "created_at": "Mon Feb 26 13:34:42 +0000 2018",
+   "text": "Serverless Security overview - \nA discussion \nhttps://t.co/h5XRbyf3cO",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/h5XRbyf3cO",
+     "expand": "https://news.ycombinator.com/item?id=16447298#16465034"
+    }
+   ]
+  },
+  {
+   "id": 967446041053233200,
+   "id_str": "967446041053233158",
+   "created_at": "Sat Feb 24 17:08:05 +0000 2018",
+   "text": "DevOps grew bottom-up, from real world practices by modern teams into the movement it is now. But it needed the rig… https://t.co/gCtMLzk8pl",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gCtMLzk8pl",
+     "expand": "https://twitter.com/i/web/status/967446041053233158"
+    }
+   ]
+  },
+  {
+   "id": 967391886334922800,
+   "id_str": "967391886334922757",
+   "created_at": "Sat Feb 24 13:32:53 +0000 2018",
+   "text": "RT @ianlivingstone: I read this news letter every week - great, precise content https://t.co/UMFkmpcDDs",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UMFkmpcDDs",
+     "expand": "https://twitter.com/edsim/status/967090872918663169"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967150767055437800,
+    "id_str": "967150767055437824",
+    "created_at": "Fri Feb 23 21:34:46 +0000 2018",
+    "text": "I read this news letter every week - great, precise content https://t.co/UMFkmpcDDs",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UMFkmpcDDs",
+      "expand": "https://twitter.com/edsim/status/967090872918663169"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967391828063539200,
+   "id_str": "967391828063539205",
+   "created_at": "Sat Feb 24 13:32:39 +0000 2018",
+   "text": "RT @amandawtwong: Okay. I think.... I'm finished.\nMirror Universe Discovery!\n\n#StarTrekDiscovery #StarTrek @StarTrek @startrekcbs @may_wise…",
+   "retweet_count": 465,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966918455575244800,
+    "id_str": "966918455575244801",
+    "created_at": "Fri Feb 23 06:11:38 +0000 2018",
+    "text": "Okay. I think.... I'm finished.\nMirror Universe Discovery!\n\n#StarTrekDiscovery #StarTrek @StarTrek @startrekcbs… https://t.co/por18BKsHx",
+    "retweet_count": 465,
+    "favorite_count": 2218,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/por18BKsHx",
+      "expand": "https://twitter.com/i/web/status/966918455575244801"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967355181108260900,
+   "id_str": "967355181108260865",
+   "created_at": "Sat Feb 24 11:07:02 +0000 2018",
+   "text": "The FBI opened an RFI for a potentially $30B (!!!) cloud computing. Hosting and big data get special attention, but… https://t.co/vw1U1Wf4Xz",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vw1U1Wf4Xz",
+     "expand": "https://twitter.com/i/web/status/967355181108260865"
+    }
+   ]
+  },
+  {
+   "id": 967329452161142800,
+   "id_str": "967329452161142785",
+   "created_at": "Sat Feb 24 09:24:48 +0000 2018",
+   "text": "RT @rseroter: \"This 25-line sample function that fetches a file and stores it in s3 uses 2 libraries, which in turn use 19 libraries, which…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967112574729769000,
+    "id_str": "967112574729768960",
+    "created_at": "Fri Feb 23 19:03:00 +0000 2018",
+    "text": "\"This 25-line sample function that fetches a file and stores it in s3 uses 2 libraries, which in turn use 19 librar… https://t.co/D3fvXlo2w4",
+    "retweet_count": 19,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/D3fvXlo2w4",
+      "expand": "https://twitter.com/i/web/status/967112574729768960"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967119001569591300,
+   "id_str": "967119001569591298",
+   "created_at": "Fri Feb 23 19:28:32 +0000 2018",
+   "text": "RT @_bl4de: With growing popularity of #FaaS/#Serverless architectures, more attention should be put to keep 3rd party libraries like #npm…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967035267671646200,
+    "id_str": "967035267671646208",
+    "created_at": "Fri Feb 23 13:55:49 +0000 2018",
+    "text": "With growing popularity of #FaaS/#Serverless architectures, more attention should be put to keep 3rd party librarie… https://t.co/DCKkrZ8iTM",
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DCKkrZ8iTM",
+      "expand": "https://twitter.com/i/web/status/967035267671646208"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967097160285282300,
+   "id_str": "967097160285282306",
+   "created_at": "Fri Feb 23 18:01:45 +0000 2018",
+   "text": "Can't wait to have you onboard! https://t.co/mYyMI2pWAl",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mYyMI2pWAl",
+     "expand": "https://twitter.com/MilaVot/status/967066478930546688"
+    }
+   ]
+  },
+  {
+   "id": 967083635336728600,
+   "id_str": "967083635336728576",
+   "created_at": "Fri Feb 23 17:08:00 +0000 2018",
+   "text": "IBM is indeed the force behind so much open source, but is it helping their Cloud business? \n\nI think not, and… https://t.co/gpE5uFVwmU",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gpE5uFVwmU",
+     "expand": "https://twitter.com/i/web/status/967083635336728576"
+    }
+   ]
+  },
+  {
+   "id": 967031820633231400,
+   "id_str": "967031820633231360",
+   "created_at": "Fri Feb 23 13:42:07 +0000 2018",
+   "text": "Serverless takes many concerns off your hands… but does it leave you secure? \n\nhttps://t.co/EmpKyqwTBj",
+   "retweet_count": 3,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EmpKyqwTBj",
+     "expand": "https://www.infoq.com/articles/serverless-security"
+    }
+   ]
+  },
+  {
+   "id": 966992788805111800,
+   "id_str": "966992788805111808",
+   "created_at": "Fri Feb 23 11:07:01 +0000 2018",
+   "text": "There are many factors when choosing an open source security solution. \nMy @OReillyMedia book outlined all the diff… https://t.co/tPH9rGRNYq",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tPH9rGRNYq",
+     "expand": "https://twitter.com/i/web/status/966992788805111808"
+    }
+   ]
+  },
   {
    "id": 966471549447540700,
    "id_str": "966471549447540737",
@@ -18,140 +2163,6 @@
      "expand": "https://twitter.com/i/web/status/966471549447540737"
     }
    ]
-  },
-  {
-   "id": 966464384376692700,
-   "id_str": "966464384376692737",
-   "created_at": "Thu Feb 22 00:07:19 +0000 2018",
-   "text": "Awesome “release notes” in @SlackHQ’s Mac app update:\nBug Fixes:\n-  important security update. Security updates are… https://t.co/xxnyqtdDjS",
-   "retweet_count": 1,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/xxnyqtdDjS",
-     "expand": "https://twitter.com/i/web/status/966464384376692737"
-    }
-   ]
-  },
-  {
-   "id": 966319908727459800,
-   "id_str": "966319908727459840",
-   "created_at": "Wed Feb 21 14:33:14 +0000 2018",
-   "text": "RT @sjmaple: Time to announce my new gig! From March 5th I’ll be the Director of Developer Advocacy at @snyksec, a company devoted to findi…",
-   "retweet_count": 22,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966317651214643200,
-    "id_str": "966317651214643200",
-    "created_at": "Wed Feb 21 14:24:16 +0000 2018",
-    "text": "Time to announce my new gig! From March 5th I’ll be the Director of Developer Advocacy at @snyksec, a company devot… https://t.co/gwTYY2C5OZ",
-    "retweet_count": 22,
-    "favorite_count": 221,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/gwTYY2C5OZ",
-      "expand": "https://twitter.com/i/web/status/966317651214643200"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965741907908448300,
-   "id_str": "965741907908448258",
-   "created_at": "Tue Feb 20 00:16:28 +0000 2018",
-   "text": "Pure gold. https://t.co/UOoAkCuC8z",
-   "retweet_count": 3,
-   "favorite_count": 7,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/UOoAkCuC8z",
-     "expand": "https://xkcd.com/1957/"
-    }
-   ]
-  },
-  {
-   "id": 965586543413989400,
-   "id_str": "965586543413989378",
-   "created_at": "Mon Feb 19 13:59:06 +0000 2018",
-   "text": "Dedicated CNCF Serverless working group states “Serverless is the natural evolution of cloud-native computing” (som… https://t.co/8krlKbiM1z",
-   "retweet_count": 2,
-   "favorite_count": 5,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/8krlKbiM1z",
-     "expand": "https://twitter.com/i/web/status/965586543413989378"
-    }
-   ]
-  },
-  {
-   "id": 964866964404494300,
-   "id_str": "964866964404494337",
-   "created_at": "Sat Feb 17 14:19:45 +0000 2018",
-   "text": "@brucel @anna_debenham @WixEng @snyksec @brucel you'll have to bring your unicorn onesie, those are considered trad… https://t.co/ujTT1VSb34",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 964760473777442800,
-   "in_reply_to_status_id_str": "964760473777442816",
-   "in_reply_to_screen_name": "brucel",
-   "urls": [
-    {
-     "url": "https://t.co/ujTT1VSb34",
-     "expand": "https://twitter.com/i/web/status/964866964404494337"
-    }
-   ]
-  },
-  {
-   "id": 964644298355593200,
-   "id_str": "964644298355593223",
-   "created_at": "Fri Feb 16 23:34:57 +0000 2018",
-   "text": "RT @samnewman: The final piece of the puzzle in our microservices track at @qconlondon is complete - I’ll be hosting a panel discussion wit…",
-   "retweet_count": 9,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964548784041680900,
-    "id_str": "964548784041680896",
-    "created_at": "Fri Feb 16 17:15:25 +0000 2018",
-    "text": "The final piece of the puzzle in our microservices track at @qconlondon is complete - I’ll be hosting a panel discu… https://t.co/yTegygjJnz",
-    "retweet_count": 9,
-    "favorite_count": 19,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/yTegygjJnz",
-      "expand": "https://twitter.com/i/web/status/964548784041680896"
-     }
-    ]
-   }
   }
  ]
 }

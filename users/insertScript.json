@@ -1,6 +1,451 @@
 {
- "time": 1519367432737,
+ "time": 1522595205238,
  "lists": [
+  {
+   "id": 979774226088554500,
+   "id_str": "979774226088554498",
+   "created_at": "Fri Mar 30 17:35:53 +0000 2018",
+   "text": "@0x6D6172696F https://t.co/IATDodJvlF sadly a fake :D",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979773734264258600,
+   "in_reply_to_status_id_str": "979773734264258561",
+   "in_reply_to_screen_name": "0x6D6172696F",
+   "urls": [
+    {
+     "url": "https://t.co/IATDodJvlF",
+     "expand": "https://www.youtube.com/watch?v=mOsdj7nDT4Y"
+    }
+   ]
+  },
+  {
+   "id": 977217090368270300,
+   "id_str": "977217090368270336",
+   "created_at": "Fri Mar 23 16:14:44 +0000 2018",
+   "text": "@Oddvarmoe there was a nice bug back then, that overlong sub folders in the runonceEx key were not deleted, nor whe… https://t.co/yyPWWLqiHQ",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976539866585616400,
+   "in_reply_to_status_id_str": "976539866585616385",
+   "in_reply_to_screen_name": "Oddvarmoe",
+   "urls": [
+    {
+     "url": "https://t.co/yyPWWLqiHQ",
+     "expand": "https://twitter.com/i/web/status/977217090368270336"
+    }
+   ]
+  },
+  {
+   "id": 975701068599447600,
+   "id_str": "975701068599447552",
+   "created_at": "Mon Mar 19 11:50:37 +0000 2018",
+   "text": "https://t.co/blf32d7p0R -\"You can select an HTML element to view where its content came from.\"",
+   "retweet_count": 23,
+   "favorite_count": 52,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/blf32d7p0R",
+     "expand": "http://www.fromjs.com/"
+    }
+   ]
+  },
+  {
+   "id": 974653080259178500,
+   "id_str": "974653080259178501",
+   "created_at": "Fri Mar 16 14:26:17 +0000 2018",
+   "text": "@albinowax either https://t.co/sh9xsej4tn or https://t.co/G7H8KlVJrk. I prefer https://t.co/G7H8KlVJrk :)",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 974650393908170800,
+   "in_reply_to_status_id_str": "974650393908170752",
+   "in_reply_to_screen_name": "albinowax",
+   "urls": [
+    {
+     "url": "https://t.co/sh9xsej4tn",
+     "expand": "http://nip.io"
+    },
+    {
+     "url": "https://t.co/G7H8KlVJrk",
+     "expand": "http://xip.io"
+    },
+    {
+     "url": "https://t.co/G7H8KlVJrk",
+     "expand": "http://xip.io"
+    }
+   ]
+  },
+  {
+   "id": 974417253998489600,
+   "id_str": "974417253998489601",
+   "created_at": "Thu Mar 15 22:49:11 +0000 2018",
+   "text": "@garethheyes ok now i have a similar problem... I didn't document my charset parsing bugs properly, so i cant repro… https://t.co/bcoihVQkDK",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973636186584617000,
+   "in_reply_to_status_id_str": "973636186584616960",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": [
+    {
+     "url": "https://t.co/bcoihVQkDK",
+     "expand": "https://twitter.com/i/web/status/974417253998489601"
+    }
+   ]
+  },
+  {
+   "id": 974410339386355700,
+   "id_str": "974410339386355714",
+   "created_at": "Thu Mar 15 22:21:43 +0000 2018",
+   "text": "@travisgoodspeed didn't any private keys of ca's leak which were trusted back then?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974389223020204000,
+   "in_reply_to_status_id_str": "974389223020204039",
+   "in_reply_to_screen_name": "travisgoodspeed",
+   "urls": []
+  },
+  {
+   "id": 973979549083013100,
+   "id_str": "973979549083013121",
+   "created_at": "Wed Mar 14 17:49:54 +0000 2018",
+   "text": "https://t.co/tRxJAo9IGK - the trend to attack the kernel to exploit a browser vulnerability and bypass the sandbox continues.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tRxJAo9IGK",
+     "expand": "https://www.zerodayinitiative.com/blog/2018/3/14/welcome-to-pwn2own-2018-the-schedule"
+    }
+   ]
+  },
+  {
+   "id": 973601359424520200,
+   "id_str": "973601359424520195",
+   "created_at": "Tue Mar 13 16:47:07 +0000 2018",
+   "text": "@garethheyes I have the same problem ^^ thats why I create a copy&amp;paste ready payload in my posts, so I don't have… https://t.co/vvnWDGR83o",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973588424107192300,
+   "in_reply_to_status_id_str": "973588424107192323",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": [
+    {
+     "url": "https://t.co/vvnWDGR83o",
+     "expand": "https://twitter.com/i/web/status/973601359424520195"
+    }
+   ]
+  },
+  {
+   "id": 971426958608404500,
+   "id_str": "971426958608404481",
+   "created_at": "Wed Mar 07 16:46:49 +0000 2018",
+   "text": "@garethheyes based on experience, have you tried puting a certain amount of characters before this \"combining\" utf-… https://t.co/84DevXbwnc",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971412237553492000,
+   "in_reply_to_status_id_str": "971412237553491968",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": [
+    {
+     "url": "https://t.co/84DevXbwnc",
+     "expand": "https://twitter.com/i/web/status/971426958608404481"
+    }
+   ]
+  },
+  {
+   "id": 970814381909999600,
+   "id_str": "970814381909999616",
+   "created_at": "Tue Mar 06 00:12:40 +0000 2018",
+   "text": "RT @cure53berlin: 🏆 @SecurityMB 🏆 \n\nFirst solver, 858 characters!",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970735313265025000,
+    "id_str": "970735313265025025",
+    "created_at": "Mon Mar 05 18:58:28 +0000 2018",
+    "text": "🏆 @SecurityMB 🏆 \n\nFirst solver, 858 characters!",
+    "retweet_count": 5,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969646797609193500,
+   "id_str": "969646797609193472",
+   "created_at": "Fri Mar 02 18:53:06 +0000 2018",
+   "text": "WHY does PDF 2.0 deprecate XFA (which is often supported by PDF readers) but not the Launch action, which is basica… https://t.co/Mg1eNR0AjR",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Mg1eNR0AjR",
+     "expand": "https://twitter.com/i/web/status/969646797609193472"
+    }
+   ]
+  },
+  {
+   "id": 969336073292800000,
+   "id_str": "969336073292800002",
+   "created_at": "Thu Mar 01 22:18:23 +0000 2018",
+   "text": "so finally bought the new PDF 2.0 standard... so much to read",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968450142834749400,
+   "id_str": "968450142834749440",
+   "created_at": "Tue Feb 27 11:38:01 +0000 2018",
+   "text": "@hanno I just tested it and you can copy&amp;paste data in an AcroForm. I assume the behavior depends of the defined fl… https://t.co/Iuq8dtaFzc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968439646735814700,
+   "in_reply_to_status_id_str": "968439646735814656",
+   "in_reply_to_screen_name": "hanno",
+   "urls": [
+    {
+     "url": "https://t.co/Iuq8dtaFzc",
+     "expand": "https://twitter.com/i/web/status/968450142834749440"
+    }
+   ]
+  },
+  {
+   "id": 968146861403050000,
+   "id_str": "968146861403049985",
+   "created_at": "Mon Feb 26 15:32:53 +0000 2018",
+   "text": "@_Rahra_ yeah like perl is so easy to read :P",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968135530511728600,
+   "in_reply_to_status_id_str": "968135530511728640",
+   "in_reply_to_screen_name": "_Rahra_",
+   "urls": []
+  },
+  {
+   "id": 967408664532475900,
+   "id_str": "967408664532475904",
+   "created_at": "Sat Feb 24 14:39:33 +0000 2018",
+   "text": "@angealbertini I only had the pleasure to play super street fighter 2 turbo on the snes but it was awesome, I loved… https://t.co/wm81UIM8uP",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967386672114667500,
+   "in_reply_to_status_id_str": "967386672114667520",
+   "in_reply_to_screen_name": "angealbertini",
+   "urls": [
+    {
+     "url": "https://t.co/wm81UIM8uP",
+     "expand": "https://twitter.com/i/web/status/967408664532475904"
+    }
+   ]
+  },
+  {
+   "id": 967391993021247500,
+   "id_str": "967391993021247490",
+   "created_at": "Sat Feb 24 13:33:19 +0000 2018",
+   "text": "@sghctoma I can read the documentation, wup wup :D",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 967388367607476200,
+   "in_reply_to_status_id_str": "967388367607476225",
+   "in_reply_to_screen_name": "sghctoma",
+   "urls": []
+  },
+  {
+   "id": 967375209954148400,
+   "id_str": "967375209954148352",
+   "created_at": "Sat Feb 24 12:26:37 +0000 2018",
+   "text": "@sghctoma are there multiple resources returned? pg_fetch_all returns an array, shouldn't it be something like $data[0]['password']?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 967103620813606900,
+   "in_reply_to_status_id_str": "967103620813606913",
+   "in_reply_to_screen_name": "sghctoma",
+   "urls": []
+  },
+  {
+   "id": 967064968377061400,
+   "id_str": "967064968377061376",
+   "created_at": "Fri Feb 23 15:53:50 +0000 2018",
+   "text": "@garethheyes yeah I see no use case so far just a weird behavior I wanted to share :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967063483924828200,
+   "in_reply_to_status_id_str": "967063483924828163",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": []
+  },
+  {
+   "id": 967063247424761900,
+   "id_str": "967063247424761856",
+   "created_at": "Fri Feb 23 15:47:00 +0000 2018",
+   "text": "@garethheyes Firefox: undefined",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967063172078362600,
+   "in_reply_to_status_id_str": "967063172078362626",
+   "in_reply_to_screen_name": "insertScript",
+   "urls": []
+  },
+  {
+   "id": 967063172078362600,
+   "id_str": "967063172078362626",
+   "created_at": "Fri Feb 23 15:46:42 +0000 2018",
+   "text": "@garethheyes Chrome: [object HTMLObjectElement]",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967058020369825800,
+   "in_reply_to_status_id_str": "967058020369825792",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": []
+  },
+  {
+   "id": 967057012411568100,
+   "id_str": "967057012411568128",
+   "created_at": "Fri Feb 23 15:22:13 +0000 2018",
+   "text": "@garethheyes btw I just shazzer to check that ;)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967056899970621400,
+   "in_reply_to_status_id_str": "967056899970621441",
+   "in_reply_to_screen_name": "insertScript",
+   "urls": []
+  },
+  {
+   "id": 967056899970621400,
+   "id_str": "967056899970621441",
+   "created_at": "Fri Feb 23 15:21:46 +0000 2018",
+   "text": "@garethheyes I am wondering why object can do this via the id property as it is even consistent between the two major browsers",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967056028239122400,
+   "in_reply_to_status_id_str": "967056028239122432",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": []
+  },
+  {
+   "id": 967055798454181900,
+   "id_str": "967055798454181896",
+   "created_at": "Fri Feb 23 15:17:24 +0000 2018",
+   "text": "@garethheyes exactly :) I even verified just to be sure :P",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967054231504146400,
+   "in_reply_to_status_id_str": "967054231504146434",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": []
+  },
+  {
+   "id": 967053534029058000,
+   "id_str": "967053534029058049",
+   "created_at": "Fri Feb 23 15:08:24 +0000 2018",
+   "text": "@albinowax with id :) normally you have to use name=\"\"",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967053445491560400,
+   "in_reply_to_status_id_str": "967053445491560448",
+   "in_reply_to_screen_name": "insertScript",
+   "urls": []
+  },
+  {
+   "id": 967053445491560400,
+   "id_str": "967053445491560448",
+   "created_at": "Fri Feb 23 15:08:03 +0000 2018",
+   "text": "@albinowax yeah me neither :D",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967051920836907000,
+   "in_reply_to_status_id_str": "967051920836907008",
+   "in_reply_to_screen_name": "albinowax",
+   "urls": []
+  },
+  {
+   "id": 967050488817516500,
+   "id_str": "967050488817516544",
+   "created_at": "Fri Feb 23 14:56:18 +0000 2018",
+   "text": "just a weird behavior I discovered in FF regarding the handling of &lt;object id=\"cookie\"/&gt; in the context of document… https://t.co/YeqLetSCxH",
+   "retweet_count": 13,
+   "favorite_count": 53,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YeqLetSCxH",
+     "expand": "https://twitter.com/i/web/status/967050488817516544"
+    }
+   ]
+  },
+  {
+   "id": 967001254143635500,
+   "id_str": "967001254143635456",
+   "created_at": "Fri Feb 23 11:40:39 +0000 2018",
+   "text": "@garethheyes @shhnjk ah awesome :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967001038187368400,
+   "in_reply_to_status_id_str": "967001038187368448",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": []
+  },
+  {
+   "id": 967000788072624100,
+   "id_str": "967000788072624128",
+   "created_at": "Fri Feb 23 11:38:48 +0000 2018",
+   "text": "@garethheyes @shhnjk will there be a recording or at least slides afterwards? :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966994586651512800,
+   "in_reply_to_status_id_str": "966994586651512832",
+   "in_reply_to_screen_name": "garethheyes",
+   "urls": []
+  },
   {
    "id": 965634502767906800,
    "id_str": "965634502767906816",
@@ -12,19 +457,6 @@
    "in_reply_to_status_id": 965634422270816300,
    "in_reply_to_status_id_str": "965634422270816256",
    "in_reply_to_screen_name": "insertScript",
-   "urls": []
-  },
-  {
-   "id": 965634422270816300,
-   "id_str": "965634422270816256",
-   "created_at": "Mon Feb 19 17:09:21 +0000 2018",
-   "text": "@cgvwzq @SecurityMB @cure53berlin hey I work there and I am stuck too at the second part... fuck $.ajax",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965633515709747200,
-   "in_reply_to_status_id_str": "965633515709747200",
-   "in_reply_to_screen_name": "cgvwzq",
    "urls": []
   }
  ]

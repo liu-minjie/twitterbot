@@ -1,136 +1,12 @@
 {
- "time": 1519367394731,
+ "time": 1522595130307,
  "lists": [
   {
-   "id": 966768799981719600,
-   "id_str": "966768799981719554",
-   "created_at": "Thu Feb 22 20:16:58 +0000 2018",
-   "text": "@hylian @tidxconference I'll bring it just in case I don't like web assembly :) Or better Elon's flamethrower",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966767514335285200,
-   "in_reply_to_status_id_str": "966767514335285252",
-   "in_reply_to_screen_name": "hylian",
-   "urls": []
-  },
-  {
-   "id": 966756375735996400,
-   "id_str": "966756375735996416",
-   "created_at": "Thu Feb 22 19:27:36 +0000 2018",
-   "text": "Preparing my Machine Learning demo for @tidxconference https://t.co/Er6buociGZ",
-   "retweet_count": 0,
-   "favorite_count": 7,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 966743225548423200,
-   "id_str": "966743225548423168",
-   "created_at": "Thu Feb 22 18:35:20 +0000 2018",
-   "text": "@elminiero @murillo How can I express my dislike for this tweet?!",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 966717609642283000,
-   "in_reply_to_status_id_str": "966717609642283008",
-   "in_reply_to_screen_name": "elminiero",
-   "urls": []
-  },
-  {
-   "id": 966743152026619900,
-   "id_str": "966743152026619906",
-   "created_at": "Thu Feb 22 18:35:03 +0000 2018",
-   "text": "@murillo method3 for sure! although I would call it Data::ptr and maybe using 'using' instead of 'typedef'",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966715606639763500,
-   "in_reply_to_status_id_str": "966715606639763456",
-   "in_reply_to_screen_name": "murillo",
-   "urls": []
-  },
-  {
-   "id": 966446068056690700,
-   "id_str": "966446068056690688",
-   "created_at": "Wed Feb 21 22:54:32 +0000 2018",
-   "text": "@murillo @dan_jenkins I would try sprop-stereo in the offer (willing to send) and stereo in the answer (willing to… https://t.co/G8dBm0d07X",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966444770737426400,
-   "in_reply_to_status_id_str": "966444770737426432",
-   "in_reply_to_screen_name": "murillo",
-   "urls": [
-    {
-     "url": "https://t.co/G8dBm0d07X",
-     "expand": "https://twitter.com/i/web/status/966446068056690688"
-    }
-   ]
-  },
-  {
-   "id": 966439847480131600,
-   "id_str": "966439847480131585",
-   "created_at": "Wed Feb 21 22:29:49 +0000 2018",
-   "text": "@ibc_tw @murillo @dan_jenkins https://t.co/neohNA0ghY",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966438322452254700,
-   "in_reply_to_status_id_str": "966438322452254722",
-   "in_reply_to_screen_name": "ibc_tw",
-   "urls": [
-    {
-     "url": "https://t.co/neohNA0ghY",
-     "expand": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp"
-    }
-   ]
-  },
-  {
-   "id": 966435029348966400,
-   "id_str": "966435029348966400",
-   "created_at": "Wed Feb 21 22:10:41 +0000 2018",
-   "text": "@murillo @dan_jenkins stereo=1 and sprop-stereo=1 ?  https://t.co/VuRGkFeF5c",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966431733511086100,
-   "in_reply_to_status_id_str": "966431733511086083",
-   "in_reply_to_screen_name": "murillo",
-   "urls": [
-    {
-     "url": "https://t.co/VuRGkFeF5c",
-     "expand": "https://www.rfc-editor.org/rfc/rfc7587.txt"
-    }
-   ]
-  },
-  {
-   "id": 966425857844752400,
-   "id_str": "966425857844752385",
-   "created_at": "Wed Feb 21 21:34:14 +0000 2018",
-   "text": "@murillo 3-4y ago I generated a version for a customer enabling stereo opus in the SDP.... I don't remember what wa… https://t.co/bQdZlA5hqZ",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966382686590898200,
-   "in_reply_to_status_id_str": "966382686590898177",
-   "in_reply_to_screen_name": "murillo",
-   "urls": [
-    {
-     "url": "https://t.co/bQdZlA5hqZ",
-     "expand": "https://twitter.com/i/web/status/966425857844752385"
-    }
-   ]
-  },
-  {
-   "id": 966424069389332500,
-   "id_str": "966424069389332480",
-   "created_at": "Wed Feb 21 21:27:08 +0000 2018",
-   "text": "RT @gregisenberg: You gotta hand it to @houseparty. The team continues to build beautiful social products for gen-z with a POINT A VIEW. We…",
-   "retweet_count": 6,
+   "id": 979125359089107000,
+   "id_str": "979125359089106945",
+   "created_at": "Wed Mar 28 22:37:31 +0000 2018",
+   "text": "RT @webrtcHacks: New post: Progressive Web Apps (PWA) for #WebRTC (Trond Kjetil Bremnes) - TK shares tips &amp; tricks for making your RTC app…",
+   "retweet_count": 14,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -138,155 +14,657 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966370868807983100,
-    "id_str": "966370868807983105",
-    "created_at": "Wed Feb 21 17:55:44 +0000 2018",
-    "text": "You gotta hand it to @houseparty. The team continues to build beautiful social products for gen-z with a POINT A VI… https://t.co/u8XsscwMBT",
-    "retweet_count": 6,
-    "favorite_count": 33,
+    "id": 978945658718769200,
+    "id_str": "978945658718769152",
+    "created_at": "Wed Mar 28 10:43:27 +0000 2018",
+    "text": "New post: Progressive Web Apps (PWA) for #WebRTC (Trond Kjetil Bremnes) - TK shares tips &amp; tricks for making your R… https://t.co/6NtGueULVP",
+    "retweet_count": 14,
+    "favorite_count": 18,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/u8XsscwMBT",
-      "expand": "https://twitter.com/i/web/status/966370868807983105"
+      "url": "https://t.co/6NtGueULVP",
+      "expand": "https://twitter.com/i/web/status/978945658718769152"
      }
     ]
    }
   },
   {
-   "id": 966310780068073500,
-   "id_str": "966310780068073472",
-   "created_at": "Wed Feb 21 13:56:57 +0000 2018",
-   "text": "Not bad for the first edition of #tidx! 124 people signed up and everything is ready for the conference this Saturd… https://t.co/ICfbwFADGV",
-   "retweet_count": 2,
-   "favorite_count": 3,
+   "id": 978749184147841000,
+   "id_str": "978749184147841024",
+   "created_at": "Tue Mar 27 21:42:44 +0000 2018",
+   "text": "@ibc_tw @tsahil Why via API if you can use Twilio Studio?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978748815808385000,
+   "in_reply_to_status_id_str": "978748815808385025",
+   "in_reply_to_screen_name": "ibc_tw",
+   "urls": []
+  },
+  {
+   "id": 977837498775822300,
+   "id_str": "977837498775822336",
+   "created_at": "Sun Mar 25 09:20:01 +0000 2018",
+   "text": "Some reading for the plane https://t.co/6LB7fI2D1H",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 976766186259124200,
+   "id_str": "976766186259124224",
+   "created_at": "Thu Mar 22 10:23:00 +0000 2018",
+   "text": "@_betterton @ierrejon @jordievole @Alfred_ot2017 @Amaia_ot2017 Eso está pasando en todos los países, no es algo de… https://t.co/DlNz5phAMM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976761822962430000,
+   "in_reply_to_status_id_str": "976761822962429952",
+   "in_reply_to_screen_name": "_betterton",
+   "urls": [
+    {
+     "url": "https://t.co/DlNz5phAMM",
+     "expand": "https://twitter.com/i/web/status/976766186259124224"
+    }
+   ]
+  },
+  {
+   "id": 976753240103706600,
+   "id_str": "976753240103706625",
+   "created_at": "Thu Mar 22 09:31:34 +0000 2018",
+   "text": "@_betterton @ierrejon @jordievole @Alfred_ot2017 @Amaia_ot2017 Aquí tienes los datos oficiales de la \"oleada de vio… https://t.co/AJftdnPYtp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976435599572860900,
+   "in_reply_to_status_id_str": "976435599572860929",
+   "in_reply_to_screen_name": "_betterton",
+   "urls": [
+    {
+     "url": "https://t.co/AJftdnPYtp",
+     "expand": "https://twitter.com/i/web/status/976753240103706625"
+    }
+   ]
+  },
+  {
+   "id": 976375756162043900,
+   "id_str": "976375756162043904",
+   "created_at": "Wed Mar 21 08:31:35 +0000 2018",
+   "text": "RT @n1kflow: Low latency, high quality live streaming now available in #YouTube based on #WebRTC  https://t.co/HW0pVvnOCx",
+   "retweet_count": 23,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/ICfbwFADGV",
-     "expand": "https://twitter.com/i/web/status/966310780068073472"
+     "url": "https://t.co/HW0pVvnOCx",
+     "expand": "https://youtube-creators.googleblog.com/2018/03/making-it-easier-to-go-live.html?m=1"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976375234243723300,
+    "id_str": "976375234243723265",
+    "created_at": "Wed Mar 21 08:29:30 +0000 2018",
+    "text": "Low latency, high quality live streaming now available in #YouTube based on #WebRTC  https://t.co/HW0pVvnOCx",
+    "retweet_count": 23,
+    "favorite_count": 31,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HW0pVvnOCx",
+      "expand": "https://youtube-creators.googleblog.com/2018/03/making-it-easier-to-go-live.html?m=1"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976087111748251600,
+   "id_str": "976087111748251654",
+   "created_at": "Tue Mar 20 13:24:36 +0000 2018",
+   "text": "@pablocast13 @Miotroyo2parte Siento que te hayas enterado ahora, pero en la rueda de prensa de hace 4 días el ayunt… https://t.co/U3zkrD2aF3",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975854577877684200,
+   "in_reply_to_status_id_str": "975854577877684224",
+   "in_reply_to_screen_name": "pablocast13",
+   "urls": [
+    {
+     "url": "https://t.co/U3zkrD2aF3",
+     "expand": "https://twitter.com/i/web/status/976087111748251654"
     }
    ]
   },
   {
-   "id": 966286534864498700,
-   "id_str": "966286534864498689",
-   "created_at": "Wed Feb 21 12:20:37 +0000 2018",
-   "text": "RT @xamat: “Down with Pipeline debt / Introducing Great Expectations” @expectgreatdata https://t.co/JM4jGg4kTC via @AbeGong",
+   "id": 976016842836848600,
+   "id_str": "976016842836848640",
+   "created_at": "Tue Mar 20 08:45:23 +0000 2018",
+   "text": "@pedrogon37 @BootZuna @MADRID \"Quién no conoce su historia está condenado a repetirla\"",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 976011865070473200,
+   "in_reply_to_status_id_str": "976011865070473216",
+   "in_reply_to_screen_name": "pedrogon37",
+   "urls": []
+  },
+  {
+   "id": 976009197287608300,
+   "id_str": "976009197287608320",
+   "created_at": "Tue Mar 20 08:15:00 +0000 2018",
+   "text": "@pedrogon37 @BootZuna @MADRID El día del Orgullo Hetero (con H) cuando tengamos que celebrar que han dejado de disc… https://t.co/bDjUwoS5zD",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 975961809919402000,
+   "in_reply_to_status_id_str": "975961809919401985",
+   "in_reply_to_screen_name": "pedrogon37",
+   "urls": [
+    {
+     "url": "https://t.co/bDjUwoS5zD",
+     "expand": "https://twitter.com/i/web/status/976009197287608320"
+    }
+   ]
+  },
+  {
+   "id": 975873202286194700,
+   "id_str": "975873202286194689",
+   "created_at": "Mon Mar 19 23:14:36 +0000 2018",
+   "text": "@tsahil +100 Also because many relevant metrics only exist in the clients (buffers size, encoding CPU usage, batter… https://t.co/icwWkrkaz2",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975857438636302300,
+   "in_reply_to_status_id_str": "975857438636302337",
+   "in_reply_to_screen_name": "tsahil",
+   "urls": [
+    {
+     "url": "https://t.co/icwWkrkaz2",
+     "expand": "https://twitter.com/i/web/status/975873202286194689"
+    }
+   ]
+  },
+  {
+   "id": 974403357279490000,
+   "id_str": "974403357279490049",
+   "created_at": "Thu Mar 15 21:53:58 +0000 2018",
+   "text": "@Laragb91 yo la veo de frente",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974380889655382000,
+   "in_reply_to_status_id_str": "974380889655382018",
+   "in_reply_to_screen_name": "Laragb91",
+   "urls": []
+  },
+  {
+   "id": 974266787104731100,
+   "id_str": "974266787104731137",
+   "created_at": "Thu Mar 15 12:51:17 +0000 2018",
+   "text": "@murillo @agouaillard @medooze Yes, please.  Can you share the link it is open sourced?  I want to compare it with mine.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974189755608064000,
+   "in_reply_to_status_id_str": "974189755608064000",
+   "in_reply_to_screen_name": "murillo",
+   "urls": []
+  },
+  {
+   "id": 974266640497102800,
+   "id_str": "974266640497102849",
+   "created_at": "Thu Mar 15 12:50:42 +0000 2018",
+   "text": "@murillo @agouaillard Ok, so there is no bwe in Janus.   That was the thing that was not clear to me after reading… https://t.co/MOKrvsEaZw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974189450787016700,
+   "in_reply_to_status_id_str": "974189450787016704",
+   "in_reply_to_screen_name": "murillo",
+   "urls": [
+    {
+     "url": "https://t.co/MOKrvsEaZw",
+     "expand": "https://twitter.com/i/web/status/974266640497102849"
+    }
+   ]
+  },
+  {
+   "id": 974069619546906600,
+   "id_str": "974069619546906624",
+   "created_at": "Wed Mar 14 23:47:49 +0000 2018",
+   "text": "@jdrosen2 But these days that role should be mostly about helping users to have what they want and use it in the ri… https://t.co/gWrcuG4Fcb",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974064649992884200,
+   "in_reply_to_status_id_str": "974064649992884224",
+   "in_reply_to_screen_name": "jdrosen2",
+   "urls": [
+    {
+     "url": "https://t.co/gWrcuG4Fcb",
+     "expand": "https://twitter.com/i/web/status/974069619546906624"
+    }
+   ]
+  },
+  {
+   "id": 974053019569532900,
+   "id_str": "974053019569532928",
+   "created_at": "Wed Mar 14 22:41:51 +0000 2018",
+   "text": "@ibc_tw I'll start with translation or STT engines when I'm done with these ones so that I can also improve my spelling.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974052307699683300,
+   "in_reply_to_status_id_str": "974052307699683329",
+   "in_reply_to_screen_name": "ibc_tw",
+   "urls": []
+  },
+  {
+   "id": 974047069001474000,
+   "id_str": "974047069001474048",
+   "created_at": "Wed Mar 14 22:18:12 +0000 2018",
+   "text": "Testing TTS engines is great to improve my english pronunciation.   I just learned how to pronounce \"action\" properly.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973955469718052900,
+   "id_str": "973955469718052864",
+   "created_at": "Wed Mar 14 16:14:13 +0000 2018",
+   "text": "@agouaillard I don't understand how bwe has been implemented based on transport-cc.  Can you send a link to the imp… https://t.co/5516K4syo0",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973920696396058600,
+   "in_reply_to_status_id_str": "973920696396058624",
+   "in_reply_to_screen_name": "agouaillard",
+   "urls": [
+    {
+     "url": "https://t.co/5516K4syo0",
+     "expand": "https://twitter.com/i/web/status/973955469718052864"
+    }
+   ]
+  },
+  {
+   "id": 972769345158905900,
+   "id_str": "972769345158905856",
+   "created_at": "Sun Mar 11 09:40:59 +0000 2018",
+   "text": "@MAngele83979933 @ierrejon Sólo por curiosidad, la manifestación estaba manipulada por las izdas en los 100 países… https://t.co/wimpdDdHZ9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972337236736987100,
+   "in_reply_to_status_id_str": "972337236736987137",
+   "in_reply_to_screen_name": "MAngele83979933",
+   "urls": [
+    {
+     "url": "https://t.co/wimpdDdHZ9",
+     "expand": "https://twitter.com/i/web/status/972769345158905856"
+    }
+   ]
+  },
+  {
+   "id": 972438939654066200,
+   "id_str": "972438939654066177",
+   "created_at": "Sat Mar 10 11:48:04 +0000 2018",
+   "text": "RT @javier_arilos: What can software developers learn from Picasso?\n\nhttps://t.co/25UWn72fBE",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/25UWn72fBE",
+     "expand": "https://medium.com/@javier_arilos/what-can-developers-learn-from-picasso-9b365cef5aad"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972388127275995100,
+    "id_str": "972388127275995137",
+    "created_at": "Sat Mar 10 08:26:10 +0000 2018",
+    "text": "What can software developers learn from Picasso?\n\nhttps://t.co/25UWn72fBE",
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/25UWn72fBE",
+      "expand": "https://medium.com/@javier_arilos/what-can-developers-learn-from-picasso-9b365cef5aad"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972248179356860400,
+   "id_str": "972248179356860416",
+   "created_at": "Fri Mar 09 23:10:04 +0000 2018",
+   "text": "@MAngele83979933 @ierrejon Es un paralelismo casi idéntico si lo piensas bien.  Anyway te lo he intentado explicar… https://t.co/gLaP90RR5y",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972170922366029800,
+   "in_reply_to_status_id_str": "972170922366029824",
+   "in_reply_to_screen_name": "MAngele83979933",
+   "urls": [
+    {
+     "url": "https://t.co/gLaP90RR5y",
+     "expand": "https://twitter.com/i/web/status/972248179356860416"
+    }
+   ]
+  },
+  {
+   "id": 972051114551119900,
+   "id_str": "972051114551119872",
+   "created_at": "Fri Mar 09 10:07:00 +0000 2018",
+   "text": "@MAngele83979933 @ierrejon Y tú cuando sales a reivindicar la unidad de España, habéis reivindicado también la unid… https://t.co/rUH3yzZ6eE",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972031166038540300,
+   "in_reply_to_status_id_str": "972031166038540288",
+   "in_reply_to_screen_name": "MAngele83979933",
+   "urls": [
+    {
+     "url": "https://t.co/rUH3yzZ6eE",
+     "expand": "https://twitter.com/i/web/status/972051114551119872"
+    }
+   ]
+  },
+  {
+   "id": 971874070391377900,
+   "id_str": "971874070391377922",
+   "created_at": "Thu Mar 08 22:23:29 +0000 2018",
+   "text": "@loncuma @MADRID 1/ Asumes que todas las reivindicaciones del 8M tienen que ver con los políticos\n2/ Asumes que los… https://t.co/uW6vOnln8H",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971862656700346400,
+   "in_reply_to_status_id_str": "971862656700346368",
+   "in_reply_to_screen_name": "loncuma",
+   "urls": [
+    {
+     "url": "https://t.co/uW6vOnln8H",
+     "expand": "https://twitter.com/i/web/status/971874070391377922"
+    }
+   ]
+  },
+  {
+   "id": 971819387882745900,
+   "id_str": "971819387882745857",
+   "created_at": "Thu Mar 08 18:46:12 +0000 2018",
+   "text": "@loncuma @MADRID Pueden trabajar en ello los otros 364 días del año.  Hoy toca (en todo el mundo) otra cosa igual de importante.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971718297900212200,
+   "in_reply_to_status_id_str": "971718297900212224",
+   "in_reply_to_screen_name": "loncuma",
+   "urls": []
+  },
+  {
+   "id": 971819021174825000,
+   "id_str": "971819021174824960",
+   "created_at": "Thu Mar 08 18:44:44 +0000 2018",
+   "text": "@The_Lyghter @MADRID @begonavillacis https://t.co/7xwexLMRdd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971744760573648900,
+   "in_reply_to_status_id_str": "971744760573648898",
+   "in_reply_to_screen_name": "The_Lyghter",
+   "urls": [
+    {
+     "url": "https://t.co/7xwexLMRdd",
+     "expand": "https://twitter.com/RAEinforma/status/710845801216544768?s=19"
+    }
+   ]
+  },
+  {
+   "id": 971818962479657000,
+   "id_str": "971818962479656961",
+   "created_at": "Thu Mar 08 18:44:30 +0000 2018",
+   "text": "@Joufast @MADRID https://t.co/7xwexLMRdd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971720297308139500,
+   "in_reply_to_status_id_str": "971720297308139520",
+   "in_reply_to_screen_name": "Joufast",
+   "urls": [
+    {
+     "url": "https://t.co/7xwexLMRdd",
+     "expand": "https://twitter.com/RAEinforma/status/710845801216544768?s=19"
+    }
+   ]
+  },
+  {
+   "id": 971350925620150300,
+   "id_str": "971350925620150272",
+   "created_at": "Wed Mar 07 11:44:42 +0000 2018",
+   "text": "@MRevoltosa @ierrejon Se puede hacer y decir a la vez, no son excluyentes :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971349700254339100,
+   "in_reply_to_status_id_str": "971349700254339073",
+   "in_reply_to_screen_name": "MRevoltosa",
+   "urls": []
+  },
+  {
+   "id": 971350771232100400,
+   "id_str": "971350771232100352",
+   "created_at": "Wed Mar 07 11:44:05 +0000 2018",
+   "text": "@Msglfgm @ierrejon En cuanto a refranes a mi me gusta más \"El que quiera peces que se moje el culo\"",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971342955624718300,
+   "in_reply_to_status_id_str": "971342955624718338",
+   "in_reply_to_screen_name": "sglfgm",
+   "urls": []
+  },
+  {
+   "id": 971350629288423400,
+   "id_str": "971350629288423425",
+   "created_at": "Wed Mar 07 11:43:31 +0000 2018",
+   "text": "@Bosco764 @ierrejon como por ejemplo?  Mándanos un documento/video donde se les vea promoviendo qualquier tipo de religión",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971338795332272100,
+   "in_reply_to_status_id_str": "971338795332272128",
+   "in_reply_to_screen_name": "Bosco764",
+   "urls": []
+  },
+  {
+   "id": 971272504336683000,
+   "id_str": "971272504336683008",
+   "created_at": "Wed Mar 07 06:33:05 +0000 2018",
+   "text": "@javier_sanr @ierrejon Lo pone en su Twitter.  Le ha invitado esta organización a hablar para ellos: https://t.co/4PLSZlylpL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971157905205551100,
+   "in_reply_to_status_id_str": "971157905205551104",
+   "in_reply_to_screen_name": "javier_sanr",
+   "urls": [
+    {
+     "url": "https://t.co/4PLSZlylpL",
+     "expand": "https://twitter.com/sciencespo"
+    }
+   ]
+  },
+  {
+   "id": 971272371205271600,
+   "id_str": "971272371205271552",
+   "created_at": "Wed Mar 07 06:32:33 +0000 2018",
+   "text": "@mariadelacova @ierrejon El viaje se lo ha pagado esta organización para que fuese a hablar para ellos:… https://t.co/Lq223QxlUH",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971138909106327600,
+   "in_reply_to_status_id_str": "971138909106327552",
+   "in_reply_to_screen_name": "mariadelacova",
+   "urls": [
+    {
+     "url": "https://t.co/Lq223QxlUH",
+     "expand": "https://twitter.com/i/web/status/971272371205271552"
+    }
+   ]
+  },
+  {
+   "id": 971271481295540200,
+   "id_str": "971271481295540225",
+   "created_at": "Wed Mar 07 06:29:01 +0000 2018",
+   "text": "@hijueputamarica @ierrejon El partido lo está viendo en un bar, no en el campo....",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971171581715238900,
+   "in_reply_to_status_id_str": "971171581715238912",
+   "in_reply_to_screen_name": "hijueputamarica",
+   "urls": []
+  },
+  {
+   "id": 971052114993664000,
+   "id_str": "971052114993664006",
+   "created_at": "Tue Mar 06 15:57:20 +0000 2018",
+   "text": "RT @trentjohnsen: exactly 5 years ago tomorrow, March 6, 2013 @hookflash proposed an SDP free version of #WebRTC and proceeded to invest in…",
    "retweet_count": 5,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/JM4jGg4kTC",
-     "expand": "https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a"
-    }
-   ],
+   "urls": [],
    "retweeted_status": {
-    "id": 966166681935478800,
-    "id_str": "966166681935478789",
-    "created_at": "Wed Feb 21 04:24:22 +0000 2018",
-    "text": "“Down with Pipeline debt / Introducing Great Expectations” @expectgreatdata https://t.co/JM4jGg4kTC via @AbeGong",
+    "id": 970797638688714800,
+    "id_str": "970797638688714752",
+    "created_at": "Mon Mar 05 23:06:08 +0000 2018",
+    "text": "exactly 5 years ago tomorrow, March 6, 2013 @hookflash proposed an SDP free version of #WebRTC and proceeded to inv… https://t.co/KgAfLUBETB",
     "retweet_count": 5,
-    "favorite_count": 10,
+    "favorite_count": 8,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/JM4jGg4kTC",
-      "expand": "https://medium.com/@expectgreatdata/down-with-pipeline-debt-introducing-great-expectations-862ddc46782a"
+      "url": "https://t.co/KgAfLUBETB",
+      "expand": "https://twitter.com/i/web/status/970797638688714752"
      }
     ]
    }
   },
   {
-   "id": 966235460778504200,
-   "id_str": "966235460778504193",
-   "created_at": "Wed Feb 21 08:57:40 +0000 2018",
-   "text": "@tsahil \"Going above 50 seems like a bad idea for all use cases that I can remember taking part of.\" I'm using 160 :P",
-   "retweet_count": 0,
-   "favorite_count": 1,
+   "id": 970958862269509600,
+   "id_str": "970958862269509632",
+   "created_at": "Tue Mar 06 09:46:46 +0000 2018",
+   "text": "@ibc_tw @tsahil In the last column of my WebRTC platform comparison you have the TURN ports used by some other plat… https://t.co/sL4zZzouu7",
+   "retweet_count": 1,
+   "favorite_count": 5,
    "place": null,
-   "in_reply_to_status_id": 966087862197342200,
-   "in_reply_to_status_id_str": "966087862197342209",
-   "in_reply_to_screen_name": "tsahil",
+   "in_reply_to_status_id": 970952072110788600,
+   "in_reply_to_status_id_str": "970952072110788608",
+   "in_reply_to_screen_name": "ibc_tw",
+   "urls": [
+    {
+     "url": "https://t.co/sL4zZzouu7",
+     "expand": "https://twitter.com/i/web/status/970958862269509632"
+    }
+   ]
+  },
+  {
+   "id": 970658348931706900,
+   "id_str": "970658348931706880",
+   "created_at": "Mon Mar 05 13:52:39 +0000 2018",
+   "text": "@CMGTGV @ManuelaCarmena Estuvo en Feb 2017, y la iniciativa esta es \"1 mes 1 distrito\" así que os debería tocar otra vez a final de año.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969898693896917000,
+   "in_reply_to_status_id_str": "969898693896916992",
+   "in_reply_to_screen_name": "CMGTGV",
    "urls": []
   },
   {
-   "id": 965961103082651600,
-   "id_str": "965961103082651648",
-   "created_at": "Tue Feb 20 14:47:28 +0000 2018",
-   "text": "VoIP software developer job in Madrid:\nhttps://t.co/Jic9Z9HmiO",
-   "retweet_count": 2,
+   "id": 970425210892640300,
+   "id_str": "970425210892640257",
+   "created_at": "Sun Mar 04 22:26:14 +0000 2018",
+   "text": "@Gallato7 @Pablo_Iglesias_ @Congreso_Es @guardiacivil @joluga68 @UnionOficiales @fgrruiz @Raul_N_B @espartano533… https://t.co/a9CbKeQ9iJ",
+   "retweet_count": 0,
    "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 837415039493619700,
+   "in_reply_to_status_id_str": "837415039493619714",
+   "in_reply_to_screen_name": "Gallato7",
+   "urls": [
+    {
+     "url": "https://t.co/a9CbKeQ9iJ",
+     "expand": "https://twitter.com/i/web/status/970425210892640257"
+    }
+   ]
+  },
+  {
+   "id": 969901225276735500,
+   "id_str": "969901225276735488",
+   "created_at": "Sat Mar 03 11:44:06 +0000 2018",
+   "text": "@murillo @xiaomi 1 min per square meter looks like improbable",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969865669117464600,
+   "in_reply_to_status_id_str": "969865669117464576",
+   "in_reply_to_screen_name": "murillo",
+   "urls": []
+  },
+  {
+   "id": 969523054840860700,
+   "id_str": "969523054840860672",
+   "created_at": "Fri Mar 02 10:41:23 +0000 2018",
+   "text": "I was surprised by how long is the list of AWS Media Services now.  I didn't know about Kinesis Video Streams.  Loo… https://t.co/M3AdMq2KsW",
+   "retweet_count": 0,
+   "favorite_count": 6,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/Jic9Z9HmiO",
-     "expand": "https://jobs.telefonica.com/job/MADRID-VoIP-Software-developer/456970001/"
+     "url": "https://t.co/M3AdMq2KsW",
+     "expand": "https://twitter.com/i/web/status/969523054840860672"
     }
    ]
   },
   {
-   "id": 965864235925372900,
-   "id_str": "965864235925372929",
-   "created_at": "Tue Feb 20 08:22:33 +0000 2018",
-   "text": "@jserna I took a look and most of new Android devices support it: https://t.co/CHAej6iLo9 .   I guess I've never se… https://t.co/z5og8jQrsC",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965863381595979800,
-   "in_reply_to_status_id_str": "965863381595979776",
-   "in_reply_to_screen_name": "jserna",
-   "urls": [
-    {
-     "url": "https://t.co/CHAej6iLo9",
-     "expand": "https://support.t-mobile.com/docs/DOC-22754"
-    },
-    {
-     "url": "https://t.co/z5og8jQrsC",
-     "expand": "https://twitter.com/i/web/status/965864235925372929"
-    }
-   ]
-  },
-  {
-   "id": 965860177521139700,
-   "id_str": "965860177521139712",
-   "created_at": "Tue Feb 20 08:06:25 +0000 2018",
-   "text": "@jserna What operators are really having VoLTE deployed for real customers today?  Is there any link about it?  I'm… https://t.co/QkfNSZblUK",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965725663935295500,
-   "in_reply_to_status_id_str": "965725663935295488",
-   "in_reply_to_screen_name": "jserna",
-   "urls": [
-    {
-     "url": "https://t.co/QkfNSZblUK",
-     "expand": "https://twitter.com/i/web/status/965860177521139712"
-    }
-   ]
-  },
-  {
-   "id": 965717584275497000,
-   "id_str": "965717584275496960",
-   "created_at": "Mon Feb 19 22:39:48 +0000 2018",
-   "text": "RT @ABC: ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on his arm. This we…",
-   "retweet_count": 20041,
+   "id": 969206873114251300,
+   "id_str": "969206873114251265",
+   "created_at": "Thu Mar 01 13:45:00 +0000 2018",
+   "text": "RT @sundarpichai: We're sharing resources for everyone to learn more about AI, including a \"Machine Learning Crash Course\" which over 18K G…",
+   "retweet_count": 1362,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -294,29 +672,270 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965710028702453800,
-    "id_str": "965710028702453760",
-    "created_at": "Mon Feb 19 22:09:47 +0000 2018",
-    "text": "ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on h… https://t.co/HsUKYRAiii",
-    "retweet_count": 20041,
-    "favorite_count": 55102,
+    "id": 969003071131938800,
+    "id_str": "969003071131938817",
+    "created_at": "Thu Mar 01 00:15:10 +0000 2018",
+    "text": "We're sharing resources for everyone to learn more about AI, including a \"Machine Learning Crash Course\" which over… https://t.co/oerlmant0t",
+    "retweet_count": 1362,
+    "favorite_count": 4188,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/HsUKYRAiii",
-      "expand": "https://twitter.com/i/web/status/965710028702453760"
+      "url": "https://t.co/oerlmant0t",
+      "expand": "https://twitter.com/i/web/status/969003071131938817"
      }
     ]
    }
   },
   {
-   "id": 965660662692278300,
-   "id_str": "965660662692278274",
-   "created_at": "Mon Feb 19 18:53:37 +0000 2018",
-   "text": "RT @victorpascual: At @Genaker we are hiring a rockstar voip developer and a sysadmin - contact me for further info",
+   "id": 968841116224245800,
+   "id_str": "968841116224245766",
+   "created_at": "Wed Feb 28 13:31:36 +0000 2018",
+   "text": "Enjoying Dart during lunch....  It feels like a mix of Swift and Typescript so far.   A nice surprise is the concep… https://t.co/EwupssWjVL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EwupssWjVL",
+     "expand": "https://twitter.com/i/web/status/968841116224245766"
+    }
+   ]
+  },
+  {
+   "id": 968550275895177200,
+   "id_str": "968550275895177217",
+   "created_at": "Tue Feb 27 18:15:55 +0000 2018",
+   "text": "@murillo @HCornflower Yep.  I'm not very surprised about that one. There are many downloads in cocoapods and many T… https://t.co/e5jaV1LXv1",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968547801285255200,
+   "in_reply_to_status_id_str": "968547801285255168",
+   "in_reply_to_screen_name": "murillo",
+   "urls": [
+    {
+     "url": "https://t.co/e5jaV1LXv1",
+     "expand": "https://twitter.com/i/web/status/968550275895177217"
+    }
+   ]
+  },
+  {
+   "id": 968547031038951400,
+   "id_str": "968547031038951424",
+   "created_at": "Tue Feb 27 18:03:01 +0000 2018",
+   "text": "@HCornflower @murillo Can they use it through adapter.js?  Sorry if I'm asking something stupid, don't use browsers anymore :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968546786456625200,
+   "in_reply_to_status_id_str": "968546786456625155",
+   "in_reply_to_screen_name": "HCornflower",
+   "urls": []
+  },
+  {
+   "id": 968546063647985700,
+   "id_str": "968546063647985667",
+   "created_at": "Tue Feb 27 17:59:10 +0000 2018",
+   "text": "@murillo @ibc_tw @elminiero The Datachannel number is unbelievable.  The E2E encryption number is just impossible :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968545799033512000,
+   "in_reply_to_status_id_str": "968545799033511936",
+   "in_reply_to_screen_name": "murillo",
+   "urls": []
+  },
+  {
+   "id": 968537861288091600,
+   "id_str": "968537861288091648",
+   "created_at": "Tue Feb 27 17:26:35 +0000 2018",
+   "text": "@murillo 53% of developers use DataChannels!?!?!? No way.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968531103333175300,
+   "in_reply_to_status_id_str": "968531103333175296",
+   "in_reply_to_screen_name": "murillo",
+   "urls": []
+  },
+  {
+   "id": 968537621088661500,
+   "id_str": "968537621088661505",
+   "created_at": "Tue Feb 27 17:25:38 +0000 2018",
+   "text": "RT @murillo: Raw results of the #WebRTC developers survey available! \n\nhttps://t.co/lGpP4JjXkA\n\nAnd the google form analytics:\n\nhttps://t.c…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lGpP4JjXkA",
+     "expand": "https://docs.google.com/spreadsheets/d/15k5cjwtiF1gekT9K1fY0iQs_B7E3_oLjnMZUYq3Jy2Y/edit#gid=991622193"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968531103333175300,
+    "id_str": "968531103333175296",
+    "created_at": "Tue Feb 27 16:59:44 +0000 2018",
+    "text": "Raw results of the #WebRTC developers survey available! \n\nhttps://t.co/lGpP4JjXkA\n\nAnd the google form analytics:\n\nhttps://t.co/c3M7Jz1ymW",
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lGpP4JjXkA",
+      "expand": "https://docs.google.com/spreadsheets/d/15k5cjwtiF1gekT9K1fY0iQs_B7E3_oLjnMZUYq3Jy2Y/edit#gid=991622193"
+     },
+     {
+      "url": "https://t.co/c3M7Jz1ymW",
+      "expand": "https://docs.google.com/forms/d/1YVKqVU_ziCYtp8RGGnwB8WcQWDhkXe-mOmaSkFTdJm8/viewanalytics"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968537539622694900,
+   "id_str": "968537539622694912",
+   "created_at": "Tue Feb 27 17:25:18 +0000 2018",
+   "text": "@murillo Just like react-native I guess.  I don't expect WebRTC support.  It is not a native device capability and… https://t.co/2VWD6qrT3V",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968530602675916800,
+   "in_reply_to_status_id_str": "968530602675916800",
+   "in_reply_to_screen_name": "murillo",
+   "urls": [
+    {
+     "url": "https://t.co/2VWD6qrT3V",
+     "expand": "https://twitter.com/i/web/status/968537539622694912"
+    }
+   ]
+  },
+  {
+   "id": 968527922339504100,
+   "id_str": "968527922339504128",
+   "created_at": "Tue Feb 27 16:47:05 +0000 2018",
+   "text": "This Flutter framework looks cool.   Should I give it a try?  Why Dart and not Typescript Google??! :(  Also a litt… https://t.co/BuvFWGjSu2",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BuvFWGjSu2",
+     "expand": "https://twitter.com/i/web/status/968527922339504128"
+    }
+   ]
+  },
+  {
+   "id": 968414773611319300,
+   "id_str": "968414773611319302",
+   "created_at": "Tue Feb 27 09:17:28 +0000 2018",
+   "text": "@Ingria83 @W_Munny @PabloMM Un link a plaza podemos?!?!? En plaza podemos cualquiera puede proponer lo que quiera p… https://t.co/06lfvmKC1W",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 968398081707343900,
+   "in_reply_to_status_id_str": "968398081707343872",
+   "in_reply_to_screen_name": "Ingria83",
+   "urls": [
+    {
+     "url": "https://t.co/06lfvmKC1W",
+     "expand": "https://twitter.com/i/web/status/968414773611319302"
+    }
+   ]
+  },
+  {
+   "id": 968256867083407400,
+   "id_str": "968256867083407360",
+   "created_at": "Mon Feb 26 22:50:01 +0000 2018",
+   "text": "RT @jserna: Telco Operators want to fight in the Home OS Wars https://t.co/1aNS3Or3eD",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1aNS3Or3eD",
+     "expand": "https://www.linkedin.com/pulse/telco-operators-want-fight-home-os-wars-jorge-serna/?published=t"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968224535521710100,
+    "id_str": "968224535521710080",
+    "created_at": "Mon Feb 26 20:41:32 +0000 2018",
+    "text": "Telco Operators want to fight in the Home OS Wars https://t.co/1aNS3Or3eD",
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1aNS3Or3eD",
+      "expand": "https://www.linkedin.com/pulse/telco-operators-want-fight-home-os-wars-jorge-serna/?published=t"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967817556848504800,
+   "id_str": "967817556848504835",
+   "created_at": "Sun Feb 25 17:44:21 +0000 2018",
+   "text": "The slides for my presentation \"Getting Started with TensorFlow\" and a photo of the \"autonomous car\" I used for the… https://t.co/3MjMZ8Ub7z",
+   "retweet_count": 2,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3MjMZ8Ub7z",
+     "expand": "https://twitter.com/i/web/status/967817556848504835"
+    }
+   ]
+  },
+  {
+   "id": 967692603444613100,
+   "id_str": "967692603444613120",
+   "created_at": "Sun Feb 25 09:27:50 +0000 2018",
+   "text": "@tsahil It worked :). I'll post photos, slides and YouTube video later.  It was a very simple autonomous car.  You… https://t.co/NszzR7F4Dk",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967652314613010400,
+   "in_reply_to_status_id_str": "967652314613010432",
+   "in_reply_to_screen_name": "tsahil",
+   "urls": [
+    {
+     "url": "https://t.co/NszzR7F4Dk",
+     "expand": "https://twitter.com/i/web/status/967692603444613120"
+    }
+   ]
+  },
+  {
+   "id": 967518594983714800,
+   "id_str": "967518594983714818",
+   "created_at": "Sat Feb 24 21:56:23 +0000 2018",
+   "text": "RT @alalga: Y finalmente \"Getting started with Tensorflow\" del gran @anarchyco (organización chapeau) en #tidx https://t.co/YnJdiwG0p0",
    "retweet_count": 4,
    "favorite_count": 0,
    "place": null,
@@ -325,12 +944,12 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965635458179977200,
-    "id_str": "965635458179977216",
-    "created_at": "Mon Feb 19 17:13:28 +0000 2018",
-    "text": "At @Genaker we are hiring a rockstar voip developer and a sysadmin - contact me for further info",
+    "id": 967486291385503700,
+    "id_str": "967486291385503744",
+    "created_at": "Sat Feb 24 19:48:01 +0000 2018",
+    "text": "Y finalmente \"Getting started with Tensorflow\" del gran @anarchyco (organización chapeau) en #tidx https://t.co/YnJdiwG0p0",
     "retweet_count": 4,
-    "favorite_count": 2,
+    "favorite_count": 12,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -339,46 +958,111 @@
    }
   },
   {
-   "id": 965005208681156600,
-   "id_str": "965005208681156608",
-   "created_at": "Sat Feb 17 23:29:05 +0000 2018",
-   "text": "I was not expecting Inception model to be so fast in a normal android phone.  Building this demo was easy, next I n… https://t.co/SPvquoFg4M",
+   "id": 967441677362384900,
+   "id_str": "967441677362384900",
+   "created_at": "Sat Feb 24 16:50:44 +0000 2018",
+   "text": "RT @_rubengb: Totally agree ! @tidxconference #tidx from @TomekWszelaki https://t.co/SMUB2VDIH0",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967438163147939800,
+    "id_str": "967438163147939840",
+    "created_at": "Sat Feb 24 16:36:46 +0000 2018",
+    "text": "Totally agree ! @tidxconference #tidx from @TomekWszelaki https://t.co/SMUB2VDIH0",
+    "retweet_count": 8,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 967431733317656600,
+   "id_str": "967431733317656576",
+   "created_at": "Sat Feb 24 16:11:13 +0000 2018",
+   "text": "\"This is like having a kid, 5 mins of dev and rest of your life of ops\" by @_rubengb #tidx",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 967426244320129000,
+   "id_str": "967426244320129026",
+   "created_at": "Sat Feb 24 15:49:25 +0000 2018",
+   "text": "Why do lazy developers write beautiful code?  By @javier_arilos #tidx https://t.co/3weeMMxwZ8",
    "retweet_count": 0,
-   "favorite_count": 7,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 967375770409750500,
+   "id_str": "967375770409750528",
+   "created_at": "Sat Feb 24 12:28:51 +0000 2018",
+   "text": "@jserna @teslacoollab @tidxconference \"es muy divertido depurar problemas con SIP\" by @juanagui",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967355689734635500,
+   "in_reply_to_status_id_str": "967355689734635520",
+   "in_reply_to_screen_name": "jserna",
+   "urls": []
+  },
+  {
+   "id": 967373858415284200,
+   "id_str": "967373858415284224",
+   "created_at": "Sat Feb 24 12:21:15 +0000 2018",
+   "text": "Mozilla engineer @f_jimenez talking about Rust in #tidx.  I should try to build next #webrtc mediaserver in Rust...… https://t.co/8LlFWTWfm4",
+   "retweet_count": 4,
+   "favorite_count": 10,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/SPvquoFg4M",
-     "expand": "https://twitter.com/i/web/status/965005208681156608"
+     "url": "https://t.co/8LlFWTWfm4",
+     "expand": "https://twitter.com/i/web/status/967373858415284224"
     }
    ]
   },
   {
-   "id": 964982088985440300,
-   "id_str": "964982088985440256",
-   "created_at": "Sat Feb 17 21:57:13 +0000 2018",
-   "text": "@tsahil The presentation I'm preparing is about TensorFlow :)  I don't know much about MXNet but the community and… https://t.co/EUntmzSuCo",
-   "retweet_count": 0,
-   "favorite_count": 0,
+   "id": 967333659014500400,
+   "id_str": "967333659014500352",
+   "created_at": "Sat Feb 24 09:41:31 +0000 2018",
+   "text": "\"Same Team.  Different companies.\" That's the motto of #tidx 2018 https://t.co/ejKM1x2Hzo",
+   "retweet_count": 7,
+   "favorite_count": 10,
    "place": null,
-   "in_reply_to_status_id": 964953870232440800,
-   "in_reply_to_status_id_str": "964953870232440832",
-   "in_reply_to_screen_name": "tsahil",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/EUntmzSuCo",
-     "expand": "https://twitter.com/i/web/status/964982088985440256"
+     "url": "https://t.co/ejKM1x2Hzo",
+     "expand": "https://twitter.com/jserna/status/967317390961848321"
     }
    ]
   },
   {
-   "id": 964980541400502300,
-   "id_str": "964980541400502272",
-   "created_at": "Sat Feb 17 21:51:04 +0000 2018",
-   "text": "This is the most popular github repo this month: https://t.co/0Lm9YugquE\n\nImpressive...",
+   "id": 967325514737307600,
+   "id_str": "967325514737307648",
+   "created_at": "Sat Feb 24 09:09:09 +0000 2018",
+   "text": "\"Program to an interface, not to an implementation\" by @_rubengb #tidx. Interesting view of mistakes when building… https://t.co/Xv9W7CAyc2",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
@@ -387,52 +1071,88 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/0Lm9YugquE",
-     "expand": "https://github.com/kelseyhightower/nocode"
+     "url": "https://t.co/Xv9W7CAyc2",
+     "expand": "https://twitter.com/i/web/status/967325514737307648"
     }
    ]
   },
   {
-   "id": 964929501468811300,
-   "id_str": "964929501468811264",
-   "created_at": "Sat Feb 17 18:28:15 +0000 2018",
-   "text": "@Kieleth Deep dense NN. MNIST.  Numbers :)",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 964699324432007200,
-   "in_reply_to_status_id_str": "964699324432007168",
-   "in_reply_to_screen_name": "Kieleth",
-   "urls": []
-  },
-  {
-   "id": 964929359252508700,
-   "id_str": "964929359252508677",
-   "created_at": "Sat Feb 17 18:27:41 +0000 2018",
-   "text": "@tsahil Looks like a good idea.  I stopped using GCE years ago but maybe this is a reason to go back.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 964890208343920600,
-   "in_reply_to_status_id_str": "964890208343920640",
-   "in_reply_to_screen_name": "tsahil",
-   "urls": []
-  },
-  {
-   "id": 964638668760764400,
-   "id_str": "964638668760764417",
-   "created_at": "Fri Feb 16 23:12:35 +0000 2018",
-   "text": "Training TensorFlow model in EC2 now:\n- With GPU: 10 secs / training iteration\n- With CPU: 160 secs / training iter… https://t.co/FHs7wey7oU",
-   "retweet_count": 0,
-   "favorite_count": 2,
+   "id": 967320640402460700,
+   "id_str": "967320640402460672",
+   "created_at": "Sat Feb 24 08:49:47 +0000 2018",
+   "text": "We had a nice surprise for the #tidx opening today with a video sent by @carlosdomingo for the event https://t.co/hadSP8m3JA",
+   "retweet_count": 5,
+   "favorite_count": 6,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 967021820774887400,
+   "id_str": "967021820774887424",
+   "created_at": "Fri Feb 23 13:02:23 +0000 2018",
+   "text": "@gundisalvus_gy @ierrejon Te ⊆ Os\n\nPero te veo liada, así que no me canso más.  Si eres feliz así, me alegro por ti.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967008146685333500,
+   "in_reply_to_status_id_str": "967008146685333504",
+   "in_reply_to_screen_name": "gundisalvus_gy",
+   "urls": []
+  },
+  {
+   "id": 967006567567642600,
+   "id_str": "967006567567642626",
+   "created_at": "Fri Feb 23 12:01:46 +0000 2018",
+   "text": "@gundisalvus_gy @ierrejon \"¿ya no os parece mal que voten?\"    \"os\" se refiere a vosotros, y es una respuesta a ier… https://t.co/9R8Aq6n0gp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966987883361046500,
+   "in_reply_to_status_id_str": "966987883361046530",
+   "in_reply_to_screen_name": "gundisalvus_gy",
    "urls": [
     {
-     "url": "https://t.co/FHs7wey7oU",
-     "expand": "https://twitter.com/i/web/status/964638668760764417"
+     "url": "https://t.co/9R8Aq6n0gp",
+     "expand": "https://twitter.com/i/web/status/967006567567642626"
+    }
+   ]
+  },
+  {
+   "id": 966987686279073800,
+   "id_str": "966987686279073792",
+   "created_at": "Fri Feb 23 10:46:44 +0000 2018",
+   "text": "@gundisalvus_gy @ierrejon Cuando tengas el enlace al vídeo de ierrejon diciendo que los putos viejos no deberían te… https://t.co/nohoLox0KH",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966987008563449900,
+   "in_reply_to_status_id_str": "966987008563449857",
+   "in_reply_to_screen_name": "gundisalvus_gy",
+   "urls": [
+    {
+     "url": "https://t.co/nohoLox0KH",
+     "expand": "https://twitter.com/i/web/status/966987686279073792"
+    }
+   ]
+  },
+  {
+   "id": 966985969999253500,
+   "id_str": "966985969999253505",
+   "created_at": "Fri Feb 23 10:39:55 +0000 2018",
+   "text": "@gundisalvus_gy @ierrejon Qué tiene que ver el hecho objetivo \"si solo votasen los menores de 45 años PI sería pres… https://t.co/RPdxgmcTxZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966977243435159600,
+   "in_reply_to_status_id_str": "966977243435159552",
+   "in_reply_to_screen_name": "gundisalvus_gy",
+   "urls": [
+    {
+     "url": "https://t.co/RPdxgmcTxZ",
+     "expand": "https://twitter.com/i/web/status/966985969999253505"
     }
    ]
   }

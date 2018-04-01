@@ -1,11 +1,450 @@
 {
- "time": 1519367393096,
+ "time": 1522595125973,
  "lists": [
   {
-   "id": 965212046181748700,
-   "id_str": "965212046181748736",
-   "created_at": "Sun Feb 18 13:10:59 +0000 2018",
-   "text": "Amazon owns my Echo, I’m just feeding it https://t.co/xfbGKt2pEG via @Verge",
+   "id": 979065606598258700,
+   "id_str": "979065606598258689",
+   "created_at": "Wed Mar 28 18:40:05 +0000 2018",
+   "text": "RT @INXPO: #ChodorOnAir is live now! To check out our guest speaker Chad's blog, visit here: https://t.co/ZFcW46mS2T",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZFcW46mS2T",
+     "expand": "https://webrtchacks.com/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979060343002619900,
+    "id_str": "979060343002619904",
+    "created_at": "Wed Mar 28 18:19:10 +0000 2018",
+    "text": "#ChodorOnAir is live now! To check out our guest speaker Chad's blog, visit here: https://t.co/ZFcW46mS2T",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZFcW46mS2T",
+      "expand": "https://webrtchacks.com/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979012988920303600,
+   "id_str": "979012988920303618",
+   "created_at": "Wed Mar 28 15:11:00 +0000 2018",
+   "text": "RT @sw12: Progressive Web Apps for WebRTC — from @appear_in's @kartoffelmos:\n\nhttps://t.co/YSYhUQu3zw\n\n'devices are thermally throttled and…",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YSYhUQu3zw",
+     "expand": "http://webrtchacks.com/pwa-webrtc"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978944901130932200,
+    "id_str": "978944901130932230",
+    "created_at": "Wed Mar 28 10:40:27 +0000 2018",
+    "text": "Progressive Web Apps for WebRTC — from @appear_in's @kartoffelmos:\n\nhttps://t.co/YSYhUQu3zw\n\n'devices are thermally… https://t.co/w9umX9Ns7g",
+    "retweet_count": 30,
+    "favorite_count": 41,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YSYhUQu3zw",
+      "expand": "http://webrtchacks.com/pwa-webrtc"
+     },
+     {
+      "url": "https://t.co/w9umX9Ns7g",
+      "expand": "https://twitter.com/i/web/status/978944901130932230"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978968453037076500,
+   "id_str": "978968453037076480",
+   "created_at": "Wed Mar 28 12:14:02 +0000 2018",
+   "text": "RT @webrtcHacks: New post: Progressive Web Apps (PWA) for #WebRTC (Trond Kjetil Bremnes) - TK shares tips &amp; tricks for making your RTC app…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978945658718769200,
+    "id_str": "978945658718769152",
+    "created_at": "Wed Mar 28 10:43:27 +0000 2018",
+    "text": "New post: Progressive Web Apps (PWA) for #WebRTC (Trond Kjetil Bremnes) - TK shares tips &amp; tricks for making your R… https://t.co/6NtGueULVP",
+    "retweet_count": 14,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6NtGueULVP",
+      "expand": "https://twitter.com/i/web/status/978945658718769152"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978650608440954900,
+   "id_str": "978650608440954880",
+   "created_at": "Tue Mar 27 15:11:02 +0000 2018",
+   "text": "Why Humans Learn Faster Than AI — for Now – MIT Technology Review – Medium https://t.co/RpeO6uadvd https://t.co/ah2tvzavHl",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RpeO6uadvd",
+     "expand": "https://buff.ly/2p1TFqj"
+    }
+   ]
+  },
+  {
+   "id": 978606069340622800,
+   "id_str": "978606069340622848",
+   "created_at": "Tue Mar 27 12:14:03 +0000 2018",
+   "text": "Some commentary on the expectation of #WebRTC here, and @appear_in mention with an unexpected twist at the end - It… https://t.co/fA2BSurm8u",
+   "retweet_count": 6,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fA2BSurm8u",
+     "expand": "https://twitter.com/i/web/status/978606069340622848"
+    }
+   ]
+  },
+  {
+   "id": 978378306323173400,
+   "id_str": "978378306323173376",
+   "created_at": "Mon Mar 26 21:09:00 +0000 2018",
+   "text": "RT @sw12: YouTube Does WebRTC – Here’s How\n\nAnother excellent analysis from @HCornflower \n\nhttps://t.co/af0oy8ZNfe https://t.co/E90s9MSBel",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/af0oy8ZNfe",
+     "expand": "http://webrtchacks.com/youtube-does-webrtc-heres-how"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978240230837948400,
+    "id_str": "978240230837948417",
+    "created_at": "Mon Mar 26 12:00:20 +0000 2018",
+    "text": "YouTube Does WebRTC – Here’s How\n\nAnother excellent analysis from @HCornflower \n\nhttps://t.co/af0oy8ZNfe https://t.co/E90s9MSBel",
+    "retweet_count": 8,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/af0oy8ZNfe",
+      "expand": "http://webrtchacks.com/youtube-does-webrtc-heres-how"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977334935009640400,
+   "id_str": "977334935009640448",
+   "created_at": "Sat Mar 24 00:03:01 +0000 2018",
+   "text": "RT @HCornflower: @webrtcHacks and the signaling protocol was pretty easy to figure out as well. No fancy websockets or trickle-ice, just a…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977280898226933800,
+    "id_str": "977280898226933761",
+    "created_at": "Fri Mar 23 20:28:17 +0000 2018",
+    "text": "@webrtcHacks and the signaling protocol was pretty easy to figure out as well. No fancy websockets or trickle-ice,… https://t.co/Q3J2jJpabb",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": 977175130261676000,
+    "in_reply_to_status_id_str": "977175130261676032",
+    "in_reply_to_screen_name": "webrtcHacks",
+    "urls": [
+     {
+      "url": "https://t.co/Q3J2jJpabb",
+      "expand": "https://twitter.com/i/web/status/977280898226933761"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977291142210474000,
+   "id_str": "977291142210473985",
+   "created_at": "Fri Mar 23 21:09:00 +0000 2018",
+   "text": "RT @webrtcHacks: New Post: YouTube Does #WebRTC - Here's How by @HCornflower  - webrtcHacks https://t.co/9w4oeJRl1G https://t.co/a09F9z6ZDW",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9w4oeJRl1G",
+     "expand": "https://buff.ly/2ujpyRe"
+    }
+   ],
+   "retweeted_status": {
+    "id": 977175130261676000,
+    "id_str": "977175130261676032",
+    "created_at": "Fri Mar 23 13:28:00 +0000 2018",
+    "text": "New Post: YouTube Does #WebRTC - Here's How by @HCornflower  - webrtcHacks https://t.co/9w4oeJRl1G https://t.co/a09F9z6ZDW",
+    "retweet_count": 14,
+    "favorite_count": 24,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9w4oeJRl1G",
+      "expand": "https://buff.ly/2ujpyRe"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977201075030773800,
+   "id_str": "977201075030773760",
+   "created_at": "Fri Mar 23 15:11:06 +0000 2018",
+   "text": "I ended up roping @HCornflower into doing an analysis on YouTube's #WebRTC for @webrtcHacks on this. There are some… https://t.co/YRidroMray",
+   "retweet_count": 3,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YRidroMray",
+     "expand": "https://twitter.com/i/web/status/977201075030773760"
+    }
+   ]
+  },
+  {
+   "id": 976280265625690100,
+   "id_str": "976280265625690112",
+   "created_at": "Wed Mar 21 02:12:08 +0000 2018",
+   "text": "YouTube's new \"Go Live\" live streaming uses #WebRTC to send the broadcaster's stream to their distribution network.… https://t.co/mfx6WJQL7H",
+   "retweet_count": 20,
+   "favorite_count": 39,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mfx6WJQL7H",
+     "expand": "https://twitter.com/i/web/status/976280265625690112"
+    }
+   ]
+  },
+  {
+   "id": 976203993801265200,
+   "id_str": "976203993801265152",
+   "created_at": "Tue Mar 20 21:09:03 +0000 2018",
+   "text": "IBM offers up Watson Assistant, its answer to Amazon’s Alexa https://t.co/IgKR1W6JHA https://t.co/UTYdgkfBcm",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IgKR1W6JHA",
+     "expand": "https://buff.ly/2u221Ej"
+    }
+   ]
+  },
+  {
+   "id": 974389545797120000,
+   "id_str": "974389545797120002",
+   "created_at": "Thu Mar 15 20:59:05 +0000 2018",
+   "text": "@ndufresne @webrtcHacks yes, I agree. I passed along the recommendation to use @tsahil diagram in here: https://t.co/xoBGraaYVT",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972543063292858400,
+   "in_reply_to_status_id_str": "972543063292858368",
+   "in_reply_to_screen_name": "ndufresne",
+   "urls": [
+    {
+     "url": "https://t.co/xoBGraaYVT",
+     "expand": "https://www.slideshare.net/tsahil/webrtc-for-telco-informas-webrtc-global-summit-preconference"
+    }
+   ]
+  },
+  {
+   "id": 974342056746405900,
+   "id_str": "974342056746405890",
+   "created_at": "Thu Mar 15 17:50:23 +0000 2018",
+   "text": "RT @n1kflow: Royalty-free, open spatial audio  #FTW https://t.co/Fm2PsoEOiH",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Fm2PsoEOiH",
+     "expand": "https://twitter.com/googleoss/status/973958059067260930"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974206715792150500,
+    "id_str": "974206715792150529",
+    "created_at": "Thu Mar 15 08:52:35 +0000 2018",
+    "text": "Royalty-free, open spatial audio  #FTW https://t.co/Fm2PsoEOiH",
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Fm2PsoEOiH",
+      "expand": "https://twitter.com/googleoss/status/973958059067260930"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973894208305188900,
+   "id_str": "973894208305188864",
+   "created_at": "Wed Mar 14 12:10:47 +0000 2018",
+   "text": "Interesting group of speakers on the Speech Analytics panel this morning - @slac of Google Meet (&amp; #WebRTC) Jay at… https://t.co/UcKMpGVtRw",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UcKMpGVtRw",
+     "expand": "https://twitter.com/i/web/status/973894208305188864"
+    }
+   ]
+  },
+  {
+   "id": 973601811457290200,
+   "id_str": "973601811457290241",
+   "created_at": "Tue Mar 13 16:48:55 +0000 2018",
+   "text": "RT @Voxbone: It’s here, the beta launch of Speech Analytics! Built with the help of customers through our Labs program for new &amp; experiment…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973582925714387000,
+    "id_str": "973582925714386949",
+    "created_at": "Tue Mar 13 15:33:52 +0000 2018",
+    "text": "It’s here, the beta launch of Speech Analytics! Built with the help of customers through our Labs program for new &amp;… https://t.co/h45MmRF9xG",
+    "retweet_count": 9,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/h45MmRF9xG",
+      "expand": "https://twitter.com/i/web/status/973582925714386949"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972229236890234900,
+   "id_str": "972229236890234882",
+   "created_at": "Fri Mar 09 21:54:47 +0000 2018",
+   "text": "@mikedunord @agomes73 @Voxitay @fikrifirat @Orecx_Software We built our system from Drachtio and RTPEngine. The SRS… https://t.co/RzQnWgHF2g",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972213673044463600,
+   "in_reply_to_status_id_str": "972213673044463647",
+   "in_reply_to_screen_name": "mikedunord",
+   "urls": [
+    {
+     "url": "https://t.co/RzQnWgHF2g",
+     "expand": "https://twitter.com/i/web/status/972229236890234882"
+    }
+   ]
+  },
+  {
+   "id": 972211870047309800,
+   "id_str": "972211870047309825",
+   "created_at": "Fri Mar 09 20:45:47 +0000 2018",
+   "text": "@mikedunord @agomes73 @Voxitay @fikrifirat . @Orecx_Software can probably say for sure, but I don't think opensips… https://t.co/CdKgKGssmq",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971490733441060900,
+   "in_reply_to_status_id_str": "971490733441060864",
+   "in_reply_to_screen_name": "mikedunord",
+   "urls": [
+    {
+     "url": "https://t.co/CdKgKGssmq",
+     "expand": "https://twitter.com/i/web/status/972211870047309825"
+    }
+   ]
+  },
+  {
+   "id": 972117510634995700,
+   "id_str": "972117510634995715",
+   "created_at": "Fri Mar 09 14:30:50 +0000 2018",
+   "text": "AI Has a Hallucination Problem That's Proving Tough to Fix https://t.co/bC3QmjkV5Y",
    "retweet_count": 1,
    "favorite_count": 2,
    "place": null,
@@ -14,26 +453,209 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/xfbGKt2pEG",
-     "expand": "https://www.theverge.com/2018/2/17/17020962/amazon-echo-alexa-trojan-horse-sad-dreams"
+     "url": "https://t.co/bC3QmjkV5Y",
+     "expand": "https://www.wired.com/story/ai-has-a-hallucination-problem-thats-proving-tough-to-fix"
     }
    ]
   },
   {
-   "id": 964622716388237300,
-   "id_str": "964622716388237314",
-   "created_at": "Fri Feb 16 22:09:12 +0000 2018",
-   "text": "In the world of voice-recognition, not all accents are equal - The Economist https://t.co/ePc95GDDmq https://t.co/9hlJvTioVf",
-   "retweet_count": 1,
-   "favorite_count": 1,
+   "id": 972098184586711000,
+   "id_str": "972098184586711040",
+   "created_at": "Fri Mar 09 13:14:02 +0000 2018",
+   "text": "RT @chadwallacehart: Part 2 of my @webrtcHacks post - how to use #WebRTC to build a Google #AIYProjects #visionkit Web Server. Use a @Raspb…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971914269976653800,
+    "id_str": "971914269976653825",
+    "created_at": "Fri Mar 09 01:03:13 +0000 2018",
+    "text": "Part 2 of my @webrtcHacks post - how to use #WebRTC to build a Google #AIYProjects #visionkit Web Server. Use a… https://t.co/enXGN5Yz7s",
+    "retweet_count": 12,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/enXGN5Yz7s",
+      "expand": "https://twitter.com/i/web/status/971914269976653825"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971914269976653800,
+   "id_str": "971914269976653825",
+   "created_at": "Fri Mar 09 01:03:13 +0000 2018",
+   "text": "Part 2 of my @webrtcHacks post - how to use #WebRTC to build a Google #AIYProjects #visionkit Web Server. Use a… https://t.co/enXGN5Yz7s",
+   "retweet_count": 12,
+   "favorite_count": 14,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/ePc95GDDmq",
-     "expand": "https://buff.ly/2F7Jfgq"
+     "url": "https://t.co/enXGN5Yz7s",
+     "expand": "https://twitter.com/i/web/status/971914269976653825"
+    }
+   ]
+  },
+  {
+   "id": 971870440829399000,
+   "id_str": "971870440829399040",
+   "created_at": "Thu Mar 08 22:09:04 +0000 2018",
+   "text": "RT @Toastitron: Hey, I built an app that makes silly gifs! Try it out! https://t.co/ZyuHzGUKVs\n\nI wanted to learn about #WebRTC after going…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZyuHzGUKVs",
+     "expand": "https://photowave.herokuapp.com"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971797039800574000,
+    "id_str": "971797039800573954",
+    "created_at": "Thu Mar 08 17:17:24 +0000 2018",
+    "text": "Hey, I built an app that makes silly gifs! Try it out! https://t.co/ZyuHzGUKVs\n\nI wanted to learn about #WebRTC aft… https://t.co/3TZUAOJLAy",
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZyuHzGUKVs",
+      "expand": "https://photowave.herokuapp.com"
+     },
+     {
+      "url": "https://t.co/3TZUAOJLAy",
+      "expand": "https://twitter.com/i/web/status/971797039800573954"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971145655262629900,
+   "id_str": "971145655262629888",
+   "created_at": "Tue Mar 06 22:09:01 +0000 2018",
+   "text": "RT @webrtcHacks: New Post: Part 2: Building a AIY Vision Kit Web Server with UV4L https://t.co/oUn5OSM7MP #visionkit #webrtc https://t.co/Y…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oUn5OSM7MP",
+     "expand": "https://buff.ly/2FtM2mP"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970973022533320700,
+    "id_str": "970973022533320704",
+    "created_at": "Tue Mar 06 10:43:03 +0000 2018",
+    "text": "New Post: Part 2: Building a AIY Vision Kit Web Server with UV4L https://t.co/oUn5OSM7MP #visionkit #webrtc https://t.co/YDsYuIwBn9",
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oUn5OSM7MP",
+      "expand": "https://buff.ly/2FtM2mP"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971055561952448500,
+   "id_str": "971055561952448513",
+   "created_at": "Tue Mar 06 16:11:01 +0000 2018",
+   "text": "RT @webrtcHacks: New post: AIY Vision Kit Part 1: #TensorFlow Computer Vision on a Raspberry Pi Zero https://t.co/XRjGw7VdPo #aiyprojects #…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XRjGw7VdPo",
+     "expand": "https://buff.ly/2oO9FwT"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970972291361333200,
+    "id_str": "970972291361333249",
+    "created_at": "Tue Mar 06 10:40:08 +0000 2018",
+    "text": "New post: AIY Vision Kit Part 1: #TensorFlow Computer Vision on a Raspberry Pi Zero https://t.co/XRjGw7VdPo… https://t.co/69BoP19W0s",
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XRjGw7VdPo",
+      "expand": "https://buff.ly/2oO9FwT"
+     },
+     {
+      "url": "https://t.co/69BoP19W0s",
+      "expand": "https://twitter.com/i/web/status/970972291361333249"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971011144595976200,
+   "id_str": "971011144595976193",
+   "created_at": "Tue Mar 06 13:14:32 +0000 2018",
+   "text": "My new @webrtcHacks post on how to add #WebRTC to Google's #aiyprojects #visionkit is  a 2 parter-\nAIY Vision Kit P… https://t.co/zWjtihaNwa",
+   "retweet_count": 10,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zWjtihaNwa",
+     "expand": "https://twitter.com/i/web/status/971011144595976193"
+    }
+   ]
+  },
+  {
+   "id": 965212046181748700,
+   "id_str": "965212046181748736",
+   "created_at": "Sun Feb 18 13:10:59 +0000 2018",
+   "text": "Amazon owns my Echo, I’m just feeding it https://t.co/xfbGKt2pEG via @Verge",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xfbGKt2pEG",
+     "expand": "https://www.theverge.com/2018/2/17/17020962/amazon-echo-alexa-trojan-horse-sad-dreams"
     }
    ]
   }

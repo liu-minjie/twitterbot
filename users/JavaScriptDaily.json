@@ -1,66 +1,30 @@
 {
- "time": 1519367405683,
+ "time": 1522595151559,
  "lists": [
   {
-   "id": 966861924364296200,
-   "id_str": "966861924364296192",
-   "created_at": "Fri Feb 23 02:27:00 +0000 2018",
-   "text": "A V8 Memory Quiz in 9 Questions: https://t.co/t0TnCfluNz (Discover some interesting details about how V8 stores values in memory.)",
-   "retweet_count": 9,
-   "favorite_count": 24,
+   "id": 980374210223706100,
+   "id_str": "980374210223706112",
+   "created_at": "Sun Apr 01 09:20:00 +0000 2018",
+   "text": "Key Lessons from Google's JavaScript Style Guide: https://t.co/6mnC9eQdm6",
+   "retweet_count": 152,
+   "favorite_count": 454,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/t0TnCfluNz",
-     "expand": "http://www.mattzeunert.com/2018/01/25/v8-javascript-memory-quiz.html"
+     "url": "https://t.co/6mnC9eQdm6",
+     "expand": "https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b"
     }
    ]
   },
   {
-   "id": 966841040866078700,
-   "id_str": "966841040866078721",
-   "created_at": "Fri Feb 23 01:04:01 +0000 2018",
-   "text": "Node's Event Loop Workflow and Lifecycle at the Low Level: https://t.co/r9NvqpzxgA",
-   "retweet_count": 53,
-   "favorite_count": 118,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/r9NvqpzxgA",
-     "expand": "http://voidcanvas.com/nodejs-event-loop/"
-    }
-   ]
-  },
-  {
-   "id": 966818148669378600,
-   "id_str": "966818148669378562",
-   "created_at": "Thu Feb 22 23:33:03 +0000 2018",
-   "text": "How Fintonic uses Node, MongoDB and Kubernetes to Scale: https://t.co/EWrso9Lw12",
-   "retweet_count": 9,
-   "favorite_count": 45,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/EWrso9Lw12",
-     "expand": "https://community.risingstack.com/how-fintonic-uses-nodejs-mongodb-kubernetes/"
-    }
-   ]
-  },
-  {
-   "id": 966806081547767800,
-   "id_str": "966806081547767809",
-   "created_at": "Thu Feb 22 22:45:06 +0000 2018",
-   "text": "RT @FrontendDaily: The Building Blocks of Web Workers and 5 Cases for Their Use: https://t.co/iQKK3IByaM (A way to run JS in background thr…",
-   "retweet_count": 27,
+   "id": 980215162455183400,
+   "id_str": "980215162455183360",
+   "created_at": "Sat Mar 31 22:48:00 +0000 2018",
+   "text": "RT @JavaScriptDaily: Here’s what people in tech had to say about JavaScript when it debuted in 1995 — https://t.co/f8wKXO6Blk https://t.co/…",
+   "retweet_count": 175,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -68,209 +32,182 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/iQKK3IByaM",
-     "expand": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a"
+     "url": "https://t.co/f8wKXO6Blk",
+     "expand": "https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71"
     }
    ],
    "retweeted_status": {
-    "id": 959067823896080400,
-    "id_str": "959067823896080385",
-    "created_at": "Thu Feb 01 14:16:02 +0000 2018",
-    "text": "The Building Blocks of Web Workers and 5 Cases for Their Use: https://t.co/iQKK3IByaM (A way to run JS in backgroun… https://t.co/V52mWtoyHu",
-    "retweet_count": 27,
-    "favorite_count": 113,
+    "id": 937639224274247700,
+    "id_str": "937639224274247680",
+    "created_at": "Mon Dec 04 11:06:26 +0000 2017",
+    "text": "Here’s what people in tech had to say about JavaScript when it debuted in 1995 — https://t.co/f8wKXO6Blk https://t.co/3rUQNSHScF",
+    "retweet_count": 175,
+    "favorite_count": 339,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/iQKK3IByaM",
-      "expand": "https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a"
-     },
-     {
-      "url": "https://t.co/V52mWtoyHu",
-      "expand": "https://twitter.com/i/web/status/959067823896080385"
+      "url": "https://t.co/f8wKXO6Blk",
+      "expand": "https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71"
      }
     ]
    }
   },
   {
-   "id": 966786692299612200,
-   "id_str": "966786692299612160",
-   "created_at": "Thu Feb 22 21:28:04 +0000 2018",
-   "text": "How WebAssembly May Reinvent How We Write and Ship Code on the Web: https://t.co/tBxhLSPIGh",
-   "retweet_count": 22,
-   "favorite_count": 67,
+   "id": 980203855572029400,
+   "id_str": "980203855572029441",
+   "created_at": "Sat Mar 31 22:03:05 +0000 2018",
+   "text": "TensorFlow.js: WebGL-Accelerated Machine Learning in the Browser - https://t.co/M9B1nTmuny",
+   "retweet_count": 129,
+   "favorite_count": 331,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/tBxhLSPIGh",
-     "expand": "https://thenewstack.io/talking-wasm-paul-milham-webassembly-may-reinvent-write-ship-code-web/"
+     "url": "https://t.co/M9B1nTmuny",
+     "expand": "https://js.tensorflow.org/"
     }
    ]
   },
   {
-   "id": 966761531894530000,
-   "id_str": "966761531894530049",
-   "created_at": "Thu Feb 22 19:48:05 +0000 2018",
-   "text": "aws-appsync-js: Pure JS Client for AWS AppSync - https://t.co/UViN8m2wdl (AWS AppSync is a managed GraphQL service… https://t.co/naiJMHSim0",
-   "retweet_count": 12,
-   "favorite_count": 45,
+   "id": 980154512236302300,
+   "id_str": "980154512236302341",
+   "created_at": "Sat Mar 31 18:47:00 +0000 2018",
+   "text": "11 JavaScript Machine Learning Libraries To Consider: https://t.co/0dcHOD8JcE",
+   "retweet_count": 227,
+   "favorite_count": 553,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/UViN8m2wdl",
-     "expand": "https://github.com/yankouskia/aws-appsync-js"
+     "url": "https://t.co/0dcHOD8JcE",
+     "expand": "https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c"
+    }
+   ]
+  },
+  {
+   "id": 980012601013829600,
+   "id_str": "980012601013829632",
+   "created_at": "Sat Mar 31 09:23:06 +0000 2018",
+   "text": "Using Web Workers for Safe, Concurrent JavaScript: https://t.co/VwmacN9f5o",
+   "retweet_count": 93,
+   "favorite_count": 394,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VwmacN9f5o",
+     "expand": "https://blog.logrocket.com/using-webworkers-for-safe-concurrent-javascript-3f33da4eb0b2"
+    }
+   ]
+  },
+  {
+   "id": 979835155878641700,
+   "id_str": "979835155878641665",
+   "created_at": "Fri Mar 30 21:38:00 +0000 2018",
+   "text": "The Status of JS Libraries and Frameworks: 2018 and Beyond - https://t.co/w8PRA3omPU (Thoughts, data and updates on… https://t.co/QzD6ozpCuR",
+   "retweet_count": 84,
+   "favorite_count": 210,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/w8PRA3omPU",
+     "expand": "https://medium.com/@alberto.park/the-status-of-javascript-libraries-frameworks-2018-beyond-3a5a7cae7513"
     },
     {
-     "url": "https://t.co/naiJMHSim0",
-     "expand": "https://twitter.com/i/web/status/966761531894530049"
+     "url": "https://t.co/QzD6ozpCuR",
+     "expand": "https://twitter.com/i/web/status/979835155878641665"
     }
    ]
   },
   {
-   "id": 966745167217688600,
-   "id_str": "966745167217688576",
-   "created_at": "Thu Feb 22 18:43:03 +0000 2018",
-   "text": "npm 5.7.1 has been released to fix the Linux permissions issue we mentioned earlier: https://t.co/6olRGroFeu .. how… https://t.co/DBwy8AhiTH",
-   "retweet_count": 30,
-   "favorite_count": 55,
+   "id": 979813516122165200,
+   "id_str": "979813516122165248",
+   "created_at": "Fri Mar 30 20:12:00 +0000 2018",
+   "text": "Axe 3.0 Released: The Automated Accessibility Testing Library - https://t.co/0wLQcc70RV",
+   "retweet_count": 32,
+   "favorite_count": 136,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/6olRGroFeu",
-     "expand": "https://github.com/npm/npm/pull/19889"
-    },
-    {
-     "url": "https://t.co/DBwy8AhiTH",
-     "expand": "https://twitter.com/i/web/status/966745167217688576"
+     "url": "https://t.co/0wLQcc70RV",
+     "expand": "https://www.deque.com/blog/axe-3-0-has-arrived/"
     }
    ]
   },
   {
-   "id": 966720851012980700,
-   "id_str": "966720851012980736",
-   "created_at": "Thu Feb 22 17:06:26 +0000 2018",
-   "text": "📺Live right NOW, representatives from Ember, Angular, Vue, React and other projects are discussing the latest state… https://t.co/LGSTaq9m6V",
+   "id": 979776016544657400,
+   "id_str": "979776016544657409",
+   "created_at": "Fri Mar 30 17:43:00 +0000 2018",
+   "text": "RT @hswolff: .@reactjs 16.3.0 is out with a brand new official Context API! I made a video giving you a deep dive into how it works. Have a…",
+   "retweet_count": 70,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979457344873664500,
+    "id_str": "979457344873664512",
+    "created_at": "Thu Mar 29 20:36:43 +0000 2018",
+    "text": ".@reactjs 16.3.0 is out with a brand new official Context API! I made a video giving you a deep dive into how it wo… https://t.co/WgPon8LlMk",
+    "retweet_count": 70,
+    "favorite_count": 262,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WgPon8LlMk",
+      "expand": "https://twitter.com/i/web/status/979457344873664512"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979718640177176600,
+   "id_str": "979718640177176577",
+   "created_at": "Fri Mar 30 13:55:00 +0000 2018",
+   "text": "A Slack App Step-by-Step: A Real-Life Example - https://t.co/mJBwvb90H0 (A thorough walkthrough of what building a… https://t.co/OtYSdzfhV0",
+   "retweet_count": 55,
+   "favorite_count": 210,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mJBwvb90H0",
+     "expand": "https://x-team.com/blog/slack-app-step-by-step/"
+    },
+    {
+     "url": "https://t.co/OtYSdzfhV0",
+     "expand": "https://twitter.com/i/web/status/979718640177176577"
+    }
+   ]
+  },
+  {
+   "id": 979686679081574400,
+   "id_str": "979686679081574406",
+   "created_at": "Fri Mar 30 11:48:00 +0000 2018",
+   "text": "Host Validation: Express.js Middleware to Validate 'Host' and 'Referer' Headers - https://t.co/a9KYo0yjdg (To prote… https://t.co/7R65tEUoT1",
    "retweet_count": 21,
-   "favorite_count": 48,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/LGSTaq9m6V",
-     "expand": "https://twitter.com/i/web/status/966720851012980736"
-    }
-   ]
-  },
-  {
-   "id": 966717219056078800,
-   "id_str": "966717219056078854",
-   "created_at": "Thu Feb 22 16:52:00 +0000 2018",
-   "text": "RT @FrontendDaily: How to keep your JavaScript code simple and increase its readability: https://t.co/xWUtY9EQuZ",
-   "retweet_count": 33,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/xWUtY9EQuZ",
-     "expand": "https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965953202343563300,
-    "id_str": "965953202343563264",
-    "created_at": "Tue Feb 20 14:16:04 +0000 2018",
-    "text": "How to keep your JavaScript code simple and increase its readability: https://t.co/xWUtY9EQuZ",
-    "retweet_count": 33,
-    "favorite_count": 130,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/xWUtY9EQuZ",
-      "expand": "https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966707745436127200,
-   "id_str": "966707745436127233",
-   "created_at": "Thu Feb 22 16:14:21 +0000 2018",
-   "text": "Ready for a weekly dose of Node news? 📫 Node Weekly issue #226 is out now, and you can catch up online here:… https://t.co/WDGM7IvhLL",
-   "retweet_count": 8,
-   "favorite_count": 11,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/WDGM7IvhLL",
-     "expand": "https://twitter.com/i/web/status/966707745436127233"
-    }
-   ]
-  },
-  {
-   "id": 966705636410044400,
-   "id_str": "966705636410044417",
-   "created_at": "Thu Feb 22 16:05:58 +0000 2018",
-   "text": "🚨 You might want to skip npm 5.7 on Linux for now as it appears there is a possibly serious issue with it changing… https://t.co/0SYqmWHpAe",
-   "retweet_count": 39,
-   "favorite_count": 38,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/0SYqmWHpAe",
-     "expand": "https://twitter.com/i/web/status/966705636410044417"
-    }
-   ]
-  },
-  {
-   "id": 966680983184449500,
-   "id_str": "966680983184449536",
-   "created_at": "Thu Feb 22 14:28:01 +0000 2018",
-   "text": "The Factory Function Pattern In Depth: https://t.co/i99YEo8I4k",
-   "retweet_count": 37,
-   "favorite_count": 108,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/i99YEo8I4k",
-     "expand": "https://medium.com/@pyrolistical/factory-functions-pattern-in-depth-356d14801c91"
-    }
-   ]
-  },
-  {
-   "id": 966654079547080700,
-   "id_str": "966654079547080704",
-   "created_at": "Thu Feb 22 12:41:06 +0000 2018",
-   "text": "npm v5.7.0 Released: https://t.co/Bvuhc7QQW9",
-   "retweet_count": 26,
    "favorite_count": 53,
    "place": null,
    "in_reply_to_status_id": null,
@@ -278,16 +215,1154 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/Bvuhc7QQW9",
-     "expand": "http://blog.npmjs.org/post/171139955345/v570"
+     "url": "https://t.co/a9KYo0yjdg",
+     "expand": "https://github.com/brannondorsey/host-validation"
+    },
+    {
+     "url": "https://t.co/7R65tEUoT1",
+     "expand": "https://twitter.com/i/web/status/979686679081574406"
     }
    ]
   },
   {
-   "id": 966637946601386000,
-   "id_str": "966637946601385985",
-   "created_at": "Thu Feb 22 11:37:00 +0000 2018",
-   "text": "A Node.js Perspective on MongoDB 3.6: $lookup and $expr - https://t.co/QlyI95EBIt (MongoDB 3.6 introduces support f… https://t.co/3d9zvLcv9d",
+   "id": 979667132433748000,
+   "id_str": "979667132433747970",
+   "created_at": "Fri Mar 30 10:30:20 +0000 2018",
+   "text": "Sympact: A Simple CPU and Memory Tracker for Node Apps - https://t.co/AWsXu56CyU (Profiles execution time, CPU usag… https://t.co/nluooqgLwb",
+   "retweet_count": 33,
+   "favorite_count": 103,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AWsXu56CyU",
+     "expand": "https://github.com/simonepri/sympact"
+    },
+    {
+     "url": "https://t.co/nluooqgLwb",
+     "expand": "https://twitter.com/i/web/status/979667132433747970"
+    }
+   ]
+  },
+  {
+   "id": 979636096329027600,
+   "id_str": "979636096329027584",
+   "created_at": "Fri Mar 30 08:27:00 +0000 2018",
+   "text": "20 Node Modules You Need to Know: https://t.co/E5ftBHJiGY (It's listicle time.)",
+   "retweet_count": 124,
+   "favorite_count": 369,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/E5ftBHJiGY",
+     "expand": "https://www.creativebloq.com/features/20-nodejs-modules-you-need-to-know"
+    }
+   ]
+  },
+  {
+   "id": 979530400434393100,
+   "id_str": "979530400434393088",
+   "created_at": "Fri Mar 30 01:27:00 +0000 2018",
+   "text": "WildDuck: A Robust IMAP/POP3 Mail Server - https://t.co/bCI2S9AzGx (Uses MongoDB for storage, and Redis for counters and pub/sub.)",
+   "retweet_count": 25,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bCI2S9AzGx",
+     "expand": "https://github.com/nodemailer/wildduck"
+    }
+   ]
+  },
+  {
+   "id": 979509516336287700,
+   "id_str": "979509516336287745",
+   "created_at": "Fri Mar 30 00:04:01 +0000 2018",
+   "text": "Node and JavaScript Meetups in North America: https://t.co/DjDReOkCoR",
+   "retweet_count": 7,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DjDReOkCoR",
+     "expand": "https://nodesource.com/blog/awesome-node-js-and-javascript-meetups-in-north-america"
+    }
+   ]
+  },
+  {
+   "id": 979486611565174800,
+   "id_str": "979486611565174784",
+   "created_at": "Thu Mar 29 22:33:00 +0000 2018",
+   "text": "Redux, It's Not Dead Yet: https://t.co/PirjJ2OoWw (One of Redux's maintainers addresses recent 'confusion, claims,… https://t.co/ctNLGFvgO2",
+   "retweet_count": 18,
+   "favorite_count": 52,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PirjJ2OoWw",
+     "expand": "http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/"
+    },
+    {
+     "url": "https://t.co/ctNLGFvgO2",
+     "expand": "https://twitter.com/i/web/status/979486611565174784"
+    }
+   ]
+  },
+  {
+   "id": 979469553620185100,
+   "id_str": "979469553620185090",
+   "created_at": "Thu Mar 29 21:25:13 +0000 2018",
+   "text": "React 16.3 is out: https://t.co/pcDmfAXzIJ\n\nIntroduces a new, more efficient context API (the older, experimental c… https://t.co/DtZpzgd8BK",
+   "retweet_count": 90,
+   "favorite_count": 149,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pcDmfAXzIJ",
+     "expand": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html"
+    },
+    {
+     "url": "https://t.co/DtZpzgd8BK",
+     "expand": "https://twitter.com/i/web/status/979469553620185090"
+    }
+   ]
+  },
+  {
+   "id": 979455154461257700,
+   "id_str": "979455154461257728",
+   "created_at": "Thu Mar 29 20:28:00 +0000 2018",
+   "text": "Using async/await to Write Cleaner Route Handlers: https://t.co/xwrsxjVoJa",
+   "retweet_count": 79,
+   "favorite_count": 304,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xwrsxjVoJa",
+     "expand": "https://itnext.io/using-async-await-to-write-cleaner-route-handlers-7fc1d91b220b"
+    }
+   ]
+  },
+  {
+   "id": 979430011777232900,
+   "id_str": "979430011777232899",
+   "created_at": "Thu Mar 29 18:48:06 +0000 2018",
+   "text": "better-xlsx: A Library for Working with Excel Spreadsheets - https://t.co/m3Owlvqunl (Open or create Excel XLSX fil… https://t.co/KkFc1hRTh7",
+   "retweet_count": 48,
+   "favorite_count": 188,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/m3Owlvqunl",
+     "expand": "https://github.com/d-band/better-xlsx"
+    },
+    {
+     "url": "https://t.co/KkFc1hRTh7",
+     "expand": "https://twitter.com/i/web/status/979430011777232899"
+    }
+   ]
+  },
+  {
+   "id": 979413631652778000,
+   "id_str": "979413631652777984",
+   "created_at": "Thu Mar 29 17:43:01 +0000 2018",
+   "text": "npm v5.9.0-next Released: https://t.co/jlOTzAmuly",
+   "retweet_count": 9,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jlOTzAmuly",
+     "expand": "http://blog.npmjs.org/post/172184763740/v590-next0"
+    }
+   ]
+  },
+  {
+   "id": 979394263824859100,
+   "id_str": "979394263824859136",
+   "created_at": "Thu Mar 29 16:26:03 +0000 2018",
+   "text": "This week's issue of Node Weekly is out now: https://t.co/jNDY4MhzLU https://t.co/E5oYV1IZ7X",
+   "retweet_count": 11,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jNDY4MhzLU",
+     "expand": "https://nodeweekly.com/issues/231"
+    }
+   ]
+  },
+  {
+   "id": 979349458289864700,
+   "id_str": "979349458289864704",
+   "created_at": "Thu Mar 29 13:28:00 +0000 2018",
+   "text": "Task Easy: A Simple Priority Queue for Promises - https://t.co/376H7s7eGs (Ideal for running asynchronous tasks in… https://t.co/Btz0A7DFeg",
+   "retweet_count": 25,
+   "favorite_count": 109,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/376H7s7eGs",
+     "expand": "https://github.com/cmseaton42/task-easy"
+    },
+    {
+     "url": "https://t.co/Btz0A7DFeg",
+     "expand": "https://twitter.com/i/web/status/979349458289864704"
+    }
+   ]
+  },
+  {
+   "id": 979206265627971600,
+   "id_str": "979206265627971586",
+   "created_at": "Thu Mar 29 03:59:01 +0000 2018",
+   "text": "RT @JavaScriptDaily: Using redux-observable to handle asynchronous logic in Redux —  https://t.co/HPTd65kzyE (via @hendrikswan) https://t.c…",
+   "retweet_count": 253,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HPTd65kzyE",
+     "expand": "https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522"
+    }
+   ],
+   "retweeted_status": {
+    "id": 927986056519213000,
+    "id_str": "927986056519213056",
+    "created_at": "Tue Nov 07 19:48:11 +0000 2017",
+    "text": "Using redux-observable to handle asynchronous logic in Redux —  https://t.co/HPTd65kzyE (via @hendrikswan) https://t.co/14Z2UQ6tXX",
+    "retweet_count": 253,
+    "favorite_count": 595,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HPTd65kzyE",
+      "expand": "https://medium.com/dailyjs/using-redux-observable-to-handle-asynchronous-logic-in-redux-d49194742522"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979147126121877500,
+   "id_str": "979147126121877504",
+   "created_at": "Thu Mar 29 00:04:01 +0000 2018",
+   "text": "RT @JavaScriptDaily: Wunderbar is a new Node module for rendering horizontal bar charts in the terminal: https://t.co/dcQFDlaBH5 - works as…",
+   "retweet_count": 145,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dcQFDlaBH5",
+     "expand": "https://github.com/gribnoysup/wunderbar"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971914472603430900,
+    "id_str": "971914472603430913",
+    "created_at": "Fri Mar 09 01:04:02 +0000 2018",
+    "text": "Wunderbar is a new Node module for rendering horizontal bar charts in the terminal: https://t.co/dcQFDlaBH5 - works… https://t.co/w0764igrET",
+    "retweet_count": 145,
+    "favorite_count": 518,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dcQFDlaBH5",
+      "expand": "https://github.com/gribnoysup/wunderbar"
+     },
+     {
+      "url": "https://t.co/w0764igrET",
+      "expand": "https://twitter.com/i/web/status/971914472603430913"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979110388628410400,
+   "id_str": "979110388628410374",
+   "created_at": "Wed Mar 28 21:38:02 +0000 2018",
+   "text": "🎶 Getting started with the Web MIDI API: https://t.co/BT4gXEwcLy https://t.co/4Wx0AJQK2m",
+   "retweet_count": 30,
+   "favorite_count": 84,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BT4gXEwcLy",
+     "expand": "https://www.smashingmagazine.com/2018/03/web-midi-api/"
+    }
+   ]
+  },
+  {
+   "id": 979040829900836900,
+   "id_str": "979040829900836865",
+   "created_at": "Wed Mar 28 17:01:38 +0000 2018",
+   "text": "Several Node releases today to patch some vulnerabilities and upgrade OpenSSL:\n\n9.10.0 (Current):… https://t.co/kFsYgvRXBR",
+   "retweet_count": 54,
+   "favorite_count": 54,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kFsYgvRXBR",
+     "expand": "https://twitter.com/i/web/status/979040829900836865"
+    }
+   ]
+  },
+  {
+   "id": 979032123758862300,
+   "id_str": "979032123758862336",
+   "created_at": "Wed Mar 28 16:27:02 +0000 2018",
+   "text": "Tips for using ESLint in a legacy codebase: https://t.co/lNfmCvUubH",
+   "retweet_count": 16,
+   "favorite_count": 33,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lNfmCvUubH",
+     "expand": "http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/"
+    }
+   ]
+  },
+  {
+   "id": 978979524678508500,
+   "id_str": "978979524678508544",
+   "created_at": "Wed Mar 28 12:58:01 +0000 2018",
+   "text": "RT @JavaScriptDaily: JavaScript vs. TypeScript vs. ReasonML: Pros and Cons - https://t.co/fHSog8Hley (Dr. Axel is becoming a fan of static…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fHSog8Hley",
+     "expand": "http://2ality.com/2018/03/javascript-typescript-reasonml.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 977145552034041900,
+    "id_str": "977145552034041856",
+    "created_at": "Fri Mar 23 11:30:28 +0000 2018",
+    "text": "JavaScript vs. TypeScript vs. ReasonML: Pros and Cons - https://t.co/fHSog8Hley (Dr. Axel is becoming a fan of stat… https://t.co/SS34fArwvu",
+    "retweet_count": 36,
+    "favorite_count": 121,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fHSog8Hley",
+      "expand": "http://2ality.com/2018/03/javascript-typescript-reasonml.html"
+     },
+     {
+      "url": "https://t.co/SS34fArwvu",
+      "expand": "https://twitter.com/i/web/status/977145552034041856"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978942337228386300,
+   "id_str": "978942337228386304",
+   "created_at": "Wed Mar 28 10:30:15 +0000 2018",
+   "text": "A Brief Intro to Using Vue.js with NativeScript: https://t.co/xOgFjcZ4Xo (A beginners' look at how to get started with NativeScript-Vue.)",
+   "retweet_count": 45,
+   "favorite_count": 108,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xOgFjcZ4Xo",
+     "expand": "https://www.nativescript.org/blog/a-brief-intro-to-using-vue-with-nativescript"
+    }
+   ]
+  },
+  {
+   "id": 978765360311742500,
+   "id_str": "978765360311742464",
+   "created_at": "Tue Mar 27 22:47:01 +0000 2018",
+   "text": "RT @typescriptlang: TypeScript 2.8 is here! Now featuring conditional types, mapped type improvements, organize imports, and much more! htt…",
+   "retweet_count": 1019,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978673305917026300,
+    "id_str": "978673305917026306",
+    "created_at": "Tue Mar 27 16:41:13 +0000 2018",
+    "text": "TypeScript 2.8 is here! Now featuring conditional types, mapped type improvements, organize imports, and much more!… https://t.co/qJicKufd0o",
+    "retweet_count": 1019,
+    "favorite_count": 1580,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qJicKufd0o",
+      "expand": "https://twitter.com/i/web/status/978673305917026306"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978754848006070300,
+   "id_str": "978754848006070273",
+   "created_at": "Tue Mar 27 22:05:14 +0000 2018",
+   "text": "An update from the React core team on the future of async rendering in React and what they've learnt in building it… https://t.co/EMcYhEYMRU",
+   "retweet_count": 76,
+   "favorite_count": 161,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EMcYhEYMRU",
+     "expand": "https://twitter.com/i/web/status/978754848006070273"
+    }
+   ]
+  },
+  {
+   "id": 978646167495106600,
+   "id_str": "978646167495106563",
+   "created_at": "Tue Mar 27 14:53:23 +0000 2018",
+   "text": "RT @glitch: Today, it’s really easy to embed a video, a song or social media on your website or blog. But embedding a whole app has become…",
+   "retweet_count": 115,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978530752408227800,
+    "id_str": "978530752408227840",
+    "created_at": "Tue Mar 27 07:14:46 +0000 2018",
+    "text": "Today, it’s really easy to embed a video, a song or social media on your website or blog. But embedding a whole app… https://t.co/Jj6OFRA7l9",
+    "retweet_count": 115,
+    "favorite_count": 304,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Jj6OFRA7l9",
+      "expand": "https://twitter.com/i/web/status/978530752408227840"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978604423625748500,
+   "id_str": "978604423625748480",
+   "created_at": "Tue Mar 27 12:07:30 +0000 2018",
+   "text": "Building Office 365/SharePoint Applications with Aurelia: https://t.co/Xia5LrBh1G",
+   "retweet_count": 10,
+   "favorite_count": 44,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Xia5LrBh1G",
+     "expand": "http://aurelia.io/blog/2018/03/21/building-office-365sharepoint-applications-with-aurelia/"
+    }
+   ]
+  },
+  {
+   "id": 978425889888358400,
+   "id_str": "978425889888358400",
+   "created_at": "Tue Mar 27 00:18:05 +0000 2018",
+   "text": "Elegant Patterns in Modern JavaScript: RORO - https://t.co/zRivb5aAi0 (RORO stands for Receive an Object, Return an Object.)",
+   "retweet_count": 125,
+   "favorite_count": 360,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zRivb5aAi0",
+     "expand": "https://www.codementor.io/billsourour897/elegant-patterns-in-modern-javascript-roro-hn217atuu"
+    }
+   ]
+  },
+  {
+   "id": 978396240097480700,
+   "id_str": "978396240097480704",
+   "created_at": "Mon Mar 26 22:20:16 +0000 2018",
+   "text": "RT @crandycodes: My @nodejs peeps, for new major versions of a library (i.e. breaking changes), what minimum version of Node should I targe…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978380265394286600,
+    "id_str": "978380265394286592",
+    "created_at": "Mon Mar 26 21:16:47 +0000 2018",
+    "text": "My @nodejs peeps, for new major versions of a library (i.e. breaking changes), what minimum version of Node should… https://t.co/XH2Ty5qhp1",
+    "retweet_count": 17,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XH2Ty5qhp1",
+      "expand": "https://twitter.com/i/web/status/978380265394286592"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978385618203021300,
+   "id_str": "978385618203021317",
+   "created_at": "Mon Mar 26 21:38:03 +0000 2018",
+   "text": "11 More Great Vue.js UI Component Frameworks and Libraries: https://t.co/OsJWKwaP06",
+   "retweet_count": 41,
+   "favorite_count": 157,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OsJWKwaP06",
+     "expand": "https://blog.bitsrc.io/best-vue-js-ui-frameworks-and-component-libraries-part-2-4196628d58ae"
+    }
+   ]
+  },
+  {
+   "id": 978342824981815300,
+   "id_str": "978342824981815296",
+   "created_at": "Mon Mar 26 18:48:00 +0000 2018",
+   "text": "Add ESLint and Prettier to VS Code for 'Create React App' Apps: https://t.co/6BTRVsWr5K #video",
+   "retweet_count": 28,
+   "favorite_count": 112,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6BTRVsWr5K",
+     "expand": "https://www.youtube.com/watch?v=bfyI9yl3qfE"
+    }
+   ]
+  },
+  {
+   "id": 978237129137578000,
+   "id_str": "978237129137577986",
+   "created_at": "Mon Mar 26 11:48:01 +0000 2018",
+   "text": "7 Secret Patterns Vue Consultants Don’t Want You to Know: https://t.co/lPBlbKRgqa (Clickbaity talk title, but Chris… https://t.co/82cz0wLFH9",
+   "retweet_count": 32,
+   "favorite_count": 128,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lPBlbKRgqa",
+     "expand": "https://www.youtube.com/watch?v=7lpemgMhi0k"
+    },
+    {
+     "url": "https://t.co/82cz0wLFH9",
+     "expand": "https://twitter.com/i/web/status/978237129137577986"
+    }
+   ]
+  },
+  {
+   "id": 978218002796728300,
+   "id_str": "978218002796728320",
+   "created_at": "Mon Mar 26 10:32:00 +0000 2018",
+   "text": "vue-content-loader: SVG-based 'Loading Placeholder' Component - https://t.co/Yem86Gff6D (It's a port of ReactContentLoader.)",
+   "retweet_count": 23,
+   "favorite_count": 61,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Yem86Gff6D",
+     "expand": "https://github.com/egoist/vue-content-loader"
+    }
+   ]
+  },
+  {
+   "id": 978186560356212700,
+   "id_str": "978186560356212736",
+   "created_at": "Mon Mar 26 08:27:04 +0000 2018",
+   "text": "A Proposal for Package Name Maps for ES Modules: https://t.co/91Rf0peJ1S (Or how to solve the web's \"bare import specifier\" problem.)",
+   "retweet_count": 8,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/91Rf0peJ1S",
+     "expand": "https://github.com/domenic/package-name-maps#readme"
+    }
+   ]
+  },
+  {
+   "id": 978078583968161800,
+   "id_str": "978078583968161792",
+   "created_at": "Mon Mar 26 01:18:00 +0000 2018",
+   "text": "The Ultimate Angular CLI Reference Guide: https://t.co/0AmnngLdU6 (Create new Angular 2+ apps, scaffold components,… https://t.co/hi8hE8awb7",
+   "retweet_count": 51,
+   "favorite_count": 139,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0AmnngLdU6",
+     "expand": "https://www.sitepoint.com/ultimate-angular-cli-reference/"
+    },
+    {
+     "url": "https://t.co/hi8hE8awb7",
+     "expand": "https://twitter.com/i/web/status/978078583968161792"
+    }
+   ]
+  },
+  {
+   "id": 978061217817342000,
+   "id_str": "978061217817341952",
+   "created_at": "Mon Mar 26 00:09:00 +0000 2018",
+   "text": "A Ten Video Intro to Functional JS with Ramda: https://t.co/VK7dUKmfmu #video",
+   "retweet_count": 33,
+   "favorite_count": 115,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VK7dUKmfmu",
+     "expand": "https://knowthen.com/ramda/"
+    }
+   ]
+  },
+  {
+   "id": 978034062001692700,
+   "id_str": "978034062001692673",
+   "created_at": "Sun Mar 25 22:21:06 +0000 2018",
+   "text": "How Unsplash Gradually Migrated to TypeScript: https://t.co/VsOr6mx3Sp",
+   "retweet_count": 35,
+   "favorite_count": 132,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VsOr6mx3Sp",
+     "expand": "https://medium.com/unsplash/how-we-gradually-migrated-to-typescript-at-unsplash-7a34caa24ef1"
+    }
+   ]
+  },
+  {
+   "id": 977980182593187800,
+   "id_str": "977980182593187841",
+   "created_at": "Sun Mar 25 18:47:00 +0000 2018",
+   "text": "Using JSX with Vue and Why You Should Care: https://t.co/r76uzjjMqr",
+   "retweet_count": 47,
+   "favorite_count": 137,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r76uzjjMqr",
+     "expand": "https://scotch.io/tutorials/using-jsx-with-vue-and-why-you-should-care"
+    }
+   ]
+  },
+  {
+   "id": 977837495344947200,
+   "id_str": "977837495344947201",
+   "created_at": "Sun Mar 25 09:20:00 +0000 2018",
+   "text": "Lookaheads (and Lookbehinds) in JS Regular Expressions: https://t.co/e3CIXTxveF",
+   "retweet_count": 53,
+   "favorite_count": 139,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/e3CIXTxveF",
+     "expand": "https://www.stefanjudis.com/today-i-learned/the-complicated-syntax-of-lookaheads-in-javascript-regular-expressions/"
+    }
+   ]
+  },
+  {
+   "id": 977682222135291900,
+   "id_str": "977682222135291904",
+   "created_at": "Sat Mar 24 23:03:00 +0000 2018",
+   "text": "Understanding Variables, Scope, and Hoisting in JavaScript: https://t.co/NaLTB1T0fO (A thorough reintroductory guide.)",
+   "retweet_count": 182,
+   "favorite_count": 535,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NaLTB1T0fO",
+     "expand": "https://www.digitalocean.com/community/tutorials/understanding-variables-scope-hoisting-in-javascript"
+    }
+   ]
+  },
+  {
+   "id": 977632912513421300,
+   "id_str": "977632912513421313",
+   "created_at": "Sat Mar 24 19:47:04 +0000 2018",
+   "text": "Babel Time Travel: See Babel Transformations Step by Step - https://t.co/tfPAPPj35e (Click \"Compile\" on the right t… https://t.co/fxKIvNcc9o",
+   "retweet_count": 24,
+   "favorite_count": 65,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tfPAPPj35e",
+     "expand": "https://babel-time-travel.boopathi.in/"
+    },
+    {
+     "url": "https://t.co/fxKIvNcc9o",
+     "expand": "https://twitter.com/i/web/status/977632912513421313"
+    }
+   ]
+  },
+  {
+   "id": 977490962950783000,
+   "id_str": "977490962950782977",
+   "created_at": "Sat Mar 24 10:23:01 +0000 2018",
+   "text": "GPU-Accelerated Neural Networks in JavaScript: https://t.co/Q5KPz3UyZR (There are four libraries providing these sorts of features.)",
+   "retweet_count": 121,
+   "favorite_count": 289,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Q5KPz3UyZR",
+     "expand": "https://towardsdatascience.com/gpu-accelerated-neural-networks-in-javascript-195d6f8e69ef"
+    }
+   ]
+  },
+  {
+   "id": 977365382070665200,
+   "id_str": "977365382070665218",
+   "created_at": "Sat Mar 24 02:04:00 +0000 2018",
+   "text": "ICYMI, here's this week's JavaScript Weekly digest: https://t.co/EYpWVX6Kke",
+   "retweet_count": 7,
+   "favorite_count": 46,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EYpWVX6Kke",
+     "expand": "https://twitter.com/JavaScriptDaily/status/977220466665455619"
+    }
+   ]
+  },
+  {
+   "id": 977313542067105800,
+   "id_str": "977313542067105793",
+   "created_at": "Fri Mar 23 22:38:00 +0000 2018",
+   "text": "A TC39 Proposal for Object.fromEntries: https://t.co/9AY92DTdmc (It would transform a list of key/value pairs into an object.)",
+   "retweet_count": 13,
+   "favorite_count": 57,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9AY92DTdmc",
+     "expand": "https://github.com/tc39/proposal-object-from-entries"
+    }
+   ]
+  },
+  {
+   "id": 977291906383339500,
+   "id_str": "977291906383339520",
+   "created_at": "Fri Mar 23 21:12:02 +0000 2018",
+   "text": "RT @reactdaily: 🐍 Nokia's Snake game built with React/Redux — https://t.co/cXaKBlvqCS https://t.co/NwlnNBR9ud",
+   "retweet_count": 37,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cXaKBlvqCS",
+     "expand": "https://github.com/Morgantheplant/nokia-snek"
+    }
+   ],
+   "retweeted_status": {
+    "id": 977197133014208500,
+    "id_str": "977197133014208513",
+    "created_at": "Fri Mar 23 14:55:26 +0000 2018",
+    "text": "🐍 Nokia's Snake game built with React/Redux — https://t.co/cXaKBlvqCS https://t.co/NwlnNBR9ud",
+    "retweet_count": 37,
+    "favorite_count": 101,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cXaKBlvqCS",
+      "expand": "https://github.com/Morgantheplant/nokia-snek"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977254402980491300,
+   "id_str": "977254402980491265",
+   "created_at": "Fri Mar 23 18:43:00 +0000 2018",
+   "text": "D3.js 5.0 Released: https://t.co/3dTFhDlUP8",
+   "retweet_count": 77,
+   "favorite_count": 167,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3dTFhDlUP8",
+     "expand": "https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-50"
+    }
+   ]
+  },
+  {
+   "id": 977220466665455600,
+   "id_str": "977220466665455619",
+   "created_at": "Fri Mar 23 16:28:09 +0000 2018",
+   "text": "📫 Issue 378 of JavaScript Weekly is hitting inboxes now! \nYou can also catch up online here:… https://t.co/QMo6ynllBX",
+   "retweet_count": 22,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QMo6ynllBX",
+     "expand": "https://twitter.com/i/web/status/977220466665455619"
+    }
+   ]
+  },
+  {
+   "id": 977197025388384300,
+   "id_str": "977197025388384258",
+   "created_at": "Fri Mar 23 14:55:00 +0000 2018",
+   "text": "Getting Smaller Lodash Bundles with Webpack and Babel: https://t.co/iExHjHgL6H",
+   "retweet_count": 30,
+   "favorite_count": 68,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iExHjHgL6H",
+     "expand": "https://nolanlawson.com/2018/03/20/smaller-lodash-bundles-with-webpack-and-babel/"
+    }
+   ]
+  },
+  {
+   "id": 977165084144361500,
+   "id_str": "977165084144361472",
+   "created_at": "Fri Mar 23 12:48:05 +0000 2018",
+   "text": "Conditional Breakpoints in Chrome are Awesome: https://t.co/jOI6m89VOd",
+   "retweet_count": 75,
+   "favorite_count": 194,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jOI6m89VOd",
+     "expand": "https://medium.com/@yurkaninryan/conditional-breakpoints-in-chrome-are-awesome-31933ea97a15"
+    }
+   ]
+  },
+  {
+   "id": 977145552034041900,
+   "id_str": "977145552034041856",
+   "created_at": "Fri Mar 23 11:30:28 +0000 2018",
+   "text": "JavaScript vs. TypeScript vs. ReasonML: Pros and Cons - https://t.co/fHSog8Hley (Dr. Axel is becoming a fan of stat… https://t.co/SS34fArwvu",
+   "retweet_count": 36,
+   "favorite_count": 121,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fHSog8Hley",
+     "expand": "http://2ality.com/2018/03/javascript-typescript-reasonml.html"
+    },
+    {
+     "url": "https://t.co/SS34fArwvu",
+     "expand": "https://twitter.com/i/web/status/977145552034041856"
+    }
+   ]
+  },
+  {
+   "id": 977114478746787800,
+   "id_str": "977114478746787840",
+   "created_at": "Fri Mar 23 09:27:00 +0000 2018",
+   "text": "Lazy Loading JavaScript Modules with ConditionerJS: https://t.co/yi1am8PDv3",
+   "retweet_count": 35,
+   "favorite_count": 96,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yi1am8PDv3",
+     "expand": "https://www.smashingmagazine.com/2018/03/lazy-loading-with-conditioner-js/"
+    }
+   ]
+  },
+  {
+   "id": 977020350755233800,
+   "id_str": "977020350755233793",
+   "created_at": "Fri Mar 23 03:12:58 +0000 2018",
+   "text": "RT @workshop_me: AYYYY!\n\nWere you waiting for a location before you bought tickets to the @gatsbyjs workshop? Cause we just got one.\n\nBig t…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976217578665230300,
+    "id_str": "976217578665230336",
+    "created_at": "Tue Mar 20 22:03:02 +0000 2018",
+    "text": "AYYYY!\n\nWere you waiting for a location before you bought tickets to the @gatsbyjs workshop? Cause we just got one.… https://t.co/pgzoodoUaS",
+    "retweet_count": 8,
+    "favorite_count": 26,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pgzoodoUaS",
+      "expand": "https://twitter.com/i/web/status/976217578665230336"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977008783275720700,
+   "id_str": "977008783275720705",
+   "created_at": "Fri Mar 23 02:27:00 +0000 2018",
+   "text": "Getting Started with the Web MIDI API: https://t.co/BT4gXEwcLy",
+   "retweet_count": 17,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BT4gXEwcLy",
+     "expand": "https://www.smashingmagazine.com/2018/03/web-midi-api/"
+    }
+   ]
+  },
+  {
+   "id": 976987941938647000,
+   "id_str": "976987941938647040",
+   "created_at": "Fri Mar 23 01:04:11 +0000 2018",
+   "text": "Unblocking Clipboard Access in Chrome 66+: https://t.co/UDJTjPdhZ2",
+   "retweet_count": 17,
+   "favorite_count": 41,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UDJTjPdhZ2",
+     "expand": "https://developers.google.com/web/updates/2018/03/clipboardapi"
+    }
+   ]
+  },
+  {
+   "id": 976964993534124000,
+   "id_str": "976964993534124033",
+   "created_at": "Thu Mar 22 23:33:00 +0000 2018",
+   "text": "How to Write Powerful Schemas in JavaScript: https://t.co/eR3ntuzrJH (An introduction to schm, a library for buildi… https://t.co/g7TWWSx54j",
+   "retweet_count": 48,
+   "favorite_count": 137,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eR3ntuzrJH",
+     "expand": "https://medium.freecodecamp.org/how-to-write-powerful-schemas-in-javascript-490da6233d37"
+    },
+    {
+     "url": "https://t.co/g7TWWSx54j",
+     "expand": "https://twitter.com/i/web/status/976964993534124033"
+    }
+   ]
+  },
+  {
+   "id": 976933537516609500,
+   "id_str": "976933537516609536",
+   "created_at": "Thu Mar 22 21:28:00 +0000 2018",
+   "text": "Getting Node-RED to 1 Million Downloads: https://t.co/9uawpQIFBZ (Node-RED is a Node-based visual flow-programming… https://t.co/CYySEV4O3q",
+   "retweet_count": 15,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9uawpQIFBZ",
+     "expand": "https://knolleary.net/2018/03/16/getting-node-red-to-one-million-downloads/"
+    },
+    {
+     "url": "https://t.co/CYySEV4O3q",
+     "expand": "https://twitter.com/i/web/status/976933537516609536"
+    }
+   ]
+  },
+  {
+   "id": 976908383474405400,
+   "id_str": "976908383474405378",
+   "created_at": "Thu Mar 22 19:48:03 +0000 2018",
+   "text": "better-sqlite3: A Simple and Fast SQLite3 Library for Node - https://t.co/ZINANNQKNf (A synchronous API, supports 6… https://t.co/xkYId132T4",
+   "retweet_count": 27,
+   "favorite_count": 70,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZINANNQKNf",
+     "expand": "https://github.com/JoshuaWise/better-sqlite3"
+    },
+    {
+     "url": "https://t.co/xkYId132T4",
+     "expand": "https://twitter.com/i/web/status/976908383474405378"
+    }
+   ]
+  },
+  {
+   "id": 976892012799643600,
+   "id_str": "976892012799643648",
+   "created_at": "Thu Mar 22 18:43:00 +0000 2018",
+   "text": "Oclif: Heroku's 'Open CLI' Framework for Node - https://t.co/8ThV7UYqGo",
+   "retweet_count": 12,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8ThV7UYqGo",
+     "expand": "https://oclif.io/"
+    }
+   ]
+  },
+  {
+   "id": 976830664594075600,
+   "id_str": "976830664594075648",
+   "created_at": "Thu Mar 22 14:39:13 +0000 2018",
+   "text": "Tips for Using ESLint in a Legacy Codebase: https://t.co/lNfmCvUubH (Techniques that can help you significantly red… https://t.co/7qh3UADBAN",
    "retweet_count": 15,
    "favorite_count": 36,
    "place": null,
@@ -296,20 +1371,1513 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/QlyI95EBIt",
-     "expand": "http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-36-lookup-expr.html"
+     "url": "https://t.co/lNfmCvUubH",
+     "expand": "http://www.sheshbabu.com/posts/tips-for-using-eslint-in-a-legacy-codebase/"
     },
     {
-     "url": "https://t.co/3d9zvLcv9d",
-     "expand": "https://twitter.com/i/web/status/966637946601385985"
+     "url": "https://t.co/7qh3UADBAN",
+     "expand": "https://twitter.com/i/web/status/976830664594075648"
     }
    ]
   },
   {
-   "id": 966603485788758000,
-   "id_str": "966603485788758021",
-   "created_at": "Thu Feb 22 09:20:04 +0000 2018",
-   "text": "Fio: A Simple (TCP and Unix) Socket Relay Tool - https://t.co/2wloupAoty",
+   "id": 976823430933819400,
+   "id_str": "976823430933819393",
+   "created_at": "Thu Mar 22 14:10:29 +0000 2018",
+   "text": "We like to keep you informed with up-to-date news in Node, so here's the latest issue of Node Weekly 📫 … https://t.co/X1pA2IVacC",
+   "retweet_count": 8,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/X1pA2IVacC",
+     "expand": "https://twitter.com/i/web/status/976823430933819393"
+    }
+   ]
+  },
+  {
+   "id": 976784808209678300,
+   "id_str": "976784808209678336",
+   "created_at": "Thu Mar 22 11:37:00 +0000 2018",
+   "text": "A Short Guide to a Productive Docker Dev Environment: https://t.co/jwCTjQ9LAl",
+   "retweet_count": 38,
+   "favorite_count": 148,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jwCTjQ9LAl",
+     "expand": "https://nrempel.com/guides/docker-development-environment/"
+    }
+   ]
+  },
+  {
+   "id": 976750391017852900,
+   "id_str": "976750391017852930",
+   "created_at": "Thu Mar 22 09:20:15 +0000 2018",
+   "text": "The History of Node.js on a Timeline: https://t.co/YaZKmXYuDF (With Node getting its name on March 3, 2009, we're d… https://t.co/PIjPTSV9Kq",
+   "retweet_count": 55,
+   "favorite_count": 132,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YaZKmXYuDF",
+     "expand": "https://blog.risingstack.com/history-of-node-js/"
+    },
+    {
+     "url": "https://t.co/PIjPTSV9Kq",
+     "expand": "https://twitter.com/i/web/status/976750391017852930"
+    }
+   ]
+  },
+  {
+   "id": 976684648448348200,
+   "id_str": "976684648448348165",
+   "created_at": "Thu Mar 22 04:59:00 +0000 2018",
+   "text": "Noderize: Create a Node App in Fewer than 30 Seconds - https://t.co/veA1x6Mu1e (An all-in-one tool for building Nod… https://t.co/r0HkjGxOZV",
+   "retweet_count": 65,
+   "favorite_count": 187,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/veA1x6Mu1e",
+     "expand": "https://noderize.js.org/"
+    },
+    {
+     "url": "https://t.co/r0HkjGxOZV",
+     "expand": "https://twitter.com/i/web/status/976684648448348165"
+    }
+   ]
+  },
+  {
+   "id": 976646394193891300,
+   "id_str": "976646394193891328",
+   "created_at": "Thu Mar 22 02:27:00 +0000 2018",
+   "text": "crypto-hash: A Hashing Module Using the Native Crypto API in Node and Browser - https://t.co/ORe4iCmbWz",
+   "retweet_count": 26,
+   "favorite_count": 89,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ORe4iCmbWz",
+     "expand": "https://github.com/sindresorhus/crypto-hash"
+    }
+   ]
+  },
+  {
+   "id": 976625506564169700,
+   "id_str": "976625506564169728",
+   "created_at": "Thu Mar 22 01:04:00 +0000 2018",
+   "text": "Using Node to Call a GraphQL API: https://t.co/WO6DxeGbnM",
+   "retweet_count": 30,
+   "favorite_count": 90,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WO6DxeGbnM",
+     "expand": "https://itnext.io/call-graphql-api-with-native-node-modules-5e4d088ca969"
+    }
+   ]
+  },
+  {
+   "id": 976517403663392800,
+   "id_str": "976517403663392768",
+   "created_at": "Wed Mar 21 17:54:26 +0000 2018",
+   "text": "Node v9.9.0 (Current) Released: https://t.co/ps9dVljOCn https://t.co/CRNguwMrxO",
+   "retweet_count": 51,
+   "favorite_count": 97,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ps9dVljOCn",
+     "expand": "https://nodejs.org/en/blog/release/v9.9.0/"
+    }
+   ]
+  },
+  {
+   "id": 976501692379357200,
+   "id_str": "976501692379357190",
+   "created_at": "Wed Mar 21 16:52:00 +0000 2018",
+   "text": "Creating a Vue.js File Reader Component Using the FileReader API: https://t.co/V6DPkR3EvT",
+   "retweet_count": 27,
+   "favorite_count": 92,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/V6DPkR3EvT",
+     "expand": "https://alligator.io/vuejs/file-reader-component/"
+    }
+   ]
+  },
+  {
+   "id": 976395996598034400,
+   "id_str": "976395996598034432",
+   "created_at": "Wed Mar 21 09:52:00 +0000 2018",
+   "text": "Building PWAs with Vue.js: https://t.co/EYcdIsepUW (An introduction to building and auditing PWAs using Vue.js.)",
+   "retweet_count": 57,
+   "favorite_count": 197,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EYcdIsepUW",
+     "expand": "https://www.telerik.com/blogs/building-pwas-with-vuejs"
+    }
+   ]
+  },
+  {
+   "id": 975904256250253300,
+   "id_str": "975904256250253313",
+   "created_at": "Tue Mar 20 01:18:00 +0000 2018",
+   "text": "RT @reactdaily: A Comprehensive Guide to Learning React in 2018: https://t.co/GatecMbQcd (A classic, interactive 'from scratch' tutorial th…",
+   "retweet_count": 77,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GatecMbQcd",
+     "expand": "https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974790919017893900,
+    "id_str": "974790919017893888",
+    "created_at": "Fri Mar 16 23:34:00 +0000 2018",
+    "text": "A Comprehensive Guide to Learning React in 2018: https://t.co/GatecMbQcd (A classic, interactive 'from scratch' tut… https://t.co/Ar3303X2xY",
+    "retweet_count": 77,
+    "favorite_count": 265,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GatecMbQcd",
+      "expand": "https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/"
+     },
+     {
+      "url": "https://t.co/Ar3303X2xY",
+      "expand": "https://twitter.com/i/web/status/974790919017893888"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975864038390485000,
+   "id_str": "975864038390484998",
+   "created_at": "Mon Mar 19 22:38:12 +0000 2018",
+   "text": "Pell 1.0: A Tiny, Simple WYSIWYG Web Text Editor - https://t.co/UlpEp43g8e (No dependencies, ES6, and only 1.38KB m… https://t.co/mgK8toy26a",
+   "retweet_count": 84,
+   "favorite_count": 276,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UlpEp43g8e",
+     "expand": "https://github.com/jaredreich/pell/#readme"
+    },
+    {
+     "url": "https://t.co/mgK8toy26a",
+     "expand": "https://twitter.com/i/web/status/975864038390484998"
+    }
+   ]
+  },
+  {
+   "id": 975821332482003000,
+   "id_str": "975821332482002944",
+   "created_at": "Mon Mar 19 19:48:30 +0000 2018",
+   "text": "Driver.js: 'Drive' Users' Focus Across a Web Page - https://t.co/b62YfeLOaT (A no-dependency library for creating '… https://t.co/udkjiml7mO",
+   "retweet_count": 111,
+   "favorite_count": 375,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/b62YfeLOaT",
+     "expand": "https://github.com/kamranahmedse/driver.js"
+    },
+    {
+     "url": "https://t.co/udkjiml7mO",
+     "expand": "https://twitter.com/i/web/status/975821332482002944"
+    }
+   ]
+  },
+  {
+   "id": 975776924898381800,
+   "id_str": "975776924898381824",
+   "created_at": "Mon Mar 19 16:52:02 +0000 2018",
+   "text": "RT @reactdaily: Get Started with Data Visualization using 'React-vis': https://t.co/W3Guhad8lH (React-vis is a charting library from Uber.)",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W3Guhad8lH",
+     "expand": "https://medium.com/@shyianovska/data-visualization-with-react-vis-bd2587fe1660"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973600094242197500,
+    "id_str": "973600094242197504",
+    "created_at": "Tue Mar 13 16:42:05 +0000 2018",
+    "text": "Get Started with Data Visualization using 'React-vis': https://t.co/W3Guhad8lH (React-vis is a charting library from Uber.)",
+    "retweet_count": 30,
+    "favorite_count": 129,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/W3Guhad8lH",
+      "expand": "https://medium.com/@shyianovska/data-visualization-with-react-vis-bd2587fe1660"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975748229156495400,
+   "id_str": "975748229156495360",
+   "created_at": "Mon Mar 19 14:58:01 +0000 2018",
+   "text": "RT @statuscode: Rethinking Twitter’s “who to follow” (using Node.js and d3.js) —  https://t.co/RDjMKwOdCe (via @rafael_sps)",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RDjMKwOdCe",
+     "expand": "https://medium.com/statuscode/rethinking-twitters-who-to-follow-using-node-js-and-d3-js-d8875d112bc8"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975729544949915600,
+    "id_str": "975729544949915648",
+    "created_at": "Mon Mar 19 13:43:46 +0000 2018",
+    "text": "Rethinking Twitter’s “who to follow” (using Node.js and d3.js) —  https://t.co/RDjMKwOdCe (via @rafael_sps)",
+    "retweet_count": 15,
+    "favorite_count": 43,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RDjMKwOdCe",
+      "expand": "https://medium.com/statuscode/rethinking-twitters-who-to-follow-using-node-js-and-d3-js-d8875d112bc8"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975715514013057000,
+   "id_str": "975715514013057025",
+   "created_at": "Mon Mar 19 12:48:01 +0000 2018",
+   "text": "RT @reactdaily: 📹 A #video from @wesbos on how React's new Context API works: https://t.co/AgsrTUtzG6",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AgsrTUtzG6",
+     "expand": "https://www.youtube.com/watch?v=XLJN4JfniH4"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974687236326350800,
+    "id_str": "974687236326350854",
+    "created_at": "Fri Mar 16 16:42:00 +0000 2018",
+    "text": "📹 A #video from @wesbos on how React's new Context API works: https://t.co/AgsrTUtzG6",
+    "retweet_count": 19,
+    "favorite_count": 87,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AgsrTUtzG6",
+      "expand": "https://www.youtube.com/watch?v=XLJN4JfniH4"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975696394274164700,
+   "id_str": "975696394274164736",
+   "created_at": "Mon Mar 19 11:32:02 +0000 2018",
+   "text": "RT @bmeurer: 🔥 We managed to squeeze out some nice performance improvements for Promise and async/await just in time for @v8js 6.6, which i…",
+   "retweet_count": 256,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974624230808711200,
+    "id_str": "974624230808711169",
+    "created_at": "Fri Mar 16 12:31:38 +0000 2018",
+    "text": "🔥 We managed to squeeze out some nice performance improvements for Promise and async/await just in time for @v8js 6… https://t.co/97AoRGV7bR",
+    "retweet_count": 256,
+    "favorite_count": 742,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/97AoRGV7bR",
+      "expand": "https://twitter.com/i/web/status/974624230808711169"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975664928580407300,
+   "id_str": "975664928580407296",
+   "created_at": "Mon Mar 19 09:27:00 +0000 2018",
+   "text": "Mark Text: A Cross-Platform Markdown Editor App - https://t.co/W4e8GXcxx4 (Built with Electron and Vue.)",
+   "retweet_count": 37,
+   "favorite_count": 111,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W4e8GXcxx4",
+     "expand": "https://github.com/marktext/marktext"
+    }
+   ]
+  },
+  {
+   "id": 975556969376383000,
+   "id_str": "975556969376382976",
+   "created_at": "Mon Mar 19 02:18:01 +0000 2018",
+   "text": "Building a Basic Neural Network with Brain.js: https://t.co/ZfWZJWeLaK (A very elementary 'getting started' tutorial.)",
+   "retweet_count": 255,
+   "favorite_count": 671,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZfWZJWeLaK",
+     "expand": "https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3"
+    }
+   ]
+  },
+  {
+   "id": 975539605515788300,
+   "id_str": "975539605515788288",
+   "created_at": "Mon Mar 19 01:09:01 +0000 2018",
+   "text": "Awesome Developer Streams: Developers Who Code Live - https://t.co/8Dy2Pg4yUJ",
+   "retweet_count": 69,
+   "favorite_count": 224,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8Dy2Pg4yUJ",
+     "expand": "https://github.com/bnb/awesome-developer-streams#readme"
+    }
+   ]
+  },
+  {
+   "id": 975512429697388500,
+   "id_str": "975512429697388544",
+   "created_at": "Sun Mar 18 23:21:02 +0000 2018",
+   "text": "4 Awesome Things You Can Do with the Vue.js CLI: https://t.co/y6jkTp0zJL (Working with Vue? The CLI will make your life better.)",
+   "retweet_count": 43,
+   "favorite_count": 132,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/y6jkTp0zJL",
+     "expand": "https://www.telerik.com/blogs/4-awesome-things-you-can-do-with-the-vuejs-cli"
+    }
+   ]
+  },
+  {
+   "id": 975467454087483400,
+   "id_str": "975467454087483393",
+   "created_at": "Sun Mar 18 20:22:19 +0000 2018",
+   "text": "RT @littledan: Pretty packed agenda for TC39 this week. The agenda gives you a view into what TC39 is actively working on. Agenda items lin…",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975447834433654800,
+    "id_str": "975447834433654784",
+    "created_at": "Sun Mar 18 19:04:21 +0000 2018",
+    "text": "Pretty packed agenda for TC39 this week. The agenda gives you a view into what TC39 is actively working on. Agenda… https://t.co/4EExcyihPf",
+    "retweet_count": 49,
+    "favorite_count": 102,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4EExcyihPf",
+      "expand": "https://twitter.com/i/web/status/975447834433654784"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975458585739186200,
+   "id_str": "975458585739186177",
+   "created_at": "Sun Mar 18 19:47:04 +0000 2018",
+   "text": "The 4 Layers of SPAs You Need to Know: https://t.co/1Nd1OiXyRV (An attempt to explain modern single page apps by sl… https://t.co/AfngfD0u4l",
+   "retweet_count": 109,
+   "favorite_count": 352,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1Nd1OiXyRV",
+     "expand": "https://hackernoon.com/architecting-single-page-applications-b842ea633c2e"
+    },
+    {
+     "url": "https://t.co/AfngfD0u4l",
+     "expand": "https://twitter.com/i/web/status/975458585739186177"
+    }
+   ]
+  },
+  {
+   "id": 975315881210318800,
+   "id_str": "975315881210318848",
+   "created_at": "Sun Mar 18 10:20:01 +0000 2018",
+   "text": "Reducers vs Transducers: https://t.co/NW7UCyp1Xc (Maksim promises a \"sweet chunk of functional paradigm for you\" here.)",
+   "retweet_count": 137,
+   "favorite_count": 419,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NW7UCyp1Xc",
+     "expand": "http://maksimivanov.com/posts/reducers-vs-transducers"
+    }
+   ]
+  },
+  {
+   "id": 975164654711398400,
+   "id_str": "975164654711398400",
+   "created_at": "Sun Mar 18 00:19:06 +0000 2018",
+   "text": "RT @samantha_ming: Easier way to create objects with dynamic keys 💪\n\nPreviously, we always had to use the bracket notation to use a dynamic…",
+   "retweet_count": 280,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975086499849953300,
+    "id_str": "975086499849953280",
+    "created_at": "Sat Mar 17 19:08:32 +0000 2018",
+    "text": "Easier way to create objects with dynamic keys 💪\n\nPreviously, we always had to use the bracket notation to use a dy… https://t.co/8T15WIZZQT",
+    "retweet_count": 280,
+    "favorite_count": 961,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8T15WIZZQT",
+      "expand": "https://twitter.com/i/web/status/975086499849953280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975145515825410000,
+   "id_str": "975145515825410051",
+   "created_at": "Sat Mar 17 23:03:02 +0000 2018",
+   "text": "✅ Here's some of the top Node links from the past week: https://t.co/J8dnOIMElz (via @Zae_Johnson) #nodejs #node https://t.co/AAzvtAv9XQ",
+   "retweet_count": 14,
+   "favorite_count": 45,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/J8dnOIMElz",
+     "expand": "https://medium.com/dailyjs/top-node-links-of-the-week-e2c912edca56"
+    }
+   ]
+  },
+  {
+   "id": 975096180953763800,
+   "id_str": "975096180953763842",
+   "created_at": "Sat Mar 17 19:47:00 +0000 2018",
+   "text": "Structuring JavaScript Projects for Testability: https://t.co/tUm4YKzIyn #video (via @mpjme)",
+   "retweet_count": 48,
+   "favorite_count": 178,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tUm4YKzIyn",
+     "expand": "https://www.youtube.com/watch?v=aL6SouuO0_k"
+    }
+   ]
+  },
+  {
+   "id": 974954275435630600,
+   "id_str": "974954275435630592",
+   "created_at": "Sat Mar 17 10:23:07 +0000 2018",
+   "text": "RT @0xabad1dea: Eloquent Javascript’s “realistic example” for teaching data structures https://t.co/9XQnElKERn",
+   "retweet_count": 82,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974346450292432900,
+    "id_str": "974346450292432896",
+    "created_at": "Thu Mar 15 18:07:50 +0000 2018",
+    "text": "Eloquent Javascript’s “realistic example” for teaching data structures https://t.co/9XQnElKERn",
+    "retweet_count": 82,
+    "favorite_count": 269,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 974776834385641500,
+   "id_str": "974776834385641472",
+   "created_at": "Fri Mar 16 22:38:02 +0000 2018",
+   "text": "How GraphQL Can Replace Redux: https://t.co/pz2FWa3WCP",
+   "retweet_count": 131,
+   "favorite_count": 385,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pz2FWa3WCP",
+     "expand": "https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d"
+    }
+   ]
+  },
+  {
+   "id": 974755210391425000,
+   "id_str": "974755210391425024",
+   "created_at": "Fri Mar 16 21:12:06 +0000 2018",
+   "text": "TOAST UI Chart: Attractive Charts to Visualize Data - https://t.co/cVCWktFuYR https://t.co/JrhwllOnnX",
+   "retweet_count": 52,
+   "favorite_count": 157,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cVCWktFuYR",
+     "expand": "https://github.com/nhnent/tui.chart"
+    }
+   ]
+  },
+  {
+   "id": 974717693067751400,
+   "id_str": "974717693067751424",
+   "created_at": "Fri Mar 16 18:43:02 +0000 2018",
+   "text": "Rough.js: Create Graphics with a Hand-Drawn Appearance - https://t.co/uJStMAy5bG – it can also draw SVG paths in th… https://t.co/hFlMY2pKD4",
+   "retweet_count": 116,
+   "favorite_count": 328,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/uJStMAy5bG",
+     "expand": "https://github.com/pshihn/rough"
+    },
+    {
+     "url": "https://t.co/hFlMY2pKD4",
+     "expand": "https://twitter.com/i/web/status/974717693067751424"
+    }
+   ]
+  },
+  {
+   "id": 974697129934508000,
+   "id_str": "974697129934508032",
+   "created_at": "Fri Mar 16 17:21:19 +0000 2018",
+   "text": "Your free weekly round-up of JavaScript news should be sitting in your inbox now ⚡ Check it out, or catch up online… https://t.co/4rywha9wR1",
+   "retweet_count": 6,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4rywha9wR1",
+     "expand": "https://twitter.com/i/web/status/974697129934508032"
+    }
+   ]
+  },
+  {
+   "id": 974666424173105200,
+   "id_str": "974666424173105152",
+   "created_at": "Fri Mar 16 15:19:18 +0000 2018",
+   "text": "RT @jevakallio: WHAT UP WHAT UP WHAT UP LONDON\n\nWe are hosting a one-night only JavaScript-themed comedy &amp; music extravaganza called compon…",
+   "retweet_count": 40,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974636513710493700,
+    "id_str": "974636513710493696",
+    "created_at": "Fri Mar 16 13:20:27 +0000 2018",
+    "text": "WHAT UP WHAT UP WHAT UP LONDON\n\nWe are hosting a one-night only JavaScript-themed comedy &amp; music extravaganza calle… https://t.co/3LXYxtQN2R",
+    "retweet_count": 40,
+    "favorite_count": 161,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3LXYxtQN2R",
+      "expand": "https://twitter.com/i/web/status/974636513710493696"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974660317996347400,
+   "id_str": "974660317996347392",
+   "created_at": "Fri Mar 16 14:55:02 +0000 2018",
+   "text": "A Comprehensive Guide to Learning React in 2018: https://t.co/y4VVDxtLQw (A classic, interactive 'from scratch' tut… https://t.co/hxOwq1h5fA",
+   "retweet_count": 135,
+   "favorite_count": 469,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/y4VVDxtLQw",
+     "expand": "https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/"
+    },
+    {
+     "url": "https://t.co/hxOwq1h5fA",
+     "expand": "https://twitter.com/i/web/status/974660317996347392"
+    }
+   ]
+  },
+  {
+   "id": 974640892375158800,
+   "id_str": "974640892375158784",
+   "created_at": "Fri Mar 16 13:37:51 +0000 2018",
+   "text": "RT @ioctaptceb: Hey JS developers! Are you interested in how JavaScript is spec'd? I want to help you get the information you need! I made…",
+   "retweet_count": 110,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973633022011625500,
+    "id_str": "973633022011625472",
+    "created_at": "Tue Mar 13 18:52:56 +0000 2018",
+    "text": "Hey JS developers! Are you interested in how JavaScript is spec'd? I want to help you get the information you need!… https://t.co/T02xkOUatD",
+    "retweet_count": 110,
+    "favorite_count": 103,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/T02xkOUatD",
+      "expand": "https://twitter.com/i/web/status/973633022011625472"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974628371262001200,
+   "id_str": "974628371262001157",
+   "created_at": "Fri Mar 16 12:48:06 +0000 2018",
+   "text": "How You Can Use Environment Variables in Node: https://t.co/fEUWq1F4ZX",
+   "retweet_count": 47,
+   "favorite_count": 134,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fEUWq1F4ZX",
+     "expand": "https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a"
+    }
+   ]
+  },
+  {
+   "id": 974608762454626300,
+   "id_str": "974608762454626304",
+   "created_at": "Fri Mar 16 11:30:10 +0000 2018",
+   "text": "How to Test Node Apps using Mocha, Chai and SinonJS: https://t.co/iKFIUxWFSc",
+   "retweet_count": 115,
+   "favorite_count": 278,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iKFIUxWFSc",
+     "expand": "https://scotch.io/tutorials/how-to-test-nodejs-apps-using-mocha-chai-and-sinonjs"
+    }
+   ]
+  },
+  {
+   "id": 974577764987818000,
+   "id_str": "974577764987817984",
+   "created_at": "Fri Mar 16 09:27:00 +0000 2018",
+   "text": "async-exit-hook: Run Some Code When a Node Process Exits - https://t.co/gSsT5hlPvS",
+   "retweet_count": 24,
+   "favorite_count": 60,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gSsT5hlPvS",
+     "expand": "https://github.com/tapppi/async-exit-hook"
+    }
+   ]
+  },
+  {
+   "id": 974472070955495400,
+   "id_str": "974472070955495424",
+   "created_at": "Fri Mar 16 02:27:01 +0000 2018",
+   "text": "Discord.js: A Library for Interacting with Discord's API - https://t.co/Pd8wOZPb6Q (Discord is an increasingly popu… https://t.co/51D7R64h5P",
+   "retweet_count": 46,
+   "favorite_count": 160,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Pd8wOZPb6Q",
+     "expand": "https://github.com/discordjs/discord.js"
+    },
+    {
+     "url": "https://t.co/51D7R64h5P",
+     "expand": "https://twitter.com/i/web/status/974472070955495424"
+    }
+   ]
+  },
+  {
+   "id": 974451182293962800,
+   "id_str": "974451182293962752",
+   "created_at": "Fri Mar 16 01:04:00 +0000 2018",
+   "text": "turbo-ws: A 'Blazing Fast' Low-level WebSocket Server - https://t.co/8PJ1NRFPZM (Supports 1000s of connections with minimal CPU impact.)",
+   "retweet_count": 49,
+   "favorite_count": 189,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8PJ1NRFPZM",
+     "expand": "https://github.com/hugmanrique/turbo-ws"
+    }
+   ]
+  },
+  {
+   "id": 974428281075355600,
+   "id_str": "974428281075355648",
+   "created_at": "Thu Mar 15 23:33:00 +0000 2018",
+   "text": "GraphQL over REST with Node, Heroku, and Apollo Engine: https://t.co/eXl5bbNGr8",
+   "retweet_count": 71,
+   "favorite_count": 205,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eXl5bbNGr8",
+     "expand": "https://dev-blog.apollodata.com/graphql-over-rest-with-node-heroku-and-apollo-engine-fb8581f8d77f"
+    }
+   ]
+  },
+  {
+   "id": 974396822155399200,
+   "id_str": "974396822155399171",
+   "created_at": "Thu Mar 15 21:28:00 +0000 2018",
+   "text": "Awesome Node: Now at 600+ Packages, Resources and Links - https://t.co/lF9KnzojsC (A definitive list of categorized… https://t.co/m4g9g9TalC",
+   "retweet_count": 27,
+   "favorite_count": 81,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lF9KnzojsC",
+     "expand": "https://github.com/sindresorhus/awesome-nodejs"
+    },
+    {
+     "url": "https://t.co/m4g9g9TalC",
+     "expand": "https://twitter.com/i/web/status/974396822155399171"
+    }
+   ]
+  },
+  {
+   "id": 974392148685721600,
+   "id_str": "974392148685721601",
+   "created_at": "Thu Mar 15 21:09:26 +0000 2018",
+   "text": "RT @acdlite: Tip when evaluating libraries: check if it's blazing fast. If it's fast, but the README doesn't specify whether its fastness i…",
+   "retweet_count": 426,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974390255393505300,
+    "id_str": "974390255393505280",
+    "created_at": "Thu Mar 15 21:01:54 +0000 2018",
+    "text": "Tip when evaluating libraries: check if it's blazing fast. If it's fast, but the README doesn't specify whether its… https://t.co/bvZHhpNtjv",
+    "retweet_count": 426,
+    "favorite_count": 1924,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bvZHhpNtjv",
+      "expand": "https://twitter.com/i/web/status/974390255393505280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974371685213319200,
+   "id_str": "974371685213319179",
+   "created_at": "Thu Mar 15 19:48:07 +0000 2018",
+   "text": "An Introduction to Web Scraping with Node and Cheerio: https://t.co/UM6lACdOCo #video",
+   "retweet_count": 32,
+   "favorite_count": 127,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UM6lACdOCo",
+     "expand": "https://www.youtube.com/watch?v=eUYMiztBEdY"
+    }
+   ]
+  },
+  {
+   "id": 974355324881784800,
+   "id_str": "974355324881784832",
+   "created_at": "Thu Mar 15 18:43:06 +0000 2018",
+   "text": "How to Control a Tesla Car with Profound.js: https://t.co/N3gBxD17rN #video",
+   "retweet_count": 21,
+   "favorite_count": 50,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/N3gBxD17rN",
+     "expand": "https://www.youtube.com/watch?v=mANP56aKIwM"
+    }
+   ]
+  },
+  {
+   "id": 974296871257690100,
+   "id_str": "974296871257690115",
+   "created_at": "Thu Mar 15 14:50:50 +0000 2018",
+   "text": "This week's issue of Node Weekly is out now: https://t.co/hkwE6aVWNh https://t.co/rkw9gTEcHy",
+   "retweet_count": 12,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hkwE6aVWNh",
+     "expand": "https://nodeweekly.com/issues/229"
+    }
+   ]
+  },
+  {
+   "id": 974291146246680600,
+   "id_str": "974291146246680576",
+   "created_at": "Thu Mar 15 14:28:05 +0000 2018",
+   "text": "How Some Node Projects Address Security Challenges: https://t.co/a3eNI1T2rV",
+   "retweet_count": 22,
+   "favorite_count": 77,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/a3eNI1T2rV",
+     "expand": "https://medium.com/the-node-js-collection/nodejs-platform-hardening-71b212fcae6a"
+    }
+   ]
+  },
+  {
+   "id": 974248097340674000,
+   "id_str": "974248097340674048",
+   "created_at": "Thu Mar 15 11:37:01 +0000 2018",
+   "text": "A Gentle 1 Hour Introduction to Express.js and RESTful APIs: https://t.co/ZGnMtfWbhw (Excellent for beginners.) #video",
+   "retweet_count": 82,
+   "favorite_count": 294,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZGnMtfWbhw",
+     "expand": "https://www.youtube.com/watch?v=pKd0Rpw7O48"
+    }
+   ]
+  },
+  {
+   "id": 974213613970952200,
+   "id_str": "974213613970952192",
+   "created_at": "Thu Mar 15 09:20:00 +0000 2018",
+   "text": "RT @FrontendDaily: react-css-grid-table: A React Table Library using CSS Grid Layout - https://t.co/kuPgCIWUFP",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kuPgCIWUFP",
+     "expand": "https://github.com/RebeccaPark/react-css-grid-table"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972260244163301400,
+    "id_str": "972260244163301376",
+    "created_at": "Fri Mar 09 23:58:00 +0000 2018",
+    "text": "react-css-grid-table: A React Table Library using CSS Grid Layout - https://t.co/kuPgCIWUFP",
+    "retweet_count": 30,
+    "favorite_count": 92,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/kuPgCIWUFP",
+      "expand": "https://github.com/RebeccaPark/react-css-grid-table"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974147931040251900,
+   "id_str": "974147931040251905",
+   "created_at": "Thu Mar 15 04:59:00 +0000 2018",
+   "text": "Instrumentation and Tracing in Node.js: https://t.co/GIdIIPc9D3 #video",
+   "retweet_count": 31,
+   "favorite_count": 61,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GIdIIPc9D3",
+     "expand": "https://www.youtube.com/watch?v=IOAtDBW6w2k"
+    }
+   ]
+  },
+  {
+   "id": 974109682284548100,
+   "id_str": "974109682284548099",
+   "created_at": "Thu Mar 15 02:27:00 +0000 2018",
+   "text": "RT @FrontendDaily: ✂️ UnCSS: Remove unused styles from your stylesheets — https://t.co/L3HmrphDL8",
+   "retweet_count": 103,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/L3HmrphDL8",
+     "expand": "https://github.com/uncss/uncss"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973955181154054100,
+    "id_str": "973955181154054144",
+    "created_at": "Wed Mar 14 16:13:05 +0000 2018",
+    "text": "✂️ UnCSS: Remove unused styles from your stylesheets — https://t.co/L3HmrphDL8",
+    "retweet_count": 103,
+    "favorite_count": 291,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/L3HmrphDL8",
+      "expand": "https://github.com/uncss/uncss"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974088805560012800,
+   "id_str": "974088805560012800",
+   "created_at": "Thu Mar 15 01:04:03 +0000 2018",
+   "text": "Emma: A Command Line Assistant to Find and Install Node Packages - https://t.co/grFe1XRxD9 (Uses an Algolia-powered… https://t.co/qbLynqbATT",
+   "retweet_count": 124,
+   "favorite_count": 311,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/grFe1XRxD9",
+     "expand": "https://github.com/maticzav/emma-cli"
+    },
+    {
+     "url": "https://t.co/qbLynqbATT",
+     "expand": "https://twitter.com/i/web/status/974088805560012800"
+    }
+   ]
+  },
+  {
+   "id": 974062156961538000,
+   "id_str": "974062156961538053",
+   "created_at": "Wed Mar 14 23:18:10 +0000 2018",
+   "text": "TypeScript Starter 2.0: CLI Tool to Generate New Node Projects - https://t.co/6CbZhEf8xk",
+   "retweet_count": 28,
+   "favorite_count": 101,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6CbZhEf8xk",
+     "expand": "https://github.com/bitjson/typescript-starter"
+    }
+   ]
+  },
+  {
+   "id": 974052066283937800,
+   "id_str": "974052066283937793",
+   "created_at": "Wed Mar 14 22:38:04 +0000 2018",
+   "text": "npm 5.8.0-next.0 Released: https://t.co/5WxvVhIV0d",
+   "retweet_count": 12,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5WxvVhIV0d",
+     "expand": "http://blog.npmjs.org/post/171813275740/v580-next0"
+    }
+   ]
+  },
+  {
+   "id": 974044231638667300,
+   "id_str": "974044231638667264",
+   "created_at": "Wed Mar 14 22:06:56 +0000 2018",
+   "text": "Node developers are revisiting the idea of including support for WebSockets direct in Node core:… https://t.co/2KxIWC8FuW",
+   "retweet_count": 68,
+   "favorite_count": 169,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2KxIWC8FuW",
+     "expand": "https://twitter.com/i/web/status/974044231638667264"
+    }
+   ]
+  },
+  {
+   "id": 973921190090854400,
+   "id_str": "973921190090854400",
+   "created_at": "Wed Mar 14 13:58:00 +0000 2018",
+   "text": "Cloudflare Workers: Run JavaScript on Cloudflare - https://t.co/1RIuUjaQMY",
+   "retweet_count": 30,
+   "favorite_count": 83,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1RIuUjaQMY",
+     "expand": "https://blog.cloudflare.com/cloudflare-workers-unleashed/"
+    }
+   ]
+  },
+  {
+   "id": 973859283208110100,
+   "id_str": "973859283208110081",
+   "created_at": "Wed Mar 14 09:52:01 +0000 2018",
+   "text": "Animating Elements Along SVG Paths with JavaScript: https://t.co/Qn02NhCP4U",
+   "retweet_count": 59,
+   "favorite_count": 179,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Qn02NhCP4U",
+     "expand": "https://scotch.io/tutorials/animating-elements-along-svg-paths-introducing-pathslider"
+    }
+   ]
+  },
+  {
+   "id": 973799890303242200,
+   "id_str": "973799890303242241",
+   "created_at": "Wed Mar 14 05:56:00 +0000 2018",
+   "text": "dom-to-image: Generate Images from a DOM Node using HTML5 Canvas - https://t.co/fLmdB2az7h",
+   "retweet_count": 58,
+   "favorite_count": 175,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fLmdB2az7h",
+     "expand": "https://github.com/tsayen/dom-to-image"
+    }
+   ]
+  },
+  {
+   "id": 973498149930192900,
+   "id_str": "973498149930192896",
+   "created_at": "Tue Mar 13 09:57:00 +0000 2018",
+   "text": "AmsterdamJS Conference 2018 (May 31-June 1): https://t.co/SCs1xO5ejN",
+   "retweet_count": 27,
+   "favorite_count": 71,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SCs1xO5ejN",
+     "expand": "https://amsterdamjs.com/"
+    }
+   ]
+  },
+  {
+   "id": 973367538766753800,
+   "id_str": "973367538766753792",
+   "created_at": "Tue Mar 13 01:18:00 +0000 2018",
+   "text": "Workly: Simply Move a Function or Class to a Worker Thread - https://t.co/Kea3R3oWlf",
+   "retweet_count": 35,
+   "favorite_count": 129,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Kea3R3oWlf",
+     "expand": "https://github.com/pshihn/workly"
+    }
+   ]
+  },
+  {
+   "id": 973327277122572300,
+   "id_str": "973327277122572288",
+   "created_at": "Mon Mar 12 22:38:01 +0000 2018",
+   "text": "RT @JavaScriptDaily: Building a Serverless Real-Time Chat App with AWS AppSync: https://t.co/6XQsLaKqew",
+   "retweet_count": 90,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6XQsLaKqew",
+     "expand": "https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971263175885717500,
+    "id_str": "971263175885717506",
+    "created_at": "Wed Mar 07 05:56:00 +0000 2018",
+    "text": "Building a Serverless Real-Time Chat App with AWS AppSync: https://t.co/6XQsLaKqew",
+    "retweet_count": 90,
+    "favorite_count": 275,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6XQsLaKqew",
+      "expand": "https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973309658646634500,
+   "id_str": "973309658646634499",
+   "created_at": "Mon Mar 12 21:28:00 +0000 2018",
+   "text": "RT @JavaScriptDaily: Understanding V8’s Bytecode — https://t.co/JpW5HhROSy (via @fhinkel)",
+   "retweet_count": 104,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JpW5HhROSy",
+     "expand": "https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971711497817731100,
+    "id_str": "971711497817731073",
+    "created_at": "Thu Mar 08 11:37:29 +0000 2018",
+    "text": "Understanding V8’s Bytecode — https://t.co/JpW5HhROSy (via @fhinkel)",
+    "retweet_count": 104,
+    "favorite_count": 282,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JpW5HhROSy",
+      "expand": "https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973290783049699300,
+   "id_str": "973290783049699328",
+   "created_at": "Mon Mar 12 20:13:00 +0000 2018",
+   "text": "RT @remotesynth: I'm coordinating a full-day training event on JavaScript language fundamentals with some of the biggest names in the busin…",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972132400774828000,
+    "id_str": "972132400774828032",
+    "created_at": "Fri Mar 09 15:30:00 +0000 2018",
+    "text": "I'm coordinating a full-day training event on JavaScript language fundamentals with some of the biggest names in th… https://t.co/GPnnXUtUIE",
+    "retweet_count": 28,
+    "favorite_count": 65,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GPnnXUtUIE",
+      "expand": "https://twitter.com/i/web/status/972132400774828032"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973284495062388700,
+   "id_str": "973284495062388737",
+   "created_at": "Mon Mar 12 19:48:01 +0000 2018",
+   "text": "The Fundamentals of Testing Angular Components: https://t.co/U7VI4rgdqW #video",
+   "retweet_count": 19,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/U7VI4rgdqW",
+     "expand": "https://www.youtube.com/watch?v=KVjaVHZG32w"
+    }
+   ]
+  },
+  {
+   "id": 973268136307945500,
+   "id_str": "973268136307945473",
+   "created_at": "Mon Mar 12 18:43:00 +0000 2018",
+   "text": "How I Built a Super Fast JS Framework: https://t.co/SXVwzn5jZ1",
+   "retweet_count": 120,
+   "favorite_count": 278,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SXVwzn5jZ1",
+     "expand": "https://medium.com/@marcisbee/how-i-built-super-fast-js-framework-faster-than-react-ea99f0d03150"
+    }
+   ]
+  },
+  {
+   "id": 973240221759365100,
+   "id_str": "973240221759365120",
+   "created_at": "Mon Mar 12 16:52:05 +0000 2018",
+   "text": "Awaity.js: Functional, Lightweight Alternative to Bluebird - https://t.co/JYauTVnwMG (Built with async/await in mind.)",
+   "retweet_count": 27,
+   "favorite_count": 76,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JYauTVnwMG",
+     "expand": "https://github.com/asfktz/Awaity.js"
+    }
+   ]
+  },
+  {
+   "id": 973211517486272500,
+   "id_str": "973211517486272512",
+   "created_at": "Mon Mar 12 14:58:01 +0000 2018",
+   "text": "OpenPGPjs 3.0: An Open Source OpenPGP Library - https://t.co/qF5vDaWsQb",
+   "retweet_count": 21,
+   "favorite_count": 57,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qF5vDaWsQb",
+     "expand": "https://protonmail.com/blog/openpgpjs-3-release/"
+    }
+   ]
+  },
+  {
+   "id": 973178797792092200,
+   "id_str": "973178797792092160",
+   "created_at": "Mon Mar 12 12:48:00 +0000 2018",
+   "text": "Vue Tour: Simple, Customizable 'Guided Tour' Plugin for Vue - https://t.co/8Kqt56JRGo",
+   "retweet_count": 12,
+   "favorite_count": 54,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8Kqt56JRGo",
+     "expand": "https://github.com/pulsardev/vue-tour"
+    }
+   ]
+  },
+  {
+   "id": 973159673422598100,
+   "id_str": "973159673422598145",
+   "created_at": "Mon Mar 12 11:32:01 +0000 2018",
+   "text": "TinyState: A Tiny, Powerful State Management Library for Angular - https://t.co/EuPwV0xJty",
    "retweet_count": 14,
    "favorite_count": 55,
    "place": null,
@@ -318,169 +2886,245 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/2wloupAoty",
-     "expand": "https://github.com/gnuns/fio"
+     "url": "https://t.co/EuPwV0xJty",
+     "expand": "https://github.com/SebastianM/tinystate"
     }
    ]
   },
   {
-   "id": 966537789264285700,
-   "id_str": "966537789264285696",
-   "created_at": "Thu Feb 22 04:59:01 +0000 2018",
-   "text": "RT @FrontendDaily: How To Make a Drag-and-Drop File Uploader With Vanilla JavaScript: https://t.co/ODiDTPFdo7",
-   "retweet_count": 26,
-   "favorite_count": 0,
+   "id": 973128234685599700,
+   "id_str": "973128234685599744",
+   "created_at": "Mon Mar 12 09:27:05 +0000 2018",
+   "text": "10 Tips for JS Debugging Like a Pro at the Console: https://t.co/tMrnkb5kPz",
+   "retweet_count": 259,
+   "favorite_count": 588,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/ODiDTPFdo7",
-     "expand": "https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 958027964431634400,
-    "id_str": "958027964431634438",
-    "created_at": "Mon Jan 29 17:24:00 +0000 2018",
-    "text": "How To Make a Drag-and-Drop File Uploader With Vanilla JavaScript: https://t.co/ODiDTPFdo7",
-    "retweet_count": 26,
-    "favorite_count": 94,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ODiDTPFdo7",
-      "expand": "https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966499537912295400,
-   "id_str": "966499537912295424",
-   "created_at": "Thu Feb 22 02:27:01 +0000 2018",
-   "text": "RT @FrontendDaily: Sockette: The Cutest Little WebSocket Wrapper - https://t.co/5YUd4qadGX (A 339 byte wrapper around WebSocket that auto r…",
-   "retweet_count": 18,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/5YUd4qadGX",
-     "expand": "https://github.com/lukeed/sockette"
-    }
-   ],
-   "retweeted_status": {
-    "id": 959049730029445100,
-    "id_str": "959049730029445120",
-    "created_at": "Thu Feb 01 13:04:08 +0000 2018",
-    "text": "Sockette: The Cutest Little WebSocket Wrapper - https://t.co/5YUd4qadGX (A 339 byte wrapper around WebSocket that a… https://t.co/IHdVmeEI7G",
-    "retweet_count": 18,
-    "favorite_count": 49,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/5YUd4qadGX",
-      "expand": "https://github.com/lukeed/sockette"
-     },
-     {
-      "url": "https://t.co/IHdVmeEI7G",
-      "expand": "https://twitter.com/i/web/status/959049730029445120"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966478649963761700,
-   "id_str": "966478649963761664",
-   "created_at": "Thu Feb 22 01:04:01 +0000 2018",
-   "text": "RT @rauschma: My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
-   "retweet_count": 571,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/mhQWF9OaJk",
-     "expand": "http://exploringjs.com/es2018-es2019/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966343761876979700,
-    "id_str": "966343761876979714",
-    "created_at": "Wed Feb 21 16:08:01 +0000 2018",
-    "text": "My new book is out: Exploring ES2018 and ES2019\nhttps://t.co/mhQWF9OaJk https://t.co/3WwxRkEHwM",
-    "retweet_count": 571,
-    "favorite_count": 1237,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/mhQWF9OaJk",
-      "expand": "http://exploringjs.com/es2018-es2019/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966424331415904300,
-   "id_str": "966424331415904256",
-   "created_at": "Wed Feb 21 21:28:10 +0000 2018",
-   "text": "Express.js and AWS Lambda — A Serverless Love Story: https://t.co/5qNEUhIxBq",
-   "retweet_count": 97,
-   "favorite_count": 313,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/5qNEUhIxBq",
-     "expand": "https://medium.freecodecamp.org/express-js-and-aws-lambda-a-serverless-love-story-7c77ba0eaa35"
+     "url": "https://t.co/tMrnkb5kPz",
+     "expand": "https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6"
     }
    ]
   },
   {
-   "id": 966354858415620100,
-   "id_str": "966354858415620098",
-   "created_at": "Wed Feb 21 16:52:06 +0000 2018",
-   "text": "Announcing NativeScript-Vue 1.0: https://t.co/k3VDCESwnR (A NativeScript plugin that allows you to build native And… https://t.co/rPjRnkZs8W",
-   "retweet_count": 86,
-   "favorite_count": 215,
+   "id": 973020254984134700,
+   "id_str": "973020254984134656",
+   "created_at": "Mon Mar 12 02:18:01 +0000 2018",
+   "text": "'Write tests. Not too many. Mostly integration.': https://t.co/KBqWWeiVNP #video",
+   "retweet_count": 28,
+   "favorite_count": 145,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/k3VDCESwnR",
-     "expand": "https://www.nativescript.org/blog/announcing-nativescript-vue-1.0"
+     "url": "https://t.co/KBqWWeiVNP",
+     "expand": "https://www.youtube.com/watch?v=Fha2bVoC8SE"
+    }
+   ]
+  },
+  {
+   "id": 973002899293798400,
+   "id_str": "973002899293798400",
+   "created_at": "Mon Mar 12 01:09:03 +0000 2018",
+   "text": "DoneJS 2.0 Released: A Framework for High-Perf Realtime Webapps - https://t.co/x8tJtkuply",
+   "retweet_count": 40,
+   "favorite_count": 162,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/x8tJtkuply",
+     "expand": "https://www.bitovi.com/blog/donejs-2.0"
+    }
+   ]
+  },
+  {
+   "id": 972975708933935100,
+   "id_str": "972975708933935104",
+   "created_at": "Sun Mar 11 23:21:00 +0000 2018",
+   "text": "SlimerJS: Script a Headless Firefox Browser from JavaScript - https://t.co/MbIWMdmI8d",
+   "retweet_count": 38,
+   "favorite_count": 106,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MbIWMdmI8d",
+     "expand": "https://slimerjs.org/"
+    }
+   ]
+  },
+  {
+   "id": 972921853177188400,
+   "id_str": "972921853177188352",
+   "created_at": "Sun Mar 11 19:47:00 +0000 2018",
+   "text": "Evan You's 'State of Vue.js 2018' Keynote: https://t.co/gkKcw2qLKL #video",
+   "retweet_count": 33,
+   "favorite_count": 124,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gkKcw2qLKL",
+     "expand": "https://www.youtube.com/watch?v=TRJMT9yjONQ"
+    }
+   ]
+  },
+  {
+   "id": 972779166973268000,
+   "id_str": "972779166973267968",
+   "created_at": "Sun Mar 11 10:20:01 +0000 2018",
+   "text": "The JavaScript Learning Landscape in 2018: https://t.co/I8dw82YKBr",
+   "retweet_count": 132,
+   "favorite_count": 302,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/I8dw82YKBr",
+     "expand": "https://css-tricks.com/javascript-learning-landscape-2018/"
+    }
+   ]
+  },
+  {
+   "id": 972608791937192000,
+   "id_str": "972608791937191939",
+   "created_at": "Sat Mar 10 23:03:00 +0000 2018",
+   "text": "Loading Third-Party JavaScript: https://t.co/8DstdHWijj (How to find and fix issues related to loading third-party JS.)",
+   "retweet_count": 32,
+   "favorite_count": 127,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8DstdHWijj",
+     "expand": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/"
+    }
+   ]
+  },
+  {
+   "id": 972592615651729400,
+   "id_str": "972592615651729408",
+   "created_at": "Sat Mar 10 21:58:44 +0000 2018",
+   "text": "A 9 minute video on a proposed syntax for optional chaining in JavaScript: https://t.co/iZ2WEtOuEw",
+   "retweet_count": 24,
+   "favorite_count": 76,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iZ2WEtOuEw",
+     "expand": "https://www.youtube.com/watch?v=FKRVqtP8o48"
+    }
+   ]
+  },
+  {
+   "id": 972559466758639600,
+   "id_str": "972559466758639616",
+   "created_at": "Sat Mar 10 19:47:00 +0000 2018",
+   "text": "KnowJS 2018: An Online JS Training Event with 4 JS Experts - https://t.co/XVbXH4eIVa (Takes place April 13. Costs m… https://t.co/lcQoRfpRJT",
+   "retweet_count": 12,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XVbXH4eIVa",
+     "expand": "https://certifiedfreshevents.com/events/knowjs-2018/"
     },
     {
-     "url": "https://t.co/rPjRnkZs8W",
-     "expand": "https://twitter.com/i/web/status/966354858415620098"
+     "url": "https://t.co/lcQoRfpRJT",
+     "expand": "https://twitter.com/i/web/status/972559466758639616"
     }
    ]
   },
   {
-   "id": 966127613797457900,
-   "id_str": "966127613797457920",
-   "created_at": "Wed Feb 21 01:49:07 +0000 2018",
-   "text": "RT @lukeed05: Published `deepset`, a tiny (145b) utility for safely writing deep Object values! \n💡It's the inverse of @_developit's `dlv` m…",
-   "retweet_count": 61,
+   "id": 972488952644063200,
+   "id_str": "972488952644063232",
+   "created_at": "Sat Mar 10 15:06:48 +0000 2018",
+   "text": "@xah_lee Wanted to include it but Twitter limits us to 4 options 😭",
+   "retweet_count": 4,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 972488602599882800,
+   "in_reply_to_status_id_str": "972488602599882753",
+   "in_reply_to_screen_name": "xah_lee",
+   "urls": []
+  },
+  {
+   "id": 972487652162367500,
+   "id_str": "972487652162367488",
+   "created_at": "Sat Mar 10 15:01:38 +0000 2018",
+   "text": "Quick editor poll: What editor are you now using most frequently for your JavaScript projects?",
+   "retweet_count": 247,
+   "favorite_count": 426,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 972417529653137400,
+   "id_str": "972417529653137408",
+   "created_at": "Sat Mar 10 10:23:00 +0000 2018",
+   "text": "RT @reactdaily: Infinite Scroll Techniques In React: https://t.co/pwJndDLoDz https://t.co/icbyGv7qGL",
+   "retweet_count": 72,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pwJndDLoDz",
+     "expand": "https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971815069033095200,
+    "id_str": "971815069033095170",
+    "created_at": "Thu Mar 08 18:29:02 +0000 2018",
+    "text": "Infinite Scroll Techniques In React: https://t.co/pwJndDLoDz https://t.co/icbyGv7qGL",
+    "retweet_count": 72,
+    "favorite_count": 224,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pwJndDLoDz",
+      "expand": "https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972243661395300400,
+   "id_str": "972243661395300352",
+   "created_at": "Fri Mar 09 22:52:06 +0000 2018",
+   "text": "RT @AntJanus: New method ideas:\n\n1. Array.hug - one array envelopes another\n2. Array.kiss - alias to concat\n3. Array.procreate - arrays alt…",
+   "retweet_count": 171,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -488,70 +3132,164 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966061240018587600,
-    "id_str": "966061240018587648",
-    "created_at": "Tue Feb 20 21:25:22 +0000 2018",
-    "text": "Published `deepset`, a tiny (145b) utility for safely writing deep Object values! \n💡It's the inverse of @_developit… https://t.co/Tq7NJiV4sl",
-    "retweet_count": 61,
-    "favorite_count": 307,
+    "id": 971634313136451600,
+    "id_str": "971634313136451584",
+    "created_at": "Thu Mar 08 06:30:47 +0000 2018",
+    "text": "New method ideas:\n\n1. Array.hug - one array envelopes another\n2. Array.kiss - alias to concat\n3. Array.procreate -… https://t.co/CnbxdyZKzm",
+    "retweet_count": 171,
+    "favorite_count": 554,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/Tq7NJiV4sl",
-      "expand": "https://twitter.com/i/web/status/966061240018587648"
+      "url": "https://t.co/CnbxdyZKzm",
+      "expand": "https://twitter.com/i/web/status/971634313136451584"
      }
     ]
    }
   },
   {
-   "id": 966083532673224700,
-   "id_str": "966083532673224705",
-   "created_at": "Tue Feb 20 22:53:57 +0000 2018",
-   "text": "Lazy Image Component Using the Intersection Observer API in Vue.js: https://t.co/M7qvmjcCob",
-   "retweet_count": 44,
-   "favorite_count": 172,
+   "id": 972240119049719800,
+   "id_str": "972240119049719809",
+   "created_at": "Fri Mar 09 22:38:02 +0000 2018",
+   "text": "turbo-net: Low Level, High Performance TCP Library for Node - https://t.co/1CF5CtB8fA https://t.co/ZTupbMbMcD",
+   "retweet_count": 37,
+   "favorite_count": 143,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/M7qvmjcCob",
-     "expand": "https://alligator.io/vuejs/lazy-image/"
+     "url": "https://t.co/1CF5CtB8fA",
+     "expand": "https://github.com/mafintosh/turbo-net"
     }
    ]
   },
   {
-   "id": 965963794529833000,
-   "id_str": "965963794529832960",
-   "created_at": "Tue Feb 20 14:58:10 +0000 2018",
-   "text": "📖You Got This! A zine on building apps with Node from @glitch: https://t.co/9I2cyQb7xJ \n\nFree e-book, or there are… https://t.co/DyXbHHwd1S",
-   "retweet_count": 21,
-   "favorite_count": 65,
+   "id": 972218491565690900,
+   "id_str": "972218491565690880",
+   "created_at": "Fri Mar 09 21:12:05 +0000 2018",
+   "text": "Fraternate: A Node+Express+MongoDB Copycat of the GitHub User Management System - https://t.co/rCyvpbRpyc - a boile… https://t.co/CeHyo21cby",
+   "retweet_count": 20,
+   "favorite_count": 92,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/9I2cyQb7xJ",
-     "expand": "https://glitch.com/you-got-this"
+     "url": "https://t.co/rCyvpbRpyc",
+     "expand": "https://fraternate.herokuapp.com/"
     },
     {
-     "url": "https://t.co/DyXbHHwd1S",
-     "expand": "https://twitter.com/i/web/status/965963794529832960"
+     "url": "https://t.co/CeHyo21cby",
+     "expand": "https://twitter.com/i/web/status/972218491565690880"
     }
    ]
   },
   {
-   "id": 965909648959209500,
-   "id_str": "965909648959209478",
-   "created_at": "Tue Feb 20 11:23:00 +0000 2018",
-   "text": "RT @reactdaily: Redux Rest Easy: A Library to Generate Redux Code - https://t.co/MJx2AwF9M4",
-   "retweet_count": 62,
+   "id": 972180986405453800,
+   "id_str": "972180986405453830",
+   "created_at": "Fri Mar 09 18:43:04 +0000 2018",
+   "text": "Debugging Node Apps with Visual Studio Code: https://t.co/SuwE2p01zD https://t.co/UvyfE7wX89",
+   "retweet_count": 116,
+   "favorite_count": 377,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SuwE2p01zD",
+     "expand": "https://code.visualstudio.com/docs/nodejs/nodejs-debugging"
+    }
+   ]
+  },
+  {
+   "id": 972123595634888700,
+   "id_str": "972123595634888705",
+   "created_at": "Fri Mar 09 14:55:01 +0000 2018",
+   "text": "Using TOML Config Files in Node Apps: https://t.co/hMHq7SOwRi",
+   "retweet_count": 18,
+   "favorite_count": 49,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hMHq7SOwRi",
+     "expand": "http://thisdavej.com/using-toml-config-files-in-node-js-applications/"
+    }
+   ]
+  },
+  {
+   "id": 972091635797577700,
+   "id_str": "972091635797577728",
+   "created_at": "Fri Mar 09 12:48:01 +0000 2018",
+   "text": "An Introduction to Behavior Driven Development (BDD) with Cucumber.js: https://t.co/Cieqh0XRdY – it's a more natura… https://t.co/BCF5AqMsX4",
+   "retweet_count": 33,
+   "favorite_count": 121,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Cieqh0XRdY",
+     "expand": "https://www.youtube.com/watch?v=L3rHsE-nA78&index=3&list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw"
+    },
+    {
+     "url": "https://t.co/BCF5AqMsX4",
+     "expand": "https://twitter.com/i/web/status/972091635797577728"
+    }
+   ]
+  },
+  {
+   "id": 972072092777709600,
+   "id_str": "972072092777709568",
+   "created_at": "Fri Mar 09 11:30:21 +0000 2018",
+   "text": "Introducing 'npm ci' for Faster, More Reliable Builds: https://t.co/ONftPZ6MSF (A new feature in npm 5.7+)",
+   "retweet_count": 29,
+   "favorite_count": 81,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ONftPZ6MSF",
+     "expand": "http://blog.npmjs.org/post/171556855892/introducing-npm-ci-for-faster-more-reliable"
+    }
+   ]
+  },
+  {
+   "id": 972041067045490700,
+   "id_str": "972041067045490691",
+   "created_at": "Fri Mar 09 09:27:04 +0000 2018",
+   "text": "How To 'Publish' Multiple Packages from a Single Repo: https://t.co/Y4flYXOpgz – using a tool called 'Bit'",
+   "retweet_count": 64,
+   "favorite_count": 215,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Y4flYXOpgz",
+     "expand": "https://blog.bitsrc.io/how-to-publish-multiple-packages-from-any-repository-in-5-minutes-9aafd31d85b7"
+    }
+   ]
+  },
+  {
+   "id": 971935355074240500,
+   "id_str": "971935355074240512",
+   "created_at": "Fri Mar 09 02:27:00 +0000 2018",
+   "text": "RT @FrontendDaily: How to Write CSS That Works in Every Browser, Even the Old Ones: https://t.co/9X2jFHlRVB (A great collection of videos f…",
+   "retweet_count": 76,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -559,205 +3297,182 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/MJx2AwF9M4",
-     "expand": "https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59"
+     "url": "https://t.co/9X2jFHlRVB",
+     "expand": "https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/"
     }
    ],
    "retweeted_status": {
-    "id": 964540374873268200,
-    "id_str": "964540374873268225",
-    "created_at": "Fri Feb 16 16:42:00 +0000 2018",
-    "text": "Redux Rest Easy: A Library to Generate Redux Code - https://t.co/MJx2AwF9M4",
-    "retweet_count": 62,
-    "favorite_count": 174,
+    "id": 971696279263858700,
+    "id_str": "971696279263858689",
+    "created_at": "Thu Mar 08 10:37:00 +0000 2018",
+    "text": "How to Write CSS That Works in Every Browser, Even the Old Ones: https://t.co/9X2jFHlRVB (A great collection of vid… https://t.co/BrPIeEujcA",
+    "retweet_count": 76,
+    "favorite_count": 226,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/MJx2AwF9M4",
-      "expand": "https://engineering.brigad.co/introducing-redux-rest-easy-6e9a91af4f59"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965732944580108300,
-   "id_str": "965732944580108288",
-   "created_at": "Mon Feb 19 23:40:51 +0000 2018",
-   "text": "🎤Who'd give a JavaScript Weekly/@JavaScriptDaily podcast a listen? 🎧\n\nThinking short, news-focused, weekly, a dash… https://t.co/4MW4xYVppz",
-   "retweet_count": 15,
-   "favorite_count": 182,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/4MW4xYVppz",
-     "expand": "https://twitter.com/i/web/status/965732944580108288"
-    }
-   ]
-  },
-  {
-   "id": 965601377673195500,
-   "id_str": "965601377673195520",
-   "created_at": "Mon Feb 19 14:58:03 +0000 2018",
-   "text": "Choosing a JavaScript Build Tool: To Config or Not Config - https://t.co/OxIJVW9Hit",
-   "retweet_count": 98,
-   "favorite_count": 267,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/OxIJVW9Hit",
-     "expand": "https://dev.to/netlify/choosing-a-javascript-build-tool-to-config-or-not-config-2ia8"
-    }
-   ]
-  },
-  {
-   "id": 965569638556946400,
-   "id_str": "965569638556946432",
-   "created_at": "Mon Feb 19 12:51:55 +0000 2018",
-   "text": "RT @JavaScriptDaily: CityJSConf 2018: A JS Conference in the City of London - https://t.co/Whc5tjkBsf (Takes place on March 26, 2018 and wi…",
-   "retweet_count": 11,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/Whc5tjkBsf",
-     "expand": "http://cityjsconf.org/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965392743898984400,
-    "id_str": "965392743898984448",
-    "created_at": "Mon Feb 19 01:09:00 +0000 2018",
-    "text": "CityJSConf 2018: A JS Conference in the City of London - https://t.co/Whc5tjkBsf (Takes place on March 26, 2018 and… https://t.co/7P5BYf1gXc",
-    "retweet_count": 11,
-    "favorite_count": 16,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/Whc5tjkBsf",
-      "expand": "http://cityjsconf.org/"
+      "url": "https://t.co/9X2jFHlRVB",
+      "expand": "https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/"
      },
      {
-      "url": "https://t.co/7P5BYf1gXc",
-      "expand": "https://twitter.com/i/web/status/965392743898984448"
+      "url": "https://t.co/BrPIeEujcA",
+      "expand": "https://twitter.com/i/web/status/971696279263858689"
      }
     ]
    }
   },
   {
-   "id": 965568649997226000,
-   "id_str": "965568649997225984",
-   "created_at": "Mon Feb 19 12:48:00 +0000 2018",
-   "text": "Testing React with Enzyme and Jest: A Video Series - https://t.co/98q5xnvGAn (First five episodes are free.) #video",
-   "retweet_count": 21,
-   "favorite_count": 91,
+   "id": 971914472603430900,
+   "id_str": "971914472603430913",
+   "created_at": "Fri Mar 09 01:04:02 +0000 2018",
+   "text": "Wunderbar is a new Node module for rendering horizontal bar charts in the terminal: https://t.co/dcQFDlaBH5 - works… https://t.co/w0764igrET",
+   "retweet_count": 145,
+   "favorite_count": 518,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/98q5xnvGAn",
-     "expand": "https://javascriptplayground.com/testing-react-enzyme-jest/"
-    }
-   ]
-  },
-  {
-   "id": 965549526944747500,
-   "id_str": "965549526944747522",
-   "created_at": "Mon Feb 19 11:32:00 +0000 2018",
-   "text": "Blotter.js: An API to Draw Unconventional Text Effects on the Web - https://t.co/36j7ZRm1tr",
-   "retweet_count": 41,
-   "favorite_count": 138,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/36j7ZRm1tr",
-     "expand": "https://blotter.js.org/"
-    }
-   ]
-  },
-  {
-   "id": 965518067936780300,
-   "id_str": "965518067936780288",
-   "created_at": "Mon Feb 19 09:27:00 +0000 2018",
-   "text": "Migrating a Babel Project to TypeScript: https://t.co/8cwXT7Y9IB",
-   "retweet_count": 25,
-   "favorite_count": 70,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/8cwXT7Y9IB",
-     "expand": "https://medium.com/@wfortin/migrating-a-babel-project-to-typescript-af6cd0b451f4"
-    }
-   ]
-  },
-  {
-   "id": 965410112172064800,
-   "id_str": "965410112172064768",
-   "created_at": "Mon Feb 19 02:18:01 +0000 2018",
-   "text": "Building a Text-Based Adventure with Vue.js: https://t.co/g2qGHzOVyW (An unconventional but interesting odyssey for Vue.js.)",
-   "retweet_count": 27,
-   "favorite_count": 113,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/g2qGHzOVyW",
-     "expand": "https://www.raymondcamden.com/2018/02/14/building-a-text-based-adventure-in-vuejs/"
-    }
-   ]
-  },
-  {
-   "id": 965392743898984400,
-   "id_str": "965392743898984448",
-   "created_at": "Mon Feb 19 01:09:00 +0000 2018",
-   "text": "CityJSConf 2018: A JS Conference in the City of London - https://t.co/Whc5tjkBsf (Takes place on March 26, 2018 and… https://t.co/7P5BYf1gXc",
-   "retweet_count": 11,
-   "favorite_count": 16,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/Whc5tjkBsf",
-     "expand": "http://cityjsconf.org/"
+     "url": "https://t.co/dcQFDlaBH5",
+     "expand": "https://github.com/gribnoysup/wunderbar"
     },
     {
-     "url": "https://t.co/7P5BYf1gXc",
-     "expand": "https://twitter.com/i/web/status/965392743898984448"
+     "url": "https://t.co/w0764igrET",
+     "expand": "https://twitter.com/i/web/status/971914472603430913"
     }
    ]
   },
   {
-   "id": 965384950198538200,
-   "id_str": "965384950198538240",
-   "created_at": "Mon Feb 19 00:38:02 +0000 2018",
-   "text": "RT @rauschma: Composition and named capture groups make regular expressions easier to handle.\nhttps://t.co/VYVkrVxGSg https://t.co/15v7HVRX…",
-   "retweet_count": 500,
+   "id": 971891568583020500,
+   "id_str": "971891568583020544",
+   "created_at": "Thu Mar 08 23:33:01 +0000 2018",
+   "text": "Using Apache Kafka for Asynchronous Communication in Microservices: https://t.co/r2osw9zqGf",
+   "retweet_count": 70,
+   "favorite_count": 176,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r2osw9zqGf",
+     "expand": "https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/"
+    }
+   ]
+  },
+  {
+   "id": 971860106618032100,
+   "id_str": "971860106618032128",
+   "created_at": "Thu Mar 08 21:28:00 +0000 2018",
+   "text": "Moleculer: A Microservices Framework for Node - https://t.co/Cu4vDdNVMU",
+   "retweet_count": 111,
+   "favorite_count": 333,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Cu4vDdNVMU",
+     "expand": "https://moleculer.services/"
+    }
+   ]
+  },
+  {
+   "id": 971834966916071400,
+   "id_str": "971834966916071427",
+   "created_at": "Thu Mar 08 19:48:06 +0000 2018",
+   "text": "A really nice thread about TC39, the committee behind standardizing ECMAScript, how they consider decisions, and wh… https://t.co/bQIWEFh8mf",
+   "retweet_count": 17,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bQIWEFh8mf",
+     "expand": "https://twitter.com/i/web/status/971834966916071427"
+    }
+   ]
+  },
+  {
+   "id": 971818585059397600,
+   "id_str": "971818585059397632",
+   "created_at": "Thu Mar 08 18:43:00 +0000 2018",
+   "text": "fetch-lite: A Lightweight Module to Make HTTP Requests - https://t.co/xfdBPjYR6V",
+   "retweet_count": 17,
+   "favorite_count": 58,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xfdBPjYR6V",
+     "expand": "https://github.com/vasanthv/fetch-lite"
+    }
+   ]
+  },
+  {
+   "id": 971711497817731100,
+   "id_str": "971711497817731073",
+   "created_at": "Thu Mar 08 11:37:29 +0000 2018",
+   "text": "Understanding V8’s Bytecode — https://t.co/JpW5HhROSy (via @fhinkel)",
+   "retweet_count": 104,
+   "favorite_count": 282,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JpW5HhROSy",
+     "expand": "https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775"
+    }
+   ]
+  },
+  {
+   "id": 971574446594101200,
+   "id_str": "971574446594101248",
+   "created_at": "Thu Mar 08 02:32:53 +0000 2018",
+   "text": "Poll: If Array.prototype.flatten HAS to be renamed, what's the least terrible alternative?",
+   "retweet_count": 33,
+   "favorite_count": 53,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971572523417600000,
+   "id_str": "971572523417600006",
+   "created_at": "Thu Mar 08 02:25:15 +0000 2018",
+   "text": "There's a proposal to rename the Array \"flatten\" method to \"smoosh\" to avoid conflicting with MooTools:… https://t.co/x21DBJOO0k",
+   "retweet_count": 101,
+   "favorite_count": 243,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/x21DBJOO0k",
+     "expand": "https://twitter.com/i/web/status/971572523417600006"
+    }
+   ]
+  },
+  {
+   "id": 971322565879885800,
+   "id_str": "971322565879885824",
+   "created_at": "Wed Mar 07 09:52:00 +0000 2018",
+   "text": "RT @malyw: Private class fields (Stage 3) arrived in Chrome:\nhttps://t.co/7eyLKDJeSO\nand coming to Babel:\nhttps://t.co/gSQdkTop02 https://t…",
+   "retweet_count": 278,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -765,72 +3480,84 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/VYVkrVxGSg",
-     "expand": "http://2ality.com/2017/07/re-template-tag.html"
+     "url": "https://t.co/7eyLKDJeSO",
+     "expand": "https://github.com/tc39/proposal-class-fields"
+    },
+    {
+     "url": "https://t.co/gSQdkTop02",
+     "expand": "https://github.com/babel/proposals/issues/12"
     }
    ],
    "retweeted_status": {
-    "id": 965250882647576600,
-    "id_str": "965250882647576576",
-    "created_at": "Sun Feb 18 15:45:18 +0000 2018",
-    "text": "Composition and named capture groups make regular expressions easier to handle.\nhttps://t.co/VYVkrVxGSg https://t.co/15v7HVRXFQ",
-    "retweet_count": 500,
-    "favorite_count": 1642,
+    "id": 970659453925318700,
+    "id_str": "970659453925318656",
+    "created_at": "Mon Mar 05 13:57:02 +0000 2018",
+    "text": "Private class fields (Stage 3) arrived in Chrome:\nhttps://t.co/7eyLKDJeSO\nand coming to Babel:… https://t.co/lqI2I45RsJ",
+    "retweet_count": 278,
+    "favorite_count": 476,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/VYVkrVxGSg",
-      "expand": "http://2ality.com/2017/07/re-template-tag.html"
+      "url": "https://t.co/7eyLKDJeSO",
+      "expand": "https://github.com/tc39/proposal-class-fields"
+     },
+     {
+      "url": "https://t.co/lqI2I45RsJ",
+      "expand": "https://twitter.com/i/web/status/970659453925318656"
      }
     ]
    }
   },
   {
-   "id": 965365565320843300,
-   "id_str": "965365565320843265",
-   "created_at": "Sun Feb 18 23:21:01 +0000 2018",
-   "text": "How to keep your JavaScript code simple and increase its readability: https://t.co/gZQGMUeYJC",
-   "retweet_count": 132,
-   "favorite_count": 374,
+   "id": 971263175885717500,
+   "id_str": "971263175885717506",
+   "created_at": "Wed Mar 07 05:56:00 +0000 2018",
+   "text": "Building a Serverless Real-Time Chat App with AWS AppSync: https://t.co/6XQsLaKqew",
+   "retweet_count": 90,
+   "favorite_count": 275,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/gZQGMUeYJC",
-     "expand": "https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4"
+     "url": "https://t.co/6XQsLaKqew",
+     "expand": "https://aws.amazon.com/blogs/mobile/building-a-serverless-real-time-chat-application-with-aws-appsync/"
     }
    ]
   },
   {
-   "id": 965311709442396200,
-   "id_str": "965311709442396162",
-   "created_at": "Sun Feb 18 19:47:00 +0000 2018",
-   "text": "Babel 7.0 Is Nearly Here, So What's New? https://t.co/PJ6iMdsdOQ (A must read 'state of the union' type post from Babel's creator.)",
-   "retweet_count": 63,
-   "favorite_count": 177,
+   "id": 971200295492571100,
+   "id_str": "971200295492571136",
+   "created_at": "Wed Mar 07 01:46:09 +0000 2018",
+   "text": "📣Node 8.10 has been released: https://t.co/wxxwLus6ZZ – a huge LTS release for production systems with updates to V… https://t.co/4uthrMLAlX",
+   "retweet_count": 119,
+   "favorite_count": 205,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/PJ6iMdsdOQ",
-     "expand": "https://medium.freecodecamp.org/were-nearing-the-7-0-babel-release-here-s-all-the-cool-stuff-we-ve-been-doing-8c1ade684039"
+     "url": "https://t.co/wxxwLus6ZZ",
+     "expand": "https://nodejs.org/en/blog/release/v8.10.0/"
+    },
+    {
+     "url": "https://t.co/4uthrMLAlX",
+     "expand": "https://twitter.com/i/web/status/971200295492571136"
     }
    ]
   },
   {
-   "id": 965169044142911500,
-   "id_str": "965169044142911488",
-   "created_at": "Sun Feb 18 10:20:06 +0000 2018",
-   "text": "Using Prettier to Format Your JavaScript Code: https://t.co/hkEJ2xI0sq",
-   "retweet_count": 204,
-   "favorite_count": 673,
+   "id": 971093053749506000,
+   "id_str": "971093053749506048",
+   "created_at": "Tue Mar 06 18:40:00 +0000 2018",
+   "text": "RT @JavaScriptDaily: Using Prettier to Format Your JavaScript Code: https://t.co/hkEJ2xI0sq",
+   "retweet_count": 225,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
@@ -840,45 +3567,838 @@
      "url": "https://t.co/hkEJ2xI0sq",
      "expand": "https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/"
     }
-   ]
+   ],
+   "retweeted_status": {
+    "id": 965169044142911500,
+    "id_str": "965169044142911488",
+    "created_at": "Sun Feb 18 10:20:06 +0000 2018",
+    "text": "Using Prettier to Format Your JavaScript Code: https://t.co/hkEJ2xI0sq",
+    "retweet_count": 225,
+    "favorite_count": 713,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hkEJ2xI0sq",
+      "expand": "https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/"
+     }
+    ]
+   }
   },
   {
-   "id": 964998710542389200,
-   "id_str": "964998710542389248",
-   "created_at": "Sat Feb 17 23:03:16 +0000 2018",
-   "text": "Creating and Publishing Web Components with Stencil: https://t.co/W08RRIYY2z (Stencil is a tool for compiling moder… https://t.co/SCmkC5kFdC",
-   "retweet_count": 46,
-   "favorite_count": 106,
+   "id": 971065893479469000,
+   "id_str": "971065893479469056",
+   "created_at": "Tue Mar 06 16:52:05 +0000 2018",
+   "text": "RT @JavaScriptDaily: Propel is a NumPy-like framework for scientific computing with JavaScript: https://t.co/baHPhcGVhM\n\nNode and browser (…",
+   "retweet_count": 136,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/W08RRIYY2z",
-     "expand": "https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html"
-    },
+     "url": "https://t.co/baHPhcGVhM",
+     "expand": "http://propelml.org/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968166777787244500,
+    "id_str": "968166777787244544",
+    "created_at": "Mon Feb 26 16:52:02 +0000 2018",
+    "text": "Propel is a NumPy-like framework for scientific computing with JavaScript: https://t.co/baHPhcGVhM\n\nNode and browse… https://t.co/pIiSH3DFrB",
+    "retweet_count": 136,
+    "favorite_count": 381,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/baHPhcGVhM",
+      "expand": "http://propelml.org/"
+     },
+     {
+      "url": "https://t.co/pIiSH3DFrB",
+      "expand": "https://twitter.com/i/web/status/968166777787244544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971037203374723100,
+   "id_str": "971037203374723077",
+   "created_at": "Tue Mar 06 14:58:04 +0000 2018",
+   "text": "RT @JavaScriptDaily: TypeScript - JavaScript with Superpowers? https://t.co/Ewiho1CxTW (A very elementary introduction to the benefits of T…",
+   "retweet_count": 87,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
     {
-     "url": "https://t.co/SCmkC5kFdC",
-     "expand": "https://twitter.com/i/web/status/964998710542389248"
+     "url": "https://t.co/Ewiho1CxTW",
+     "expand": "https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969722773953228800,
+    "id_str": "969722773953228800",
+    "created_at": "Fri Mar 02 23:55:00 +0000 2018",
+    "text": "TypeScript - JavaScript with Superpowers? https://t.co/Ewiho1CxTW (A very elementary introduction to the benefits of TypeScript.)",
+    "retweet_count": 87,
+    "favorite_count": 247,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ewiho1CxTW",
+      "expand": "https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971009261735239700,
+   "id_str": "971009261735239681",
+   "created_at": "Tue Mar 06 13:07:03 +0000 2018",
+   "text": "RT @JavaScriptDaily: Using Prettier to Format Your JavaScript Code: https://t.co/hkEJ2xI0sq",
+   "retweet_count": 119,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hkEJ2xI0sq",
+     "expand": "https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968891582534516700,
+    "id_str": "968891582534516737",
+    "created_at": "Wed Feb 28 16:52:09 +0000 2018",
+    "text": "Using Prettier to Format Your JavaScript Code: https://t.co/hkEJ2xI0sq",
+    "retweet_count": 119,
+    "favorite_count": 382,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hkEJ2xI0sq",
+      "expand": "https://www.wisdomgeek.com/web-development/using-prettier-format-javascript-code/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970983077613854700,
+   "id_str": "970983077613854720",
+   "created_at": "Tue Mar 06 11:23:00 +0000 2018",
+   "text": "FilePond: A Flexible JS File Uploader with Great UX - https://t.co/slUMZpNcuu (It's GPLv3 licensed, however, so take care.)",
+   "retweet_count": 49,
+   "favorite_count": 160,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/slUMZpNcuu",
+     "expand": "https://pqina.nl/filepond/"
     }
    ]
   },
   {
-   "id": 964949320192716800,
-   "id_str": "964949320192716800",
-   "created_at": "Sat Feb 17 19:47:00 +0000 2018",
-   "text": "Async/Await Promise.all Array Destructuring: https://t.co/0OQR1oBsFC",
-   "retweet_count": 127,
-   "favorite_count": 334,
+   "id": 970961439061168100,
+   "id_str": "970961439061168128",
+   "created_at": "Tue Mar 06 09:57:01 +0000 2018",
+   "text": "RT @JavaScriptDaily: Pandora.js: A New Node Application Manager - https://t.co/5lkWA23stf https://t.co/E5qi1saj0W",
+   "retweet_count": 66,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/0OQR1oBsFC",
-     "expand": "https://www.dalejefferson.com/blog/async-await-promise-all-array-destructuring/"
+     "url": "https://t.co/5lkWA23stf",
+     "expand": "http://www.midwayjs.org/pandora/en/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969281884835450900,
+    "id_str": "969281884835450881",
+    "created_at": "Thu Mar 01 18:43:04 +0000 2018",
+    "text": "Pandora.js: A New Node Application Manager - https://t.co/5lkWA23stf https://t.co/E5qi1saj0W",
+    "retweet_count": 66,
+    "favorite_count": 202,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5lkWA23stf",
+      "expand": "http://www.midwayjs.org/pandora/en/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970893989917446100,
+   "id_str": "970893989917446145",
+   "created_at": "Tue Mar 06 05:29:00 +0000 2018",
+   "text": "Starting with Webpack 4 and Vue.js — A Quick-Start Tutorial: https://t.co/V0QaoE2rMm",
+   "retweet_count": 80,
+   "favorite_count": 289,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/V0QaoE2rMm",
+     "expand": "https://medium.com/justfrontendthings/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e"
+    }
+   ]
+  },
+  {
+   "id": 970854483948433400,
+   "id_str": "970854483948433408",
+   "created_at": "Tue Mar 06 02:52:01 +0000 2018",
+   "text": "Tracing From JS to the DOM and Back Again with V8: https://t.co/YyW0gpWvK9",
+   "retweet_count": 21,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YyW0gpWvK9",
+     "expand": "https://v8project.blogspot.com/2018/03/tracing-js-dom.html"
+    }
+   ]
+  },
+  {
+   "id": 970830827813851100,
+   "id_str": "970830827813851136",
+   "created_at": "Tue Mar 06 01:18:01 +0000 2018",
+   "text": "Jest Puppeteer - Easily use Puppeteer to control headless Chrome in your Jest tests: https://t.co/QzrQnTHHDh https://t.co/jDqVPM3PV4",
+   "retweet_count": 48,
+   "favorite_count": 168,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QzrQnTHHDh",
+     "expand": "https://github.com/smooth-code/jest-puppeteer"
+    }
+   ]
+  },
+  {
+   "id": 970816866955530200,
+   "id_str": "970816866955530240",
+   "created_at": "Tue Mar 06 00:22:32 +0000 2018",
+   "text": "RT @housecor: Ever use your Browser's console as a little scratchpad to try JavaScript? Now you can use VS Code as a REPL! \n\nInstall the Qu…",
+   "retweet_count": 230,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970672032617820200,
+    "id_str": "970672032617820160",
+    "created_at": "Mon Mar 05 14:47:01 +0000 2018",
+    "text": "Ever use your Browser's console as a little scratchpad to try JavaScript? Now you can use VS Code as a REPL! \n\nInst… https://t.co/CjEObFwmXo",
+    "retweet_count": 230,
+    "favorite_count": 716,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CjEObFwmXo",
+      "expand": "https://twitter.com/i/web/status/970672032617820160"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970805192747831300,
+   "id_str": "970805192747831297",
+   "created_at": "Mon Mar 05 23:36:09 +0000 2018",
+   "text": "Speed Measure Plugin: Measure Your webpack Build Speed - https://t.co/o2plsPWeO2 (.. in order to optimize it.)",
+   "retweet_count": 21,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/o2plsPWeO2",
+     "expand": "https://medium.com/@stephen.cook/announcing-smp-speeding-up-webpack-with-timers-8387d769e5c7"
+    }
+   ]
+  },
+  {
+   "id": 970790569604763600,
+   "id_str": "970790569604763648",
+   "created_at": "Mon Mar 05 22:38:02 +0000 2018",
+   "text": "The Origin Story of ESLint: https://t.co/DRZTapsnHf",
+   "retweet_count": 11,
+   "favorite_count": 41,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DRZTapsnHf",
+     "expand": "https://www.nczonline.net/blog/2018/02/the-inception-of-eslint/"
+    }
+   ]
+  },
+  {
+   "id": 970772948754817000,
+   "id_str": "970772948754817025",
+   "created_at": "Mon Mar 05 21:28:01 +0000 2018",
+   "text": "The Lost Art of the Makefile: https://t.co/1RdRXrKnJm (Stick your Unix hat on and use GNU Make to build JavaScript projects..)",
+   "retweet_count": 22,
+   "favorite_count": 54,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1RdRXrKnJm",
+     "expand": "http://www.olioapps.com/blog/the-lost-art-of-the-makefile/"
+    }
+   ]
+  },
+  {
+   "id": 970747779093028900,
+   "id_str": "970747779093028864",
+   "created_at": "Mon Mar 05 19:48:00 +0000 2018",
+   "text": "In The Loop: A Tour of the Event Loop - https://t.co/fkbIe8HaqC #video",
+   "retweet_count": 19,
+   "favorite_count": 85,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fkbIe8HaqC",
+     "expand": "https://www.youtube.com/watch?v=cCOL7MC4Pl0"
+    }
+   ]
+  },
+  {
+   "id": 970731444229361700,
+   "id_str": "970731444229361664",
+   "created_at": "Mon Mar 05 18:43:06 +0000 2018",
+   "text": "The Webpack 4.0 Release: What's New? https://t.co/8tbZpoXzul (A quick roundup of the features and improvements.)",
+   "retweet_count": 89,
+   "favorite_count": 168,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8tbZpoXzul",
+     "expand": "https://auth0.com/blog/webpack-4-release-what-is-new/"
+    }
+   ]
+  },
+  {
+   "id": 970703493492346900,
+   "id_str": "970703493492346883",
+   "created_at": "Mon Mar 05 16:52:02 +0000 2018",
+   "text": "Flatbush: Fast Static Spatial Index for 2D Points and Rects - https://t.co/5yTFZfQIQM",
+   "retweet_count": 10,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5yTFZfQIQM",
+     "expand": "https://github.com/mourner/flatbush"
+    }
+   ]
+  },
+  {
+   "id": 970674797616169000,
+   "id_str": "970674797616168961",
+   "created_at": "Mon Mar 05 14:58:00 +0000 2018",
+   "text": "Prompts: Attractive Interactive Prompts for Node CLIs - https://t.co/dk5zfjLVYD",
+   "retweet_count": 40,
+   "favorite_count": 104,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dk5zfjLVYD",
+     "expand": "https://github.com/terkelg/prompts"
+    }
+   ]
+  },
+  {
+   "id": 970642082447716400,
+   "id_str": "970642082447716352",
+   "created_at": "Mon Mar 05 12:48:00 +0000 2018",
+   "text": "Prepack: A Partial Evaluator and Optimizer for JavaScript - https://t.co/3xGOKWKnHm",
+   "retweet_count": 38,
+   "favorite_count": 87,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3xGOKWKnHm",
+     "expand": "https://github.com/facebook/prepack"
+    }
+   ]
+  },
+  {
+   "id": 970622976776384500,
+   "id_str": "970622976776384514",
+   "created_at": "Mon Mar 05 11:32:05 +0000 2018",
+   "text": "WebAssembly: What and What Next? https://t.co/PeImQsICR8 (Two Googlers cover WebAssembly right from the basics up.) #video",
+   "retweet_count": 34,
+   "favorite_count": 151,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PeImQsICR8",
+     "expand": "https://www.youtube.com/watch?v=R9wn99Xheq4"
+    }
+   ]
+  },
+  {
+   "id": 970591497484689400,
+   "id_str": "970591497484689409",
+   "created_at": "Mon Mar 05 09:27:00 +0000 2018",
+   "text": "RT @reactdaily: Bringing Virtual Reality to the Browser with ReactVR: https://t.co/2gupn6ET5s (Getting started with ReactVR, a combination…",
+   "retweet_count": 42,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2gupn6ET5s",
+     "expand": "https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968931088512012300,
+    "id_str": "968931088512012288",
+    "created_at": "Wed Feb 28 19:29:08 +0000 2018",
+    "text": "Bringing Virtual Reality to the Browser with ReactVR: https://t.co/2gupn6ET5s (Getting started with ReactVR, a comb… https://t.co/GXoCH8pjFJ",
+    "retweet_count": 42,
+    "favorite_count": 166,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2gupn6ET5s",
+      "expand": "https://medium.com/swinginc/bring-virtual-reality-to-your-browser-with-reactvr-fd9dc62aa8b1"
+     },
+     {
+      "url": "https://t.co/GXoCH8pjFJ",
+      "expand": "https://twitter.com/i/web/status/968931088512012288"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970483539002249200,
+   "id_str": "970483539002249216",
+   "created_at": "Mon Mar 05 02:18:01 +0000 2018",
+   "text": "Coroute: A Node-Based HTTP Reverse-Proxy Server - https://t.co/8xcxCPleFl",
+   "retweet_count": 43,
+   "favorite_count": 189,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8xcxCPleFl",
+     "expand": "https://github.com/ethanent/coroute"
+    }
+   ]
+  },
+  {
+   "id": 970466171035246600,
+   "id_str": "970466171035246593",
+   "created_at": "Mon Mar 05 01:09:00 +0000 2018",
+   "text": "Delighters.js: Trigger CSS Animations as a Page is Scrolled - https://t.co/cBGrKeTuUS",
+   "retweet_count": 84,
+   "favorite_count": 240,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cBGrKeTuUS",
+     "expand": "https://q42.github.io/delighters/"
+    }
+   ]
+  },
+  {
+   "id": 970439005761425400,
+   "id_str": "970439005761425410",
+   "created_at": "Sun Mar 04 23:21:03 +0000 2018",
+   "text": "RT @CodeWisdom: \"So much complexity in software comes from trying to make one thing do two things.\" – Ryan Singer",
+   "retweet_count": 883,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968184103735611400,
+    "id_str": "968184103735611392",
+    "created_at": "Mon Feb 26 18:00:52 +0000 2018",
+    "text": "\"So much complexity in software comes from trying to make one thing do two things.\" – Ryan Singer",
+    "retweet_count": 883,
+    "favorite_count": 1975,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 970385144296149000,
+   "id_str": "970385144296148993",
+   "created_at": "Sun Mar 04 19:47:01 +0000 2018",
+   "text": "Health Checks and Graceful Shutdown for Node Apps: https://t.co/FgLyex0Oxq (A brief introduction to GoDaddy's terminus project.)",
+   "retweet_count": 31,
+   "favorite_count": 91,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FgLyex0Oxq",
+     "expand": "https://godaddy.github.io/2018/02/22/announcing-terminus/"
+    }
+   ]
+  },
+  {
+   "id": 970242468775161900,
+   "id_str": "970242468775161856",
+   "created_at": "Sun Mar 04 10:20:05 +0000 2018",
+   "text": "Tippy.js: A Lightweight, Vanilla JS Tooltip Library - https://t.co/3nrNMF4Kjg https://t.co/Vrx5vBDj49",
+   "retweet_count": 85,
+   "favorite_count": 306,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3nrNMF4Kjg",
+     "expand": "https://atomiks.github.io/tippyjs/"
+    }
+   ]
+  },
+  {
+   "id": 970072080590008300,
+   "id_str": "970072080590008320",
+   "created_at": "Sat Mar 03 23:03:01 +0000 2018",
+   "text": "Properly Measuring HTTP Request Time with Node: https://t.co/5Bfk88MzEH https://t.co/fbIHudIFS9",
+   "retweet_count": 55,
+   "favorite_count": 185,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5Bfk88MzEH",
+     "expand": "https://jj09.net/properly-measuring-http-request-time-with-node-js/"
+    }
+   ]
+  },
+  {
+   "id": 970059993029468200,
+   "id_str": "970059993029468161",
+   "created_at": "Sat Mar 03 22:14:59 +0000 2018",
+   "text": "RIP PhantomJS: https://t.co/lQ0hHWty4Z \n\nAlternatives include..\n* Headless Chrome via Puppeteer:… https://t.co/CK8kZ7RMxN",
+   "retweet_count": 489,
+   "favorite_count": 622,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lQ0hHWty4Z",
+     "expand": "https://github.com/ariya/phantomjs/issues/15344"
+    },
+    {
+     "url": "https://t.co/CK8kZ7RMxN",
+     "expand": "https://twitter.com/i/web/status/970059993029468161"
+    }
+   ]
+  },
+  {
+   "id": 970036898793164800,
+   "id_str": "970036898793164800",
+   "created_at": "Sat Mar 03 20:43:13 +0000 2018",
+   "text": "RT @left_pad: I've left my job to work on open source full time!\n\nI just launched a Patreon at https://t.co/cYPsEme8iE so if you want to su…",
+   "retweet_count": 775,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cYPsEme8iE",
+     "expand": "https://www.patreon.com/henryzhu"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969793227862790100,
+    "id_str": "969793227862790144",
+    "created_at": "Sat Mar 03 04:34:58 +0000 2018",
+    "text": "I've left my job to work on open source full time!\n\nI just launched a Patreon at https://t.co/cYPsEme8iE so if you… https://t.co/BLGzi2tXLQ",
+    "retweet_count": 775,
+    "favorite_count": 2478,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cYPsEme8iE",
+      "expand": "https://www.patreon.com/henryzhu"
+     },
+     {
+      "url": "https://t.co/BLGzi2tXLQ",
+      "expand": "https://twitter.com/i/web/status/969793227862790144"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970022754358579200,
+   "id_str": "970022754358579200",
+   "created_at": "Sat Mar 03 19:47:01 +0000 2018",
+   "text": "vue-cli: A CLI for Faster Vue.js Development - https://t.co/vmcjbbiRbX",
+   "retweet_count": 26,
+   "favorite_count": 125,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vmcjbbiRbX",
+     "expand": "https://github.com/vuejs/vue-cli"
+    }
+   ]
+  },
+  {
+   "id": 969880815097274400,
+   "id_str": "969880815097274368",
+   "created_at": "Sat Mar 03 10:23:00 +0000 2018",
+   "text": "RT @wesbos: The 2018 Front End Tooling survey is up! It’s your duty as a developer to take this survey :) \n\nhttps://t.co/zZ4bbKniXV",
+   "retweet_count": 169,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zZ4bbKniXV",
+     "expand": "https://medium.freecodecamp.org/launching-the-front-end-tooling-survey-2018-927bf975fdf0"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969591674556043300,
+    "id_str": "969591674556043264",
+    "created_at": "Fri Mar 02 15:14:04 +0000 2018",
+    "text": "The 2018 Front End Tooling survey is up! It’s your duty as a developer to take this survey :) \n\nhttps://t.co/zZ4bbKniXV",
+    "retweet_count": 169,
+    "favorite_count": 315,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zZ4bbKniXV",
+      "expand": "https://medium.freecodecamp.org/launching-the-front-end-tooling-survey-2018-927bf975fdf0"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969722773953228800,
+   "id_str": "969722773953228800",
+   "created_at": "Fri Mar 02 23:55:00 +0000 2018",
+   "text": "TypeScript - JavaScript with Superpowers? https://t.co/Ewiho1CxTW (A very elementary introduction to the benefits of TypeScript.)",
+   "retweet_count": 87,
+   "favorite_count": 247,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ewiho1CxTW",
+     "expand": "https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9"
+    }
+   ]
+  },
+  {
+   "id": 969703432465641500,
+   "id_str": "969703432465641473",
+   "created_at": "Fri Mar 02 22:38:09 +0000 2018",
+   "text": "Securing Your GraphQL API from Malicious Queries: https://t.co/bkXHYDzvxL (Some essential protections for your API.)",
+   "retweet_count": 67,
+   "favorite_count": 189,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bkXHYDzvxL",
+     "expand": "https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b"
+    }
+   ]
+  },
+  {
+   "id": 969681755497287700,
+   "id_str": "969681755497287681",
+   "created_at": "Fri Mar 02 21:12:00 +0000 2018",
+   "text": "Ember's Equivalent of React's Render Props: https://t.co/rY8SQx4daW",
+   "retweet_count": 4,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rY8SQx4daW",
+     "expand": "https://thejsguy.com/2018/02/25/react-patterns-in-ember-render-props.html"
+    }
+   ]
+  },
+  {
+   "id": 969660612920991700,
+   "id_str": "969660612920991749",
+   "created_at": "Fri Mar 02 19:48:00 +0000 2018",
+   "text": "Osiris: Simple Event Sourcing for Node - https://t.co/60XaonXfhL",
+   "retweet_count": 5,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/60XaonXfhL",
+     "expand": "https://github.com/assafg/osiris"
+    }
+   ]
+  },
+  {
+   "id": 969644255391215600,
+   "id_str": "969644255391215616",
+   "created_at": "Fri Mar 02 18:43:00 +0000 2018",
+   "text": "Implementing Microservice Discovery in 100 Lines of Node.js: https://t.co/TrDECPNynh (Yes, a slidedeck, but a very… https://t.co/43TcW9wGfJ",
+   "retweet_count": 43,
+   "favorite_count": 133,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TrDECPNynh",
+     "expand": "https://github.com/asyncanup/vasco/blob/33b878b3ae43f2c75197ea3e93afa0876ce990de/vasco-talk.pdf"
+    },
+    {
+     "url": "https://t.co/43TcW9wGfJ",
+     "expand": "https://twitter.com/i/web/status/969644255391215616"
+    }
+   ]
+  },
+  {
+   "id": 969621936778117100,
+   "id_str": "969621936778117121",
+   "created_at": "Fri Mar 02 17:14:19 +0000 2018",
+   "text": "See what's new in the world of JS with JavaScript Weekly ⚡️Check your inbox, or catch up online here:… https://t.co/SmBhisnUlz",
+   "retweet_count": 9,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SmBhisnUlz",
+     "expand": "https://twitter.com/i/web/status/969621936778117121"
+    }
+   ]
+  },
+  {
+   "id": 980374210223706100,
+   "id_str": "980374210223706112",
+   "created_at": "Sun Apr 01 09:20:00 +0000 2018",
+   "text": "Key Lessons from Google's JavaScript Style Guide: https://t.co/6mnC9eQdm6",
+   "retweet_count": 152,
+   "favorite_count": 454,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6mnC9eQdm6",
+     "expand": "https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b"
     }
    ]
   }

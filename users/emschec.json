@@ -1,12 +1,12 @@
 {
- "time": 1519367433576,
+ "time": 1522595207972,
  "lists": [
   {
-   "id": 965013301246574600,
-   "id_str": "965013301246574592",
-   "created_at": "Sun Feb 18 00:01:14 +0000 2018",
-   "text": "RT @lulu_cheng: I got 99 tabs but I generally know where things are https://t.co/fRhjqpOENh",
-   "retweet_count": 23083,
+   "id": 979580569938833400,
+   "id_str": "979580569938833408",
+   "created_at": "Fri Mar 30 04:46:22 +0000 2018",
+   "text": "RT @LocoMocoSec: Emily Schechter, Chrome #Security Product Manager @Google, will share research from the Chrome Security team in her talk \"…",
+   "retweet_count": 6,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -14,17 +14,743 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964947708275343400,
-    "id_str": "964947708275343361",
-    "created_at": "Sat Feb 17 19:40:36 +0000 2018",
-    "text": "I got 99 tabs but I generally know where things are https://t.co/fRhjqpOENh",
-    "retweet_count": 23083,
-    "favorite_count": 71761,
+    "id": 979417703021649900,
+    "id_str": "979417703021649921",
+    "created_at": "Thu Mar 29 17:59:11 +0000 2018",
+    "text": "Emily Schechter, Chrome #Security Product Manager @Google, will share research from the Chrome Security team in her… https://t.co/41JhPUe9KO",
+    "retweet_count": 6,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/41JhPUe9KO",
+      "expand": "https://twitter.com/i/web/status/979417703021649921"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979578455619768300,
+   "id_str": "979578455619768321",
+   "created_at": "Fri Mar 30 04:37:58 +0000 2018",
+   "text": "RT @igrigorik: great explanation of Certificate Transparency (why, how it works, etc) by @grittygrease: https://t.co/ZUhEFltJYO - bonus, ni…",
+   "retweet_count": 67,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZUhEFltJYO",
+     "expand": "http://bit.ly/2pNKpaA"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979444973329252400,
+    "id_str": "979444973329252352",
+    "created_at": "Thu Mar 29 19:47:33 +0000 2018",
+    "text": "great explanation of Certificate Transparency (why, how it works, etc) by @grittygrease: https://t.co/ZUhEFltJYO -… https://t.co/KIKiuOhMHS",
+    "retweet_count": 67,
+    "favorite_count": 190,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZUhEFltJYO",
+      "expand": "http://bit.ly/2pNKpaA"
+     },
+     {
+      "url": "https://t.co/KIKiuOhMHS",
+      "expand": "https://twitter.com/i/web/status/979444973329252352"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979578406084911100,
+   "id_str": "979578406084911109",
+   "created_at": "Fri Mar 30 04:37:46 +0000 2018",
+   "text": "RT @nasko: We have enabled Site Isolation on Chrome Beta to ensure we get as much coverage as possible before making it the default. If you…",
+   "retweet_count": 66,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979467478832111600,
+    "id_str": "979467478832111616",
+    "created_at": "Thu Mar 29 21:16:59 +0000 2018",
+    "text": "We have enabled Site Isolation on Chrome Beta to ensure we get as much coverage as possible before making it the de… https://t.co/07PybQNYBL",
+    "retweet_count": 66,
+    "favorite_count": 109,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/07PybQNYBL",
+      "expand": "https://twitter.com/i/web/status/979467478832111616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978710149870186500,
+   "id_str": "978710149870186496",
+   "created_at": "Tue Mar 27 19:07:37 +0000 2018",
+   "text": "hey @Apple please stop autocorrecting \"hii\" to \"GUI\". i'm literally always trying to text \"hii\" and never trying to text \"GUI\".",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 977330151871496200,
+   "id_str": "977330151871496193",
+   "created_at": "Fri Mar 23 23:44:00 +0000 2018",
+   "text": "RT @jtemple: It’s possible we called this one wrong https://t.co/kMLXosfqDn",
+   "retweet_count": 5713,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977286862321549300,
+    "id_str": "977286862321549312",
+    "created_at": "Fri Mar 23 20:51:59 +0000 2018",
+    "text": "It’s possible we called this one wrong https://t.co/kMLXosfqDn",
+    "retweet_count": 5713,
+    "favorite_count": 18714,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
+   }
+  },
+  {
+   "id": 977044805938131000,
+   "id_str": "977044805938130945",
+   "created_at": "Fri Mar 23 04:50:09 +0000 2018",
+   "text": "2 fast 2 furious https://t.co/Ma9p4MJ0uL",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ma9p4MJ0uL",
+     "expand": "https://twitter.com/sfgate/status/976929992180297728"
+    }
+   ]
+  },
+  {
+   "id": 976597250796224500,
+   "id_str": "976597250796224513",
+   "created_at": "Wed Mar 21 23:11:43 +0000 2018",
+   "text": "@egmorant https://t.co/GML9eKMrpC",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974549288872132600,
+   "in_reply_to_status_id_str": "974549288872132608",
+   "in_reply_to_screen_name": "egmorant",
+   "urls": [
+    {
+     "url": "https://t.co/GML9eKMrpC",
+     "expand": "https://www.youtube.com/watch?v=4IRB0sxw-YU"
+    }
+   ]
+  },
+  {
+   "id": 974440312193015800,
+   "id_str": "974440312193015808",
+   "created_at": "Fri Mar 16 00:20:49 +0000 2018",
+   "text": "Good news! We’re ending this, 3p code injection will be blocked in a few releases 😁 https://t.co/qI1W7nVqZJ https://t.co/SLUSdaq34E",
+   "retweet_count": 21,
+   "favorite_count": 80,
+   "place": "California, USA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qI1W7nVqZJ",
+     "expand": "https://blog.chromium.org/2017/11/reducing-chrome-crashes-caused-by-third.html?m=1"
+    },
+    {
+     "url": "https://t.co/SLUSdaq34E",
+     "expand": "https://twitter.com/swiftonsecurity/status/974408573013852166"
+    }
+   ]
+  },
+  {
+   "id": 974437288192098300,
+   "id_str": "974437288192098304",
+   "created_at": "Fri Mar 16 00:08:48 +0000 2018",
+   "text": "@laparisa @estark37 come back quickly so we can talk about doughKRs!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 974383092566671400,
+   "in_reply_to_status_id_str": "974383092566671360",
+   "in_reply_to_screen_name": "laparisa",
+   "urls": []
+  },
+  {
+   "id": 973669451487834100,
+   "id_str": "973669451487834112",
+   "created_at": "Tue Mar 13 21:17:41 +0000 2018",
+   "text": "RT @AlexiPappas: write down your goals\ncommit yourself full\nsurround yourself with those\nwho make you feel whole\neat lots of steak\n&amp; when y…",
+   "retweet_count": 202,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973644741442134000,
+    "id_str": "973644741442134016",
+    "created_at": "Tue Mar 13 19:39:30 +0000 2018",
+    "text": "write down your goals\ncommit yourself full\nsurround yourself with those\nwho make you feel whole\neat lots of steak\n&amp;… https://t.co/wk8xQpU6ox",
+    "retweet_count": 202,
+    "favorite_count": 850,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wk8xQpU6ox",
+      "expand": "https://twitter.com/i/web/status/973644741442134016"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973628826893787100,
+   "id_str": "973628826893787136",
+   "created_at": "Tue Mar 13 18:36:16 +0000 2018",
+   "text": "RT @Percival: Mobile user experience, Europe (2018) https://t.co/B7KdQEhTlI",
+   "retweet_count": 2536,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972790429384093700,
+    "id_str": "972790429384093696",
+    "created_at": "Sun Mar 11 11:04:46 +0000 2018",
+    "text": "Mobile user experience, Europe (2018) https://t.co/B7KdQEhTlI",
+    "retweet_count": 2536,
+    "favorite_count": 4399,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 973626358537470000,
+   "id_str": "973626358537469952",
+   "created_at": "Tue Mar 13 18:26:27 +0000 2018",
+   "text": "RT @letsencrypt: Let's Encrypt wildcard certificates and ACMEv2 are available today! More information can be found here: https://t.co/0SdH9…",
+   "retweet_count": 3490,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973607502188195800,
+    "id_str": "973607502188195840",
+    "created_at": "Tue Mar 13 17:11:31 +0000 2018",
+    "text": "Let's Encrypt wildcard certificates and ACMEv2 are available today! More information can be found here: https://t.co/0SdH98Oabn",
+    "retweet_count": 3490,
+    "favorite_count": 3808,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0SdH98Oabn",
+      "expand": "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972991091715821600,
+   "id_str": "972991091715821568",
+   "created_at": "Mon Mar 12 00:22:08 +0000 2018",
+   "text": "@owencm Not definitely unsafe",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972752736713285600,
+   "in_reply_to_status_id_str": "972752736713285632",
+   "in_reply_to_screen_name": "owencm",
+   "urls": []
+  },
+  {
+   "id": 972249108546285600,
+   "id_str": "972249108546285570",
+   "created_at": "Fri Mar 09 23:13:45 +0000 2018",
+   "text": "RT @selenalarson: I'm at a wi-fi security talk at sxsw and people in the audience look very excited learning facts about wi-fi. it's great.",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972226231121993700,
+    "id_str": "972226231121993731",
+    "created_at": "Fri Mar 09 21:42:51 +0000 2018",
+    "text": "I'm at a wi-fi security talk at sxsw and people in the audience look very excited learning facts about wi-fi. it's great.",
+    "retweet_count": 4,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 972208440297906200,
+   "id_str": "972208440297906176",
+   "created_at": "Fri Mar 09 20:32:09 +0000 2018",
+   "text": "RT @Cloudflare: If you are at #SXSW you can still catch our own @thedanigrant on the \"Should I Use This WiFi?\" panel with @emschec (Google)…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972207591337185300,
+    "id_str": "972207591337185280",
+    "created_at": "Fri Mar 09 20:28:47 +0000 2018",
+    "text": "If you are at #SXSW you can still catch our own @thedanigrant on the \"Should I Use This WiFi?\" panel with @emschec… https://t.co/M6Ydunltjw",
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/M6Ydunltjw",
+      "expand": "https://twitter.com/i/web/status/972207591337185280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971520924909367300,
+   "id_str": "971520924909367296",
+   "created_at": "Wed Mar 07 23:00:13 +0000 2018",
+   "text": "@__apf__ @DasSurma I found 3 separate notes to self saying “write PRD” so... I better get on that",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 971491642258542600,
+   "in_reply_to_status_id_str": "971491642258542592",
+   "in_reply_to_screen_name": "__apf__",
+   "urls": []
+  },
+  {
+   "id": 971473968942100500,
+   "id_str": "971473968942100480",
+   "created_at": "Wed Mar 07 19:53:37 +0000 2018",
+   "text": "Update on Symantec PKI distrust: breakage imminent, action needed! https://t.co/SYcJUCTKcu",
+   "retweet_count": 10,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SYcJUCTKcu",
+     "expand": "https://security.googleblog.com/2018/03/distrust-of-symantec-pki-immediate.html"
+    }
+   ]
+  },
+  {
+   "id": 971152412273623000,
+   "id_str": "971152412273623040",
+   "created_at": "Tue Mar 06 22:35:52 +0000 2018",
+   "text": "RT @owencm: Trust SF to have a Twitter bot that cries out when the tsunami siren 📣🚨 goes off 🙃 https://t.co/gIggBXwSs7",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gIggBXwSs7",
+     "expand": "https://twitter.com/SFSiren/status/971113189411835904"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971116805161812000,
+    "id_str": "971116805161811968",
+    "created_at": "Tue Mar 06 20:14:23 +0000 2018",
+    "text": "Trust SF to have a Twitter bot that cries out when the tsunami siren 📣🚨 goes off 🙃 https://t.co/gIggBXwSs7",
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gIggBXwSs7",
+      "expand": "https://twitter.com/SFSiren/status/971113189411835904"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970792154942468100,
+   "id_str": "970792154942468097",
+   "created_at": "Mon Mar 05 22:44:20 +0000 2018",
+   "text": "if the wifi has a lock icon, and the site has a lock icon... is it safe? 🤔 !THIS FRIDAY if you're at @sxsw, hear ou… https://t.co/E7Xs5j19hv",
+   "retweet_count": 10,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/E7Xs5j19hv",
+     "expand": "https://twitter.com/i/web/status/970792154942468097"
+    }
+   ]
+  },
+  {
+   "id": 970769802183635000,
+   "id_str": "970769802183634944",
+   "created_at": "Mon Mar 05 21:15:31 +0000 2018",
+   "text": "omg wow THIS LOOKS AMAZING https://t.co/fxbs3mtPct",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fxbs3mtPct",
+     "expand": "https://twitter.com/lhautala/status/970765582474727424"
+    }
+   ]
+  },
+  {
+   "id": 970769368345817100,
+   "id_str": "970769368345817088",
+   "created_at": "Mon Mar 05 21:13:48 +0000 2018",
+   "text": "RT @laparisa: See you at #OURSA18 on April 17 in SF! The security community has a tremendous diversity of talent and perspectives. I’m exci…",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970706122725208000,
+    "id_str": "970706122725208064",
+    "created_at": "Mon Mar 05 17:02:29 +0000 2018",
+    "text": "See you at #OURSA18 on April 17 in SF! The security community has a tremendous diversity of talent and perspectives… https://t.co/EZ3chc05lr",
+    "retweet_count": 33,
+    "favorite_count": 93,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EZ3chc05lr",
+      "expand": "https://twitter.com/i/web/status/970706122725208064"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970457459402801200,
+   "id_str": "970457459402801153",
+   "created_at": "Mon Mar 05 00:34:23 +0000 2018",
+   "text": "RT @feistyduck: Bulletproof TLS Newsletter is out! Chrome will mark HTTP pages as not secure and all the latest TLS news! https://t.co/0F66…",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968800519069274100,
+    "id_str": "968800519069274112",
+    "created_at": "Wed Feb 28 10:50:17 +0000 2018",
+    "text": "Bulletproof TLS Newsletter is out! Chrome will mark HTTP pages as not secure and all the latest TLS news! https://t.co/0F66loZ0iN",
+    "retweet_count": 29,
+    "favorite_count": 35,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0F66loZ0iN",
+      "expand": "https://www.feistyduck.com/bulletproof-tls-newsletter/issue_38_chrome_will_mark_http_pages_as_not_secure"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970365996711133200,
+   "id_str": "970365996711133185",
+   "created_at": "Sun Mar 04 18:30:56 +0000 2018",
+   "text": "@sashaperigo devacurl nopoo!! shhh don’t tell anyone",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970128933256491000,
+   "in_reply_to_status_id_str": "970128933256491014",
+   "in_reply_to_screen_name": "sashaperigo",
+   "urls": []
+  },
+  {
+   "id": 969756217407979500,
+   "id_str": "969756217407979520",
+   "created_at": "Sat Mar 03 02:07:54 +0000 2018",
+   "text": "@BenLaurie @__apf__ good luck with that, maybe try silk road or haight street",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 969754509554708500,
+   "in_reply_to_status_id_str": "969754509554708480",
+   "in_reply_to_screen_name": "BenLaurie",
+   "urls": []
+  },
+  {
+   "id": 969753281869185000,
+   "id_str": "969753281869185024",
+   "created_at": "Sat Mar 03 01:56:14 +0000 2018",
+   "text": "RT @jack: We simply can’t and don’t want to do this alone. So we’re seeking help by opening up an RFP process to cast the widest net possib…",
+   "retweet_count": 638,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969234287881957400,
+    "id_str": "969234287881957376",
+    "created_at": "Thu Mar 01 15:33:56 +0000 2018",
+    "text": "We simply can’t and don’t want to do this alone. So we’re seeking help by opening up an RFP process to cast the wid… https://t.co/3mDYcNihCF",
+    "retweet_count": 638,
+    "favorite_count": 1360,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": 969234286770450400,
+    "in_reply_to_status_id_str": "969234286770450432",
+    "in_reply_to_screen_name": "jack",
+    "urls": [
+     {
+      "url": "https://t.co/3mDYcNihCF",
+      "expand": "https://twitter.com/i/web/status/969234287881957376"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969671556937891800,
+   "id_str": "969671556937891840",
+   "created_at": "Fri Mar 02 20:31:29 +0000 2018",
+   "text": "i mean https://t.co/dirkJa3YXZ",
+   "retweet_count": 0,
+   "favorite_count": 26,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dirkJa3YXZ",
+     "expand": "https://twitter.com/mrtrustico/status/969325196028137472"
+    }
+   ]
+  },
+  {
+   "id": 969670501764292600,
+   "id_str": "969670501764292608",
+   "created_at": "Fri Mar 02 20:27:17 +0000 2018",
+   "text": "@FiloSottile YAY welcome!!!! 🎉",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969342918313107500,
+   "in_reply_to_status_id_str": "969342918313107456",
+   "in_reply_to_screen_name": "FiloSottile",
+   "urls": []
+  },
+  {
+   "id": 969670274877603800,
+   "id_str": "969670274877603841",
+   "created_at": "Fri Mar 02 20:26:23 +0000 2018",
+   "text": "i was singing loudly about “peppermint trees and a lake of soda pop” while the guy sung “cigarette trees and lake of whiskey”. LIESSSS",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 969669444858359800,
+   "in_reply_to_status_id_str": "969669444858359808",
+   "in_reply_to_screen_name": "emschec",
+   "urls": []
+  },
+  {
+   "id": 969669444858359800,
+   "id_str": "969669444858359808",
+   "created_at": "Fri Mar 02 20:23:05 +0000 2018",
+   "text": "at a concert last night i heard a band sing the original version of “big rock candy mountain” and was so traumatize… https://t.co/m6gwOI6X9H",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": "San Francisco, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/m6gwOI6X9H",
+     "expand": "https://twitter.com/i/web/status/969669444858359808"
+    }
+   ]
+  },
+  {
+   "id": 968743532390469600,
+   "id_str": "968743532390469632",
+   "created_at": "Wed Feb 28 07:03:51 +0000 2018",
+   "text": "RT @bgalbs: Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive it forward.…",
+   "retweet_count": 103,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968714821628780500,
+    "id_str": "968714821628780544",
+    "created_at": "Wed Feb 28 05:09:45 +0000 2018",
+    "text": "Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive… https://t.co/uaqiVrXU1y",
+    "retweet_count": 103,
+    "favorite_count": 266,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uaqiVrXU1y",
+      "expand": "https://twitter.com/i/web/status/968714821628780544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968375427881463800,
+   "id_str": "968375427881463808",
+   "created_at": "Tue Feb 27 06:41:08 +0000 2018",
+   "text": "RT @firefox: [ENCRYPTION INTENSIFIES] https://t.co/UHqACCw2ve",
+   "retweet_count": 132,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UHqACCw2ve",
+     "expand": "https://twitter.com/letsencrypt/status/968172269003403265"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968228820145684500,
+    "id_str": "968228820145684480",
+    "created_at": "Mon Feb 26 20:58:34 +0000 2018",
+    "text": "[ENCRYPTION INTENSIFIES] https://t.co/UHqACCw2ve",
+    "retweet_count": 132,
+    "favorite_count": 462,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UHqACCw2ve",
+      "expand": "https://twitter.com/letsencrypt/status/968172269003403265"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968030922225344500,
+   "id_str": "968030922225344512",
+   "created_at": "Mon Feb 26 07:52:11 +0000 2018",
+   "text": "RT @arrkay: THREAD. Emma Gonzales is president of the Gay-Straight Alliance. [1] \n\nI was president of my GSA too, then organized LGBTQ yout…",
+   "retweet_count": 402,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967572497070669800,
+    "id_str": "967572497070669825",
+    "created_at": "Sun Feb 25 01:30:34 +0000 2018",
+    "text": "THREAD. Emma Gonzales is president of the Gay-Straight Alliance. [1] \n\nI was president of my GSA too, then organize… https://t.co/t9WNVa23l7",
+    "retweet_count": 402,
+    "favorite_count": 1075,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/t9WNVa23l7",
+      "expand": "https://twitter.com/i/web/status/967572497070669825"
+     }
+    ]
    }
   }
  ]

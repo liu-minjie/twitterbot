@@ -1,6 +1,312 @@
 {
- "time": 1519367434581,
+ "time": 1522595209590,
  "lists": [
+  {
+   "id": 979280689353896000,
+   "id_str": "979280689353895936",
+   "created_at": "Thu Mar 29 08:54:45 +0000 2018",
+   "text": "RT @Cneelis: Just released p0wnedShell v2.5.\nA RedTeam Swiss Army Knife for Windows Based Systems.\n\nMost important changes: Runs from a Met…",
+   "retweet_count": 407,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979095619448004600,
+    "id_str": "979095619448004609",
+    "created_at": "Wed Mar 28 20:39:21 +0000 2018",
+    "text": "Just released p0wnedShell v2.5.\nA RedTeam Swiss Army Knife for Windows Based Systems.\n\nMost important changes: Runs… https://t.co/nJhJjKkVIe",
+    "retweet_count": 407,
+    "favorite_count": 678,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nJhJjKkVIe",
+      "expand": "https://twitter.com/i/web/status/979095619448004609"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977800895982424000,
+   "id_str": "977800895982424064",
+   "created_at": "Sun Mar 25 06:54:34 +0000 2018",
+   "text": "@avlidienbrunn @filedescriptor @0x6D6172696F @0xSobky @garethheyes @kinugawamasato @molnar_g @cgvwzq sorry for the delay but, solved =P",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 895659755544354800,
+   "in_reply_to_status_id_str": "895659755544354816",
+   "in_reply_to_screen_name": "avlidienbrunn",
+   "urls": []
+  },
+  {
+   "id": 977605695825641500,
+   "id_str": "977605695825641472",
+   "created_at": "Sat Mar 24 17:58:55 +0000 2018",
+   "text": "just made a working 𝟒𝟐𝟔 𝐛𝐲𝐭𝐞𝐬 solution, no longer relevant but still fun :P",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977197147908173800,
+   "in_reply_to_status_id_str": "977197147908173831",
+   "in_reply_to_screen_name": "BenHayak",
+   "urls": []
+  },
+  {
+   "id": 977246007539978200,
+   "id_str": "977246007539978240",
+   "created_at": "Fri Mar 23 18:09:39 +0000 2018",
+   "text": "@kinugawamasato @0x6D6172696F @filedescriptor That was the idea that started the final knockout :D",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 977245138173886500,
+   "in_reply_to_status_id_str": "977245138173886464",
+   "in_reply_to_screen_name": "kinugawamasato",
+   "urls": []
+  },
+  {
+   "id": 977197147908173800,
+   "id_str": "977197147908173831",
+   "created_at": "Fri Mar 23 14:55:30 +0000 2018",
+   "text": "Here's my Cure53's Chinese new Year XSS challenge 2018 shortest solution:\nhttps://t.co/eA8xOqPQ8Y\n\nThe shortening p… https://t.co/nauVb0iur8",
+   "retweet_count": 48,
+   "favorite_count": 100,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eA8xOqPQ8Y",
+     "expand": "https://goo.gl/od1cYr"
+    },
+    {
+     "url": "https://t.co/nauVb0iur8",
+     "expand": "https://twitter.com/i/web/status/977197147908173831"
+    }
+   ]
+  },
+  {
+   "id": 977195070922387500,
+   "id_str": "977195070922387456",
+   "created_at": "Fri Mar 23 14:47:14 +0000 2018",
+   "text": "RT @cure53berlin: The Cure53 Chinese New Year XSS Challenge 2018 is over. \nThe two winners are:\n\n@BenHayak, being the second to solve, usin…",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976419842948509700,
+    "id_str": "976419842948509696",
+    "created_at": "Wed Mar 21 11:26:46 +0000 2018",
+    "text": "The Cure53 Chinese New Year XSS Challenge 2018 is over. \nThe two winners are:\n\n@BenHayak, being the second to solve… https://t.co/clclZ9JtEB",
+    "retweet_count": 25,
+    "favorite_count": 80,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/clclZ9JtEB",
+      "expand": "https://twitter.com/i/web/status/976419842948509696"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974672071488884700,
+   "id_str": "974672071488884736",
+   "created_at": "Fri Mar 16 15:41:45 +0000 2018",
+   "text": "@slekies @sirdarckcat @kkotowicz @0x6D6172696F Agreed, this statement only motivate our research and signifies its importance :D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974669616181063700,
+   "in_reply_to_status_id_str": "974669616181063680",
+   "in_reply_to_screen_name": "slekies",
+   "urls": []
+  },
+  {
+   "id": 974666809063428100,
+   "id_str": "974666809063428097",
+   "created_at": "Fri Mar 16 15:20:50 +0000 2018",
+   "text": "oh and there's even more!\n//Reversed way\n$(\".child\").appendTo($(\".p\"))\n$(\".child\").prependTo($(\".p\"))\n$(\".child\").i… https://t.co/fWRnjVk5Ck",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 974372094338269200,
+   "in_reply_to_status_id_str": "974372094338269184",
+   "in_reply_to_screen_name": "BenHayak",
+   "urls": [
+    {
+     "url": "https://t.co/fWRnjVk5Ck",
+     "expand": "https://twitter.com/i/web/status/974666809063428097"
+    }
+   ]
+  },
+  {
+   "id": 974372094338269200,
+   "id_str": "974372094338269184",
+   "created_at": "Thu Mar 15 19:49:44 +0000 2018",
+   "text": "All are existing code that uses \"domManip\" and could be used as gadgets for the root cause discovered by… https://t.co/pxp1Q9djpv",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 974370702836027400,
+   "in_reply_to_status_id_str": "974370702836027392",
+   "in_reply_to_screen_name": "BenHayak",
+   "urls": [
+    {
+     "url": "https://t.co/pxp1Q9djpv",
+     "expand": "https://twitter.com/i/web/status/974372094338269184"
+    }
+   ]
+  },
+  {
+   "id": 974370702836027400,
+   "id_str": "974370702836027392",
+   "created_at": "Thu Mar 15 19:44:13 +0000 2018",
+   "text": "Continuing @sirdarckcat's CSP bypass via jQuery Gadget I've gathered 8 vulnerable functions: \n.html,\n.after,\n.befor… https://t.co/eLjDFSilw1",
+   "retweet_count": 24,
+   "favorite_count": 72,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eLjDFSilw1",
+     "expand": "https://twitter.com/i/web/status/974370702836027392"
+    }
+   ]
+  },
+  {
+   "id": 974214979980267500,
+   "id_str": "974214979980267521",
+   "created_at": "Thu Mar 15 09:25:25 +0000 2018",
+   "text": "@SecurityMB @cure53berlin Thanks , I have to say I never feel like you run out of ideas , even after this twit :D",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 974213172990238700,
+   "in_reply_to_status_id_str": "974213172990238720",
+   "in_reply_to_screen_name": "SecurityMB",
+   "urls": []
+  },
+  {
+   "id": 973479181697933300,
+   "id_str": "973479181697933312",
+   "created_at": "Tue Mar 13 08:41:37 +0000 2018",
+   "text": "RT @garethheyes: Cool list of UXSS bugs https://t.co/rqTMtf0o4h",
+   "retweet_count": 94,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rqTMtf0o4h",
+     "expand": "https://github.com/Metnew/uxss-db"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973203621956419600,
+    "id_str": "973203621956419591",
+    "created_at": "Mon Mar 12 14:26:39 +0000 2018",
+    "text": "Cool list of UXSS bugs https://t.co/rqTMtf0o4h",
+    "retweet_count": 94,
+    "favorite_count": 153,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rqTMtf0o4h",
+      "expand": "https://github.com/Metnew/uxss-db"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972432070772514800,
+   "id_str": "972432070772514817",
+   "created_at": "Sat Mar 10 11:20:47 +0000 2018",
+   "text": "@Abdulahhusam I only got senior position open for now, but will probably get more next round!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972379390041624600,
+   "in_reply_to_status_id_str": "972379390041624576",
+   "in_reply_to_screen_name": "Abdulahhusam",
+   "urls": []
+  },
+  {
+   "id": 971474743340814300,
+   "id_str": "971474743340814338",
+   "created_at": "Wed Mar 07 19:56:42 +0000 2018",
+   "text": "Still excited after I won “FY18 Trust Award”🏆 for my job in Salesforce.\n\nOh and I am hiring! DM if you like to work… https://t.co/ZHrPKpHCYY",
+   "retweet_count": 4,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZHrPKpHCYY",
+     "expand": "https://twitter.com/i/web/status/971474743340814338"
+    }
+   ]
+  },
+  {
+   "id": 970953225892433900,
+   "id_str": "970953225892433920",
+   "created_at": "Tue Mar 06 09:24:23 +0000 2018",
+   "text": "RT @cure53berlin: 🥈@BenHayak🥈\n\nSecond solver, 680 characters! https://t.co/NZ6VE4z5CF",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NZ6VE4z5CF",
+     "expand": "https://twitter.com/cure53berlin/status/970735313265025025"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970923270030680000,
+    "id_str": "970923270030680064",
+    "created_at": "Tue Mar 06 07:25:21 +0000 2018",
+    "text": "🥈@BenHayak🥈\n\nSecond solver, 680 characters! https://t.co/NZ6VE4z5CF",
+    "retweet_count": 2,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/NZ6VE4z5CF",
+      "expand": "https://twitter.com/cure53berlin/status/970735313265025025"
+     }
+    ]
+   }
+  },
   {
    "id": 966618384929644500,
    "id_str": "966618384929644544",
@@ -12,81 +318,6 @@
    "in_reply_to_status_id": 966613664773132300,
    "in_reply_to_status_id_str": "966613664773132288",
    "in_reply_to_screen_name": "cure53berlin",
-   "urls": []
-  },
-  {
-   "id": 965950266704056300,
-   "id_str": "965950266704056320",
-   "created_at": "Tue Feb 20 14:04:24 +0000 2018",
-   "text": "@cgvwzq @cure53berlin @SecurityMB Great! I didn't yet, but I will be getting there. as for the 3d for now I only me… https://t.co/RHyFX76iog",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965949548299522000,
-   "in_reply_to_status_id_str": "965949548299522050",
-   "in_reply_to_screen_name": "cgvwzq",
-   "urls": [
-    {
-     "url": "https://t.co/RHyFX76iog",
-     "expand": "https://twitter.com/i/web/status/965950266704056320"
-    }
-   ]
-  },
-  {
-   "id": 965939685255254000,
-   "id_str": "965939685255254017",
-   "created_at": "Tue Feb 20 13:22:21 +0000 2018",
-   "text": "RT @cure53berlin: The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!\n\nhttps:…",
-   "retweet_count": 102,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964401458245288000,
-    "id_str": "964401458245287936",
-    "created_at": "Fri Feb 16 07:30:00 +0000 2018",
-    "text": "The 𝗖𝘂𝗿𝗲𝟱𝟯 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗡𝗲𝘄 𝗬𝗲𝗮𝗿 𝗫𝗦𝗦 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲 is live!\nHelp the 🐶to defeat the🐓and his evil plans and save the world!… https://t.co/W8ZzYz36WP",
-    "retweet_count": 102,
-    "favorite_count": 167,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/W8ZzYz36WP",
-      "expand": "https://twitter.com/i/web/status/964401458245287936"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965709070131974100,
-   "id_str": "965709070131974145",
-   "created_at": "Mon Feb 19 22:05:58 +0000 2018",
-   "text": "@cure53berlin @cgvwzq @SecurityMB U all solved the 3d level already?",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965707636883841000,
-   "in_reply_to_status_id_str": "965707636883841026",
-   "in_reply_to_screen_name": "cure53berlin",
-   "urls": []
-  },
-  {
-   "id": 952102892395204600,
-   "id_str": "952102892395204608",
-   "created_at": "Sat Jan 13 08:59:53 +0000 2018",
-   "text": "@WisecWisec Good luck 👍",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 952100797348831200,
-   "in_reply_to_status_id_str": "952100797348831232",
-   "in_reply_to_screen_name": "WisecWisec",
    "urls": []
   }
  ]

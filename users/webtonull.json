@@ -1,72 +1,944 @@
 {
- "time": 1519367439755,
+ "time": 1522595224386,
  "lists": [
   {
-   "id": 966674205474517000,
-   "id_str": "966674205474516992",
-   "created_at": "Thu Feb 22 14:01:05 +0000 2018",
-   "text": "RT @dsenneff: Made an SVG animated login avatar, with the help of some trigonometry &amp; GSAP. #animation #UX #gsap \nhttps://t.co/nfWVd0D4va h…",
-   "retweet_count": 5065,
+   "id": 980159751609901000,
+   "id_str": "980159751609901056",
+   "created_at": "Sat Mar 31 19:07:49 +0000 2018",
+   "text": "RT @asanso: Happy and proud to finally see published  \"In search of CurveSwap: Measuring elliptic curve implementations in the wild.\" https…",
+   "retweet_count": 46,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/nfWVd0D4va",
-     "expand": "https://codepen.io/dsenneff/pen/QajVxO"
-    }
-   ],
+   "urls": [],
    "retweeted_status": {
-    "id": 965393299614859300,
-    "id_str": "965393299614859265",
-    "created_at": "Mon Feb 19 01:11:13 +0000 2018",
-    "text": "Made an SVG animated login avatar, with the help of some trigonometry &amp; GSAP. #animation #UX #gsap… https://t.co/0AZRWCw258",
-    "retweet_count": 5065,
-    "favorite_count": 12952,
+    "id": 979627198675071000,
+    "id_str": "979627198675070976",
+    "created_at": "Fri Mar 30 07:51:39 +0000 2018",
+    "text": "Happy and proud to finally see published  \"In search of CurveSwap: Measuring elliptic curve implementations in the… https://t.co/11BtNiD1Ao",
+    "retweet_count": 46,
+    "favorite_count": 111,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/0AZRWCw258",
-      "expand": "https://twitter.com/i/web/status/965393299614859265"
+      "url": "https://t.co/11BtNiD1Ao",
+      "expand": "https://twitter.com/i/web/status/979627198675070976"
      }
     ]
    }
   },
   {
-   "id": 966402533286711300,
-   "id_str": "966402533286711296",
-   "created_at": "Wed Feb 21 20:01:33 +0000 2018",
-   "text": "@aloria 🤞",
+   "id": 978641234947436500,
+   "id_str": "978641234947436545",
+   "created_at": "Tue Mar 27 14:33:47 +0000 2018",
+   "text": "Awesome thread on TLS 1.3 https://t.co/F9J04lWBe9",
    "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966077787680493600,
-   "in_reply_to_status_id_str": "966077787680493568",
-   "in_reply_to_screen_name": "aloria",
-   "urls": []
-  },
-  {
-   "id": 964840026604437500,
-   "id_str": "964840026604437505",
-   "created_at": "Sat Feb 17 12:32:42 +0000 2018",
-   "text": "https://t.co/jXrTn6gKi5",
-   "retweet_count": 6,
-   "favorite_count": 17,
+   "favorite_count": 4,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/jXrTn6gKi5",
-     "expand": "http://harrisonsand.com/your-isp-is-spying-on-you/"
+     "url": "https://t.co/F9J04lWBe9",
+     "expand": "https://twitter.com/colmmacc/status/978430840198742016"
     }
    ]
+  },
+  {
+   "id": 978592046276644900,
+   "id_str": "978592046276644864",
+   "created_at": "Tue Mar 27 11:18:19 +0000 2018",
+   "text": "RT @arstechnica: As predicted, more speculative execution processor attacks are discovered https://t.co/doZpipWrWA by @drpizza",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/doZpipWrWA",
+     "expand": "http://arstechnica.com/gaming/2018/03/its-not-just-spectre-researchers-reveal-more-branch-prediction-attacks/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978397732351201300,
+    "id_str": "978397732351201280",
+    "created_at": "Mon Mar 26 22:26:11 +0000 2018",
+    "text": "As predicted, more speculative execution processor attacks are discovered https://t.co/doZpipWrWA by @drpizza",
+    "retweet_count": 30,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/doZpipWrWA",
+      "expand": "http://arstechnica.com/gaming/2018/03/its-not-just-spectre-researchers-reveal-more-branch-prediction-attacks/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978241008872951800,
+   "id_str": "978241008872951813",
+   "created_at": "Mon Mar 26 12:03:26 +0000 2018",
+   "text": "@manicode Yeah, this would solve issues with developers building react components that are using dangerouslySetInne… https://t.co/vgorWNjitP",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978236172857237500,
+   "in_reply_to_status_id_str": "978236172857237505",
+   "in_reply_to_screen_name": "manicode",
+   "urls": [
+    {
+     "url": "https://t.co/vgorWNjitP",
+     "expand": "https://twitter.com/i/web/status/978241008872951813"
+    }
+   ]
+  },
+  {
+   "id": 978240502633041900,
+   "id_str": "978240502633041920",
+   "created_at": "Mon Mar 26 12:01:25 +0000 2018",
+   "text": "RT @manicode: Dear Angular, React and any future UI framework. If a dev disables auto-escaping, automatically replace that with HTML saniti…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978235976546967600,
+    "id_str": "978235976546967553",
+    "created_at": "Mon Mar 26 11:43:26 +0000 2018",
+    "text": "Dear Angular, React and any future UI framework. If a dev disables auto-escaping, automatically replace that with H… https://t.co/JLWzwrotWm",
+    "retweet_count": 17,
+    "favorite_count": 54,
+    "place": "Brooklyn, NY",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JLWzwrotWm",
+      "expand": "https://twitter.com/i/web/status/978235976546967553"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977101263908360200,
+   "id_str": "977101263908360192",
+   "created_at": "Fri Mar 23 08:34:29 +0000 2018",
+   "text": "gracePeriodRatio is by default 0.5 (float32) and is given to time.Duration() which expects an integer. The result i… https://t.co/GSrRdV5NYV",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977065003869237200,
+   "in_reply_to_status_id_str": "977065003869237248",
+   "in_reply_to_screen_name": "webtonull",
+   "urls": [
+    {
+     "url": "https://t.co/GSrRdV5NYV",
+     "expand": "https://twitter.com/i/web/status/977101263908360192"
+    }
+   ]
+  },
+  {
+   "id": 977065003869237200,
+   "id_str": "977065003869237248",
+   "created_at": "Fri Mar 23 06:10:24 +0000 2018",
+   "text": "If you are running Istio 0.5.1 you might want to patch it. Due to what looks like a float-to-integer conversion bug… https://t.co/FPxjnulH3Q",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FPxjnulH3Q",
+     "expand": "https://twitter.com/i/web/status/977065003869237248"
+    }
+   ]
+  },
+  {
+   "id": 976700030135492600,
+   "id_str": "976700030135492608",
+   "created_at": "Thu Mar 22 06:00:08 +0000 2018",
+   "text": "@mattjay Some OSS vulns are only fixed in next major version, which has lots of breaking changes (see httpclient 3)… https://t.co/jjrK347e3N",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976698406981730300,
+   "in_reply_to_status_id_str": "976698406981730306",
+   "in_reply_to_screen_name": "webtonull",
+   "urls": [
+    {
+     "url": "https://t.co/jjrK347e3N",
+     "expand": "https://twitter.com/i/web/status/976700030135492608"
+    }
+   ]
+  },
+  {
+   "id": 976698406981730300,
+   "id_str": "976698406981730306",
+   "created_at": "Thu Mar 22 05:53:41 +0000 2018",
+   "text": "@mattjay Some thoughts: Orgs depend on the OSS libs that are now being fixed. Large monoliths with are harder to up… https://t.co/elD3wJoT6B",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976666333688590300,
+   "in_reply_to_status_id_str": "976666333688590336",
+   "in_reply_to_screen_name": "mattjay",
+   "urls": [
+    {
+     "url": "https://t.co/elD3wJoT6B",
+     "expand": "https://twitter.com/i/web/status/976698406981730306"
+    }
+   ]
+  },
+  {
+   "id": 976696999406899200,
+   "id_str": "976696999406899201",
+   "created_at": "Thu Mar 22 05:48:05 +0000 2018",
+   "text": "RT @mattjay: Wow! Interesting data. When @github launched security alerts they were tracking 500k known vulnerabilies. Shorty after alertin…",
+   "retweet_count": 243,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976659841442897900,
+    "id_str": "976659841442897920",
+    "created_at": "Thu Mar 22 03:20:26 +0000 2018",
+    "text": "Wow! Interesting data. When @github launched security alerts they were tracking 500k known vulnerabilies. Shorty af… https://t.co/anbFvvWW74",
+    "retweet_count": 243,
+    "favorite_count": 434,
+    "place": "Austin, TX",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/anbFvvWW74",
+      "expand": "https://twitter.com/i/web/status/976659841442897920"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975774352040955900,
+   "id_str": "975774352040955904",
+   "created_at": "Mon Mar 19 16:41:49 +0000 2018",
+   "text": "Todays #OWASP Norway meeting is about Watchout! - terrible security in smart watches for kids. Thanks to mnemonic f… https://t.co/rIH0z12N3y",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rIH0z12N3y",
+     "expand": "https://twitter.com/i/web/status/975774352040955904"
+    }
+   ]
+  },
+  {
+   "id": 974692480351440900,
+   "id_str": "974692480351440899",
+   "created_at": "Fri Mar 16 17:02:50 +0000 2018",
+   "text": "@g33konaut @salad_milk_soup @boosterconf Really enjoyed this workshop. Should have been longer!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 974653414838857700,
+   "in_reply_to_status_id_str": "974653414838857729",
+   "in_reply_to_screen_name": "g33konaut",
+   "urls": []
+  },
+  {
+   "id": 974692118294908900,
+   "id_str": "974692118294908929",
+   "created_at": "Fri Mar 16 17:01:24 +0000 2018",
+   "text": "Really enjoyed the webassembly/rust and the VR workshop at #booster2018 today. Big thanks to the speakers and organ… https://t.co/VbrQSHsaAR",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VbrQSHsaAR",
+     "expand": "https://twitter.com/i/web/status/974692118294908929"
+    }
+   ]
+  },
+  {
+   "id": 974234473192673300,
+   "id_str": "974234473192673280",
+   "created_at": "Thu Mar 15 10:42:53 +0000 2018",
+   "text": "Reminder: org.apache.commons.lang3.RandomStringUtils is not random enough for security purposes:\nhttps://t.co/jQO0Q2oqG5",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jQO0Q2oqG5",
+     "expand": "https://medium.com/@alex91ar/the-java-soothsayer-a-practical-application-for-insecure-randomness-c67b0cd148cd"
+    }
+   ]
+  },
+  {
+   "id": 974229508701253600,
+   "id_str": "974229508701253632",
+   "created_at": "Thu Mar 15 10:23:09 +0000 2018",
+   "text": "@kilidz This talk contains most of the theoretical info from the workshop: https://t.co/xSTVdCg5WJ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974222280208322600,
+   "in_reply_to_status_id_str": "974222280208322560",
+   "in_reply_to_screen_name": "kilidz",
+   "urls": [
+    {
+     "url": "https://t.co/xSTVdCg5WJ",
+     "expand": "https://vimeo.com/234010802"
+    }
+   ]
+  },
+  {
+   "id": 973951681120686100,
+   "id_str": "973951681120686081",
+   "created_at": "Wed Mar 14 15:59:10 +0000 2018",
+   "text": "Done with the Threat Modeling workshop at #booster2018 . Big thanks to everyone that showed up and made this into a… https://t.co/H77pZ3Ngir",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/H77pZ3Ngir",
+     "expand": "https://twitter.com/i/web/status/973951681120686081"
+    }
+   ]
+  },
+  {
+   "id": 973836618862858200,
+   "id_str": "973836618862858240",
+   "created_at": "Wed Mar 14 08:21:57 +0000 2018",
+   "text": "This keynote is like a Black Mirror episode #booster2018",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973783499491684400,
+   "id_str": "973783499491684353",
+   "created_at": "Wed Mar 14 04:50:52 +0000 2018",
+   "text": "RT @blackswanburst: https://t.co/o75Sr0Ob33 Rest in Peace. You made geek, chic.",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/o75Sr0Ob33",
+     "expand": "https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76?CMP=share_btn_tw"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973771518118449200,
+    "id_str": "973771518118449152",
+    "created_at": "Wed Mar 14 04:03:16 +0000 2018",
+    "text": "https://t.co/o75Sr0Ob33 Rest in Peace. You made geek, chic.",
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/o75Sr0Ob33",
+      "expand": "https://www.theguardian.com/science/2018/mar/14/stephen-hawking-professor-dies-aged-76?CMP=share_btn_tw"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973462791389577200,
+   "id_str": "973462791389577216",
+   "created_at": "Tue Mar 13 07:36:30 +0000 2018",
+   "text": "RT @geoffbelknap: Pitch: Kitchen Nightmares, but for security programs. \n“Why do you have a bug bounty? You don’t even have an SDL!!”\n“Your…",
+   "retweet_count": 112,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970867944115679200,
+    "id_str": "970867944115679237",
+    "created_at": "Tue Mar 06 03:45:30 +0000 2018",
+    "text": "Pitch: Kitchen Nightmares, but for security programs. \n“Why do you have a bug bounty? You don’t even have an SDL!!”… https://t.co/FyGiVFXMhO",
+    "retweet_count": 112,
+    "favorite_count": 307,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FyGiVFXMhO",
+      "expand": "https://twitter.com/i/web/status/970867944115679237"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973297155288043500,
+   "id_str": "973297155288043520",
+   "created_at": "Mon Mar 12 20:38:19 +0000 2018",
+   "text": "The #OWASP Norway April meeting will feature @roysolberg and @hallny! RSVP now: https://t.co/4EGujVqXPH",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4EGujVqXPH",
+     "expand": "https://www.meetup.com/OWASP-Norway/events/248655998/"
+    }
+   ]
+  },
+  {
+   "id": 973254051331739600,
+   "id_str": "973254051331739648",
+   "created_at": "Mon Mar 12 17:47:02 +0000 2018",
+   "text": "@albinowax @Agarri_FR The dates were correct before the CfP/CfT ended. They recently changed from 3rd to 2nd to acc… https://t.co/Pb8Dd06G9t",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973240666296930300,
+   "in_reply_to_status_id_str": "973240666296930309",
+   "in_reply_to_screen_name": "albinowax",
+   "urls": [
+    {
+     "url": "https://t.co/Pb8Dd06G9t",
+     "expand": "https://twitter.com/i/web/status/973254051331739648"
+    }
+   ]
+  },
+  {
+   "id": 972208292310278100,
+   "id_str": "972208292310278144",
+   "created_at": "Fri Mar 09 20:31:34 +0000 2018",
+   "text": "If you are at #SXSW, you should really go see this talk https://t.co/SbAd30u0Jb",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SbAd30u0Jb",
+     "expand": "https://twitter.com/einaros/status/971109267880271872"
+    }
+   ]
+  },
+  {
+   "id": 972108505023963100,
+   "id_str": "972108505023963136",
+   "created_at": "Fri Mar 09 13:55:03 +0000 2018",
+   "text": "RT @pati_gallardo: I'd love a Norwegian award to #womenintech where the women awarded were not almost exclusively managers. \n\nWe need techn…",
+   "retweet_count": 64,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971858228341436400,
+    "id_str": "971858228341436416",
+    "created_at": "Thu Mar 08 21:20:32 +0000 2018",
+    "text": "I'd love a Norwegian award to #womenintech where the women awarded were not almost exclusively managers. \n\nWe need technical role models.",
+    "retweet_count": 64,
+    "favorite_count": 172,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 972094036390613000,
+   "id_str": "972094036390612992",
+   "created_at": "Fri Mar 09 12:57:33 +0000 2018",
+   "text": "@FedericoTenga @stevelord After reading this tweet I decided to translate my replace-crypto-coins-with-monopoly/pre… https://t.co/SXviH6oS7N",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971696198561288200,
+   "in_reply_to_status_id_str": "971696198561288193",
+   "in_reply_to_screen_name": "FedericoTenga",
+   "urls": [
+    {
+     "url": "https://t.co/SXviH6oS7N",
+     "expand": "https://twitter.com/i/web/status/972094036390612992"
+    }
+   ]
+  },
+  {
+   "id": 972076415435857900,
+   "id_str": "972076415435857920",
+   "created_at": "Fri Mar 09 11:47:32 +0000 2018",
+   "text": "@sjefersuper @jeremiahg or if you want to see something crazy:\nhttps://t.co/nkIfoJYjRw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972076085763625000,
+   "in_reply_to_status_id_str": "972076085763624961",
+   "in_reply_to_screen_name": "webtonull",
+   "urls": [
+    {
+     "url": "https://t.co/nkIfoJYjRw",
+     "expand": "http://npm.anvaka.com/#/view/2d/webpack"
+    }
+   ]
+  },
+  {
+   "id": 972076085763625000,
+   "id_str": "972076085763624961",
+   "created_at": "Fri Mar 09 11:46:13 +0000 2018",
+   "text": "@sjefersuper @jeremiahg Vulnerabilities in transitive dependencies where no upgrade path exists, is also becoming a… https://t.co/x53tVryYlW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972073490814787600,
+   "in_reply_to_status_id_str": "972073490814787584",
+   "in_reply_to_screen_name": "webtonull",
+   "urls": [
+    {
+     "url": "https://t.co/x53tVryYlW",
+     "expand": "https://twitter.com/i/web/status/972076085763624961"
+    }
+   ]
+  },
+  {
+   "id": 972073490814787600,
+   "id_str": "972073490814787584",
+   "created_at": "Fri Mar 09 11:35:55 +0000 2018",
+   "text": "@sjefersuper @jeremiahg Agreed! I also think things like misunderstandings/surprises in what APIs between component… https://t.co/6kv4nNCRO3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971852051633328100,
+   "in_reply_to_status_id_str": "971852051633328129",
+   "in_reply_to_screen_name": "sjefersuper",
+   "urls": [
+    {
+     "url": "https://t.co/6kv4nNCRO3",
+     "expand": "https://twitter.com/i/web/status/972073490814787584"
+    }
+   ]
+  },
+  {
+   "id": 972024398617116700,
+   "id_str": "972024398617116674",
+   "created_at": "Fri Mar 09 08:20:50 +0000 2018",
+   "text": "@Scott_Helme @troyhunt A bit ironic? https://t.co/dnEHFSOaWQ",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 971885160839999500,
+   "in_reply_to_status_id_str": "971885160839999488",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": []
+  },
+  {
+   "id": 972019706289901600,
+   "id_str": "972019706289901569",
+   "created_at": "Fri Mar 09 08:02:11 +0000 2018",
+   "text": "@brennx0r @johnksawers @tenderlove Why are all their repos about leaf nodes?!?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971981337572786200,
+   "in_reply_to_status_id_str": "971981337572786176",
+   "in_reply_to_screen_name": "brennx0r",
+   "urls": []
+  },
+  {
+   "id": 972018675388690400,
+   "id_str": "972018675388690438",
+   "created_at": "Fri Mar 09 07:58:06 +0000 2018",
+   "text": "RT @MalwareJake: The average enterprise firewall configuration (illustrated). https://t.co/ALe3hCmYKH",
+   "retweet_count": 433,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971506561200939000,
+    "id_str": "971506561200939008",
+    "created_at": "Wed Mar 07 22:03:08 +0000 2018",
+    "text": "The average enterprise firewall configuration (illustrated). https://t.co/ALe3hCmYKH",
+    "retweet_count": 433,
+    "favorite_count": 1099,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 971088501495271400,
+   "id_str": "971088501495271425",
+   "created_at": "Tue Mar 06 18:21:55 +0000 2018",
+   "text": "@addelindh @martijn_grooten Is it time for a \"@addelindh 's tweets from 5 years ago\" twitter account? :D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970903417370677200,
+   "id_str": "970903417370677248",
+   "created_at": "Tue Mar 06 06:06:27 +0000 2018",
+   "text": "RT @SwiftOnSecurity: What you think security is: Picking the best post-quantum TLS cipher suites\nWhat security actually is: Making sure non…",
+   "retweet_count": 864,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970770714251944000,
+    "id_str": "970770714251943943",
+    "created_at": "Mon Mar 05 21:19:08 +0000 2018",
+    "text": "What you think security is: Picking the best post-quantum TLS cipher suites\nWhat security actually is: Making sure… https://t.co/ROeGiXfL7H",
+    "retweet_count": 864,
+    "favorite_count": 2409,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ROeGiXfL7H",
+      "expand": "https://twitter.com/i/web/status/970770714251943943"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970747352544890900,
+   "id_str": "970747352544890880",
+   "created_at": "Mon Mar 05 19:46:19 +0000 2018",
+   "text": "@stevespringett Hey. I'd like to add support for exporting a BOM from a retire.js scan for import into dependency-t… https://t.co/SGDF00GD6Y",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "stevespringett",
+   "urls": [
+    {
+     "url": "https://t.co/SGDF00GD6Y",
+     "expand": "https://twitter.com/i/web/status/970747352544890880"
+    }
+   ]
+  },
+  {
+   "id": 969234363610226700,
+   "id_str": "969234363610226688",
+   "created_at": "Thu Mar 01 15:34:14 +0000 2018",
+   "text": "RT @svblxyz: Hmmm... I can't validate my Domain certificate via #Trustico, it just ends up sending weird curl requests to my server. 🤔😏 Any…",
+   "retweet_count": 928,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969220402768736300,
+    "id_str": "969220402768736258",
+    "created_at": "Thu Mar 01 14:38:45 +0000 2018",
+    "text": "Hmmm... I can't validate my Domain certificate via #Trustico, it just ends up sending weird curl requests to my ser… https://t.co/XXjy2jA1Sy",
+    "retweet_count": 928,
+    "favorite_count": 1564,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XXjy2jA1Sy",
+      "expand": "https://twitter.com/i/web/status/969220402768736258"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969233825783009300,
+   "id_str": "969233825783009286",
+   "created_at": "Thu Mar 01 15:32:06 +0000 2018",
+   "text": "@dyn___ @jessfraz @dinodaizovi Within k8s I _think_ containers within a pod share a network namespace, and that pod… https://t.co/wJi7LGKeWj",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969230025101684700,
+   "in_reply_to_status_id_str": "969230025101684736",
+   "in_reply_to_screen_name": "dyn___",
+   "urls": [
+    {
+     "url": "https://t.co/wJi7LGKeWj",
+     "expand": "https://twitter.com/i/web/status/969233825783009286"
+    }
+   ]
+  },
+  {
+   "id": 969174732661755900,
+   "id_str": "969174732661755904",
+   "created_at": "Thu Mar 01 11:37:17 +0000 2018",
+   "text": "@Scott_Helme @morisson A colleague noticed you can even use this beautiful service over http:\nhttps://t.co/RVtozy9CZg",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969136111514800100,
+   "in_reply_to_status_id_str": "969136111514800128",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/RVtozy9CZg",
+     "expand": "http://www.rapidsslonline.com/ssl-tools/match-ssl-elements.php"
+    }
+   ]
+  },
+  {
+   "id": 969172777176576000,
+   "id_str": "969172777176576000",
+   "created_at": "Thu Mar 01 11:29:31 +0000 2018",
+   "text": "RT @Scott_Helme: WTAF 😱 https://t.co/8A9HZyko0t",
+   "retweet_count": 114,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969135846195593200,
+    "id_str": "969135846195593216",
+    "created_at": "Thu Mar 01 09:02:46 +0000 2018",
+    "text": "WTAF 😱 https://t.co/8A9HZyko0t",
+    "retweet_count": 114,
+    "favorite_count": 271,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969155374820585500,
+   "id_str": "969155374820585472",
+   "created_at": "Thu Mar 01 10:20:22 +0000 2018",
+   "text": "@jessfraz @dyn___ @dinodaizovi I was wondering because Istio requires net_admin to modify iptables setup, but I see… https://t.co/KTqTCj3v8d",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969153511656247300,
+   "in_reply_to_status_id_str": "969153511656247296",
+   "in_reply_to_screen_name": "jessfraz",
+   "urls": [
+    {
+     "url": "https://t.co/KTqTCj3v8d",
+     "expand": "https://twitter.com/i/web/status/969155374820585472"
+    }
+   ]
+  },
+  {
+   "id": 969117525853294600,
+   "id_str": "969117525853294592",
+   "created_at": "Thu Mar 01 07:49:58 +0000 2018",
+   "text": "RT @GossiTheDog: Here’s a new attack method - find websites with JavaScript embedded to unregistered buckets, register the bucket yourself…",
+   "retweet_count": 176,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968391071049945100,
+    "id_str": "968391071049945088",
+    "created_at": "Tue Feb 27 07:43:17 +0000 2018",
+    "text": "Here’s a new attack method - find websites with JavaScript embedded to unregistered buckets, register the bucket yo… https://t.co/OUm9jkXJOh",
+    "retweet_count": 176,
+    "favorite_count": 245,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OUm9jkXJOh",
+      "expand": "https://twitter.com/i/web/status/968391071049945088"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969117316561633300,
+   "id_str": "969117316561633281",
+   "created_at": "Thu Mar 01 07:49:08 +0000 2018",
+   "text": "What are the security implications of having a k8s container with the net_admin capability? The \"Understanding and… https://t.co/5AOIKrO9Nm",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5AOIKrO9Nm",
+     "expand": "https://twitter.com/i/web/status/969117316561633281"
+    }
+   ]
+  },
+  {
+   "id": 968961134626771000,
+   "id_str": "968961134626770945",
+   "created_at": "Wed Feb 28 21:28:31 +0000 2018",
+   "text": "@anthonytowry I highly recommend @albinowax excellent talk from AppSecEU 2017: https://t.co/xOPD7rXGEb",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968943202165252100,
+   "in_reply_to_status_id_str": "968943202165252098",
+   "in_reply_to_screen_name": "anthonytowry",
+   "urls": [
+    {
+     "url": "https://t.co/xOPD7rXGEb",
+     "expand": "https://www.youtube.com/watch?v=wgkj4ZgxI4c"
+    }
+   ]
+  },
+  {
+   "id": 968960765565849600,
+   "id_str": "968960765565849600",
+   "created_at": "Wed Feb 28 21:27:03 +0000 2018",
+   "text": "@anthonytowry Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968943202165252100,
+   "in_reply_to_status_id_str": "968943202165252098",
+   "in_reply_to_screen_name": "anthonytowry",
+   "urls": []
+  },
+  {
+   "id": 968731383433752600,
+   "id_str": "968731383433752576",
+   "created_at": "Wed Feb 28 06:15:34 +0000 2018",
+   "text": "RT @alikoneko: The year is 2038, we all work in Amazon Distribution Centers and AWS server farms, or Google clickbot farms. We are paid in…",
+   "retweet_count": 405,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968675895354544100,
+    "id_str": "968675895354544128",
+    "created_at": "Wed Feb 28 02:35:05 +0000 2018",
+    "text": "The year is 2038, we all work in Amazon Distribution Centers and AWS server farms, or Google clickbot farms. We are… https://t.co/t6E1bhawM7",
+    "retweet_count": 405,
+    "favorite_count": 836,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/t6E1bhawM7",
+      "expand": "https://twitter.com/i/web/status/968675895354544128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968521557697024000,
+   "id_str": "968521557697024000",
+   "created_at": "Tue Feb 27 16:21:48 +0000 2018",
+   "text": "RT @KatyAnton: If you haven't submitted your talk for @owasp  @AppSecEU yet, you have 1 more day to do it. Submit your talk at : \nhttps://t…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968499875607449600,
+    "id_str": "968499875607449605",
+    "created_at": "Tue Feb 27 14:55:38 +0000 2018",
+    "text": "If you haven't submitted your talk for @owasp  @AppSecEU yet, you have 1 more day to do it. Submit your talk at :… https://t.co/DMbDl3sxH7",
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DMbDl3sxH7",
+      "expand": "https://twitter.com/i/web/status/968499875607449605"
+     }
+    ]
+   }
   }
  ]
 }

@@ -1,12 +1,65 @@
 {
- "time": 1519367430492,
+ "time": 1522595200151,
  "lists": [
   {
-   "id": 966715309112643600,
-   "id_str": "966715309112643584",
-   "created_at": "Thu Feb 22 16:44:25 +0000 2018",
-   "text": "RT @penultimateIO: Can you solve our next security challenge? https://t.co/Ajvl7Zmjpx https://t.co/tExf4mwZDy",
-   "retweet_count": 17,
+   "id": 979737705998377000,
+   "id_str": "979737705998376960",
+   "created_at": "Fri Mar 30 15:10:46 +0000 2018",
+   "text": "@Zer0trip Invitation sent. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979678935171633200,
+   "in_reply_to_status_id_str": "979678935171633153",
+   "in_reply_to_screen_name": "Zer0trip",
+   "urls": []
+  },
+  {
+   "id": 979484708122841100,
+   "id_str": "979484708122841088",
+   "created_at": "Thu Mar 29 22:25:27 +0000 2018",
+   "text": "The #legalbugbounty project is now on GitHub thanks to @AmitElazari: https://t.co/MKfAdY5G4z. Contributions are wel… https://t.co/l5swv9vIxl",
+   "retweet_count": 7,
+   "favorite_count": 40,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MKfAdY5G4z",
+     "expand": "https://github.com/EdOverflow/legal-bug-bounty"
+    },
+    {
+     "url": "https://t.co/l5swv9vIxl",
+     "expand": "https://twitter.com/i/web/status/979484708122841088"
+    }
+   ]
+  },
+  {
+   "id": 979458964269215700,
+   "id_str": "979458964269215744",
+   "created_at": "Thu Mar 29 20:43:09 +0000 2018",
+   "text": "I did a live hacking session today with an awesome group of people with a variety of skill sets and levels of exper… https://t.co/IrFE3Hn8Ow",
+   "retweet_count": 1,
+   "favorite_count": 50,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IrFE3Hn8Ow",
+     "expand": "https://twitter.com/i/web/status/979458964269215744"
+    }
+   ]
+  },
+  {
+   "id": 979126832363720700,
+   "id_str": "979126832363720705",
+   "created_at": "Wed Mar 28 22:43:22 +0000 2018",
+   "text": "RT @AmitElazari: @EdOverflow program https://t.co/t7ZlxMAZly added to the #legalbugbounty hall of fame https://t.co/it56cjKV42",
+   "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -14,48 +67,92 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/Ajvl7Zmjpx",
-     "expand": "https://penultimate.github.io/challenges/XSS/000001-xss"
+     "url": "https://t.co/t7ZlxMAZly",
+     "expand": "https://hackerone.com/ed"
+    },
+    {
+     "url": "https://t.co/it56cjKV42",
+     "expand": "http://amitelazari.com/%23legalbugbounty-hof"
     }
    ],
    "retweeted_status": {
-    "id": 966714130454458400,
-    "id_str": "966714130454458368",
-    "created_at": "Thu Feb 22 16:39:44 +0000 2018",
-    "text": "Can you solve our next security challenge? https://t.co/Ajvl7Zmjpx https://t.co/tExf4mwZDy",
-    "retweet_count": 17,
-    "favorite_count": 38,
+    "id": 979125953069633500,
+    "id_str": "979125953069633536",
+    "created_at": "Wed Mar 28 22:39:53 +0000 2018",
+    "text": "@EdOverflow program https://t.co/t7ZlxMAZly added to the #legalbugbounty hall of fame https://t.co/it56cjKV42",
+    "retweet_count": 1,
+    "favorite_count": 9,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_screen_name": "EdOverflow",
     "urls": [
      {
-      "url": "https://t.co/Ajvl7Zmjpx",
-      "expand": "https://penultimate.github.io/challenges/XSS/000001-xss"
+      "url": "https://t.co/t7ZlxMAZly",
+      "expand": "https://hackerone.com/ed"
+     },
+     {
+      "url": "https://t.co/it56cjKV42",
+      "expand": "http://amitelazari.com/%23legalbugbounty-hof"
      }
     ]
    }
   },
   {
-   "id": 966629716093554700,
-   "id_str": "966629716093554688",
-   "created_at": "Thu Feb 22 11:04:18 +0000 2018",
-   "text": "@x1m_martijn @ZDNet @zackwhittaker Yes, this is concerning my latest report.",
+   "id": 979126817033465900,
+   "id_str": "979126817033465857",
+   "created_at": "Wed Mar 28 22:43:19 +0000 2018",
+   "text": "@AmitElazari Woohoo! 🎉 Thank you, Amit, for all the amazing advice and work you do to help the community. :)",
    "retweet_count": 0,
-   "favorite_count": 1,
+   "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 966625607290359800,
-   "in_reply_to_status_id_str": "966625607290359808",
-   "in_reply_to_screen_name": "x1m_martijn",
+   "in_reply_to_status_id": 979125953069633500,
+   "in_reply_to_status_id_str": "979125953069633536",
+   "in_reply_to_screen_name": "AmitElazari",
    "urls": []
   },
   {
-   "id": 966481735650349000,
-   "id_str": "966481735650349057",
-   "created_at": "Thu Feb 22 01:16:16 +0000 2018",
-   "text": "RT @zackwhittaker: Just in: GitLab has fixed a security issue that allowed anyone to hijack domains. One researcher was able to script the…",
-   "retweet_count": 42,
+   "id": 978716210358562800,
+   "id_str": "978716210358562818",
+   "created_at": "Tue Mar 27 19:31:42 +0000 2018",
+   "text": "@Raiffeisen_CH is the first Swiss bank to add a security.txt file to their website. I am excited to see if @UBS,… https://t.co/KqWeUSW6pS",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "Raiffeisen_CH",
+   "urls": [
+    {
+     "url": "https://t.co/KqWeUSW6pS",
+     "expand": "https://twitter.com/i/web/status/978716210358562818"
+    }
+   ]
+  },
+  {
+   "id": 976554780829954000,
+   "id_str": "976554780829954048",
+   "created_at": "Wed Mar 21 20:22:57 +0000 2018",
+   "text": "@FainPablo @KeybaseIO I use that account for testing purposes: https://t.co/GtdufQpyJo. :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976542007056269300,
+   "in_reply_to_status_id_str": "976542007056269312",
+   "in_reply_to_screen_name": "FainPablo",
+   "urls": [
+    {
+     "url": "https://t.co/GtdufQpyJo",
+     "expand": "https://edoverflow.com/2018/logic-flaws-in-wot-services"
+    }
+   ]
+  },
+  {
+   "id": 976529863682199600,
+   "id_str": "976529863682199552",
+   "created_at": "Wed Mar 21 18:43:57 +0000 2018",
+   "text": "RT @troyhunt: Big congrats to @EdOverflow, the IETF have now adopted his security.txt spec! It’s a great thing for security both in terms o…",
+   "retweet_count": 72,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -63,110 +160,275 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966480664609648600,
-    "id_str": "966480664609648641",
-    "created_at": "Thu Feb 22 01:12:01 +0000 2018",
-    "text": "Just in: GitLab has fixed a security issue that allowed anyone to hijack domains. One researcher was able to script… https://t.co/5pl1O4y75V",
-    "retweet_count": 42,
-    "favorite_count": 55,
-    "place": null,
+    "id": 976421325685141500,
+    "id_str": "976421325685141504",
+    "created_at": "Wed Mar 21 11:32:39 +0000 2018",
+    "text": "Big congrats to @EdOverflow, the IETF have now adopted his security.txt spec! It’s a great thing for security both… https://t.co/XOfcDkUEMs",
+    "retweet_count": 72,
+    "favorite_count": 165,
+    "place": "Gold Coast, Queensland",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/5pl1O4y75V",
-      "expand": "https://twitter.com/i/web/status/966480664609648641"
+      "url": "https://t.co/XOfcDkUEMs",
+      "expand": "https://twitter.com/i/web/status/976421325685141504"
      }
     ]
    }
   },
   {
-   "id": 966325284512428000,
-   "id_str": "966325284512428033",
-   "created_at": "Wed Feb 21 14:54:35 +0000 2018",
-   "text": "RT @penultimateIO: Can you solve our first security challenge? https://t.co/MCFRyh5stk https://t.co/yH7rxPu8rj",
-   "retweet_count": 43,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/MCFRyh5stk",
-     "expand": "https://penultimate.github.io/challenges/XSS/000000-xss"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966321284064972800,
-    "id_str": "966321284064972800",
-    "created_at": "Wed Feb 21 14:38:42 +0000 2018",
-    "text": "Can you solve our first security challenge? https://t.co/MCFRyh5stk https://t.co/yH7rxPu8rj",
-    "retweet_count": 43,
-    "favorite_count": 108,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/MCFRyh5stk",
-      "expand": "https://penultimate.github.io/challenges/XSS/000000-xss"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965656018624577500,
-   "id_str": "965656018624577536",
-   "created_at": "Mon Feb 19 18:35:10 +0000 2018",
-   "text": "@mlgualtieri Yes, many people are doing that right now. For instance, there is @securitytext.",
-   "retweet_count": 1,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 965647026338893800,
-   "in_reply_to_status_id_str": "965647026338893825",
-   "in_reply_to_screen_name": "mlgualtieri",
-   "urls": []
-  },
-  {
-   "id": 965634541611372500,
-   "id_str": "965634541611372544",
-   "created_at": "Mon Feb 19 17:09:49 +0000 2018",
-   "text": "@hanno https://t.co/37xUPfEE0O",
+   "id": 976427859224006700,
+   "id_str": "976427859224006657",
+   "created_at": "Wed Mar 21 11:58:37 +0000 2018",
+   "text": "@davescruggs @troyhunt I understand; no worries. :)",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 965572288333705200,
-   "in_reply_to_status_id_str": "965572288333705216",
-   "in_reply_to_screen_name": "hanno",
+   "in_reply_to_status_id": 976426805681934300,
+   "in_reply_to_status_id_str": "976426805681934336",
+   "in_reply_to_screen_name": "davescruggs",
+   "urls": []
+  },
+  {
+   "id": 976425877671153700,
+   "id_str": "976425877671153665",
+   "created_at": "Wed Mar 21 11:50:45 +0000 2018",
+   "text": "@davescruggs @troyhunt It is only a seven minute talk. Otherwise, https://t.co/We7wme4IGz has a lot of information… https://t.co/bRRwtLSJN0",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 976425384932728800,
+   "in_reply_to_status_id_str": "976425384932728832",
+   "in_reply_to_screen_name": "davescruggs",
    "urls": [
     {
-     "url": "https://t.co/37xUPfEE0O",
-     "expand": "https://github.com/edoverflow/contact.sh"
+     "url": "https://t.co/We7wme4IGz",
+     "expand": "http://securitytxt.org"
+    },
+    {
+     "url": "https://t.co/bRRwtLSJN0",
+     "expand": "https://twitter.com/i/web/status/976425877671153665"
     }
    ]
   },
   {
-   "id": 965559093476954100,
-   "id_str": "965559093476954112",
-   "created_at": "Mon Feb 19 12:10:01 +0000 2018",
-   "text": ".@gerben_javado and I are launching https://t.co/Axb729N8Vm today! 🎉 https://t.co/y8Ox1omYW1",
-   "retweet_count": 11,
-   "favorite_count": 103,
+   "id": 976191082236186600,
+   "id_str": "976191082236186624",
+   "created_at": "Tue Mar 20 20:17:45 +0000 2018",
+   "text": "Today, I had the opportunity to present security.txt during the #IETF101 meeting. This was my first-ever IETF meeti… https://t.co/NekKVcmmuz",
+   "retweet_count": 1,
+   "favorite_count": 51,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/Axb729N8Vm",
-     "expand": "http://penultimate.io"
-    },
+     "url": "https://t.co/NekKVcmmuz",
+     "expand": "https://twitter.com/i/web/status/976191082236186624"
+    }
+   ]
+  },
+  {
+   "id": 975853564215078900,
+   "id_str": "975853564215078914",
+   "created_at": "Mon Mar 19 21:56:34 +0000 2018",
+   "text": "@tqbf @a_z_e_t https://t.co/dvGlXJQ7pG",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975829361541689300,
+   "in_reply_to_status_id_str": "975829361541689349",
+   "in_reply_to_screen_name": "tqbf",
+   "urls": [
     {
-     "url": "https://t.co/y8Ox1omYW1",
-     "expand": "https://twitter.com/penultimateIO/status/965549690954616832"
+     "url": "https://t.co/dvGlXJQ7pG",
+     "expand": "https://tools.ietf.org/html/rfc7282"
+    }
+   ]
+  },
+  {
+   "id": 975452740188065800,
+   "id_str": "975452740188065793",
+   "created_at": "Sun Mar 18 19:23:50 +0000 2018",
+   "text": "\"Can I take over XYZ?\", a guide for (sub)domain takeovers. Created with the help of @jackds1986, @gerben_javado, an… https://t.co/YSuquACIao",
+   "retweet_count": 200,
+   "favorite_count": 361,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YSuquACIao",
+     "expand": "https://twitter.com/i/web/status/975452740188065793"
+    }
+   ]
+  },
+  {
+   "id": 974251739586146300,
+   "id_str": "974251739586146305",
+   "created_at": "Thu Mar 15 11:51:30 +0000 2018",
+   "text": "RT @ThePracticalDev: This write-up analyzes three attack vectors that I stumbled across while conducting research on the security of WOT se…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974248873974751200,
+    "id_str": "974248873974751240",
+    "created_at": "Thu Mar 15 11:40:06 +0000 2018",
+    "text": "This write-up analyzes three attack vectors that I stumbled across while conducting research on the security of WOT… https://t.co/nqFYPvJYOm",
+    "retweet_count": 11,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nqFYPvJYOm",
+      "expand": "https://twitter.com/i/web/status/974248873974751240"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972092353262604300,
+   "id_str": "972092353262604290",
+   "created_at": "Fri Mar 09 12:50:52 +0000 2018",
+   "text": "RT @bugbountyforum: From bug bounties to security.txt! Check out @EdOverflow’s Ama. \nhttps://t.co/E9JVhqJ1pt https://t.co/z224J6IfvM",
+   "retweet_count": 45,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/E9JVhqJ1pt",
+     "expand": "https://bugbountyforum.com/blog/ama/edoverflow/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971823524431134700,
+    "id_str": "971823524431134720",
+    "created_at": "Thu Mar 08 19:02:38 +0000 2018",
+    "text": "From bug bounties to security.txt! Check out @EdOverflow’s Ama. \nhttps://t.co/E9JVhqJ1pt https://t.co/z224J6IfvM",
+    "retweet_count": 45,
+    "favorite_count": 117,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/E9JVhqJ1pt",
+      "expand": "https://bugbountyforum.com/blog/ama/edoverflow/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970276275066687500,
+   "id_str": "970276275066687488",
+   "created_at": "Sun Mar 04 12:34:25 +0000 2018",
+   "text": "@jobertabma @fransrosen https://t.co/5TNHQt70RF :)",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 970248930377203700,
+   "in_reply_to_status_id_str": "970248930377203713",
+   "in_reply_to_screen_name": "jobertabma",
+   "urls": [
+    {
+     "url": "https://t.co/5TNHQt70RF",
+     "expand": "https://edoverflow.com/tools/title"
+    }
+   ]
+  },
+  {
+   "id": 969979356855533600,
+   "id_str": "969979356855533571",
+   "created_at": "Sat Mar 03 16:54:34 +0000 2018",
+   "text": "RT @Ahmed_A_Eissa: I checked the Alexa Top 100,000 sites for security.txt files. As expected, there weren't that many, but here's a breakdo…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969637244591059000,
+    "id_str": "969637244591058946",
+    "created_at": "Fri Mar 02 18:15:08 +0000 2018",
+    "text": "I checked the Alexa Top 100,000 sites for security.txt files. As expected, there weren't that many, but here's a br… https://t.co/w55ZHCzCtX",
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/w55ZHCzCtX",
+      "expand": "https://twitter.com/i/web/status/969637244591058946"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968535874685358100,
+   "id_str": "968535874685358080",
+   "created_at": "Tue Feb 27 17:18:41 +0000 2018",
+   "text": "@tbmnull @Hacker0x01 I already receive those on a weekly basis. :P",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968531042016645100,
+   "id_str": "968531042016645120",
+   "created_at": "Tue Feb 27 16:59:29 +0000 2018",
+   "text": "I am officially joining @Hacker0x01 as a Security Analyst. My role will be to respond and triage reports for manage… https://t.co/bQZGmuNGKz",
+   "retweet_count": 5,
+   "favorite_count": 224,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bQZGmuNGKz",
+     "expand": "https://twitter.com/i/web/status/968531042016645120"
+    }
+   ]
+  },
+  {
+   "id": 966970709892268000,
+   "id_str": "966970709892268033",
+   "created_at": "Fri Feb 23 09:39:17 +0000 2018",
+   "text": "\"Hacking the Law: Are Bug Bounties a True Safe Harbor?\" by @AmitElazari. I highly recommend anybody in the bug boun… https://t.co/9J8pFrNTjA",
+   "retweet_count": 3,
+   "favorite_count": 18,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9J8pFrNTjA",
+     "expand": "https://twitter.com/i/web/status/966970709892268033"
     }
    ]
   }

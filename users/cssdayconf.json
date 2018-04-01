@@ -1,12 +1,366 @@
 {
- "time": 1519367405187,
+ "time": 1522595150579,
  "lists": [
+  {
+   "id": 979009555630841900,
+   "id_str": "979009555630841857",
+   "created_at": "Wed Mar 28 14:57:21 +0000 2018",
+   "text": "RT @gregwhitworth: This thread is awesome and shows the potential of CSS Houdini. Una says she's a noob at canvas but within a few hours sh…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978843617199513600,
+    "id_str": "978843617199513601",
+    "created_at": "Wed Mar 28 03:57:59 +0000 2018",
+    "text": "This thread is awesome and shows the potential of CSS Houdini. Una says she's a noob at canvas but within a few hou… https://t.co/gL4jHkZ4B6",
+    "retweet_count": 13,
+    "favorite_count": 40,
+    "place": "Lake Marcel-Stillwater, WA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gL4jHkZ4B6",
+      "expand": "https://twitter.com/i/web/status/978843617199513601"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979009340228194300,
+   "id_str": "979009340228194304",
+   "created_at": "Wed Mar 28 14:56:30 +0000 2018",
+   "text": "RT @jensimmons: There are many significant new(ish) tools in CSS that radically change what’s possible in web page layout &amp; graphic design.…",
+   "retweet_count": 313,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978720681948074000,
+    "id_str": "978720681948073986",
+    "created_at": "Tue Mar 27 19:49:28 +0000 2018",
+    "text": "There are many significant new(ish) tools in CSS that radically change what’s possible in web page layout &amp; graphic… https://t.co/XQlQP3ua9Y",
+    "retweet_count": 313,
+    "favorite_count": 1282,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XQlQP3ua9Y",
+      "expand": "https://twitter.com/i/web/status/978720681948073986"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978979912269860900,
+   "id_str": "978979912269860864",
+   "created_at": "Wed Mar 28 12:59:34 +0000 2018",
+   "text": "RT @ireaderinokun: New on bitsofcode! 💃🏿\n\n\"How display: contents; Works\"  https://t.co/2bWMhPriWI",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2bWMhPriWI",
+     "expand": "https://bitsofco.de/how-display-contents-works/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978572277716570100,
+    "id_str": "978572277716570112",
+    "created_at": "Tue Mar 27 09:59:46 +0000 2018",
+    "text": "New on bitsofcode! 💃🏿\n\n\"How display: contents; Works\"  https://t.co/2bWMhPriWI",
+    "retweet_count": 33,
+    "favorite_count": 86,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2bWMhPriWI",
+      "expand": "https://bitsofco.de/how-display-contents-works/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973928456789651500,
+   "id_str": "973928456789651456",
+   "created_at": "Wed Mar 14 14:26:53 +0000 2018",
+   "text": "RT @vicbergquist: Who’s going to @CSSconfeu or @cssdayconf or both!?",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973865007912923100,
+    "id_str": "973865007912923137",
+    "created_at": "Wed Mar 14 10:14:46 +0000 2018",
+    "text": "Who’s going to @CSSconfeu or @cssdayconf or both!?",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 973883202355060700,
+   "id_str": "973883202355060736",
+   "created_at": "Wed Mar 14 11:27:03 +0000 2018",
+   "text": "RT @lonekorean: Houdini will change how we approach CSS. It starts with the CSS Paint API, now on by default in the latest version of Chrom…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971748119539929100,
+    "id_str": "971748119539929092",
+    "created_at": "Thu Mar 08 14:03:00 +0000 2018",
+    "text": "Houdini will change how we approach CSS. It starts with the CSS Paint API, now on by default in the latest version… https://t.co/eYmnabCk9v",
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eYmnabCk9v",
+      "expand": "https://twitter.com/i/web/status/971748119539929092"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971714549245235200,
+   "id_str": "971714549245235200",
+   "created_at": "Thu Mar 08 11:49:36 +0000 2018",
+   "text": "RT @bfgeek: It's alive... \\o/\n\n(the CSS Layout API that is - not in canary yet, local build atm). https://t.co/ZydYAnDFaI",
+   "retweet_count": 78,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971505916259450900,
+    "id_str": "971505916259450880",
+    "created_at": "Wed Mar 07 22:00:34 +0000 2018",
+    "text": "It's alive... \\o/\n\n(the CSS Layout API that is - not in canary yet, local build atm). https://t.co/ZydYAnDFaI",
+    "retweet_count": 78,
+    "favorite_count": 311,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 971688231329771500,
+   "id_str": "971688231329771520",
+   "created_at": "Thu Mar 08 10:05:02 +0000 2018",
+   "text": "RT @LeaVerou: As of today, conic-gradient() was cleared for shipping by the @csswg! https://t.co/ZxQlhGCEZR\n\nExpect Chrome to unflag their…",
+   "retweet_count": 72,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZxQlhGCEZR",
+     "expand": "https://github.com/w3c/csswg-drafts/issues/2383#issuecomment-371340088"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971629715034378200,
+    "id_str": "971629715034378240",
+    "created_at": "Thu Mar 08 06:12:30 +0000 2018",
+    "text": "As of today, conic-gradient() was cleared for shipping by the @csswg! https://t.co/ZxQlhGCEZR\n\nExpect Chrome to unf… https://t.co/lw8CDRu5au",
+    "retweet_count": 72,
+    "favorite_count": 213,
+    "place": "Boston, MA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZxQlhGCEZR",
+      "expand": "https://github.com/w3c/csswg-drafts/issues/2383#issuecomment-371340088"
+     },
+     {
+      "url": "https://t.co/lw8CDRu5au",
+      "expand": "https://twitter.com/i/web/status/971629715034378240"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971327751797043200,
+   "id_str": "971327751797043200",
+   "created_at": "Wed Mar 07 10:12:37 +0000 2018",
+   "text": "@petervangrieken Lekker knus toch? :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971327338737782800,
+   "in_reply_to_status_id_str": "971327338737782785",
+   "in_reply_to_screen_name": "petervangrieken",
+   "urls": []
+  },
+  {
+   "id": 971326423137955800,
+   "id_str": "971326423137955840",
+   "created_at": "Wed Mar 07 10:07:20 +0000 2018",
+   "text": "We just reached 200 attendees: https://t.co/2i5W932M9S\n\nTicket still available for June 14 &amp; 15: https://t.co/LUyGEiZIhK",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2i5W932M9S",
+     "expand": "https://cssday.nl/2018/attendees"
+    },
+    {
+     "url": "https://t.co/LUyGEiZIhK",
+     "expand": "https://cssday.nl/2018"
+    }
+   ]
+  },
+  {
+   "id": 971289890922160100,
+   "id_str": "971289890922160128",
+   "created_at": "Wed Mar 07 07:42:10 +0000 2018",
+   "text": "RT @jaffathecake: 📝 Third party CSS is not 'safe'.\n➡️ Yes, in some situations CSS can 'keylog' password fields, but it's the tip of the ice…",
+   "retweet_count": 616,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968500192210227200,
+    "id_str": "968500192210227202",
+    "created_at": "Tue Feb 27 14:56:54 +0000 2018",
+    "text": "📝 Third party CSS is not 'safe'.\n➡️ Yes, in some situations CSS can 'keylog' password fields, but it's the tip of t… https://t.co/HARq4fgmw6",
+    "retweet_count": 616,
+    "favorite_count": 1024,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HARq4fgmw6",
+      "expand": "https://twitter.com/i/web/status/968500192210227202"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968508392661807100,
+   "id_str": "968508392661807104",
+   "created_at": "Tue Feb 27 15:29:29 +0000 2018",
+   "text": "RT @mathias: How can CSS be used for evil? https://t.co/HNKIb29VIy\n\nFrom my 2014 @cssdayconf talk.",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HNKIb29VIy",
+     "expand": "https://vimeo.com/100264064#t=21m36s"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968505057225400300,
+    "id_str": "968505057225400320",
+    "created_at": "Tue Feb 27 15:16:14 +0000 2018",
+    "text": "How can CSS be used for evil? https://t.co/HNKIb29VIy\n\nFrom my 2014 @cssdayconf talk.",
+    "retweet_count": 16,
+    "favorite_count": 47,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HNKIb29VIy",
+      "expand": "https://vimeo.com/100264064#t=21m36s"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968407992327704600,
+   "id_str": "968407992327704577",
+   "created_at": "Tue Feb 27 08:50:32 +0000 2018",
+   "text": "RT @bdc: Don’t change an element’s `display` for its side-effects, make your intent explicit instead!\n\n/* Remove the space below an image *…",
+   "retweet_count": 208,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968403171361067000,
+    "id_str": "968403171361067008",
+    "created_at": "Tue Feb 27 08:31:22 +0000 2018",
+    "text": "Don’t change an element’s `display` for its side-effects, make your intent explicit instead!\n\n/* Remove the space b… https://t.co/EduEYA1el3",
+    "retweet_count": 208,
+    "favorite_count": 963,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EduEYA1el3",
+      "expand": "https://twitter.com/i/web/status/968403171361067008"
+     }
+    ]
+   }
+  },
   {
    "id": 966677529166741500,
    "id_str": "966677529166741504",
    "created_at": "Thu Feb 22 14:14:17 +0000 2018",
    "text": "RT @jensimmons: Design your layouts on top of a good foundation of HTML, making sure your HTML semantics &amp; source order work for situations…",
-   "retweet_count": 103,
+   "retweet_count": 178,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,8 +372,8 @@
     "id_str": "966675222161248257",
     "created_at": "Thu Feb 22 14:05:07 +0000 2018",
     "text": "Design your layouts on top of a good foundation of HTML, making sure your HTML semantics &amp; source order work for si… https://t.co/BMQi34CHEV",
-    "retweet_count": 103,
-    "favorite_count": 258,
+    "retweet_count": 178,
+    "favorite_count": 452,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -28,140 +382,6 @@
      {
       "url": "https://t.co/BMQi34CHEV",
       "expand": "https://twitter.com/i/web/status/966675222161248257"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966624450195198000,
-   "id_str": "966624450195197952",
-   "created_at": "Thu Feb 22 10:43:22 +0000 2018",
-   "text": "RT @anatudor: I keep seeing ppl say \"what's the point of CSS vars when we have preprocessors\"/ \"why still use preprocessors when we now hav…",
-   "retweet_count": 55,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966594664265670700,
-    "id_str": "966594664265670658",
-    "created_at": "Thu Feb 22 08:45:01 +0000 2018",
-    "text": "I keep seeing ppl say \"what's the point of CSS vars when we have preprocessors\"/ \"why still use preprocessors when… https://t.co/sIQvkv6FD1",
-    "retweet_count": 55,
-    "favorite_count": 177,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/sIQvkv6FD1",
-      "expand": "https://twitter.com/i/web/status/966594664265670658"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965523589805019100,
-   "id_str": "965523589805019137",
-   "created_at": "Mon Feb 19 09:48:57 +0000 2018",
-   "text": "RT @bitworking: Shadow DOM and CSS: https://t.co/ZjjXNQPBJd",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/ZjjXNQPBJd",
-     "expand": "https://bitworking.org/news/2018/02/shadow-dom-and-css"
-    }
-   ],
-   "retweeted_status": {
-    "id": 962719865839718400,
-    "id_str": "962719865839718401",
-    "created_at": "Sun Feb 11 16:07:57 +0000 2018",
-    "text": "Shadow DOM and CSS: https://t.co/ZjjXNQPBJd",
-    "retweet_count": 2,
-    "favorite_count": 5,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ZjjXNQPBJd",
-      "expand": "https://bitworking.org/news/2018/02/shadow-dom-and-css"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965321445441179600,
-   "id_str": "965321445441179651",
-   "created_at": "Sun Feb 18 20:25:42 +0000 2018",
-   "text": "RT @AmeliasBrain: When *is* it appropriate to use the `order` property with CSS Flexbox layouts?\n\nWhen you're designing an Olympic podium!…",
-   "retweet_count": 36,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964751643135717400,
-    "id_str": "964751643135717377",
-    "created_at": "Sat Feb 17 06:41:30 +0000 2018",
-    "text": "When *is* it appropriate to use the `order` property with CSS Flexbox layouts?\n\nWhen you're designing an Olympic po… https://t.co/ws1GXuPghW",
-    "retweet_count": 36,
-    "favorite_count": 124,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ws1GXuPghW",
-      "expand": "https://twitter.com/i/web/status/964751643135717377"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964534691775897600,
-   "id_str": "964534691775897601",
-   "created_at": "Fri Feb 16 16:19:25 +0000 2018",
-   "text": "RT @Real_CSS_Tricks: CSS Basics: Using Multiple Backgrounds https://t.co/4w5JM1K9Mj https://t.co/qYlz0ohRzW",
-   "retweet_count": 66,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/4w5JM1K9Mj",
-     "expand": "https://css-tricks.com/css-basics-using-multiple-backgrounds/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 963878995170340900,
-    "id_str": "963878995170340867",
-    "created_at": "Wed Feb 14 20:53:55 +0000 2018",
-    "text": "CSS Basics: Using Multiple Backgrounds https://t.co/4w5JM1K9Mj https://t.co/qYlz0ohRzW",
-    "retweet_count": 66,
-    "favorite_count": 170,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/4w5JM1K9Mj",
-      "expand": "https://css-tricks.com/css-basics-using-multiple-backgrounds/"
      }
     ]
    }

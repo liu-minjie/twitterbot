@@ -1,59 +1,171 @@
 {
- "time": 1519367411453,
+ "time": 1522595161253,
  "lists": [
   {
-   "id": 966734838211395600,
-   "id_str": "966734838211395584",
-   "created_at": "Thu Feb 22 18:02:01 +0000 2018",
-   "text": "Now you can make authenticated 3rd-party embeds work under Safari’s Intelligent Tracking Prevention. Introducing St… https://t.co/Jc3soYiB6y",
-   "retweet_count": 24,
-   "favorite_count": 49,
+   "id": 976868537296982000,
+   "id_str": "976868537296982018",
+   "created_at": "Thu Mar 22 17:09:43 +0000 2018",
+   "text": "Learn about improvements to the Clipboard API in Safari and WebKit. https://t.co/f7R4jAidBP",
+   "retweet_count": 11,
+   "favorite_count": 40,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/Jc3soYiB6y",
-     "expand": "https://twitter.com/i/web/status/966734838211395584"
+     "url": "https://t.co/f7R4jAidBP",
+     "expand": "https://webkit.org/blog/8170/clipboard-api-improvements/"
     }
    ]
   },
   {
-   "id": 966372442951307300,
-   "id_str": "966372442951307284",
-   "created_at": "Wed Feb 21 18:01:59 +0000 2018",
-   "text": "Release notes for today’s Safari Technology Preview release 50 update are now available. \nhttps://t.co/05huKGvW3b https://t.co/O4hYtqFjxu",
-   "retweet_count": 40,
-   "favorite_count": 89,
+   "id": 976504311843868700,
+   "id_str": "976504311843868673",
+   "created_at": "Wed Mar 21 17:02:25 +0000 2018",
+   "text": "Release notes for today’s Safari Technology Preview release 52 update are now available. \nhttps://t.co/2fpOO1oNFe https://t.co/q02MRKSTJg",
+   "retweet_count": 20,
+   "favorite_count": 37,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/05huKGvW3b",
-     "expand": "https://webkit.org/blog/8121/release-notes-for-safari-technology-preview-50/"
+     "url": "https://t.co/2fpOO1oNFe",
+     "expand": "https://webkit.org/blog/8165/release-notes-for-safari-technology-preview-52/"
     }
    ]
   },
   {
-   "id": 961306365464629200,
-   "id_str": "961306365464629249",
-   "created_at": "Wed Feb 07 18:31:12 +0000 2018",
-   "text": "Release notes for today’s Safari Technology Preview release 49 update are now available. \nhttps://t.co/J3pRzNqwGC https://t.co/brO0OuGAPJ",
-   "retweet_count": 35,
-   "favorite_count": 68,
+   "id": 974707373758668800,
+   "id_str": "974707373758668800",
+   "created_at": "Fri Mar 16 18:02:01 +0000 2018",
+   "text": "How WebKit crumbles the \"Super Cookie\". https://t.co/iwOpjM8p9f",
+   "retweet_count": 91,
+   "favorite_count": 141,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/J3pRzNqwGC",
-     "expand": "https://webkit.org/blog/8088/release-notes-for-safari-technology-preview-49/"
+     "url": "https://t.co/iwOpjM8p9f",
+     "expand": "https://webkit.org/blog/8146/protecting-against-hsts-abuse/"
     }
    ]
+  },
+  {
+   "id": 974271236950843400,
+   "id_str": "974271236950843393",
+   "created_at": "Thu Mar 15 13:08:58 +0000 2018",
+   "text": "RT @johnwilander: WebKit partitions Service Workers to prevent cross-site tracking: https://t.co/qtYmXvhCgf",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qtYmXvhCgf",
+     "expand": "https://webkit.org/blog/8090/workers-at-your-service/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973567964388540400,
+    "id_str": "973567964388540416",
+    "created_at": "Tue Mar 13 14:34:25 +0000 2018",
+    "text": "WebKit partitions Service Workers to prevent cross-site tracking: https://t.co/qtYmXvhCgf",
+    "retweet_count": 15,
+    "favorite_count": 56,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qtYmXvhCgf",
+      "expand": "https://webkit.org/blog/8090/workers-at-your-service/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974012939253379100,
+   "id_str": "974012939253379073",
+   "created_at": "Wed Mar 14 20:02:35 +0000 2018",
+   "text": "Get details on the updates to Intelligent Tracking Prevention for Safari available in the macOS and iOS betas.\nhttps://t.co/Remma926ma",
+   "retweet_count": 23,
+   "favorite_count": 53,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Remma926ma",
+     "expand": "https://webkit.org/blog/8142/intelligent-tracking-prevention-1-1/"
+    }
+   ]
+  },
+  {
+   "id": 971445887359766500,
+   "id_str": "971445887359766528",
+   "created_at": "Wed Mar 07 18:02:02 +0000 2018",
+   "text": "Release notes for today’s Safari Technology Preview release 51 update are now available. \nhttps://t.co/FuznP4dxfd https://t.co/M0vx8QvKRF",
+   "retweet_count": 17,
+   "favorite_count": 44,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FuznP4dxfd",
+     "expand": "https://buff.ly/2tmBTU5"
+    }
+   ]
+  },
+  {
+   "id": 967126029943779300,
+   "id_str": "967126029943779328",
+   "created_at": "Fri Feb 23 19:56:28 +0000 2018",
+   "text": "RT @bfulgham: Want to help improve Safari/WebKit’s compatibility with Web Standards? Come join my team! https://t.co/yzXTHMt0gr\n\nAlso: You…",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yzXTHMt0gr",
+     "expand": "https://apple.co/2BHeLSW"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966896911604056000,
+    "id_str": "966896911604056064",
+    "created_at": "Fri Feb 23 04:46:02 +0000 2018",
+    "text": "Want to help improve Safari/WebKit’s compatibility with Web Standards? Come join my team! https://t.co/yzXTHMt0gr… https://t.co/rBJY830nan",
+    "retweet_count": 49,
+    "favorite_count": 74,
+    "place": "Willow Glen, San Jose",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yzXTHMt0gr",
+      "expand": "https://apple.co/2BHeLSW"
+     },
+     {
+      "url": "https://t.co/rBJY830nan",
+      "expand": "https://twitter.com/i/web/status/966896911604056064"
+     }
+    ]
+   }
   }
  ]
 }

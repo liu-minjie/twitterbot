@@ -103,6 +103,7 @@ function getStatusesUserTimeline(count, ret, username, max_id, since_id, next) {
 
 	  if (error) {
 	  	if (error.message.indexOf('401 Auth') != -1) {
+console.log(username, 401)
 	  		return  saveTimeline(username, ret, count, next);
 	  	}
 	  	if (count > 14) {

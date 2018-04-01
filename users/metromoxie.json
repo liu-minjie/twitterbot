@@ -1,12 +1,854 @@
 {
- "time": 1519367435956,
+ "time": 1522595212702,
  "lists": [
+  {
+   "id": 979541245058940900,
+   "id_str": "979541245058940928",
+   "created_at": "Fri Mar 30 02:10:06 +0000 2018",
+   "text": "@nasko @imelven Yeah, it's been an amazingly smooth transition for me as well. Congratulations on building such a s… https://t.co/NFX23IRSbX",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979468525398982700,
+   "in_reply_to_status_id_str": "979468525398982657",
+   "in_reply_to_screen_name": "nasko",
+   "urls": [
+    {
+     "url": "https://t.co/NFX23IRSbX",
+     "expand": "https://twitter.com/i/web/status/979541245058940928"
+    }
+   ]
+  },
+  {
+   "id": 979541006008836100,
+   "id_str": "979541006008836096",
+   "created_at": "Fri Mar 30 02:09:09 +0000 2018",
+   "text": "RT @nasko: We have enabled Site Isolation on Chrome Beta to ensure we get as much coverage as possible before making it the default. If you…",
+   "retweet_count": 66,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979467478832111600,
+    "id_str": "979467478832111616",
+    "created_at": "Thu Mar 29 21:16:59 +0000 2018",
+    "text": "We have enabled Site Isolation on Chrome Beta to ensure we get as much coverage as possible before making it the de… https://t.co/07PybQNYBL",
+    "retweet_count": 66,
+    "favorite_count": 109,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/07PybQNYBL",
+      "expand": "https://twitter.com/i/web/status/979467478832111616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978775196839460900,
+   "id_str": "978775196839460864",
+   "created_at": "Tue Mar 27 23:26:06 +0000 2018",
+   "text": "RT @vanitaguptaCR: Uh... no. Census hasn’t included a citizenship question on the form sent to all households since 1950, pre-civil rights…",
+   "retweet_count": 2037,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978717533724467200,
+    "id_str": "978717533724467200",
+    "created_at": "Tue Mar 27 19:36:58 +0000 2018",
+    "text": "Uh... no. Census hasn’t included a citizenship question on the form sent to all households since 1950, pre-civil ri… https://t.co/Bn5m4Q5TK2",
+    "retweet_count": 2037,
+    "favorite_count": 3706,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Bn5m4Q5TK2",
+      "expand": "https://twitter.com/i/web/status/978717533724467200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978740406140657700,
+   "id_str": "978740406140657665",
+   "created_at": "Tue Mar 27 21:07:51 +0000 2018",
+   "text": "RT @agl__: All about Security Keys and the Web Authentication API, which should bring wide browser support this year: https://t.co/7KM7KEXK…",
+   "retweet_count": 161,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978633568447426600,
+    "id_str": "978633568447426560",
+    "created_at": "Tue Mar 27 14:03:19 +0000 2018",
+    "text": "All about Security Keys and the Web Authentication API, which should bring wide browser support this year: https://t.co/7KM7KEXK79",
+    "retweet_count": 161,
+    "favorite_count": 274,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7KM7KEXK79",
+      "expand": "https://www.imperialviolet.org/2018/03/27/webauthn.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978706857630953500,
+   "id_str": "978706857630953472",
+   "created_at": "Tue Mar 27 18:54:33 +0000 2018",
+   "text": "RT @freddyb: might be looking for someone for a temporary gig at @MozillaSecurity (in  Berlin?) during June/July/August. – Sandboxing (secc…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978703662645211100,
+    "id_str": "978703662645211136",
+    "created_at": "Tue Mar 27 18:41:51 +0000 2018",
+    "text": "might be looking for someone for a temporary gig at @MozillaSecurity (in  Berlin?) during June/July/August. – Sandb… https://t.co/bd40YsCY92",
+    "retweet_count": 19,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bd40YsCY92",
+      "expand": "https://twitter.com/i/web/status/978703662645211136"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978668825540403200,
+   "id_str": "978668825540403207",
+   "created_at": "Tue Mar 27 16:23:25 +0000 2018",
+   "text": "RT @marciahofmann: Federal Circuit finds that Google's use of Java API packages in the Android operating system was not fair use as a matte…",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978637746855006200,
+    "id_str": "978637746855006210",
+    "created_at": "Tue Mar 27 14:19:55 +0000 2018",
+    "text": "Federal Circuit finds that Google's use of Java API packages in the Android operating system was not fair use as a… https://t.co/yDmqVe8UYs",
+    "retweet_count": 33,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": 978634509519220700,
+    "in_reply_to_status_id_str": "978634509519220736",
+    "in_reply_to_screen_name": "marciahofmann",
+    "urls": [
+     {
+      "url": "https://t.co/yDmqVe8UYs",
+      "expand": "https://twitter.com/i/web/status/978637746855006210"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978483748546125800,
+   "id_str": "978483748546125824",
+   "created_at": "Tue Mar 27 04:07:59 +0000 2018",
+   "text": "RT @ellievhall: \"It's a gun issue. So few people w/ mental illness are dangerous and equating the two deepens the stigma\" — Rachel from OH…",
+   "retweet_count": 945,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977637986878750700,
+    "id_str": "977637986878750722",
+    "created_at": "Sat Mar 24 20:07:14 +0000 2018",
+    "text": "\"It's a gun issue. So few people w/ mental illness are dangerous and equating the two deepens the stigma\" — Rachel… https://t.co/Ggvarh1JtO",
+    "retweet_count": 945,
+    "favorite_count": 2602,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ggvarh1JtO",
+      "expand": "https://twitter.com/i/web/status/977637986878750722"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978064990920835100,
+   "id_str": "978064990920835072",
+   "created_at": "Mon Mar 26 00:24:00 +0000 2018",
+   "text": "RT @slightlylate: There was a partner meeting w/ a potential PWA developer I'll never forget: we were discussing new web features and they…",
+   "retweet_count": 37,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977955875884183600,
+    "id_str": "977955875884183552",
+    "created_at": "Sun Mar 25 17:10:25 +0000 2018",
+    "text": "There was a partner meeting w/ a potential PWA developer I'll never forget: we were discussing new web features and… https://t.co/cOsxSjT14u",
+    "retweet_count": 37,
+    "favorite_count": 78,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cOsxSjT14u",
+      "expand": "https://twitter.com/i/web/status/977955875884183552"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976507232249528300,
+   "id_str": "976507232249528320",
+   "created_at": "Wed Mar 21 17:14:01 +0000 2018",
+   "text": "Patterson and Hennessy awarded Turing Award: https://t.co/hQ77UgFczr",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hQ77UgFczr",
+     "expand": "https://www.nytimes.com/2018/03/21/technology/computer-chips-turing-award.html"
+    }
+   ]
+  },
+  {
+   "id": 976505637361270800,
+   "id_str": "976505637361270784",
+   "created_at": "Wed Mar 21 17:07:41 +0000 2018",
+   "text": "RT @scarybeasts: [blog] Dropbox: Protecting Security Researchers. More to do but I think this is a strong start. Please join us: https://t.…",
+   "retweet_count": 82,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976505190407798800,
+    "id_str": "976505190407798784",
+    "created_at": "Wed Mar 21 17:05:54 +0000 2018",
+    "text": "[blog] Dropbox: Protecting Security Researchers. More to do but I think this is a strong start. Please join us: https://t.co/G6LF1tS22N",
+    "retweet_count": 82,
+    "favorite_count": 170,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/G6LF1tS22N",
+      "expand": "https://blogs.dropbox.com/tech/2018/03/protecting-security-researchers/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976298569098444800,
+   "id_str": "976298569098444800",
+   "created_at": "Wed Mar 21 03:24:52 +0000 2018",
+   "text": "RT @arainert: I can’t remember the last time I came across dark pattern UX as dark as what I just went through trying to cancel Amazon Musi…",
+   "retweet_count": 3787,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976269228755112000,
+    "id_str": "976269228755111937",
+    "created_at": "Wed Mar 21 01:28:16 +0000 2018",
+    "text": "I can’t remember the last time I came across dark pattern UX as dark as what I just went through trying to cancel A… https://t.co/59zcq04jCP",
+    "retweet_count": 3787,
+    "favorite_count": 8441,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/59zcq04jCP",
+      "expand": "https://twitter.com/i/web/status/976269228755111937"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976140683282018300,
+   "id_str": "976140683282018304",
+   "created_at": "Tue Mar 20 16:57:29 +0000 2018",
+   "text": "RT @zackwhittaker: Telegram founder @durov once said: \"The encryption of Signal was funded by the US government. I predict a backdoor will…",
+   "retweet_count": 262,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976127837332803600,
+    "id_str": "976127837332803584",
+    "created_at": "Tue Mar 20 16:06:26 +0000 2018",
+    "text": "Telegram founder @durov once said: \"The encryption of Signal was funded by the US government. I predict a backdoor… https://t.co/6XahZVUDyl",
+    "retweet_count": 262,
+    "favorite_count": 216,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6XahZVUDyl",
+      "expand": "https://twitter.com/i/web/status/976127837332803584"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976090648439808000,
+   "id_str": "976090648439808003",
+   "created_at": "Tue Mar 20 13:38:40 +0000 2018",
+   "text": "@LeviDub @fugueish @estark37 @itswillis Which reminds me, with both me and @LeviDub gone, the beard situation is also dire.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976090425936269300,
+   "in_reply_to_status_id_str": "976090425936269312",
+   "in_reply_to_screen_name": "LeviDub",
+   "urls": []
+  },
+  {
+   "id": 976085028886032400,
+   "id_str": "976085028886032385",
+   "created_at": "Tue Mar 20 13:16:20 +0000 2018",
+   "text": "@fugueish @estark37 @itswillis The cheese plates and the monster chocolate chip cookies alas are also out. All is t… https://t.co/TuXj2h9zbH",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975959480461480000,
+   "in_reply_to_status_id_str": "975959480461479938",
+   "in_reply_to_screen_name": "fugueish",
+   "urls": [
+    {
+     "url": "https://t.co/TuXj2h9zbH",
+     "expand": "https://twitter.com/i/web/status/976085028886032385"
+    }
+   ]
+  },
+  {
+   "id": 975398915850739700,
+   "id_str": "975398915850739712",
+   "created_at": "Sun Mar 18 15:49:58 +0000 2018",
+   "text": "@asrabkin Yes. It took me a few weeks, but even then, if I head weird sounds, I'd panic. Didn't fully go away until… https://t.co/c2xoeWqafC",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975362502606381000,
+   "in_reply_to_status_id_str": "975362502606381057",
+   "in_reply_to_screen_name": "asrabkin",
+   "urls": [
+    {
+     "url": "https://t.co/c2xoeWqafC",
+     "expand": "https://twitter.com/i/web/status/975398915850739712"
+    }
+   ]
+  },
+  {
+   "id": 974734261105320000,
+   "id_str": "974734261105319936",
+   "created_at": "Fri Mar 16 19:48:52 +0000 2018",
+   "text": "\"Republicans Say Forced Labor Is Good for Detained Immigrants in Letter\" I mean, I guess nothing shocks me anymore,… https://t.co/FF5fDtWuO2",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FF5fDtWuO2",
+     "expand": "https://twitter.com/i/web/status/974734261105319936"
+    }
+   ]
+  },
+  {
+   "id": 974374126193229800,
+   "id_str": "974374126193229824",
+   "created_at": "Thu Mar 15 19:57:49 +0000 2018",
+   "text": "RT @ananavarro: I commend you for quickly introducing legislation to avoid same horrible tragedy, after a dog died on an airline. I hope it…",
+   "retweet_count": 28709,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974107181854359600,
+    "id_str": "974107181854359552",
+    "created_at": "Thu Mar 15 02:17:04 +0000 2018",
+    "text": "I commend you for quickly introducing legislation to avoid same horrible tragedy, after a dog died on an airline. I… https://t.co/hxMqszc2wF",
+    "retweet_count": 28709,
+    "favorite_count": 99446,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hxMqszc2wF",
+      "expand": "https://twitter.com/i/web/status/974107181854359552"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973652247027445800,
+   "id_str": "973652247027445760",
+   "created_at": "Tue Mar 13 20:09:19 +0000 2018",
+   "text": "@mikewest @laparisa Truly one of my greatest loses.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 973623507769839600,
+   "in_reply_to_status_id_str": "973623507769839616",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 973652038750912500,
+   "id_str": "973652038750912512",
+   "created_at": "Tue Mar 13 20:08:30 +0000 2018",
+   "text": "RT @__apf__: As I flipped through some inspirational quotes, I was startled to see my own face. Wow, glad my views on security and usabilit…",
+   "retweet_count": 247,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973382593935679500,
+    "id_str": "973382593935679488",
+    "created_at": "Tue Mar 13 02:17:49 +0000 2018",
+    "text": "As I flipped through some inspirational quotes, I was startled to see my own face. Wow, glad my views on security a… https://t.co/VUUp7jJccX",
+    "retweet_count": 247,
+    "favorite_count": 1473,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VUUp7jJccX",
+      "expand": "https://twitter.com/i/web/status/973382593935679488"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973626643867566100,
+   "id_str": "973626643867566081",
+   "created_at": "Tue Mar 13 18:27:35 +0000 2018",
+   "text": "RT @letsencrypt: Let's Encrypt wildcard certificates and ACMEv2 are available today! More information can be found here: https://t.co/0SdH9…",
+   "retweet_count": 3490,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973607502188195800,
+    "id_str": "973607502188195840",
+    "created_at": "Tue Mar 13 17:11:31 +0000 2018",
+    "text": "Let's Encrypt wildcard certificates and ACMEv2 are available today! More information can be found here: https://t.co/0SdH98Oabn",
+    "retweet_count": 3490,
+    "favorite_count": 3808,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0SdH98Oabn",
+      "expand": "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972827724073979900,
+   "id_str": "972827724073979904",
+   "created_at": "Sun Mar 11 13:32:58 +0000 2018",
+   "text": "RT @agl__: When Her Majesty's Government is confused about TLS 1.3: https://t.co/3PR55aPuxY",
+   "retweet_count": 151,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3PR55aPuxY",
+     "expand": "https://www.imperialviolet.org/2018/03/10/tls13.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972634573925331000,
+    "id_str": "972634573925330946",
+    "created_at": "Sun Mar 11 00:45:27 +0000 2018",
+    "text": "When Her Majesty's Government is confused about TLS 1.3: https://t.co/3PR55aPuxY",
+    "retweet_count": 151,
+    "favorite_count": 211,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3PR55aPuxY",
+      "expand": "https://www.imperialviolet.org/2018/03/10/tls13.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971552473771950100,
+   "id_str": "971552473771950080",
+   "created_at": "Thu Mar 08 01:05:34 +0000 2018",
+   "text": "@mattcutts So sorry to hear. My condolences.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971542304065548300,
+   "in_reply_to_status_id_str": "971542304065548289",
+   "in_reply_to_screen_name": "mattcutts",
+   "urls": []
+  },
+  {
+   "id": 971421386949324800,
+   "id_str": "971421386949324800",
+   "created_at": "Wed Mar 07 16:24:41 +0000 2018",
+   "text": "RT @SharonBrous: Today is the 53rd anniversary of \"Bloody Sunday,\" when civil rights marchers-- clergy and students-- were beaten and tear-…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971398841227341800,
+    "id_str": "971398841227341825",
+    "created_at": "Wed Mar 07 14:55:06 +0000 2018",
+    "text": "Today is the 53rd anniversary of \"Bloody Sunday,\" when civil rights marchers-- clergy and students-- were beaten an… https://t.co/duYhb1sDxq",
+    "retweet_count": 36,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/duYhb1sDxq",
+      "expand": "https://twitter.com/i/web/status/971398841227341825"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970541705324781600,
+   "id_str": "970541705324781568",
+   "created_at": "Mon Mar 05 06:09:08 +0000 2018",
+   "text": "RT @realfrgx: omg. read that whole thing. this reads like a parody or some gag as part of \"Silicon Valley\" https://t.co/uC9HB8nO1g",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/uC9HB8nO1g",
+     "expand": "https://twitter.com/dhh/status/970366997270732800"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970491073427488800,
+    "id_str": "970491073427488769",
+    "created_at": "Mon Mar 05 02:47:57 +0000 2018",
+    "text": "omg. read that whole thing. this reads like a parody or some gag as part of \"Silicon Valley\" https://t.co/uC9HB8nO1g",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uC9HB8nO1g",
+      "expand": "https://twitter.com/dhh/status/970366997270732800"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970105492675608600,
+   "id_str": "970105492675608576",
+   "created_at": "Sun Mar 04 01:15:47 +0000 2018",
+   "text": "RT @jimsciutto: The President of the United States on the unelected leader of authoritarian China: “He's now president for life. President…",
+   "retweet_count": 6173,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970093342829707300,
+    "id_str": "970093342829707265",
+    "created_at": "Sun Mar 04 00:27:31 +0000 2018",
+    "text": "The President of the United States on the unelected leader of authoritarian China: “He's now president for life. Pr… https://t.co/QXUvOqmNFd",
+    "retweet_count": 6173,
+    "favorite_count": 5910,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QXUvOqmNFd",
+      "expand": "https://twitter.com/i/web/status/970093342829707265"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969295582895341600,
+   "id_str": "969295582895341568",
+   "created_at": "Thu Mar 01 19:37:30 +0000 2018",
+   "text": "RT @StreetsblogLA: Metro mtg: Solis saying she wants to address “congestion on surface streets” asthma, diabetes, other health issues, “cle…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969279423466766300,
+    "id_str": "969279423466766336",
+    "created_at": "Thu Mar 01 18:33:17 +0000 2018",
+    "text": "Metro mtg: Solis saying she wants to address “congestion on surface streets” asthma, diabetes, other health issues,… https://t.co/68bT2tx8C7",
+    "retweet_count": 8,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/68bT2tx8C7",
+      "expand": "https://twitter.com/i/web/status/969279423466766336"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969088275318112300,
+   "id_str": "969088275318112256",
+   "created_at": "Thu Mar 01 05:53:44 +0000 2018",
+   "text": "RT @geofft: Okay, this Trustico SSL certificate disaster looks _amazing._ As far as I can tell, the most likely story is:",
+   "retweet_count": 1486,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968937746214596600,
+    "id_str": "968937746214596610",
+    "created_at": "Wed Feb 28 19:55:35 +0000 2018",
+    "text": "Okay, this Trustico SSL certificate disaster looks _amazing._ As far as I can tell, the most likely story is:",
+    "retweet_count": 1486,
+    "favorite_count": 1964,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 968951365706727400,
+   "id_str": "968951365706727424",
+   "created_at": "Wed Feb 28 20:49:42 +0000 2018",
+   "text": "@taviso \"It's e2e if I send you the private keys right?\"",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 968930688303968300,
+   "in_reply_to_status_id_str": "968930688303968256",
+   "in_reply_to_screen_name": "taviso",
+   "urls": []
+  },
+  {
+   "id": 968884942024265700,
+   "id_str": "968884942024265733",
+   "created_at": "Wed Feb 28 16:25:45 +0000 2018",
+   "text": "RT @nomorefreeways: Oregon legislators, Democrat and Republican alike, mulling how to make a little extra money off taxing children’s bikes…",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968714113319886800,
+    "id_str": "968714113319886848",
+    "created_at": "Wed Feb 28 05:06:57 +0000 2018",
+    "text": "Oregon legislators, Democrat and Republican alike, mulling how to make a little extra money off taxing children’s b… https://t.co/OlDBqgLYyq",
+    "retweet_count": 36,
+    "favorite_count": 59,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OlDBqgLYyq",
+      "expand": "https://twitter.com/i/web/status/968714113319886848"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968615545359630300,
+   "id_str": "968615545359630336",
+   "created_at": "Tue Feb 27 22:35:16 +0000 2018",
+   "text": "RT @jaffathecake: 📝 Third party CSS is not 'safe'.\n➡️ Yes, in some situations CSS can 'keylog' password fields, but it's the tip of the ice…",
+   "retweet_count": 616,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968500192210227200,
+    "id_str": "968500192210227202",
+    "created_at": "Tue Feb 27 14:56:54 +0000 2018",
+    "text": "📝 Third party CSS is not 'safe'.\n➡️ Yes, in some situations CSS can 'keylog' password fields, but it's the tip of t… https://t.co/HARq4fgmw6",
+    "retweet_count": 616,
+    "favorite_count": 1024,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HARq4fgmw6",
+      "expand": "https://twitter.com/i/web/status/968500192210227202"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968130894262186000,
+   "id_str": "968130894262185984",
+   "created_at": "Mon Feb 26 14:29:26 +0000 2018",
+   "text": "@fugueish That's most nights for me. My wife usually has to shake me to get me to put it on the stand :-/",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968000554977787900,
+   "in_reply_to_status_id_str": "968000554977787904",
+   "in_reply_to_screen_name": "fugueish",
+   "urls": []
+  },
+  {
+   "id": 967859720710246400,
+   "id_str": "967859720710246406",
+   "created_at": "Sun Feb 25 20:31:54 +0000 2018",
+   "text": "RT @Scott_Wiener: Some portray market-rate housing &amp; low-income housing as mutually exclusive. They’re not. It’s not an either-or. It’s a b…",
+   "retweet_count": 160,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967801222328565800,
+    "id_str": "967801222328565762",
+    "created_at": "Sun Feb 25 16:39:26 +0000 2018",
+    "text": "Some portray market-rate housing &amp; low-income housing as mutually exclusive. They’re not. It’s not an either-or. It… https://t.co/xMCLt2oxde",
+    "retweet_count": 160,
+    "favorite_count": 428,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xMCLt2oxde",
+      "expand": "https://twitter.com/i/web/status/967801222328565762"
+     }
+    ]
+   }
+  },
   {
    "id": 966811395181424600,
    "id_str": "966811395181424642",
    "created_at": "Thu Feb 22 23:06:13 +0000 2018",
    "text": "RT @danfreedman: A pretty day in SF🌈 https://t.co/LTyXJ30ucS",
-   "retweet_count": 6,
+   "retweet_count": 10,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,177 +860,13 @@
     "id_str": "966802141032603648",
     "created_at": "Thu Feb 22 22:29:27 +0000 2018",
     "text": "A pretty day in SF🌈 https://t.co/LTyXJ30ucS",
-    "retweet_count": 6,
-    "favorite_count": 39,
+    "retweet_count": 10,
+    "favorite_count": 74,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
-   }
-  },
-  {
-   "id": 966810470412730400,
-   "id_str": "966810470412730368",
-   "created_at": "Thu Feb 22 23:02:33 +0000 2018",
-   "text": "RT @sleevi_: The distrust of Legacy Symantec Certificates has landed in @firefox 60, and can now be seen in @FirefoxNightly (as well as @go…",
-   "retweet_count": 36,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966684357271412700,
-    "id_str": "966684357271412738",
-    "created_at": "Thu Feb 22 14:41:25 +0000 2018",
-    "text": "The distrust of Legacy Symantec Certificates has landed in @firefox 60, and can now be seen in @FirefoxNightly (as… https://t.co/tWSgG1i8Oz",
-    "retweet_count": 36,
-    "favorite_count": 32,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/tWSgG1i8Oz",
-      "expand": "https://twitter.com/i/web/status/966684357271412738"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966429764763377700,
-   "id_str": "966429764763377664",
-   "created_at": "Wed Feb 21 21:49:45 +0000 2018",
-   "text": "RT @Maddz4planning: No. No, @metrolosangeles banning phones in crosswalks is not a solution. It's bad policy all around. Please think about…",
-   "retweet_count": 16,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966170295328424000,
-    "id_str": "966170295328423936",
-    "created_at": "Wed Feb 21 04:38:43 +0000 2018",
-    "text": "No. No, @metrolosangeles banning phones in crosswalks is not a solution. It's bad policy all around. Please think a… https://t.co/CsfgfMH3Qp",
-    "retweet_count": 16,
-    "favorite_count": 47,
-    "place": "West Hollywood, CA",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/CsfgfMH3Qp",
-      "expand": "https://twitter.com/i/web/status/966170295328423936"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966201864197935100,
-   "id_str": "966201864197935106",
-   "created_at": "Wed Feb 21 06:44:10 +0000 2018",
-   "text": "RT @frgx: This is amazing.https://t.co/Adc2PfPqQO\n\nI have read all the papers and all the csp bypasses but there is a simple beauty to havi…",
-   "retweet_count": 11,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/Adc2PfPqQO",
-     "expand": "https://github.com/maxchehab/CSS-Keylogging/blob/master/README.md"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966043803600633900,
-    "id_str": "966043803600633856",
-    "created_at": "Tue Feb 20 20:16:05 +0000 2018",
-    "text": "This is amazing.https://t.co/Adc2PfPqQO\n\nI have read all the papers and all the csp bypasses but there is a simple… https://t.co/UC9hGo9u8x",
-    "retweet_count": 11,
-    "favorite_count": 38,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/Adc2PfPqQO",
-      "expand": "https://github.com/maxchehab/CSS-Keylogging/blob/master/README.md"
-     },
-     {
-      "url": "https://t.co/UC9hGo9u8x",
-      "expand": "https://twitter.com/i/web/status/966043803600633856"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966133621944762400,
-   "id_str": "966133621944762368",
-   "created_at": "Wed Feb 21 02:13:00 +0000 2018",
-   "text": "RT @AlecMacGillis: Baltimore’s only subway line, which 20,000 people rely on daily, is shut for repairs for at least a month. Meanwhile, sy…",
-   "retweet_count": 218,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966132287778775000,
-    "id_str": "966132287778775040",
-    "created_at": "Wed Feb 21 02:07:41 +0000 2018",
-    "text": "Baltimore’s only subway line, which 20,000 people rely on daily, is shut for repairs for at least a month. Meanwhil… https://t.co/wmDjYWmcrG",
-    "retweet_count": 218,
-    "favorite_count": 465,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/wmDjYWmcrG",
-      "expand": "https://twitter.com/i/web/status/966132287778775040"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965056237913034800,
-   "id_str": "965056237913034752",
-   "created_at": "Sun Feb 18 02:51:51 +0000 2018",
-   "text": "RT @reaperhulk: Gervase Markham’s work on Mozilla’s PKI program was mostly invisible (to laypeople) yet incredibly impactful to the securit…",
-   "retweet_count": 46,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964720383428563000,
-    "id_str": "964720383428562944",
-    "created_at": "Sat Feb 17 04:37:17 +0000 2018",
-    "text": "Gervase Markham’s work on Mozilla’s PKI program was mostly invisible (to laypeople) yet incredibly impactful to the… https://t.co/396bryZECV",
-    "retweet_count": 46,
-    "favorite_count": 78,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/396bryZECV",
-      "expand": "https://twitter.com/i/web/status/964720383428562944"
-     }
-    ]
    }
   }
  ]

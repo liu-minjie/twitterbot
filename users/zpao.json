@@ -1,12 +1,954 @@
 {
- "time": 1519367082189,
+ "time": 1522595115610,
  "lists": [
+  {
+   "id": 980334032033640400,
+   "id_str": "980334032033640448",
+   "created_at": "Sun Apr 01 06:40:21 +0000 2018",
+   "text": "\"and after the party it's the _____ _____.\" @ The Murray https://t.co/m5tla4mrvo",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "中西區, 香港",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/m5tla4mrvo",
+     "expand": "https://www.instagram.com/p/BhBKKZinIkA/"
+    }
+   ]
+  },
+  {
+   "id": 979512811440107500,
+   "id_str": "979512811440107521",
+   "created_at": "Fri Mar 30 00:17:07 +0000 2018",
+   "text": "@chantastic Nah, I totally forgot and haven't really been involved a whole lot post-15.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979510719002509300,
+   "in_reply_to_status_id_str": "979510719002509314",
+   "in_reply_to_screen_name": "chantastic",
+   "urls": []
+  },
+  {
+   "id": 979512406811451400,
+   "id_str": "979512406811451393",
+   "created_at": "Fri Mar 30 00:15:30 +0000 2018",
+   "text": "I *guess* you could say it looks like that but how does that help? https://t.co/0tpAWZ33mZ",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 979496587893211100,
+   "id_str": "979496587893211136",
+   "created_at": "Thu Mar 29 23:12:39 +0000 2018",
+   "text": "@chantastic v1.0",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979465336146702300,
+   "in_reply_to_status_id_str": "979465336146702336",
+   "in_reply_to_screen_name": "chantastic",
+   "urls": []
+  },
+  {
+   "id": 979459683080585200,
+   "id_str": "979459683080585216",
+   "created_at": "Thu Mar 29 20:46:00 +0000 2018",
+   "text": "RT @reactjs: React 16.3.0 has been released! Big thanks to all who contributed. ⚛️❤️\n\nhttps://t.co/G0RYl1Pjbv",
+   "retweet_count": 1265,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/G0RYl1Pjbv",
+     "expand": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979458172833357800,
+    "id_str": "979458172833357825",
+    "created_at": "Thu Mar 29 20:40:00 +0000 2018",
+    "text": "React 16.3.0 has been released! Big thanks to all who contributed. ⚛️❤️\n\nhttps://t.co/G0RYl1Pjbv",
+    "retweet_count": 1265,
+    "favorite_count": 2825,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/G0RYl1Pjbv",
+      "expand": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979392376903909400,
+   "id_str": "979392376903909376",
+   "created_at": "Thu Mar 29 16:18:33 +0000 2018",
+   "text": "Only 1 week of work to do before I go on vacation tomorrow. https://t.co/Kqu0pYWxO4",
+   "retweet_count": 0,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978883894694088700,
+   "id_str": "978883894694088704",
+   "created_at": "Wed Mar 28 06:38:01 +0000 2018",
+   "text": "@steveluscher D. All of the above",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978855961447288800,
+   "in_reply_to_status_id_str": "978855961447288832",
+   "in_reply_to_screen_name": "steveluscher",
+   "urls": []
+  },
+  {
+   "id": 978674179535863800,
+   "id_str": "978674179535863808",
+   "created_at": "Tue Mar 27 16:44:41 +0000 2018",
+   "text": "@aweary @fb_engineering I've had zero time for fbjs but it's way overdue for some updates… want to bridge both worlds?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978666267363000300,
+   "in_reply_to_status_id_str": "978666267363000325",
+   "in_reply_to_screen_name": "aweary",
+   "urls": []
+  },
+  {
+   "id": 977728964746608600,
+   "id_str": "977728964746608640",
+   "created_at": "Sun Mar 25 02:08:45 +0000 2018",
+   "text": "@amasad @ken_wheeler You're right, it's an awfully small portion.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977690332878946300,
+   "in_reply_to_status_id_str": "977690332878946304",
+   "in_reply_to_screen_name": "amasad",
+   "urls": []
+  },
+  {
+   "id": 976670045651767300,
+   "id_str": "976670045651767296",
+   "created_at": "Thu Mar 22 04:00:59 +0000 2018",
+   "text": "@dan_abramov @brian_d_vaughn This is sooo good.",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 976637950858477600,
+   "in_reply_to_status_id_str": "976637950858477568",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": []
+  },
+  {
+   "id": 976488370535727100,
+   "id_str": "976488370535727104",
+   "created_at": "Wed Mar 21 15:59:04 +0000 2018",
+   "text": "@mcsheffrey Good luck! Recovery is a bitch but it'll be worth it.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976463305723207700,
+   "in_reply_to_status_id_str": "976463305723207680",
+   "in_reply_to_screen_name": "mcsheffrey",
+   "urls": []
+  },
+  {
+   "id": 976284212914372600,
+   "id_str": "976284212914372608",
+   "created_at": "Wed Mar 21 02:27:49 +0000 2018",
+   "text": "RT @cramforce: for-of, forEach, and the classic for loops are now equally fast in V8 - @mathias at #jsconfau18 \nYaihh for inlining in forEa…",
+   "retweet_count": 34,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976247902774415400,
+    "id_str": "976247902774415360",
+    "created_at": "Wed Mar 21 00:03:32 +0000 2018",
+    "text": "for-of, forEach, and the classic for loops are now equally fast in V8 - @mathias at #jsconfau18 \nYaihh for inlining in forEach!!!",
+    "retweet_count": 34,
+    "favorite_count": 149,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 976261288052457500,
+   "id_str": "976261288052457472",
+   "created_at": "Wed Mar 21 00:56:43 +0000 2018",
+   "text": "RT @kumailn: The bomber is not a terrorist. Got it. https://t.co/YjQDFhUr5B",
+   "retweet_count": 28564,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YjQDFhUr5B",
+     "expand": "https://twitter.com/reutersus/status/976123383376154625"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976152836869443600,
+    "id_str": "976152836869443584",
+    "created_at": "Tue Mar 20 17:45:47 +0000 2018",
+    "text": "The bomber is not a terrorist. Got it. https://t.co/YjQDFhUr5B",
+    "retweet_count": 28564,
+    "favorite_count": 104121,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YjQDFhUr5B",
+      "expand": "https://twitter.com/reutersus/status/976123383376154625"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976138204083404800,
+   "id_str": "976138204083404801",
+   "created_at": "Tue Mar 20 16:47:38 +0000 2018",
+   "text": "RT @eugenegu: The Austin package bomber now strikes for a fifth time—the latest at a FedEx facility. Meanwhile there’s a shooting at Great…",
+   "retweet_count": 15137,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976084104759291900,
+    "id_str": "976084104759291905",
+    "created_at": "Tue Mar 20 13:12:39 +0000 2018",
+    "text": "The Austin package bomber now strikes for a fifth time—the latest at a FedEx facility. Meanwhile there’s a shooting… https://t.co/FpBRi9bz8u",
+    "retweet_count": 15137,
+    "favorite_count": 33299,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FpBRi9bz8u",
+      "expand": "https://twitter.com/i/web/status/976084104759291905"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975049711496306700,
+   "id_str": "975049711496306688",
+   "created_at": "Sat Mar 17 16:42:21 +0000 2018",
+   "text": "@_chenglou @richardiii TBH I'm pretty hopeful it's not an integer.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975046968568266800,
+   "in_reply_to_status_id_str": "975046968568266754",
+   "in_reply_to_screen_name": "_chenglou",
+   "urls": []
+  },
+  {
+   "id": 975046513717104600,
+   "id_str": "975046513717104641",
+   "created_at": "Sat Mar 17 16:29:39 +0000 2018",
+   "text": "@_chenglou Don't have a final value for n yet, I'll make sure my will includes a final calculation and notification. But hopefully 6 &lt; n &lt; 7",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975044588053278700,
+   "in_reply_to_status_id_str": "975044588053278720",
+   "in_reply_to_screen_name": "_chenglou",
+   "urls": []
+  },
+  {
+   "id": 975038397055029200,
+   "id_str": "975038397055029248",
+   "created_at": "Sat Mar 17 15:57:23 +0000 2018",
+   "text": "zpao.age = Math.pow(2, Math.floor(n)-1); (hopefully anyway)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 974315893722263600,
+   "id_str": "974315893722263553",
+   "created_at": "Thu Mar 15 16:06:25 +0000 2018",
+   "text": "RT @mishafletch: So, I was thinking about werewolves, right, and that tumblr post about how it's totally bullshit that werewolves ever forg…",
+   "retweet_count": 1032,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973898208953946100,
+    "id_str": "973898208953946112",
+    "created_at": "Wed Mar 14 12:26:41 +0000 2018",
+    "text": "So, I was thinking about werewolves, right, and that tumblr post about how it's totally bullshit that werewolves ev… https://t.co/veLwNwskrN",
+    "retweet_count": 1032,
+    "favorite_count": 2658,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/veLwNwskrN",
+      "expand": "https://twitter.com/i/web/status/973898208953946112"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974101520147824600,
+   "id_str": "974101520147824640",
+   "created_at": "Thu Mar 15 01:54:34 +0000 2018",
+   "text": "@EnglishMossop @humphd That is rough. We're not at 100% yet internally… maybe one day. It's probably true of any ty… https://t.co/ZoMnSImTuI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974099243106369500,
+   "in_reply_to_status_id_str": "974099243106369536",
+   "in_reply_to_screen_name": "EnglishMossop",
+   "urls": [
+    {
+     "url": "https://t.co/ZoMnSImTuI",
+     "expand": "https://twitter.com/i/web/status/974101520147824640"
+    }
+   ]
+  },
+  {
+   "id": 974097240426860500,
+   "id_str": "974097240426860545",
+   "created_at": "Thu Mar 15 01:37:34 +0000 2018",
+   "text": "@humphd Overall it's been great, but there are still cases where you have to curse JS and leave something untyped.… https://t.co/Yi8bCGJW3z",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 974097071031529500,
+   "in_reply_to_status_id_str": "974097071031529472",
+   "in_reply_to_screen_name": "zpao",
+   "urls": [
+    {
+     "url": "https://t.co/Yi8bCGJW3z",
+     "expand": "https://twitter.com/i/web/status/974097240426860545"
+    }
+   ]
+  },
+  {
+   "id": 974097071031529500,
+   "id_str": "974097071031529472",
+   "created_at": "Thu Mar 15 01:36:54 +0000 2018",
+   "text": "@humphd We obviously use a lot of Flow so I've done my fair share of that but not much TS. I'm pro-whatever gets types in your code :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974094224160448500,
+   "in_reply_to_status_id_str": "974094224160448512",
+   "in_reply_to_screen_name": "humphd",
+   "urls": []
+  },
+  {
+   "id": 974095704908951600,
+   "id_str": "974095704908951552",
+   "created_at": "Thu Mar 15 01:31:28 +0000 2018",
+   "text": "@vvuk const procedure = (...args) =&gt; new Function(...args);",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974093305079251000,
+   "in_reply_to_status_id_str": "974093305079250946",
+   "in_reply_to_screen_name": "vvuk",
+   "urls": []
+  },
+  {
+   "id": 974075531049156600,
+   "id_str": "974075531049156608",
+   "created_at": "Thu Mar 15 00:11:18 +0000 2018",
+   "text": "@joelatwar True, and I do sometimes but with the trend towards arrows and compact object method syntax, more people… https://t.co/dJjWasSx4E",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 974073528508035100,
+   "in_reply_to_status_id_str": "974073528508035072",
+   "in_reply_to_screen_name": "joelatwar",
+   "urls": [
+    {
+     "url": "https://t.co/dJjWasSx4E",
+     "expand": "https://twitter.com/i/web/status/974075531049156608"
+    }
+   ]
+  },
+  {
+   "id": 974069443419500500,
+   "id_str": "974069443419500544",
+   "created_at": "Wed Mar 14 23:47:07 +0000 2018",
+   "text": "@montogeek How do I debug what?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974068449562579000,
+   "in_reply_to_status_id_str": "974068449562578944",
+   "in_reply_to_screen_name": "montogeek",
+   "urls": []
+  },
+  {
+   "id": 974067996707536900,
+   "id_str": "974067996707536896",
+   "created_at": "Wed Mar 14 23:41:22 +0000 2018",
+   "text": "Does anybody else miss the function keyword? With all the new syntax and the bits we have to support Flow/TS, I fee… https://t.co/XEJgheFXxR",
+   "retweet_count": 4,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XEJgheFXxR",
+     "expand": "https://twitter.com/i/web/status/974067996707536896"
+    }
+   ]
+  },
+  {
+   "id": 973992443380056000,
+   "id_str": "973992443380056064",
+   "created_at": "Wed Mar 14 18:41:09 +0000 2018",
+   "text": "RT @sehurlburt: My favorite intuitive explanation of pi:\n\nDraw 4 squares in a 2x2 grid, two squares on the bottom and two on the top. Now t…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973982034942083100,
+    "id_str": "973982034942083072",
+    "created_at": "Wed Mar 14 17:59:47 +0000 2018",
+    "text": "My favorite intuitive explanation of pi:\n\nDraw 4 squares in a 2x2 grid, two squares on the bottom and two on the to… https://t.co/Qkr74XpfBT",
+    "retweet_count": 9,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": 973978768317427700,
+    "in_reply_to_status_id_str": "973978768317427712",
+    "in_reply_to_screen_name": "sehurlburt",
+    "urls": [
+     {
+      "url": "https://t.co/Qkr74XpfBT",
+      "expand": "https://twitter.com/i/web/status/973982034942083072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973726725153595400,
+   "id_str": "973726725153595392",
+   "created_at": "Wed Mar 14 01:05:16 +0000 2018",
+   "text": "I wasn't prepared to find out that Lit has a new single out and it's country. 13 year old me is confused.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973063824604459000,
+   "id_str": "973063824604459008",
+   "created_at": "Mon Mar 12 05:11:09 +0000 2018",
+   "text": "@_ryannystrom @githawk I think the only watch app that I've found remotely useful (outside of fitness tracking and… https://t.co/vOvtzNDIF3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973036479365681200,
+   "in_reply_to_status_id_str": "973036479365681154",
+   "in_reply_to_screen_name": "_ryannystrom",
+   "urls": [
+    {
+     "url": "https://t.co/vOvtzNDIF3",
+     "expand": "https://twitter.com/i/web/status/973063824604459008"
+    }
+   ]
+  },
+  {
+   "id": 972587062548295700,
+   "id_str": "972587062548295681",
+   "created_at": "Sat Mar 10 21:36:40 +0000 2018",
+   "text": "@littlecalculist That sounds *a lot* like the now removed Panorama feature.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972529142934589400,
+   "in_reply_to_status_id_str": "972529142934589441",
+   "in_reply_to_screen_name": "littlecalculist",
+   "urls": []
+  },
+  {
+   "id": 971992870797197300,
+   "id_str": "971992870797197314",
+   "created_at": "Fri Mar 09 06:15:33 +0000 2018",
+   "text": "No milestones but it's been a good month - a lot of range of motion back, much less pain, added a bit of resistance… https://t.co/a20RMRk58p",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 960923578710483000,
+   "in_reply_to_status_id_str": "960923578710482944",
+   "in_reply_to_screen_name": "zpao",
+   "urls": [
+    {
+     "url": "https://t.co/a20RMRk58p",
+     "expand": "https://twitter.com/i/web/status/971992870797197314"
+    }
+   ]
+  },
+  {
+   "id": 971980711824535600,
+   "id_str": "971980711824535552",
+   "created_at": "Fri Mar 09 05:27:14 +0000 2018",
+   "text": "@swyx Good luck!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971977601441910800,
+   "in_reply_to_status_id_str": "971977601441910790",
+   "in_reply_to_screen_name": "swyx",
+   "urls": []
+  },
+  {
+   "id": 971929990878060500,
+   "id_str": "971929990878060544",
+   "created_at": "Fri Mar 09 02:05:42 +0000 2018",
+   "text": "I'm allowing myself one public comment about Array.prototype.smoosh. https://t.co/wKp2m5l7D0",
+   "retweet_count": 0,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971847051775328300,
+   "id_str": "971847051775328256",
+   "created_at": "Thu Mar 08 20:36:07 +0000 2018",
+   "text": "@jergason @dan_abramov @raquelxmoss @johnlindquist @BenLesh Great, now I’m imagining a bunch of linguists getting t… https://t.co/bmQL9fQ2ar",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 971825870464626700,
+   "in_reply_to_status_id_str": "971825870464626689",
+   "in_reply_to_screen_name": "jergason",
+   "urls": [
+    {
+     "url": "https://t.co/bmQL9fQ2ar",
+     "expand": "https://twitter.com/i/web/status/971847051775328256"
+    }
+   ]
+  },
+  {
+   "id": 971573232372297700,
+   "id_str": "971573232372297728",
+   "created_at": "Thu Mar 08 02:28:04 +0000 2018",
+   "text": "@vvuk @stshank Chrome has a setting (in the app menu, not in actual settings). Firefox doesn't and still quits. I h… https://t.co/AQCu2GUVvb",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971563720391430100,
+   "in_reply_to_status_id_str": "971563720391430147",
+   "in_reply_to_screen_name": "vvuk",
+   "urls": [
+    {
+     "url": "https://t.co/AQCu2GUVvb",
+     "expand": "https://twitter.com/i/web/status/971573232372297728"
+    }
+   ]
+  },
+  {
+   "id": 971539693677428700,
+   "id_str": "971539693677428737",
+   "created_at": "Thu Mar 08 00:14:47 +0000 2018",
+   "text": "@BrandonBloom @floydophone I've found AT&amp;T Call Protect to be fairly decent. There's only so much it can do to dete… https://t.co/h2i21FXc42",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971519855139549200,
+   "in_reply_to_status_id_str": "971519855139549184",
+   "in_reply_to_screen_name": "BrandonBloom",
+   "urls": [
+    {
+     "url": "https://t.co/h2i21FXc42",
+     "expand": "https://twitter.com/i/web/status/971539693677428737"
+    }
+   ]
+  },
+  {
+   "id": 971538179382587400,
+   "id_str": "971538179382587393",
+   "created_at": "Thu Mar 08 00:08:46 +0000 2018",
+   "text": "@acdlite So \"plussed\" would just mean the exact same set of things?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971527979607015400,
+   "in_reply_to_status_id_str": "971527979607015425",
+   "in_reply_to_screen_name": "acdlite",
+   "urls": []
+  },
+  {
+   "id": 971141769982132200,
+   "id_str": "971141769982132224",
+   "created_at": "Tue Mar 06 21:53:35 +0000 2018",
+   "text": "@floydophone lol https://t.co/Ke1iHTyitb",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970843589767979000,
+   "in_reply_to_status_id_str": "970843589767979008",
+   "in_reply_to_screen_name": "floydophone",
+   "urls": [
+    {
+     "url": "https://t.co/Ke1iHTyitb",
+     "expand": "https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533"
+    }
+   ]
+  },
+  {
+   "id": 970891156929130500,
+   "id_str": "970891156929130496",
+   "created_at": "Tue Mar 06 05:17:44 +0000 2018",
+   "text": "@vvuk I feel like that should probably be Amazon's core competency…",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970854638793539600,
+   "in_reply_to_status_id_str": "970854638793539585",
+   "in_reply_to_screen_name": "vvuk",
+   "urls": []
+  },
+  {
+   "id": 969355110684880900,
+   "id_str": "969355110684880896",
+   "created_at": "Thu Mar 01 23:34:02 +0000 2018",
+   "text": "@chantastic I usually say “Set an alarm for 40 minutes” while doing laundry and just looked at the giant list of al… https://t.co/SLaqAxSdHE",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969326117373976600,
+   "in_reply_to_status_id_str": "969326117373976576",
+   "in_reply_to_screen_name": "chantastic",
+   "urls": [
+    {
+     "url": "https://t.co/SLaqAxSdHE",
+     "expand": "https://twitter.com/i/web/status/969355110684880896"
+    }
+   ]
+  },
+  {
+   "id": 969353150195933200,
+   "id_str": "969353150195933184",
+   "created_at": "Thu Mar 01 23:26:15 +0000 2018",
+   "text": "@jlongster @holman baseline is there but doesn't help (not aligning multiple things). https://t.co/s7BDwe67NU was a… https://t.co/lD767wWHz6",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 969351878139170800,
+   "in_reply_to_status_id_str": "969351878139170817",
+   "in_reply_to_screen_name": "jlongster",
+   "urls": [
+    {
+     "url": "https://t.co/s7BDwe67NU",
+     "expand": "https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align"
+    },
+    {
+     "url": "https://t.co/lD767wWHz6",
+     "expand": "https://twitter.com/i/web/status/969353150195933184"
+    }
+   ]
+  },
+  {
+   "id": 969346138246533100,
+   "id_str": "969346138246533121",
+   "created_at": "Thu Mar 01 22:58:23 +0000 2018",
+   "text": "@holman Can we talk about CSS though because the left one is still hard (tried to center a CAPS letter in a circle… https://t.co/DSghly1uhL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969338515472318500,
+   "in_reply_to_status_id_str": "969338515472318464",
+   "in_reply_to_screen_name": "holman",
+   "urls": [
+    {
+     "url": "https://t.co/DSghly1uhL",
+     "expand": "https://twitter.com/i/web/status/969346138246533121"
+    }
+   ]
+  },
+  {
+   "id": 969097518612033500,
+   "id_str": "969097518612033536",
+   "created_at": "Thu Mar 01 06:30:28 +0000 2018",
+   "text": "@brian_d_vaughn I think it's the \"most of the time\" that prevents this one from ever really sticking. And that the… https://t.co/JS906zwpbD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969093347020165100,
+   "in_reply_to_status_id_str": "969093347020165120",
+   "in_reply_to_screen_name": "brian_d_vaughn",
+   "urls": [
+    {
+     "url": "https://t.co/JS906zwpbD",
+     "expand": "https://twitter.com/i/web/status/969097518612033536"
+    }
+   ]
+  },
+  {
+   "id": 969038465768734700,
+   "id_str": "969038465768734720",
+   "created_at": "Thu Mar 01 02:35:48 +0000 2018",
+   "text": "@Tauseefk  https://t.co/g41ugE1Fev",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969028319541735400,
+   "in_reply_to_status_id_str": "969028319541735425",
+   "in_reply_to_screen_name": "Tauseefk",
+   "urls": []
+  },
+  {
+   "id": 969029638105133000,
+   "id_str": "969029638105133056",
+   "created_at": "Thu Mar 01 02:00:44 +0000 2018",
+   "text": "RT @everywhereist: Schools: We don't need guns. We need more funding.\n\nGOP: Here's $67 million\n\nSchools: OH MY GO-\n\nGOP: It's for guns. htt…",
+   "retweet_count": 6819,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968885242248310800,
+    "id_str": "968885242248310784",
+    "created_at": "Wed Feb 28 16:26:57 +0000 2018",
+    "text": "Schools: We don't need guns. We need more funding.\n\nGOP: Here's $67 million\n\nSchools: OH MY GO-\n\nGOP: It's for guns. https://t.co/24Ft8yvYdy",
+    "retweet_count": 6819,
+    "favorite_count": 14367,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/24Ft8yvYdy",
+      "expand": "https://twitter.com/ddale8/status/968860631288963072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969025379426971600,
+   "id_str": "969025379426971648",
+   "created_at": "Thu Mar 01 01:43:48 +0000 2018",
+   "text": "I use \"impacted\" way more often than I should and it's entirely because I can never remember if I'm supposed to use… https://t.co/UdTU1eQRos",
+   "retweet_count": 1,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UdTU1eQRos",
+     "expand": "https://twitter.com/i/web/status/969025379426971648"
+    }
+   ]
+  },
+  {
+   "id": 968686706428805100,
+   "id_str": "968686706428805120",
+   "created_at": "Wed Feb 28 03:18:02 +0000 2018",
+   "text": "I'm at a sales &amp; marketing meetup/panel tonight (doing great @AShannessy!) and I had no idea sales and marketing we… https://t.co/JO5eM5mHx4",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JO5eM5mHx4",
+     "expand": "https://twitter.com/i/web/status/968686706428805120"
+    }
+   ]
+  },
+  {
+   "id": 968246528778227700,
+   "id_str": "968246528778227712",
+   "created_at": "Mon Feb 26 22:08:56 +0000 2018",
+   "text": "AMP 👏👏👏 https://t.co/YpYV9Ybcnu",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968019241294209000,
+   "id_str": "968019241294209024",
+   "created_at": "Mon Feb 26 07:05:46 +0000 2018",
+   "text": "@wincent At least with GitLab you can push to create now https://t.co/RHCbPU2Cw0",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968013656582533100,
+   "in_reply_to_status_id_str": "968013656582533120",
+   "in_reply_to_screen_name": "wincent",
+   "urls": [
+    {
+     "url": "https://t.co/RHCbPU2Cw0",
+     "expand": "https://docs.gitlab.com/ee/gitlab-basics/create-project.html#push-to-create-a-new-project"
+    }
+   ]
+  },
+  {
+   "id": 967232216169267200,
+   "id_str": "967232216169267202",
+   "created_at": "Sat Feb 24 02:58:25 +0000 2018",
+   "text": "RT @pattymo: *carefully studies graphic* Thank you for the detailed explanation. Ban both of these stupid guns https://t.co/pq5bgBPwTl",
+   "retweet_count": 14746,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pq5bgBPwTl",
+     "expand": "https://twitter.com/marcorubio/status/967065099394605056"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967083365756174300,
+    "id_str": "967083365756174336",
+    "created_at": "Fri Feb 23 17:06:56 +0000 2018",
+    "text": "*carefully studies graphic* Thank you for the detailed explanation. Ban both of these stupid guns https://t.co/pq5bgBPwTl",
+    "retweet_count": 14746,
+    "favorite_count": 65348,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pq5bgBPwTl",
+      "expand": "https://twitter.com/marcorubio/status/967065099394605056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967217404982865900,
+   "id_str": "967217404982865920",
+   "created_at": "Sat Feb 24 01:59:34 +0000 2018",
+   "text": "RT @helenhousandi: I've watched this GIF at least 100 times now, cry-laughing the entire time. https://t.co/Hih7VJe28T",
+   "retweet_count": 312759,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967073559527948300,
+    "id_str": "967073559527948288",
+    "created_at": "Fri Feb 23 16:27:58 +0000 2018",
+    "text": "I've watched this GIF at least 100 times now, cry-laughing the entire time. https://t.co/Hih7VJe28T",
+    "retweet_count": 312759,
+    "favorite_count": 535650,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 967122995373252600,
+   "id_str": "967122995373252608",
+   "created_at": "Fri Feb 23 19:44:25 +0000 2018",
+   "text": "RT @AlogoAgogo: After every massacre, there’s inevitable talk about Australian gun laws post-1996 and how successful they’ve been at reduci…",
+   "retweet_count": 12613,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966663128736940000,
+    "id_str": "966663128736940032",
+    "created_at": "Thu Feb 22 13:17:04 +0000 2018",
+    "text": "After every massacre, there’s inevitable talk about Australian gun laws post-1996 and how successful they’ve been a… https://t.co/F9gtdUbQD5",
+    "retweet_count": 12613,
+    "favorite_count": 18629,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/F9gtdUbQD5",
+      "expand": "https://twitter.com/i/web/status/966663128736940032"
+     }
+    ]
+   }
+  },
   {
    "id": 966903207099170800,
    "id_str": "966903207099170817",
    "created_at": "Fri Feb 23 05:11:03 +0000 2018",
    "text": "RT @rachelaxler: also train all the soldiers to teach algebra",
-   "retweet_count": 36,
+   "retweet_count": 83,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,182 +960,14 @@
     "id_str": "966890172779454464",
     "created_at": "Fri Feb 23 04:19:15 +0000 2018",
     "text": "also train all the soldiers to teach algebra",
-    "retweet_count": 36,
-    "favorite_count": 222,
+    "retweet_count": 83,
+    "favorite_count": 533,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
    }
-  },
-  {
-   "id": 966734455720239100,
-   "id_str": "966734455720239106",
-   "created_at": "Thu Feb 22 18:00:29 +0000 2018",
-   "text": "RT @MartinHeinrich: I am calling for the repeal of the Dickey Amendment, which restricts the Center for Disease Control and Prevention (CDC…",
-   "retweet_count": 21956,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966064779788877800,
-    "id_str": "966064779788877825",
-    "created_at": "Tue Feb 20 21:39:26 +0000 2018",
-    "text": "I am calling for the repeal of the Dickey Amendment, which restricts the Center for Disease Control and Prevention… https://t.co/d5pYJePA8r",
-    "retweet_count": 21956,
-    "favorite_count": 67013,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/d5pYJePA8r",
-      "expand": "https://twitter.com/i/web/status/966064779788877825"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966713335742791700,
-   "id_str": "966713335742791681",
-   "created_at": "Thu Feb 22 16:36:34 +0000 2018",
-   "text": "This man clearly\n- did not attend public school\n- has never met a public school teacher\n- has no intention of payin… https://t.co/O79oFc4S3T",
-   "retweet_count": 1,
-   "favorite_count": 15,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/O79oFc4S3T",
-     "expand": "https://twitter.com/i/web/status/966713335742791681"
-    }
-   ]
-  },
-  {
-   "id": 966571759309697000,
-   "id_str": "966571759309697024",
-   "created_at": "Thu Feb 22 07:14:00 +0000 2018",
-   "text": "@beltzner Soooorrrrry",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966569150821920800,
-   "in_reply_to_status_id_str": "966569150821920768",
-   "in_reply_to_screen_name": "beltzner",
-   "urls": []
-  },
-  {
-   "id": 966570992461004800,
-   "id_str": "966570992461004802",
-   "created_at": "Thu Feb 22 07:10:57 +0000 2018",
-   "text": "@beltzner  https://t.co/EKmXeqCkj1",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966569150821920800,
-   "in_reply_to_status_id_str": "966569150821920768",
-   "in_reply_to_screen_name": "beltzner",
-   "urls": []
-  },
-  {
-   "id": 966116743738372100,
-   "id_str": "966116743738372096",
-   "created_at": "Wed Feb 21 01:05:55 +0000 2018",
-   "text": "@holman /me adds 100 favicons to blog I haven't updated in 4 years",
-   "retweet_count": 1,
-   "favorite_count": 5,
-   "place": null,
-   "in_reply_to_status_id": 966113954052231200,
-   "in_reply_to_status_id_str": "966113954052231169",
-   "in_reply_to_screen_name": "holman",
-   "urls": []
-  },
-  {
-   "id": 966113449280389100,
-   "id_str": "966113449280389120",
-   "created_at": "Wed Feb 21 00:52:50 +0000 2018",
-   "text": "@holman If I'm building something I think people might pin/install/whatever then I'll give it the full treatment. U… https://t.co/gvlJCZHKbn",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": 966075816021958700,
-   "in_reply_to_status_id_str": "966075816021958656",
-   "in_reply_to_screen_name": "holman",
-   "urls": [
-    {
-     "url": "https://t.co/gvlJCZHKbn",
-     "expand": "https://twitter.com/i/web/status/966113449280389120"
-    }
-   ]
-  },
-  {
-   "id": 965669738851401700,
-   "id_str": "965669738851401728",
-   "created_at": "Mon Feb 19 19:29:41 +0000 2018",
-   "text": "I may not know much about ice dancing or Canadians, but the Olympics has taught me one thing: these two are definit… https://t.co/DTwK2IhYM6",
-   "retweet_count": 0,
-   "favorite_count": 5,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/DTwK2IhYM6",
-     "expand": "https://twitter.com/i/web/status/965669738851401728"
-    }
-   ]
-  },
-  {
-   "id": 965264388247642100,
-   "id_str": "965264388247642112",
-   "created_at": "Sun Feb 18 16:38:58 +0000 2018",
-   "text": "RT @JuddLegum: \"[Putin] said he didn't meddle. He said he didn't meddle. I asked him again. You can only ask so many times... And I believe…",
-   "retweet_count": 8272,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965219577612456000,
-    "id_str": "965219577612455936",
-    "created_at": "Sun Feb 18 13:40:54 +0000 2018",
-    "text": "\"[Putin] said he didn't meddle. He said he didn't meddle. I asked him again. You can only ask so many times... And… https://t.co/eVDWL56sx5",
-    "retweet_count": 8272,
-    "favorite_count": 18086,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/eVDWL56sx5",
-      "expand": "https://twitter.com/i/web/status/965219577612455936"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964585291011964900,
-   "id_str": "964585291011964928",
-   "created_at": "Fri Feb 16 19:40:29 +0000 2018",
-   "text": "Who wants to tell @verizon that the Super Bowl was 2 weeks ago? https://t.co/kj7niRJ4Lf",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
   }
  ]
 }

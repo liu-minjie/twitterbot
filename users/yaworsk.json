@@ -1,13 +1,2120 @@
 {
- "time": 1519367438172,
+ "time": 1522595217424,
  "lists": [
+  {
+   "id": 980283467446607900,
+   "id_str": "980283467446607873",
+   "created_at": "Sun Apr 01 03:19:26 +0000 2018",
+   "text": "@CircleNinja That's awesome, thanks for sharing - it's great to hear how the book has helped people. Congrats on the HOF! Happy hacking :)",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 979762101454487600,
+   "in_reply_to_status_id_str": "979762101454487552",
+   "in_reply_to_screen_name": "CircleNinja",
+   "urls": []
+  },
+  {
+   "id": 979740394001969200,
+   "id_str": "979740394001969153",
+   "created_at": "Fri Mar 30 15:21:27 +0000 2018",
+   "text": "RT @phwd: Facebook GraphQL CSRF\n\nhttps://t.co/0uRlRkXJGc\n\n#bugbounty",
+   "retweet_count": 46,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0uRlRkXJGc",
+     "expand": "https://philippeharewood.com/facebook-graphql-csrf/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979660788725174300,
+    "id_str": "979660788725174272",
+    "created_at": "Fri Mar 30 10:05:07 +0000 2018",
+    "text": "Facebook GraphQL CSRF\n\nhttps://t.co/0uRlRkXJGc\n\n#bugbounty",
+    "retweet_count": 46,
+    "favorite_count": 102,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0uRlRkXJGc",
+      "expand": "https://philippeharewood.com/facebook-graphql-csrf/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979499592189390800,
+   "id_str": "979499592189390850",
+   "created_at": "Thu Mar 29 23:24:35 +0000 2018",
+   "text": "RT @gwendallecoguic: Why I choosed #BugBounty and why I love it so much\nhttps://t.co/UNUvzcM16I",
+   "retweet_count": 88,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UNUvzcM16I",
+     "expand": "http://10degres.net/why-bugbounty/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979339455638196200,
+    "id_str": "979339455638196225",
+    "created_at": "Thu Mar 29 12:48:16 +0000 2018",
+    "text": "Why I choosed #BugBounty and why I love it so much\nhttps://t.co/UNUvzcM16I",
+    "retweet_count": 88,
+    "favorite_count": 219,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UNUvzcM16I",
+      "expand": "http://10degres.net/why-bugbounty/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979397963649871900,
+   "id_str": "979397963649871873",
+   "created_at": "Thu Mar 29 16:40:45 +0000 2018",
+   "text": "Great blog not only detailing a cool bug but also what prompting poking into the functionality in the first place. https://t.co/Rkk5c81Cqs",
+   "retweet_count": 3,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Rkk5c81Cqs",
+     "expand": "https://twitter.com/Agarri_FR/status/979396405491126276"
+    }
+   ]
+  },
+  {
+   "id": 979176542642122800,
+   "id_str": "979176542642122752",
+   "created_at": "Thu Mar 29 02:00:54 +0000 2018",
+   "text": "@wiifm @drupal Yup, I should have clarified. I thought it was odd to see the commit from one day before when the an… https://t.co/2jCd28gwrn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979152094815899600,
+   "in_reply_to_status_id_str": "979152094815899648",
+   "in_reply_to_screen_name": "wiifm",
+   "urls": [
+    {
+     "url": "https://t.co/2jCd28gwrn",
+     "expand": "https://twitter.com/i/web/status/979176542642122752"
+    }
+   ]
+  },
+  {
+   "id": 979088159312154600,
+   "id_str": "979088159312154625",
+   "created_at": "Wed Mar 28 20:09:42 +0000 2018",
+   "text": "@securejoomla @drupal I apologize for misunderstanding github's timeline and your sense of internet decency",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979087683166273500,
+   "in_reply_to_status_id_str": "979087683166273536",
+   "in_reply_to_screen_name": "securejoomla",
+   "urls": []
+  },
+  {
+   "id": 979087018679504900,
+   "id_str": "979087018679504896",
+   "created_at": "Wed Mar 28 20:05:10 +0000 2018",
+   "text": "@ErayMitrani Wasn't a mistake :/ I reported it when the fields were removed publicly. Before that they were intenti… https://t.co/O9M3BsfNLC",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 979081815507001300,
+   "in_reply_to_status_id_str": "979081815507001345",
+   "in_reply_to_screen_name": "ErayMitrani",
+   "urls": [
+    {
+     "url": "https://t.co/O9M3BsfNLC",
+     "expand": "https://twitter.com/i/web/status/979087018679504896"
+    }
+   ]
+  },
+  {
+   "id": 979085416568672300,
+   "id_str": "979085416568672256",
+   "created_at": "Wed Mar 28 19:58:48 +0000 2018",
+   "text": "Just so I'm clear, the @drupal announcement went out today but the fix was publicly committed yesterday? https://t.co/Dv9heajVj6",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Dv9heajVj6",
+     "expand": "https://github.com/drupal/drupal/commit/19b69fe8af55d8fac34a50563a238911b75f08f7"
+    }
+   ]
+  },
+  {
+   "id": 979074490876522500,
+   "id_str": "979074490876522496",
+   "created_at": "Wed Mar 28 19:15:23 +0000 2018",
+   "text": "@campuscodi @ph3t_ Wasn't the Drupal 7 SQLi advisory the same?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976580119685935100,
+   "in_reply_to_status_id_str": "976580119685935104",
+   "in_reply_to_screen_name": "campuscodi",
+   "urls": []
+  },
+  {
+   "id": 978840371923947500,
+   "id_str": "978840371923947521",
+   "created_at": "Wed Mar 28 03:45:05 +0000 2018",
+   "text": "RT @Hacker0x01: Hey @mapbox, let's do it again sometime! #h1202 \n#TogetherWeHitHarder https://t.co/ZBHAosyZXH",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978803122326917100,
+    "id_str": "978803122326917120",
+    "created_at": "Wed Mar 28 01:17:04 +0000 2018",
+    "text": "Hey @mapbox, let's do it again sometime! #h1202 \n#TogetherWeHitHarder https://t.co/ZBHAosyZXH",
+    "retweet_count": 22,
+    "favorite_count": 121,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 978632879969271800,
+   "id_str": "978632879969271809",
+   "created_at": "Tue Mar 27 14:00:35 +0000 2018",
+   "text": "@SebMorin1 @Hacker0x01 Great signal!",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 978619471261728800,
+   "in_reply_to_status_id_str": "978619471261728768",
+   "in_reply_to_screen_name": "SebMorin1",
+   "urls": []
+  },
+  {
+   "id": 978598076045705200,
+   "id_str": "978598076045705221",
+   "created_at": "Tue Mar 27 11:42:17 +0000 2018",
+   "text": "@0xACB @fransrosen @Hacker0x01 You earned it! I've just been lucky in the past and combined with hard work, have ha… https://t.co/Knv6ITc6Iy",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 978571710298542100,
+   "in_reply_to_status_id_str": "978571710298542080",
+   "in_reply_to_screen_name": "0xACB",
+   "urls": [
+    {
+     "url": "https://t.co/Knv6ITc6Iy",
+     "expand": "https://twitter.com/i/web/status/978598076045705221"
+    }
+   ]
+  },
+  {
+   "id": 978352329236742100,
+   "id_str": "978352329236742144",
+   "created_at": "Mon Mar 26 19:25:46 +0000 2018",
+   "text": "RT @ShopifyEng: We're partnering with @googlecloud to deliver the best commerce experience for our merchants. @dale_neufeld, VP of Producti…",
+   "retweet_count": 43,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978281001125257200,
+    "id_str": "978281001125257217",
+    "created_at": "Mon Mar 26 14:42:20 +0000 2018",
+    "text": "We're partnering with @googlecloud to deliver the best commerce experience for our merchants. @dale_neufeld, VP of… https://t.co/eJwfJKkWHk",
+    "retweet_count": 43,
+    "favorite_count": 82,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eJwfJKkWHk",
+      "expand": "https://twitter.com/i/web/status/978281001125257217"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978327576598007800,
+   "id_str": "978327576598007809",
+   "created_at": "Mon Mar 26 17:47:25 +0000 2018",
+   "text": "Heading to the airport. Thanks for yet another great experience @Hacker0x01. These events are amazing, love meeting… https://t.co/7W6qzOTpvU",
+   "retweet_count": 7,
+   "favorite_count": 101,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7W6qzOTpvU",
+     "expand": "https://twitter.com/i/web/status/978327576598007809"
+    }
+   ]
+  },
+  {
+   "id": 978309161929748500,
+   "id_str": "978309161929748480",
+   "created_at": "Mon Mar 26 16:34:14 +0000 2018",
+   "text": "Then and now with @Rosenawesome #h1212 #h1202 https://t.co/jeefyo0YQO",
+   "retweet_count": 1,
+   "favorite_count": 48,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978273838654939100,
+   "id_str": "978273838654939136",
+   "created_at": "Mon Mar 26 14:13:53 +0000 2018",
+   "text": "RT @Hacker0x01: What a wrap up! Show and tell of top finds, rewards and of course, MVH! Congrats @0xACB for being awarded the Most Valuable…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978098996488138800,
+    "id_str": "978098996488138754",
+    "created_at": "Mon Mar 26 02:39:07 +0000 2018",
+    "text": "What a wrap up! Show and tell of top finds, rewards and of course, MVH! Congrats @0xACB for being awarded the Most… https://t.co/SndVShINVR",
+    "retweet_count": 22,
+    "favorite_count": 147,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SndVShINVR",
+      "expand": "https://twitter.com/i/web/status/978098996488138754"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978109757520162800,
+   "id_str": "978109757520162816",
+   "created_at": "Mon Mar 26 03:21:53 +0000 2018",
+   "text": "Maybe the highlight of my bug bounty career. So much passion from @avlidienbrunn and @fransrosen https://t.co/ptsWziU1vc",
+   "retweet_count": 4,
+   "favorite_count": 81,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978070632389750800,
+   "id_str": "978070632389750784",
+   "created_at": "Mon Mar 26 00:46:25 +0000 2018",
+   "text": "Best part of all @Hacker0x01 events begins, shared learning. @jackhcable is prepping for show and tell at #h1202 https://t.co/AdZs3ZTyEe",
+   "retweet_count": 4,
+   "favorite_count": 48,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 977889942733955100,
+   "id_str": "977889942733955072",
+   "created_at": "Sun Mar 25 12:48:25 +0000 2018",
+   "text": "@c0d3G33k @streaak @synack You're missing the point. They aren't judging you on certs. You didn't meet their standa… https://t.co/4cxdEOCXut",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977883498332778500,
+   "in_reply_to_status_id_str": "977883498332778497",
+   "in_reply_to_screen_name": "c0d3G33k",
+   "urls": [
+    {
+     "url": "https://t.co/4cxdEOCXut",
+     "expand": "https://twitter.com/i/web/status/977889942733955072"
+    }
+   ]
+  },
+  {
+   "id": 977883052197134300,
+   "id_str": "977883052197134336",
+   "created_at": "Sun Mar 25 12:21:02 +0000 2018",
+   "text": "@c0d3G33k @streaak @synack That doesn't mean you were rejected for not having oscp. It means they believe if you co… https://t.co/HuULTxUZ99",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 977787971901579300,
+   "in_reply_to_status_id_str": "977787971901579264",
+   "in_reply_to_screen_name": "c0d3G33k",
+   "urls": [
+    {
+     "url": "https://t.co/HuULTxUZ99",
+     "expand": "https://twitter.com/i/web/status/977883052197134336"
+    }
+   ]
+  },
+  {
+   "id": 977380435486322700,
+   "id_str": "977380435486322688",
+   "created_at": "Sat Mar 24 03:03:49 +0000 2018",
+   "text": "RT @Hacker0x01: Hackers on the Hill. Touring the National Mall and US Capitol. Thanks @beauwoods for organizing and Nick from @JimLangevin’…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977259767239454700,
+    "id_str": "977259767239454722",
+    "created_at": "Fri Mar 23 19:04:19 +0000 2018",
+    "text": "Hackers on the Hill. Touring the National Mall and US Capitol. Thanks @beauwoods for organizing and Nick from… https://t.co/Zutxs2csR8",
+    "retweet_count": 13,
+    "favorite_count": 70,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Zutxs2csR8",
+      "expand": "https://twitter.com/i/web/status/977259767239454722"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976972179848900600,
+   "id_str": "976972179848900610",
+   "created_at": "Fri Mar 23 00:01:33 +0000 2018",
+   "text": "RT @mattjay: Wow! Interesting data. When @github launched security alerts they were tracking 500k known vulnerabilies. Shorty after alertin…",
+   "retweet_count": 243,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976659841442897900,
+    "id_str": "976659841442897920",
+    "created_at": "Thu Mar 22 03:20:26 +0000 2018",
+    "text": "Wow! Interesting data. When @github launched security alerts they were tracking 500k known vulnerabilies. Shorty af… https://t.co/anbFvvWW74",
+    "retweet_count": 243,
+    "favorite_count": 434,
+    "place": "Austin, TX",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/anbFvvWW74",
+      "expand": "https://twitter.com/i/web/status/976659841442897920"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976868624756564000,
+   "id_str": "976868624756563969",
+   "created_at": "Thu Mar 22 17:10:04 +0000 2018",
+   "text": "@Rosenawesome @luketucker @securinti @KirstyAlsop Hold on. When did @luketucker and @securinti get on my level?!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976868284405514200,
+   "in_reply_to_status_id_str": "976868284405514240",
+   "in_reply_to_screen_name": "Rosenawesome",
+   "urls": []
+  },
+  {
+   "id": 976795542171934700,
+   "id_str": "976795542171934720",
+   "created_at": "Thu Mar 22 12:19:39 +0000 2018",
+   "text": "@Rosenawesome &lt;3\n\nI bet you say that to all the hackers",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976790920707244000,
+   "in_reply_to_status_id_str": "976790920707244032",
+   "in_reply_to_screen_name": "Rosenawesome",
+   "urls": []
+  },
+  {
+   "id": 976505068102053900,
+   "id_str": "976505068102053888",
+   "created_at": "Wed Mar 21 17:05:25 +0000 2018",
+   "text": "RT @Bugcrowd: .@Netflix launched a public #bugbounty program with @Bugcrowd! Check out the program details here: https://t.co/w0D3T5H0lV #I…",
+   "retweet_count": 54,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/w0D3T5H0lV",
+     "expand": "https://bugcrowd.com/netflix"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976489470043328500,
+    "id_str": "976489470043328513",
+    "created_at": "Wed Mar 21 16:03:26 +0000 2018",
+    "text": ".@Netflix launched a public #bugbounty program with @Bugcrowd! Check out the program details here:… https://t.co/WZr2nJQpdf",
+    "retweet_count": 54,
+    "favorite_count": 91,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WZr2nJQpdf",
+      "expand": "https://twitter.com/i/web/status/976489470043328513"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976480184177250300,
+   "id_str": "976480184177250304",
+   "created_at": "Wed Mar 21 15:26:32 +0000 2018",
+   "text": "RT @Alra3ees: I just published “Google adwords 3133.7$ Stored XSS” https://t.co/iFxuWYrXBn",
+   "retweet_count": 124,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iFxuWYrXBn",
+     "expand": "https://medium.com/p/google-adwords-3133-7-stored-xss-27bb083b8d27"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976373759841046500,
+    "id_str": "976373759841046529",
+    "created_at": "Wed Mar 21 08:23:39 +0000 2018",
+    "text": "I just published “Google adwords 3133.7$ Stored XSS” https://t.co/iFxuWYrXBn",
+    "retweet_count": 124,
+    "favorite_count": 352,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iFxuWYrXBn",
+      "expand": "https://medium.com/p/google-adwords-3133-7-stored-xss-27bb083b8d27"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976473118935052300,
+   "id_str": "976473118935052288",
+   "created_at": "Wed Mar 21 14:58:28 +0000 2018",
+   "text": "@neglektd thanks! And yup, it's included as part of Sublist3r @aboul3la is way ahead of us :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976427004286373900,
+   "in_reply_to_status_id_str": "976427004286373888",
+   "in_reply_to_screen_name": "neglektd",
+   "urls": []
+  },
+  {
+   "id": 976248710974783500,
+   "id_str": "976248710974783510",
+   "created_at": "Wed Mar 21 00:06:45 +0000 2018",
+   "text": "@Hacklad @Hacker0x01 I'm not sure I understand. Are you talking about new H1 functionality? I'm just wondering abou… https://t.co/S4IsIPNfEA",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976237482017804300,
+   "in_reply_to_status_id_str": "976237482017804288",
+   "in_reply_to_screen_name": "Hacklad",
+   "urls": [
+    {
+     "url": "https://t.co/S4IsIPNfEA",
+     "expand": "https://twitter.com/i/web/status/976248710974783510"
+    }
+   ]
+  },
+  {
+   "id": 976153032705667100,
+   "id_str": "976153032705667072",
+   "created_at": "Tue Mar 20 17:46:33 +0000 2018",
+   "text": "@mongobug @Hacker0x01 If nothing else comes of this, at least I got a great laugh with this one. Love it.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976143186174324700,
+   "in_reply_to_status_id_str": "976143186174324737",
+   "in_reply_to_screen_name": "mongobug",
+   "urls": []
+  },
+  {
+   "id": 976142647017574400,
+   "id_str": "976142647017574401",
+   "created_at": "Tue Mar 20 17:05:17 +0000 2018",
+   "text": "@jobertabma @Hacker0x01 lol, totally blanked on \"weakness\"",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976142220129521700,
+   "in_reply_to_status_id_str": "976142220129521664",
+   "in_reply_to_screen_name": "jobertabma",
+   "urls": []
+  },
+  {
+   "id": 976140859040260100,
+   "id_str": "976140859040260096",
+   "created_at": "Tue Mar 20 16:58:11 +0000 2018",
+   "text": "@jobertabma @Hacker0x01 You didn't add any supporting graphic so.....\n\nI don't see how Shopify / Bime fit into those distinct categoires",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976140245103071200,
+   "in_reply_to_status_id_str": "976140245103071232",
+   "in_reply_to_screen_name": "jobertabma",
+   "urls": []
+  },
+  {
+   "id": 976140056908980200,
+   "id_str": "976140056908980224",
+   "created_at": "Tue Mar 20 16:55:00 +0000 2018",
+   "text": "@jobertabma @Hacker0x01 lol, truth be told, I didn't understand your poll and never went back to it :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976136613259432000,
+   "in_reply_to_status_id_str": "976136613259431936",
+   "in_reply_to_screen_name": "jobertabma",
+   "urls": []
+  },
+  {
+   "id": 976135718287405000,
+   "id_str": "976135718287405056",
+   "created_at": "Tue Mar 20 16:37:45 +0000 2018",
+   "text": "Hackers, would you rather see a @Hacker0x01 bounty table like https://t.co/jruQcbfAdB  (vulnerability based) or… https://t.co/roqD9VuF4c",
+   "retweet_count": 5,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jruQcbfAdB",
+     "expand": "https://hackerone.com/shopify"
+    },
+    {
+     "url": "https://t.co/roqD9VuF4c",
+     "expand": "https://twitter.com/i/web/status/976135718287405056"
+    }
+   ]
+  },
+  {
+   "id": 976046050610839600,
+   "id_str": "976046050610839553",
+   "created_at": "Tue Mar 20 10:41:27 +0000 2018",
+   "text": "RT @albinowax: Looks like there's no need to worry about Firefox ever implementing an XSS filter any more https://t.co/nuT06SnVHu",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nuT06SnVHu",
+     "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=528661#c56"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975870500516913200,
+    "id_str": "975870500516913162",
+    "created_at": "Mon Mar 19 23:03:52 +0000 2018",
+    "text": "Looks like there's no need to worry about Firefox ever implementing an XSS filter any more https://t.co/nuT06SnVHu",
+    "retweet_count": 24,
+    "favorite_count": 69,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nuT06SnVHu",
+      "expand": "https://bugzilla.mozilla.org/show_bug.cgi?id=528661#c56"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975372340576923600,
+   "id_str": "975372340576923648",
+   "created_at": "Sun Mar 18 14:04:22 +0000 2018",
+   "text": "I added a video to a @YouTube playlist https://t.co/zrsKIpSL8i Disobey 2018 - It's the little things - Jon Bottarini",
+   "retweet_count": 7,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zrsKIpSL8i",
+     "expand": "http://youtu.be/5cIT3JN7R8w?a"
+    }
+   ]
+  },
+  {
+   "id": 975188501657542700,
+   "id_str": "975188501657542656",
+   "created_at": "Sun Mar 18 01:53:51 +0000 2018",
+   "text": "@TomNomNom @pentestscraps @NahamSec @BSidesMCR @Hacker0x01 @ZephrFish 17th in the competition, top 10 in our hearts :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975188115752128500,
+   "in_reply_to_status_id_str": "975188115752128513",
+   "in_reply_to_screen_name": "TomNomNom",
+   "urls": []
+  },
+  {
+   "id": 975187343375204400,
+   "id_str": "975187343375204353",
+   "created_at": "Sun Mar 18 01:49:15 +0000 2018",
+   "text": "@pentestscraps @NahamSec @BSidesMCR @Hacker0x01 @ZephrFish Probably @TomNomNom ?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975140584095715300,
+   "in_reply_to_status_id_str": "975140584095715329",
+   "in_reply_to_screen_name": "pentestscraps",
+   "urls": []
+  },
+  {
+   "id": 974677282055999500,
+   "id_str": "974677282055999488",
+   "created_at": "Fri Mar 16 16:02:27 +0000 2018",
+   "text": "@momowowo Summer 2018... if i'm lucky :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974676497767149600,
+   "in_reply_to_status_id_str": "974676497767149570",
+   "in_reply_to_screen_name": "momowowo",
+   "urls": []
+  },
+  {
+   "id": 974673727173595100,
+   "id_str": "974673727173595140",
+   "created_at": "Fri Mar 16 15:48:19 +0000 2018",
+   "text": "@momowowo Finished is a subjective word :) Let alone the physical copy...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974632196135837700,
+   "in_reply_to_status_id_str": "974632196135837696",
+   "in_reply_to_screen_name": "momowowo",
+   "urls": []
+  },
+  {
+   "id": 974578652401848300,
+   "id_str": "974578652401848320",
+   "created_at": "Fri Mar 16 09:30:32 +0000 2018",
+   "text": "@aroly That's great to hear, thanks for sharing it! Knowing it's helping is motivation to keep improving it. Happy hacking!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 974575671665201200,
+   "in_reply_to_status_id_str": "974575671665201152",
+   "in_reply_to_screen_name": "aroly",
+   "urls": []
+  },
+  {
+   "id": 974228435437367300,
+   "id_str": "974228435437367296",
+   "created_at": "Thu Mar 15 10:18:53 +0000 2018",
+   "text": "RT @phwd: Create Learning Units for any Group\n\nhttps://t.co/ia1QdnkHUX",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ia1QdnkHUX",
+     "expand": "https://philippeharewood.com/create-learning-units-for-any-group/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974226375740657700,
+    "id_str": "974226375740657664",
+    "created_at": "Thu Mar 15 10:10:42 +0000 2018",
+    "text": "Create Learning Units for any Group\n\nhttps://t.co/ia1QdnkHUX",
+    "retweet_count": 13,
+    "favorite_count": 28,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ia1QdnkHUX",
+      "expand": "https://philippeharewood.com/create-learning-units-for-any-group/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973947000541597700,
+   "id_str": "973947000541597696",
+   "created_at": "Wed Mar 14 15:40:34 +0000 2018",
+   "text": "Web Hacking ProTips Deep Dive #3 with @NahamSec is up. He talks about how to take your recon skills to the next lev… https://t.co/he9irGHGCX",
+   "retweet_count": 23,
+   "favorite_count": 80,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/he9irGHGCX",
+     "expand": "https://twitter.com/i/web/status/973947000541597696"
+    }
+   ]
+  },
+  {
+   "id": 973946347861704700,
+   "id_str": "973946347861704704",
+   "created_at": "Wed Mar 14 15:37:59 +0000 2018",
+   "text": "I added a video to a @YouTube playlist https://t.co/c86d5XsAWP Web Hacking Pro Tips Deep Dive #3: Advanced Recon",
+   "retweet_count": 26,
+   "favorite_count": 63,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/c86d5XsAWP",
+     "expand": "http://youtu.be/3iWFGFJsNa0?a"
+    }
+   ]
+  },
+  {
+   "id": 973623143234449400,
+   "id_str": "973623143234449409",
+   "created_at": "Tue Mar 13 18:13:41 +0000 2018",
+   "text": "RT @NahamSec: Lazyrecon: A script intended to automate your reconnaissance process in an organized fashion and creates an html report at th…",
+   "retweet_count": 243,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973622537929109500,
+    "id_str": "973622537929109504",
+    "created_at": "Tue Mar 13 18:11:16 +0000 2018",
+    "text": "Lazyrecon: A script intended to automate your reconnaissance process in an organized fashion and creates an html re… https://t.co/4CupmOu0DQ",
+    "retweet_count": 243,
+    "favorite_count": 547,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4CupmOu0DQ",
+      "expand": "https://twitter.com/i/web/status/973622537929109504"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973307627449929700,
+   "id_str": "973307627449929728",
+   "created_at": "Mon Mar 12 21:19:56 +0000 2018",
+   "text": "RT @leanpub: Web Hacking 101: How to Make Money Hacking Ethically https://t.co/HVY26iUgZU by Peter Yaworski is the featured book on https:/…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HVY26iUgZU",
+     "expand": "https://leanpub.com/web-hacking-101"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973306919631798300,
+    "id_str": "973306919631798272",
+    "created_at": "Mon Mar 12 21:17:07 +0000 2018",
+    "text": "Web Hacking 101: How to Make Money Hacking Ethically https://t.co/HVY26iUgZU by Peter Yaworski is the featured book… https://t.co/HGgEXQH9u5",
+    "retweet_count": 6,
+    "favorite_count": 38,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HVY26iUgZU",
+      "expand": "https://leanpub.com/web-hacking-101"
+     },
+     {
+      "url": "https://t.co/HGgEXQH9u5",
+      "expand": "https://twitter.com/i/web/status/973306919631798272"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973241802814877700,
+   "id_str": "973241802814877696",
+   "created_at": "Mon Mar 12 16:58:22 +0000 2018",
+   "text": "@wraggs17 Yup.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973206003062857700,
+   "in_reply_to_status_id_str": "973206003062857729",
+   "in_reply_to_screen_name": "wraggs17",
+   "urls": []
+  },
+  {
+   "id": 973125657084428300,
+   "id_str": "973125657084428289",
+   "created_at": "Mon Mar 12 09:16:51 +0000 2018",
+   "text": "@streaak Why not both? :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973080357112234000,
+   "in_reply_to_status_id_str": "973080357112233986",
+   "in_reply_to_screen_name": "streaak",
+   "urls": []
+  },
+  {
+   "id": 973028331108163600,
+   "id_str": "973028331108163584",
+   "created_at": "Mon Mar 12 02:50:06 +0000 2018",
+   "text": "Newest version of https://t.co/4BlfYGWwp6 is out. New examples for SQLi, SSRF and Race Conditions. Also updated the… https://t.co/jx2SVO6Ug7",
+   "retweet_count": 137,
+   "favorite_count": 378,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4BlfYGWwp6",
+     "expand": "https://leanpub.com/web-hacking-101"
+    },
+    {
+     "url": "https://t.co/jx2SVO6Ug7",
+     "expand": "https://twitter.com/i/web/status/973028331108163584"
+    }
+   ]
+  },
+  {
+   "id": 972776481662304300,
+   "id_str": "972776481662304256",
+   "created_at": "Sun Mar 11 10:09:21 +0000 2018",
+   "text": "RT @Jhaddix: Working on a pretty cool \"The Bug Hunter's Methodology\" Mindmap for you all this weekend =) Stay tuned! https://t.co/265USNO3TN",
+   "retweet_count": 478,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972605648109097000,
+    "id_str": "972605648109096960",
+    "created_at": "Sat Mar 10 22:50:31 +0000 2018",
+    "text": "Working on a pretty cool \"The Bug Hunter's Methodology\" Mindmap for you all this weekend =) Stay tuned! https://t.co/265USNO3TN",
+    "retweet_count": 478,
+    "favorite_count": 1332,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 972563010698039300,
+   "id_str": "972563010698039296",
+   "created_at": "Sat Mar 10 20:01:05 +0000 2018",
+   "text": "RT @sandh0t: “Reading Internal Files using SSRF vulnerability” by @neeraj_sonaniya https://t.co/bQkwzmZKCv",
+   "retweet_count": 54,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bQkwzmZKCv",
+     "expand": "https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972043246888202200,
+    "id_str": "972043246888202240",
+    "created_at": "Fri Mar 09 09:35:44 +0000 2018",
+    "text": "“Reading Internal Files using SSRF vulnerability” by @neeraj_sonaniya https://t.co/bQkwzmZKCv",
+    "retweet_count": 54,
+    "favorite_count": 115,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bQkwzmZKCv",
+      "expand": "https://medium.com/@neerajedwards/reading-internal-files-using-ssrf-vulnerability-703c5706eefb"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972562698385883100,
+   "id_str": "972562698385883137",
+   "created_at": "Sat Mar 10 19:59:51 +0000 2018",
+   "text": "RT @ivRodriguezCA: And we are back! v1.0 of my iOS CTF is back up and v2.0 is coming along! https://t.co/aF7l1znaZ9",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/aF7l1znaZ9",
+     "expand": "https://www.ivrodriguez.com/mobile-ctf/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972540628650381300,
+    "id_str": "972540628650381313",
+    "created_at": "Sat Mar 10 18:32:09 +0000 2018",
+    "text": "And we are back! v1.0 of my iOS CTF is back up and v2.0 is coming along! https://t.co/aF7l1znaZ9",
+    "retweet_count": 4,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aF7l1znaZ9",
+      "expand": "https://www.ivrodriguez.com/mobile-ctf/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972336387797155800,
+   "id_str": "972336387797155840",
+   "created_at": "Sat Mar 10 05:00:34 +0000 2018",
+   "text": "@quanyang @tiraniddo I don't think you can go wrong with any @nostarch book :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972335935563038700,
+   "in_reply_to_status_id_str": "972335935563038726",
+   "in_reply_to_screen_name": "quanyang",
+   "urls": []
+  },
+  {
+   "id": 972335351351128000,
+   "id_str": "972335351351128064",
+   "created_at": "Sat Mar 10 04:56:27 +0000 2018",
+   "text": "@quanyang Attacking Network Protocols by @tiraniddo",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 972249608901439500,
+   "in_reply_to_status_id_str": "972249608901439488",
+   "in_reply_to_screen_name": "quanyang",
+   "urls": []
+  },
+  {
+   "id": 972255831138885600,
+   "id_str": "972255831138885632",
+   "created_at": "Fri Mar 09 23:40:28 +0000 2018",
+   "text": "@ITSecurityguard @NahamSec @Jhaddix Yup, definitely",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972225102996701200,
+   "in_reply_to_status_id_str": "972225102996701184",
+   "in_reply_to_screen_name": "ITSecurityguard",
+   "urls": []
+  },
+  {
+   "id": 972222017020756000,
+   "id_str": "972222017020755973",
+   "created_at": "Fri Mar 09 21:26:06 +0000 2018",
+   "text": "@JosipFranjkovic Awesome bugs, thanks for sharing!! Also loved that your referenced how you found them, that's a hu… https://t.co/htN3qyyz2D",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972195315188162600,
+   "in_reply_to_status_id_str": "972195315188162562",
+   "in_reply_to_screen_name": "JosipFranjkovic",
+   "urls": [
+    {
+     "url": "https://t.co/htN3qyyz2D",
+     "expand": "https://twitter.com/i/web/status/972222017020755973"
+    }
+   ]
+  },
+  {
+   "id": 972220710293786600,
+   "id_str": "972220710293786624",
+   "created_at": "Fri Mar 09 21:20:54 +0000 2018",
+   "text": "Switched it up today to record Web Hacking ProTips Deep Dive 3 with @NahamSec and it was phenomenal. @Jhaddix was d… https://t.co/ZOUgs6KwxL",
+   "retweet_count": 18,
+   "favorite_count": 109,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZOUgs6KwxL",
+     "expand": "https://twitter.com/i/web/status/972220710293786624"
+    }
+   ]
+  },
+  {
+   "id": 972220047065256000,
+   "id_str": "972220047065255938",
+   "created_at": "Fri Mar 09 21:18:16 +0000 2018",
+   "text": "RT @JosipFranjkovic: Getting any Facebook user's friend list and partial payment card details\n - https://t.co/Mmv9QXPrJK \n#BugBounty",
+   "retweet_count": 164,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Mmv9QXPrJK",
+     "expand": "https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972195315188162600,
+    "id_str": "972195315188162562",
+    "created_at": "Fri Mar 09 19:40:00 +0000 2018",
+    "text": "Getting any Facebook user's friend list and partial payment card details\n - https://t.co/Mmv9QXPrJK \n#BugBounty",
+    "retweet_count": 164,
+    "favorite_count": 281,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Mmv9QXPrJK",
+      "expand": "https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971810838242824200,
+   "id_str": "971810838242824195",
+   "created_at": "Thu Mar 08 18:12:13 +0000 2018",
+   "text": "RT @uraniumhacker: A major shoutout to @Shopify's security team for giving some beta access to hackers who signup with +hackerone in the em…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971565425640157200,
+    "id_str": "971565425640157184",
+    "created_at": "Thu Mar 08 01:57:02 +0000 2018",
+    "text": "A major shoutout to @Shopify's security team for giving some beta access to hackers who signup with +hackerone in t… https://t.co/LiVhuwA30c",
+    "retweet_count": 7,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LiVhuwA30c",
+      "expand": "https://twitter.com/i/web/status/971565425640157184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971810786585825300,
+   "id_str": "971810786585825281",
+   "created_at": "Thu Mar 08 18:12:01 +0000 2018",
+   "text": "@zacakin @uraniumhacker @Shopify There isn't a day that goes by that I don't have the same thought :)",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 971771699011100700,
+   "in_reply_to_status_id_str": "971771699011100674",
+   "in_reply_to_screen_name": "zacakin",
+   "urls": []
+  },
+  {
+   "id": 971723501944975400,
+   "id_str": "971723501944975360",
+   "created_at": "Thu Mar 08 12:25:11 +0000 2018",
+   "text": "@mongobug @AmitElazari @EdOverflow @BugBountyHQ Yeah... that came off more internet troll-ish than was meant :)",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 971710930978517000,
+   "in_reply_to_status_id_str": "971710930978516992",
+   "in_reply_to_screen_name": "mongobug",
+   "urls": []
+  },
+  {
+   "id": 971697934751469600,
+   "id_str": "971697934751469569",
+   "created_at": "Thu Mar 08 10:43:35 +0000 2018",
+   "text": "@AmitElazari @mongobug @EdOverflow @BugBountyHQ I think you meant can't read them all?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971479128498032600,
+   "in_reply_to_status_id_str": "971479128498032645",
+   "in_reply_to_screen_name": "AmitElazari",
+   "urls": []
+  },
+  {
+   "id": 971466860628729900,
+   "id_str": "971466860628729856",
+   "created_at": "Wed Mar 07 19:25:23 +0000 2018",
+   "text": "RT @signalchaos: Stored XSS, and SSRF in Google using the Dataset Publishing Language: https://t.co/SfUIG6XsAP https://t.co/Wjyg5NQj3n",
+   "retweet_count": 195,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SfUIG6XsAP",
+     "expand": "https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971463675046277100,
+    "id_str": "971463675046277120",
+    "created_at": "Wed Mar 07 19:12:43 +0000 2018",
+    "text": "Stored XSS, and SSRF in Google using the Dataset Publishing Language: https://t.co/SfUIG6XsAP https://t.co/Wjyg5NQj3n",
+    "retweet_count": 195,
+    "favorite_count": 317,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SfUIG6XsAP",
+      "expand": "https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971461785923530800,
+   "id_str": "971461785923530752",
+   "created_at": "Wed Mar 07 19:05:13 +0000 2018",
+   "text": "RT @jobertabma: @jstnkndy @disclosedh1 @Hacker0x01 Thanks for the discussion on BBF! TL;DR: paying sub minimum causes confusion, the policy…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971440255369965600,
+    "id_str": "971440255369965569",
+    "created_at": "Wed Mar 07 17:39:40 +0000 2018",
+    "text": "@jstnkndy @disclosedh1 @Hacker0x01 Thanks for the discussion on BBF! TL;DR: paying sub minimum causes confusion, th… https://t.co/2vhrYVzrI5",
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": 971431957828636700,
+    "in_reply_to_status_id_str": "971431957828636672",
+    "in_reply_to_screen_name": "jstnkndy",
+    "urls": [
+     {
+      "url": "https://t.co/2vhrYVzrI5",
+      "expand": "https://twitter.com/i/web/status/971440255369965569"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971191398052450300,
+   "id_str": "971191398052450304",
+   "created_at": "Wed Mar 07 01:10:47 +0000 2018",
+   "text": "RT @Hacker0x01: Update: @nimiq just doubled critical vulnerability rewards to $13,337! Check out their program page: https://t.co/n1hNVt2ko…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971138666470035500,
+    "id_str": "971138666470035459",
+    "created_at": "Tue Mar 06 21:41:15 +0000 2018",
+    "text": "Update: @nimiq just doubled critical vulnerability rewards to $13,337! Check out their program page:… https://t.co/tzX8OEV9Kx",
+    "retweet_count": 14,
+    "favorite_count": 52,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/tzX8OEV9Kx",
+      "expand": "https://twitter.com/i/web/status/971138666470035459"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970773918918299600,
+   "id_str": "970773918918299649",
+   "created_at": "Mon Mar 05 21:31:53 +0000 2018",
+   "text": "RT @wendygillis: Documents obtained by the Star show that Toronto Police has used an IMSI catcher — the cellphone data-capturing device als…",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970652173548867600,
+    "id_str": "970652173548867584",
+    "created_at": "Mon Mar 05 13:28:06 +0000 2018",
+    "text": "Documents obtained by the Star show that Toronto Police has used an IMSI catcher — the cellphone data-capturing dev… https://t.co/g2rBpu8Fit",
+    "retweet_count": 29,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/g2rBpu8Fit",
+      "expand": "https://twitter.com/i/web/status/970652173548867584"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970747481880395800,
+   "id_str": "970747481880395776",
+   "created_at": "Mon Mar 05 19:46:49 +0000 2018",
+   "text": "RT @ivRodriguezCA: You can start by decrypting the Arrive iOS App https://t.co/oCnZjNyQGp https://t.co/Z1mLUZlgA4",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oCnZjNyQGp",
+     "expand": "https://ivrodriguez.com/reverse-engineer-ios-apps-ios-11-edition-part1/"
+    },
+    {
+     "url": "https://t.co/Z1mLUZlgA4",
+     "expand": "https://twitter.com/yaworsk/status/970735009870073857"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970743918328299500,
+    "id_str": "970743918328299520",
+    "created_at": "Mon Mar 05 19:32:40 +0000 2018",
+    "text": "You can start by decrypting the Arrive iOS App https://t.co/oCnZjNyQGp https://t.co/Z1mLUZlgA4",
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oCnZjNyQGp",
+      "expand": "https://ivrodriguez.com/reverse-engineer-ios-apps-ios-11-edition-part1/"
+     },
+     {
+      "url": "https://t.co/Z1mLUZlgA4",
+      "expand": "https://twitter.com/yaworsk/status/970735009870073857"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970735009870073900,
+   "id_str": "970735009870073857",
+   "created_at": "Mon Mar 05 18:57:16 +0000 2018",
+   "text": "Looking for something to hack?\n@Shopify added new #bugbounty targets today to it's @Hacker0x01 program… https://t.co/Acf87t03rH",
+   "retweet_count": 22,
+   "favorite_count": 56,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Acf87t03rH",
+     "expand": "https://twitter.com/i/web/status/970735009870073857"
+    }
+   ]
+  },
+  {
+   "id": 970302973808119800,
+   "id_str": "970302973808119808",
+   "created_at": "Sun Mar 04 14:20:30 +0000 2018",
+   "text": "@iMeluny @jobertabma @mongobug @_ayoubfathi_ @fransrosen We usually ask for a video when the communication makes it… https://t.co/E7Tb4IpgR3",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970301647074349000,
+   "in_reply_to_status_id_str": "970301647074349056",
+   "in_reply_to_screen_name": "iMeluny",
+   "urls": [
+    {
+     "url": "https://t.co/E7Tb4IpgR3",
+     "expand": "https://twitter.com/i/web/status/970302973808119808"
+    }
+   ]
+  },
+  {
+   "id": 970296463954731000,
+   "id_str": "970296463954731010",
+   "created_at": "Sun Mar 04 13:54:38 +0000 2018",
+   "text": "@iMeluny @mongobug @_ayoubfathi_ @jobertabma @fransrosen Yes. Exactly.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970295211569111000,
+   "in_reply_to_status_id_str": "970295211569111040",
+   "in_reply_to_screen_name": "iMeluny",
+   "urls": []
+  },
+  {
+   "id": 970286209393098800,
+   "id_str": "970286209393098752",
+   "created_at": "Sun Mar 04 13:13:54 +0000 2018",
+   "text": "@iMeluny @_ayoubfathi_ @jobertabma @fransrosen Yeah, with my initial reaction, I was thinking of our N/A reports wh… https://t.co/PXTN8pXlqH",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970284444929155100,
+   "in_reply_to_status_id_str": "970284444929155072",
+   "in_reply_to_screen_name": "iMeluny",
+   "urls": [
+    {
+     "url": "https://t.co/PXTN8pXlqH",
+     "expand": "https://twitter.com/i/web/status/970286209393098752"
+    }
+   ]
+  },
+  {
+   "id": 970283337876205600,
+   "id_str": "970283337876205568",
+   "created_at": "Sun Mar 04 13:02:29 +0000 2018",
+   "text": "@jobertabma @fransrosen :) went back over my reports and the better ones I've received / triaged.  Gonna retract my… https://t.co/drDKnu59Pt",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 970280664632348700,
+   "in_reply_to_status_id_str": "970280664632348672",
+   "in_reply_to_screen_name": "yaworsk",
+   "urls": [
+    {
+     "url": "https://t.co/drDKnu59Pt",
+     "expand": "https://twitter.com/i/web/status/970283337876205568"
+    }
+   ]
+  },
+  {
+   "id": 970280664632348700,
+   "id_str": "970280664632348672",
+   "created_at": "Sun Mar 04 12:51:52 +0000 2018",
+   "text": "@jobertabma @fransrosen Humbly may disagree. The title isn't a summary IMO, I like to see the what and where in the… https://t.co/OFtcUKl5x3",
+   "retweet_count": 0,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": 970248930377203700,
+   "in_reply_to_status_id_str": "970248930377203713",
+   "in_reply_to_screen_name": "jobertabma",
+   "urls": [
+    {
+     "url": "https://t.co/OFtcUKl5x3",
+     "expand": "https://twitter.com/i/web/status/970280664632348672"
+    }
+   ]
+  },
+  {
+   "id": 970242179573612500,
+   "id_str": "970242179573612545",
+   "created_at": "Sun Mar 04 10:18:56 +0000 2018",
+   "text": "RT @Jhaddix: here you go @nullcon ! Slides for The Bug Hunter's Methodology 2.1 , Enjoy! https://t.co/bMmEeuEcPy https://t.co/NaI1SxtLKz",
+   "retweet_count": 564,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bMmEeuEcPy",
+     "expand": "https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970148231224033300,
+    "id_str": "970148231224033280",
+    "created_at": "Sun Mar 04 04:05:37 +0000 2018",
+    "text": "here you go @nullcon ! Slides for The Bug Hunter's Methodology 2.1 , Enjoy! https://t.co/bMmEeuEcPy https://t.co/NaI1SxtLKz",
+    "retweet_count": 564,
+    "favorite_count": 1089,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bMmEeuEcPy",
+      "expand": "https://docs.google.com/presentation/d/1VpRT8dFyTaFpQa9jhehtmGaC7TqQniMSYbUdlHN6VrY/edit?usp=sharing"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969168694298361900,
+   "id_str": "969168694298361856",
+   "created_at": "Thu Mar 01 11:13:17 +0000 2018",
+   "text": "@Jhaddix just noticed the promotion on LinkedIn. Congrats on becoming @Bugcrowd VP of Trust and Security! That's aw… https://t.co/U6BkfHhW9G",
+   "retweet_count": 0,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "Jhaddix",
+   "urls": [
+    {
+     "url": "https://t.co/U6BkfHhW9G",
+     "expand": "https://twitter.com/i/web/status/969168694298361856"
+    }
+   ]
+  },
+  {
+   "id": 968933311488852000,
+   "id_str": "968933311488851969",
+   "created_at": "Wed Feb 28 19:37:58 +0000 2018",
+   "text": "#WebHackingProTips 14 w/Johnny Nipper is live! If you take nothing else away from this, realize bug bounties are yo… https://t.co/FmS61dswCK",
+   "retweet_count": 18,
+   "favorite_count": 50,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FmS61dswCK",
+     "expand": "https://twitter.com/i/web/status/968933311488851969"
+    }
+   ]
+  },
+  {
+   "id": 968932732217774100,
+   "id_str": "968932732217774081",
+   "created_at": "Wed Feb 28 19:35:39 +0000 2018",
+   "text": "I added a video to a @YouTube playlist https://t.co/FekGO4Wl7s Web Hacking Pro Tips #14 with Johnny Nipper",
+   "retweet_count": 5,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FekGO4Wl7s",
+     "expand": "http://youtu.be/j4CrQY9K678?a"
+    }
+   ]
+  },
+  {
+   "id": 968632323993321500,
+   "id_str": "968632323993321472",
+   "created_at": "Tue Feb 27 23:41:57 +0000 2018",
+   "text": "@samhouston @Jhaddix @dncotta @Bugcrowd @jobertabma I know it's not easy but ask openly on Twitter to after exhaust… https://t.co/l6RFgrP5Ga",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968631959688683500,
+   "in_reply_to_status_id_str": "968631959688683520",
+   "in_reply_to_screen_name": "yaworsk",
+   "urls": [
+    {
+     "url": "https://t.co/l6RFgrP5Ga",
+     "expand": "https://twitter.com/i/web/status/968632323993321472"
+    }
+   ]
+  },
+  {
+   "id": 968631959688683500,
+   "id_str": "968631959688683520",
+   "created_at": "Tue Feb 27 23:40:30 +0000 2018",
+   "text": "@samhouston @Jhaddix @dncotta @Bugcrowd Gonna assume being at it for a year, you've read all the beginner resources… https://t.co/eDkfPr05aP",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968618285192306700,
+   "in_reply_to_status_id_str": "968618285192306688",
+   "in_reply_to_screen_name": "samhouston",
+   "urls": [
+    {
+     "url": "https://t.co/eDkfPr05aP",
+     "expand": "https://twitter.com/i/web/status/968631959688683520"
+    }
+   ]
+  },
+  {
+   "id": 968584773894631400,
+   "id_str": "968584773894631425",
+   "created_at": "Tue Feb 27 20:33:00 +0000 2018",
+   "text": "RT @0xACB: I woke up 3 hours ago and this already happened: https://t.co/ya1Rs5lh37\nTy @Shopify and @Hacker0x01 for the bounty",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ya1Rs5lh37",
+     "expand": "https://hackerone.com/reports/320355"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968547852266983400,
+    "id_str": "968547852266983426",
+    "created_at": "Tue Feb 27 18:06:17 +0000 2018",
+    "text": "I woke up 3 hours ago and this already happened: https://t.co/ya1Rs5lh37\nTy @Shopify and @Hacker0x01 for the bounty",
+    "retweet_count": 8,
+    "favorite_count": 56,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ya1Rs5lh37",
+      "expand": "https://hackerone.com/reports/320355"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968582988278718500,
+   "id_str": "968582988278718464",
+   "created_at": "Tue Feb 27 20:25:54 +0000 2018",
+   "text": "@securinti @bugbountyforum @NealPoole @jobertabma @fransrosen @arneswinnen @smiegles @ITSecurityguard @bbuerhaus… https://t.co/fanxluTYIW",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 968580859652706300,
+   "in_reply_to_status_id_str": "968580859652706304",
+   "in_reply_to_screen_name": "securinti",
+   "urls": [
+    {
+     "url": "https://t.co/fanxluTYIW",
+     "expand": "https://twitter.com/i/web/status/968582988278718464"
+    }
+   ]
+  },
+  {
+   "id": 968549013782966300,
+   "id_str": "968549013782966273",
+   "created_at": "Tue Feb 27 18:10:54 +0000 2018",
+   "text": "RT @disclosedh1: Shopify disclosed a bug submitted by 0xacb: https://t.co/jhabDZXXRc - Bounty: $1,000 #hackerone #bugbounty https://t.co/6I…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jhabDZXXRc",
+     "expand": "https://hackerone.com/reports/320355"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968546336160219100,
+    "id_str": "968546336160219138",
+    "created_at": "Tue Feb 27 18:00:15 +0000 2018",
+    "text": "Shopify disclosed a bug submitted by 0xacb: https://t.co/jhabDZXXRc - Bounty: $1,000 #hackerone #bugbounty https://t.co/6IgVL3RsCW",
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jhabDZXXRc",
+      "expand": "https://hackerone.com/reports/320355"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968509460141326300,
+   "id_str": "968509460141326336",
+   "created_at": "Tue Feb 27 15:33:43 +0000 2018",
+   "text": "@tbmnull @mongobug @openbugbounty @brutelogic SlideShare is owned by LinkedIn. You should report it to them, not open bug bounty.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968508412395847700,
+   "id_str": "968508412395847680",
+   "created_at": "Tue Feb 27 15:29:34 +0000 2018",
+   "text": "@mongobug @tbmnull @openbugbounty @brutelogic I only accept connection requests if they come with an enquiry whethe… https://t.co/EucqtvLdbW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968507861583237100,
+   "in_reply_to_status_id_str": "968507861583237120",
+   "in_reply_to_screen_name": "mongobug",
+   "urls": [
+    {
+     "url": "https://t.co/EucqtvLdbW",
+     "expand": "https://twitter.com/i/web/status/968508412395847680"
+    }
+   ]
+  },
+  {
+   "id": 968503135919419400,
+   "id_str": "968503135919419393",
+   "created_at": "Tue Feb 27 15:08:36 +0000 2018",
+   "text": "@tbmnull @openbugbounty @brutelogic https://t.co/s7LVS5NHG4",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/s7LVS5NHG4",
+     "expand": "https://hackerone.com/linkedin"
+    }
+   ]
+  },
+  {
+   "id": 968502172617883600,
+   "id_str": "968502172617883648",
+   "created_at": "Tue Feb 27 15:04:46 +0000 2018",
+   "text": "RT @disclosedh1: LocalTapiola disclosed a bug submitted by yonm13: https://t.co/F6fcNyssxb - Bounty: $6,300 #hackerone #bugbounty https://t…",
+   "retweet_count": 35,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/F6fcNyssxb",
+     "expand": "https://hackerone.com/reports/303061"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968448174066106400,
+    "id_str": "968448174066106368",
+    "created_at": "Tue Feb 27 11:30:12 +0000 2018",
+    "text": "LocalTapiola disclosed a bug submitted by yonm13: https://t.co/F6fcNyssxb - Bounty: $6,300 #hackerone #bugbounty https://t.co/JAa5vudviA",
+    "retweet_count": 35,
+    "favorite_count": 94,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/F6fcNyssxb",
+      "expand": "https://hackerone.com/reports/303061"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968502111871758300,
+   "id_str": "968502111871758336",
+   "created_at": "Tue Feb 27 15:04:32 +0000 2018",
+   "text": "@garthhumphreys Burp passive scanning doesn't send additional traffic \"Passive scanning, where Burp analyzes existi… https://t.co/PnfICoJ7Hf",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968476289379291100,
+   "in_reply_to_status_id_str": "968476289379291136",
+   "in_reply_to_screen_name": "garthhumphreys",
+   "urls": [
+    {
+     "url": "https://t.co/PnfICoJ7Hf",
+     "expand": "https://twitter.com/i/web/status/968502111871758336"
+    }
+   ]
+  },
+  {
+   "id": 968243389165486100,
+   "id_str": "968243389165486080",
+   "created_at": "Mon Feb 26 21:56:27 +0000 2018",
+   "text": "@gwendallecoguic @NahamSec Caveat to it all is the type of bug and how they're discovered. If it's idor on 5/5 urls… https://t.co/myksg09YJF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968242941641699300,
+   "in_reply_to_status_id_str": "968242941641699328",
+   "in_reply_to_screen_name": "yaworsk",
+   "urls": [
+    {
+     "url": "https://t.co/myksg09YJF",
+     "expand": "https://twitter.com/i/web/status/968243389165486080"
+    }
+   ]
+  },
+  {
+   "id": 968242941641699300,
+   "id_str": "968242941641699328",
+   "created_at": "Mon Feb 26 21:54:41 +0000 2018",
+   "text": "@gwendallecoguic @NahamSec We make those types of decisions as a team so I can't speak for others but if did one th… https://t.co/V7i356p6e4",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968242146670186500,
+   "in_reply_to_status_id_str": "968242146670186496",
+   "in_reply_to_screen_name": "gwendallecoguic",
+   "urls": [
+    {
+     "url": "https://t.co/V7i356p6e4",
+     "expand": "https://twitter.com/i/web/status/968242941641699328"
+    }
+   ]
+  },
+  {
+   "id": 968230269777055700,
+   "id_str": "968230269777055745",
+   "created_at": "Mon Feb 26 21:04:19 +0000 2018",
+   "text": "@gwendallecoguic @NahamSec Same issue, 5 endpoints goes into the same report for me, imho as a hacker.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968229329414119400,
+   "in_reply_to_status_id_str": "968229329414119425",
+   "in_reply_to_screen_name": "gwendallecoguic",
+   "urls": []
+  },
+  {
+   "id": 968191767119048700,
+   "id_str": "968191767119048704",
+   "created_at": "Mon Feb 26 18:31:20 +0000 2018",
+   "text": "@IboShox Do they have a vulnerability disclosure program? If not, I believe @Bugcrowd and @Hacker0x01 help with that.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967866476827938800,
+   "in_reply_to_status_id_str": "967866476827938817",
+   "in_reply_to_screen_name": "IboShox",
+   "urls": []
+  },
+  {
+   "id": 968191265484558300,
+   "id_str": "968191265484558338",
+   "created_at": "Mon Feb 26 18:29:20 +0000 2018",
+   "text": "Recorded #HackingProTips 14 with Johnny Nipper from @Tinder last night &amp; learned a tonne, again. Had to turn record… https://t.co/PIlhQubGJx",
+   "retweet_count": 4,
+   "favorite_count": 57,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PIlhQubGJx",
+     "expand": "https://twitter.com/i/web/status/968191265484558338"
+    }
+   ]
+  },
+  {
+   "id": 968133913443995600,
+   "id_str": "968133913443995648",
+   "created_at": "Mon Feb 26 14:41:26 +0000 2018",
+   "text": "RT @cathicks: Justin Trudeau's youngest child does not give a single fuck. \n\nI am inspired. https://t.co/VjQvvELeKQ",
+   "retweet_count": 36960,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967225466556837900,
+    "id_str": "967225466556837888",
+    "created_at": "Sat Feb 24 02:31:36 +0000 2018",
+    "text": "Justin Trudeau's youngest child does not give a single fuck. \n\nI am inspired. https://t.co/VjQvvELeKQ",
+    "retweet_count": 36960,
+    "favorite_count": 68820,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 968076807789514800,
+   "id_str": "968076807789514752",
+   "created_at": "Mon Feb 26 10:54:31 +0000 2018",
+   "text": "RT @phwd: Disclose Facebook page admins using typeahead search\n\nby Kassem Bazzoun\n\nhttps://t.co/N5ExqQADEG\n\n#bugbounty",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/N5ExqQADEG",
+     "expand": "https://www.youtube.com/watch?v=M6oVdgFZqf0"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967763555251572700,
+    "id_str": "967763555251572742",
+    "created_at": "Sun Feb 25 14:09:46 +0000 2018",
+    "text": "Disclose Facebook page admins using typeahead search\n\nby Kassem Bazzoun\n\nhttps://t.co/N5ExqQADEG\n\n#bugbounty",
+    "retweet_count": 31,
+    "favorite_count": 56,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/N5ExqQADEG",
+      "expand": "https://www.youtube.com/watch?v=M6oVdgFZqf0"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967856892830781400,
+   "id_str": "967856892830781440",
+   "created_at": "Sun Feb 25 20:20:39 +0000 2018",
+   "text": "RT @phwd: Disclose Facebook page admins\n\nby Sai Naik \n\nBounty awarded: $3000\n\nhttps://t.co/QJ4nkmZLUx\n\n#bugbounty",
+   "retweet_count": 38,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QJ4nkmZLUx",
+     "expand": "https://www.youtube.com/watch?v=N_i8sPlbtZs"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967710323565301800,
+    "id_str": "967710323565301760",
+    "created_at": "Sun Feb 25 10:38:14 +0000 2018",
+    "text": "Disclose Facebook page admins\n\nby Sai Naik \n\nBounty awarded: $3000\n\nhttps://t.co/QJ4nkmZLUx\n\n#bugbounty",
+    "retweet_count": 38,
+    "favorite_count": 83,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QJ4nkmZLUx",
+      "expand": "https://www.youtube.com/watch?v=N_i8sPlbtZs"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967405471551361000,
+   "id_str": "967405471551361025",
+   "created_at": "Sat Feb 24 14:26:52 +0000 2018",
+   "text": "RT @ret2got: My @Hacker0x01 H1-202 CTF write-up https://t.co/jF6qkM56Fu",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jF6qkM56Fu",
+     "expand": "https://ret2got.wordpress.com/2018/02/23/h1-202-ctf-write-ups/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967168068009975800,
+    "id_str": "967168068009975808",
+    "created_at": "Fri Feb 23 22:43:31 +0000 2018",
+    "text": "My @Hacker0x01 H1-202 CTF write-up https://t.co/jF6qkM56Fu",
+    "retweet_count": 29,
+    "favorite_count": 70,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jF6qkM56Fu",
+      "expand": "https://ret2got.wordpress.com/2018/02/23/h1-202-ctf-write-ups/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967225698015432700,
+   "id_str": "967225698015432705",
+   "created_at": "Sat Feb 24 02:32:31 +0000 2018",
+   "text": "RT @disclosedh1: Twitter disclosed a bug submitted by harisec: https://t.co/AOIvFiTJFD - Bounty: $1,120 #hackerone #bugbounty https://t.co/…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AOIvFiTJFD",
+     "expand": "https://hackerone.com/reports/297968"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967191132487802900,
+    "id_str": "967191132487802881",
+    "created_at": "Sat Feb 24 00:15:10 +0000 2018",
+    "text": "Twitter disclosed a bug submitted by harisec: https://t.co/AOIvFiTJFD - Bounty: $1,120 #hackerone #bugbounty https://t.co/fQo1i01GLr",
+    "retweet_count": 12,
+    "favorite_count": 54,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/AOIvFiTJFD",
+      "expand": "https://hackerone.com/reports/297968"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967096538458501100,
+   "id_str": "967096538458501120",
+   "created_at": "Fri Feb 23 17:59:17 +0000 2018",
+   "text": "Awesome perk of @Shopify Toronto office, once a month Fancy Friday. Lunch time with @ivRodriguezCA #LifeAtShopify https://t.co/96JbpTsDzY",
+   "retweet_count": 1,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
   {
    "id": 966709526689976300,
    "id_str": "966709526689976321",
    "created_at": "Thu Feb 22 16:21:26 +0000 2018",
    "text": "Check out the @Shopify bug bounty program stats from 2017. More importantly, we're paying $500 on triage now and ha… https://t.co/IysSnoQckw",
    "retweet_count": 6,
-   "favorite_count": 36,
+   "favorite_count": 51,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
@@ -18,457 +2125,6 @@
      "expand": "https://twitter.com/i/web/status/966709526689976321"
     }
    ]
-  },
-  {
-   "id": 966696416059019300,
-   "id_str": "966696416059019264",
-   "created_at": "Thu Feb 22 15:29:20 +0000 2018",
-   "text": "@Bugcrowd @olanordstrom @Optimizely \"talks about\" may be a little misleading... maybe \"announces\"? :)",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966694081488457700,
-   "in_reply_to_status_id_str": "966694081488457728",
-   "in_reply_to_screen_name": "Bugcrowd",
-   "urls": []
-  },
-  {
-   "id": 966447715419799600,
-   "id_str": "966447715419799553",
-   "created_at": "Wed Feb 21 23:01:05 +0000 2018",
-   "text": "@samantha_klemm @Rosenawesome You should check out @Shopify :)",
-   "retweet_count": 0,
-   "favorite_count": 5,
-   "place": null,
-   "in_reply_to_status_id": 966433887676231700,
-   "in_reply_to_status_id_str": "966433887676231681",
-   "in_reply_to_screen_name": "samantha_klemm",
-   "urls": []
-  },
-  {
-   "id": 966440759279759400,
-   "id_str": "966440759279759360",
-   "created_at": "Wed Feb 21 22:33:27 +0000 2018",
-   "text": "@BhushanRamteke @c0rtePentest @rfkrishnan @Hacker0x01 @Bugcrowd @cobalt_io I'm happy to answer questions",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966411038399848400,
-   "in_reply_to_status_id_str": "966411038399848454",
-   "in_reply_to_screen_name": "BhushanRamteke",
-   "urls": []
-  },
-  {
-   "id": 966435878150156300,
-   "id_str": "966435878150156288",
-   "created_at": "Wed Feb 21 22:14:03 +0000 2018",
-   "text": "@smiegles @Bitquark +1",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966412908891603000,
-   "in_reply_to_status_id_str": "966412908891602944",
-   "in_reply_to_screen_name": "smiegles",
-   "urls": []
-  },
-  {
-   "id": 966435814728073200,
-   "id_str": "966435814728073216",
-   "created_at": "Wed Feb 21 22:13:48 +0000 2018",
-   "text": "RT @smiegles: @Bitquark I would happily pay 40-50$ a year for an \"individual\" account. but everything above that is nuts. We're talking abo…",
-   "retweet_count": 1,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966412908891603000,
-    "id_str": "966412908891602944",
-    "created_at": "Wed Feb 21 20:42:47 +0000 2018",
-    "text": "@Bitquark I would happily pay 40-50$ a year for an \"individual\" account. but everything above that is nuts. We're t… https://t.co/oUo748omRK",
-    "retweet_count": 1,
-    "favorite_count": 3,
-    "place": null,
-    "in_reply_to_status_id": 966412038607069200,
-    "in_reply_to_status_id_str": "966412038607069184",
-    "in_reply_to_screen_name": "Bitquark",
-    "urls": [
-     {
-      "url": "https://t.co/oUo748omRK",
-      "expand": "https://twitter.com/i/web/status/966412908891602944"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966435574587392000,
-   "id_str": "966435574587392000",
-   "created_at": "Wed Feb 21 22:12:51 +0000 2018",
-   "text": "RT @prateek_0490: I just published a blog on few tips on #BugBounty \"Bug Bounty - Tips / Tricks / JS (JavaScript Files)\" #TogetherWeHitHard…",
-   "retweet_count": 105,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966397683446370300,
-    "id_str": "966397683446370304",
-    "created_at": "Wed Feb 21 19:42:17 +0000 2018",
-    "text": "I just published a blog on few tips on #BugBounty \"Bug Bounty - Tips / Tricks / JS (JavaScript Files)\"… https://t.co/aIfkRTR2tt",
-    "retweet_count": 105,
-    "favorite_count": 199,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/aIfkRTR2tt",
-      "expand": "https://twitter.com/i/web/status/966397683446370304"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966368388758032400,
-   "id_str": "966368388758032384",
-   "created_at": "Wed Feb 21 17:45:52 +0000 2018",
-   "text": "@HivarekarPranav @caseyjohnellis @Square @Bugcrowd @Hacker0x01 Gonna assume it had something to do with wanting to… https://t.co/TaMKRHGxDg",
-   "retweet_count": 0,
-   "favorite_count": 6,
-   "place": null,
-   "in_reply_to_status_id": 966358768110813200,
-   "in_reply_to_status_id_str": "966358768110813185",
-   "in_reply_to_screen_name": "HivarekarPranav",
-   "urls": [
-    {
-     "url": "https://t.co/TaMKRHGxDg",
-     "expand": "https://twitter.com/i/web/status/966368388758032384"
-    }
-   ]
-  },
-  {
-   "id": 966355564350574600,
-   "id_str": "966355564350574592",
-   "created_at": "Wed Feb 21 16:54:55 +0000 2018",
-   "text": "@HivarekarPranav @caseyjohnellis @Square @Bugcrowd @Hacker0x01  https://t.co/A0HGkaJoWQ",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966355146505465900,
-   "in_reply_to_status_id_str": "966355146505465856",
-   "in_reply_to_screen_name": "HivarekarPranav",
-   "urls": []
-  },
-  {
-   "id": 966050707324457000,
-   "id_str": "966050707324456960",
-   "created_at": "Tue Feb 20 20:43:31 +0000 2018",
-   "text": "RT @disclosedh1: Nimiq started using @Hacker0x01 today: https://t.co/JSo6TLYsTs , pays: 500$ min. #hackerone #bugbounty",
-   "retweet_count": 17,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/JSo6TLYsTs",
-     "expand": "https://hackerone.com/nimiq"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966047355501011000,
-    "id_str": "966047355501010944",
-    "created_at": "Tue Feb 20 20:30:12 +0000 2018",
-    "text": "Nimiq started using @Hacker0x01 today: https://t.co/JSo6TLYsTs , pays: 500$ min. #hackerone #bugbounty",
-    "retweet_count": 17,
-    "favorite_count": 35,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/JSo6TLYsTs",
-      "expand": "https://hackerone.com/nimiq"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966029795099332600,
-   "id_str": "966029795099332608",
-   "created_at": "Tue Feb 20 19:20:25 +0000 2018",
-   "text": "RT @missoum1307: here is the tales of some google bugs from last years @donrookie @yappare @sirdarckcat  @cure53berlin https://t.co/Dp62x05…",
-   "retweet_count": 70,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966014638314881000,
-    "id_str": "966014638314881024",
-    "created_at": "Tue Feb 20 18:20:12 +0000 2018",
-    "text": "here is the tales of some google bugs from last years @donrookie @yappare @sirdarckcat  @cure53berlin https://t.co/Dp62x05tIL",
-    "retweet_count": 70,
-    "favorite_count": 128,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/Dp62x05tIL",
-      "expand": "https://bughunt1307.herokuapp.com/googlebugs.html"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966029782713622500,
-   "id_str": "966029782713622528",
-   "created_at": "Tue Feb 20 19:20:22 +0000 2018",
-   "text": "@missoum1307 @donrookie @yappare @sirdarckcat @cure53berlin Thanks for sharing these! Congrats on the bugs",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966014638314881000,
-   "in_reply_to_status_id_str": "966014638314881024",
-   "in_reply_to_screen_name": "missoum1307",
-   "urls": []
-  },
-  {
-   "id": 966027326805954600,
-   "id_str": "966027326805954565",
-   "created_at": "Tue Feb 20 19:10:37 +0000 2018",
-   "text": "RT @sehacure: Hacking Tinder Accounts using Facebook Accountkit (fixed)\n\nhttps://t.co/ekOKxItDii",
-   "retweet_count": 108,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/ekOKxItDii",
-     "expand": "https://medium.com/@appsecure/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965982211009691600,
-    "id_str": "965982211009691649",
-    "created_at": "Tue Feb 20 16:11:20 +0000 2018",
-    "text": "Hacking Tinder Accounts using Facebook Accountkit (fixed)\n\nhttps://t.co/ekOKxItDii",
-    "retweet_count": 108,
-    "favorite_count": 231,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ekOKxItDii",
-      "expand": "https://medium.com/@appsecure/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965925331914887200,
-   "id_str": "965925331914887169",
-   "created_at": "Tue Feb 20 12:25:19 +0000 2018",
-   "text": "@MrHasanabas hmm, good question. I never really thought about / considered it. You really don't need anything speci… https://t.co/KCFruxyHIi",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965718605315833900,
-   "in_reply_to_status_id_str": "965718605315833858",
-   "in_reply_to_screen_name": "MrHasanabas",
-   "urls": [
-    {
-     "url": "https://t.co/KCFruxyHIi",
-     "expand": "https://twitter.com/i/web/status/965925331914887169"
-    }
-   ]
-  },
-  {
-   "id": 965923070945972200,
-   "id_str": "965923070945972224",
-   "created_at": "Tue Feb 20 12:16:20 +0000 2018",
-   "text": "RT @detectify: Meet @gerben_javado, a Detectify Crowdsource hacker from the Netherlands! He shares his favourite security resources and tip…",
-   "retweet_count": 21,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965918488345940000,
-    "id_str": "965918488345939973",
-    "created_at": "Tue Feb 20 11:58:08 +0000 2018",
-    "text": "Meet @gerben_javado, a Detectify Crowdsource hacker from the Netherlands! He shares his favourite security resource… https://t.co/WkXVqqn5Up",
-    "retweet_count": 21,
-    "favorite_count": 48,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/WkXVqqn5Up",
-      "expand": "https://twitter.com/i/web/status/965918488345939973"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965891510465114100,
-   "id_str": "965891510465114113",
-   "created_at": "Tue Feb 20 10:10:56 +0000 2018",
-   "text": "RT @hexwaxwing: The @HackerTalkyTalk preliminary list now features...\n\n• 87+ recordings of hacker conferences\n• 37 YouTube channels/livestr…",
-   "retweet_count": 184,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965618308002320400,
-    "id_str": "965618308002320384",
-    "created_at": "Mon Feb 19 16:05:19 +0000 2018",
-    "text": "The @HackerTalkyTalk preliminary list now features...\n\n• 87+ recordings of hacker conferences\n• 37 YouTube channels… https://t.co/UjEXeoy5t3",
-    "retweet_count": 184,
-    "favorite_count": 358,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/UjEXeoy5t3",
-      "expand": "https://twitter.com/i/web/status/965618308002320384"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965576053577039900,
-   "id_str": "965576053577039873",
-   "created_at": "Mon Feb 19 13:17:25 +0000 2018",
-   "text": "RT @BugBountyHQ: Need to get to 100,000 ASAP pls retweet (I have tried several times but keep getting an error saying try again later) http…",
-   "retweet_count": 23,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965436610836807700,
-    "id_str": "965436610836807680",
-    "created_at": "Mon Feb 19 04:03:19 +0000 2018",
-    "text": "Need to get to 100,000 ASAP pls retweet (I have tried several times but keep getting an error saying try again late… https://t.co/oobxwaSsTG",
-    "retweet_count": 23,
-    "favorite_count": 26,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/oobxwaSsTG",
-      "expand": "https://twitter.com/i/web/status/965436610836807680"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965576023466102800,
-   "id_str": "965576023466102785",
-   "created_at": "Mon Feb 19 13:17:18 +0000 2018",
-   "text": "@BugBountyHQ Fwiw, it was posted 9 hrs ago when some of us were sleeping :)",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965480804729024500,
-   "in_reply_to_status_id_str": "965480804729024514",
-   "in_reply_to_screen_name": "BugBountyHQ",
-   "urls": []
-  },
-  {
-   "id": 965448075178324000,
-   "id_str": "965448075178323969",
-   "created_at": "Mon Feb 19 04:48:52 +0000 2018",
-   "text": "@drchrono are you all ever coming back to your @Hacker0x01 bug bounty program https://t.co/mjkoA6kvEM? I have some… https://t.co/F7jNqZ4Lsd",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": "drchrono",
-   "urls": [
-    {
-     "url": "https://t.co/mjkoA6kvEM",
-     "expand": "https://hackerone.com/drchrono"
-    },
-    {
-     "url": "https://t.co/F7jNqZ4Lsd",
-     "expand": "https://twitter.com/i/web/status/965448075178323969"
-    }
-   ]
-  },
-  {
-   "id": 965357299471495200,
-   "id_str": "965357299471495170",
-   "created_at": "Sun Feb 18 22:48:10 +0000 2018",
-   "text": "@IboShox Thanks! I appreciate the kind words. Hopefully I'm helping someone out there :) happy hacking",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965322799710658600,
-   "in_reply_to_status_id_str": "965322799710658560",
-   "in_reply_to_screen_name": "IboShox",
-   "urls": []
-  },
-  {
-   "id": 965217406862884900,
-   "id_str": "965217406862884864",
-   "created_at": "Sun Feb 18 13:32:17 +0000 2018",
-   "text": "RT @DRX_Sicher: A fucking huge mine for pentesters. It also will help you for the OSCP and OSCE ! Thanks for the owner of this 🙏🙏🙏\n#OSCP #O…",
-   "retweet_count": 543,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964574624020385800,
-    "id_str": "964574624020385798",
-    "created_at": "Fri Feb 16 18:58:05 +0000 2018",
-    "text": "A fucking huge mine for pentesters. It also will help you for the OSCP and OSCE ! Thanks for the owner of this 🙏🙏🙏… https://t.co/s1uvlNkf8g",
-    "retweet_count": 543,
-    "favorite_count": 1128,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/s1uvlNkf8g",
-      "expand": "https://twitter.com/i/web/status/964574624020385798"
-     }
-    ]
-   }
   }
  ]
 }

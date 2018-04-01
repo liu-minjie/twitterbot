@@ -1,12 +1,384 @@
 {
- "time": 1519367432434,
+ "time": 1522595204299,
  "lists": [
+  {
+   "id": 977040484127400000,
+   "id_str": "977040484127399938",
+   "created_at": "Fri Mar 23 04:32:58 +0000 2018",
+   "text": "@AAparichita @iamsrk 🙏",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976791243819831300,
+   "in_reply_to_status_id_str": "976791243819831297",
+   "in_reply_to_screen_name": "AAparichita",
+   "urls": []
+  },
+  {
+   "id": 976412787244261400,
+   "id_str": "976412787244261376",
+   "created_at": "Wed Mar 21 10:58:44 +0000 2018",
+   "text": "RT @r0otki7: Part 7 for Kernel Exploitation is up on my blog: Uninitialized Heap Variable: https://t.co/D57bFtYXXK\n\nThis one took a long ti…",
+   "retweet_count": 55,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/D57bFtYXXK",
+     "expand": "https://rootkits.xyz/blog/2018/03/kernel-uninitialized-heap-variable/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976407875743617000,
+    "id_str": "976407875743617025",
+    "created_at": "Wed Mar 21 10:39:13 +0000 2018",
+    "text": "Part 7 for Kernel Exploitation is up on my blog: Uninitialized Heap Variable: https://t.co/D57bFtYXXK\n\nThis one too… https://t.co/WDnJfPG7yb",
+    "retweet_count": 55,
+    "favorite_count": 71,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/D57bFtYXXK",
+      "expand": "https://rootkits.xyz/blog/2018/03/kernel-uninitialized-heap-variable/"
+     },
+     {
+      "url": "https://t.co/WDnJfPG7yb",
+      "expand": "https://twitter.com/i/web/status/976407875743617025"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975683793129558000,
+   "id_str": "975683793129558016",
+   "created_at": "Mon Mar 19 10:41:58 +0000 2018",
+   "text": "RT @netbiosX: Top Five Ways I gained access to Your Corporate Wireless Network https://t.co/ayVBuT8MjE",
+   "retweet_count": 155,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ayVBuT8MjE",
+     "expand": "https://medium.com/@adam.toscher/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974734089868759000,
+    "id_str": "974734089868759040",
+    "created_at": "Fri Mar 16 19:48:11 +0000 2018",
+    "text": "Top Five Ways I gained access to Your Corporate Wireless Network https://t.co/ayVBuT8MjE",
+    "retweet_count": 155,
+    "favorite_count": 239,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ayVBuT8MjE",
+      "expand": "https://medium.com/@adam.toscher/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975683188675764200,
+   "id_str": "975683188675764224",
+   "created_at": "Mon Mar 19 10:39:34 +0000 2018",
+   "text": "RT @Dinosn: RDP hijacking — how to hijack RDS and RemoteApp sessions transparently to move through an organisation https://t.co/arSkYBO2wk",
+   "retweet_count": 289,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/arSkYBO2wk",
+     "expand": "https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975279566469128200,
+    "id_str": "975279566469128192",
+    "created_at": "Sun Mar 18 07:55:43 +0000 2018",
+    "text": "RDP hijacking — how to hijack RDS and RemoteApp sessions transparently to move through an organisation https://t.co/arSkYBO2wk",
+    "retweet_count": 289,
+    "favorite_count": 472,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/arSkYBO2wk",
+      "expand": "https://medium.com/@networksecurity/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974580088292462600,
+   "id_str": "974580088292462592",
+   "created_at": "Fri Mar 16 09:36:14 +0000 2018",
+   "text": "RT @Alra3ees: OSCP-cheat-sheet list of useful commands, shells and notes related to OSCP      \nhttps://t.co/mKMYa5YMAD",
+   "retweet_count": 210,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mKMYa5YMAD",
+     "expand": "https://github.com/crsftw/OSCP-cheat-sheet"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974549345465876500,
+    "id_str": "974549345465876481",
+    "created_at": "Fri Mar 16 07:34:04 +0000 2018",
+    "text": "OSCP-cheat-sheet list of useful commands, shells and notes related to OSCP      \nhttps://t.co/mKMYa5YMAD",
+    "retweet_count": 210,
+    "favorite_count": 364,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mKMYa5YMAD",
+      "expand": "https://github.com/crsftw/OSCP-cheat-sheet"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973642257323585500,
+   "id_str": "973642257323585537",
+   "created_at": "Tue Mar 13 19:29:38 +0000 2018",
+   "text": "RT @prakharprasad: Hi @offsectraining: https://t.co/I7vocdVKyc",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/I7vocdVKyc",
+     "expand": "https://www.reddit.com/r/oscp/comments/824v7z/oscp_exam_taking_fraud/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973596630103441400,
+    "id_str": "973596630103441408",
+    "created_at": "Tue Mar 13 16:28:19 +0000 2018",
+    "text": "Hi @offsectraining: https://t.co/I7vocdVKyc",
+    "retweet_count": 13,
+    "favorite_count": 37,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/I7vocdVKyc",
+      "expand": "https://www.reddit.com/r/oscp/comments/824v7z/oscp_exam_taking_fraud/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973081560688873500,
+   "id_str": "973081560688873472",
+   "created_at": "Mon Mar 12 06:21:37 +0000 2018",
+   "text": "RT @HanseSecure: Pentesting Cheat Sheet\n\n- the biggest you have ever seen 🤣\n\n#infosec #pentest \nhttps://t.co/dpcsFeWKwA https://t.co/dggJ2t…",
+   "retweet_count": 133,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dpcsFeWKwA",
+     "expand": "http://www.0daysecurity.com/penetration-testing/enumeration.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972902569856159700,
+    "id_str": "972902569856159744",
+    "created_at": "Sun Mar 11 18:30:22 +0000 2018",
+    "text": "Pentesting Cheat Sheet\n\n- the biggest you have ever seen 🤣\n\n#infosec #pentest \nhttps://t.co/dpcsFeWKwA https://t.co/dggJ2tmbhi",
+    "retweet_count": 133,
+    "favorite_count": 270,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dpcsFeWKwA",
+      "expand": "http://www.0daysecurity.com/penetration-testing/enumeration.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973080670095454200,
+   "id_str": "973080670095454209",
+   "created_at": "Mon Mar 12 06:18:05 +0000 2018",
+   "text": "RT @Jhaddix: \"Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)\" - https://t.co/YZqakCkcub (Good Read)",
+   "retweet_count": 222,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YZqakCkcub",
+     "expand": "https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972625718579363800,
+    "id_str": "972625718579363840",
+    "created_at": "Sun Mar 11 00:10:16 +0000 2018",
+    "text": "\"Top Five Ways I Got Domain Admin on Your Internal Network before Lunch (2018 Edition)\" - https://t.co/YZqakCkcub (Good Read)",
+    "retweet_count": 222,
+    "favorite_count": 418,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YZqakCkcub",
+      "expand": "https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972005236616253400,
+   "id_str": "972005236616253441",
+   "created_at": "Fri Mar 09 07:04:42 +0000 2018",
+   "text": "RT @Anakondantti: I published some thoughts and ideas about hacking the stuff at @hackthebox_eu. Doesn't contain spoilers. https://t.co/KKW…",
+   "retweet_count": 52,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971753916462456800,
+    "id_str": "971753916462456837",
+    "created_at": "Thu Mar 08 14:26:02 +0000 2018",
+    "text": "I published some thoughts and ideas about hacking the stuff at @hackthebox_eu. Doesn't contain spoilers.… https://t.co/TPtgU43UrR",
+    "retweet_count": 52,
+    "favorite_count": 118,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TPtgU43UrR",
+      "expand": "https://twitter.com/i/web/status/971753916462456837"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971627565558452200,
+   "id_str": "971627565558452226",
+   "created_at": "Thu Mar 08 06:03:58 +0000 2018",
+   "text": "RT @Alra3ees: “Bug Bounty Hunting Tips #3 — Kicking S3 Buckets” by Craig Hays https://t.co/c5VfW1sXAQ",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/c5VfW1sXAQ",
+     "expand": "https://medium.com/bugbountyhunting/bug-bounty-hunting-tips-3-kicking-s3-buckets-84c231939066?source=twitterShare-1764222123d3-1520380793"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971173565553872900,
+    "id_str": "971173565553872896",
+    "created_at": "Tue Mar 06 23:59:56 +0000 2018",
+    "text": "“Bug Bounty Hunting Tips #3 — Kicking S3 Buckets” by Craig Hays https://t.co/c5VfW1sXAQ",
+    "retweet_count": 33,
+    "favorite_count": 72,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/c5VfW1sXAQ",
+      "expand": "https://medium.com/bugbountyhunting/bug-bounty-hunting-tips-3-kicking-s3-buckets-84c231939066?source=twitterShare-1764222123d3-1520380793"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971616711307923500,
+   "id_str": "971616711307923456",
+   "created_at": "Thu Mar 08 05:20:50 +0000 2018",
+   "text": "RT @NahamSec: $18,337 Google bounty: Stored XSS and SSRF in Google's Dataset Publishing tools https://t.co/0Ch6V06Q0k by @signalchaos",
+   "retweet_count": 135,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0Ch6V06Q0k",
+     "expand": "https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971499140461969400,
+    "id_str": "971499140461969408",
+    "created_at": "Wed Mar 07 21:33:39 +0000 2018",
+    "text": "$18,337 Google bounty: Stored XSS and SSRF in Google's Dataset Publishing tools https://t.co/0Ch6V06Q0k by @signalchaos",
+    "retweet_count": 135,
+    "favorite_count": 261,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0Ch6V06Q0k",
+      "expand": "https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html"
+     }
+    ]
+   }
+  },
   {
    "id": 966549770176286700,
    "id_str": "966549770176286720",
    "created_at": "Thu Feb 22 05:46:37 +0000 2018",
    "text": "RT @Alra3ees: Recon Scripts Part 2\nbrutesubs\nhttps://t.co/0LyPBiqwRr\ndns-parallel-prober\nhttps://t.co/MwzMLp4eUD\ndnscan\nhttps://t.co/k9FUio…",
-   "retweet_count": 70,
+   "retweet_count": 75,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -27,8 +399,8 @@
     "id_str": "965772104342876160",
     "created_at": "Tue Feb 20 02:16:27 +0000 2018",
     "text": "Recon Scripts Part 2\nbrutesubs\nhttps://t.co/0LyPBiqwRr\ndns-parallel-prober\nhttps://t.co/MwzMLp4eUD\ndnscan… https://t.co/fWEkyfrxT7",
-    "retweet_count": 70,
-    "favorite_count": 109,
+    "retweet_count": 75,
+    "favorite_count": 118,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -45,78 +417,6 @@
      {
       "url": "https://t.co/fWEkyfrxT7",
       "expand": "https://twitter.com/i/web/status/965772104342876160"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966182116022276100,
-   "id_str": "966182116022276096",
-   "created_at": "Wed Feb 21 05:25:41 +0000 2018",
-   "text": "RT @sehacure: Hacking Tinder Accounts using Facebook Accountkit (fixed)\n\nhttps://t.co/ekOKxItDii",
-   "retweet_count": 108,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/ekOKxItDii",
-     "expand": "https://medium.com/@appsecure/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965982211009691600,
-    "id_str": "965982211009691649",
-    "created_at": "Tue Feb 20 16:11:20 +0000 2018",
-    "text": "Hacking Tinder Accounts using Facebook Accountkit (fixed)\n\nhttps://t.co/ekOKxItDii",
-    "retweet_count": 108,
-    "favorite_count": 231,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ekOKxItDii",
-      "expand": "https://medium.com/@appsecure/hacking-tinder-accounts-using-facebook-accountkit-d5cc813340d1"
-     }
-    ]
-   }
-  },
-  {
-   "id": 954225723505553400,
-   "id_str": "954225723505553408",
-   "created_at": "Fri Jan 19 05:35:15 +0000 2018",
-   "text": "RT @yappare: $1800 in less than an hour. https://t.co/dqGIsmVfF8 #bugbounty :D",
-   "retweet_count": 67,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/dqGIsmVfF8",
-     "expand": "http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html"
-    }
-   ],
-   "retweeted_status": {
-    "id": 953761841657729000,
-    "id_str": "953761841657729025",
-    "created_at": "Wed Jan 17 22:51:57 +0000 2018",
-    "text": "$1800 in less than an hour. https://t.co/dqGIsmVfF8 #bugbounty :D",
-    "retweet_count": 67,
-    "favorite_count": 184,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/dqGIsmVfF8",
-      "expand": "http://c0rni3sm.blogspot.com/2018/01/1800-in-less-than-hour.html"
      }
     ]
    }

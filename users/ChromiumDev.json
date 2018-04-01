@@ -1,133 +1,52 @@
 {
- "time": 1519367406825,
+ "time": 1522595154166,
  "lists": [
   {
-   "id": 966800777338671100,
-   "id_str": "966800777338671105",
-   "created_at": "Thu Feb 22 22:24:02 +0000 2018",
-   "text": "Progressive Web Apps need to load instantly and reliably, hopefully never showing the downasaur 🦖 Learn how you can… https://t.co/6LuPhcUZDJ",
-   "retweet_count": 17,
-   "favorite_count": 64,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/6LuPhcUZDJ",
-     "expand": "https://twitter.com/i/web/status/966800777338671105"
-    }
-   ]
-  },
-  {
-   "id": 966682746037862400,
-   "id_str": "966682746037862400",
-   "created_at": "Thu Feb 22 14:35:01 +0000 2018",
-   "text": "⚡Supercharged is live! Head over to Chrome Developers Youtube channel to join in with your comments &amp; questions for… https://t.co/A6kfeX2Dlm",
-   "retweet_count": 3,
-   "favorite_count": 26,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/A6kfeX2Dlm",
-     "expand": "https://twitter.com/i/web/status/966682746037862400"
-    }
-   ]
-  },
-  {
-   "id": 966675195871289300,
-   "id_str": "966675195871289344",
-   "created_at": "Thu Feb 22 14:05:01 +0000 2018",
-   "text": "@_davideast explaining to @DasSurma exactly how he plans to build a real time comments section with Firebase at 2:3… https://t.co/0TG4Puptqv",
-   "retweet_count": 1,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": "_davideast",
-   "urls": [
-    {
-     "url": "https://t.co/0TG4Puptqv",
-     "expand": "https://twitter.com/i/web/status/966675195871289344"
-    }
-   ]
-  },
-  {
-   "id": 966643725148581900,
-   "id_str": "966643725148581888",
-   "created_at": "Thu Feb 22 11:59:58 +0000 2018",
-   "text": "@domi_deimel @DasSurma @_davideast @aerotwist 😢 ^@DasSurma",
+   "id": 980144215408693200,
+   "id_str": "980144215408693250",
+   "created_at": "Sat Mar 31 18:06:05 +0000 2018",
+   "text": "@ScottHope3 That sounds like reasonable feedback! Would you mind opening a bug on https://t.co/4V252loiQG?\n\n cc… https://t.co/6MgMFluDhJ",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 966642548017123300,
-   "in_reply_to_status_id_str": "966642548017123329",
-   "in_reply_to_screen_name": "domi_deimel",
-   "urls": []
-  },
-  {
-   "id": 966641455946260500,
-   "id_str": "966641455946260480",
-   "created_at": "Thu Feb 22 11:50:57 +0000 2018",
-   "text": "RT @kennethrohde: I just published “Progressive Web Apps coming to all Chrome platforms” https://t.co/mIKP8iyipB",
-   "retweet_count": 101,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
+   "in_reply_to_status_id": 980130691227836400,
+   "in_reply_to_status_id_str": "980130691227836421",
+   "in_reply_to_screen_name": "ScottHope3",
    "urls": [
     {
-     "url": "https://t.co/mIKP8iyipB",
-     "expand": "https://medium.com/p/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965178590705995800,
-    "id_str": "965178590705995777",
-    "created_at": "Sun Feb 18 10:58:02 +0000 2018",
-    "text": "I just published “Progressive Web Apps coming to all Chrome platforms” https://t.co/mIKP8iyipB",
-    "retweet_count": 101,
-    "favorite_count": 238,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/mIKP8iyipB",
-      "expand": "https://medium.com/p/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966639964623724500,
-   "id_str": "966639964623724544",
-   "created_at": "Thu Feb 22 11:45:01 +0000 2018",
-   "text": "2:30pm UTC today ⚡Supercharged live is back! @DasSurma and @_davideast will build, get bugs, fix bugs &amp; celebrate s… https://t.co/ClJG3vmsie",
-   "retweet_count": 8,
-   "favorite_count": 34,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
+     "url": "https://t.co/4V252loiQG",
+     "expand": "http://crbug.com/new"
+    },
     {
-     "url": "https://t.co/ClJG3vmsie",
-     "expand": "https://twitter.com/i/web/status/966639964623724544"
+     "url": "https://t.co/6MgMFluDhJ",
+     "expand": "https://twitter.com/i/web/status/980144215408693250"
     }
    ]
   },
   {
-   "id": 966622945996083200,
-   "id_str": "966622945996083200",
-   "created_at": "Thu Feb 22 10:37:23 +0000 2018",
-   "text": "RT @kennethrohde: Progressive Web Apps looks nice on Chrome OS! https://t.co/bE3Yte0ogV",
-   "retweet_count": 31,
+   "id": 980144035288506400,
+   "id_str": "980144035288506370",
+   "created_at": "Sat Mar 31 18:05:22 +0000 2018",
+   "text": "@raymondcamden @srescio @ChromeDevTools No, the original HTML markup probably won’t be in RAM (simplified: it will… https://t.co/p9TnA8nfhT",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 980118662190420000,
+   "in_reply_to_status_id_str": "980118662190419970",
+   "in_reply_to_screen_name": "raymondcamden",
+   "urls": [
+    {
+     "url": "https://t.co/p9TnA8nfhT",
+     "expand": "https://twitter.com/i/web/status/980144035288506370"
+    }
+   ]
+  },
+  {
+   "id": 979806206494691300,
+   "id_str": "979806206494691328",
+   "created_at": "Fri Mar 30 19:42:58 +0000 2018",
+   "text": "RT @deeplearnjs: We are so excited to be joining Tensorflow as TensorFlow.js, an ecosystem of tools and libraries for machine learning in J…",
+   "retweet_count": 343,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -135,12 +54,360 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964947490570154000,
-    "id_str": "964947490570153991",
-    "created_at": "Sat Feb 17 19:39:44 +0000 2018",
-    "text": "Progressive Web Apps looks nice on Chrome OS! https://t.co/bE3Yte0ogV",
-    "retweet_count": 31,
-    "favorite_count": 146,
+    "id": 979800079056830500,
+    "id_str": "979800079056830464",
+    "created_at": "Fri Mar 30 19:18:37 +0000 2018",
+    "text": "We are so excited to be joining Tensorflow as TensorFlow.js, an ecosystem of tools and libraries for machine learni… https://t.co/Hx9elHhFE7",
+    "retweet_count": 343,
+    "favorite_count": 872,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Hx9elHhFE7",
+      "expand": "https://twitter.com/i/web/status/979800079056830464"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979805620688875500,
+   "id_str": "979805620688875522",
+   "created_at": "Fri Mar 30 19:40:38 +0000 2018",
+   "text": "RT @nasko: We have enabled Site Isolation on Chrome Beta to ensure we get as much coverage as possible before making it the default. If you…",
+   "retweet_count": 66,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979467478832111600,
+    "id_str": "979467478832111616",
+    "created_at": "Thu Mar 29 21:16:59 +0000 2018",
+    "text": "We have enabled Site Isolation on Chrome Beta to ensure we get as much coverage as possible before making it the de… https://t.co/07PybQNYBL",
+    "retweet_count": 66,
+    "favorite_count": 109,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/07PybQNYBL",
+      "expand": "https://twitter.com/i/web/status/979467478832111616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979710539923300400,
+   "id_str": "979710539923300352",
+   "created_at": "Fri Mar 30 13:22:49 +0000 2018",
+   "text": "This week's tweets were brought to you from 31000 ft on the air✈️\n\nHad productive week in London with @jaffathecake… https://t.co/hOuIZhJPWp",
+   "retweet_count": 1,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": 979708749702033400,
+   "in_reply_to_status_id_str": "979708749702033408",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/hOuIZhJPWp",
+     "expand": "https://twitter.com/i/web/status/979710539923300352"
+    }
+   ]
+  },
+  {
+   "id": 979708749702033400,
+   "id_str": "979708749702033408",
+   "created_at": "Fri Mar 30 13:15:42 +0000 2018",
+   "text": "We are still looking for feedback on what we should share🌈\nSo far we've got \"perf quick wins\", \"dev tools tips\", \"n… https://t.co/66zSXIoLgq",
+   "retweet_count": 5,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": 979706792153247700,
+   "in_reply_to_status_id_str": "979706792153247745",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/66zSXIoLgq",
+     "expand": "https://twitter.com/i/web/status/979708749702033408"
+    }
+   ]
+  },
+  {
+   "id": 979706792153247700,
+   "id_str": "979706792153247745",
+   "created_at": "Fri Mar 30 13:07:55 +0000 2018",
+   "text": "CSS Typed Object Model is here🈁\nWhich means CSS gets object-based API to work with values in JavaScript.\n\nRead on a… https://t.co/OEPeoYN6tf",
+   "retweet_count": 14,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": 979705940671832000,
+   "in_reply_to_status_id_str": "979705940671832064",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/OEPeoYN6tf",
+     "expand": "https://twitter.com/i/web/status/979706792153247745"
+    }
+   ]
+  },
+  {
+   "id": 979705940671832000,
+   "id_str": "979705940671832064",
+   "created_at": "Fri Mar 30 13:04:32 +0000 2018",
+   "text": "In Chrome 66 @v8js will start to compile JavaScript source code on a background thread🙌 \n\nRead more about details o… https://t.co/F7Y8xNmfNP",
+   "retweet_count": 17,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": 979705733494161400,
+   "in_reply_to_status_id_str": "979705733494161408",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/F7Y8xNmfNP",
+     "expand": "https://twitter.com/i/web/status/979705940671832064"
+    }
+   ]
+  },
+  {
+   "id": 979705733494161400,
+   "id_str": "979705733494161408",
+   "created_at": "Fri Mar 30 13:03:43 +0000 2018",
+   "text": "This week, our team was busy preparing for Chrome 66 stable release!\n\nAs we welcome new features, we say good bye t… https://t.co/9KQV6Mg4V7",
+   "retweet_count": 6,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": 979705098778505200,
+   "in_reply_to_status_id_str": "979705098778505216",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/9KQV6Mg4V7",
+     "expand": "https://twitter.com/i/web/status/979705733494161408"
+    }
+   ]
+  },
+  {
+   "id": 979705098778505200,
+   "id_str": "979705098778505216",
+   "created_at": "Fri Mar 30 13:01:12 +0000 2018",
+   "text": "Ah it's Friday already🐰\n\nThis week we are excited about 🆕Safari for iOS 11.3🎉 It has  Service Worker support &amp; Appl… https://t.co/O5TrMyzM2s",
+   "retweet_count": 69,
+   "favorite_count": 171,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/O5TrMyzM2s",
+     "expand": "https://twitter.com/i/web/status/979705098778505216"
+    }
+   ]
+  },
+  {
+   "id": 979651498706718700,
+   "id_str": "979651498706718720",
+   "created_at": "Fri Mar 30 09:28:12 +0000 2018",
+   "text": "RT @ChromiumDev: ⚡️Supercharged CommitLog: Visual transitions guide the user. Let’s add some to our blog! \n\nWatch the video here → https://…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979392563374379000,
+    "id_str": "979392563374379008",
+    "created_at": "Thu Mar 29 16:19:17 +0000 2018",
+    "text": "⚡️Supercharged CommitLog: Visual transitions guide the user. Let’s add some to our blog! \n\nWatch the video here →… https://t.co/oYccWGkEld",
+    "retweet_count": 4,
+    "favorite_count": 24,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oYccWGkEld",
+      "expand": "https://twitter.com/i/web/status/979392563374379008"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979612719069372400,
+   "id_str": "979612719069372416",
+   "created_at": "Fri Mar 30 06:54:07 +0000 2018",
+   "text": "RT @addyosmani: Service Workers shipped in Safari for iOS 11.3!! Modern support for offline-caching &amp; network resilience coming to millions…",
+   "retweet_count": 1382,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979606651429822500,
+    "id_str": "979606651429822464",
+    "created_at": "Fri Mar 30 06:30:00 +0000 2018",
+    "text": "Service Workers shipped in Safari for iOS 11.3!! Modern support for offline-caching &amp; network resilience coming to… https://t.co/6WLEezlIsv",
+    "retweet_count": 1382,
+    "favorite_count": 2797,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6WLEezlIsv",
+      "expand": "https://twitter.com/i/web/status/979606651429822464"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979489083998326800,
+   "id_str": "979489083998326784",
+   "created_at": "Thu Mar 29 22:42:50 +0000 2018",
+   "text": "@johnkreitlow @googlechrome @WHATWG @DasSurma Can you show me the full markup? It _might_ be a bug, it might be correct. ^@DasSumra",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979488525862260700,
+   "in_reply_to_status_id_str": "979488525862260736",
+   "in_reply_to_screen_name": "johnkreitlow",
+   "urls": []
+  },
+  {
+   "id": 979488814237470700,
+   "id_str": "979488814237470720",
+   "created_at": "Thu Mar 29 22:41:45 +0000 2018",
+   "text": "@darkcton @googlechrome Were you logged in with an account on your Chrome? Your history should be sync’d across browsers. ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978910800910921700,
+   "in_reply_to_status_id_str": "978910800910921728",
+   "in_reply_to_screen_name": "darkcton",
+   "urls": []
+  },
+  {
+   "id": 979488348531318800,
+   "id_str": "979488348531318784",
+   "created_at": "Thu Mar 29 22:39:54 +0000 2018",
+   "text": "@johnkreitlow @googlechrome @WHATWG This has little to do with marketing and more with us trying to help users on m… https://t.co/T5xnrGU4PD",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979450862077661200,
+   "in_reply_to_status_id_str": "979450862077661184",
+   "in_reply_to_screen_name": "johnkreitlow",
+   "urls": [
+    {
+     "url": "https://t.co/T5xnrGU4PD",
+     "expand": "https://twitter.com/i/web/status/979488348531318784"
+    }
+   ]
+  },
+  {
+   "id": 979392563374379000,
+   "id_str": "979392563374379008",
+   "created_at": "Thu Mar 29 16:19:17 +0000 2018",
+   "text": "⚡️Supercharged CommitLog: Visual transitions guide the user. Let’s add some to our blog! \n\nWatch the video here →… https://t.co/oYccWGkEld",
+   "retweet_count": 4,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oYccWGkEld",
+     "expand": "https://twitter.com/i/web/status/979392563374379008"
+    }
+   ]
+  },
+  {
+   "id": 979357425013846000,
+   "id_str": "979357425013846016",
+   "created_at": "Thu Mar 29 13:59:40 +0000 2018",
+   "text": "RT @supersole: My experience on yesterday's #DesvDev https://t.co/kBhnSdynDI",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kBhnSdynDI",
+     "expand": "https://soledadpenades.com/posts/2018/designer-vs-developer-making-of/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979327990705291300,
+    "id_str": "979327990705291264",
+    "created_at": "Thu Mar 29 12:02:42 +0000 2018",
+    "text": "My experience on yesterday's #DesvDev https://t.co/kBhnSdynDI",
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/kBhnSdynDI",
+      "expand": "https://soledadpenades.com/posts/2018/designer-vs-developer-making-of/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979328688650178600,
+   "id_str": "979328688650178560",
+   "created_at": "Thu Mar 29 12:05:29 +0000 2018",
+   "text": "Checkout @supersole's blogpost on the Making of Designer Vs Developer https://t.co/x9kqBkTJgH \n\n#DesVDev",
+   "retweet_count": 4,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/x9kqBkTJgH",
+     "expand": "https://soledadpenades.com/posts/2018/designer-vs-developer-making-of/"
+    }
+   ]
+  },
+  {
+   "id": 979306762405892100,
+   "id_str": "979306762405892096",
+   "created_at": "Thu Mar 29 10:38:21 +0000 2018",
+   "text": "RT @brucel: Filming with @Mustafa_x and because I behaved myself, they let me do the clapper and say \"action!\". https://t.co/y9rbjmfLL3",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979021205733888000,
+    "id_str": "979021205733888001",
+    "created_at": "Wed Mar 28 15:43:39 +0000 2018",
+    "text": "Filming with @Mustafa_x and because I behaved myself, they let me do the clapper and say \"action!\". https://t.co/y9rbjmfLL3",
+    "retweet_count": 3,
+    "favorite_count": 16,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -149,64 +416,11 @@
    }
   },
   {
-   "id": 966436159206379500,
-   "id_str": "966436159206379527",
-   "created_at": "Wed Feb 21 22:15:10 +0000 2018",
-   "text": "Learn how to get your app onto a user’s home screen by using the Web App Manifest and how you can use the new Payme… https://t.co/kmwSUOkrPB",
-   "retweet_count": 17,
-   "favorite_count": 42,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/kmwSUOkrPB",
-     "expand": "https://twitter.com/i/web/status/966436159206379527"
-    }
-   ]
-  },
-  {
-   "id": 966102729201455100,
-   "id_str": "966102729201455104",
-   "created_at": "Wed Feb 21 00:10:14 +0000 2018",
-   "text": "@Curiosity63 https://t.co/jKSL1dIojE is our issue tracker and https://t.co/ikZOvAjvje is our mailing list :) ^@kosamari",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966098328349020200,
-   "in_reply_to_status_id_str": "966098328349020161",
-   "in_reply_to_screen_name": "Curiosity63",
-   "urls": [
-    {
-     "url": "https://t.co/jKSL1dIojE",
-     "expand": "http://crbug.com"
-    },
-    {
-     "url": "https://t.co/ikZOvAjvje",
-     "expand": "https://groups.google.com/a/chromium.org/forum/#!forum/chromium-dev"
-    }
-   ]
-  },
-  {
-   "id": 966100242574856200,
-   "id_str": "966100242574856192",
-   "created_at": "Wed Feb 21 00:00:21 +0000 2018",
-   "text": "@polymer Object.observe 😢",
-   "retweet_count": 5,
-   "favorite_count": 27,
-   "place": null,
-   "in_reply_to_status_id": 966093875466010600,
-   "in_reply_to_status_id_str": "966093875466010624",
-   "in_reply_to_screen_name": "polymer",
-   "urls": []
-  },
-  {
-   "id": 966099551282257900,
-   "id_str": "966099551282257920",
-   "created_at": "Tue Feb 20 23:57:36 +0000 2018",
-   "text": "RT @polymer: Happy 4th anniversary of our first release! 🎉🙀\nWe're not as cool as curling, but since the last Olympics:\n\n🎁 Polymer 3.0 previ…",
-   "retweet_count": 105,
+   "id": 979049017182212100,
+   "id_str": "979049017182212096",
+   "created_at": "Wed Mar 28 17:34:10 +0000 2018",
+   "text": "RT @HTTPArchive: 🎓 After many months of work, we're rolling out the new (formerly known as \"beta\") HTTP Archive experience today! Go try it…",
+   "retweet_count": 186,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -214,65 +428,1135 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966093875466010600,
-    "id_str": "966093875466010624",
-    "created_at": "Tue Feb 20 23:35:03 +0000 2018",
-    "text": "Happy 4th anniversary of our first release! 🎉🙀\nWe're not as cool as curling, but since the last Olympics:\n\n🎁 Polyme… https://t.co/iS8ArxyxaJ",
-    "retweet_count": 105,
-    "favorite_count": 291,
+    "id": 979039393024442400,
+    "id_str": "979039393024442373",
+    "created_at": "Wed Mar 28 16:55:55 +0000 2018",
+    "text": "🎓 After many months of work, we're rolling out the new (formerly known as \"beta\") HTTP Archive experience today! Go… https://t.co/zPqAc1JDnE",
+    "retweet_count": 186,
+    "favorite_count": 337,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/iS8ArxyxaJ",
-      "expand": "https://twitter.com/i/web/status/966093875466010624"
+      "url": "https://t.co/zPqAc1JDnE",
+      "expand": "https://twitter.com/i/web/status/979039393024442373"
      }
     ]
    }
   },
   {
-   "id": 966077108832391200,
-   "id_str": "966077108832391168",
-   "created_at": "Tue Feb 20 22:28:26 +0000 2018",
-   "text": "Progressive Web Apps (PWAs) load quickly, help you re-engage with users through notifications, and have other prope… https://t.co/jsXQUZcH9l",
-   "retweet_count": 48,
-   "favorite_count": 124,
+   "id": 979042848216580100,
+   "id_str": "979042848216580096",
+   "created_at": "Wed Mar 28 17:09:39 +0000 2018",
+   "text": "The HTTP Archive is a fantastic resource for learning more about the state of the web 📊\n\n🆕And today it just got a w… https://t.co/1C0y447cvc",
+   "retweet_count": 28,
+   "favorite_count": 82,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/jsXQUZcH9l",
-     "expand": "https://twitter.com/i/web/status/966077108832391168"
+     "url": "https://t.co/1C0y447cvc",
+     "expand": "https://twitter.com/i/web/status/979042848216580096"
     }
    ]
   },
   {
-   "id": 966026669386481700,
-   "id_str": "966026669386481664",
-   "created_at": "Tue Feb 20 19:08:00 +0000 2018",
-   "text": "The⚡Supercharged livestream is back! @DasSurma and @_davideast will build a server-side rendered comment section us… https://t.co/ZXolfFQury",
-   "retweet_count": 42,
-   "favorite_count": 92,
+   "id": 979038167717343200,
+   "id_str": "979038167717343232",
+   "created_at": "Wed Mar 28 16:51:03 +0000 2018",
+   "text": "@gregtweets12345 You can get same effect by creating separate chrome profile just for when you use Facebook. ^@kosamari",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978999146479697900,
+   "in_reply_to_status_id_str": "978999146479697923",
+   "in_reply_to_screen_name": "gregtweets12345",
+   "urls": []
+  },
+  {
+   "id": 979037898128461800,
+   "id_str": "979037898128461824",
+   "created_at": "Wed Mar 28 16:49:59 +0000 2018",
+   "text": "@makc3d Scroll to the bottom :) the issue is archived in-lieu of #820233 which is still active. \n\nhttps://t.co/NMPUR8BSUw\n^@kosamari",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979010964787023900,
+   "in_reply_to_status_id_str": "979010964787023873",
+   "in_reply_to_screen_name": "makc3d",
+   "urls": [
+    {
+     "url": "https://t.co/NMPUR8BSUw",
+     "expand": "https://bugs.chromium.org/p/chromium/issues/detail?id=820233"
+    }
+   ]
+  },
+  {
+   "id": 979012486581006300,
+   "id_str": "979012486581006341",
+   "created_at": "Wed Mar 28 15:09:00 +0000 2018",
+   "text": "Just wrapped for the latest series of Designer vs Developer w/ @mustafa_x (looking v serious in that photo there).… https://t.co/w3Nz9uHwB4",
+   "retweet_count": 4,
+   "favorite_count": 22,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/ZXolfFQury",
-     "expand": "https://twitter.com/i/web/status/966026669386481664"
+     "url": "https://t.co/w3Nz9uHwB4",
+     "expand": "https://twitter.com/i/web/status/979012486581006341"
     }
    ]
   },
   {
-   "id": 965998816284438500,
-   "id_str": "965998816284438528",
-   "created_at": "Tue Feb 20 17:17:19 +0000 2018",
-   "text": "No more need for these hacks? 👀 @DasSurma &amp; @jaffathecake talk EventTarget on the latest #HTTP203  \n\n📽 Watch the wh… https://t.co/lBndfxQw76",
+   "id": 978688998792147000,
+   "id_str": "978688998792146946",
+   "created_at": "Tue Mar 27 17:43:35 +0000 2018",
+   "text": "RT @oluoluoxenfree: This house is so lovely and I've had a great time chatting with @Mustafa_x\n\n#DesVDev https://t.co/rnHsUwbY4k",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978608393890955300,
+    "id_str": "978608393890955264",
+    "created_at": "Tue Mar 27 12:23:17 +0000 2018",
+    "text": "This house is so lovely and I've had a great time chatting with @Mustafa_x\n\n#DesVDev https://t.co/rnHsUwbY4k",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 978688869548937200,
+   "id_str": "978688869548937222",
+   "created_at": "Tue Mar 27 17:43:04 +0000 2018",
+   "text": "RT @rowan_m: Filming Designer versus... Develo-paw with @Mustafa_x Sorry , sorry, I'll be quiet meow. 👤🎨🆚🖱️😸 https://t.co/mxvUJnGB2q",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978598174825832400,
+    "id_str": "978598174825832448",
+    "created_at": "Tue Mar 27 11:42:41 +0000 2018",
+    "text": "Filming Designer versus... Develo-paw with @Mustafa_x Sorry , sorry, I'll be quiet meow. 👤🎨🆚🖱️😸 https://t.co/mxvUJnGB2q",
+    "retweet_count": 3,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 978676981737934800,
+   "id_str": "978676981737934849",
+   "created_at": "Tue Mar 27 16:55:50 +0000 2018",
+   "text": "RT @HenriHelvetica: 🏀 March Madness: Getting to The CrUX of the Matter. \nDuring this #NCAA tournament, decided to take a quick look at #web…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978674977288286200,
+    "id_str": "978674977288286208",
+    "created_at": "Tue Mar 27 16:47:52 +0000 2018",
+    "text": "🏀 March Madness: Getting to The CrUX of the Matter. \nDuring this #NCAA tournament, decided to take a quick look at… https://t.co/S1i7FguDbV",
+    "retweet_count": 8,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/S1i7FguDbV",
+      "expand": "https://twitter.com/i/web/status/978674977288286208"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978662979205034000,
+   "id_str": "978662979205033989",
+   "created_at": "Tue Mar 27 16:00:11 +0000 2018",
+   "text": "How many observers are there @DasSurma &amp; @Jaffathecake ?? New #HTTP203 discusses resize observer. \n\nWatch it here →… https://t.co/CuOTimnl9f",
+   "retweet_count": 9,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CuOTimnl9f",
+     "expand": "https://twitter.com/i/web/status/978662979205033989"
+    }
+   ]
+  },
+  {
+   "id": 978590639649710100,
+   "id_str": "978590639649710080",
+   "created_at": "Tue Mar 27 11:12:44 +0000 2018",
+   "text": "RT @ChromiumDev: We have 3 (repeat, three!) open positions on our team🎉\n\n👇See details from Paul✨\n\nhttps://t.co/YHbtlruY6u",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YHbtlruY6u",
+     "expand": "https://twitter.com/Paul_Kinlan/status/978323081180696576"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978389555693936600,
+    "id_str": "978389555693936641",
+    "created_at": "Mon Mar 26 21:53:42 +0000 2018",
+    "text": "We have 3 (repeat, three!) open positions on our team🎉\n\n👇See details from Paul✨\n\nhttps://t.co/YHbtlruY6u",
+    "retweet_count": 24,
+    "favorite_count": 59,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YHbtlruY6u",
+      "expand": "https://twitter.com/Paul_Kinlan/status/978323081180696576"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978585309154824200,
+   "id_str": "978585309154824193",
+   "created_at": "Tue Mar 27 10:51:33 +0000 2018",
+   "text": "@delowarhym Sure! There’s many of us on the Slack channel: https://t.co/9emEgv3Kym ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978580851347808300,
+   "in_reply_to_status_id_str": "978580851347808256",
+   "in_reply_to_screen_name": "delowarhym",
+   "urls": [
+    {
+     "url": "https://t.co/9emEgv3Kym",
+     "expand": "https://chromiumdev-slack.herokuapp.com/"
+    }
+   ]
+  },
+  {
+   "id": 978584836586856400,
+   "id_str": "978584836586856450",
+   "created_at": "Tue Mar 27 10:49:40 +0000 2018",
+   "text": "@matomatostr @emschec @mathias Looking at https://t.co/NisMBQISVB\n\nIt should be around Apr 26 - May 3\n\n^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978543011683500000,
+   "in_reply_to_status_id_str": "978543011683500032",
+   "in_reply_to_screen_name": "matomatostr",
+   "urls": [
+    {
+     "url": "https://t.co/NisMBQISVB",
+     "expand": "https://www.chromestatus.com/features/schedule"
+    }
+   ]
+  },
+  {
+   "id": 978542336333549600,
+   "id_str": "978542336333549568",
+   "created_at": "Tue Mar 27 08:00:48 +0000 2018",
+   "text": "@matomatostr @emschec Not yet. Chrome Canary (https://t.co/542ssZQjnw) is always the latest version. Currently it’s v67. ^@mathias",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978540537786650600,
+   "in_reply_to_status_id_str": "978540537786650624",
+   "in_reply_to_screen_name": "matomatostr",
+   "urls": [
+    {
+     "url": "https://t.co/542ssZQjnw",
+     "expand": "https://www.google.com/chrome/browser/canary.html"
+    }
+   ]
+  },
+  {
+   "id": 978399014382178300,
+   "id_str": "978399014382178304",
+   "created_at": "Mon Mar 26 22:31:17 +0000 2018",
+   "text": "@Paul_Kinlan Don't understand this joke. ^@kosamari",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978398200695611400,
+   "in_reply_to_status_id_str": "978398200695611392",
+   "in_reply_to_screen_name": "Paul_Kinlan",
+   "urls": []
+  },
+  {
+   "id": 978397038533464000,
+   "id_str": "978397038533464064",
+   "created_at": "Mon Mar 26 22:23:26 +0000 2018",
+   "text": "RT @ebidel: \"Working with the new CSS Typed Object Model\": https://t.co/2h2bH6Cpa8\n\nCalling this .className =&gt; .classList, but for the styl…",
+   "retweet_count": 291,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2h2bH6Cpa8",
+     "expand": "https://developers.google.com/web/updates/2018/03/cssom"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978353698299560000,
+    "id_str": "978353698299559936",
+    "created_at": "Mon Mar 26 19:31:13 +0000 2018",
+    "text": "\"Working with the new CSS Typed Object Model\": https://t.co/2h2bH6Cpa8\n\nCalling this .className =&gt; .classList, but… https://t.co/pjoixyFs9E",
+    "retweet_count": 291,
+    "favorite_count": 657,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2h2bH6Cpa8",
+      "expand": "https://developers.google.com/web/updates/2018/03/cssom"
+     },
+     {
+      "url": "https://t.co/pjoixyFs9E",
+      "expand": "https://twitter.com/i/web/status/978353698299559936"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978389555693936600,
+   "id_str": "978389555693936641",
+   "created_at": "Mon Mar 26 21:53:42 +0000 2018",
+   "text": "We have 3 (repeat, three!) open positions on our team🎉\n\n👇See details from Paul✨\n\nhttps://t.co/YHbtlruY6u",
+   "retweet_count": 24,
+   "favorite_count": 59,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YHbtlruY6u",
+     "expand": "https://twitter.com/Paul_Kinlan/status/978323081180696576"
+    }
+   ]
+  },
+  {
+   "id": 978378246256554000,
+   "id_str": "978378246256553986",
+   "created_at": "Mon Mar 26 21:08:45 +0000 2018",
+   "text": "@Iskaryl https://t.co/4V252loiQG is the best place to send feature request to the team ! ^@kosamari",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978319473211068400,
+   "in_reply_to_status_id_str": "978319473211068422",
+   "in_reply_to_screen_name": "Iskaryl",
+   "urls": [
+    {
+     "url": "https://t.co/4V252loiQG",
+     "expand": "http://crbug.com/new"
+    }
+   ]
+  },
+  {
+   "id": 977703018673164300,
+   "id_str": "977703018673164293",
+   "created_at": "Sun Mar 25 00:25:39 +0000 2018",
+   "text": "RT @ChromiumDev: Can you believe we are almost 1/4 of the year into 2018⁉️\n\nSoon it'll be a year since we started this Friday wrap up. If y…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977184698207297500,
+    "id_str": "977184698207297536",
+    "created_at": "Fri Mar 23 14:06:01 +0000 2018",
+    "text": "Can you believe we are almost 1/4 of the year into 2018⁉️\n\nSoon it'll be a year since we started this Friday wrap u… https://t.co/3thEXQlCqu",
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": 977179476428718100,
+    "in_reply_to_status_id_str": "977179476428718081",
+    "in_reply_to_screen_name": "ChromiumDev",
+    "urls": [
+     {
+      "url": "https://t.co/3thEXQlCqu",
+      "expand": "https://twitter.com/i/web/status/977184698207297536"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977184698207297500,
+   "id_str": "977184698207297536",
+   "created_at": "Fri Mar 23 14:06:01 +0000 2018",
+   "text": "Can you believe we are almost 1/4 of the year into 2018⁉️\n\nSoon it'll be a year since we started this Friday wrap u… https://t.co/3thEXQlCqu",
+   "retweet_count": 5,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 977179476428718100,
+   "in_reply_to_status_id_str": "977179476428718081",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/3thEXQlCqu",
+     "expand": "https://twitter.com/i/web/status/977184698207297536"
+    }
+   ]
+  },
+  {
+   "id": 977179476428718100,
+   "id_str": "977179476428718081",
+   "created_at": "Fri Mar 23 13:45:16 +0000 2018",
+   "text": "What does it mean to develop new JS feature? and what need to be considered before introducing new method? Check ou… https://t.co/K1VGnRApmY",
+   "retweet_count": 5,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": 977178026076262400,
+   "in_reply_to_status_id_str": "977178026076262400",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/K1VGnRApmY",
+     "expand": "https://twitter.com/i/web/status/977179476428718081"
+    }
+   ]
+  },
+  {
+   "id": 977178026076262400,
+   "id_str": "977178026076262400",
+   "created_at": "Fri Mar 23 13:39:31 +0000 2018",
+   "text": "JavaScript Symbols... what is it? how does it work?\nWatch how @jaffathecake explained to @DasSurma 👨‍🏫\nhttps://t.co/DBlCgLcszo",
+   "retweet_count": 5,
+   "favorite_count": 18,
+   "place": null,
+   "in_reply_to_status_id": 977177027404075000,
+   "in_reply_to_status_id_str": "977177027404075008",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/DBlCgLcszo",
+     "expand": "https://www.youtube.com/watch?v=qIU151UPOSY"
+    }
+   ]
+  },
+  {
+   "id": 977177027404075000,
+   "id_str": "977177027404075008",
+   "created_at": "Fri Mar 23 13:35:33 +0000 2018",
+   "text": "🔥hot off the press @bmeurer on \"Impact of polymorphism on component-based frameworks like React\"\n\nhttps://t.co/JbTcrE0muI",
+   "retweet_count": 3,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 977176513304039400,
+   "in_reply_to_status_id_str": "977176513304039424",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/JbTcrE0muI",
+     "expand": "http://benediktmeurer.de/2018/03/23/impact-of-polymorphism-on-component-based-frameworks-like-react/"
+    }
+   ]
+  },
+  {
+   "id": 977176513304039400,
+   "id_str": "977176513304039424",
+   "created_at": "Fri Mar 23 13:33:30 +0000 2018",
+   "text": "🆕Both @workboxjs v3.0.1 and @____lighthouse v2.9.3 are out! \nCheck for release if you are user :)\n📦:… https://t.co/FosuqbZB4k",
+   "retweet_count": 6,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 977175760434757600,
+   "in_reply_to_status_id_str": "977175760434757634",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/FosuqbZB4k",
+     "expand": "https://twitter.com/i/web/status/977176513304039424"
+    }
+   ]
+  },
+  {
+   "id": 977175760434757600,
+   "id_str": "977175760434757634",
+   "created_at": "Fri Mar 23 13:30:30 +0000 2018",
+   "text": "Ah, another week has come and gone 😲\nLet's look back what happened this week, starting with \nChrome 66 Beta: Check… https://t.co/U3geCw007c",
+   "retweet_count": 19,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/U3geCw007c",
+     "expand": "https://twitter.com/i/web/status/977175760434757634"
+    }
+   ]
+  },
+  {
+   "id": 976931308906664000,
+   "id_str": "976931308906663936",
+   "created_at": "Thu Mar 22 21:19:09 +0000 2018",
+   "text": "RT @MozDevNet: Announcing interactive examples on MDN! 👏\n\nWe’ve just finished adding interactive examples for the JavaScript and CSS refere…",
+   "retweet_count": 85,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976914867335712800,
+    "id_str": "976914867335712768",
+    "created_at": "Thu Mar 22 20:13:49 +0000 2018",
+    "text": "Announcing interactive examples on MDN! 👏\n\nWe’ve just finished adding interactive examples for the JavaScript and C… https://t.co/eMhRBf67EC",
+    "retweet_count": 85,
+    "favorite_count": 197,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eMhRBf67EC",
+      "expand": "https://twitter.com/i/web/status/976914867335712768"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976886411264749600,
+   "id_str": "976886411264749568",
+   "created_at": "Thu Mar 22 18:20:44 +0000 2018",
+   "text": "Sometimes you are only interested in the first occurrence of an event. This is now easier to implement! \n\nWatch thi… https://t.co/xN66vFiG8H",
+   "retweet_count": 13,
+   "favorite_count": 47,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xN66vFiG8H",
+     "expand": "https://twitter.com/i/web/status/976886411264749568"
+    }
+   ]
+  },
+  {
+   "id": 976853561538744300,
+   "id_str": "976853561538744320",
+   "created_at": "Thu Mar 22 16:10:12 +0000 2018",
+   "text": "RT @philwalton: 💡 If you've built a website that works offline, and you're using Google Analytics, you should *definitely* be using Workbox…",
+   "retweet_count": 101,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976502708872990700,
+    "id_str": "976502708872990720",
+    "created_at": "Wed Mar 21 16:56:02 +0000 2018",
+    "text": "💡 If you've built a website that works offline, and you're using Google Analytics, you should *definitely* be using… https://t.co/09HYdC6wtx",
+    "retweet_count": 101,
+    "favorite_count": 375,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/09HYdC6wtx",
+      "expand": "https://twitter.com/i/web/status/976502708872990720"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976800297522810900,
+   "id_str": "976800297522810881",
+   "created_at": "Thu Mar 22 12:38:33 +0000 2018",
+   "text": "RT @Mustafa_x: Research tactics to help you design for all users and ability levels https://t.co/1mHide5Blo by @GoogleDesign",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1mHide5Blo",
+     "expand": "https://design.google/library/designers-guide-accessibility-research/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976757675156541400,
+    "id_str": "976757675156541440",
+    "created_at": "Thu Mar 22 09:49:11 +0000 2018",
+    "text": "Research tactics to help you design for all users and ability levels https://t.co/1mHide5Blo by @GoogleDesign",
+    "retweet_count": 6,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1mHide5Blo",
+      "expand": "https://design.google/library/designers-guide-accessibility-research/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976579782946078700,
+   "id_str": "976579782946078721",
+   "created_at": "Wed Mar 21 22:02:18 +0000 2018",
+   "text": "Chrome 66 Beta: CSS Typed Object Model 🔩, Async Clipboard API 📋, AudioWorklet 🔈, ImageBitmap render context for &lt;ca… https://t.co/wYkqvvRhOG",
+   "retweet_count": 73,
+   "favorite_count": 145,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wYkqvvRhOG",
+     "expand": "https://twitter.com/i/web/status/976579782946078721"
+    }
+   ]
+  },
+  {
+   "id": 976527430855811100,
+   "id_str": "976527430855811072",
+   "created_at": "Wed Mar 21 18:34:17 +0000 2018",
+   "text": "RT @mathias: Slides for my #jsconfau18 presentation on @v8js internals for JavaScript developers: https://t.co/qWHz3GPcqg https://t.co/elyF…",
+   "retweet_count": 84,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qWHz3GPcqg",
+     "expand": "https://slidr.io/mathiasbynens/v8-internals-for-javascript-developers"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976292009693474800,
+    "id_str": "976292009693474817",
+    "created_at": "Wed Mar 21 02:58:48 +0000 2018",
+    "text": "Slides for my #jsconfau18 presentation on @v8js internals for JavaScript developers: https://t.co/qWHz3GPcqg https://t.co/elyFdi5NNt",
+    "retweet_count": 84,
+    "favorite_count": 318,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qWHz3GPcqg",
+      "expand": "https://slidr.io/mathiasbynens/v8-internals-for-javascript-developers"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976463443304833000,
+   "id_str": "976463443304833024",
+   "created_at": "Wed Mar 21 14:20:01 +0000 2018",
+   "text": "@knowkalpesh @firefox @w3c sorry - it's not clear what you mean about perform trigger event.\n\nDo you have a reprodu… https://t.co/DA9cPsB7do",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976459644150325200,
+   "in_reply_to_status_id_str": "976459644150325248",
+   "in_reply_to_screen_name": "knowkalpesh",
+   "urls": [
+    {
+     "url": "https://t.co/DA9cPsB7do",
+     "expand": "https://twitter.com/i/web/status/976463443304833024"
+    }
+   ]
+  },
+  {
+   "id": 976195292897804300,
+   "id_str": "976195292897804288",
+   "created_at": "Tue Mar 20 20:34:29 +0000 2018",
+   "text": "A realtime dashboard of all the web content our team puts out, plus some other goodies?....yes please! https://t.co/0lrMaHJW6e",
+   "retweet_count": 8,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0lrMaHJW6e",
+     "expand": "https://twitter.com/ebidel/status/976124960077836289"
+    }
+   ]
+  },
+  {
+   "id": 976146254962024400,
+   "id_str": "976146254962024449",
+   "created_at": "Tue Mar 20 17:19:37 +0000 2018",
+   "text": "This week @Jaffathecake talks through JavaScript Symbols with @DasSurma on #HTTP203\n\nWatch the full episode here →… https://t.co/zru07MBogy",
+   "retweet_count": 14,
+   "favorite_count": 46,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zru07MBogy",
+     "expand": "https://twitter.com/i/web/status/976146254962024449"
+    }
+   ]
+  },
+  {
+   "id": 976129995432226800,
+   "id_str": "976129995432226816",
+   "created_at": "Tue Mar 20 16:15:01 +0000 2018",
+   "text": "Another 🔦🏠 update ! \n\n@____lighthouse SEO Audits are now available in Chrome DevTools 🙌🙌🙌. Run a basic SEO health c… https://t.co/EQNhRnKTTl",
+   "retweet_count": 111,
+   "favorite_count": 220,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EQNhRnKTTl",
+     "expand": "https://twitter.com/i/web/status/976129995432226816"
+    }
+   ]
+  },
+  {
+   "id": 975728763785723900,
+   "id_str": "975728763785723904",
+   "created_at": "Mon Mar 19 13:40:40 +0000 2018",
+   "text": "What the *smoosh* happened to Array#flatten?! Why is everyone talking about MooTools? Why doesn’t TC39 just break t… https://t.co/fDYffDg3bp",
+   "retweet_count": 116,
+   "favorite_count": 207,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fDYffDg3bp",
+     "expand": "https://twitter.com/i/web/status/975728763785723904"
+    }
+   ]
+  },
+  {
+   "id": 975673714988724200,
+   "id_str": "975673714988724224",
+   "created_at": "Mon Mar 19 10:01:55 +0000 2018",
+   "text": "@tmikoss cc: @ChromeDevTools ^",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975671371995992000,
+   "in_reply_to_status_id_str": "975671371995992064",
+   "in_reply_to_screen_name": "tmikoss",
+   "urls": []
+  },
+  {
+   "id": 974731017352368100,
+   "id_str": "974731017352368131",
+   "created_at": "Fri Mar 16 19:35:58 +0000 2018",
+   "text": "🆕HTTP203 episode is out !\nGo listen @DasSurma and @jaffathecake\nbeatboxing, then stay there for some web developmen… https://t.co/W8EDPVkDWd",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 974729052618674200,
+   "in_reply_to_status_id_str": "974729052618674176",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/W8EDPVkDWd",
+     "expand": "https://twitter.com/i/web/status/974731017352368131"
+    }
+   ]
+  },
+  {
+   "id": 974729052618674200,
+   "id_str": "974729052618674176",
+   "created_at": "Fri Mar 16 19:28:10 +0000 2018",
+   "text": "Whether the name become flatten, smoosh, or something else, @v8js has implemented the array depth reducing feature… https://t.co/zo0uIjZ760",
+   "retweet_count": 1,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 974726934969159700,
+   "in_reply_to_status_id_str": "974726934969159682",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/zo0uIjZ760",
+     "expand": "https://twitter.com/i/web/status/974729052618674176"
+    }
+   ]
+  },
+  {
+   "id": 974726934969159700,
+   "id_str": "974726934969159682",
+   "created_at": "Fri Mar 16 19:19:45 +0000 2018",
+   "text": "Speaking of Puppeteer, have you notice that we have a puppeteer-examples repo??😄\nTry on things you can do with it!… https://t.co/1UUbqdPspr",
+   "retweet_count": 15,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": 974724483952140300,
+   "in_reply_to_status_id_str": "974724483952140288",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/1UUbqdPspr",
+     "expand": "https://twitter.com/i/web/status/974726934969159682"
+    }
+   ]
+  },
+  {
+   "id": 974724483952140300,
+   "id_str": "974724483952140288",
+   "created_at": "Fri Mar 16 19:10:01 +0000 2018",
+   "text": "Code snippet of the week is from @Paul_Kinlan \n\nPaul shows you how to host Puppeteer in a Docker container 🤹‍♂️📦\n\nhttps://t.co/VCbjdAE1CE",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 974723812687302700,
+   "in_reply_to_status_id_str": "974723812687302656",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/VCbjdAE1CE",
+     "expand": "https://paul.kinlan.me/hosting-puppeteer-in-a-docker-container/"
+    }
+   ]
+  },
+  {
+   "id": 974723812687302700,
+   "id_str": "974723812687302656",
+   "created_at": "Fri Mar 16 19:07:21 +0000 2018",
+   "text": "❗️Important announcement from @agektmr \nWith Web Authentication, a change is coming to Credential Management API. C… https://t.co/jJwItPgMF1",
+   "retweet_count": 8,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": 974722275260977200,
+   "in_reply_to_status_id_str": "974722275260977153",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/jJwItPgMF1",
+     "expand": "https://twitter.com/i/web/status/974723812687302656"
+    }
+   ]
+  },
+  {
+   "id": 974722275260977200,
+   "id_str": "974722275260977153",
+   "created_at": "Fri Mar 16 19:01:14 +0000 2018",
+   "text": "Hai ya 🦀\n\nLet's start weekly wrap up with a post from ✨🆕 newest member of the team @_developit✨\n\nUnlock the potenti… https://t.co/Pof5rIV6a9",
+   "retweet_count": 23,
+   "favorite_count": 77,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Pof5rIV6a9",
+     "expand": "https://twitter.com/i/web/status/974722275260977153"
+    }
+   ]
+  },
+  {
+   "id": 974533220090941400,
+   "id_str": "974533220090941440",
+   "created_at": "Fri Mar 16 06:30:00 +0000 2018",
+   "text": "New article! Why Performance Matters: https://t.co/0jltv25yAE ~ Includes tips for minding what you send &amp; how you s… https://t.co/Sg5D8zkiX5",
+   "retweet_count": 70,
+   "favorite_count": 194,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0jltv25yAE",
+     "expand": "https://goo.gl/W32SbB"
+    },
+    {
+     "url": "https://t.co/Sg5D8zkiX5",
+     "expand": "https://twitter.com/i/web/status/974533220090941440"
+    }
+   ]
+  },
+  {
+   "id": 974367920888467500,
+   "id_str": "974367920888467457",
+   "created_at": "Thu Mar 15 19:33:09 +0000 2018",
+   "text": "RT @rick_viscomi: I want to make it easier for anyone interested in exploring this RUM dataset to get up and running quickly.\n\nSo I started…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974366407377989600,
+    "id_str": "974366407377989632",
+    "created_at": "Thu Mar 15 19:27:09 +0000 2018",
+    "text": "I want to make it easier for anyone interested in exploring this RUM dataset to get up and running quickly.\n\nSo I s… https://t.co/0IgUY1qWpQ",
+    "retweet_count": 21,
+    "favorite_count": 50,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/0IgUY1qWpQ",
+      "expand": "https://twitter.com/i/web/status/974366407377989632"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974363278146261000,
+   "id_str": "974363278146260993",
+   "created_at": "Thu Mar 15 19:14:42 +0000 2018",
+   "text": "@Batitza do you mean audits for @____lighthouse? cc: @ebidel @paul_irish",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974350782802858000,
+   "in_reply_to_status_id_str": "974350782802857984",
+   "in_reply_to_screen_name": "Batitza",
+   "urls": []
+  },
+  {
+   "id": 974353960214515700,
+   "id_str": "974353960214515712",
+   "created_at": "Thu Mar 15 18:37:41 +0000 2018",
+   "text": "RT @bmeurer: 📣 @mathias just landed an initial implementation of Array#flatten() and Array#flatMap() in @v8js (name clash still to be resol…",
+   "retweet_count": 71,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974345157335244800,
+    "id_str": "974345157335244800",
+    "created_at": "Thu Mar 15 18:02:42 +0000 2018",
+    "text": "📣 @mathias just landed an initial implementation of Array#flatten() and Array#flatMap() in @v8js (name clash still… https://t.co/XLxnMMfr7V",
+    "retweet_count": 71,
+    "favorite_count": 225,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XLxnMMfr7V",
+      "expand": "https://twitter.com/i/web/status/974345157335244800"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974316454798594000,
+   "id_str": "974316454798594048",
+   "created_at": "Thu Mar 15 16:08:39 +0000 2018",
+   "text": "⚡️Supercharged CommitLog: Caching Headers — Don’t make the user download things they already have. Caching headers… https://t.co/XVnNllrh2Y",
+   "retweet_count": 6,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XVnNllrh2Y",
+     "expand": "https://twitter.com/i/web/status/974316454798594048"
+    }
+   ]
+  },
+  {
+   "id": 974286224818090000,
+   "id_str": "974286224818089984",
+   "created_at": "Thu Mar 15 14:08:32 +0000 2018",
+   "text": "⚡️Attention: Credential Management API users 📣\nWeb Authentication, which adds a new kind of Credential object, is c… https://t.co/PyEoMk2IMa",
+   "retweet_count": 23,
+   "favorite_count": 75,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PyEoMk2IMa",
+     "expand": "https://twitter.com/i/web/status/974286224818089984"
+    }
+   ]
+  },
+  {
+   "id": 974284068383838200,
+   "id_str": "974284068383838209",
+   "created_at": "Thu Mar 15 13:59:57 +0000 2018",
+   "text": "RT @ChromeDevTools: Tip: Run copy(obj) in the Console to copy an object to your clipboard. https://t.co/VqZhzbr6gS",
+   "retweet_count": 1158,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974280084113772500,
+    "id_str": "974280084113772544",
+    "created_at": "Thu Mar 15 13:44:07 +0000 2018",
+    "text": "Tip: Run copy(obj) in the Console to copy an object to your clipboard. https://t.co/VqZhzbr6gS",
+    "retweet_count": 1158,
+    "favorite_count": 2542,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 974024756272955400,
+   "id_str": "974024756272955392",
+   "created_at": "Wed Mar 14 20:49:33 +0000 2018",
+   "text": "The Chrome UX Report continues to grow! 📈\n\nThe newest monthly dataset is now available on BigQuery with 5% more web… https://t.co/rYrL3J2QCY",
+   "retweet_count": 26,
+   "favorite_count": 72,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rYrL3J2QCY",
+     "expand": "https://twitter.com/i/web/status/974024756272955392"
+    }
+   ]
+  },
+  {
+   "id": 973935604231635000,
+   "id_str": "973935604231634944",
+   "created_at": "Wed Mar 14 14:55:17 +0000 2018",
+   "text": "RT @Paul_Kinlan: Thoughts on 'The Headless Web' and an example of a simple thing you can do `domcurl` when you have the browser, scriptable…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973866018316501000,
+    "id_str": "973866018316500998",
+    "created_at": "Wed Mar 14 10:18:46 +0000 2018",
+    "text": "Thoughts on 'The Headless Web' and an example of a simple thing you can do `domcurl` when you have the browser, scr… https://t.co/530BSqaYLL",
+    "retweet_count": 9,
+    "favorite_count": 28,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/530BSqaYLL",
+      "expand": "https://twitter.com/i/web/status/973866018316500998"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973628827539857400,
+   "id_str": "973628827539857408",
+   "created_at": "Tue Mar 13 18:36:16 +0000 2018",
+   "text": "RT @notwaldorf: 🚨 The `inputmode` attribute has finally shipped in Chrome 66!!! 🚨\n\nThis means \n&lt;div contenteditable inputmode=“tel”&gt; will a…",
+   "retweet_count": 450,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973627584205398000,
+    "id_str": "973627584205398016",
+    "created_at": "Tue Mar 13 18:31:19 +0000 2018",
+    "text": "🚨 The `inputmode` attribute has finally shipped in Chrome 66!!! 🚨\n\nThis means \n&lt;div contenteditable inputmode=“tel”… https://t.co/yiR6dlloHC",
+    "retweet_count": 450,
+    "favorite_count": 1073,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yiR6dlloHC",
+      "expand": "https://twitter.com/i/web/status/973627584205398016"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973600982558011400,
+   "id_str": "973600982558011394",
+   "created_at": "Tue Mar 13 16:45:37 +0000 2018",
+   "text": "New #HTTP203! @DasSurma tries to explain his recent exploration of webpack and workers to @jaffathecake in 2 minute… https://t.co/Z3QMkJ6Vac",
    "retweet_count": 7,
    "favorite_count": 33,
    "place": null,
@@ -281,62 +1565,1795 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/lBndfxQw76",
-     "expand": "https://twitter.com/i/web/status/965998816284438528"
+     "url": "https://t.co/Z3QMkJ6Vac",
+     "expand": "https://twitter.com/i/web/status/973600982558011394"
     }
    ]
   },
   {
-   "id": 965632072483184600,
-   "id_str": "965632072483184641",
-   "created_at": "Mon Feb 19 17:00:01 +0000 2018",
-   "text": "📢 The new object spread operator can be very handy when you have to work with options objects 🛠\n\nHere is ⚡️Supercha… https://t.co/8cbHvJl9Zq",
-   "retweet_count": 27,
-   "favorite_count": 105,
+   "id": 973506318425296900,
+   "id_str": "973506318425296896",
+   "created_at": "Tue Mar 13 10:29:27 +0000 2018",
+   "text": "@spoike are you testing it against canary?\n\n^@paul_kinlan",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973502404950884400,
+   "in_reply_to_status_id_str": "973502404950884352",
+   "in_reply_to_screen_name": "spoike",
+   "urls": []
+  },
+  {
+   "id": 973308456194138100,
+   "id_str": "973308456194138112",
+   "created_at": "Mon Mar 12 21:23:13 +0000 2018",
+   "text": "Checking Googlebot happiness using headless Chrome and caniuse. https://t.co/KBXPIMv2bK",
+   "retweet_count": 15,
+   "favorite_count": 66,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/8cbHvJl9Zq",
-     "expand": "https://twitter.com/i/web/status/965632072483184641"
+     "url": "https://t.co/KBXPIMv2bK",
+     "expand": "https://twitter.com/ebidel/status/973306463081738240"
     }
    ]
   },
   {
-   "id": 965557608743624700,
-   "id_str": "965557608743624707",
-   "created_at": "Mon Feb 19 12:04:07 +0000 2018",
-   "text": "Come to the Europe Progressive Web Apps Roadshow focused on e-commerce at Google. \n\nFind out how and why to develop… https://t.co/rz1qg0h05m",
-   "retweet_count": 29,
-   "favorite_count": 57,
+   "id": 972904259732885500,
+   "id_str": "972904259732885504",
+   "created_at": "Sun Mar 11 18:37:05 +0000 2018",
+   "text": "RT @ericlaw: As of Chrome 65, the .value of an auto-filled username field cannot be read until the user interacts with the page (mouse clic…",
+   "retweet_count": 171,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969575590054514700,
+    "id_str": "969575590054514689",
+    "created_at": "Fri Mar 02 14:10:09 +0000 2018",
+    "text": "As of Chrome 65, the .value of an auto-filled username field cannot be read until the user interacts with the page… https://t.co/foIcBddyDG",
+    "retweet_count": 171,
+    "favorite_count": 502,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/foIcBddyDG",
+      "expand": "https://twitter.com/i/web/status/969575590054514689"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972904193425117200,
+   "id_str": "972904193425117184",
+   "created_at": "Sun Mar 11 18:36:50 +0000 2018",
+   "text": "RT @ChromeDevTools: Tip: Use the Security panel to diagnose mixed content issues (when a secure page HTTPS requests insecure HTTP resources…",
+   "retweet_count": 60,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972819430974640100,
+    "id_str": "972819430974640128",
+    "created_at": "Sun Mar 11 13:00:01 +0000 2018",
+    "text": "Tip: Use the Security panel to diagnose mixed content issues (when a secure page HTTPS requests insecure HTTP resou… https://t.co/qExzkuG6U2",
+    "retweet_count": 60,
+    "favorite_count": 174,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qExzkuG6U2",
+      "expand": "https://twitter.com/i/web/status/972819430974640128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972559305026228200,
+   "id_str": "972559305026228224",
+   "created_at": "Sat Mar 10 19:46:22 +0000 2018",
+   "text": "This week was interesting week on the web dev twitter as ECMAScript standardization process was discussed in many d… https://t.co/jXuzuhEBr4",
+   "retweet_count": 2,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": 972556558201774100,
+   "in_reply_to_status_id_str": "972556558201774080",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/jXuzuhEBr4",
+     "expand": "https://twitter.com/i/web/status/972559305026228224"
+    }
+   ]
+  },
+  {
+   "id": 972556558201774100,
+   "id_str": "972556558201774080",
+   "created_at": "Sat Mar 10 19:35:27 +0000 2018",
+   "text": "Itching to try @workboxjs\nV3? \nHere is new migration guide from V2➡️V3\n https://t.co/KCUtxVFQ2O",
+   "retweet_count": 6,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": 972556138414792700,
+   "in_reply_to_status_id_str": "972556138414792705",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/KCUtxVFQ2O",
+     "expand": "https://developers.google.com/web/tools/workbox/guides/migrations/migrate-from-v2"
+    }
+   ]
+  },
+  {
+   "id": 972556138414792700,
+   "id_str": "972556138414792705",
+   "created_at": "Sat Mar 10 19:33:47 +0000 2018",
+   "text": "\"Tracing from JS to the DOM and back again\"🔁\nRead more about how debugging memory leaks in Chrome 66 just became mu… https://t.co/YDI51PaqwD",
+   "retweet_count": 7,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": 972555629482168300,
+   "in_reply_to_status_id_str": "972555629482168321",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/YDI51PaqwD",
+     "expand": "https://twitter.com/i/web/status/972556138414792705"
+    }
+   ]
+  },
+  {
+   "id": 972555629482168300,
+   "id_str": "972555629482168321",
+   "created_at": "Sat Mar 10 19:31:45 +0000 2018",
+   "text": "... and maybe try Grid layout this weekend📖\n\"CSS Grid One Year On\" is by @rachelandrew who is involved in spec proc… https://t.co/KkOisWAPcu",
+   "retweet_count": 4,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 972554900835131400,
+   "in_reply_to_status_id_str": "972554900835131392",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/KkOisWAPcu",
+     "expand": "https://twitter.com/i/web/status/972555629482168321"
+    }
+   ]
+  },
+  {
+   "id": 972554900835131400,
+   "id_str": "972554900835131392",
+   "created_at": "Sat Mar 10 19:28:52 +0000 2018",
+   "text": "@bmeurer @mathias Hey ya again from NY 👋\nStarting the weekend with more reading on WASM!\nOn the fly WebP decoding u… https://t.co/uwSOrknevd",
+   "retweet_count": 4,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 972173487103201300,
+   "in_reply_to_status_id_str": "972173487103201285",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/uwSOrknevd",
+     "expand": "https://twitter.com/i/web/status/972554900835131392"
+    }
+   ]
+  },
+  {
+   "id": 972327758524186600,
+   "id_str": "972327758524186624",
+   "created_at": "Sat Mar 10 04:26:17 +0000 2018",
+   "text": "RT @samthor: @ChromiumDev @DasSurma We also have a codelab from last year's I/O here :)\nhttps://t.co/aS6ZsMiSIT",
+   "retweet_count": 3,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/rz1qg0h05m",
-     "expand": "https://twitter.com/i/web/status/965557608743624707"
+     "url": "https://t.co/aS6ZsMiSIT",
+     "expand": "https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html?index=..%2F..%2Findex"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972327492315836400,
+    "id_str": "972327492315836416",
+    "created_at": "Sat Mar 10 04:25:13 +0000 2018",
+    "text": "@ChromiumDev @DasSurma We also have a codelab from last year's I/O here :)\nhttps://t.co/aS6ZsMiSIT",
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": 972171774728302600,
+    "in_reply_to_status_id_str": "972171774728302593",
+    "in_reply_to_screen_name": "ChromiumDev",
+    "urls": [
+     {
+      "url": "https://t.co/aS6ZsMiSIT",
+      "expand": "https://codelabs.developers.google.com/codelabs/web-assembly-intro/index.html?index=..%2F..%2Findex"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972311823075696600,
+   "id_str": "972311823075696641",
+   "created_at": "Sat Mar 10 03:22:57 +0000 2018",
+   "text": "@zewt @jaffathecake @kosamari https://t.co/4V252loiQG is the best place to voice your point! Probably fastest to get to PM/Eng too.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972310608044548100,
+   "in_reply_to_status_id_str": "972310608044548097",
+   "in_reply_to_screen_name": "zewt",
+   "urls": [
+    {
+     "url": "https://t.co/4V252loiQG",
+     "expand": "http://crbug.com/new"
     }
    ]
   },
   {
-   "id": 964913772535062500,
-   "id_str": "964913772535062528",
-   "created_at": "Sat Feb 17 17:25:45 +0000 2018",
-   "text": "Puppeteer 1.1.0 released! 💥#releaseonfridays\n\nChromium 66, methods for testing service worker caching strategies… https://t.co/UzkOoVeXNj",
-   "retweet_count": 169,
-   "favorite_count": 421,
+   "id": 972195456934694900,
+   "id_str": "972195456934694913",
+   "created_at": "Fri Mar 09 19:40:34 +0000 2018",
+   "text": "RT @HTTPArchive: 🤯 At @scaleconf, @triblondon showed how he analyzes HTTP Archive data to learn more about how headers are used across the…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972188491512729600,
+    "id_str": "972188491512729600",
+    "created_at": "Fri Mar 09 19:12:53 +0000 2018",
+    "text": "🤯 At @scaleconf, @triblondon showed how he analyzes HTTP Archive data to learn more about how headers are used acro… https://t.co/5lfq72FKaw",
+    "retweet_count": 13,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5lfq72FKaw",
+      "expand": "https://twitter.com/i/web/status/972188491512729600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972186507636301800,
+   "id_str": "972186507636301824",
+   "created_at": "Fri Mar 09 19:05:00 +0000 2018",
+   "text": "@TheLarkInn @DasSurma @kosamari To be clear, that link goes to libwebp project, not .wasm file Surma compiled in th… https://t.co/iMHlFVjjbQ",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972183918051958800,
+   "in_reply_to_status_id_str": "972183918051958784",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/iMHlFVjjbQ",
+     "expand": "https://twitter.com/i/web/status/972186507636301824"
+    }
+   ]
+  },
+  {
+   "id": 972183098984104000,
+   "id_str": "972183098984103937",
+   "created_at": "Fri Mar 09 18:51:27 +0000 2018",
+   "text": "@TheLarkInn @DasSurma https://t.co/vHIohospbh as linked from the post. \n^@kosamari",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 972181036095320000,
+   "in_reply_to_status_id_str": "972181036095320064",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": [
+    {
+     "url": "https://t.co/vHIohospbh",
+     "expand": "https://github.com/GoogleChrome/samples/tree/gh-pages/webassembly"
+    }
+   ]
+  },
+  {
+   "id": 972173487103201300,
+   "id_str": "972173487103201285",
+   "created_at": "Fri Mar 09 18:13:16 +0000 2018",
+   "text": "You know what else is new? ES2018 is happening🙌\n\nCheck out this presentation by  @bmeurer and @mathias going over m… https://t.co/ibDGVgM2lx",
+   "retweet_count": 10,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": 972172453551181800,
+   "in_reply_to_status_id_str": "972172453551181824",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/ibDGVgM2lx",
+     "expand": "https://twitter.com/i/web/status/972173487103201285"
+    }
+   ]
+  },
+  {
+   "id": 972172453551181800,
+   "id_str": "972172453551181824",
+   "created_at": "Fri Mar 09 18:09:09 +0000 2018",
+   "text": "Speaking of new, @petele is back with what's new in Chrome ... 65 🎉 \nhttps://t.co/V4vwYuvyxm\n\n(editor's note: I'm p… https://t.co/sLQRjYGpyE",
+   "retweet_count": 5,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": 972171774728302600,
+   "in_reply_to_status_id_str": "972171774728302593",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/V4vwYuvyxm",
+     "expand": "https://www.youtube.com/watch?v=_W4GSpoSOZI"
+    },
+    {
+     "url": "https://t.co/sLQRjYGpyE",
+     "expand": "https://twitter.com/i/web/status/972172453551181824"
+    }
+   ]
+  },
+  {
+   "id": 972171774728302600,
+   "id_str": "972171774728302593",
+   "created_at": "Fri Mar 09 18:06:27 +0000 2018",
+   "text": "Hey ya👋 Lots of interesting chat this week on the web platform.\n\nLet's start the thread this week with something ne… https://t.co/R7l17hn5tg",
+   "retweet_count": 10,
+   "favorite_count": 66,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/UzkOoVeXNj",
-     "expand": "https://twitter.com/i/web/status/964913772535062528"
+     "url": "https://t.co/R7l17hn5tg",
+     "expand": "https://twitter.com/i/web/status/972171774728302593"
+    }
+   ]
+  },
+  {
+   "id": 972077680379289600,
+   "id_str": "972077680379289601",
+   "created_at": "Fri Mar 09 11:52:33 +0000 2018",
+   "text": "@SamWise24 done.\n\n^@paul_kinlan - although I submitted it, it doesn't guarantee inclusion",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971801016973889500,
+   "in_reply_to_status_id_str": "971801016973889536",
+   "in_reply_to_screen_name": "SamWise24",
+   "urls": []
+  },
+  {
+   "id": 972074183801925600,
+   "id_str": "972074183801925632",
+   "created_at": "Fri Mar 09 11:38:40 +0000 2018",
+   "text": "RT @kennethrohde: I just published “On the fly WebP decoding using WASM and a Service Worker” https://t.co/SSsOfKbQjW",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SSsOfKbQjW",
+     "expand": "https://medium.com/p/on-the-fly-webp-decoding-using-wasm-and-a-service-worker-33e519d8c21e"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972070430579273700,
+    "id_str": "972070430579273728",
+    "created_at": "Fri Mar 09 11:23:45 +0000 2018",
+    "text": "I just published “On the fly WebP decoding using WASM and a Service Worker” https://t.co/SSsOfKbQjW",
+    "retweet_count": 25,
+    "favorite_count": 79,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SSsOfKbQjW",
+      "expand": "https://medium.com/p/on-the-fly-webp-decoding-using-wasm-and-a-service-worker-33e519d8c21e"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971897400687292400,
+   "id_str": "971897400687292417",
+   "created_at": "Thu Mar 08 23:56:11 +0000 2018",
+   "text": "@zewt I'm not sure what the cutout underline thing is... can you send me screen shot or link ? ^@kosamari",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971856127179804700,
+   "in_reply_to_status_id_str": "971856127179804675",
+   "in_reply_to_screen_name": "zewt",
+   "urls": []
+  },
+  {
+   "id": 971838176930091000,
+   "id_str": "971838176930091009",
+   "created_at": "Thu Mar 08 20:00:51 +0000 2018",
+   "text": "cURL can be a helpful debugging tool &amp; DevTools can help you use it! \n\nWatch this ⚡️Supercharged Micro Tip with… https://t.co/521fbqwEBF",
+   "retweet_count": 18,
+   "favorite_count": 77,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/521fbqwEBF",
+     "expand": "https://twitter.com/i/web/status/971838176930091009"
+    }
+   ]
+  },
+  {
+   "id": 971834750179553300,
+   "id_str": "971834750179553280",
+   "created_at": "Thu Mar 08 19:47:14 +0000 2018",
+   "text": "RT @addyosmani: 📝 New! Loading Third-party JavaScript\n🕵️‍♀️ Use DevTools &amp; Lighthouse to identify costly 3P scripts\n👍 Efficiently load them…",
+   "retweet_count": 450,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971288216597917700,
+    "id_str": "971288216597917697",
+    "created_at": "Wed Mar 07 07:35:31 +0000 2018",
+    "text": "📝 New! Loading Third-party JavaScript\n🕵️‍♀️ Use DevTools &amp; Lighthouse to identify costly 3P scripts\n👍 Efficiently l… https://t.co/uNzfgUxQkW",
+    "retweet_count": 450,
+    "favorite_count": 1231,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uNzfgUxQkW",
+      "expand": "https://twitter.com/i/web/status/971288216597917697"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971754133542883300,
+   "id_str": "971754133542883328",
+   "created_at": "Thu Mar 08 14:26:54 +0000 2018",
+   "text": "@Mamboleoo Who knows, maybe you just found a super-secret ease function by accident 🙊^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971748823684079600,
+   "in_reply_to_status_id_str": "971748823684079617",
+   "in_reply_to_screen_name": "Mamboleoo",
+   "urls": []
+  },
+  {
+   "id": 971475755988406300,
+   "id_str": "971475755988406272",
+   "created_at": "Wed Mar 07 20:00:44 +0000 2018",
+   "text": "RT @v8js: 🔥 What’s new in ES2018?\n\nLet @bmeurer and @mathias walk you through major new JavaScript features: https://t.co/UdDeTbrva0 https:…",
+   "retweet_count": 351,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UdDeTbrva0",
+     "expand": "https://slidr.io/mathiasbynens/what-s-new-in-es2018"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971140318019153900,
+    "id_str": "971140318019153921",
+    "created_at": "Tue Mar 06 21:47:49 +0000 2018",
+    "text": "🔥 What’s new in ES2018?\n\nLet @bmeurer and @mathias walk you through major new JavaScript features:… https://t.co/D0i24Lar0P",
+    "retweet_count": 351,
+    "favorite_count": 780,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/D0i24Lar0P",
+      "expand": "https://twitter.com/i/web/status/971140318019153921"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971474477572939800,
+   "id_str": "971474477572939782",
+   "created_at": "Wed Mar 07 19:55:39 +0000 2018",
+   "text": "RT @arw: Do you manage TLS certs for your site? Are you using a certificate from a Symantec brand? You might need to get a new cert to avoi…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971474042879336400,
+    "id_str": "971474042879336448",
+    "created_at": "Wed Mar 07 19:53:55 +0000 2018",
+    "text": "Do you manage TLS certs for your site? Are you using a certificate from a Symantec brand? You might need to get a n… https://t.co/WJdwqSyCpN",
+    "retweet_count": 20,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WJdwqSyCpN",
+      "expand": "https://twitter.com/i/web/status/971474042879336448"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971473222519619600,
+   "id_str": "971473222519619585",
+   "created_at": "Wed Mar 07 19:50:40 +0000 2018",
+   "text": "@Igor2tall @googlechrome @Google That’s an extension that is in no way affiliated with Google or Chrome. ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971450189855719400,
+   "in_reply_to_status_id_str": "971450189855719424",
+   "in_reply_to_screen_name": "Igor2tall",
+   "urls": []
+  },
+  {
+   "id": 971164835877720000,
+   "id_str": "971164835877720067",
+   "created_at": "Tue Mar 06 23:25:14 +0000 2018",
+   "text": "Team's focus on off the main thread has spun into an ARGYLE pattern 💠\n \nMore on how to upgrade from PRPL pattern at… https://t.co/os8xFjo9BV",
+   "retweet_count": 3,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/os8xFjo9BV",
+     "expand": "https://twitter.com/i/web/status/971164835877720067"
+    }
+   ]
+  },
+  {
+   "id": 971110423184453600,
+   "id_str": "971110423184453638",
+   "created_at": "Tue Mar 06 19:49:01 +0000 2018",
+   "text": "Learn what’s #NewInChrome 65 for developers! \n\n@petele  discusses CSS Paint API, Server Timing API, &amp; CSS display:… https://t.co/UrYZ3aiI7i",
+   "retweet_count": 34,
+   "favorite_count": 101,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UrYZ3aiI7i",
+     "expand": "https://twitter.com/i/web/status/971110423184453638"
+    }
+   ]
+  },
+  {
+   "id": 971079805956276200,
+   "id_str": "971079805956276225",
+   "created_at": "Tue Mar 06 17:47:22 +0000 2018",
+   "text": "The new challenge of building for 120fps on the web\n\n@jaffathecake &amp; @DasSurma discuss on #HTTP203 here →… https://t.co/ljiNBlEaCt",
+   "retweet_count": 6,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ljiNBlEaCt",
+     "expand": "https://twitter.com/i/web/status/971079805956276225"
+    }
+   ]
+  },
+  {
+   "id": 971055902353711100,
+   "id_str": "971055902353711105",
+   "created_at": "Tue Mar 06 16:12:23 +0000 2018",
+   "text": "RT @ChromeDevTools: Coming soon in Chrome 66: The Preview tab pretty-prints minified resources by default. You can still inspect the origin…",
+   "retweet_count": 112,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971054800900165600,
+    "id_str": "971054800900165634",
+    "created_at": "Tue Mar 06 16:08:00 +0000 2018",
+    "text": "Coming soon in Chrome 66: The Preview tab pretty-prints minified resources by default. You can still inspect the or… https://t.co/dYI7mfjh3c",
+    "retweet_count": 112,
+    "favorite_count": 313,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dYI7mfjh3c",
+      "expand": "https://twitter.com/i/web/status/971054800900165634"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970750818851926000,
+   "id_str": "970750818851926017",
+   "created_at": "Mon Mar 05 20:00:05 +0000 2018",
+   "text": "How do you use C/C++ code on the web? Emscripten and WebAssembly make it possible 🤯\n\n@DasSurma can do it, and so ca… https://t.co/ASJNDNFfje",
+   "retweet_count": 64,
+   "favorite_count": 133,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ASJNDNFfje",
+     "expand": "https://twitter.com/i/web/status/970750818851926017"
+    }
+   ]
+  },
+  {
+   "id": 970732937309122600,
+   "id_str": "970732937309122560",
+   "created_at": "Mon Mar 05 18:49:02 +0000 2018",
+   "text": "RT @kaycebasques: Working sample of Puppeteer on @glitch =&gt; https://t.co/rcP7kZKrq6",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rcP7kZKrq6",
+     "expand": "https://glitch.com/edit/#!/puppeteer-example"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970730767792816100,
+    "id_str": "970730767792816128",
+    "created_at": "Mon Mar 05 18:40:25 +0000 2018",
+    "text": "Working sample of Puppeteer on @glitch =&gt; https://t.co/rcP7kZKrq6",
+    "retweet_count": 8,
+    "favorite_count": 29,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rcP7kZKrq6",
+      "expand": "https://glitch.com/edit/#!/puppeteer-example"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970315841702154200,
+   "id_str": "970315841702154242",
+   "created_at": "Sun Mar 04 15:11:38 +0000 2018",
+   "text": "This week, I traveled to SF to meet the team (and missed the winter storm in north east🌪). On my reading list are F… https://t.co/hEFzutHdHQ",
+   "retweet_count": 3,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 970312832129601500,
+   "in_reply_to_status_id_str": "970312832129601536",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/hEFzutHdHQ",
+     "expand": "https://twitter.com/i/web/status/970315841702154242"
+    }
+   ]
+  },
+  {
+   "id": 970312832129601500,
+   "id_str": "970312832129601536",
+   "created_at": "Sun Mar 04 14:59:41 +0000 2018",
+   "text": "Speaking of documentation, what's your favorite coding tutorials ? Tell us more, we want to know how we can do bett… https://t.co/B7gyNQDjoL",
+   "retweet_count": 4,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 970311645116485600,
+   "in_reply_to_status_id_str": "970311645116485635",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/B7gyNQDjoL",
+     "expand": "https://twitter.com/i/web/status/970312832129601536"
+    }
+   ]
+  },
+  {
+   "id": 970311645116485600,
+   "id_str": "970311645116485635",
+   "created_at": "Sun Mar 04 14:54:58 +0000 2018",
+   "text": "This week, we enjoyed reading about “Componentizing” documentation by @katetechwriter 🎊\nhttps://t.co/RRDH5UlbFV",
+   "retweet_count": 4,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 970310475387998200,
+   "in_reply_to_status_id_str": "970310475387998208",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/RRDH5UlbFV",
+     "expand": "https://medium.com/@katejeffreys/componentizing-documentation-86b1d344430e"
+    }
+   ]
+  },
+  {
+   "id": 970310475387998200,
+   "id_str": "970310475387998208",
+   "created_at": "Sun Mar 04 14:50:19 +0000 2018",
+   "text": "Itching to know more about new features coming to @ChromeDevTools ??\nRead what's coming to Chrome 66 by… https://t.co/sUHWsUv4n1",
+   "retweet_count": 3,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 970310128841973800,
+   "in_reply_to_status_id_str": "970310128841973762",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/sUHWsUv4n1",
+     "expand": "https://twitter.com/i/web/status/970310475387998208"
+    }
+   ]
+  },
+  {
+   "id": 970310128841973800,
+   "id_str": "970310128841973762",
+   "created_at": "Sun Mar 04 14:48:56 +0000 2018",
+   "text": "Variable fonts are here ! read the guide by @Mustafa_x on what it is, how to use them and the performance gain ! ✨\nhttps://t.co/RpREmK1GtF",
+   "retweet_count": 5,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": 970309691812216800,
+   "in_reply_to_status_id_str": "970309691812216832",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/RpREmK1GtF",
+     "expand": "https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts/"
+    }
+   ]
+  },
+  {
+   "id": 970309691812216800,
+   "id_str": "970309691812216832",
+   "created_at": "Sun Mar 04 14:47:12 +0000 2018",
+   "text": "🆕 Guide ! \"How To Think About Speed Tools\" show you different performance tools and when to use them ! \nhttps://t.co/GlZZlTQd4R",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 970309089094983700,
+   "in_reply_to_status_id_str": "970309089094983682",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/GlZZlTQd4R",
+     "expand": "https://developers.google.com/web/fundamentals/performance/speed-tools/"
+    }
+   ]
+  },
+  {
+   "id": 970309089094983700,
+   "id_str": "970309089094983682",
+   "created_at": "Sun Mar 04 14:44:48 +0000 2018",
+   "text": "Wrap up weekend edition ☕️\n\nThank you all who came out to PWA Roadshow London ☺︎! \nMissed it? not to worry ! we are… https://t.co/ILb94sghJ2",
+   "retweet_count": 15,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ILb94sghJ2",
+     "expand": "https://twitter.com/i/web/status/970309089094983682"
+    }
+   ]
+  },
+  {
+   "id": 969675469976162300,
+   "id_str": "969675469976162304",
+   "created_at": "Fri Mar 02 20:47:02 +0000 2018",
+   "text": "Local Overrides, new accessibility tools, reliable code stepping &amp; more!\n\nCheck out the what’s new in… https://t.co/eJ6TUbtFLO",
+   "retweet_count": 68,
+   "favorite_count": 153,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eJ6TUbtFLO",
+     "expand": "https://twitter.com/i/web/status/969675469976162304"
+    }
+   ]
+  },
+  {
+   "id": 969378888395747300,
+   "id_str": "969378888395747328",
+   "created_at": "Fri Mar 02 01:08:31 +0000 2018",
+   "text": "That’s a wrap on the #PWA Roadshow! Check out the final video for more capabilities on the web platform.\n\nWatch… https://t.co/RP7KF0RQkM",
+   "retweet_count": 5,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RP7KF0RQkM",
+     "expand": "https://twitter.com/i/web/status/969378888395747328"
+    }
+   ]
+  },
+  {
+   "id": 969316605246296000,
+   "id_str": "969316605246296068",
+   "created_at": "Thu Mar 01 21:01:02 +0000 2018",
+   "text": "RT @bbrewer: NYC-area #webperf folks, I wouldn't miss this if I were you... Chrome UX Report is an awesome resource. https://t.co/sOxpUFEQiR",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/sOxpUFEQiR",
+     "expand": "https://twitter.com/nywebperf/status/968346216227659776"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969026469669232600,
+    "id_str": "969026469669232640",
+    "created_at": "Thu Mar 01 01:48:08 +0000 2018",
+    "text": "NYC-area #webperf folks, I wouldn't miss this if I were you... Chrome UX Report is an awesome resource. https://t.co/sOxpUFEQiR",
+    "retweet_count": 4,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/sOxpUFEQiR",
+      "expand": "https://twitter.com/nywebperf/status/968346216227659776"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969314874625990700,
+   "id_str": "969314874625990656",
+   "created_at": "Thu Mar 01 20:54:09 +0000 2018",
+   "text": "⚡️Supercharged CommitLog: Loading CSS — Split your CSS to make your page load incredibly fast! \n\n📺 @DasSurma explai… https://t.co/ZAs8A5xGXt",
+   "retweet_count": 34,
+   "favorite_count": 106,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZAs8A5xGXt",
+     "expand": "https://twitter.com/i/web/status/969314874625990656"
+    }
+   ]
+  },
+  {
+   "id": 969312088609845200,
+   "id_str": "969312088609845248",
+   "created_at": "Thu Mar 01 20:43:05 +0000 2018",
+   "text": "RT @igrigorik: So many perf tools and metrics, which one should you use and when?\n\nGood news, we just published a new guide to help you @ h…",
+   "retweet_count": 108,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969311616641654800,
+    "id_str": "969311616641654784",
+    "created_at": "Thu Mar 01 20:41:13 +0000 2018",
+    "text": "So many perf tools and metrics, which one should you use and when?\n\nGood news, we just published a new guide to hel… https://t.co/ibkwqQlWov",
+    "retweet_count": 108,
+    "favorite_count": 335,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ibkwqQlWov",
+      "expand": "https://twitter.com/i/web/status/969311616641654784"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969254907982307300,
+   "id_str": "969254907982307330",
+   "created_at": "Thu Mar 01 16:55:52 +0000 2018",
+   "text": "RT @v8js: 🎉 Debugging memory leaks using @ChromeDevTools just became much easier!\n \nFind out what’s new: https://t.co/AKdWAXCNui https://t.…",
+   "retweet_count": 325,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/AKdWAXCNui",
+     "expand": "https://v8project.blogspot.com/2018/03/tracing-js-dom.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969184997545562100,
+    "id_str": "969184997545562112",
+    "created_at": "Thu Mar 01 12:18:04 +0000 2018",
+    "text": "🎉 Debugging memory leaks using @ChromeDevTools just became much easier!\n \nFind out what’s new:… https://t.co/2NnjNDaIdf",
+    "retweet_count": 325,
+    "favorite_count": 738,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2NnjNDaIdf",
+      "expand": "https://twitter.com/i/web/status/969184997545562112"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969244172602433500,
+   "id_str": "969244172602433536",
+   "created_at": "Thu Mar 01 16:13:13 +0000 2018",
+   "text": "RT @JohnHughes1984: “Ok Google…”\n\n“…tell me what you know about PWAs”\n\nhttps://t.co/7b4rFuEHSz\n\n#PwaRoadshow #Magento #PwaStudio https://t.…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7b4rFuEHSz",
+     "expand": "https://events.withgoogle.com/pwa-roadshow-london/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969143987654275100,
+    "id_str": "969143987654275073",
+    "created_at": "Thu Mar 01 09:35:07 +0000 2018",
+    "text": "“Ok Google…”\n\n“…tell me what you know about PWAs”\n\nhttps://t.co/7b4rFuEHSz\n\n#PwaRoadshow #Magento #PwaStudio https://t.co/ni9Spl1veT",
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "place": "Islington, London",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7b4rFuEHSz",
+      "expand": "https://events.withgoogle.com/pwa-roadshow-london/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969237271760252900,
+   "id_str": "969237271760252928",
+   "created_at": "Thu Mar 01 15:45:47 +0000 2018",
+   "text": "⚠️Serving audio/video in cross-origin iframes? Please use \"allow=autoplay\" to delegate the autoplay permission or a… https://t.co/Sjezj1nuUN",
+   "retweet_count": 17,
+   "favorite_count": 61,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Sjezj1nuUN",
+     "expand": "https://twitter.com/i/web/status/969237271760252928"
+    }
+   ]
+  },
+  {
+   "id": 969194628187672600,
+   "id_str": "969194628187672576",
+   "created_at": "Thu Mar 01 12:56:20 +0000 2018",
+   "text": "Learn how https://t.co/hsXptz20ME decreased their average page load time by 3.8× by developing their new PWA. https://t.co/oZGxyMEVDa",
+   "retweet_count": 11,
+   "favorite_count": 46,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hsXptz20ME",
+     "expand": "https://www.george.com/"
+    },
+    {
+     "url": "https://t.co/oZGxyMEVDa",
+     "expand": "https://developers.google.com/web/showcase/2018/asda-george"
+    }
+   ]
+  },
+  {
+   "id": 969167833040064500,
+   "id_str": "969167833040064512",
+   "created_at": "Thu Mar 01 11:09:52 +0000 2018",
+   "text": "Want to learn about variable fonts? This introduction by @Mustafa_x will teach you the basics;… https://t.co/9mEoMIUpVK",
+   "retweet_count": 11,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9mEoMIUpVK",
+     "expand": "https://twitter.com/i/web/status/969167833040064512"
+    }
+   ]
+  },
+  {
+   "id": 968977326229901300,
+   "id_str": "968977326229901312",
+   "created_at": "Wed Feb 28 22:32:51 +0000 2018",
+   "text": "Watch how to combine the best of Progressive Web Apps with AMP to create experiences that start fast, and stay fast… https://t.co/R5FEqlPDX0",
+   "retweet_count": 14,
+   "favorite_count": 47,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/R5FEqlPDX0",
+     "expand": "https://twitter.com/i/web/status/968977326229901312"
+    }
+   ]
+  },
+  {
+   "id": 968874843218169900,
+   "id_str": "968874843218169856",
+   "created_at": "Wed Feb 28 15:45:38 +0000 2018",
+   "text": "RT @rowan_m: Ready for the PWA Road- #snowLondon tomorrow? I'm enjoying an afternoon in the garden, sipping tea, and reviewing slides. See…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968864522227286000,
+    "id_str": "968864522227286016",
+    "created_at": "Wed Feb 28 15:04:37 +0000 2018",
+    "text": "Ready for the PWA Road- #snowLondon tomorrow? I'm enjoying an afternoon in the garden, sipping tea, and reviewing s… https://t.co/FMoN0Q1Znw",
+    "retweet_count": 9,
+    "favorite_count": 41,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FMoN0Q1Znw",
+      "expand": "https://twitter.com/i/web/status/968864522227286016"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968819341780246500,
+   "id_str": "968819341780246528",
+   "created_at": "Wed Feb 28 12:05:05 +0000 2018",
+   "text": "@netSemplice Please report all bugs and issues at https://t.co/4V252loiQG :) ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968814348159389700,
+   "in_reply_to_status_id_str": "968814348159389696",
+   "in_reply_to_screen_name": "netSemplice",
+   "urls": [
+    {
+     "url": "https://t.co/4V252loiQG",
+     "expand": "http://crbug.com/new"
+    }
+   ]
+  },
+  {
+   "id": 968801343283564500,
+   "id_str": "968801343283564544",
+   "created_at": "Wed Feb 28 10:53:34 +0000 2018",
+   "text": "@mikewest @jaffathecake @0x6D6172696F DevRel Mike West is best Mike West",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 968509871195697200,
+   "in_reply_to_status_id_str": "968509871195697152",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 968795849198309400,
+   "id_str": "968795849198309376",
+   "created_at": "Wed Feb 28 10:31:44 +0000 2018",
+   "text": "@dannycallaghan cc @rowan_m ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968791405245104100,
+   "in_reply_to_status_id_str": "968791405245104128",
+   "in_reply_to_screen_name": "dannycallaghan",
+   "urls": []
+  },
+  {
+   "id": 968795515218473000,
+   "id_str": "968795515218472961",
+   "created_at": "Wed Feb 28 10:30:24 +0000 2018",
+   "text": "@Kebbe10 I can’t follow. What kind of assumptions are being made here? ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968750150838517800,
+   "in_reply_to_status_id_str": "968750150838517760",
+   "in_reply_to_screen_name": "Kebbe10",
+   "urls": []
+  },
+  {
+   "id": 968794480831881200,
+   "id_str": "968794480831881216",
+   "created_at": "Wed Feb 28 10:26:18 +0000 2018",
+   "text": "@mischmerz @TimLuq @kosamari @DasSurma I think in this case it’s important to note that Chrome is an _internet_ bro… https://t.co/n8Mk49II3N",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968771036522143700,
+   "in_reply_to_status_id_str": "968771036522143744",
+   "in_reply_to_screen_name": "mischmerz",
+   "urls": [
+    {
+     "url": "https://t.co/n8Mk49II3N",
+     "expand": "https://twitter.com/i/web/status/968794480831881216"
+    }
+   ]
+  },
+  {
+   "id": 968716200275562500,
+   "id_str": "968716200275562496",
+   "created_at": "Wed Feb 28 05:15:14 +0000 2018",
+   "text": "RT @bgalbs: Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive it forward.…",
+   "retweet_count": 103,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968714821628780500,
+    "id_str": "968714821628780544",
+    "created_at": "Wed Feb 28 05:09:45 +0000 2018",
+    "text": "Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive… https://t.co/uaqiVrXU1y",
+    "retweet_count": 103,
+    "favorite_count": 266,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uaqiVrXU1y",
+      "expand": "https://twitter.com/i/web/status/968714821628780544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968609195946856400,
+   "id_str": "968609195946856448",
+   "created_at": "Tue Feb 27 22:10:02 +0000 2018",
+   "text": "Learn how you can use the Audit panel in Chrome DevTools 🛠 to figure out the best places to focus your efforts and… https://t.co/JQGMMiDF0V",
+   "retweet_count": 20,
+   "favorite_count": 58,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JQGMMiDF0V",
+     "expand": "https://twitter.com/i/web/status/968609195946856448"
+    }
+   ]
+  },
+  {
+   "id": 968542350296350700,
+   "id_str": "968542350296350721",
+   "created_at": "Tue Feb 27 17:44:25 +0000 2018",
+   "text": "On a scale of zero to “eye-bad”: What's some of the worst flicker you've seen on the web? 👀💻@DasSurma &amp;… https://t.co/tWLyBg9lou",
+   "retweet_count": 7,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tWLyBg9lou",
+     "expand": "https://twitter.com/i/web/status/968542350296350721"
+    }
+   ]
+  },
+  {
+   "id": 968541969239732200,
+   "id_str": "968541969239732224",
+   "created_at": "Tue Feb 27 17:42:54 +0000 2018",
+   "text": "@mischmerz @kosamari @DasSurma Re root certs: That’s done via the OS, so wether “it’s hard” or not depends on the O… https://t.co/MqFXPPZOdW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968541735260389400,
+   "in_reply_to_status_id_str": "968541735260389377",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/MqFXPPZOdW",
+     "expand": "https://twitter.com/i/web/status/968541969239732224"
+    }
+   ]
+  },
+  {
+   "id": 968541735260389400,
+   "id_str": "968541735260389377",
+   "created_at": "Tue Feb 27 17:41:58 +0000 2018",
+   "text": "@mischmerz @kosamari No single entity owns local domains, so no CA hands hand out certificates for local domains. A… https://t.co/nKYn9E1ywL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968511990334451700,
+   "in_reply_to_status_id_str": "968511990334451712",
+   "in_reply_to_screen_name": "mischmerz",
+   "urls": [
+    {
+     "url": "https://t.co/nKYn9E1ywL",
+     "expand": "https://twitter.com/i/web/status/968541735260389377"
+    }
+   ]
+  },
+  {
+   "id": 968528785615106000,
+   "id_str": "968528785615106048",
+   "created_at": "Tue Feb 27 16:50:31 +0000 2018",
+   "text": "RT @Paul_Kinlan: Quick side project: domcurl - attempts to mimic curl, but will JS on the page and return the DOM. Would love feedback and…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967896706489528300,
+    "id_str": "967896706489528320",
+    "created_at": "Sun Feb 25 22:58:52 +0000 2018",
+    "text": "Quick side project: domcurl - attempts to mimic curl, but will JS on the page and return the DOM. Would love feedba… https://t.co/zsrMGcnG2a",
+    "retweet_count": 15,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zsrMGcnG2a",
+      "expand": "https://twitter.com/i/web/status/967896706489528320"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968526327845347300,
+   "id_str": "968526327845347328",
+   "created_at": "Tue Feb 27 16:40:45 +0000 2018",
+   "text": "RT @philwalton: 🔥 New article and demos! Responsive Components: a modern approach to styling elements based on the size of their container.…",
+   "retweet_count": 458,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968418642613346300,
+    "id_str": "968418642613346306",
+    "created_at": "Tue Feb 27 09:32:51 +0000 2018",
+    "text": "🔥 New article and demos! Responsive Components: a modern approach to styling elements based on the size of their co… https://t.co/k8kG5FYObq",
+    "retweet_count": 458,
+    "favorite_count": 1617,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/k8kG5FYObq",
+      "expand": "https://twitter.com/i/web/status/968418642613346306"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968525275532206100,
+   "id_str": "968525275532206080",
+   "created_at": "Tue Feb 27 16:36:34 +0000 2018",
+   "text": "RT @JoubranJad: A web experiment using web workers: Running fetch off the main thread 🔧\nhttps://t.co/7iu7jRpQIP\n#javascript",
+   "retweet_count": 36,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7iu7jRpQIP",
+     "expand": "https://medium.com/@JoubranJad/running-fetch-in-a-web-worker-700dc33ac854"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968421944319201300,
+    "id_str": "968421944319201281",
+    "created_at": "Tue Feb 27 09:45:58 +0000 2018",
+    "text": "A web experiment using web workers: Running fetch off the main thread 🔧\nhttps://t.co/7iu7jRpQIP\n#javascript",
+    "retweet_count": 36,
+    "favorite_count": 104,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7iu7jRpQIP",
+      "expand": "https://medium.com/@JoubranJad/running-fetch-in-a-web-worker-700dc33ac854"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968473733697560600,
+   "id_str": "968473733697560581",
+   "created_at": "Tue Feb 27 13:11:46 +0000 2018",
+   "text": "Checkout our introduction to variable fonts by @Mustafa_x\nhttps://t.co/RpREmK1GtF\n\nSpecial thanks to\n@dberlow,… https://t.co/QRlD9Lik9q",
+   "retweet_count": 37,
+   "favorite_count": 112,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RpREmK1GtF",
+     "expand": "https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts/"
+    },
+    {
+     "url": "https://t.co/QRlD9Lik9q",
+     "expand": "https://twitter.com/i/web/status/968473733697560581"
+    }
+   ]
+  },
+  {
+   "id": 968295373952479200,
+   "id_str": "968295373952479232",
+   "created_at": "Tue Feb 27 01:23:01 +0000 2018",
+   "text": "Learn why HTTPS is important, what it means to properly use HTTPS, and how you can ensure you’re offering the best… https://t.co/Vl7NtuiXjB",
+   "retweet_count": 63,
+   "favorite_count": 152,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Vl7NtuiXjB",
+     "expand": "https://twitter.com/i/web/status/968295373952479232"
+    }
+   ]
+  },
+  {
+   "id": 968238901046341600,
+   "id_str": "968238901046341637",
+   "created_at": "Mon Feb 26 21:38:37 +0000 2018",
+   "text": "Puppeteer and headless Chrome for bundle performance testing... ^@ebidel https://t.co/FQk0PiaW0I",
+   "retweet_count": 34,
+   "favorite_count": 150,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FQk0PiaW0I",
+     "expand": "https://twitter.com/ebidel/status/968237641857605632"
+    }
+   ]
+  },
+  {
+   "id": 968214765087604700,
+   "id_str": "968214765087604736",
+   "created_at": "Mon Feb 26 20:02:43 +0000 2018",
+   "text": "RT @addyosmani: .@ChromeDevTools supports top-level await in the console! Useful for local experiments without using async functions. https…",
+   "retweet_count": 840,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967662951531388900,
+    "id_str": "967662951531388928",
+    "created_at": "Sun Feb 25 07:30:00 +0000 2018",
+    "text": ".@ChromeDevTools supports top-level await in the console! Useful for local experiments without using async function… https://t.co/ZxKqAfM01j",
+    "retweet_count": 840,
+    "favorite_count": 2194,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZxKqAfM01j",
+      "expand": "https://twitter.com/i/web/status/967662951531388928"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968185882355236900,
+   "id_str": "968185882355236867",
+   "created_at": "Mon Feb 26 18:07:57 +0000 2018",
+   "text": "RT @igrigorik: Want to know how your site stacks up against the competition, as experienced by real-world users? Check out the new Speed Sc…",
+   "retweet_count": 178,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968182290256822300,
+    "id_str": "968182290256822272",
+    "created_at": "Mon Feb 26 17:53:40 +0000 2018",
+    "text": "Want to know how your site stacks up against the competition, as experienced by real-world users? Check out the new… https://t.co/zYTqrKMvul",
+    "retweet_count": 178,
+    "favorite_count": 418,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zYTqrKMvul",
+      "expand": "https://twitter.com/i/web/status/968182290256822272"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968140721420030000,
+   "id_str": "968140721420029952",
+   "created_at": "Mon Feb 26 15:08:29 +0000 2018",
+   "text": "RT @robertnyman: We're doing PWA Roadshows in Munich Mar 8th and Paris Mar 13th. We have some extra seats, so if you can attend, I highly r…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968097327004246000,
+    "id_str": "968097327004246018",
+    "created_at": "Mon Feb 26 12:16:03 +0000 2018",
+    "text": "We're doing PWA Roadshows in Munich Mar 8th and Paris Mar 13th. We have some extra seats, so if you can attend, I h… https://t.co/oF0IUb4hqU",
+    "retweet_count": 21,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oF0IUb4hqU",
+      "expand": "https://twitter.com/i/web/status/968097327004246018"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968088559432405000,
+   "id_str": "968088559432404992",
+   "created_at": "Mon Feb 26 11:41:13 +0000 2018",
+   "text": "@NeoTechni @firefox This only works if the value of the password field is reflected to the `value` attribute, which… https://t.co/omEfnUm73k",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968029904779563000,
+   "in_reply_to_status_id_str": "968029904779563008",
+   "in_reply_to_screen_name": "NeoTechni",
+   "urls": [
+    {
+     "url": "https://t.co/omEfnUm73k",
+     "expand": "https://twitter.com/i/web/status/968088559432404992"
+    }
+   ]
+  },
+  {
+   "id": 968086521717936100,
+   "id_str": "968086521717936128",
+   "created_at": "Mon Feb 26 11:33:07 +0000 2018",
+   "text": "@schweinepriestr @ChromeDevTools It’s... BEAUTIFUL 😍\n\n(Srs tho, can you open a bug on https://t.co/4V252loiQG?)\n\n^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968083320264380400,
+   "in_reply_to_status_id_str": "968083320264380421",
+   "in_reply_to_screen_name": "schweinepriestr",
+   "urls": [
+    {
+     "url": "https://t.co/4V252loiQG",
+     "expand": "http://crbug.com/new"
+    }
+   ]
+  },
+  {
+   "id": 967843177024708600,
+   "id_str": "967843177024708609",
+   "created_at": "Sun Feb 25 19:26:09 +0000 2018",
+   "text": "@MatteoWebDesign If the banner is not your desired UX you can catch the banner and build a dialog yourself. \n\nSee:… https://t.co/Z9JFtYPmrv",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967833533443174400,
+   "in_reply_to_status_id_str": "967833533443174400",
+   "in_reply_to_screen_name": "MatteoWebDesign",
+   "urls": [
+    {
+     "url": "https://t.co/Z9JFtYPmrv",
+     "expand": "https://twitter.com/i/web/status/967843177024708609"
+    }
+   ]
+  },
+  {
+   "id": 967810019285721100,
+   "id_str": "967810019285721088",
+   "created_at": "Sun Feb 25 17:14:24 +0000 2018",
+   "text": "@getify Definitely confusing wording! Would you mind opening a bug on https://t.co/4V252loiQG? ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 967163889313091600,
+   "in_reply_to_status_id_str": "967163889313091584",
+   "in_reply_to_screen_name": "getify",
+   "urls": [
+    {
+     "url": "https://t.co/4V252loiQG",
+     "expand": "http://crbug.com/new"
+    }
+   ]
+  },
+  {
+   "id": 967799569068314600,
+   "id_str": "967799569068314625",
+   "created_at": "Sun Feb 25 16:32:52 +0000 2018",
+   "text": "@sarat What would you rather see here? ^@DasSurma",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967731905956274200,
+   "in_reply_to_status_id_str": "967731905956274176",
+   "in_reply_to_screen_name": "sarat",
+   "urls": []
+  },
+  {
+   "id": 967202543880241200,
+   "id_str": "967202543880241152",
+   "created_at": "Sat Feb 24 01:00:30 +0000 2018",
+   "text": "Learn how to create engaging UX &amp; notifications using Web Push to bring users back to your app, turning them into r… https://t.co/ClD4V3r71k",
+   "retweet_count": 16,
+   "favorite_count": 49,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ClD4V3r71k",
+     "expand": "https://twitter.com/i/web/status/967202543880241152"
+    }
+   ]
+  },
+  {
+   "id": 967118527323877400,
+   "id_str": "967118527323877377",
+   "created_at": "Fri Feb 23 19:26:39 +0000 2018",
+   "text": "That's it for the week💁\nI got to revisit one of my 1st web project this week (it's a monster index.html with JS/CSS… https://t.co/L6XA5bJ86m",
+   "retweet_count": 8,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 967113318258397200,
+   "in_reply_to_status_id_str": "967113318258397184",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/L6XA5bJ86m",
+     "expand": "https://twitter.com/i/web/status/967118527323877377"
+    }
+   ]
+  },
+  {
+   "id": 967113318258397200,
+   "id_str": "967113318258397184",
+   "created_at": "Fri Feb 23 19:05:57 +0000 2018",
+   "text": "@mathias @v8js @DasSurma We can't visit as many regions and cities to as we like for Progressive Web App Roadshow😢… https://t.co/EyRwRwQEjv",
+   "retweet_count": 7,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": 967111089921110000,
+   "in_reply_to_status_id_str": "967111089921110016",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/EyRwRwQEjv",
+     "expand": "https://twitter.com/i/web/status/967113318258397184"
+    }
+   ]
+  },
+  {
+   "id": 967111089921110000,
+   "id_str": "967111089921110016",
+   "created_at": "Fri Feb 23 18:57:06 +0000 2018",
+   "text": "@mathias @v8js Did you know GoogleChromeLabs is where we keep experimental projects and idea prototypes?⚡️ \n\n🆕new o… https://t.co/32p4UDKPei",
+   "retweet_count": 5,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 967110186090549200,
+   "in_reply_to_status_id_str": "967110186090549249",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/32p4UDKPei",
+     "expand": "https://twitter.com/i/web/status/967111089921110016"
+    }
+   ]
+  },
+  {
+   "id": 967110186090549200,
+   "id_str": "967110186090549249",
+   "created_at": "Fri Feb 23 18:53:31 +0000 2018",
+   "text": "Our colleague @mathias hosted Ask Me Anything, and answered questions about JavaScript, @v8js, TC39, performance, s… https://t.co/M7yVjiU7np",
+   "retweet_count": 5,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": 967109759743725600,
+   "in_reply_to_status_id_str": "967109759743725569",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/M7yVjiU7np",
+     "expand": "https://twitter.com/i/web/status/967110186090549249"
+    }
+   ]
+  },
+  {
+   "id": 967109759743725600,
+   "id_str": "967109759743725569",
+   "created_at": "Fri Feb 23 18:51:49 +0000 2018",
+   "text": "🔦🏠 update ! \n@____lighthouse 2.8 is out and new audits were added. Check for new additions and updates to keep your… https://t.co/Bd3AkXQ8uJ",
+   "retweet_count": 8,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 967108694658945000,
+   "in_reply_to_status_id_str": "967108694658945025",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/Bd3AkXQ8uJ",
+     "expand": "https://twitter.com/i/web/status/967109759743725569"
+    }
+   ]
+  },
+  {
+   "id": 967108694658945000,
+   "id_str": "967108694658945025",
+   "created_at": "Fri Feb 23 18:47:35 +0000 2018",
+   "text": "The week has come and gone 🍃\nIt's getting closer to Europe Progressive Web Apps Roadshow 🚌\n\nRegister for \nLondon:… https://t.co/h2uyS71SW8",
+   "retweet_count": 7,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/h2uyS71SW8",
+     "expand": "https://twitter.com/i/web/status/967108694658945025"
+    }
+   ]
+  },
+  {
+   "id": 966800777338671100,
+   "id_str": "966800777338671105",
+   "created_at": "Thu Feb 22 22:24:02 +0000 2018",
+   "text": "Progressive Web Apps need to load instantly and reliably, hopefully never showing the downasaur 🦖 Learn how you can… https://t.co/6LuPhcUZDJ",
+   "retweet_count": 28,
+   "favorite_count": 106,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6LuPhcUZDJ",
+     "expand": "https://twitter.com/i/web/status/966800777338671105"
     }
    ]
   }

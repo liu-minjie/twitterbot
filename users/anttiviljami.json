@@ -1,636 +1,126 @@
 {
- "time": 1519367434085,
+ "time": 1522595208817,
  "lists": [
   {
-   "id": 966734034083762200,
-   "id_str": "966734034083762177",
-   "created_at": "Thu Feb 22 17:58:49 +0000 2018",
-   "text": "RT @jordanbpeterson: Crucially important... https://t.co/DNbe7LzoJn",
-   "retweet_count": 91,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/DNbe7LzoJn",
-     "expand": "https://twitter.com/johanknorberg/status/966278847103725568"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966731733595914200,
-    "id_str": "966731733595914240",
-    "created_at": "Thu Feb 22 17:49:40 +0000 2018",
-    "text": "Crucially important... https://t.co/DNbe7LzoJn",
-    "retweet_count": 91,
-    "favorite_count": 310,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/DNbe7LzoJn",
-      "expand": "https://twitter.com/johanknorberg/status/966278847103725568"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966698820976496600,
-   "id_str": "966698820976496640",
-   "created_at": "Thu Feb 22 15:38:53 +0000 2018",
-   "text": "RT @mironieminen: Stumbled again into this gold nugget about @futurice's culture: \"Seeking permission, or feedback?\" https://t.co/abW3EfFgV…",
-   "retweet_count": 7,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966324774065573900,
-    "id_str": "966324774065573888",
-    "created_at": "Wed Feb 21 14:52:34 +0000 2018",
-    "text": "Stumbled again into this gold nugget about @futurice's culture: \"Seeking permission, or feedback?\"… https://t.co/ZARxwwI7cA",
-    "retweet_count": 7,
-    "favorite_count": 14,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ZARxwwI7cA",
-      "expand": "https://twitter.com/i/web/status/966324774065573888"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966656964854992900,
-   "id_str": "966656964854992896",
-   "created_at": "Thu Feb 22 12:52:34 +0000 2018",
-   "text": "@erkka @katleena @THUotila Ajatus aseistetuista opettajista ei sinänsä ole kiva. Ehkä vasta siinä vaiheessa olisin… https://t.co/0epcTv0eFy",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Helsinki, Suomi",
-   "in_reply_to_status_id": 966640280853246000,
-   "in_reply_to_status_id_str": "966640280853245952",
-   "in_reply_to_screen_name": "erkka",
-   "urls": [
-    {
-     "url": "https://t.co/0epcTv0eFy",
-     "expand": "https://twitter.com/i/web/status/966656964854992896"
-    }
-   ]
-  },
-  {
-   "id": 966587100031275000,
-   "id_str": "966587100031275008",
-   "created_at": "Thu Feb 22 08:14:57 +0000 2018",
-   "text": "@TommiPaakko @katleena @THUotila Sekin tuntuu melko lyhytnäköiseltä ratkaisulta jos muut aseet edelleen laillisia...",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Helsinki, Suomi",
-   "in_reply_to_status_id": 966586846686965800,
-   "in_reply_to_status_id_str": "966586846686965760",
-   "in_reply_to_screen_name": "anttiviljami",
-   "urls": []
-  },
-  {
-   "id": 966586846686965800,
-   "id_str": "966586846686965760",
-   "created_at": "Thu Feb 22 08:13:57 +0000 2018",
-   "text": "@TommiPaakko @katleena @THUotila Juuri näin. Kansa haluaisi bannata tiedottimien mukaan nimenomaisen asetyypin jota… https://t.co/5k9oLdQRrE",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Helsinki, Suomi",
-   "in_reply_to_status_id": 966584807839985700,
-   "in_reply_to_status_id_str": "966584807839985665",
-   "in_reply_to_screen_name": "TommiPaakko",
-   "urls": [
-    {
-     "url": "https://t.co/5k9oLdQRrE",
-     "expand": "https://twitter.com/i/web/status/966586846686965760"
-    }
-   ]
-  },
-  {
-   "id": 966584076823093200,
-   "id_str": "966584076823093248",
-   "created_at": "Thu Feb 22 08:02:56 +0000 2018",
-   "text": "@katleena @THUotila No sitähän me ei tiedetä. Ehdotus on vasta asteella ”we are looking into this option”",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Helsinki, Suomi",
-   "in_reply_to_status_id": 966583658940391400,
-   "in_reply_to_status_id_str": "966583658940391424",
-   "in_reply_to_screen_name": "katleena",
-   "urls": []
-  },
-  {
-   "id": 966583879657316400,
-   "id_str": "966583879657316352",
-   "created_at": "Thu Feb 22 08:02:09 +0000 2018",
-   "text": "@TommiPaakko @katleena @THUotila Samaa mieltä. Tää tuntuu todella lyhytnäköiseltä ratkaisulta. Tietty pitää ymmärtä… https://t.co/ESTYrlSVAL",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": "Helsinki, Suomi",
-   "in_reply_to_status_id": 966581679698694100,
-   "in_reply_to_status_id_str": "966581679698694144",
-   "in_reply_to_screen_name": "TommiPaakko",
-   "urls": [
-    {
-     "url": "https://t.co/ESTYrlSVAL",
-     "expand": "https://twitter.com/i/web/status/966583879657316352"
-    }
-   ]
-  },
-  {
-   "id": 966580030364143600,
-   "id_str": "966580030364143616",
-   "created_at": "Thu Feb 22 07:46:52 +0000 2018",
-   "text": "@katleena @THUotila Mun pointti on se että kukaan ei oo ehdottamassa lisää aseita julkisille paikoille ilman riittä… https://t.co/6QSiGG65f5",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Helsinki, Suomi",
-   "in_reply_to_status_id": 966578281406484500,
-   "in_reply_to_status_id_str": "966578281406484481",
-   "in_reply_to_screen_name": "katleena",
-   "urls": [
-    {
-     "url": "https://t.co/6QSiGG65f5",
-     "expand": "https://twitter.com/i/web/status/966580030364143616"
-    }
-   ]
-  },
-  {
-   "id": 966576615579963400,
-   "id_str": "966576615579963392",
-   "created_at": "Thu Feb 22 07:33:17 +0000 2018",
-   "text": "@katleena @THUotila Hyväksyisit varmaan myös sen että opettajille annetaan mahdollisuus kouluttautua ja harjoitella… https://t.co/bSDxaIbDmF",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Vantaa, Suomi",
-   "in_reply_to_status_id": 966575992868352000,
-   "in_reply_to_status_id_str": "966575992868352000",
-   "in_reply_to_screen_name": "katleena",
-   "urls": [
-    {
-     "url": "https://t.co/bSDxaIbDmF",
-     "expand": "https://twitter.com/i/web/status/966576615579963392"
-    }
-   ]
-  },
-  {
-   "id": 966575397784768500,
-   "id_str": "966575397784768512",
-   "created_at": "Thu Feb 22 07:28:27 +0000 2018",
-   "text": "@katleena @THUotila Sanoisin että todella korkealla todennäköisyydellä. Itse olisin aika paljon mielummin ammuntati… https://t.co/ntVjD3cgEK",
-   "retweet_count": 0,
-   "favorite_count": 15,
-   "place": "Kerava, Suomi",
-   "in_reply_to_status_id": 966574543501451300,
-   "in_reply_to_status_id_str": "966574543501451264",
-   "in_reply_to_screen_name": "katleena",
-   "urls": [
-    {
-     "url": "https://t.co/ntVjD3cgEK",
-     "expand": "https://twitter.com/i/web/status/966575397784768512"
-    }
-   ]
-  },
-  {
-   "id": 966572408059637800,
-   "id_str": "966572408059637760",
-   "created_at": "Thu Feb 22 07:16:34 +0000 2018",
-   "text": "@katleena @THUotila Isoin efekti tuossa olisi varmasti se että koulut eivät enää olisi ns. gun-free zoneja, johon h… https://t.co/AScL6RmWyv",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": "Tuusula, Suomi",
-   "in_reply_to_status_id": 966572016190083100,
-   "in_reply_to_status_id_str": "966572016190083072",
-   "in_reply_to_screen_name": "anttiviljami",
-   "urls": [
-    {
-     "url": "https://t.co/AScL6RmWyv",
-     "expand": "https://twitter.com/i/web/status/966572408059637760"
-    }
-   ]
-  },
-  {
-   "id": 966572016190083100,
-   "id_str": "966572016190083072",
-   "created_at": "Thu Feb 22 07:15:01 +0000 2018",
-   "text": "@katleena @THUotila Vaikuttaa siltä että ymmärsit Trumpin ehdottaneen aseiden pakkojakamista kaikille opettajille.… https://t.co/TxwAGNXPqk",
-   "retweet_count": 0,
-   "favorite_count": 10,
-   "place": "Hyvinkää, Suomi",
-   "in_reply_to_status_id": 966568781224075300,
-   "in_reply_to_status_id_str": "966568781224075266",
-   "in_reply_to_screen_name": "katleena",
-   "urls": [
-    {
-     "url": "https://t.co/TxwAGNXPqk",
-     "expand": "https://twitter.com/i/web/status/966572016190083072"
-    }
-   ]
-  },
-  {
-   "id": 966564457722925000,
-   "id_str": "966564457722925056",
-   "created_at": "Thu Feb 22 06:44:59 +0000 2018",
-   "text": "RT @JuusoMaattanen: Kannatti tulla tänäänkin töihin! Postimees-lehden toimituksessa sinimustavalkoista jäätelöä #EV100 https://t.co/RtLvvjb…",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966292507838632000,
-    "id_str": "966292507838631936",
-    "created_at": "Wed Feb 21 12:44:21 +0000 2018",
-    "text": "Kannatti tulla tänäänkin töihin! Postimees-lehden toimituksessa sinimustavalkoista jäätelöä #EV100 https://t.co/RtLvvjblop",
-    "retweet_count": 2,
-    "favorite_count": 30,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 966564157985353700,
-   "id_str": "966564157985353729",
-   "created_at": "Thu Feb 22 06:43:47 +0000 2018",
-   "text": "@Karde Trump ehdotti nimenomaan vapaaehtoisia koulutuksia pienelle osalle halukkaille opettajille. Ei siis kaikille ala-asteen lauluopeille.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Hämeenlinna, Suomi",
-   "in_reply_to_status_id": 966559904424218600,
-   "in_reply_to_status_id_str": "966559904424218624",
-   "in_reply_to_screen_name": "Karde",
-   "urls": []
-  },
-  {
-   "id": 966562973216108500,
-   "id_str": "966562973216108544",
-   "created_at": "Thu Feb 22 06:39:05 +0000 2018",
-   "text": "@katleena Poliiseille annetaan ase.",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": "Hämeenlinna, Suomi",
-   "in_reply_to_status_id": 966562099622240300,
-   "in_reply_to_status_id_str": "966562099622240261",
-   "in_reply_to_screen_name": "katleena",
-   "urls": []
-  },
-  {
-   "id": 966556472728485900,
-   "id_str": "966556472728485888",
-   "created_at": "Thu Feb 22 06:13:15 +0000 2018",
-   "text": "@kyyberi Huikeeta tykitystä! 🤛",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": "Lempäälä, Suomi",
-   "in_reply_to_status_id": 966553368016670700,
-   "in_reply_to_status_id_str": "966553368016670720",
-   "in_reply_to_screen_name": "kyyberi",
-   "urls": []
-  },
-  {
-   "id": 966221047111602200,
-   "id_str": "966221047111602176",
-   "created_at": "Wed Feb 21 08:00:23 +0000 2018",
-   "text": "@janikarh @autiomaa No mutta sentään edes nimellisesti yrittää obfuskoida vähän mitä tekee. Itsellä aina privacy fi… https://t.co/NiFh7Rwgre",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966219596880601100,
-   "in_reply_to_status_id_str": "966219596880601088",
-   "in_reply_to_screen_name": "janikarh",
-   "urls": [
-    {
-     "url": "https://t.co/NiFh7Rwgre",
-     "expand": "https://twitter.com/i/web/status/966221047111602176"
-    }
-   ]
-  },
-  {
-   "id": 966207737037295600,
-   "id_str": "966207737037295621",
-   "created_at": "Wed Feb 21 07:07:30 +0000 2018",
-   "text": "PSA: Firmat investoikaa niihin privacy-kelmuihin jos työntekijöillä on tapana käyttää julkisessa liikenteessä läppä… https://t.co/l27aqSElQX",
-   "retweet_count": 4,
-   "favorite_count": 15,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/l27aqSElQX",
-     "expand": "https://twitter.com/i/web/status/966207737037295621"
-    }
-   ]
-  },
-  {
-   "id": 966038277693362200,
-   "id_str": "966038277693362176",
-   "created_at": "Tue Feb 20 19:54:08 +0000 2018",
-   "text": "Tämän työstäkieltäytyjien liiton on pakko olla jotain piilomarkkinointia uudelle Uuno Turhapuro -elokuvalle. Ei noi… https://t.co/rTszgvDRBl",
-   "retweet_count": 0,
-   "favorite_count": 13,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/rTszgvDRBl",
-     "expand": "https://twitter.com/i/web/status/966038277693362176"
-    }
-   ]
-  },
-  {
-   "id": 966036099352145900,
-   "id_str": "966036099352145920",
-   "created_at": "Tue Feb 20 19:45:28 +0000 2018",
-   "text": "@mikko400 @VirtanenJorma @vrailamaa @filsdeproust vapaammat työmarkkinat johtaa siis 200 € / kk palkkatasoon ja nälkäkuolemaan. \n\n😑👌",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966033338363465700,
-   "in_reply_to_status_id_str": "966033338363465728",
-   "in_reply_to_screen_name": "mikko400",
-   "urls": []
-  },
-  {
-   "id": 966030753393004500,
-   "id_str": "966030753393004545",
-   "created_at": "Tue Feb 20 19:24:14 +0000 2018",
-   "text": "My new favourite API is the netlify deploy API. https://t.co/pHS87964d8",
-   "retweet_count": 1,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/pHS87964d8",
-     "expand": "https://www.netlify.com/docs/api/#deploying-to-netlify"
-    }
-   ]
-  },
-  {
-   "id": 966024986006868000,
-   "id_str": "966024986006867969",
-   "created_at": "Tue Feb 20 19:01:19 +0000 2018",
-   "text": "@VirtanenJorma @vrailamaa @filsdeproust Mitäs negatiivista halvassa työssä on jos hinnasta sovitaan vapaaehtoisesti… https://t.co/eJ4Ymy1zCS",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966024071635984400,
-   "in_reply_to_status_id_str": "966024071635984384",
-   "in_reply_to_screen_name": "VirtanenJorma",
-   "urls": [
-    {
-     "url": "https://t.co/eJ4Ymy1zCS",
-     "expand": "https://twitter.com/i/web/status/966024986006867969"
-    }
-   ]
-  },
-  {
-   "id": 966024350334963700,
-   "id_str": "966024350334963712",
-   "created_at": "Tue Feb 20 18:58:47 +0000 2018",
-   "text": "anttiviljami starred gatsbyjs/gatsby on #github https://t.co/zmP6n9xFbd",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/zmP6n9xFbd",
-     "expand": "https://github.com/gatsbyjs/gatsby"
-    }
-   ]
-  },
-  {
-   "id": 966001591567507500,
-   "id_str": "966001591567507456",
-   "created_at": "Tue Feb 20 17:28:21 +0000 2018",
-   "text": "@filsdeproust Työllisyysaste on työllisten osuus kaikista työikäisistä. Työttömyysaste taas jättää pois laskuista t… https://t.co/oMilDAuz8H",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965998871687127000,
-   "in_reply_to_status_id_str": "965998871687127040",
-   "in_reply_to_screen_name": "filsdeproust",
-   "urls": [
-    {
-     "url": "https://t.co/oMilDAuz8H",
-     "expand": "https://twitter.com/i/web/status/966001591567507456"
-    }
-   ]
-  },
-  {
-   "id": 965998245544591400,
-   "id_str": "965998245544591360",
-   "created_at": "Tue Feb 20 17:15:03 +0000 2018",
-   "text": "@filsdeproust Työllisyysaste kertoo toisenlaista tarinaa. Siellä ollaan ylempää keskikastia EU:ssa. Mistähän moinen… https://t.co/xTSfO4spQB",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965995048864280600,
-   "in_reply_to_status_id_str": "965995048864280576",
-   "in_reply_to_screen_name": "filsdeproust",
-   "urls": [
-    {
-     "url": "https://t.co/xTSfO4spQB",
-     "expand": "https://twitter.com/i/web/status/965998245544591360"
-    }
-   ]
-  },
-  {
-   "id": 965975217968504800,
-   "id_str": "965975217968504832",
-   "created_at": "Tue Feb 20 15:43:33 +0000 2018",
-   "text": "RT @benshapiro: That punch was so powerful it actually caused a rift in the space time continuum and resulted in reverse momentum https://t…",
-   "retweet_count": 719,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965767531460902900,
-    "id_str": "965767531460902912",
-    "created_at": "Tue Feb 20 01:58:17 +0000 2018",
-    "text": "That punch was so powerful it actually caused a rift in the space time continuum and resulted in reverse momentum https://t.co/l6XncpynVt",
-    "retweet_count": 719,
-    "favorite_count": 4550,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/l6XncpynVt",
-      "expand": "https://twitter.com/historyofwrest/status/965749287933050881"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965969293094645800,
-   "id_str": "965969293094645761",
-   "created_at": "Tue Feb 20 15:20:00 +0000 2018",
-   "text": "RT @mieky: Bright &amp; brisk. The Futurice Tampere office has sweet views &lt;3 https://t.co/D3Ci0YfFx9",
-   "retweet_count": 5,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965605779444248600,
-    "id_str": "965605779444248576",
-    "created_at": "Mon Feb 19 15:15:32 +0000 2018",
-    "text": "Bright &amp; brisk. The Futurice Tampere office has sweet views &lt;3 https://t.co/D3Ci0YfFx9",
-    "retweet_count": 5,
-    "favorite_count": 12,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 965968673096728600,
-   "id_str": "965968673096728576",
-   "created_at": "Tue Feb 20 15:17:33 +0000 2018",
-   "text": "Myös legacya: kaikki mitä koodasin edellisessä projektissa https://t.co/EEBIaO8Ptm",
-   "retweet_count": 0,
-   "favorite_count": 12,
-   "place": "Janakkala, Suomi",
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/EEBIaO8Ptm",
-     "expand": "https://twitter.com/wpjyvaskyla/status/965967890267680768"
-    }
-   ]
-  },
-  {
-   "id": 965913811357175800,
-   "id_str": "965913811357175810",
-   "created_at": "Tue Feb 20 11:39:33 +0000 2018",
-   "text": "RT @kimmobrunfeldt: Työkaverit alottivat uuden podcastin webbidevauksesta, check it out! https://t.co/QmPJKJ46NJ",
+   "id": 979992402004971500,
+   "id_str": "979992402004971520",
+   "created_at": "Sat Mar 31 08:02:50 +0000 2018",
+   "text": "RT @JSLibGenerator: DilationJS : templatize your markup using a REST API",
    "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/QmPJKJ46NJ",
-     "expand": "https://twitter.com/anttti/status/965903004716191754"
-    }
-   ],
+   "urls": [],
    "retweeted_status": {
-    "id": 965911566930542600,
-    "id_str": "965911566930542593",
-    "created_at": "Tue Feb 20 11:30:37 +0000 2018",
-    "text": "Työkaverit alottivat uuden podcastin webbidevauksesta, check it out! https://t.co/QmPJKJ46NJ",
-    "retweet_count": 1,
-    "favorite_count": 4,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/QmPJKJ46NJ",
-      "expand": "https://twitter.com/anttti/status/965903004716191754"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965828238873423900,
-   "id_str": "965828238873423872",
-   "created_at": "Tue Feb 20 05:59:31 +0000 2018",
-   "text": "I have the best wife &lt;3 For the last 3 years (way before she was my wife) she has prepared me a cup of coffee every… https://t.co/QLyoFWwe0e",
-   "retweet_count": 0,
-   "favorite_count": 10,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/QLyoFWwe0e",
-     "expand": "https://twitter.com/i/web/status/965828238873423872"
-    }
-   ]
-  },
-  {
-   "id": 965826223891984400,
-   "id_str": "965826223891984384",
-   "created_at": "Tue Feb 20 05:51:30 +0000 2018",
-   "text": "RT @jarkko: 😳 https://t.co/EIq0r1rfng",
-   "retweet_count": 1,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/EIq0r1rfng",
-     "expand": "https://twitter.com/carnage4life/status/965737146609905665"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965825901559795700,
-    "id_str": "965825901559795713",
-    "created_at": "Tue Feb 20 05:50:13 +0000 2018",
-    "text": "😳 https://t.co/EIq0r1rfng",
+    "id": 979992109418762200,
+    "id_str": "979992109418762240",
+    "created_at": "Sat Mar 31 08:01:40 +0000 2018",
+    "text": "DilationJS : templatize your markup using a REST API",
     "retweet_count": 1,
     "favorite_count": 1,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 979286391749148700,
+   "id_str": "979286391749148672",
+   "created_at": "Thu Mar 29 09:17:24 +0000 2018",
+   "text": "It’s bitcoin buying season again",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 979040799773089800,
+   "id_str": "979040799773089793",
+   "created_at": "Wed Mar 28 17:01:31 +0000 2018",
+   "text": "RT @mieky: The Futurice ways of working in a nutshell (PDF). Recommend you check it out! https://t.co/1XbxL3LknL",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1XbxL3LknL",
+     "expand": "https://twitter.com/futurice/status/978903325151301632"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978975695639638000,
+    "id_str": "978975695639638019",
+    "created_at": "Wed Mar 28 12:42:48 +0000 2018",
+    "text": "The Futurice ways of working in a nutshell (PDF). Recommend you check it out! https://t.co/1XbxL3LknL",
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "place": "Tampere, Suomi",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/EIq0r1rfng",
-      "expand": "https://twitter.com/carnage4life/status/965737146609905665"
+      "url": "https://t.co/1XbxL3LknL",
+      "expand": "https://twitter.com/futurice/status/978903325151301632"
      }
     ]
    }
   },
   {
-   "id": 965824003431641100,
-   "id_str": "965824003431641088",
-   "created_at": "Tue Feb 20 05:42:41 +0000 2018",
-   "text": "Tonne pitäis ulos mennä värjöttelemään. ❄️❄️❄️😰 https://t.co/ySQ473lB3n",
+   "id": 978871333894475800,
+   "id_str": "978871333894475778",
+   "created_at": "Wed Mar 28 05:48:07 +0000 2018",
+   "text": "Things I thought I would do before turning 25:\n\n- get a degree\n- exit a startup\n- definitely not get married yet\n\nWell shit.",
    "retweet_count": 0,
+   "favorite_count": 11,
+   "place": "Hämeenlinna, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978854070512508900,
+   "id_str": "978854070512508933",
+   "created_at": "Wed Mar 28 04:39:31 +0000 2018",
+   "text": "RT @sarasalomaa: Maikkarin uutiset: eläkkeensaajia 1,5 miljoonaa, kesätyöntekijöitä ennätykselliset 130 000.\nSiinä suomennettuna huoltosuht…",
+   "retweet_count": 40,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978715043796840400,
+    "id_str": "978715043796840455",
+    "created_at": "Tue Mar 27 19:27:04 +0000 2018",
+    "text": "Maikkarin uutiset: eläkkeensaajia 1,5 miljoonaa, kesätyöntekijöitä ennätykselliset 130 000.\nSiinä suomennettuna huoltosuhteen epätasapaino.",
+    "retweet_count": 40,
+    "favorite_count": 200,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 978647283469299700,
+   "id_str": "978647283469299712",
+   "created_at": "Tue Mar 27 14:57:49 +0000 2018",
+   "text": "When in doubt, write documentation",
+   "retweet_count": 1,
    "favorite_count": 2,
    "place": "Tampere, Suomi",
    "in_reply_to_status_id": null,
@@ -639,41 +129,1520 @@
    "urls": []
   },
   {
-   "id": 965481962164146200,
-   "id_str": "965481962164146176",
-   "created_at": "Mon Feb 19 07:03:32 +0000 2018",
-   "text": "@epic_joel Ei mitenkään mene omaan järkeen miten voi olla edes lyhyellä aikajänteellä kustannustehokasta ylläpitää… https://t.co/vaqeMPlSXv",
+   "id": 978267943485214700,
+   "id_str": "978267943485214720",
+   "created_at": "Mon Mar 26 13:50:27 +0000 2018",
+   "text": "Aah, ollapa teini. 😂 https://t.co/ctazJ5eUIG",
+   "retweet_count": 1,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978164610900594700,
+   "id_str": "978164610900594688",
+   "created_at": "Mon Mar 26 06:59:51 +0000 2018",
+   "text": "@kyyberi @SakariPaloviita Lisäksi valtaosa tänä päivänä käytössä olevasta legacysta ei koskaan pääse apimaailman pi… https://t.co/z0nDJc6yqc",
    "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Riihimäki, Suomi",
-   "in_reply_to_status_id": 965480174375628800,
-   "in_reply_to_status_id_str": "965480174375628801",
-   "in_reply_to_screen_name": "epic_joel",
+   "favorite_count": 1,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": 978164052491931600,
+   "in_reply_to_status_id_str": "978164052491931649",
+   "in_reply_to_screen_name": "kyyberi",
    "urls": [
     {
-     "url": "https://t.co/vaqeMPlSXv",
-     "expand": "https://twitter.com/i/web/status/965481962164146176"
+     "url": "https://t.co/z0nDJc6yqc",
+     "expand": "https://twitter.com/i/web/status/978164610900594688"
     }
    ]
   },
   {
-   "id": 965480549543546900,
-   "id_str": "965480549543546880",
-   "created_at": "Mon Feb 19 06:57:55 +0000 2018",
-   "text": "@samikeijonen No ajokortin ja koulumatkabensat saa jo nyt opiskelija etuina. Looginen askelhan tuo 🙈",
+   "id": 978159091242676200,
+   "id_str": "978159091242676224",
+   "created_at": "Mon Mar 26 06:37:55 +0000 2018",
+   "text": "@kyyberi Toki sellaisten apien rakentaminen, joissa taustalla olevan legacyjärjestelmän pudottaminen pois on suunni… https://t.co/GYEzksz1KO",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Vantaa, Suomi",
+   "in_reply_to_status_id": 978158303904763900,
+   "in_reply_to_status_id_str": "978158303904763904",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": [
+    {
+     "url": "https://t.co/GYEzksz1KO",
+     "expand": "https://twitter.com/i/web/status/978159091242676224"
+    }
+   ]
+  },
+  {
+   "id": 978158098727690200,
+   "id_str": "978158098727690241",
+   "created_at": "Mon Mar 26 06:33:58 +0000 2018",
+   "text": "@kyyberi Firma joka tekee systeemi-integraatioiden sijaan tuota legacyn apittamista voittaa. Apittamisen iso etu vs… https://t.co/y5OGVXDg97",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": "Vantaa, Suomi",
+   "in_reply_to_status_id": 978155305019297800,
+   "in_reply_to_status_id_str": "978155305019297792",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": [
+    {
+     "url": "https://t.co/y5OGVXDg97",
+     "expand": "https://twitter.com/i/web/status/978158098727690241"
+    }
+   ]
+  },
+  {
+   "id": 978149649168072700,
+   "id_str": "978149649168072704",
+   "created_at": "Mon Mar 26 06:00:24 +0000 2018",
+   "text": "RT @grimmreality: Say what you want about idiots blaming violent video games for gun violence but cartoons stopped using anvils as things t…",
+   "retweet_count": 84,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977647185562087400,
+    "id_str": "977647185562087430",
+    "created_at": "Sat Mar 24 20:43:47 +0000 2018",
+    "text": "Say what you want about idiots blaming violent video games for gun violence but cartoons stopped using anvils as th… https://t.co/TBtfBVK1VA",
+    "retweet_count": 84,
+    "favorite_count": 232,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TBtfBVK1VA",
+      "expand": "https://twitter.com/i/web/status/977647185562087430"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977614379058384900,
+   "id_str": "977614379058384901",
+   "created_at": "Sat Mar 24 18:33:25 +0000 2018",
+   "text": "RT @PersianRose1: https://t.co/txgokNm1Qm",
+   "retweet_count": 76,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977513481892069400,
+    "id_str": "977513481892069376",
+    "created_at": "Sat Mar 24 11:52:30 +0000 2018",
+    "text": "https://t.co/txgokNm1Qm",
+    "retweet_count": 76,
+    "favorite_count": 154,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 977507432967622700,
+   "id_str": "977507432967622656",
+   "created_at": "Sat Mar 24 11:28:27 +0000 2018",
+   "text": "Actors Cold Read Gun Facts Off of a Teleprompter https://t.co/vgNqNlml5b",
    "retweet_count": 0,
    "favorite_count": 0,
-   "place": "Hämeenlinna, Suomi",
-   "in_reply_to_status_id": 965479472895012900,
-   "in_reply_to_status_id_str": "965479472895012865",
-   "in_reply_to_screen_name": "samikeijonen",
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vgNqNlml5b",
+     "expand": "https://youtu.be/p4j7tYihvJM"
+    }
+   ]
+  },
+  {
+   "id": 977450590077898800,
+   "id_str": "977450590077898752",
+   "created_at": "Sat Mar 24 07:42:35 +0000 2018",
+   "text": "The word sustainable is unsustainable. https://t.co/3Hh0rLnZpU",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3Hh0rLnZpU",
+     "expand": "https://xkcd.com/1007/"
+    }
+   ]
+  },
+  {
+   "id": 977445416080937000,
+   "id_str": "977445416080936960",
+   "created_at": "Sat Mar 24 07:22:01 +0000 2018",
+   "text": "RT @elinalepomaki: Viime vuosien kehitys osaajien muuttoliikkeessä on hälyttävä. Täältä muuttaa tuhat korkeakoulutettua enemmän kuin tulee…",
+   "retweet_count": 63,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976024701322645500,
+    "id_str": "976024701322645504",
+    "created_at": "Tue Mar 20 09:16:37 +0000 2018",
+    "text": "Viime vuosien kehitys osaajien muuttoliikkeessä on hälyttävä. Täältä muuttaa tuhat korkeakoulutettua enemmän kuin t… https://t.co/ynzslqdohn",
+    "retweet_count": 63,
+    "favorite_count": 225,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ynzslqdohn",
+      "expand": "https://twitter.com/i/web/status/976024701322645504"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977177861399474200,
+   "id_str": "977177861399474182",
+   "created_at": "Fri Mar 23 13:38:51 +0000 2018",
+   "text": "Thanks, GDPR ! 👍 https://t.co/uPPuhvqI64",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/uPPuhvqI64",
+     "expand": "https://thenextweb.com/apps/2018/03/22/slacks-new-policy-lets-bosses-read-employees-dms-without-consent/"
+    }
+   ]
+  },
+  {
+   "id": 976848487919833100,
+   "id_str": "976848487919833095",
+   "created_at": "Thu Mar 22 15:50:03 +0000 2018",
+   "text": "RT @prageru: Want to succeed? Come to the U.S.\n👉https://t.co/SbKmQeI0cf https://t.co/gnFpj8tyU8",
+   "retweet_count": 77,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SbKmQeI0cf",
+     "expand": "http://l.prageru.com/2nGNtqs"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976626513893306400,
+    "id_str": "976626513893306373",
+    "created_at": "Thu Mar 22 01:08:00 +0000 2018",
+    "text": "Want to succeed? Come to the U.S.\n👉https://t.co/SbKmQeI0cf https://t.co/gnFpj8tyU8",
+    "retweet_count": 77,
+    "favorite_count": 225,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SbKmQeI0cf",
+      "expand": "http://l.prageru.com/2nGNtqs"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976842595124031500,
+   "id_str": "976842595124031488",
+   "created_at": "Thu Mar 22 15:26:38 +0000 2018",
+   "text": "@dylanmckaynz Android or iOS user?",
+   "retweet_count": 2,
+   "favorite_count": 13,
+   "place": "Janakkala, Suomi",
+   "in_reply_to_status_id": 976368845635035100,
+   "in_reply_to_status_id_str": "976368845635035138",
+   "in_reply_to_screen_name": "dylanmckaynz",
    "urls": []
   },
   {
-   "id": 965478882672508900,
-   "id_str": "965478882672508928",
-   "created_at": "Mon Feb 19 06:51:18 +0000 2018",
-   "text": "Siis hetkinen. Pienet maalaislukiot kilpailee markkinoimalla ja lahjomalla opiskelijoita mm. ajokorteilla, ilmaisil… https://t.co/C3iqoWuck6",
+   "id": 976836958314999800,
+   "id_str": "976836958314999808",
+   "created_at": "Thu Mar 22 15:04:14 +0000 2018",
+   "text": "RT @dylanmckaynz: Downloaded my facebook data as a ZIP file\n\nSomehow it has my entire call history with my partner's mum https://t.co/CIRUg…",
+   "retweet_count": 41107,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976368845635035100,
+    "id_str": "976368845635035138",
+    "created_at": "Wed Mar 21 08:04:07 +0000 2018",
+    "text": "Downloaded my facebook data as a ZIP file\n\nSomehow it has my entire call history with my partner's mum https://t.co/CIRUguf4vD",
+    "retweet_count": 41107,
+    "favorite_count": 53287,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 976828560135675900,
+   "id_str": "976828560135675904",
+   "created_at": "Thu Mar 22 14:30:51 +0000 2018",
+   "text": "Hahah, tää on vieläkin elossa 😂 #digitalist https://t.co/EvzStzmXyt",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Vantaa, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EvzStzmXyt",
+     "expand": "https://twitter.com/dogetalist/status/976798191717879808"
+    }
+   ]
+  },
+  {
+   "id": 976704509455069200,
+   "id_str": "976704509455069184",
+   "created_at": "Thu Mar 22 06:17:56 +0000 2018",
+   "text": "Could you build a machine learning filesystem that anticipates blobs to preload based on user activity? 🤔",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 976563829265059800,
+   "id_str": "976563829265059846",
+   "created_at": "Wed Mar 21 20:58:55 +0000 2018",
+   "text": "If not, please execute. https://t.co/VwHxOJAZCm",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VwHxOJAZCm",
+     "expand": "https://twitter.com/bebraw/status/976558354217734144"
+    }
+   ]
+  },
+  {
+   "id": 976553462581342200,
+   "id_str": "976553462581342218",
+   "created_at": "Wed Mar 21 20:17:43 +0000 2018",
+   "text": "@MNiinioja @kyyberi @DrSeppanen @mikahonkanenFI @ApiTalous Julkisiin ja kumppani-apeihin on hyvä tarkennus. 👌vaihto… https://t.co/ux752w9q7V",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 976552421362163700,
+   "in_reply_to_status_id_str": "976552421362163714",
+   "in_reply_to_screen_name": "MNiinioja",
+   "urls": [
+    {
+     "url": "https://t.co/ux752w9q7V",
+     "expand": "https://twitter.com/i/web/status/976553462581342218"
+    }
+   ]
+  },
+  {
+   "id": 976551830418313200,
+   "id_str": "976551830418313217",
+   "created_at": "Wed Mar 21 20:11:14 +0000 2018",
+   "text": "@kyyberi @MNiinioja @DrSeppanen @mikahonkanenFI @ApiTalous Käännätte suomenkielisessä määritelmässä siis open api =&gt; julkinen api?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 976551523462340600,
+   "in_reply_to_status_id_str": "976551523462340608",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": []
+  },
+  {
+   "id": 976550722962673700,
+   "id_str": "976550722962673664",
+   "created_at": "Wed Mar 21 20:06:50 +0000 2018",
+   "text": "@kyyberi @MNiinioja @DrSeppanen @mikahonkanenFI @ApiTalous Epäintuitiivinen klassifiointi siis vain. :) hämäävää et… https://t.co/42NP9g14qO",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 976550125010120700,
+   "in_reply_to_status_id_str": "976550125010120704",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": [
+    {
+     "url": "https://t.co/42NP9g14qO",
+     "expand": "https://twitter.com/i/web/status/976550722962673664"
+    }
+   ]
+  },
+  {
+   "id": 976548376983605200,
+   "id_str": "976548376983605249",
+   "created_at": "Wed Mar 21 19:57:31 +0000 2018",
+   "text": "@kyyberi @MNiinioja @DrSeppanen @mikahonkanenFI @ApiTalous Esim. kehittäjänä saatan pyytää uutta rajapintaa avattav… https://t.co/rUOYpIlUaS",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 976548011902775300,
+   "in_reply_to_status_id_str": "976548011902775296",
+   "in_reply_to_screen_name": "anttiviljami",
+   "urls": [
+    {
+     "url": "https://t.co/rUOYpIlUaS",
+     "expand": "https://twitter.com/i/web/status/976548376983605249"
+    }
+   ]
+  },
+  {
+   "id": 976548011902775300,
+   "id_str": "976548011902775296",
+   "created_at": "Wed Mar 21 19:56:04 +0000 2018",
+   "text": "@kyyberi @MNiinioja @DrSeppanen @mikahonkanenFI @ApiTalous 🤝🤝 Nättiä! 😎 \n\nOma kommentti: API-talous rajataan tässä… https://t.co/S7jbSHtECl",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 976534802663903200,
+   "in_reply_to_status_id_str": "976534802663903233",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": [
+    {
+     "url": "https://t.co/S7jbSHtECl",
+     "expand": "https://twitter.com/i/web/status/976548011902775296"
+    }
+   ]
+  },
+  {
+   "id": 976545331717472300,
+   "id_str": "976545331717472260",
+   "created_at": "Wed Mar 21 19:45:25 +0000 2018",
+   "text": "RT @aaseuri: @mjantti @pursiain Markus, olen monesti nähnyt sinun harmittelevan, ettet pääse lukemaan MustReadin juttuja. Itsekin mielellän…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976527004026761200,
+    "id_str": "976527004026761216",
+    "created_at": "Wed Mar 21 18:32:35 +0000 2018",
+    "text": "@mjantti @pursiain Markus, olen monesti nähnyt sinun harmittelevan, ettet pääse lukemaan MustReadin juttuja. Itseki… https://t.co/9vJhTfC4Gt",
+    "retweet_count": 3,
+    "favorite_count": 70,
+    "place": null,
+    "in_reply_to_status_id": 976502306702282800,
+    "in_reply_to_status_id_str": "976502306702282755",
+    "in_reply_to_screen_name": "mjantti",
+    "urls": [
+     {
+      "url": "https://t.co/9vJhTfC4Gt",
+      "expand": "https://twitter.com/i/web/status/976527004026761216"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975977518636437500,
+   "id_str": "975977518636437509",
+   "created_at": "Tue Mar 20 06:09:07 +0000 2018",
+   "text": "Autoilu on tulevaisuudessa vain rikkaille. https://t.co/qDduENxEK0",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qDduENxEK0",
+     "expand": "https://www.hs.fi/kaupunki/art-2000005610231.html"
+    }
+   ]
+  },
+  {
+   "id": 975628046525980700,
+   "id_str": "975628046525980672",
+   "created_at": "Mon Mar 19 07:00:27 +0000 2018",
+   "text": "1998: Mihin 3g-tekniikkaa oikeastaan tarvitaan\n2008: Mihin 4g-tekniikkaa oikeastaan tarvitaan\n2018: https://t.co/9C48gas6wv",
+   "retweet_count": 144,
+   "favorite_count": 611,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 975626113568395300,
+   "id_str": "975626113568395264",
+   "created_at": "Mon Mar 19 06:52:46 +0000 2018",
+   "text": "RT @jordanbpeterson: Much of the social history of the Western World, over the past three decades, has been a history of replacing what wor…",
+   "retweet_count": 4134,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975577812747698200,
+    "id_str": "975577812747698176",
+    "created_at": "Mon Mar 19 03:40:50 +0000 2018",
+    "text": "Much of the social history of the Western World, over the past three decades, has been a history of replacing what… https://t.co/My8SsV3yW5",
+    "retweet_count": 4134,
+    "favorite_count": 11416,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/My8SsV3yW5",
+      "expand": "https://twitter.com/i/web/status/975577812747698176"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975305410499530800,
+   "id_str": "975305410499530752",
+   "created_at": "Sun Mar 18 09:38:24 +0000 2018",
+   "text": "@kyyberi 💪💪 onneksi olkoon! Hurja urakka takana.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 975289371787178000,
+   "in_reply_to_status_id_str": "975289371787177984",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": []
+  },
+  {
+   "id": 975303836360470500,
+   "id_str": "975303836360470534",
+   "created_at": "Sun Mar 18 09:32:09 +0000 2018",
+   "text": "5 of 5 stars to Enlightenment Now by Steven Pinker https://t.co/YfkwyixM0z",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YfkwyixM0z",
+     "expand": "https://goodreads.com/review/show/2324747671"
+    }
+   ]
+  },
+  {
+   "id": 974321233016905700,
+   "id_str": "974321233016905729",
+   "created_at": "Thu Mar 15 16:27:38 +0000 2018",
+   "text": "RT @vixy: Things we didn't do:\n* start the fire\n* light it\n* shoot the deputy\n\nThings we did:\n* tried to fight it\n* shot the sheriff\n* buil…",
+   "retweet_count": 4238,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973789230664216600,
+    "id_str": "973789230664216576",
+    "created_at": "Wed Mar 14 05:13:39 +0000 2018",
+    "text": "Things we didn't do:\n* start the fire\n* light it\n* shoot the deputy\n\nThings we did:\n* tried to fight it\n* shot the… https://t.co/oO22pk5paH",
+    "retweet_count": 4238,
+    "favorite_count": 12581,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oO22pk5paH",
+      "expand": "https://twitter.com/i/web/status/973789230664216576"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974318897666064400,
+   "id_str": "974318897666064386",
+   "created_at": "Thu Mar 15 16:18:21 +0000 2018",
+   "text": "RT @TimoKataja: Bloggasin: \"Maksuttomampi 2. asteen koulutus: Avoimien lisenssien koulukirjat\".\n\n#Maksuton2aste-kansalaisaloite etenee. Mut…",
+   "retweet_count": 32,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974236068307402800,
+    "id_str": "974236068307402752",
+    "created_at": "Thu Mar 15 10:49:13 +0000 2018",
+    "text": "Bloggasin: \"Maksuttomampi 2. asteen koulutus: Avoimien lisenssien koulukirjat\".\n\n#Maksuton2aste-kansalaisaloite ete… https://t.co/jwrh5QbdCT",
+    "retweet_count": 32,
+    "favorite_count": 74,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jwrh5QbdCT",
+      "expand": "https://twitter.com/i/web/status/974236068307402752"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974310321686007800,
+   "id_str": "974310321686007808",
+   "created_at": "Thu Mar 15 15:44:17 +0000 2018",
+   "text": "A pond of rubbish in Pasila station https://t.co/YujIb8MtAZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 974174432452366300,
+   "id_str": "974174432452366337",
+   "created_at": "Thu Mar 15 06:44:18 +0000 2018",
+   "text": "@kyyberi 👍",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974174370095685600,
+   "in_reply_to_status_id_str": "974174370095685632",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": []
+  },
+  {
+   "id": 974174280454955000,
+   "id_str": "974174280454955008",
+   "created_at": "Thu Mar 15 06:43:42 +0000 2018",
+   "text": "The values that define western culture mainly stem from...",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Akaa, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 974172618768175100,
+   "id_str": "974172618768175104",
+   "created_at": "Thu Mar 15 06:37:06 +0000 2018",
+   "text": "@kyyberi IC150?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Valkeakoski, Suomi",
+   "in_reply_to_status_id": 974171777046908900,
+   "in_reply_to_status_id_str": "974171777046908928",
+   "in_reply_to_screen_name": "kyyberi",
+   "urls": []
+  },
+  {
+   "id": 973939691060854800,
+   "id_str": "973939691060854784",
+   "created_at": "Wed Mar 14 15:11:31 +0000 2018",
+   "text": "Turns out key to happiness is vodka and avoiding small talk. https://t.co/ci2vW0qza2",
+   "retweet_count": 2,
+   "favorite_count": 8,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ci2vW0qza2",
+     "expand": "https://www.reuters.com/article/us-world-happiness-report/finland-is-worlds-happiest-country-u-s-discontent-grows-u-n-report-idUSKCN1GQ1EZ"
+    }
+   ]
+  },
+  {
+   "id": 973910880302911500,
+   "id_str": "973910880302911489",
+   "created_at": "Wed Mar 14 13:17:02 +0000 2018",
+   "text": "RT @nicolelzhu: rip stephen hawking, a brilliant mind and deliverer of sick burns https://t.co/v7vQZXHiKJ",
+   "retweet_count": 206056,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973782775131230200,
+    "id_str": "973782775131230208",
+    "created_at": "Wed Mar 14 04:48:00 +0000 2018",
+    "text": "rip stephen hawking, a brilliant mind and deliverer of sick burns https://t.co/v7vQZXHiKJ",
+    "retweet_count": 206056,
+    "favorite_count": 528679,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 973232442185343000,
+   "id_str": "973232442185342977",
+   "created_at": "Mon Mar 12 16:21:10 +0000 2018",
+   "text": "RT @pursiain: Kuulostaa kivalta, joskaan en ihan ymmärrä, miksi #suppailu-yrittäminen edellyttää neuvotteluja kaupungin kanssa tai ylipääns…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973206595277606900,
+    "id_str": "973206595277606912",
+    "created_at": "Mon Mar 12 14:38:28 +0000 2018",
+    "text": "Kuulostaa kivalta, joskaan en ihan ymmärrä, miksi #suppailu-yrittäminen edellyttää neuvotteluja kaupungin kanssa ta… https://t.co/MAqvYgj9Tv",
+    "retweet_count": 1,
+    "favorite_count": 39,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MAqvYgj9Tv",
+      "expand": "https://twitter.com/i/web/status/973206595277606912"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973080251927539700,
+   "id_str": "973080251927539713",
+   "created_at": "Mon Mar 12 06:16:25 +0000 2018",
+   "text": "5 of 5 stars to E=mc² by David Bodanis https://t.co/y9guFipzFv",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/y9guFipzFv",
+     "expand": "https://goodreads.com/review/show/2324746966"
+    }
+   ]
+  },
+  {
+   "id": 972902299554246700,
+   "id_str": "972902299554246657",
+   "created_at": "Sun Mar 11 18:29:18 +0000 2018",
+   "text": "RT @miangrd: Kävin allekirjoittamassa. Käy sinäkin. \n\nKansalaisaloite perintö- ja lahjaverosta luopumisesta. \n#kansalaisaloite #verotus \nht…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972891126792376300,
+    "id_str": "972891126792376321",
+    "created_at": "Sun Mar 11 17:44:54 +0000 2018",
+    "text": "Kävin allekirjoittamassa. Käy sinäkin. \n\nKansalaisaloite perintö- ja lahjaverosta luopumisesta. \n#kansalaisaloite… https://t.co/aCzIXYv7N3",
+    "retweet_count": 10,
+    "favorite_count": 33,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aCzIXYv7N3",
+      "expand": "https://twitter.com/i/web/status/972891126792376321"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972888671396548600,
+   "id_str": "972888671396548612",
+   "created_at": "Sun Mar 11 17:35:09 +0000 2018",
+   "text": "Kova juttu! Viimeisen 30 vuoden ajan, joka päivä 138 000 ihmistä on noussut äärimmäisestä köyhyydestä pysyvästi.… https://t.co/vQ1dGYdKOF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vQ1dGYdKOF",
+     "expand": "https://twitter.com/i/web/status/972888671396548612"
+    }
+   ]
+  },
+  {
+   "id": 972886411333562400,
+   "id_str": "972886411333562370",
+   "created_at": "Sun Mar 11 17:26:10 +0000 2018",
+   "text": "RT @profgalloway: Fewer than half of children today live in a \"traditional family\" — heterosexual parents in their first marriage\nhttps://t…",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972884893171683300,
+    "id_str": "972884893171683330",
+    "created_at": "Sun Mar 11 17:20:08 +0000 2018",
+    "text": "Fewer than half of children today live in a \"traditional family\" — heterosexual parents in their first marriage\nhttps://t.co/2wViCcxVeO",
+    "retweet_count": 25,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2wViCcxVeO",
+      "expand": "http://www.pewresearch.org/fact-tank/2014/12/22/less-than-half-of-u-s-kids-today-live-in-a-traditional-family/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972420557462560800,
+   "id_str": "972420557462560768",
+   "created_at": "Sat Mar 10 10:35:02 +0000 2018",
+   "text": "LAN Party at the office ! https://t.co/UBfOMX7HFi",
+   "retweet_count": 0,
+   "favorite_count": 17,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 972395342338633700,
+   "id_str": "972395342338633728",
+   "created_at": "Sat Mar 10 08:54:50 +0000 2018",
+   "text": "If you enjoy this even 50% as much as I do, I guarantee your day is instantly better. https://t.co/hBp7afwrGD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hBp7afwrGD",
+     "expand": "https://youtu.be/32mg3D79fTc"
+    }
+   ]
+  },
+  {
+   "id": 971620074216919000,
+   "id_str": "971620074216919040",
+   "created_at": "Thu Mar 08 05:34:12 +0000 2018",
+   "text": "RT @elithrar: Expectation: \"400MB free WiFi per day\"\nReality: Three line bash function :&gt; https://t.co/m8pNJsrJpi",
+   "retweet_count": 68,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971314557372239900,
+    "id_str": "971314557372239872",
+    "created_at": "Wed Mar 07 09:20:11 +0000 2018",
+    "text": "Expectation: \"400MB free WiFi per day\"\nReality: Three line bash function :&gt; https://t.co/m8pNJsrJpi",
+    "retweet_count": 68,
+    "favorite_count": 343,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 971016999773048800,
+   "id_str": "971016999773048832",
+   "created_at": "Tue Mar 06 13:37:48 +0000 2018",
+   "text": "RT @benshapiro: If you read this tweet in Bane’s voice, it is awesome. https://t.co/q4yd9FQwAh",
+   "retweet_count": 660,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/q4yd9FQwAh",
+     "expand": "https://twitter.com/realdonaldtrump/status/971006379375972354?s=21"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971008415152533500,
+    "id_str": "971008415152533504",
+    "created_at": "Tue Mar 06 13:03:41 +0000 2018",
+    "text": "If you read this tweet in Bane’s voice, it is awesome. https://t.co/q4yd9FQwAh",
+    "retweet_count": 660,
+    "favorite_count": 3209,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/q4yd9FQwAh",
+      "expand": "https://twitter.com/realdonaldtrump/status/971006379375972354?s=21"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971011904515780600,
+   "id_str": "971011904515780608",
+   "created_at": "Tue Mar 06 13:17:33 +0000 2018",
+   "text": "HKI-TRE https://t.co/bMAxNdSdSe",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Hämeenlinna, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bMAxNdSdSe",
+     "expand": "https://www.pscp.tv/w/bW6MZDE5MjA2NjZ8MWxQS3FuV1h3d1BHYoqdGPRxQVQVY1By-GPbh88e7LftUHUibWxaL7mPTyMB"
+    }
+   ]
+  },
+  {
+   "id": 970908398815412200,
+   "id_str": "970908398815412224",
+   "created_at": "Tue Mar 06 06:26:15 +0000 2018",
+   "text": "RT @0lpeh: Super proud of my employer @futurice who sponsored 6813 hours (€102195) of free time open source and open education during 2017!…",
+   "retweet_count": 23,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970624414076284900,
+    "id_str": "970624414076284929",
+    "created_at": "Mon Mar 05 11:37:48 +0000 2018",
+    "text": "Super proud of my employer @futurice who sponsored 6813 hours (€102195) of free time open source and open education… https://t.co/DqyFH46ix1",
+    "retweet_count": 23,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DqyFH46ix1",
+      "expand": "https://twitter.com/i/web/status/970624414076284929"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970549751543418900,
+   "id_str": "970549751543418881",
+   "created_at": "Mon Mar 05 06:41:07 +0000 2018",
+   "text": "Kaikkein raivostuttavinta tässä on että tieto tilauksen mahdottomuudesta välittyy asiakkaalle vasta vaivalla tehdyn… https://t.co/2kNhkhzLIr",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Hämeenlinna, Suomi",
+   "in_reply_to_status_id": 970549283316555800,
+   "in_reply_to_status_id_str": "970549283316555776",
+   "in_reply_to_screen_name": "anttiviljami",
+   "urls": [
+    {
+     "url": "https://t.co/2kNhkhzLIr",
+     "expand": "https://twitter.com/i/web/status/970549751543418881"
+    }
+   ]
+  },
+  {
+   "id": 970549283316555800,
+   "id_str": "970549283316555776",
+   "created_at": "Mon Mar 05 06:39:15 +0000 2018",
+   "text": "@Kotipizza verkkopalvelussanne olisi vähän hiomista. Kollega yritti perjantaina tilata 300€ edestä, mutta eihän se… https://t.co/TJMSgZra2I",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Hämeenlinna, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "Kotipizza",
+   "urls": [
+    {
+     "url": "https://t.co/TJMSgZra2I",
+     "expand": "https://twitter.com/i/web/status/970549283316555776"
+    }
+   ]
+  },
+  {
+   "id": 969296390953295900,
+   "id_str": "969296390953295872",
+   "created_at": "Thu Mar 01 19:40:42 +0000 2018",
+   "text": "RT @humanprogress: It turns out that plastic is biodegradable. https://t.co/mx37rCWKWT",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mx37rCWKWT",
+     "expand": "https://buff.ly/2EKXqHo"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969290425810018300,
+    "id_str": "969290425810018304",
+    "created_at": "Thu Mar 01 19:17:00 +0000 2018",
+    "text": "It turns out that plastic is biodegradable. https://t.co/mx37rCWKWT",
+    "retweet_count": 26,
+    "favorite_count": 73,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mx37rCWKWT",
+      "expand": "https://buff.ly/2EKXqHo"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969219513387331600,
+   "id_str": "969219513387331584",
+   "created_at": "Thu Mar 01 14:35:13 +0000 2018",
+   "text": "@wahalahti @VRpalvelu @rolle How to handle @VRpalvelu 101 https://t.co/vxhm2rlLEw",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": 969219055398936600,
+   "in_reply_to_status_id_str": "969219055398936576",
+   "in_reply_to_screen_name": "wahalahti",
+   "urls": []
+  },
+  {
+   "id": 969218622731235300,
+   "id_str": "969218622731235328",
+   "created_at": "Thu Mar 01 14:31:41 +0000 2018",
+   "text": "RT @Lord_Arse: Retrogaming Memory! ❤\n\nTitle: Speedball 2: Brutal Deluxe\nDeveloper: The Bitmap Brothers\nPublisher: Image Works\nVersion: Atar…",
+   "retweet_count": 66,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969203252683210800,
+    "id_str": "969203252683210757",
+    "created_at": "Thu Mar 01 13:30:37 +0000 2018",
+    "text": "Retrogaming Memory! ❤\n\nTitle: Speedball 2: Brutal Deluxe\nDeveloper: The Bitmap Brothers\nPublisher: Image Works\nVers… https://t.co/9hY2XotUuF",
+    "retweet_count": 66,
+    "favorite_count": 290,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9hY2XotUuF",
+      "expand": "https://twitter.com/i/web/status/969203252683210757"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969215310896152600,
+   "id_str": "969215310896152577",
+   "created_at": "Thu Mar 01 14:18:31 +0000 2018",
+   "text": "@SeppoHautala Kunnon Uuno Turhapuro -meininki jälleen. :D",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": 969214922113671200,
+   "in_reply_to_status_id_str": "969214922113671168",
+   "in_reply_to_screen_name": "SeppoHautala",
+   "urls": []
+  },
+  {
+   "id": 969210590840414200,
+   "id_str": "969210590840414210",
+   "created_at": "Thu Mar 01 13:59:46 +0000 2018",
+   "text": "😂😂😂😂😂😂😂 https://t.co/pCAFupGnmS",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pCAFupGnmS",
+     "expand": "https://twitter.com/klementiini/status/969200103650185216"
+    }
+   ]
+  },
+  {
+   "id": 969094694310432800,
+   "id_str": "969094694310432768",
+   "created_at": "Thu Mar 01 06:19:14 +0000 2018",
+   "text": "I laughed so hard at this :D https://t.co/4Ol4Vbqiku https://t.co/HkUFsOZPSY",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4Ol4Vbqiku",
+     "expand": "https://mtlynch.io/why-i-quit-google/"
+    }
+   ]
+  },
+  {
+   "id": 968899682910068700,
+   "id_str": "968899682910068738",
+   "created_at": "Wed Feb 28 17:24:20 +0000 2018",
+   "text": "RT @quavocado: https://t.co/4fjPLLY82J",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968549591225454600,
+    "id_str": "968549591225454594",
+    "created_at": "Tue Feb 27 18:13:11 +0000 2018",
+    "text": "https://t.co/4fjPLLY82J",
+    "retweet_count": 39,
+    "favorite_count": 86,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 968738173152002000,
+   "id_str": "968738173152002048",
+   "created_at": "Wed Feb 28 06:42:33 +0000 2018",
+   "text": "@koskila Ilmeisesti ei 😅 https://t.co/clAppCEIqr",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Hämeenlinna, Suomi",
+   "in_reply_to_status_id": 968737569692377100,
+   "in_reply_to_status_id_str": "968737569692377088",
+   "in_reply_to_screen_name": "koskila",
+   "urls": []
+  },
+  {
+   "id": 968736117855019000,
+   "id_str": "968736117855019009",
+   "created_at": "Wed Feb 28 06:34:23 +0000 2018",
+   "text": "Mistä tietää että Suomessa on kylmä? https://t.co/DhlmRxwfwI",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968719632940126200,
+   "id_str": "968719632940126213",
+   "created_at": "Wed Feb 28 05:28:53 +0000 2018",
+   "text": "That’s it. I’m heading south. https://t.co/xTux67wvwe",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968718561215762400,
+   "id_str": "968718561215762432",
+   "created_at": "Wed Feb 28 05:24:37 +0000 2018",
+   "text": "@markjaquith @JJJ It’s called screening. People who don’t realise this is a phishing email are also more likely to… https://t.co/dHDjifgEho",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 968699206444683300,
+   "in_reply_to_status_id_str": "968699206444683270",
+   "in_reply_to_screen_name": "markjaquith",
+   "urls": [
+    {
+     "url": "https://t.co/dHDjifgEho",
+     "expand": "https://twitter.com/i/web/status/968718561215762432"
+    }
+   ]
+  },
+  {
+   "id": 968525039468470300,
+   "id_str": "968525039468470272",
+   "created_at": "Tue Feb 27 16:35:38 +0000 2018",
+   "text": "@EeliWordman @kyyberi @janikarh Lisätkää swagger.json ! :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Helsinki, Suomi",
+   "in_reply_to_status_id": 968407155127840800,
+   "in_reply_to_status_id_str": "968407155127840768",
+   "in_reply_to_screen_name": "EeliWordman",
+   "urls": []
+  },
+  {
+   "id": 968370845218492400,
+   "id_str": "968370845218492421",
+   "created_at": "Tue Feb 27 06:22:55 +0000 2018",
+   "text": "RT @rooperuohonen: Tuuli on sattumasähköä, täällä ei paista aurinko, biopolttoaineiden ekologisuus on kyseenalaista, joet on jo täynnä voim…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968092660689965000,
+    "id_str": "968092660689965056",
+    "created_at": "Mon Feb 26 11:57:31 +0000 2018",
+    "text": "Tuuli on sattumasähköä, täällä ei paista aurinko, biopolttoaineiden ekologisuus on kyseenalaista, joet on jo täynnä… https://t.co/5GCVvkgOMr",
+    "retweet_count": 10,
+    "favorite_count": 28,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5GCVvkgOMr",
+      "expand": "https://twitter.com/i/web/status/968092660689965056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968366797803130900,
+   "id_str": "968366797803130881",
+   "created_at": "Tue Feb 27 06:06:50 +0000 2018",
+   "text": "RT @anttti: Omaa torvea tööttäillen, toinen https://t.co/dLn57ToMnU -podcastin jakso nyt ulkona! 5/5! https://t.co/unyPjdEMqx",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dLn57ToMnU",
+     "expand": "http://Webbidevaus.fi"
+    },
+    {
+     "url": "https://t.co/unyPjdEMqx",
+     "expand": "https://twitter.com/webbidevaus/status/968186382995873793"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968186984517767200,
+    "id_str": "968186984517767174",
+    "created_at": "Mon Feb 26 18:12:19 +0000 2018",
+    "text": "Omaa torvea tööttäillen, toinen https://t.co/dLn57ToMnU -podcastin jakso nyt ulkona! 5/5! https://t.co/unyPjdEMqx",
+    "retweet_count": 5,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dLn57ToMnU",
+      "expand": "http://Webbidevaus.fi"
+     },
+     {
+      "url": "https://t.co/unyPjdEMqx",
+      "expand": "https://twitter.com/webbidevaus/status/968186382995873793"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968365735461445600,
+   "id_str": "968365735461445633",
+   "created_at": "Tue Feb 27 06:02:37 +0000 2018",
+   "text": "@terolahtinen @anttti Onkohan Stallman taipunut jo tähän 🤔",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Riihimäki, Suomi",
+   "in_reply_to_status_id": 968364676387147800,
+   "in_reply_to_status_id_str": "968364676387147776",
+   "in_reply_to_screen_name": "terolahtinen",
+   "urls": []
+  },
+  {
+   "id": 968363790562680800,
+   "id_str": "968363790562680832",
+   "created_at": "Tue Feb 27 05:54:53 +0000 2018",
+   "text": "RT @anttti: Interesting data about programming language popularity in GitHub: https://t.co/YFLnwT7GHA\n\nRuby in a steep decline since 2011,…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YFLnwT7GHA",
+     "expand": "http://www.benfrederickson.com/ranking-programming-languages-by-github-users/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968363410286170100,
+    "id_str": "968363410286170114",
+    "created_at": "Tue Feb 27 05:53:22 +0000 2018",
+    "text": "Interesting data about programming language popularity in GitHub: https://t.co/YFLnwT7GHA\n\nRuby in a steep decline… https://t.co/2kHLzSm5uC",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YFLnwT7GHA",
+      "expand": "http://www.benfrederickson.com/ranking-programming-languages-by-github-users/"
+     },
+     {
+      "url": "https://t.co/2kHLzSm5uC",
+      "expand": "https://twitter.com/i/web/status/968363410286170114"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967805330863349800,
+   "id_str": "967805330863349762",
+   "created_at": "Sun Feb 25 16:55:46 +0000 2018",
+   "text": "RT @kelseyhightower: Serverless platforms need to support container images as deployable artifacts in addition to zip files and source repo…",
+   "retweet_count": 74,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967804294148714500,
+    "id_str": "967804294148714496",
+    "created_at": "Sun Feb 25 16:51:39 +0000 2018",
+    "text": "Serverless platforms need to support container images as deployable artifacts in addition to zip files and source repos.",
+    "retweet_count": 74,
+    "favorite_count": 347,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 967676036619096000,
+   "id_str": "967676036619096064",
+   "created_at": "Sun Feb 25 08:22:00 +0000 2018",
+   "text": "Play the game, watch the film. https://t.co/Y8WzerWebu",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Y8WzerWebu",
+     "expand": "http://store.steampowered.com/app/804320/Papers_Please__The_Short_Film/"
+    }
+   ]
+  },
+  {
+   "id": 967663283519082500,
+   "id_str": "967663283519082496",
+   "created_at": "Sun Feb 25 07:31:19 +0000 2018",
+   "text": "RT @kvlly: Cruel. https://t.co/Lt9sDfa7XN",
+   "retweet_count": 301,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967426851663728600,
+    "id_str": "967426851663728640",
+    "created_at": "Sat Feb 24 15:51:50 +0000 2018",
+    "text": "Cruel. https://t.co/Lt9sDfa7XN",
+    "retweet_count": 301,
+    "favorite_count": 993,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 967658490637508600,
+   "id_str": "967658490637508608",
+   "created_at": "Sun Feb 25 07:12:17 +0000 2018",
+   "text": "@_Tx3 Väitän että ennustuksesi on muuten käynyt toteen, mutta visuaaliset työkalut vaan ovat osoittautuneet kömpelö… https://t.co/p6lfNXrmJw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 967656146621386800,
+   "in_reply_to_status_id_str": "967656146621386752",
+   "in_reply_to_screen_name": "_Tx3",
+   "urls": [
+    {
+     "url": "https://t.co/p6lfNXrmJw",
+     "expand": "https://twitter.com/i/web/status/967658490637508608"
+    }
+   ]
+  },
+  {
+   "id": 967652282253938700,
+   "id_str": "967652282253938688",
+   "created_at": "Sun Feb 25 06:47:36 +0000 2018",
+   "text": "@sakari Suomessa myös siitä jännä tilanne tuollaiseen doomsday-tilanteeseen että periaatteessa jokainen aikuinen mi… https://t.co/h2t6WhLxZ1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 967541105360343000,
+   "in_reply_to_status_id_str": "967541105360343040",
+   "in_reply_to_screen_name": "sakari",
+   "urls": [
+    {
+     "url": "https://t.co/h2t6WhLxZ1",
+     "expand": "https://twitter.com/i/web/status/967652282253938688"
+    }
+   ]
+  },
+  {
+   "id": 967530207409209300,
+   "id_str": "967530207409209344",
+   "created_at": "Sat Feb 24 22:42:31 +0000 2018",
+   "text": "RT @iamdevloper: \"You get root access! You get root access! You get root access! You get root access! Everybody gets root access!\" Oprah ex…",
+   "retweet_count": 637,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967076266661818400,
+    "id_str": "967076266661818376",
+    "created_at": "Fri Feb 23 16:38:44 +0000 2018",
+    "text": "\"You get root access! You get root access! You get root access! You get root access! Everybody gets root access!\" O… https://t.co/HOd7A505yx",
+    "retweet_count": 637,
+    "favorite_count": 2415,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HOd7A505yx",
+      "expand": "https://twitter.com/i/web/status/967076266661818376"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967525677632245800,
+   "id_str": "967525677632245760",
+   "created_at": "Sat Feb 24 22:24:31 +0000 2018",
+   "text": "@samponev Love how the two big buttons were mapped to the same button :D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967522335233335300,
+   "in_reply_to_status_id_str": "967522335233335297",
+   "in_reply_to_screen_name": "samponev",
+   "urls": []
+  },
+  {
+   "id": 967518832171585500,
+   "id_str": "967518832171585536",
+   "created_at": "Sat Feb 24 21:57:19 +0000 2018",
+   "text": "I used to have this exact one as a kid! &lt;3 https://t.co/4L5KBYq550",
    "retweet_count": 0,
    "favorite_count": 4,
    "place": null,
@@ -682,17 +1651,228 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/C3iqoWuck6",
-     "expand": "https://twitter.com/i/web/status/965478882672508928"
+     "url": "https://t.co/4L5KBYq550",
+     "expand": "https://twitter.com/mikko/status/967518536246747137"
     }
    ]
   },
   {
-   "id": 965473173440524300,
-   "id_str": "965473173440524288",
-   "created_at": "Mon Feb 19 06:28:36 +0000 2018",
-   "text": "RT @LauraIsop: Moni äiti ei odota tyttärestään koodaria,saati osaa kannustaa siihen. Itse tajusin jossain vaiheessa, että polulta on poiket…",
-   "retweet_count": 46,
+   "id": 967515809286443000,
+   "id_str": "967515809286443011",
+   "created_at": "Sat Feb 24 21:45:19 +0000 2018",
+   "text": "@andrestaltz @ilkkasamuli We still remember which country was the one that actually shed light globally on mass gov… https://t.co/uTBPvgRIWd",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967509949197697000,
+   "in_reply_to_status_id_str": "967509949197697024",
+   "in_reply_to_screen_name": "andrestaltz",
+   "urls": [
+    {
+     "url": "https://t.co/uTBPvgRIWd",
+     "expand": "https://twitter.com/i/web/status/967515809286443011"
+    }
+   ]
+  },
+  {
+   "id": 967512471585153000,
+   "id_str": "967512471585153024",
+   "created_at": "Sat Feb 24 21:32:03 +0000 2018",
+   "text": "@ilkkasamuli The question on the conservative side is still whether guns are really the root issue. And whether sim… https://t.co/ndUkyegApi",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967512078838792200,
+   "in_reply_to_status_id_str": "967512078838792192",
+   "in_reply_to_screen_name": "anttiviljami",
+   "urls": [
+    {
+     "url": "https://t.co/ndUkyegApi",
+     "expand": "https://twitter.com/i/web/status/967512471585153024"
+    }
+   ]
+  },
+  {
+   "id": 967512078838792200,
+   "id_str": "967512078838792192",
+   "created_at": "Sat Feb 24 21:30:29 +0000 2018",
+   "text": "@ilkkasamuli Yes, but the relevant thing to ask would be how far do they need to go for this to fix the violence is… https://t.co/bVAgPwKhGk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967510446159822800,
+   "in_reply_to_status_id_str": "967510446159822849",
+   "in_reply_to_screen_name": "ilkkasamuli",
+   "urls": [
+    {
+     "url": "https://t.co/bVAgPwKhGk",
+     "expand": "https://twitter.com/i/web/status/967512078838792192"
+    }
+   ]
+  },
+  {
+   "id": 967510902852538400,
+   "id_str": "967510902852538368",
+   "created_at": "Sat Feb 24 21:25:49 +0000 2018",
+   "text": "@andrestaltz @ilkkasamuli Although I don't see it as a likely thing to ever happen, I don't see asymmetric warfare… https://t.co/SUa7zsuo9u",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967509949197697000,
+   "in_reply_to_status_id_str": "967509949197697024",
+   "in_reply_to_screen_name": "andrestaltz",
+   "urls": [
+    {
+     "url": "https://t.co/SUa7zsuo9u",
+     "expand": "https://twitter.com/i/web/status/967510902852538368"
+    }
+   ]
+  },
+  {
+   "id": 967510202097512400,
+   "id_str": "967510202097512448",
+   "created_at": "Sat Feb 24 21:23:02 +0000 2018",
+   "text": "@ilkkasamuli Most of that stuff is already federal law, contrary to popular belief. Automatic weapons have been com… https://t.co/hOgLVWrF9B",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967508196784001000,
+   "in_reply_to_status_id_str": "967508196784001025",
+   "in_reply_to_screen_name": "ilkkasamuli",
+   "urls": [
+    {
+     "url": "https://t.co/hOgLVWrF9B",
+     "expand": "https://twitter.com/i/web/status/967510202097512448"
+    }
+   ]
+  },
+  {
+   "id": 967509233158717400,
+   "id_str": "967509233158717440",
+   "created_at": "Sat Feb 24 21:19:11 +0000 2018",
+   "text": "@ilkkasamuli You would be in good company. Your opinion seems to be the growing one. Looks pretty likely the US wil… https://t.co/5HfBU1Vx2I",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967507373052002300,
+   "in_reply_to_status_id_str": "967507373052002306",
+   "in_reply_to_screen_name": "ilkkasamuli",
+   "urls": [
+    {
+     "url": "https://t.co/5HfBU1Vx2I",
+     "expand": "https://twitter.com/i/web/status/967509233158717440"
+    }
+   ]
+  },
+  {
+   "id": 967506937096163300,
+   "id_str": "967506937096163328",
+   "created_at": "Sat Feb 24 21:10:03 +0000 2018",
+   "text": "@ilkkasamuli What would more control mean in your view?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967506438313709600,
+   "in_reply_to_status_id_str": "967506438313709568",
+   "in_reply_to_screen_name": "ilkkasamuli",
+   "urls": []
+  },
+  {
+   "id": 967506438393335800,
+   "id_str": "967506438393335808",
+   "created_at": "Sat Feb 24 21:08:04 +0000 2018",
+   "text": "@ilkkasamuli I don't believe the solution is that straightforward unfortunately. Perhaps making large-scale changes… https://t.co/XdcASoIfm1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967505662392569900,
+   "in_reply_to_status_id_str": "967505662392569858",
+   "in_reply_to_screen_name": "anttiviljami",
+   "urls": [
+    {
+     "url": "https://t.co/XdcASoIfm1",
+     "expand": "https://twitter.com/i/web/status/967506438393335808"
+    }
+   ]
+  },
+  {
+   "id": 967505662392569900,
+   "id_str": "967505662392569858",
+   "created_at": "Sat Feb 24 21:04:59 +0000 2018",
+   "text": "@ilkkasamuli Absolutely agree with that. If giving up on the 2nd amendment would really remove all the violence tha… https://t.co/ZH7W1wApEn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967503746698764300,
+   "in_reply_to_status_id_str": "967503746698764288",
+   "in_reply_to_screen_name": "ilkkasamuli",
+   "urls": [
+    {
+     "url": "https://t.co/ZH7W1wApEn",
+     "expand": "https://twitter.com/i/web/status/967505662392569858"
+    }
+   ]
+  },
+  {
+   "id": 967502588013838300,
+   "id_str": "967502588013838337",
+   "created_at": "Sat Feb 24 20:52:46 +0000 2018",
+   "text": "@ilkkasamuli No, the constitution protects the right to guns, which citizens can then consult when doomsday comes.… https://t.co/x9lw8Y9m7p",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967501867344388100,
+   "in_reply_to_status_id_str": "967501867344388097",
+   "in_reply_to_screen_name": "ilkkasamuli",
+   "urls": [
+    {
+     "url": "https://t.co/x9lw8Y9m7p",
+     "expand": "https://twitter.com/i/web/status/967502588013838337"
+    }
+   ]
+  },
+  {
+   "id": 967502029395497000,
+   "id_str": "967502029395496960",
+   "created_at": "Sat Feb 24 20:50:33 +0000 2018",
+   "text": "@Jrvinen_J Virolla kävi älytön tuuri ensimmäisen Neuvostoliiton jälkeisen pääministerivalinnan kanssa. Siirtymä kom… https://t.co/gArcdTvVGU",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 967501161841463300,
+   "in_reply_to_status_id_str": "967501161841463296",
+   "in_reply_to_screen_name": "Jrvinen_J",
+   "urls": [
+    {
+     "url": "https://t.co/gArcdTvVGU",
+     "expand": "https://twitter.com/i/web/status/967502029395496960"
+    }
+   ]
+  },
+  {
+   "id": 967489715011276800,
+   "id_str": "967489715011276801",
+   "created_at": "Sat Feb 24 20:01:37 +0000 2018",
+   "text": "Vox is right. Europeans don't get that the 2nd amendment is a doomsday provision designed for exceptionally rare ci… https://t.co/OGLaedTlvy",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OGLaedTlvy",
+     "expand": "https://twitter.com/i/web/status/967489715011276801"
+    }
+   ]
+  },
+  {
+   "id": 967482968745930800,
+   "id_str": "967482968745930753",
+   "created_at": "Sat Feb 24 19:34:49 +0000 2018",
+   "text": "RT @CatoInstitute: Most Economically Free Countries:\n1. Hong Kong\n2. Singapore\n3. New Zealand\n4. Switzerland\n5. Ireland\n\nFull rankings: htt…",
+   "retweet_count": 268,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -700,30 +1880,105 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964945683261378600,
-    "id_str": "964945683261378560",
-    "created_at": "Sat Feb 17 19:32:33 +0000 2018",
-    "text": "Moni äiti ei odota tyttärestään koodaria,saati osaa kannustaa siihen. Itse tajusin jossain vaiheessa, että polulta… https://t.co/ho1Ii41S1r",
-    "retweet_count": 46,
-    "favorite_count": 312,
+    "id": 967338855841005600,
+    "id_str": "967338855841005574",
+    "created_at": "Sat Feb 24 10:02:10 +0000 2018",
+    "text": "Most Economically Free Countries:\n1. Hong Kong\n2. Singapore\n3. New Zealand\n4. Switzerland\n5. Ireland\n\nFull rankings… https://t.co/5RD7otNl0r",
+    "retweet_count": 268,
+    "favorite_count": 498,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/ho1Ii41S1r",
-      "expand": "https://twitter.com/i/web/status/964945683261378560"
+      "url": "https://t.co/5RD7otNl0r",
+      "expand": "https://twitter.com/i/web/status/967338855841005574"
      }
     ]
    }
   },
   {
-   "id": 964908825072558100,
-   "id_str": "964908825072558081",
-   "created_at": "Sat Feb 17 17:06:05 +0000 2018",
-   "text": "RT @newsycombinator: Wget in 50 lines of C code https://t.co/8ZiGOufhrw",
-   "retweet_count": 38,
+   "id": 967466149918199800,
+   "id_str": "967466149918199814",
+   "created_at": "Sat Feb 24 18:27:59 +0000 2018",
+   "text": "@tumpeG https://t.co/A7IXEbwxaY",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967465882330042400,
+   "in_reply_to_status_id_str": "967465882330042368",
+   "in_reply_to_screen_name": "tumpeG",
+   "urls": [
+    {
+     "url": "https://t.co/A7IXEbwxaY",
+     "expand": "https://memegenerator.net/img/instances/60591193/aivan-vitun-laitonta.jpg"
+    }
+   ]
+  },
+  {
+   "id": 967416247360081900,
+   "id_str": "967416247360081925",
+   "created_at": "Sat Feb 24 15:09:41 +0000 2018",
+   "text": "Valitettavasti kovin harva osaa liimata niitä palikoita yhteen palveluiksi. Siinä vaaditaan vielä ammattitaitoa.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 967415572249088000,
+   "in_reply_to_status_id_str": "967415572249088002",
+   "in_reply_to_screen_name": "anttiviljami",
+   "urls": []
+  },
+  {
+   "id": 967415572249088000,
+   "id_str": "967415572249088002",
+   "created_at": "Sat Feb 24 15:07:00 +0000 2018",
+   "text": "”Tulevaisuuden ohjelmointi on pääasiassa valmiiden legopalikoiden yhdistelyä” \n\nSitä se kyllä on ollut jo pitkään a… https://t.co/3ezQBODM6b",
+   "retweet_count": 3,
+   "favorite_count": 8,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3ezQBODM6b",
+     "expand": "https://twitter.com/i/web/status/967415572249088002"
+    }
+   ]
+  },
+  {
+   "id": 967373511059787800,
+   "id_str": "967373511059787776",
+   "created_at": "Sat Feb 24 12:19:52 +0000 2018",
+   "text": "@sakari The only way to do good is to fail first",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": 967373312010735600,
+   "in_reply_to_status_id_str": "967373312010735616",
+   "in_reply_to_screen_name": "sakari",
+   "urls": []
+  },
+  {
+   "id": 967328763267731500,
+   "id_str": "967328763267731458",
+   "created_at": "Sat Feb 24 09:22:03 +0000 2018",
+   "text": "Best 👏 way 👏 to 👏 learn 👏 is 👏 by 👏 doing",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": "Tampere, Suomi",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 966954686753529900,
+   "id_str": "966954686753529856",
+   "created_at": "Fri Feb 23 08:35:37 +0000 2018",
+   "text": "RT @jarkko: Same. https://t.co/NuG88MMzg5",
+   "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -731,35 +1986,48 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/8ZiGOufhrw",
-     "expand": "http://libdill.org/tutorial-sockets.html"
+     "url": "https://t.co/NuG88MMzg5",
+     "expand": "https://twitter.com/rich_kilmer/status/966938893072265217"
     }
    ],
    "retweeted_status": {
-    "id": 964907741134377000,
-    "id_str": "964907741134376962",
-    "created_at": "Sat Feb 17 17:01:47 +0000 2018",
-    "text": "Wget in 50 lines of C code https://t.co/8ZiGOufhrw",
-    "retweet_count": 38,
-    "favorite_count": 106,
-    "place": null,
+    "id": 966954384251736000,
+    "id_str": "966954384251736064",
+    "created_at": "Fri Feb 23 08:34:25 +0000 2018",
+    "text": "Same. https://t.co/NuG88MMzg5",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": "Tampere, Suomi",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/8ZiGOufhrw",
-      "expand": "http://libdill.org/tutorial-sockets.html"
+      "url": "https://t.co/NuG88MMzg5",
+      "expand": "https://twitter.com/rich_kilmer/status/966938893072265217"
      }
     ]
    }
   },
   {
-   "id": 964906483531092000,
-   "id_str": "964906483531091969",
-   "created_at": "Sat Feb 17 16:56:47 +0000 2018",
-   "text": "RT @reactjs: We're relicensing React Native (including Fresco, Metro, and Yoga) under the MIT license to match React. https://t.co/Ypg7ozX9…",
-   "retweet_count": 1693,
+   "id": 966948816590078000,
+   "id_str": "966948816590077952",
+   "created_at": "Fri Feb 23 08:12:17 +0000 2018",
+   "text": "@anttti Wow this really really sucks. Life just comes at you sometimes and it’s unfair. \n\n:(",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Tuusula, Suomi",
+   "in_reply_to_status_id": 966946322208051200,
+   "in_reply_to_status_id_str": "966946322208051200",
+   "in_reply_to_screen_name": "anttti",
+   "urls": []
+  },
+  {
+   "id": 966944676837081100,
+   "id_str": "966944676837081088",
+   "created_at": "Fri Feb 23 07:55:50 +0000 2018",
+   "text": "RT @Kopponen: Taidamme edelleen elää maailmassa, jossa osa organisaatioista palkitsee työntekijänsä pitkästä urasta ko. organisaatiossa. Ku…",
+   "retweet_count": 9,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -767,22 +2035,48 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964689022747476000,
-    "id_str": "964689022747475968",
-    "created_at": "Sat Feb 17 02:32:40 +0000 2018",
-    "text": "We're relicensing React Native (including Fresco, Metro, and Yoga) under the MIT license to match React. https://t.co/Ypg7ozX958",
-    "retweet_count": 1693,
-    "favorite_count": 4035,
-    "place": null,
+    "id": 966924371657834500,
+    "id_str": "966924371657834496",
+    "created_at": "Fri Feb 23 06:35:09 +0000 2018",
+    "text": "Taidamme edelleen elää maailmassa, jossa osa organisaatioista palkitsee työntekijänsä pitkästä urasta ko. organisaa… https://t.co/Y4f688HXvB",
+    "retweet_count": 9,
+    "favorite_count": 55,
+    "place": "Helsinki, Suomi",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/Ypg7ozX958",
-      "expand": "https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88"
+      "url": "https://t.co/Y4f688HXvB",
+      "expand": "https://twitter.com/i/web/status/966924371657834496"
      }
     ]
+   }
+  },
+  {
+   "id": 966942648450785300,
+   "id_str": "966942648450785281",
+   "created_at": "Fri Feb 23 07:47:46 +0000 2018",
+   "text": "RT @wesbos: 🔥 .toLocaleString() is a great way to format currency https://t.co/cChSSdWCH9",
+   "retweet_count": 843,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966697179904651300,
+    "id_str": "966697179904651264",
+    "created_at": "Thu Feb 22 15:32:22 +0000 2018",
+    "text": "🔥 .toLocaleString() is a great way to format currency https://t.co/cChSSdWCH9",
+    "retweet_count": 843,
+    "favorite_count": 2802,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
    }
   }
  ]

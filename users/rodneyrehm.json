@@ -1,42 +1,109 @@
 {
- "time": 1519367415294,
+ "time": 1522595167245,
  "lists": [
   {
-   "id": 966708640286675000,
-   "id_str": "966708640286674944",
-   "created_at": "Thu Feb 22 16:17:55 +0000 2018",
-   "text": "RT @chriscoyier: Good example of _if you build a sweet site for your idea people will pay way more attention to it_. \n\nhttps://t.co/yRZ5LTD…",
-   "retweet_count": 80,
+   "id": 980099113319567400,
+   "id_str": "980099113319567361",
+   "created_at": "Sat Mar 31 15:06:52 +0000 2018",
+   "text": "@simevidas that’s what command + shift + w is for. it works. Not sure why it’s labeled wrong, though…",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 980096653448372200,
+   "in_reply_to_status_id_str": "980096653448372225",
+   "in_reply_to_screen_name": "simevidas",
+   "urls": []
+  },
+  {
+   "id": 979782020229468200,
+   "id_str": "979782020229468160",
+   "created_at": "Fri Mar 30 18:06:51 +0000 2018",
+   "text": "RT @workingdraft: Revision 333: Webcompat und Open Source Arbeit https://t.co/rE87HhtpFo mit @misprintedtype",
+   "retweet_count": 4,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
+   "urls": [
+    {
+     "url": "https://t.co/rE87HhtpFo",
+     "expand": "http://workingdraft.de/333/"
+    }
+   ],
    "retweeted_status": {
-    "id": 966705481350750200,
-    "id_str": "966705481350750209",
-    "created_at": "Thu Feb 22 16:05:21 +0000 2018",
-    "text": "Good example of _if you build a sweet site for your idea people will pay way more attention to it_. \n\nhttps://t.co/yRZ5LTDXfq\n\n👍",
-    "retweet_count": 80,
-    "favorite_count": 443,
-    "place": "Bend, OR",
+    "id": 979670056698368000,
+    "id_str": "979670056698368002",
+    "created_at": "Fri Mar 30 10:41:57 +0000 2018",
+    "text": "Revision 333: Webcompat und Open Source Arbeit https://t.co/rE87HhtpFo mit @misprintedtype",
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/yRZ5LTDXfq",
-      "expand": "https://basicscroll.electerious.com/"
+      "url": "https://t.co/rE87HhtpFo",
+      "expand": "http://workingdraft.de/333/"
      }
     ]
    }
   },
   {
-   "id": 966352909217812500,
-   "id_str": "966352909217812481",
-   "created_at": "Wed Feb 21 16:44:22 +0000 2018",
-   "text": "RT @davidwalshblog: TIL: CODEOWNERS file on GitHub:\n\nhttps://t.co/zhimQvgwIV",
+   "id": 979647650352988200,
+   "id_str": "979647650352988160",
+   "created_at": "Fri Mar 30 09:12:55 +0000 2018",
+   "text": "Happy @dantz Day!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978915704878649300,
+   "id_str": "978915704878649344",
+   "created_at": "Wed Mar 28 08:44:26 +0000 2018",
+   "text": "RT @nightlybuildio: 🎫 Tickets are live now, grab yours and join our 5th evening conference! https://t.co/SlQCut141N",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SlQCut141N",
+     "expand": "https://colloq.io/events/nightlybuild/2018/koln/1#tickets"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978907285119557600,
+    "id_str": "978907285119557633",
+    "created_at": "Wed Mar 28 08:10:58 +0000 2018",
+    "text": "🎫 Tickets are live now, grab yours and join our 5th evening conference! https://t.co/SlQCut141N",
+    "retweet_count": 15,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SlQCut141N",
+      "expand": "https://colloq.io/events/nightlybuild/2018/koln/1#tickets"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978330597830680600,
+   "id_str": "978330597830680577",
+   "created_at": "Mon Mar 26 17:59:25 +0000 2018",
+   "text": "RT @workingdraft: Revision 332: Die V8 JavaScript Engine https://t.co/ncipP9rELD mit @bmeurer",
    "retweet_count": 9,
    "favorite_count": 0,
    "place": null,
@@ -45,172 +112,665 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/zhimQvgwIV",
-     "expand": "https://help.github.com/articles/about-codeowners/"
+     "url": "https://t.co/ncipP9rELD",
+     "expand": "http://workingdraft.de/332/"
     }
    ],
    "retweeted_status": {
-    "id": 966351290354880500,
-    "id_str": "966351290354880518",
-    "created_at": "Wed Feb 21 16:37:56 +0000 2018",
-    "text": "TIL: CODEOWNERS file on GitHub:\n\nhttps://t.co/zhimQvgwIV",
+    "id": 978329790959714300,
+    "id_str": "978329790959714304",
+    "created_at": "Mon Mar 26 17:56:13 +0000 2018",
+    "text": "Revision 332: Die V8 JavaScript Engine https://t.co/ncipP9rELD mit @bmeurer",
     "retweet_count": 9,
-    "favorite_count": 11,
+    "favorite_count": 17,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/zhimQvgwIV",
-      "expand": "https://help.github.com/articles/about-codeowners/"
+      "url": "https://t.co/ncipP9rELD",
+      "expand": "http://workingdraft.de/332/"
      }
     ]
    }
   },
   {
-   "id": 966090052731375600,
-   "id_str": "966090052731375616",
-   "created_at": "Tue Feb 20 23:19:52 +0000 2018",
-   "text": "RT @iamsapegin: “You wanted a button but what you got was a gorilla holding the button and an entire JS framework.” @mxstbr \nhttps://t.co/k…",
-   "retweet_count": 5,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966037961883226100,
-    "id_str": "966037961883226119",
-    "created_at": "Tue Feb 20 19:52:52 +0000 2018",
-    "text": "“You wanted a button but what you got was a gorilla holding the button and an entire JS framework.” @mxstbr \nhttps://t.co/kPSwB74HjK",
-    "retweet_count": 5,
-    "favorite_count": 16,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/kPSwB74HjK",
-      "expand": "https://youtu.be/PUPEptN5MtM"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966082827736494100,
-   "id_str": "966082827736494080",
-   "created_at": "Tue Feb 20 22:51:09 +0000 2018",
-   "text": "RT @bcrypt: new blog post: thoughts on the information apocalypse. https://t.co/31Hbal2GPf",
-   "retweet_count": 44,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/31Hbal2GPf",
-     "expand": "https://diracdeltas.github.io/blog/information-apocalypse/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966018656508366800,
-    "id_str": "966018656508366848",
-    "created_at": "Tue Feb 20 18:36:10 +0000 2018",
-    "text": "new blog post: thoughts on the information apocalypse. https://t.co/31Hbal2GPf",
-    "retweet_count": 44,
-    "favorite_count": 107,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/31Hbal2GPf",
-      "expand": "https://diracdeltas.github.io/blog/information-apocalypse/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966079929203994600,
-   "id_str": "966079929203994624",
-   "created_at": "Tue Feb 20 22:39:38 +0000 2018",
-   "text": "RT @humphd: Maintainers dismissing a PR by a new dev in favour of one they write themselves are missing an opportunity.  Via reviews, help…",
-   "retweet_count": 5,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966003038447128600,
-    "id_str": "966003038447128577",
-    "created_at": "Tue Feb 20 17:34:06 +0000 2018",
-    "text": "Maintainers dismissing a PR by a new dev in favour of one they write themselves are missing an opportunity.  Via re… https://t.co/PzAKvyFpIo",
-    "retweet_count": 5,
-    "favorite_count": 20,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/PzAKvyFpIo",
-      "expand": "https://twitter.com/i/web/status/966003038447128577"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966051543433740300,
-   "id_str": "966051543433740293",
-   "created_at": "Tue Feb 20 20:46:50 +0000 2018",
-   "text": "played with the new unicode RegExp stuff - https://t.co/QEnHARTyi4\n\nThe patterns all perform the same.\n\nNo point in… https://t.co/h6lt573SWc",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/QEnHARTyi4",
-     "expand": "https://mathiasbynens.be/demo/pattern-u-property-escapes"
-    },
-    {
-     "url": "https://t.co/h6lt573SWc",
-     "expand": "https://twitter.com/i/web/status/966051543433740293"
-    }
-   ]
-  },
-  {
-   "id": 966043456077516800,
-   "id_str": "966043456077516800",
-   "created_at": "Tue Feb 20 20:14:42 +0000 2018",
-   "text": "@cjk101010 we’re getting there… https://t.co/uO8yqDoSdU",
+   "id": 977210658717601800,
+   "id_str": "977210658717601792",
+   "created_at": "Fri Mar 23 15:49:11 +0000 2018",
+   "text": "@patrick_h_lauke basically what my reply says… just less british in tone :P",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 966043118570221600,
-   "in_reply_to_status_id_str": "966043118570221570",
-   "in_reply_to_screen_name": "cjk101010",
+   "in_reply_to_status_id": 977210519038890000,
+   "in_reply_to_status_id_str": "977210519038889986",
+   "in_reply_to_screen_name": "patrick_h_lauke",
+   "urls": []
+  },
+  {
+   "id": 977209604986765300,
+   "id_str": "977209604986765312",
+   "created_at": "Fri Mar 23 15:45:00 +0000 2018",
+   "text": "»… I am looking for engineers for our Frontend team here in London (Soho), UK.«\n\nyeah, not sure moving to  Brexitis… https://t.co/kO8hHYJtrP",
+   "retweet_count": 3,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/uO8yqDoSdU",
-     "expand": "https://caniuse.com/#search=serviceworker"
+     "url": "https://t.co/kO8hHYJtrP",
+     "expand": "https://twitter.com/i/web/status/977209604986765312"
     }
    ]
   },
   {
-   "id": 966021970121945100,
-   "id_str": "966021970121945089",
-   "created_at": "Tue Feb 20 18:49:20 +0000 2018",
-   "text": "Messaging Between Tabs Using Service Worker - https://t.co/XjyDkF7Zsp",
+   "id": 977188229920239600,
+   "id_str": "977188229920239617",
+   "created_at": "Fri Mar 23 14:20:03 +0000 2018",
+   "text": "Making mistakes - https://t.co/crnJxRSAh0 - replace Python and Django with JavaScript and $frontendFramework and yo… https://t.co/H7vdUcmasU",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/crnJxRSAh0",
+     "expand": "https://www.b-list.org/weblog/2018/mar/20/mistakes/"
+    },
+    {
+     "url": "https://t.co/H7vdUcmasU",
+     "expand": "https://twitter.com/i/web/status/977188229920239617"
+    }
+   ]
+  },
+  {
+   "id": 977101965867044900,
+   "id_str": "977101965867044864",
+   "created_at": "Fri Mar 23 08:37:16 +0000 2018",
+   "text": "RT @helloanselm: Holy shit, prepare for something big to land in your inbox today. Such a crazy week. Subscribe now: https://t.co/zmPJRNs74j",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zmPJRNs74j",
+     "expand": "https://wdrl.info/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 977096013436608500,
+    "id_str": "977096013436608512",
+    "created_at": "Fri Mar 23 08:13:37 +0000 2018",
+    "text": "Holy shit, prepare for something big to land in your inbox today. Such a crazy week. Subscribe now: https://t.co/zmPJRNs74j",
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zmPJRNs74j",
+      "expand": "https://wdrl.info/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976851452323868700,
+   "id_str": "976851452323868674",
+   "created_at": "Thu Mar 22 16:01:49 +0000 2018",
+   "text": "RT @codepo8: Behind the Illusions\nImpossibly high-performance layout animations\nhttps://t.co/ojDHNyiQ0b \n@DavidKPiano's slides on smoothing…",
+   "retweet_count": 29,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ojDHNyiQ0b",
+     "expand": "https://slides.com/davidkhourshid/illusions#/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976831962936684500,
+    "id_str": "976831962936684544",
+    "created_at": "Thu Mar 22 14:44:23 +0000 2018",
+    "text": "Behind the Illusions\nImpossibly high-performance layout animations\nhttps://t.co/ojDHNyiQ0b \n@DavidKPiano's slides o… https://t.co/kA1cnDffm9",
+    "retweet_count": 29,
+    "favorite_count": 52,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ojDHNyiQ0b",
+      "expand": "https://slides.com/davidkhourshid/illusions#/"
+     },
+     {
+      "url": "https://t.co/kA1cnDffm9",
+      "expand": "https://twitter.com/i/web/status/976831962936684544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976789593398890500,
+   "id_str": "976789593398890496",
+   "created_at": "Thu Mar 22 11:56:01 +0000 2018",
+   "text": "RT @helloanselm: The real story of Cambridge Analytica and Facebook is about how you design your own service and how you enforce your value…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976750788281274400,
+    "id_str": "976750788281274368",
+    "created_at": "Thu Mar 22 09:21:49 +0000 2018",
+    "text": "The real story of Cambridge Analytica and Facebook is about how you design your own service and how you enforce you… https://t.co/2pqhFp36wo",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2pqhFp36wo",
+      "expand": "https://twitter.com/i/web/status/976750788281274368"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976744430412714000,
+   "id_str": "976744430412713985",
+   "created_at": "Thu Mar 22 08:56:33 +0000 2018",
+   "text": "@jkphl I’ll be in DUS 5th - 9th (10th if I manage to convince someone to pay for the DSGVO workshop) and leave for… https://t.co/bqggJvu76T",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976743551349469200,
+   "in_reply_to_status_id_str": "976743551349469184",
+   "in_reply_to_screen_name": "jkphl",
+   "urls": [
+    {
+     "url": "https://t.co/bqggJvu76T",
+     "expand": "https://twitter.com/i/web/status/976744430412713985"
+    }
+   ]
+  },
+  {
+   "id": 976741805772374000,
+   "id_str": "976741805772374016",
+   "created_at": "Thu Mar 22 08:46:08 +0000 2018",
+   "text": "@jkphl :( pretty sure I won’t make the 4th :(",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976725685829070800,
+   "in_reply_to_status_id_str": "976725685829070848",
+   "in_reply_to_screen_name": "jkphl",
+   "urls": []
+  },
+  {
+   "id": 976544888727785500,
+   "id_str": "976544888727785473",
+   "created_at": "Wed Mar 21 19:43:39 +0000 2018",
+   "text": "@petejohanson you mean you want to access .parts after you called .parse()? in v1.x that’s going to stay stable. No… https://t.co/LEZpMk5hEW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976543090059235300,
+   "in_reply_to_status_id_str": "976543090059235335",
+   "in_reply_to_screen_name": "petejohanson",
+   "urls": [
+    {
+     "url": "https://t.co/LEZpMk5hEW",
+     "expand": "https://twitter.com/i/web/status/976544888727785473"
+    }
+   ]
+  },
+  {
+   "id": 976131476726210600,
+   "id_str": "976131476726210560",
+   "created_at": "Tue Mar 20 16:20:54 +0000 2018",
+   "text": "Happy @heydonworks Day!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 975735748916891600,
+   "id_str": "975735748916891648",
+   "created_at": "Mon Mar 19 14:08:25 +0000 2018",
+   "text": "RT @stefanjudis: This sidedeck by @bmeurer and @mathias on ES2018 features is excellent. 👌 #javascript \nSo much good stuff coming! 🎉\n\nhttps…",
+   "retweet_count": 38,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975663671929180200,
+    "id_str": "975663671929180161",
+    "created_at": "Mon Mar 19 09:22:00 +0000 2018",
+    "text": "This sidedeck by @bmeurer and @mathias on ES2018 features is excellent. 👌 #javascript \nSo much good stuff coming! 🎉… https://t.co/T30UEI0I33",
+    "retweet_count": 38,
+    "favorite_count": 67,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/T30UEI0I33",
+      "expand": "https://twitter.com/i/web/status/975663671929180161"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975655555959312400,
+   "id_str": "975655555959312384",
+   "created_at": "Mon Mar 19 08:49:46 +0000 2018",
+   "text": "RT @codepo8: A Selfish Argument for Making the World a Better Place – Egoistic Altruism https://t.co/x5dx8lBoKh via @YouTube",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/x5dx8lBoKh",
+     "expand": "https://youtu.be/rvskMHn0sqQ"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975653533562351600,
+    "id_str": "975653533562351617",
+    "created_at": "Mon Mar 19 08:41:43 +0000 2018",
+    "text": "A Selfish Argument for Making the World a Better Place – Egoistic Altruism https://t.co/x5dx8lBoKh via @YouTube",
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/x5dx8lBoKh",
+      "expand": "https://youtu.be/rvskMHn0sqQ"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975639661958848500,
+   "id_str": "975639661958848512",
+   "created_at": "Mon Mar 19 07:46:36 +0000 2018",
+   "text": "@helloanselm yes… and in places I didn’t even know I had muscles ;)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975639460774899700,
+   "in_reply_to_status_id_str": "975639460774899712",
+   "in_reply_to_screen_name": "helloanselm",
+   "urls": []
+  },
+  {
+   "id": 975420767667093500,
+   "id_str": "975420767667093504",
+   "created_at": "Sun Mar 18 17:16:48 +0000 2018",
+   "text": "Went snowboarding in Davos this weekend - after nearly 10 years of not riding I still got it - but I totally forgot… https://t.co/IUI7jUywWP",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IUI7jUywWP",
+     "expand": "https://twitter.com/i/web/status/975420767667093504"
+    }
+   ]
+  },
+  {
+   "id": 974579557339721700,
+   "id_str": "974579557339721728",
+   "created_at": "Fri Mar 16 09:34:07 +0000 2018",
+   "text": "RT @brucel: Github: EU wants to require platforms to filter uploaded content (including code) https://t.co/hKdZbET8CB &lt; ah, the attempts to…",
+   "retweet_count": 35,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hKdZbET8CB",
+     "expand": "https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974573984833589200,
+    "id_str": "974573984833589248",
+    "created_at": "Fri Mar 16 09:11:59 +0000 2018",
+    "text": "Github: EU wants to require platforms to filter uploaded content (including code) https://t.co/hKdZbET8CB &lt; ah, the… https://t.co/uPgK04fZMV",
+    "retweet_count": 35,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hKdZbET8CB",
+      "expand": "https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/"
+     },
+     {
+      "url": "https://t.co/uPgK04fZMV",
+      "expand": "https://twitter.com/i/web/status/974573984833589248"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974227421401698300,
+   "id_str": "974227421401698304",
+   "created_at": "Thu Mar 15 10:14:52 +0000 2018",
+   "text": "RT @amsterdamjs: #IoT is one of the 🔥 hot topics that we're going to get into at the upcoming #AmsterdamJS.\n\nWe're bringing you an intervie…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974199422765748200,
+    "id_str": "974199422765748224",
+    "created_at": "Thu Mar 15 08:23:36 +0000 2018",
+    "text": "#IoT is one of the 🔥 hot topics that we're going to get into at the upcoming #AmsterdamJS.\n\nWe're bringing you an i… https://t.co/CDNjAn3ouC",
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CDNjAn3ouC",
+      "expand": "https://twitter.com/i/web/status/974199422765748224"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973462942762008600,
+   "id_str": "973462942762008576",
+   "created_at": "Tue Mar 13 07:37:06 +0000 2018",
+   "text": "am I drunk or was node-sass 4.8.1 unpublished from npm? https://t.co/VTpDWUndy4",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973319955553882100,
+   "id_str": "973319955553882112",
+   "created_at": "Mon Mar 12 22:08:55 +0000 2018",
+   "text": "RT @notwaldorf: How we think people use our documentation isn’t actually how they _actually_ use our documentation. I love this article by…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973268988514807800,
+    "id_str": "973268988514807808",
+    "created_at": "Mon Mar 12 18:46:23 +0000 2018",
+    "text": "How we think people use our documentation isn’t actually how they _actually_ use our documentation. I love this art… https://t.co/s3mgv0IQwZ",
+    "retweet_count": 39,
+    "favorite_count": 113,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/s3mgv0IQwZ",
+      "expand": "https://twitter.com/i/web/status/973268988514807808"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973247680511139800,
+   "id_str": "973247680511139840",
+   "created_at": "Mon Mar 12 17:21:43 +0000 2018",
+   "text": "any recommendation(s) for a QR &amp; barcode scanner for a web app? e.g. https://t.co/KK1Ffav0Fl",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KK1Ffav0Fl",
+     "expand": "https://www.npmjs.com/package/quagga"
+    }
+   ]
+  },
+  {
+   "id": 972752419007365100,
+   "id_str": "972752419007365121",
+   "created_at": "Sun Mar 11 08:33:44 +0000 2018",
+   "text": "@rob_dodson hey Rob, do you mean the context argument of https://t.co/mr69HD6Gwf ? that takes a “&lt;Selector&gt;” which… https://t.co/tfKgsSAi96",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972607359259361300,
+   "in_reply_to_status_id_str": "972607359259361280",
+   "in_reply_to_screen_name": "rob_dodson",
+   "urls": [
+    {
+     "url": "https://t.co/mr69HD6Gwf",
+     "expand": "https://allyjs.io/api/maintain/tab-focus.html"
+    },
+    {
+     "url": "https://t.co/tfKgsSAi96",
+     "expand": "https://twitter.com/i/web/status/972752419007365121"
+    }
+   ]
+  },
+  {
+   "id": 971740593973063700,
+   "id_str": "971740593973063681",
+   "created_at": "Thu Mar 08 13:33:06 +0000 2018",
+   "text": "RT @brucel: What Houdini Means for Animating Transforms https://t.co/qdRcyx6hYs by The Mighty @anatudor",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qdRcyx6hYs",
+     "expand": "https://css-tricks.com/what-houdini-means-for-animating-transforms/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971736392207360000,
+    "id_str": "971736392207360001",
+    "created_at": "Thu Mar 08 13:16:24 +0000 2018",
+    "text": "What Houdini Means for Animating Transforms https://t.co/qdRcyx6hYs by The Mighty @anatudor",
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qdRcyx6hYs",
+      "expand": "https://css-tricks.com/what-houdini-means-for-animating-transforms/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971735263750836200,
+   "id_str": "971735263750836225",
+   "created_at": "Thu Mar 08 13:11:55 +0000 2018",
+   "text": "aha? https://t.co/3waRofKk7L",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971504095512137700,
+   "id_str": "971504095512137728",
+   "created_at": "Wed Mar 07 21:53:20 +0000 2018",
+   "text": "RT @RichRogersIoT: \"Crappy code invites more crappy code, people tend to adapt their new code to the quality of what's already there.\" - @H…",
+   "retweet_count": 73,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971083138712653800,
+    "id_str": "971083138712653825",
+    "created_at": "Tue Mar 06 18:00:36 +0000 2018",
+    "text": "\"Crappy code invites more crappy code, people tend to adapt their new code to the quality of what's already there.\"… https://t.co/NQ5ujBuXaj",
+    "retweet_count": 73,
+    "favorite_count": 102,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/NQ5ujBuXaj",
+      "expand": "https://twitter.com/i/web/status/971083138712653825"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971416228878258200,
+   "id_str": "971416228878258178",
+   "created_at": "Wed Mar 07 16:04:11 +0000 2018",
+   "text": "RT @jaffathecake: 💖 https://t.co/lWMLptEeUF\n➡️ Great web-based SVG editor.\n➡️ Comes with an inspector view so you can live-edit the DOM.\n\nT…",
+   "retweet_count": 109,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lWMLptEeUF",
+     "expand": "https://boxy-svg.com/app"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971327758373670900,
+    "id_str": "971327758373670913",
+    "created_at": "Wed Mar 07 10:12:38 +0000 2018",
+    "text": "💖 https://t.co/lWMLptEeUF\n➡️ Great web-based SVG editor.\n➡️ Comes with an inspector view so you can live-edit the D… https://t.co/KuWGkqWrqL",
+    "retweet_count": 109,
+    "favorite_count": 493,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lWMLptEeUF",
+      "expand": "https://boxy-svg.com/app"
+     },
+     {
+      "url": "https://t.co/KuWGkqWrqL",
+      "expand": "https://twitter.com/i/web/status/971327758373670913"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971136700146692100,
+   "id_str": "971136700146692097",
+   "created_at": "Tue Mar 06 21:33:26 +0000 2018",
+   "text": "RT @vpieters: The 9 Rules of Design Research\n\nRead each one twice. A++ https://t.co/LyexN6pSXM",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LyexN6pSXM",
+     "expand": "https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971053274555146200,
+    "id_str": "971053274555146242",
+    "created_at": "Tue Mar 06 16:01:56 +0000 2018",
+    "text": "The 9 Rules of Design Research\n\nRead each one twice. A++ https://t.co/LyexN6pSXM",
+    "retweet_count": 18,
+    "favorite_count": 42,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LyexN6pSXM",
+      "expand": "https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971075532833067000,
+   "id_str": "971075532833067008",
+   "created_at": "Tue Mar 06 17:30:23 +0000 2018",
+   "text": "I’ve been told my voice (pitch) changes and I speak slower (no kidding, you gotta work hard for those rolling Rs an… https://t.co/XEaEp5faf8",
    "retweet_count": 0,
    "favorite_count": 2,
    "place": null,
@@ -219,111 +779,92 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/XjyDkF7Zsp",
-     "expand": "https://www.loxodrome.io/post/tab-state-service-workers/"
+     "url": "https://t.co/XEaEp5faf8",
+     "expand": "https://twitter.com/i/web/status/971075532833067008"
     }
    ]
   },
   {
-   "id": 965901889282994200,
-   "id_str": "965901889282994178",
-   "created_at": "Tue Feb 20 10:52:10 +0000 2018",
-   "text": "Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning - https://t.co/ExE0M2hwgG -… https://t.co/RnjLwhSKzk",
+   "id": 971032450980868100,
+   "id_str": "971032450980868098",
+   "created_at": "Tue Mar 06 14:39:11 +0000 2018",
+   "text": "@bastianallgeier after only ~10h I’m happy to report that my stuff is now working fine with Webpack 4 :) (well, of… https://t.co/u7cELkdlVn",
    "retweet_count": 0,
-   "favorite_count": 3,
+   "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
+   "in_reply_to_status_id": 970644257563381800,
+   "in_reply_to_status_id_str": "970644257563381761",
+   "in_reply_to_screen_name": "bastianallgeier",
    "urls": [
     {
-     "url": "https://t.co/ExE0M2hwgG",
-     "expand": "https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852"
-    },
-    {
-     "url": "https://t.co/RnjLwhSKzk",
-     "expand": "https://twitter.com/i/web/status/965901889282994178"
+     "url": "https://t.co/u7cELkdlVn",
+     "expand": "https://twitter.com/i/web/status/971032450980868098"
     }
    ]
   },
   {
-   "id": 965727335617040400,
-   "id_str": "965727335617040384",
-   "created_at": "Mon Feb 19 23:18:33 +0000 2018",
-   "text": "strike that… I remember my mom prefixing that aphorism with “as Goethe used to say…“ https://t.co/bVMkIoCEuf",
+   "id": 970955201107648500,
+   "id_str": "970955201107648512",
+   "created_at": "Tue Mar 06 09:32:14 +0000 2018",
+   "text": "Happy @MadeMyDay Day!",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 965726853674750000,
-   "in_reply_to_status_id_str": "965726853674749953",
-   "in_reply_to_screen_name": "rodneyrehm",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970643485790523400,
+   "id_str": "970643485790523392",
+   "created_at": "Mon Mar 05 12:53:35 +0000 2018",
+   "text": "@bastianallgeier well… I’ve managed to figure out that mini-css-extract-plugin will replace extract-text-webpack-pl… https://t.co/hf7WsmUPfa",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970642713216520200,
+   "in_reply_to_status_id_str": "970642713216520194",
+   "in_reply_to_screen_name": "bastianallgeier",
    "urls": [
     {
-     "url": "https://t.co/bVMkIoCEuf",
-     "expand": "https://twitter.com/rodneyrehm/status/965726853674749953"
+     "url": "https://t.co/hf7WsmUPfa",
+     "expand": "https://twitter.com/i/web/status/970643485790523392"
     }
    ]
   },
   {
-   "id": 965726853674750000,
-   "id_str": "965726853674749953",
-   "created_at": "Mon Feb 19 23:16:38 +0000 2018",
-   "text": "That feeling* when you find out something you “knew” for a while actually has a name.\n\nHanlon’s razor -… https://t.co/WDtjkZpLnD",
+   "id": 970641378677059600,
+   "id_str": "970641378677059584",
+   "created_at": "Mon Mar 05 12:45:12 +0000 2018",
+   "text": "currently in “upgrading to webpack 4” hell…",
    "retweet_count": 0,
-   "favorite_count": 6,
+   "favorite_count": 4,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/WDtjkZpLnD",
-     "expand": "https://twitter.com/i/web/status/965726853674749953"
-    }
-   ]
+   "urls": []
   },
   {
-   "id": 965678559456124900,
-   "id_str": "965678559456124929",
-   "created_at": "Mon Feb 19 20:04:44 +0000 2018",
-   "text": "Everyone working on a product in whatever capacity should watch this… https://t.co/lOQYCP7Ad6",
+   "id": 970639171856601100,
+   "id_str": "970639171856601088",
+   "created_at": "Mon Mar 05 12:36:26 +0000 2018",
+   "text": "Can’t edit a file on someone else’s @github repo in Firefox… :( https://t.co/uxwtQms9X6",
    "retweet_count": 1,
-   "favorite_count": 3,
+   "favorite_count": 2,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/lOQYCP7Ad6",
-     "expand": "https://twitter.com/andy_design/status/964438424278257664"
-    }
-   ]
+   "urls": []
   },
   {
-   "id": 965280044212944900,
-   "id_str": "965280044212944896",
-   "created_at": "Sun Feb 18 17:41:11 +0000 2018",
-   "text": "Your Users Are Irrational - https://t.co/g6CUucs8Ou",
+   "id": 969588219493998600,
+   "id_str": "969588219493998594",
+   "created_at": "Fri Mar 02 15:00:20 +0000 2018",
+   "text": "Any ideas how to reuse @vuejs internals like https://t.co/j0o9IliDI0 in a plugin for vue? goal is to not duplicate what’s already there…",
    "retweet_count": 0,
-   "favorite_count": 5,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/g6CUucs8Ou",
-     "expand": "https://medium.com/@dfeldman/your-users-are-irrational-b0e90ae39d1f"
-    }
-   ]
-  },
-  {
-   "id": 965172637193396200,
-   "id_str": "965172637193396224",
-   "created_at": "Sun Feb 18 10:34:23 +0000 2018",
-   "text": "RT @workingdraft: Revision 329: Actor Model und CSS Paint API https://t.co/NrVtQ99LdA mit @DasSurma",
-   "retweet_count": 8,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -331,87 +872,119 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/NrVtQ99LdA",
-     "expand": "http://workingdraft.de/329/"
+     "url": "https://t.co/j0o9IliDI0",
+     "expand": "https://github.com/vuejs/vue/blob/dev/src/platforms/web/runtime/class-util.js"
+    }
+   ]
+  },
+  {
+   "id": 969487990912376800,
+   "id_str": "969487990912376832",
+   "created_at": "Fri Mar 02 08:22:03 +0000 2018",
+   "text": "RT @workingdraft: Revision 331: Serverless https://t.co/dbK2kvgXng mit @nikgraf und @pmmuens",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dbK2kvgXng",
+     "expand": "http://workingdraft.de/331/"
     }
    ],
    "retweeted_status": {
-    "id": 965154297041301500,
-    "id_str": "965154297041301504",
-    "created_at": "Sun Feb 18 09:21:30 +0000 2018",
-    "text": "Revision 329: Actor Model und CSS Paint API https://t.co/NrVtQ99LdA mit @DasSurma",
-    "retweet_count": 8,
-    "favorite_count": 7,
+    "id": 969471844289007600,
+    "id_str": "969471844289007616",
+    "created_at": "Fri Mar 02 07:17:54 +0000 2018",
+    "text": "Revision 331: Serverless https://t.co/dbK2kvgXng mit @nikgraf und @pmmuens",
+    "retweet_count": 4,
+    "favorite_count": 8,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/NrVtQ99LdA",
-      "expand": "http://workingdraft.de/329/"
+      "url": "https://t.co/dbK2kvgXng",
+      "expand": "http://workingdraft.de/331/"
      }
     ]
    }
   },
   {
-   "id": 964970875756965900,
-   "id_str": "964970875756965888",
-   "created_at": "Sat Feb 17 21:12:39 +0000 2018",
-   "text": "RT @smashingmag: “Web development has grown up to be a solid profession — something that needs a vast array of knowledge, something that ca…",
-   "retweet_count": 45,
+   "id": 969136634737365000,
+   "id_str": "969136634737364992",
+   "created_at": "Thu Mar 01 09:05:54 +0000 2018",
+   "text": "RT @mmatuzo: TIL about CSS line-clamp, which let's you truncate multi-line text after x lines. \nPen: https://t.co/UFT5rqUKHz \nSupport: http…",
+   "retweet_count": 52,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
+   "urls": [
+    {
+     "url": "https://t.co/UFT5rqUKHz",
+     "expand": "https://codepen.io/matuzo/pen/BYGqdP"
+    }
+   ],
    "retweeted_status": {
-    "id": 964524816551333900,
-    "id_str": "964524816551333888",
-    "created_at": "Fri Feb 16 15:40:10 +0000 2018",
-    "text": "“Web development has grown up to be a solid profession — something that needs a vast array of knowledge, something… https://t.co/jSGIHDgsdV",
-    "retweet_count": 45,
-    "favorite_count": 103,
+    "id": 968479911668338700,
+    "id_str": "968479911668338689",
+    "created_at": "Tue Feb 27 13:36:19 +0000 2018",
+    "text": "TIL about CSS line-clamp, which let's you truncate multi-line text after x lines. \nPen: https://t.co/UFT5rqUKHz \nSu… https://t.co/TbbgLlw1j9",
+    "retweet_count": 52,
+    "favorite_count": 163,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/jSGIHDgsdV",
-      "expand": "https://twitter.com/i/web/status/964524816551333888"
+      "url": "https://t.co/UFT5rqUKHz",
+      "expand": "https://codepen.io/matuzo/pen/BYGqdP"
+     },
+     {
+      "url": "https://t.co/TbbgLlw1j9",
+      "expand": "https://twitter.com/i/web/status/968479911668338689"
      }
     ]
    }
   },
   {
-   "id": 964120518239707100,
-   "id_str": "964120518239707136",
-   "created_at": "Thu Feb 15 12:53:38 +0000 2018",
-   "text": "RT @jaffathecake: Learn new abstractions to improve your knowledge breadth. Then, when you're comfortable, explore how those abstractions w…",
-   "retweet_count": 44,
+   "id": 968796517329928200,
+   "id_str": "968796517329928192",
+   "created_at": "Wed Feb 28 10:34:23 +0000 2018",
+   "text": "RT @workingdraft: Revision 330: Geolocation API und das HTML Dialog-Element https://t.co/u3JwIOK2UT",
+   "retweet_count": 4,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [],
+   "urls": [
+    {
+     "url": "https://t.co/u3JwIOK2UT",
+     "expand": "http://workingdraft.de/330/"
+    }
+   ],
    "retweeted_status": {
-    "id": 964088414139170800,
-    "id_str": "964088414139170816",
-    "created_at": "Thu Feb 15 10:46:04 +0000 2018",
-    "text": "Learn new abstractions to improve your knowledge breadth. Then, when you're comfortable, explore how those abstract… https://t.co/qSzIxmnup9",
-    "retweet_count": 44,
-    "favorite_count": 166,
+    "id": 968739040936697900,
+    "id_str": "968739040936697856",
+    "created_at": "Wed Feb 28 06:46:00 +0000 2018",
+    "text": "Revision 330: Geolocation API und das HTML Dialog-Element https://t.co/u3JwIOK2UT",
+    "retweet_count": 4,
+    "favorite_count": 6,
     "place": null,
-    "in_reply_to_status_id": 964088412583100400,
-    "in_reply_to_status_id_str": "964088412583100418",
-    "in_reply_to_screen_name": "jaffathecake",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/qSzIxmnup9",
-      "expand": "https://twitter.com/i/web/status/964088414139170816"
+      "url": "https://t.co/u3JwIOK2UT",
+      "expand": "http://workingdraft.de/330/"
      }
     ]
    }

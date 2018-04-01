@@ -1,82 +1,276 @@
 {
- "time": 1519367431550,
+ "time": 1522595201789,
  "lists": [
+  {
+   "id": 980343103520419800,
+   "id_str": "980343103520419840",
+   "created_at": "Sun Apr 01 07:16:24 +0000 2018",
+   "text": "In March, I submitted 25 vulnerabilities to 12 programs on @Hacker0x01 (gained 331 rep). #TogetherWeHitHarder https://t.co/MJo8eQHm34",
+   "retweet_count": 0,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MJo8eQHm34",
+     "expand": "https://hackerone.com/last-month"
+    }
+   ]
+  },
+  {
+   "id": 978878495932772400,
+   "id_str": "978878495932772354",
+   "created_at": "Wed Mar 28 06:16:34 +0000 2018",
+   "text": "Report closed as informative, but still rewarded with 500$. Got to love @Hacker0x01 😃",
+   "retweet_count": 0,
+   "favorite_count": 29,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978176428771561500,
+   "id_str": "978176428771561472",
+   "created_at": "Mon Mar 26 07:46:48 +0000 2018",
+   "text": "@Dinosn Maybe I miss something here, but I don't see any security impact here? The \"referer\" header value is not un… https://t.co/uLWVli36Sw",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978147686997250000,
+   "in_reply_to_status_id_str": "978147686997250048",
+   "in_reply_to_screen_name": "Dinosn",
+   "urls": [
+    {
+     "url": "https://t.co/uLWVli36Sw",
+     "expand": "https://twitter.com/i/web/status/978176428771561472"
+    }
+   ]
+  },
+  {
+   "id": 977826059310780400,
+   "id_str": "977826059310780416",
+   "created_at": "Sun Mar 25 08:34:34 +0000 2018",
+   "text": "@xlimbolandx I wish hackers had the option to \"down-vote\" programs. And after a certain amount of votes the program… https://t.co/Y4bVT0UxlT",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 977822363453722600,
+   "in_reply_to_status_id_str": "977822363453722624",
+   "in_reply_to_screen_name": "xlimbolandx",
+   "urls": [
+    {
+     "url": "https://t.co/Y4bVT0UxlT",
+     "expand": "https://twitter.com/i/web/status/977826059310780416"
+    }
+   ]
+  },
+  {
+   "id": 977214400972148700,
+   "id_str": "977214400972148736",
+   "created_at": "Fri Mar 23 16:04:03 +0000 2018",
+   "text": "@NahamSec Awesome work man! Keep it up! ;)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977214234978209800,
+   "in_reply_to_status_id_str": "977214234978209793",
+   "in_reply_to_screen_name": "NahamSec",
+   "urls": []
+  },
+  {
+   "id": 976881746401792000,
+   "id_str": "976881746401792001",
+   "created_at": "Thu Mar 22 18:02:12 +0000 2018",
+   "text": "@intidc @Hacker0x01 @Almroot @fransrosen @avlidienbrunn We are not invited for that as well!?!?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976881234931519500,
+   "in_reply_to_status_id_str": "976881234931519488",
+   "in_reply_to_screen_name": "intidc",
+   "urls": []
+  },
+  {
+   "id": 976876536346431500,
+   "id_str": "976876536346431491",
+   "created_at": "Thu Mar 22 17:41:30 +0000 2018",
+   "text": "@intidc @Hacker0x01 @Almroot @fransrosen @avlidienbrunn Where's team Netherlands? 😂",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976835617068810200,
+   "in_reply_to_status_id_str": "976835617068810242",
+   "in_reply_to_screen_name": "intidc",
+   "urls": []
+  },
+  {
+   "id": 976458542399057900,
+   "id_str": "976458542399057921",
+   "created_at": "Wed Mar 21 14:00:32 +0000 2018",
+   "text": "@tolo7010 @Hacker0x01 I'm stil waiting for my \"waited more than 2 years\" badge 😂",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 976451604533600300,
+   "in_reply_to_status_id_str": "976451604533600256",
+   "in_reply_to_screen_name": "tolo7010",
+   "urls": []
+  },
+  {
+   "id": 976426729727197200,
+   "id_str": "976426729727197184",
+   "created_at": "Wed Mar 21 11:54:08 +0000 2018",
+   "text": "RT @HendrikKommerie: @fokkesukke Over #sleepwet https://t.co/DvpCChBVPW",
+   "retweet_count": 53,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975792501209657300,
+    "id_str": "975792501209657344",
+    "created_at": "Mon Mar 19 17:53:56 +0000 2018",
+    "text": "@fokkesukke Over #sleepwet https://t.co/DvpCChBVPW",
+    "retweet_count": 53,
+    "favorite_count": 42,
+    "place": "Utrecht, Nederland",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": "fokkesukke",
+    "urls": []
+   }
+  },
+  {
+   "id": 975994665458683900,
+   "id_str": "975994665458683904",
+   "created_at": "Tue Mar 20 07:17:16 +0000 2018",
+   "text": "@0xteknogeek @Hacker0x01 Nice, got mine too yesterday! Totally forgot about it :D",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975842464778129400,
+   "in_reply_to_status_id_str": "975842464778129409",
+   "in_reply_to_screen_name": "0xteknogeek",
+   "urls": []
+  },
+  {
+   "id": 975461554509504500,
+   "id_str": "975461554509504513",
+   "created_at": "Sun Mar 18 19:58:52 +0000 2018",
+   "text": "RT @EdOverflow: \"Can I take over XYZ?\", a guide for (sub)domain takeovers. Created with the help of @jackds1986, @gerben_javado, and @0xibr…",
+   "retweet_count": 200,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975452740188065800,
+    "id_str": "975452740188065793",
+    "created_at": "Sun Mar 18 19:23:50 +0000 2018",
+    "text": "\"Can I take over XYZ?\", a guide for (sub)domain takeovers. Created with the help of @jackds1986, @gerben_javado, an… https://t.co/YSuquACIao",
+    "retweet_count": 200,
+    "favorite_count": 361,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YSuquACIao",
+      "expand": "https://twitter.com/i/web/status/975452740188065793"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969320555869597700,
+   "id_str": "969320555869597696",
+   "created_at": "Thu Mar 01 21:16:44 +0000 2018",
+   "text": "@martenmickos Wow thats quite a lot! How many of them were actual issues?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969316586921193500,
+   "in_reply_to_status_id_str": "969316586921193472",
+   "in_reply_to_screen_name": "martenmickos",
+   "urls": []
+  },
+  {
+   "id": 969125924858982400,
+   "id_str": "969125924858982400",
+   "created_at": "Thu Mar 01 08:23:20 +0000 2018",
+   "text": "In February, I submitted 9 vulnerabilities to 5 programs on @Hacker0x01 (gained 135 rep). #TogetherWeHitHarder https://t.co/MJo8eQHm34",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MJo8eQHm34",
+     "expand": "https://hackerone.com/last-month"
+    }
+   ]
+  },
+  {
+   "id": 968580205056024600,
+   "id_str": "968580205056024576",
+   "created_at": "Tue Feb 27 20:14:50 +0000 2018",
+   "text": "@tbmnull And that's relevant how?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968576531835605000,
+   "id_str": "968576531835604993",
+   "created_at": "Tue Feb 27 20:00:15 +0000 2018",
+   "text": "@tbmnull Dude come on...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 967833721289281500,
+   "id_str": "967833721289281537",
+   "created_at": "Sun Feb 25 18:48:35 +0000 2018",
+   "text": "@tbmnull @Hacker0x01 What happened?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
   {
    "id": 966424334578454500,
    "id_str": "966424334578454533",
    "created_at": "Wed Feb 21 21:28:11 +0000 2018",
    "text": "@rohk_infosec Next time escalate XSS into open redirect 😁",
    "retweet_count": 0,
-   "favorite_count": 8,
+   "favorite_count": 9,
    "place": null,
    "in_reply_to_status_id": 966421744771715100,
    "in_reply_to_status_id_str": "966421744771715072",
    "in_reply_to_screen_name": "rohk_infosec",
-   "urls": []
-  },
-  {
-   "id": 966424050007511000,
-   "id_str": "966424050007511040",
-   "created_at": "Wed Feb 21 21:27:03 +0000 2018",
-   "text": "@rohk_infosec Strange world we live in right? 😉",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966421744771715100,
-   "in_reply_to_status_id_str": "966421744771715072",
-   "in_reply_to_screen_name": "rohk_infosec",
-   "urls": []
-  },
-  {
-   "id": 966326603973382100,
-   "id_str": "966326603973382144",
-   "created_at": "Wed Feb 21 14:59:50 +0000 2018",
-   "text": "@penultimateIO Nice one ;) Got it as well :)",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966321284064972800,
-   "in_reply_to_status_id_str": "966321284064972800",
-   "in_reply_to_screen_name": "penultimateIO",
-   "urls": []
-  },
-  {
-   "id": 965637479431856100,
-   "id_str": "965637479431856129",
-   "created_at": "Mon Feb 19 17:21:30 +0000 2018",
-   "text": "@tbmnull @openbugbounty You can report that to H1 (Toyota) program as well ;)",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965633797835276300,
-   "in_reply_to_status_id_str": "965633797835276288",
-   "in_reply_to_screen_name": "tbmnull",
-   "urls": []
-  },
-  {
-   "id": 965559296854495200,
-   "id_str": "965559296854495233",
-   "created_at": "Mon Feb 19 12:10:50 +0000 2018",
-   "text": "@EdOverflow @gerben_javado Good luck! :)",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965559093476954100,
-   "in_reply_to_status_id_str": "965559093476954112",
-   "in_reply_to_screen_name": "EdOverflow",
-   "urls": []
-  },
-  {
-   "id": 964602590226014200,
-   "id_str": "964602590226014208",
-   "created_at": "Fri Feb 16 20:49:13 +0000 2018",
-   "text": "@Hacker0x01 Awesome! Will definitly give it a try (despite the fact that I wont be able to attend if I would win 😉)",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 964592546683895800,
-   "in_reply_to_status_id_str": "964592546683895808",
-   "in_reply_to_screen_name": "Hacker0x01",
    "urls": []
   }
  ]

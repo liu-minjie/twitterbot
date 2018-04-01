@@ -1,434 +1,981 @@
 {
- "time": 1519367440202,
+ "time": 1522595225435,
  "lists": [
   {
-   "id": 966312907310092300,
-   "id_str": "966312907310092288",
-   "created_at": "Wed Feb 21 14:05:24 +0000 2018",
-   "text": "@AlekMuzo @mholt6 Thanks! You're better at searching than I am, which is somewhat embarrassing! :)",
+   "id": 980032061829537800,
+   "id_str": "980032061829537792",
+   "created_at": "Sat Mar 31 10:40:26 +0000 2018",
+   "text": "Parenting pro tip: close the kitchen door when you’re hiding from the kids and stuffing chips in your face.",
    "retweet_count": 0,
-   "favorite_count": 3,
+   "favorite_count": 17,
    "place": null,
-   "in_reply_to_status_id": 966310577080385500,
-   "in_reply_to_status_id_str": "966310577080385536",
-   "in_reply_to_screen_name": "AlekMuzo",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
    "urls": []
   },
   {
-   "id": 966303337460183000,
-   "id_str": "966303337460183041",
-   "created_at": "Wed Feb 21 13:27:23 +0000 2018",
-   "text": "@mholt6 @googlechrome I didn't find a bug in a quick search. Can you give me the bug ID? I'll hand it to the right folks.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966285508560109600,
-   "in_reply_to_status_id_str": "966285508560109569",
-   "in_reply_to_screen_name": "mholt6",
-   "urls": []
-  },
-  {
-   "id": 966243147868237800,
-   "id_str": "966243147868237824",
-   "created_at": "Wed Feb 21 09:28:13 +0000 2018",
-   "text": "@mvsamuel As you suggest, this is just measuring the raw header size. For HTTP/2, magical header compression dust w… https://t.co/WdbVvpkNX8",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965973522425241600,
-   "in_reply_to_status_id_str": "965973522425241600",
-   "in_reply_to_screen_name": "mvsamuel",
-   "urls": [
-    {
-     "url": "https://t.co/WdbVvpkNX8",
-     "expand": "https://twitter.com/i/web/status/966243147868237824"
-    }
-   ]
-  },
-  {
-   "id": 966206979990540300,
-   "id_str": "966206979990540291",
-   "created_at": "Wed Feb 21 07:04:29 +0000 2018",
-   "text": "@mholt6 @googlechrome Mind filing a bug? I’ll get the right folks to take a look.",
+   "id": 979609129189871600,
+   "id_str": "979609129189871616",
+   "created_at": "Fri Mar 30 06:39:51 +0000 2018",
+   "text": "And so this four-day Easter weekend begins: taping together an accidentally-dropped egg with my very distraught kid… https://t.co/f0ITy90SKE",
    "retweet_count": 0,
    "favorite_count": 8,
-   "place": null,
-   "in_reply_to_status_id": 966203890613006300,
-   "in_reply_to_status_id_str": "966203890613006337",
-   "in_reply_to_screen_name": "mholt6",
-   "urls": []
-  },
-  {
-   "id": 965951793451688000,
-   "id_str": "965951793451687937",
-   "created_at": "Tue Feb 20 14:10:28 +0000 2018",
-   "text": "@patricktoomey Nope. I just have a size histogram. We don’t log cookie names or values.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965951607769776100,
-   "in_reply_to_status_id_str": "965951607769776129",
-   "in_reply_to_screen_name": "patricktoomey",
-   "urls": []
-  },
-  {
-   "id": 965870371428814800,
-   "id_str": "965870371428814848",
-   "created_at": "Tue Feb 20 08:46:56 +0000 2018",
-   "text": "@buro9 @sleevi_ I am implicitly wondering whether browsers could encourage different behavior by first offering dif… https://t.co/0p335GXvUT",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 965869856724848600,
-   "in_reply_to_status_id_str": "965869856724848640",
-   "in_reply_to_screen_name": "buro9",
-   "urls": [
-    {
-     "url": "https://t.co/0p335GXvUT",
-     "expand": "https://twitter.com/i/web/status/965870371428814848"
-    }
-   ]
-  },
-  {
-   "id": 965868828902199300,
-   "id_str": "965868828902199296",
-   "created_at": "Tue Feb 20 08:40:48 +0000 2018",
-   "text": "@buro9 @sleevi_ Ah. Well, that's embarrassing. I should have remembered our `&lt;meta http-equiv=\"set-cookie\"&gt;` discus… https://t.co/rme2D6sPOH",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965868494335234000,
-   "in_reply_to_status_id_str": "965868494335234049",
-   "in_reply_to_screen_name": "buro9",
-   "urls": [
-    {
-     "url": "https://t.co/rme2D6sPOH",
-     "expand": "https://twitter.com/i/web/status/965868828902199296"
-    }
-   ]
-  },
-  {
-   "id": 965867703134314500,
-   "id_str": "965867703134314496",
-   "created_at": "Tue Feb 20 08:36:20 +0000 2018",
-   "text": "@buro9 I suspect you're underestimating the interest of CDNs like Cloudflare, Fastly, etc. But I agree that it's un… https://t.co/sk7BwNHuII",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 965866927557169200,
-   "in_reply_to_status_id_str": "965866927557169152",
-   "in_reply_to_screen_name": "buro9",
-   "urls": [
-    {
-     "url": "https://t.co/sk7BwNHuII",
-     "expand": "https://twitter.com/i/web/status/965867703134314496"
-    }
-   ]
-  },
-  {
-   "id": 965865568652943400,
-   "id_str": "965865568652943360",
-   "created_at": "Tue Feb 20 08:27:51 +0000 2018",
-   "text": "@buro9 I thought HTTP/2 would have made it easier to shard across origins by coalescing multiple origins' connectio… https://t.co/LcSYEcJybH",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965863370846064600,
-   "in_reply_to_status_id_str": "965863370846064640",
-   "in_reply_to_screen_name": "buro9",
-   "urls": [
-    {
-     "url": "https://t.co/LcSYEcJybH",
-     "expand": "https://twitter.com/i/web/status/965865568652943360"
-    }
-   ]
-  },
-  {
-   "id": 965864835408855000,
-   "id_str": "965864835408855040",
-   "created_at": "Tue Feb 20 08:24:56 +0000 2018",
-   "text": "@ndm Eventually, I'll get back to https://t.co/bPlkK2xIsp. And we'll have to figure out something for folks like y'… https://t.co/0nOH6qn5Tc",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965864448622645200,
-   "in_reply_to_status_id_str": "965864448622645248",
-   "in_reply_to_screen_name": "ndm",
-   "urls": [
-    {
-     "url": "https://t.co/bPlkK2xIsp",
-     "expand": "https://mikewest.github.io/artur-yes/"
-    },
-    {
-     "url": "https://t.co/0nOH6qn5Tc",
-     "expand": "https://twitter.com/i/web/status/965864835408855040"
-    }
-   ]
-  },
-  {
-   "id": 965864487449440300,
-   "id_str": "965864487449440257",
-   "created_at": "Tue Feb 20 08:23:33 +0000 2018",
-   "text": "@mik235 I don't know the details, but I imagine it boils down to \"poorly\".",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965862938274799600,
-   "in_reply_to_status_id_str": "965862938274799616",
-   "in_reply_to_screen_name": "mik235",
-   "urls": []
-  },
-  {
-   "id": 965862409503232000,
-   "id_str": "965862409503232000",
-   "created_at": "Tue Feb 20 08:15:17 +0000 2018",
-   "text": "@buro9 Today, it seems better to move static resources to an explicitly cookieless domain. As you note, it's going… https://t.co/mgYgocx46X",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965861257357267000,
-   "in_reply_to_status_id_str": "965861257357266944",
-   "in_reply_to_screen_name": "buro9",
-   "urls": [
-    {
-     "url": "https://t.co/mgYgocx46X",
-     "expand": "https://twitter.com/i/web/status/965862409503232000"
-    }
-   ]
-  },
-  {
-   "id": 965861268430245900,
-   "id_str": "965861268430245888",
-   "created_at": "Tue Feb 20 08:10:45 +0000 2018",
-   "text": "@buro9 Cookies do support path limitations today, which makes it possible to segregate delivery by app, assuming th… https://t.co/RxwW8Jf5B0",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965860871313477600,
-   "in_reply_to_status_id_str": "965860871313477632",
-   "in_reply_to_screen_name": "buro9",
-   "urls": [
-    {
-     "url": "https://t.co/RxwW8Jf5B0",
-     "expand": "https://twitter.com/i/web/status/965861268430245888"
-    }
-   ]
-  },
-  {
-   "id": 965860440277508100,
-   "id_str": "965860440277508096",
-   "created_at": "Tue Feb 20 08:07:28 +0000 2018",
-   "text": "Based on a ~week's worth of data from Canary, 5% of `Cookie` headers are longer than 2305 bytes. 1% are longer than… https://t.co/zwZ0sKlNUe",
-   "retweet_count": 15,
-   "favorite_count": 35,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/zwZ0sKlNUe",
-     "expand": "https://twitter.com/i/web/status/965860440277508096"
+     "url": "https://t.co/f0ITy90SKE",
+     "expand": "https://twitter.com/i/web/status/979609129189871616"
     }
    ]
   },
   {
-   "id": 965559175869878300,
-   "id_str": "965559175869878272",
-   "created_at": "Mon Feb 19 12:10:21 +0000 2018",
-   "text": "@Scott_Helme @manicode *ahem* This might come as something as a shock, but browsers have all sorts of bugs. Like, e… https://t.co/M7R1TS240p",
+   "id": 978584541622358000,
+   "id_str": "978584541622358016",
+   "created_at": "Tue Mar 27 10:48:30 +0000 2018",
+   "text": "@RReverser @tehjh @lcamtuf @lukOlejnik I believe that @estark37 and team are looking into our options.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978580458903621600,
+   "in_reply_to_status_id_str": "978580458903621632",
+   "in_reply_to_screen_name": "RReverser",
+   "urls": []
+  },
+  {
+   "id": 978524404199063600,
+   "id_str": "978524404199063557",
+   "created_at": "Tue Mar 27 06:49:32 +0000 2018",
+   "text": "@julianor @justinschuh @lcamtuf @lukOlejnik @laparisa You'll be interested in @jyasskin's https://t.co/VsKYDqNZkk proposal.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978399478561562600,
+   "in_reply_to_status_id_str": "978399478561562624",
+   "in_reply_to_screen_name": "julianor",
+   "urls": [
+    {
+     "url": "https://t.co/VsKYDqNZkk",
+     "expand": "https://tools.ietf.org/html/draft-yasskin-http-origin-signed-responses"
+    }
+   ]
+  },
+  {
+   "id": 978344128768593900,
+   "id_str": "978344128768593920",
+   "created_at": "Mon Mar 26 18:53:11 +0000 2018",
+   "text": "@tehjh @lcamtuf @lukOlejnik Right. Michal is hosting AFL and p0f over HTTP. What could possibly go wrong?\n\n(… https://t.co/xICkPHVEoz",
    "retweet_count": 0,
    "favorite_count": 5,
    "place": null,
-   "in_reply_to_status_id": 965558849989210100,
-   "in_reply_to_status_id_str": "965558849989210114",
-   "in_reply_to_screen_name": "Scott_Helme",
+   "in_reply_to_status_id": 978324973369610200,
+   "in_reply_to_status_id_str": "978324973369610241",
+   "in_reply_to_screen_name": "tehjh",
    "urls": [
     {
-     "url": "https://t.co/M7R1TS240p",
-     "expand": "https://twitter.com/i/web/status/965559175869878272"
+     "url": "https://t.co/xICkPHVEoz",
+     "expand": "https://twitter.com/i/web/status/978344128768593920"
     }
    ]
   },
   {
-   "id": 965558602814623700,
-   "id_str": "965558602814623744",
-   "created_at": "Mon Feb 19 12:08:04 +0000 2018",
-   "text": "@Scott_Helme @manicode Modulo Browser bugs, I guess. I could imagine that we do the checks in the wrong order. Hope… https://t.co/CXUywyWKez",
+   "id": 978296940604674000,
+   "id_str": "978296940604674048",
+   "created_at": "Mon Mar 26 15:45:41 +0000 2018",
+   "text": "@kerz @justinschuh @lcamtuf @lukOlejnik @laparisa You know, Justin! Justin? Loud, bald guy? Scruffy version of me.",
    "retweet_count": 0,
-   "favorite_count": 0,
+   "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 965558175507337200,
-   "in_reply_to_status_id_str": "965558175507337217",
-   "in_reply_to_screen_name": "Scott_Helme",
-   "urls": [
-    {
-     "url": "https://t.co/CXUywyWKez",
-     "expand": "https://twitter.com/i/web/status/965558602814623744"
-    }
-   ]
-  },
-  {
-   "id": 965557053912645600,
-   "id_str": "965557053912645632",
-   "created_at": "Mon Feb 19 12:01:55 +0000 2018",
-   "text": "@Scott_Helme @manicode I’d phrase it differently: SRI from an origin only works for resources that explicitly choos… https://t.co/XJkY2bk2rP",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 965556530014810100,
-   "in_reply_to_status_id_str": "965556530014810113",
-   "in_reply_to_screen_name": "Scott_Helme",
-   "urls": [
-    {
-     "url": "https://t.co/XJkY2bk2rP",
-     "expand": "https://twitter.com/i/web/status/965557053912645632"
-    }
-   ]
-  },
-  {
-   "id": 965542386800775200,
-   "id_str": "965542386800775168",
-   "created_at": "Mon Feb 19 11:03:38 +0000 2018",
-   "text": "@garito Munich in winter is a bad place for sun of any sort. :/",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965541514943361000,
-   "in_reply_to_status_id_str": "965541514943361025",
-   "in_reply_to_screen_name": "garito",
+   "in_reply_to_status_id": 978296459933114400,
+   "in_reply_to_status_id_str": "978296459933114370",
+   "in_reply_to_screen_name": "kerz",
    "urls": []
   },
   {
-   "id": 965541020078366700,
-   "id_str": "965541020078366721",
-   "created_at": "Mon Feb 19 10:58:12 +0000 2018",
-   "text": "@manicode 👍",
+   "id": 978294739467407400,
+   "id_str": "978294739467407363",
+   "created_at": "Mon Mar 26 15:36:56 +0000 2018",
+   "text": "@kerz @justinschuh @lcamtuf @lukOlejnik @laparisa But, but, @justinschuh said! He said he was powerful and mighty a… https://t.co/vQDm25MzIz",
    "retweet_count": 0,
-   "favorite_count": 0,
+   "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 965540560592240600,
-   "in_reply_to_status_id_str": "965540560592240640",
-   "in_reply_to_screen_name": "manicode",
-   "urls": []
-  },
-  {
-   "id": 965538463356538900,
-   "id_str": "965538463356538880",
-   "created_at": "Mon Feb 19 10:48:03 +0000 2018",
-   "text": "@manicode I don't understand how that's \"leakage\". SRI only works if the endpoint opts-into allowing the data to be… https://t.co/rRRD7wiZxg",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 965537315559845900,
-   "in_reply_to_status_id_str": "965537315559845888",
-   "in_reply_to_screen_name": "manicode",
+   "in_reply_to_status_id": 978294085223002100,
+   "in_reply_to_status_id_str": "978294085223002112",
+   "in_reply_to_screen_name": "kerz",
    "urls": [
     {
-     "url": "https://t.co/rRRD7wiZxg",
-     "expand": "https://twitter.com/i/web/status/965538463356538880"
+     "url": "https://t.co/vQDm25MzIz",
+     "expand": "https://twitter.com/i/web/status/978294739467407363"
     }
    ]
   },
   {
-   "id": 965518073087299600,
-   "id_str": "965518073087299584",
-   "created_at": "Mon Feb 19 09:27:01 +0000 2018",
-   "text": "Basically every flat surface in my house is currently covered in used tissues and half-drunk mugs of cold tea.\n\nAh, flu season.",
+   "id": 978289806340952000,
+   "id_str": "978289806340952064",
+   "created_at": "Mon Mar 26 15:17:20 +0000 2018",
+   "text": "@justinschuh @lcamtuf @lukOlejnik @laparisa Principled engineer, indeed!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 978288082184106000,
+   "in_reply_to_status_id_str": "978288082184105985",
+   "in_reply_to_screen_name": "justinschuh",
+   "urls": []
+  },
+  {
+   "id": 978285465022468100,
+   "id_str": "978285465022468097",
+   "created_at": "Mon Mar 26 15:00:05 +0000 2018",
+   "text": "@justinschuh @lcamtuf @lukOlejnik Dear Chrome release managers,\n\nJustin said I could break things. Plz approve stab… https://t.co/HiUpGdRxVw",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 978284198740897800,
+   "in_reply_to_status_id_str": "978284198740897793",
+   "in_reply_to_screen_name": "justinschuh",
+   "urls": [
+    {
+     "url": "https://t.co/HiUpGdRxVw",
+     "expand": "https://twitter.com/i/web/status/978285465022468097"
+    }
+   ]
+  },
+  {
+   "id": 978277174934466600,
+   "id_str": "978277174934466561",
+   "created_at": "Mon Mar 26 14:27:08 +0000 2018",
+   "text": "@lcamtuf @lukOlejnik Ok, Google. Remind me to break HTTP in Chrome, at least for `https://t.co/N923qghcF9`, in a year.",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 978276325034094600,
+   "in_reply_to_status_id_str": "978276325034094593",
+   "in_reply_to_screen_name": "lcamtuf",
+   "urls": [
+    {
+     "url": "https://t.co/N923qghcF9",
+     "expand": "http://lcamtuf.coredump.cx"
+    }
+   ]
+  },
+  {
+   "id": 978274636642254800,
+   "id_str": "978274636642254849",
+   "created_at": "Mon Mar 26 14:17:03 +0000 2018",
+   "text": "(And so @alexainslie won't be sad, I fixed the warning after actually looking at the omnibox.) https://t.co/sofO80lYWe",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978266557070508000,
+   "in_reply_to_status_id_str": "978266557070508033",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 978269064824082400,
+   "id_str": "978269064824082433",
+   "created_at": "Mon Mar 26 13:54:55 +0000 2018",
+   "text": "@lukOlejnik @lcamtuf It would not shock me. Ever the contrarian, that @lcamtuf.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978268265838514200,
+   "in_reply_to_status_id_str": "978268265838514176",
+   "in_reply_to_screen_name": "lukOlejnik",
+   "urls": []
+  },
+  {
+   "id": 978267712311955500,
+   "id_str": "978267712311955456",
+   "created_at": "Mon Mar 26 13:49:32 +0000 2018",
+   "text": "@RReverser @ericlaw @estark37 Ha! As though I'd trust _Google_ to give me an accurate copy.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978267530203746300,
+   "in_reply_to_status_id_str": "978267530203746304",
+   "in_reply_to_screen_name": "RReverser",
+   "urls": []
+  },
+  {
+   "id": 978266557070508000,
+   "id_str": "978266557070508033",
+   "created_at": "Mon Mar 26 13:44:57 +0000 2018",
+   "text": "(Just so @ericlaw and @estark37 will sleep soundly tonight: don't worry! I'm warning the audience!) https://t.co/NKr8uHNFAd",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 978265945872400400,
+   "in_reply_to_status_id_str": "978265945872400386",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 978265945872400400,
+   "id_str": "978265945872400386",
+   "created_at": "Mon Mar 26 13:42:31 +0000 2018",
+   "text": "Hey, @lcamtuf! Now that you have lots and lots of free time, maybe you could start serving things like… https://t.co/C4YQJwpJ3b",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/C4YQJwpJ3b",
+     "expand": "https://twitter.com/i/web/status/978265945872400386"
+    }
+   ]
+  },
+  {
+   "id": 978247095655297000,
+   "id_str": "978247095655297025",
+   "created_at": "Mon Mar 26 12:27:37 +0000 2018",
+   "text": "This resonates with me. “Actual” user consent is critical, and we collectively seem to be doing a miserable job at… https://t.co/iPoEqoZRxl",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iPoEqoZRxl",
+     "expand": "https://twitter.com/i/web/status/978247095655297025"
+    }
+   ]
+  },
+  {
+   "id": 978216603396591600,
+   "id_str": "978216603396591616",
+   "created_at": "Mon Mar 26 10:26:27 +0000 2018",
+   "text": "@hsablonniere My last understanding was that Firefox had added minor devtools support for rendering the attribute,… https://t.co/KvsC0leTOz",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978214920817987600,
+   "in_reply_to_status_id_str": "978214920817987586",
+   "in_reply_to_screen_name": "hsablonniere",
+   "urls": [
+    {
+     "url": "https://t.co/KvsC0leTOz",
+     "expand": "https://twitter.com/i/web/status/978216603396591616"
+    }
+   ]
+  },
+  {
+   "id": 978212426553479200,
+   "id_str": "978212426553479168",
+   "created_at": "Mon Mar 26 10:09:51 +0000 2018",
+   "text": "@hsablonniere None that I know of. I don't think adding more attributes to cookies is likely to be a successful str… https://t.co/3FlfcxK3kg",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978211287481110500,
+   "in_reply_to_status_id_str": "978211287481110528",
+   "in_reply_to_screen_name": "hsablonniere",
+   "urls": [
+    {
+     "url": "https://t.co/3FlfcxK3kg",
+     "expand": "https://twitter.com/i/web/status/978212426553479168"
+    }
+   ]
+  },
+  {
+   "id": 978210406736040000,
+   "id_str": "978210406736039936",
+   "created_at": "Mon Mar 26 10:01:49 +0000 2018",
+   "text": "@hsablonniere Basically, I think \"origin cookies\" aren't interesting enough because they aren't much of a shift fro… https://t.co/hiLMafStlm",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978206759763529700,
+   "in_reply_to_status_id_str": "978206759763529729",
+   "in_reply_to_screen_name": "hsablonniere",
+   "urls": [
+    {
+     "url": "https://t.co/hiLMafStlm",
+     "expand": "https://twitter.com/i/web/status/978210406736039936"
+    }
+   ]
+  },
+  {
+   "id": 978191266927333400,
+   "id_str": "978191266927333376",
+   "created_at": "Mon Mar 26 08:45:46 +0000 2018",
+   "text": "@hsablonniere That said, I do think an origin-bound state primitive is a good idea, but I think any proposal I can… https://t.co/X12lBN23IK",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978191053852463100,
+   "in_reply_to_status_id_str": "978191053852463104",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": [
+    {
+     "url": "https://t.co/X12lBN23IK",
+     "expand": "https://twitter.com/i/web/status/978191266927333376"
+    }
+   ]
+  },
+  {
+   "id": 978191053852463100,
+   "id_str": "978191053852463104",
+   "created_at": "Mon Mar 26 08:44:55 +0000 2018",
+   "text": "@hsablonniere I took another pass at them in https://t.co/mFTjE04SuT, but the HTTP WG didn't have much interest. Lo… https://t.co/nnxviOvKUP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978189513968234500,
+   "in_reply_to_status_id_str": "978189513968234496",
+   "in_reply_to_screen_name": "hsablonniere",
+   "urls": [
+    {
+     "url": "https://t.co/mFTjE04SuT",
+     "expand": "https://tools.ietf.org/html/draft-west-origin-cookies-01"
+    },
+    {
+     "url": "https://t.co/nnxviOvKUP",
+     "expand": "https://twitter.com/i/web/status/978191053852463104"
+    }
+   ]
+  },
+  {
+   "id": 978166218896142300,
+   "id_str": "978166218896142336",
+   "created_at": "Mon Mar 26 07:06:14 +0000 2018",
+   "text": "@hsablonniere Both are wrapped up into https://t.co/9baxucHWme, which I'm very behind on finishing. Chrome ships bo… https://t.co/TERVMyATCx",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977879884197490700,
+   "in_reply_to_status_id_str": "977879884197490688",
+   "in_reply_to_screen_name": "hsablonniere",
+   "urls": [
+    {
+     "url": "https://t.co/9baxucHWme",
+     "expand": "https://tools.ietf.org/html/draft-ietf-httpbis-rfc6265bis-02"
+    },
+    {
+     "url": "https://t.co/TERVMyATCx",
+     "expand": "https://twitter.com/i/web/status/978166218896142336"
+    }
+   ]
+  },
+  {
+   "id": 977940190714048500,
+   "id_str": "977940190714048512",
+   "created_at": "Sun Mar 25 16:08:05 +0000 2018",
+   "text": "@ericlaw Naah. I know you file bugs. I was pre-triaging it for you. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977930454161555500,
+   "in_reply_to_status_id_str": "977930454161555457",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": []
+  },
+  {
+   "id": 977629869227069400,
+   "id_str": "977629869227069440",
+   "created_at": "Sat Mar 24 19:34:58 +0000 2018",
+   "text": "@ericlaw File a bug. Hand it to battre@ for triage.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977625719269359600,
+   "in_reply_to_status_id_str": "977625719269359616",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": []
+  },
+  {
+   "id": 976762139003228200,
+   "id_str": "976762139003228166",
+   "created_at": "Thu Mar 22 10:06:55 +0000 2018",
+   "text": "What if opaque origins didn't serialize to \"`null`\"? https://t.co/pPMBzvAvSI is something that came out of a conver… https://t.co/Z9BbUK5s2w",
    "retweet_count": 0,
    "favorite_count": 6,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 965448723055697900,
-   "id_str": "965448723055697920",
-   "created_at": "Mon Feb 19 04:51:27 +0000 2018",
-   "text": "@estark37 @DasSurma @cramforce Mike is learning to delegate! Folks on the loading team are refactoring our CORS imp… https://t.co/i1N7PGA6Bp",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965322814977818600,
-   "in_reply_to_status_id_str": "965322814977818624",
-   "in_reply_to_screen_name": "estark37",
    "urls": [
     {
-     "url": "https://t.co/i1N7PGA6Bp",
-     "expand": "https://twitter.com/i/web/status/965448723055697920"
+     "url": "https://t.co/pPMBzvAvSI",
+     "expand": "https://github.com/whatwg/html/issues/3585"
+    },
+    {
+     "url": "https://t.co/Z9BbUK5s2w",
+     "expand": "https://twitter.com/i/web/status/976762139003228166"
     }
    ]
   },
   {
-   "id": 965447802569613300,
-   "id_str": "965447802569613312",
-   "created_at": "Mon Feb 19 04:47:47 +0000 2018",
-   "text": "@estark37 @frgx @jaffathecake @DasSurma @cramforce The proposal @estark37 linked would indeed force a preflight for… https://t.co/CtC7k9JttY",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965348762657865700,
-   "in_reply_to_status_id_str": "965348762657865729",
-   "in_reply_to_screen_name": "estark37",
-   "urls": [
-    {
-     "url": "https://t.co/CtC7k9JttY",
-     "expand": "https://twitter.com/i/web/status/965447802569613312"
-    }
-   ]
-  },
-  {
-   "id": 965263111174443000,
-   "id_str": "965263111174443008",
-   "created_at": "Sun Feb 18 16:33:54 +0000 2018",
-   "text": "@patricktoomey @KingstonTime @github @fastly @letsencrypt 🤯",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965253433598103600,
-   "in_reply_to_status_id_str": "965253433598103557",
-   "in_reply_to_screen_name": "patricktoomey",
-   "urls": []
-  },
-  {
-   "id": 964951111781232600,
-   "id_str": "964951111781232641",
-   "created_at": "Sat Feb 17 19:54:07 +0000 2018",
-   "text": "@farbenstau *ba dum tss* :)",
+   "id": 976437874680877000,
+   "id_str": "976437874680877057",
+   "created_at": "Wed Mar 21 12:38:25 +0000 2018",
+   "text": "@m_strehl @annevk @notifyvisitors I guess if folks are willing to add some charset header to the file to make that… https://t.co/HsjphGXMuF",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964873244653256700,
-   "in_reply_to_status_id_str": "964873244653256705",
-   "in_reply_to_screen_name": "farbenstau",
-   "urls": []
+   "in_reply_to_status_id": 976406762076147700,
+   "in_reply_to_status_id_str": "976406762076147712",
+   "in_reply_to_screen_name": "m_strehl",
+   "urls": [
+    {
+     "url": "https://t.co/HsjphGXMuF",
+     "expand": "https://twitter.com/i/web/status/976437874680877057"
+    }
+   ]
   },
   {
-   "id": 964867242323267600,
-   "id_str": "964867242323267584",
-   "created_at": "Sat Feb 17 14:20:51 +0000 2018",
-   "text": "I'm back home after what's probably the least vacationey vacation I've had in a while. Happily, my wife is mostly f… https://t.co/S9z0n3kUcg",
-   "retweet_count": 0,
-   "favorite_count": 7,
+   "id": 976405272053809200,
+   "id_str": "976405272053809153",
+   "created_at": "Wed Mar 21 10:28:52 +0000 2018",
+   "text": "Yay! WebAuthn might make it into Chrome 67. :) https://t.co/bzosNcnpna",
+   "retweet_count": 11,
+   "favorite_count": 32,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/S9z0n3kUcg",
-     "expand": "https://twitter.com/i/web/status/964867242323267584"
+     "url": "https://t.co/bzosNcnpna",
+     "expand": "https://twitter.com/intenttoship/status/975867288606920707"
     }
    ]
   },
   {
-   "id": 964866024641384400,
-   "id_str": "964866024641384448",
-   "created_at": "Sat Feb 17 14:16:01 +0000 2018",
-   "text": "RT @reaperhulk: Gervase Markham’s work on Mozilla’s PKI program was mostly invisible (to laypeople) yet incredibly impactful to the securit…",
-   "retweet_count": 46,
+   "id": 976402456669245400,
+   "id_str": "976402456669245440",
+   "created_at": "Wed Mar 21 10:17:41 +0000 2018",
+   "text": "@m_strehl @annevk @notifyvisitors I'm not familiar enough with Brotli. Help me out with some more context?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976401756652523500,
+   "in_reply_to_status_id_str": "976401756652523520",
+   "in_reply_to_screen_name": "m_strehl",
+   "urls": []
+  },
+  {
+   "id": 976395576538550300,
+   "id_str": "976395576538550273",
+   "created_at": "Wed Mar 21 09:50:20 +0000 2018",
+   "text": "@annevk @notifyvisitors ) *whew* That was close.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 976395489393500200,
+   "in_reply_to_status_id_str": "976395489393500160",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 976395489393500200,
+   "id_str": "976395489393500160",
+   "created_at": "Wed Mar 21 09:49:59 +0000 2018",
+   "text": "@annevk @notifyvisitors (I wonder how much bandwidth we'd save in aggregate if we introduced `text/js` and everyone ever moved to it?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976395348494159900,
+   "in_reply_to_status_id_str": "976395348494159872",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": []
+  },
+  {
+   "id": 976395348494159900,
+   "id_str": "976395348494159872",
+   "created_at": "Wed Mar 21 09:49:26 +0000 2018",
+   "text": "@annevk @notifyvisitors Naah. `text/jscript` is shorter. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976395099910291500,
+   "in_reply_to_status_id_str": "976395099910291457",
+   "in_reply_to_screen_name": "annevk",
+   "urls": []
+  },
+  {
+   "id": 976394429002059800,
+   "id_str": "976394429002059777",
+   "created_at": "Wed Mar 21 09:45:47 +0000 2018",
+   "text": "@annevk @notifyvisitors Note that I would be happy with _any_ of the explicitly accepted MIME types, as I don't thi… https://t.co/a3SIouRLF9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976394243102126100,
+   "in_reply_to_status_id_str": "976394243102126081",
+   "in_reply_to_screen_name": "annevk",
+   "urls": [
+    {
+     "url": "https://t.co/a3SIouRLF9",
+     "expand": "https://twitter.com/i/web/status/976394429002059777"
+    }
+   ]
+  },
+  {
+   "id": 976389777816674300,
+   "id_str": "976389777816674304",
+   "created_at": "Wed Mar 21 09:27:18 +0000 2018",
+   "text": "Digging into MIME type data, it looks like most `new Worker`/`importScripts` calls that pull in non-`application/Ja… https://t.co/4jGMB3YdOc",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 976373310673088500,
+   "in_reply_to_status_id_str": "976373310673088512",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": [
+    {
+     "url": "https://t.co/4jGMB3YdOc",
+     "expand": "https://twitter.com/i/web/status/976389777816674304"
+    }
+   ]
+  },
+  {
+   "id": 976373310673088500,
+   "id_str": "976373310673088512",
+   "created_at": "Wed Mar 21 08:21:52 +0000 2018",
+   "text": "Digging into usage data via HTTP Archive is fun. It often turns out that usage of things I'd like to kill is driven… https://t.co/iDgTNBXnRe",
+   "retweet_count": 4,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iDgTNBXnRe",
+     "expand": "https://twitter.com/i/web/status/976373310673088512"
+    }
+   ]
+  },
+  {
+   "id": 974968302631112700,
+   "id_str": "974968302631112704",
+   "created_at": "Sat Mar 17 11:18:52 +0000 2018",
+   "text": "@shhnjk @fugueish No! Please keep filing bugs! Hold our feet to the fire, etc.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974796095510413300,
+   "in_reply_to_status_id_str": "974796095510413313",
+   "in_reply_to_screen_name": "shhnjk",
+   "urls": []
+  },
+  {
+   "id": 974627681953304600,
+   "id_str": "974627681953304576",
+   "created_at": "Fri Mar 16 12:45:21 +0000 2018",
+   "text": "@patricktoomey Meh. Everybody goes rogue sometimes. It's what keeps the internet interesting.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974627051310215200,
+   "in_reply_to_status_id_str": "974627051310215168",
+   "in_reply_to_screen_name": "patricktoomey",
+   "urls": []
+  },
+  {
+   "id": 974554657367326700,
+   "id_str": "974554657367326721",
+   "created_at": "Fri Mar 16 07:55:11 +0000 2018",
+   "text": "@patricktoomey I haven't changed the spec, or Chrome's behavior. We should talk.\n\nAlso, have you seen the `navigate… https://t.co/CweqoaFEwF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974514838155157500,
+   "in_reply_to_status_id_str": "974514838155157504",
+   "in_reply_to_screen_name": "patricktoomey",
+   "urls": [
+    {
+     "url": "https://t.co/CweqoaFEwF",
+     "expand": "https://twitter.com/i/web/status/974554657367326721"
+    }
+   ]
+  },
+  {
+   "id": 974311641755070500,
+   "id_str": "974311641755070464",
+   "created_at": "Thu Mar 15 15:49:31 +0000 2018",
+   "text": "@cramforce @sirdarckcat You’d think so, wouldn’t you? But sometimes it’s 120. :(",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974302797813317600,
+   "in_reply_to_status_id_str": "974302797813317633",
+   "in_reply_to_screen_name": "cramforce",
+   "urls": []
+  },
+  {
+   "id": 974296859740180500,
+   "id_str": "974296859740180480",
+   "created_at": "Thu Mar 15 14:50:47 +0000 2018",
+   "text": "This is apparently what I look like when I'm going ~13km/h over the speed limit. :( https://t.co/RLYcugS6VE",
+   "retweet_count": 0,
+   "favorite_count": 55,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973905023905226800,
+   "id_str": "973905023905226752",
+   "created_at": "Wed Mar 14 12:53:46 +0000 2018",
+   "text": "@shhnjk @fugueish I’m glad you did and that you’re filing more bugs! I suspect we’re both going to be unhappy with… https://t.co/wqC8jUiiPH",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973903538530279400,
+   "in_reply_to_status_id_str": "973903538530279424",
+   "in_reply_to_screen_name": "shhnjk",
+   "urls": [
+    {
+     "url": "https://t.co/wqC8jUiiPH",
+     "expand": "https://twitter.com/i/web/status/973905023905226752"
+    }
+   ]
+  },
+  {
+   "id": 973890381912961000,
+   "id_str": "973890381912961024",
+   "created_at": "Wed Mar 14 11:55:35 +0000 2018",
+   "text": "I suspect that @shhnjk just got an iPhone!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973627943267250200,
+   "id_str": "973627943267250176",
+   "created_at": "Tue Mar 13 18:32:45 +0000 2018",
+   "text": "@laparisa @justinschuh Unsolicited peer reviews seem like a good place for ASCII art. Also the “Notes yo manager” section. :)",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 973627687305592800,
+   "in_reply_to_status_id_str": "973627687305592833",
+   "in_reply_to_screen_name": "laparisa",
+   "urls": []
+  },
+  {
+   "id": 973623507769839600,
+   "id_str": "973623507769839616",
+   "created_at": "Tue Mar 13 18:15:07 +0000 2018",
+   "text": "Those of you who don't work on the Chrome security team are missing out on @laparisa's meme selection skills, which are _amazing_.",
+   "retweet_count": 2,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973622014182395900,
+   "id_str": "973622014182395904",
+   "created_at": "Tue Mar 13 18:09:11 +0000 2018",
+   "text": "This is exciting! WebAuthn standardizes the security key API in a way that I really hope will drive adoption more w… https://t.co/2noYZ6wEN5",
+   "retweet_count": 13,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2noYZ6wEN5",
+     "expand": "https://twitter.com/i/web/status/973622014182395904"
+    }
+   ]
+  },
+  {
+   "id": 973459381126926300,
+   "id_str": "973459381126926336",
+   "created_at": "Tue Mar 13 07:22:57 +0000 2018",
+   "text": "@rlbarnes Todesfuge by Paul Celan. My wife just taught it in her German class, I’m trying to get a feel for it so she’ll think I’m smart. :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973394856830697500,
+   "in_reply_to_status_id_str": "973394856830697473",
+   "in_reply_to_screen_name": "rlbarnes",
+   "urls": []
+  },
+  {
+   "id": 973447215141318700,
+   "id_str": "973447215141318657",
+   "created_at": "Tue Mar 13 06:34:36 +0000 2018",
+   "text": "Hrm. Water’s not supposed to be dripping from the ceiling, is it? I think a pipe burst over the winter. :( https://t.co/7WhfkpqxFc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973246147165909000,
+   "id_str": "973246147165908992",
+   "created_at": "Mon Mar 12 17:15:38 +0000 2018",
+   "text": "@sleevi_ Idunno. The address bar is pretty straightforward on this Android phone I have lying around.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973220844712480800,
+   "in_reply_to_status_id_str": "973220844712480769",
+   "in_reply_to_screen_name": "sleevi_",
+   "urls": []
+  },
+  {
+   "id": 973032213284614100,
+   "id_str": "973032213284614144",
+   "created_at": "Mon Mar 12 03:05:32 +0000 2018",
+   "text": "No, _you're_ absurdly jetlagged and translating German poetry rather than sleeping at 4 in the morning.",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 972894065674063900,
+   "id_str": "972894065674063873",
+   "created_at": "Sun Mar 11 17:56:35 +0000 2018",
+   "text": "@chrisbentzel Is that what you’ve stooped to? Taxes as perfcrastination? Amazing.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972888763390152700,
+   "in_reply_to_status_id_str": "972888763390152705",
+   "in_reply_to_screen_name": "chrisbentzel",
+   "urls": []
+  },
+  {
+   "id": 972893287660118000,
+   "id_str": "972893287660118022",
+   "created_at": "Sun Mar 11 17:53:29 +0000 2018",
+   "text": "@saltydogpub @samoajamusic I think you’re looking for @Mike333West. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972885648179908600,
+   "in_reply_to_status_id_str": "972885648179908608",
+   "in_reply_to_screen_name": "saltydogpub",
+   "urls": []
+  },
+  {
+   "id": 972424570157387800,
+   "id_str": "972424570157387776",
+   "created_at": "Sat Mar 10 10:50:58 +0000 2018",
+   "text": "@kermiite @estark37 @arw @slightlylate @bcrypt @laparisa @justinschuh SRI over HTTP doesn’t help. That said, we sho… https://t.co/cFSE77g0jA",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 972423951262593000,
+   "in_reply_to_status_id_str": "972423951262593025",
+   "in_reply_to_screen_name": "kermiite",
+   "urls": [
+    {
+     "url": "https://t.co/cFSE77g0jA",
+     "expand": "https://twitter.com/i/web/status/972424570157387776"
+    }
+   ]
+  },
+  {
+   "id": 972411641999618000,
+   "id_str": "972411641999618049",
+   "created_at": "Sat Mar 10 09:59:36 +0000 2018",
+   "text": "@estark37 @arw @slightlylate @bcrypt @laparisa @justinschuh Also, if we mark the page as “Not Secure” but don’t als… https://t.co/JOLVwlEYVW",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972404420444123100,
+   "in_reply_to_status_id_str": "972404420444123136",
+   "in_reply_to_screen_name": "mikewest",
+   "urls": [
+    {
+     "url": "https://t.co/JOLVwlEYVW",
+     "expand": "https://twitter.com/i/web/status/972411641999618049"
+    }
+   ]
+  },
+  {
+   "id": 972411232627167200,
+   "id_str": "972411232627167232",
+   "created_at": "Sat Mar 10 09:57:59 +0000 2018",
+   "text": "Walking around the Frankfurt airport, trying to stay awake until my flight to Munich. I’m wiped out!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 972404420444123100,
+   "id_str": "972404420444123136",
+   "created_at": "Sat Mar 10 09:30:54 +0000 2018",
+   "text": "@estark37 @arw @slightlylate @bcrypt @laparisa @justinschuh Might be worth reevaluating that metric once we’re ship… https://t.co/c5kWQ6P4WH",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 972373408573833200,
+   "in_reply_to_status_id_str": "972373408573833217",
+   "in_reply_to_screen_name": "estark37",
+   "urls": [
+    {
+     "url": "https://t.co/c5kWQ6P4WH",
+     "expand": "https://twitter.com/i/web/status/972404420444123136"
+    }
+   ]
+  },
+  {
+   "id": 972212662393122800,
+   "id_str": "972212662393122816",
+   "created_at": "Fri Mar 09 20:48:56 +0000 2018",
+   "text": "SFO✈️MUC. I'm really looking forward to getting back home after two weeks of summits and meetings and etc.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971899868112277500,
+   "id_str": "971899868112277504",
+   "created_at": "Fri Mar 09 00:06:00 +0000 2018",
+   "text": "@spazef0rze @Scott_Helme @estark37 @__apf__ @emschec Sounds like a reasonable conclusion to me. Still file a bug, b… https://t.co/OjEZePOLvU",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971898321722839000,
+   "in_reply_to_status_id_str": "971898321722839041",
+   "in_reply_to_screen_name": "spazef0rze",
+   "urls": [
+    {
+     "url": "https://t.co/OjEZePOLvU",
+     "expand": "https://twitter.com/i/web/status/971899868112277504"
+    }
+   ]
+  },
+  {
+   "id": 971894743029375000,
+   "id_str": "971894743029374976",
+   "created_at": "Thu Mar 08 23:45:38 +0000 2018",
+   "text": "@Scott_Helme @estark37 @__apf__ @emschec It's an order of magnitude faster for me (on ChromeOS (in an incognito pro… https://t.co/USi3Ycik7M",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971893495672787000,
+   "in_reply_to_status_id_str": "971893495672786949",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/USi3Ycik7M",
+     "expand": "https://twitter.com/i/web/status/971894743029374976"
+    }
+   ]
+  },
+  {
+   "id": 971892226539204600,
+   "id_str": "971892226539204609",
+   "created_at": "Thu Mar 08 23:35:38 +0000 2018",
+   "text": "@Scott_Helme @estark37 @__apf__ @emschec I’d suggest filing a bug. That seems slow. Perhaps include a chrome://net-… https://t.co/2yKs5NOsPp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971889805733826600,
+   "in_reply_to_status_id_str": "971889805733826565",
+   "in_reply_to_screen_name": "Scott_Helme",
+   "urls": [
+    {
+     "url": "https://t.co/2yKs5NOsPp",
+     "expand": "https://twitter.com/i/web/status/971892226539204609"
+    }
+   ]
+  },
+  {
+   "id": 971430074934112300,
+   "id_str": "971430074934112256",
+   "created_at": "Wed Mar 07 16:59:12 +0000 2018",
+   "text": "Martin's https://t.co/aVk1DvrRdU was ahead of its time.",
+   "retweet_count": 3,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/aVk1DvrRdU",
+     "expand": "https://tools.ietf.org/html/draft-thomson-http-omnomnom-00"
+    }
+   ]
+  },
+  {
+   "id": 971128460537036800,
+   "id_str": "971128460537036800",
+   "created_at": "Tue Mar 06 21:00:42 +0000 2018",
+   "text": "@patricktoomey @hillbrad That seems true. Subscriptions feel like a good solution to a lot of things to me, and man… https://t.co/Zr1wxeRUNt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971127883014946800,
+   "in_reply_to_status_id_str": "971127883014946816",
+   "in_reply_to_screen_name": "patricktoomey",
+   "urls": [
+    {
+     "url": "https://t.co/Zr1wxeRUNt",
+     "expand": "https://twitter.com/i/web/status/971128460537036800"
+    }
+   ]
+  },
+  {
+   "id": 971127067587764200,
+   "id_str": "971127067587764224",
+   "created_at": "Tue Mar 06 20:55:10 +0000 2018",
+   "text": "@patricktoomey @hillbrad Yeah. I think I agree with that. But that's what things like https://t.co/nmGByN5sQI aimed… https://t.co/HPZs16U2l3",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971126722778185700,
+   "in_reply_to_status_id_str": "971126722778185728",
+   "in_reply_to_screen_name": "patricktoomey",
+   "urls": [
+    {
+     "url": "https://t.co/nmGByN5sQI",
+     "expand": "https://contributor.google.com/"
+    },
+    {
+     "url": "https://t.co/HPZs16U2l3",
+     "expand": "https://twitter.com/i/web/status/971127067587764224"
+    }
+   ]
+  },
+  {
+   "id": 971122939113324500,
+   "id_str": "971122939113324544",
+   "created_at": "Tue Mar 06 20:38:45 +0000 2018",
+   "text": "RT @hillbrad: OK, \"advertising is evil\" followers, here's another chance to put your $ where your tweets are regarding alternate business m…",
+   "retweet_count": 8,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -436,23 +983,403 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964720383428563000,
-    "id_str": "964720383428562944",
-    "created_at": "Sat Feb 17 04:37:17 +0000 2018",
-    "text": "Gervase Markham’s work on Mozilla’s PKI program was mostly invisible (to laypeople) yet incredibly impactful to the… https://t.co/396bryZECV",
-    "retweet_count": 46,
-    "favorite_count": 78,
+    "id": 971109965229273100,
+    "id_str": "971109965229273088",
+    "created_at": "Tue Mar 06 19:47:12 +0000 2018",
+    "text": "OK, \"advertising is evil\" followers, here's another chance to put your $ where your tweets are regarding alternate… https://t.co/Tc1pISWOhy",
+    "retweet_count": 8,
+    "favorite_count": 16,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/396bryZECV",
-      "expand": "https://twitter.com/i/web/status/964720383428562944"
+      "url": "https://t.co/Tc1pISWOhy",
+      "expand": "https://twitter.com/i/web/status/971109965229273088"
      }
     ]
    }
+  },
+  {
+   "id": 971066567344574500,
+   "id_str": "971066567344574464",
+   "created_at": "Tue Mar 06 16:54:45 +0000 2018",
+   "text": "@ericlaw @SwiftOnSecurity @Cloudflare Tay has a private jet (and the underlying `https://t.co/fIYBYDjhXo` is secure… https://t.co/E2uPhORtVX",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971066204340346900,
+   "in_reply_to_status_id_str": "971066204340346880",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": [
+    {
+     "url": "https://t.co/fIYBYDjhXo",
+     "expand": "http://decentsecurity.com"
+    },
+    {
+     "url": "https://t.co/E2uPhORtVX",
+     "expand": "https://twitter.com/i/web/status/971066567344574464"
+    }
+   ]
+  },
+  {
+   "id": 971059075046826000,
+   "id_str": "971059075046825985",
+   "created_at": "Tue Mar 06 16:24:59 +0000 2018",
+   "text": "@reybango @zseano @taviso @SwiftOnSecurity @ericlaw Looks like https://t.co/UD2vlL9Prr doesn't work over HTTPS (… https://t.co/HZn0PxiyOo",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971055284062834700,
+   "in_reply_to_status_id_str": "971055284062834688",
+   "in_reply_to_screen_name": "reybango",
+   "urls": [
+    {
+     "url": "https://t.co/UD2vlL9Prr",
+     "expand": "http://gotphish.com"
+    },
+    {
+     "url": "https://t.co/HZn0PxiyOo",
+     "expand": "https://twitter.com/i/web/status/971059075046825985"
+    }
+   ]
+  },
+  {
+   "id": 971055068882526200,
+   "id_str": "971055068882526208",
+   "created_at": "Tue Mar 06 16:09:04 +0000 2018",
+   "text": "@reybango @zseano @taviso I’ve used @SwiftOnSecurity’s https://t.co/TX9Qf1PGja. @ericlaw reports phishing on a quas… https://t.co/l00g4ZIHSy",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971054518195560400,
+   "in_reply_to_status_id_str": "971054518195560448",
+   "in_reply_to_screen_name": "reybango",
+   "urls": [
+    {
+     "url": "https://t.co/TX9Qf1PGja",
+     "expand": "https://gotphish.com/"
+    },
+    {
+     "url": "https://t.co/l00g4ZIHSy",
+     "expand": "https://twitter.com/i/web/status/971055068882526208"
+    }
+   ]
+  },
+  {
+   "id": 971043689173680100,
+   "id_str": "971043689173680128",
+   "created_at": "Tue Mar 06 15:23:51 +0000 2018",
+   "text": "This hotel’s soap is “exfoliating”, which I think is Latin for “filled with tiny daggers”.",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 970692256008056800,
+   "id_str": "970692256008056832",
+   "created_at": "Mon Mar 05 16:07:23 +0000 2018",
+   "text": "@botic @mmatuzo @workingdraft Danke Philipp, dass Du an mich denkst. :) Gerne würde ich CSP, Cookies, usw. diskutie… https://t.co/odjQTp2u3k",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970566211770748900,
+   "in_reply_to_status_id_str": "970566211770748928",
+   "in_reply_to_screen_name": "botic",
+   "urls": [
+    {
+     "url": "https://t.co/odjQTp2u3k",
+     "expand": "https://twitter.com/i/web/status/970692256008056832"
+    }
+   ]
+  },
+  {
+   "id": 969264578633728000,
+   "id_str": "969264578633728001",
+   "created_at": "Thu Mar 01 17:34:18 +0000 2018",
+   "text": "@ericlaw Huh. Seems like we should ask the team responsible for security UI to take a look at that?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969264291399524400,
+   "in_reply_to_status_id_str": "969264291399524353",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": []
+  },
+  {
+   "id": 969252805360762900,
+   "id_str": "969252805360762880",
+   "created_at": "Thu Mar 01 16:47:31 +0000 2018",
+   "text": "@ericlaw Shouldn't we be eliding from the left? It surprises me a bit that we end up with that display...",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969251518191988700,
+   "in_reply_to_status_id_str": "969251518191988737",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": []
+  },
+  {
+   "id": 968746386983407600,
+   "id_str": "968746386983407616",
+   "created_at": "Wed Feb 28 07:15:11 +0000 2018",
+   "text": "I fought through jetlag, making it all the way to 21:30 before crashing. Which was ~2 hours ago. Ugh. It’s going to be a long night.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968520943415967700,
+   "id_str": "968520943415967745",
+   "created_at": "Tue Feb 27 16:19:21 +0000 2018",
+   "text": "@ericlaw @jaffathecake @0x6D6172696F I must have missed the “enter V8” bit. I knew we had distinct interpreters at… https://t.co/YbmJKKV1DF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968517102280855600,
+   "in_reply_to_status_id_str": "968517102280855552",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": [
+    {
+     "url": "https://t.co/YbmJKKV1DF",
+     "expand": "https://twitter.com/i/web/status/968520943415967745"
+    }
+   ]
+  },
+  {
+   "id": 968520732178137100,
+   "id_str": "968520732178137088",
+   "created_at": "Tue Feb 27 16:18:31 +0000 2018",
+   "text": "@WisecWisec @jaffathecake @0x6D6172696F Yeah. This has been known forever. I didn’t mean to claim I added anything… https://t.co/CmelbFkkk4",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968517829879361500,
+   "in_reply_to_status_id_str": "968517829879361536",
+   "in_reply_to_screen_name": "WisecWisec",
+   "urls": [
+    {
+     "url": "https://t.co/CmelbFkkk4",
+     "expand": "https://twitter.com/i/web/status/968520732178137088"
+    }
+   ]
+  },
+  {
+   "id": 968516516386824200,
+   "id_str": "968516516386824193",
+   "created_at": "Tue Feb 27 16:01:46 +0000 2018",
+   "text": "@jaffathecake @0x6D6172696F More attack surface. I think PDFium still has its own JS interpreter (folks are working… https://t.co/YmXhZiQq3p",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 968516032464851000,
+   "in_reply_to_status_id_str": "968516032464850946",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": [
+    {
+     "url": "https://t.co/YmXhZiQq3p",
+     "expand": "https://twitter.com/i/web/status/968516516386824193"
+    }
+   ]
+  },
+  {
+   "id": 968515521640521700,
+   "id_str": "968515521640521734",
+   "created_at": "Tue Feb 27 15:57:49 +0000 2018",
+   "text": "@jaffathecake @0x6D6172696F Might be worth linking to Mario, et al’s paper too: https://t.co/37gwXc4q9P",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968512250641354800,
+   "in_reply_to_status_id_str": "968512250641354752",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": [
+    {
+     "url": "https://t.co/37gwXc4q9P",
+     "expand": "http://www.nds.rub.de/media/emma/veroeffentlichungen/2012/08/16/scriptlessAttacks-ccs2012.pdf"
+    }
+   ]
+  },
+  {
+   "id": 968513606819049500,
+   "id_str": "968513606819049473",
+   "created_at": "Tue Feb 27 15:50:12 +0000 2018",
+   "text": "@jaffathecake @annevk @yoavweiss @fetchstandard That sounds reasonable, I suppose. If you’re loading bad JS or CSS, you have other problems.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968513112092692500,
+   "in_reply_to_status_id_str": "968513112092692480",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": []
+  },
+  {
+   "id": 968512996883423200,
+   "id_str": "968512996883423232",
+   "created_at": "Tue Feb 27 15:47:47 +0000 2018",
+   "text": "@jaffathecake @yoavweiss 👍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968512818650796000,
+   "in_reply_to_status_id_str": "968512818650796033",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": []
+  },
+  {
+   "id": 968512357138808800,
+   "id_str": "968512357138808833",
+   "created_at": "Tue Feb 27 15:45:14 +0000 2018",
+   "text": "@KingstonTime I’m in the area (mostly SF) until the 9th. Meet up next week? Maybe @TanviHacks is around as well?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968394966484635600,
+   "in_reply_to_status_id_str": "968394966484635648",
+   "in_reply_to_screen_name": "KingstonTime",
+   "urls": []
+  },
+  {
+   "id": 968511879302688800,
+   "id_str": "968511879302688768",
+   "created_at": "Tue Feb 27 15:43:20 +0000 2018",
+   "text": "@jaffathecake @annevk @yoavweiss @fetchstandard Push instead? I don’t have a concrete attack (service worker instal… https://t.co/mSUAxYwh0S",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968511135132602400,
+   "in_reply_to_status_id_str": "968511135132602370",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": [
+    {
+     "url": "https://t.co/mSUAxYwh0S",
+     "expand": "https://twitter.com/i/web/status/968511879302688768"
+    }
+   ]
+  },
+  {
+   "id": 968511349515956200,
+   "id_str": "968511349515956224",
+   "created_at": "Tue Feb 27 15:41:14 +0000 2018",
+   "text": "@annevk @jaffathecake @yoavweiss @fetchstandard I agree with this in principle. I’d be happier if subresource reque… https://t.co/nu1jtDRXvW",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968510884896178200,
+   "in_reply_to_status_id_str": "968510884896178176",
+   "in_reply_to_screen_name": "annevk",
+   "urls": [
+    {
+     "url": "https://t.co/nu1jtDRXvW",
+     "expand": "https://twitter.com/i/web/status/968511349515956224"
+    }
+   ]
+  },
+  {
+   "id": 968511160885461000,
+   "id_str": "968511160885460992",
+   "created_at": "Tue Feb 27 15:40:29 +0000 2018",
+   "text": "@jaffathecake @yoavweiss Do we support that? Because installing a service worker based on an &lt;img&gt; would surprise m… https://t.co/nNChoZGlVG",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968510860481171500,
+   "in_reply_to_status_id_str": "968510860481171459",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": [
+    {
+     "url": "https://t.co/nNChoZGlVG",
+     "expand": "https://twitter.com/i/web/status/968511160885460992"
+    }
+   ]
+  },
+  {
+   "id": 968509871195697200,
+   "id_str": "968509871195697152",
+   "created_at": "Tue Feb 27 15:35:21 +0000 2018",
+   "text": "@jaffathecake I’d also point folks to https://t.co/wFdZMFklp6 which summarizes some of the attacks folks like… https://t.co/FG46K6apBF",
+   "retweet_count": 3,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": 968500192210227200,
+   "in_reply_to_status_id_str": "968500192210227202",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": [
+    {
+     "url": "https://t.co/wFdZMFklp6",
+     "expand": "https://www.youtube.com/watch?v=eb3suf4REyI"
+    },
+    {
+     "url": "https://t.co/FG46K6apBF",
+     "expand": "https://twitter.com/i/web/status/968509871195697152"
+    }
+   ]
+  },
+  {
+   "id": 968508965901410300,
+   "id_str": "968508965901410304",
+   "created_at": "Tue Feb 27 15:31:46 +0000 2018",
+   "text": "@jaffathecake One note: third-party images can’t affect your page directly, but they can deliver `Link` headers tha… https://t.co/5feJieJZ0E",
+   "retweet_count": 3,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 968500192210227200,
+   "in_reply_to_status_id_str": "968500192210227202",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": [
+    {
+     "url": "https://t.co/5feJieJZ0E",
+     "expand": "https://twitter.com/i/web/status/968508965901410304"
+    }
+   ]
+  },
+  {
+   "id": 968127427913363500,
+   "id_str": "968127427913363456",
+   "created_at": "Mon Feb 26 14:15:40 +0000 2018",
+   "text": "MUC✈️SFO. I’ll be in the Bay Area for the next few days, then in Dallas, then the Bay Area again. Response times will suffer accordingly. :)",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 967471021891752000,
+   "id_str": "967471021891751936",
+   "created_at": "Sat Feb 24 18:47:21 +0000 2018",
+   "text": "@fugueish Still, you should check the back seat. There might be a woman there. Waiting for the right moment to pounce.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967470227872206800,
+   "in_reply_to_status_id_str": "967470227872206848",
+   "in_reply_to_screen_name": "fugueish",
+   "urls": []
+  },
+  {
+   "id": 967469211210735600,
+   "id_str": "967469211210735617",
+   "created_at": "Sat Feb 24 18:40:09 +0000 2018",
+   "text": "@fugueish If advertisements have taught me anything, you need to be very careful today. Women will be literally throwing themselves at you.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967455106819153900,
+   "in_reply_to_status_id_str": "967455106819153920",
+   "in_reply_to_screen_name": "fugueish",
+   "urls": []
   }
  ]
 }

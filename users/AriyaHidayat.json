@@ -1,42 +1,73 @@
 {
- "time": 1519367438842,
+ "time": 1522595219931,
  "lists": [
   {
-   "id": 966825941426044900,
-   "id_str": "966825941426044928",
-   "created_at": "Fri Feb 23 00:04:01 +0000 2018",
-   "text": "I had an amazing time last night at @gojekindonesia HQ doing my first Go-Talk! What a fabulous and awesome crowd! K… https://t.co/LDIPmM1nhG",
-   "retweet_count": 3,
-   "favorite_count": 8,
+   "id": 980130410154795000,
+   "id_str": "980130410154795008",
+   "created_at": "Sat Mar 31 17:11:14 +0000 2018",
+   "text": "@KoenLex @achandab1 @googlemaps I figure it must be about road access (e.g. certain segment of the freeway) and roa… https://t.co/p5DsAIXnM1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979837962685890600,
+   "in_reply_to_status_id_str": "979837962685890561",
+   "in_reply_to_screen_name": "KoenLex",
+   "urls": [
+    {
+     "url": "https://t.co/p5DsAIXnM1",
+     "expand": "https://twitter.com/i/web/status/980130410154795008"
+    }
+   ]
+  },
+  {
+   "id": 979737601144848400,
+   "id_str": "979737601144848389",
+   "created_at": "Fri Mar 30 15:10:21 +0000 2018",
+   "text": "RT @rob_pike: /bin/true used to be an empty file. The shell would open it, do nothing, and exit with a true status code.",
+   "retweet_count": 1035,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966896123548872700,
+    "id_str": "966896123548872705",
+    "created_at": "Fri Feb 23 04:42:54 +0000 2018",
+    "text": "/bin/true used to be an empty file. The shell would open it, do nothing, and exit with a true status code.",
+    "retweet_count": 1035,
+    "favorite_count": 2042,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 979545707412537300,
+   "id_str": "979545707412537344",
+   "created_at": "Fri Mar 30 02:27:50 +0000 2018",
+   "text": "Data breach at @UnderArmour @MyFitnessPal, affecting 150M accounts \n“...hashed passwords - the majority with the ha… https://t.co/QZm8sAYZCG",
+   "retweet_count": 4,
+   "favorite_count": 3,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/LDIPmM1nhG",
-     "expand": "https://twitter.com/i/web/status/966825941426044928"
+     "url": "https://t.co/QZm8sAYZCG",
+     "expand": "https://twitter.com/i/web/status/979545707412537344"
     }
    ]
   },
   {
-   "id": 966643010803937300,
-   "id_str": "966643010803937280",
-   "created_at": "Thu Feb 22 11:57:07 +0000 2018",
-   "text": "Getting ready for the talk, at @gojekindonesia!! https://t.co/kutEUrifSC",
-   "retweet_count": 2,
-   "favorite_count": 14,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 966490116259643400,
-   "id_str": "966490116259643392",
-   "created_at": "Thu Feb 22 01:49:34 +0000 2018",
-   "text": "RT @jcukier: next week, join us at Uber offices for https://t.co/EPOQcIrnih with @AriyaHidayat, @rauchg and Uber visualization team's own @…",
+   "id": 979501034258100200,
+   "id_str": "979501034258100224",
+   "created_at": "Thu Mar 29 23:30:19 +0000 2018",
+   "text": "RT @auchenberg: Interesting take on Microsoft big re-org today by @timsneath. https://t.co/ljaTEGYtY1",
    "retweet_count": 7,
    "favorite_count": 0,
    "place": null,
@@ -45,107 +76,182 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/EPOQcIrnih",
-     "expand": "https://www.uber.com/p/destination-web/"
+     "url": "https://t.co/ljaTEGYtY1",
+     "expand": "https://medium.com/@timsneath/from-windows-to-the-cloud-89d5ae28a95f"
     }
    ],
    "retweeted_status": {
-    "id": 966083502264541200,
-    "id_str": "966083502264541184",
-    "created_at": "Tue Feb 20 22:53:50 +0000 2018",
-    "text": "next week, join us at Uber offices for https://t.co/EPOQcIrnih with @AriyaHidayat, @rauchg and Uber visualization team's own @heshan_cheri",
+    "id": 979473265272930300,
+    "id_str": "979473265272930304",
+    "created_at": "Thu Mar 29 21:39:58 +0000 2018",
+    "text": "Interesting take on Microsoft big re-org today by @timsneath. https://t.co/ljaTEGYtY1",
     "retweet_count": 7,
-    "favorite_count": 16,
+    "favorite_count": 9,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/EPOQcIrnih",
-      "expand": "https://www.uber.com/p/destination-web/"
+      "url": "https://t.co/ljaTEGYtY1",
+      "expand": "https://medium.com/@timsneath/from-windows-to-the-cloud-89d5ae28a95f"
      }
     ]
    }
   },
   {
-   "id": 966465529069236200,
-   "id_str": "966465529069236224",
-   "created_at": "Thu Feb 22 00:11:52 +0000 2018",
-   "text": "Seriously, @gojekindonesia office is such a cool place. If you want to catch me while I'm still in Jakarta, tonight… https://t.co/fuJHtSzHjZ",
-   "retweet_count": 8,
-   "favorite_count": 15,
+   "id": 979500448557146100,
+   "id_str": "979500448557146112",
+   "created_at": "Thu Mar 29 23:27:59 +0000 2018",
+   "text": "RT @awscloud: Create a serverless application with @ronaldwidha &amp; @chrismunns.\nhttps://t.co/vbWYYstcDt https://t.co/ZfPVZKDh2X",
+   "retweet_count": 20,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/fuJHtSzHjZ",
-     "expand": "https://twitter.com/i/web/status/966465529069236224"
+     "url": "https://t.co/vbWYYstcDt",
+     "expand": "http://amzn.to/2GjXui5"
     }
-   ]
+   ],
+   "retweeted_status": {
+    "id": 979498698173493200,
+    "id_str": "979498698173493248",
+    "created_at": "Thu Mar 29 23:21:02 +0000 2018",
+    "text": "Create a serverless application with @ronaldwidha &amp; @chrismunns.\nhttps://t.co/vbWYYstcDt https://t.co/ZfPVZKDh2X",
+    "retweet_count": 20,
+    "favorite_count": 42,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/vbWYYstcDt",
+      "expand": "http://amzn.to/2GjXui5"
+     }
+    ]
+   }
   },
   {
-   "id": 966303229423231000,
-   "id_str": "966303229423230976",
-   "created_at": "Wed Feb 21 13:26:57 +0000 2018",
-   "text": "OMG it was superfun last night at @JakartaJS! The JavaScript community here in Jakarta is extremely enthusiastic an… https://t.co/NtZnClpSUD",
-   "retweet_count": 1,
-   "favorite_count": 10,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/NtZnClpSUD",
-     "expand": "https://twitter.com/i/web/status/966303229423230976"
-    }
-   ]
-  },
-  {
-   "id": 966213520999223300,
-   "id_str": "966213520999223296",
-   "created_at": "Wed Feb 21 07:30:29 +0000 2018",
-   "text": "@_mwc @jsoverson Of course! It's all thanks to Pixel 2. Stunning pictures, unlimited storage, hassle-free upload/sh… https://t.co/x2ZukDhQra",
+   "id": 979409718358626300,
+   "id_str": "979409718358626304",
+   "created_at": "Thu Mar 29 17:27:28 +0000 2018",
+   "text": "@discover_future CEO = Captain, COO = Quartermaster.",
    "retweet_count": 0,
-   "favorite_count": 2,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 966177979515666400,
-   "in_reply_to_status_id_str": "966177979515666433",
-   "in_reply_to_screen_name": "_mwc",
+   "in_reply_to_status_id": 979263598470955000,
+   "in_reply_to_status_id_str": "979263598470955009",
+   "in_reply_to_screen_name": "discover_future",
+   "urls": []
+  },
+  {
+   "id": 979357534862504000,
+   "id_str": "979357534862503937",
+   "created_at": "Thu Mar 29 14:00:06 +0000 2018",
+   "text": "Whoa, this is so awesome @GoogleMaps! Finally, some upcoming vacations will be quite fun 😁 https://t.co/CPuFqE9I40",
+   "retweet_count": 9,
+   "favorite_count": 42,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 979202644555194400,
+   "id_str": "979202644555194368",
+   "created_at": "Thu Mar 29 03:44:37 +0000 2018",
+   "text": "@sergeyche Or directly into the address book. Solutions exist for this since ages, it's just that the ritual never… https://t.co/J0S85WcmrQ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977962540138483700,
+   "in_reply_to_status_id_str": "977962540138483718",
+   "in_reply_to_screen_name": "sergeyche",
    "urls": [
     {
-     "url": "https://t.co/x2ZukDhQra",
-     "expand": "https://twitter.com/i/web/status/966213520999223296"
+     "url": "https://t.co/J0S85WcmrQ",
+     "expand": "https://twitter.com/i/web/status/979202644555194368"
     }
    ]
   },
   {
-   "id": 966110335508783100,
-   "id_str": "966110335508783107",
-   "created_at": "Wed Feb 21 00:40:28 +0000 2018",
-   "text": "I was superlucky yesterday, @shintabubu was willing to spent some time hanging out, having conversations, and shari… https://t.co/9IFMNCmOpY",
+   "id": 979201981276278800,
+   "id_str": "979201981276278787",
+   "created_at": "Thu Mar 29 03:41:59 +0000 2018",
+   "text": "@willnode And business cards mean more dead tree 😉",
    "retweet_count": 0,
-   "favorite_count": 8,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977933348449394700,
+   "in_reply_to_status_id_str": "977933348449394688",
+   "in_reply_to_screen_name": "willnode",
+   "urls": []
+  },
+  {
+   "id": 979124221027561500,
+   "id_str": "979124221027561472",
+   "created_at": "Wed Mar 28 22:33:00 +0000 2018",
+   "text": "Just as a good product manager partners with the software engineers and keeps them honest w.r.t the SDLC (Software… https://t.co/N3cXZJ3uNE",
+   "retweet_count": 2,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 979022814433886200,
+   "in_reply_to_status_id_str": "979022814433886208",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/N3cXZJ3uNE",
+     "expand": "https://twitter.com/i/web/status/979124221027561472"
+    }
+   ]
+  },
+  {
+   "id": 979119151628169200,
+   "id_str": "979119151628169216",
+   "created_at": "Wed Mar 28 22:12:51 +0000 2018",
+   "text": "RT @BloombergAsia: These are the world's best airports. And the top ones are all in Asia https://t.co/q8koQx867i https://t.co/lglLwmvCP5",
+   "retweet_count": 18,
+   "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/9IFMNCmOpY",
-     "expand": "https://twitter.com/i/web/status/966110335508783107"
+     "url": "https://t.co/q8koQx867i",
+     "expand": "https://bloom.bg/2puAMxp"
     }
-   ]
+   ],
+   "retweeted_status": {
+    "id": 977036892955914200,
+    "id_str": "977036892955914240",
+    "created_at": "Fri Mar 23 04:18:42 +0000 2018",
+    "text": "These are the world's best airports. And the top ones are all in Asia https://t.co/q8koQx867i https://t.co/lglLwmvCP5",
+    "retweet_count": 18,
+    "favorite_count": 75,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/q8koQx867i",
+      "expand": "https://bloom.bg/2puAMxp"
+     }
+    ]
+   }
   },
   {
-   "id": 966085320704868400,
-   "id_str": "966085320704868352",
-   "created_at": "Tue Feb 20 23:01:04 +0000 2018",
-   "text": "RT @angustweets: For our next Destination Web meetup we're excited to feature talks by @AriyaHidayat, @heshan_cheri and @rauchg!\n\nIt's next…",
-   "retweet_count": 1,
+   "id": 979115838945951700,
+   "id_str": "979115838945951744",
+   "created_at": "Wed Mar 28 21:59:41 +0000 2018",
+   "text": "RT @MalwareJake: FFS @Cisco, it's not an \"undocumented user account\" - it's a engineer created *backdoor*. That YOU put there. Stop downpla…",
+   "retweet_count": 315,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -153,11 +259,227 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 966030566817636400,
-    "id_str": "966030566817636352",
-    "created_at": "Tue Feb 20 19:23:29 +0000 2018",
-    "text": "For our next Destination Web meetup we're excited to feature talks by @AriyaHidayat, @heshan_cheri and @rauchg!\n\nIt… https://t.co/xExW9rFIhS",
-    "retweet_count": 1,
+    "id": 979049561179197400,
+    "id_str": "979049561179197441",
+    "created_at": "Wed Mar 28 17:36:19 +0000 2018",
+    "text": "FFS @Cisco, it's not an \"undocumented user account\" - it's a engineer created *backdoor*. That YOU put there. Stop… https://t.co/qXNEDb2lXg",
+    "retweet_count": 315,
+    "favorite_count": 533,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qXNEDb2lXg",
+      "expand": "https://twitter.com/i/web/status/979049561179197441"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979043718274494500,
+   "id_str": "979043718274494464",
+   "created_at": "Wed Mar 28 17:13:06 +0000 2018",
+   "text": "RT @fchollet: New post: \"what worries me about AI\" https://t.co/PhR37PTaVE",
+   "retweet_count": 424,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PhR37PTaVE",
+     "expand": "https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979033375167139800,
+    "id_str": "979033375167139841",
+    "created_at": "Wed Mar 28 16:32:00 +0000 2018",
+    "text": "New post: \"what worries me about AI\" https://t.co/PhR37PTaVE",
+    "retweet_count": 424,
+    "favorite_count": 900,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PhR37PTaVE",
+      "expand": "https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979043593263374300,
+   "id_str": "979043593263374336",
+   "created_at": "Wed Mar 28 17:12:37 +0000 2018",
+   "text": "RT @nytimes: Bright, bold and richly flavored, these aren't your typical fish cakes https://t.co/xZQDqFg0mk https://t.co/eowfvU22Ts",
+   "retweet_count": 34,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xZQDqFg0mk",
+     "expand": "https://nyti.ms/2uqGIwn"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979026607200460800,
+    "id_str": "979026607200460801",
+    "created_at": "Wed Mar 28 16:05:07 +0000 2018",
+    "text": "Bright, bold and richly flavored, these aren't your typical fish cakes https://t.co/xZQDqFg0mk https://t.co/eowfvU22Ts",
+    "retweet_count": 34,
+    "favorite_count": 177,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xZQDqFg0mk",
+      "expand": "https://nyti.ms/2uqGIwn"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979042101181624300,
+   "id_str": "979042101181624320",
+   "created_at": "Wed Mar 28 17:06:41 +0000 2018",
+   "text": "RT @TechCrunch: Solomon Hykes leaves Docker, the company he founded https://t.co/6QI8M7Y8Ui by @fredericl https://t.co/YiDVy3kDCn",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6QI8M7Y8Ui",
+     "expand": "https://tcrn.ch/2IdrtbR"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979036013774467100,
+    "id_str": "979036013774467072",
+    "created_at": "Wed Mar 28 16:42:29 +0000 2018",
+    "text": "Solomon Hykes leaves Docker, the company he founded https://t.co/6QI8M7Y8Ui by @fredericl https://t.co/YiDVy3kDCn",
+    "retweet_count": 28,
+    "favorite_count": 39,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6QI8M7Y8Ui",
+      "expand": "https://tcrn.ch/2IdrtbR"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979022814433886200,
+   "id_str": "979022814433886208",
+   "created_at": "Wed Mar 28 15:50:02 +0000 2018",
+   "text": "Note that this job is not glamorous at all. Hence, this is not for someone who likes to run a victory lap from time… https://t.co/BFxOwGchgo",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979021809696751600,
+   "in_reply_to_status_id_str": "979021809696751616",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/BFxOwGchgo",
+     "expand": "https://twitter.com/i/web/status/979022814433886208"
+    }
+   ]
+  },
+  {
+   "id": 979021809696751600,
+   "id_str": "979021809696751616",
+   "created_at": "Wed Mar 28 15:46:03 +0000 2018",
+   "text": "Crucial to the role: understand the different groups of people (may or may not map to the org chart), the informati… https://t.co/3FsO784rlH",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979019354225369100,
+   "in_reply_to_status_id_str": "979019354225369088",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/3FsO784rlH",
+     "expand": "https://twitter.com/i/web/status/979021809696751616"
+    }
+   ]
+  },
+  {
+   "id": 979019354225369100,
+   "id_str": "979019354225369088",
+   "created_at": "Wed Mar 28 15:36:18 +0000 2018",
+   "text": "What's the job of a COO (Chief Operating Officer)? Whatever the product management team is doing to the product, th… https://t.co/DcAqCJagk8",
+   "retweet_count": 3,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/DcAqCJagk8",
+     "expand": "https://twitter.com/i/web/status/979019354225369088"
+    }
+   ]
+  },
+  {
+   "id": 978859998754242600,
+   "id_str": "978859998754242560",
+   "created_at": "Wed Mar 28 05:03:04 +0000 2018",
+   "text": "Just like we don't care much the specific brand of the memory chip or the exact efficiency of the power supply, at… https://t.co/k6vivPbo2A",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/k6vivPbo2A",
+     "expand": "https://twitter.com/i/web/status/978859998754242560"
+    }
+   ]
+  },
+  {
+   "id": 978850921240252400,
+   "id_str": "978850921240252416",
+   "created_at": "Wed Mar 28 04:27:00 +0000 2018",
+   "text": "RT @jakpost: Grab’s acquisition of Uber: How it will affect Indonesian users https://t.co/4ekpvjlPrI",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4ekpvjlPrI",
+     "expand": "http://bit.ly/2ujZTYI"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978637849338761200,
+    "id_str": "978637849338761217",
+    "created_at": "Tue Mar 27 14:20:20 +0000 2018",
+    "text": "Grab’s acquisition of Uber: How it will affect Indonesian users https://t.co/4ekpvjlPrI",
+    "retweet_count": 12,
     "favorite_count": 4,
     "place": null,
     "in_reply_to_status_id": null,
@@ -165,17 +487,497 @@
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/xExW9rFIhS",
-      "expand": "https://twitter.com/i/web/status/966030566817636352"
+      "url": "https://t.co/4ekpvjlPrI",
+      "expand": "http://bit.ly/2ujZTYI"
      }
     ]
    }
   },
   {
-   "id": 966085057336156200,
-   "id_str": "966085057336156160",
-   "created_at": "Tue Feb 20 23:00:01 +0000 2018",
-   "text": "RT @oianas_: Just got a lof insights and interesting acionable advice from @AriyaHidayat at @JakartaJS meet up tonight. thank you pak Ariya…",
+   "id": 978765793050599400,
+   "id_str": "978765793050599424",
+   "created_at": "Tue Mar 27 22:48:44 +0000 2018",
+   "text": "RT @tara_msft: Happy Monday! Open sourcing a sample for Linux distro maintainers &amp; for you to sideload custom distros - https://t.co/bd6Zwn…",
+   "retweet_count": 48,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978328020812361700,
+    "id_str": "978328020812361728",
+    "created_at": "Mon Mar 26 17:49:11 +0000 2018",
+    "text": "Happy Monday! Open sourcing a sample for Linux distro maintainers &amp; for you to sideload custom distros -… https://t.co/VI5JEZLEnD",
+    "retweet_count": 48,
+    "favorite_count": 75,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VI5JEZLEnD",
+      "expand": "https://twitter.com/i/web/status/978328020812361728"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978762092793573400,
+   "id_str": "978762092793573376",
+   "created_at": "Tue Mar 27 22:34:02 +0000 2018",
+   "text": "RT @arstechnica: Uber stops AV testing “indefinitely” in California, Pennsylvania, and Toronto https://t.co/lq7X98Wyk1 by @cfarivar",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lq7X98Wyk1",
+     "expand": "http://arstechnica.com/tech-policy/2018/03/uber-stops-av-testing-indefinitely-in-california-pennsylvania-and-toronto/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978757309039071200,
+    "id_str": "978757309039071234",
+    "created_at": "Tue Mar 27 22:15:01 +0000 2018",
+    "text": "Uber stops AV testing “indefinitely” in California, Pennsylvania, and Toronto https://t.co/lq7X98Wyk1 by @cfarivar",
+    "retweet_count": 10,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lq7X98Wyk1",
+      "expand": "http://arstechnica.com/tech-policy/2018/03/uber-stops-av-testing-indefinitely-in-california-pennsylvania-and-toronto/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978749035140927500,
+   "id_str": "978749035140927488",
+   "created_at": "Tue Mar 27 21:42:08 +0000 2018",
+   "text": "RT @kron4news: Threatening call sends students running from #Cupertino High School in fear. Some students hid in nearby businesses. Sheriff…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978739255223623700,
+    "id_str": "978739255223623680",
+    "created_at": "Tue Mar 27 21:03:17 +0000 2018",
+    "text": "Threatening call sends students running from #Cupertino High School in fear. Some students hid in nearby businesses… https://t.co/Fa4F2LPf0f",
+    "retweet_count": 22,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Fa4F2LPf0f",
+      "expand": "https://twitter.com/i/web/status/978739255223623680"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978675660875972600,
+   "id_str": "978675660875972608",
+   "created_at": "Tue Mar 27 16:50:35 +0000 2018",
+   "text": "RT @typescriptlang: TypeScript 2.8 is here! Now featuring conditional types, mapped type improvements, organize imports, and much more! htt…",
+   "retweet_count": 1019,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978673305917026300,
+    "id_str": "978673305917026306",
+    "created_at": "Tue Mar 27 16:41:13 +0000 2018",
+    "text": "TypeScript 2.8 is here! Now featuring conditional types, mapped type improvements, organize imports, and much more!… https://t.co/qJicKufd0o",
+    "retweet_count": 1019,
+    "favorite_count": 1580,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qJicKufd0o",
+      "expand": "https://twitter.com/i/web/status/978673305917026306"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978667036090892300,
+   "id_str": "978667036090892288",
+   "created_at": "Tue Mar 27 16:16:18 +0000 2018",
+   "text": "RT @pierce: Here’s the thing: the new iPad looks great! I kinda want one. But $299 plus another $99 for Pencil and $100 or so for a keyboar…",
+   "retweet_count": 210,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978657782483357700,
+    "id_str": "978657782483357697",
+    "created_at": "Tue Mar 27 15:39:32 +0000 2018",
+    "text": "Here’s the thing: the new iPad looks great! I kinda want one. But $299 plus another $99 for Pencil and $100 or so f… https://t.co/ocZ3iKKZdr",
+    "retweet_count": 210,
+    "favorite_count": 1015,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ocZ3iKKZdr",
+      "expand": "https://twitter.com/i/web/status/978657782483357697"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978641985132150800,
+   "id_str": "978641985132150789",
+   "created_at": "Tue Mar 27 14:36:46 +0000 2018",
+   "text": "A very nice innovation from the folks at @Mozilla @Firefox:  “Facebook Container isolates your Facebook identity fr… https://t.co/cmsGeB6uOl",
+   "retweet_count": 9,
+   "favorite_count": 20,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cmsGeB6uOl",
+     "expand": "https://twitter.com/i/web/status/978641985132150789"
+    }
+   ]
+  },
+  {
+   "id": 978539102843781100,
+   "id_str": "978539102843781120",
+   "created_at": "Tue Mar 27 07:47:57 +0000 2018",
+   "text": "“If your heart is a volcano, how shall you expect flowers to bloom?” -- Kahlil Gibran https://t.co/pwNAJphE9n",
+   "retweet_count": 4,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978332592041689100,
+   "id_str": "978332592041689088",
+   "created_at": "Mon Mar 26 18:07:21 +0000 2018",
+   "text": "RT @v8js: Starting with Chrome 66, @v8js compiles JavaScript source code on a background thread, reducing main thread compile time up to 20…",
+   "retweet_count": 759,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978319362837958700,
+    "id_str": "978319362837958657",
+    "created_at": "Mon Mar 26 17:14:47 +0000 2018",
+    "text": "Starting with Chrome 66, @v8js compiles JavaScript source code on a background thread, reducing main thread compile… https://t.co/idGyS8dq8I",
+    "retweet_count": 759,
+    "favorite_count": 1664,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/idGyS8dq8I",
+      "expand": "https://twitter.com/i/web/status/978319362837958657"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978173516943040500,
+   "id_str": "978173516943040512",
+   "created_at": "Mon Mar 26 07:35:14 +0000 2018",
+   "text": "RT @adriancolyer: \"Information flow reveals prediction limits in online social activity\" Bagrow et al., arVix 2017 https://t.co/OLZlE4vCbp…",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OLZlE4vCbp",
+     "expand": "http://blog.acolyer.org/2018/03/26/information-flow-reveals-prediction-limits-in-online-social-activity"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978172214657933300,
+    "id_str": "978172214657933313",
+    "created_at": "Mon Mar 26 07:30:04 +0000 2018",
+    "text": "\"Information flow reveals prediction limits in online social activity\" Bagrow et al., arVix 2017… https://t.co/KOz3Rvbeze",
+    "retweet_count": 49,
+    "favorite_count": 77,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KOz3Rvbeze",
+      "expand": "https://twitter.com/i/web/status/978172214657933313"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977929868200501200,
+   "id_str": "977929868200501248",
+   "created_at": "Sun Mar 25 15:27:04 +0000 2018",
+   "text": "Forget trying to kill e-mails: this is 2018, why are we still exchanging business cards?",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 977746502469664800,
+   "id_str": "977746502469664769",
+   "created_at": "Sun Mar 25 03:18:26 +0000 2018",
+   "text": "RT @abc7newsbayarea: TRAFFIC ALERT: Officials say a #Tesla driving in the southbound lanes collided with the barrier at the 101/85 intercha…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977240839452848100,
+    "id_str": "977240839452848129",
+    "created_at": "Fri Mar 23 17:49:07 +0000 2018",
+    "text": "TRAFFIC ALERT: Officials say a #Tesla driving in the southbound lanes collided with the barrier at the 101/85 inter… https://t.co/c5T3S15Gj7",
+    "retweet_count": 17,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/c5T3S15Gj7",
+      "expand": "https://twitter.com/i/web/status/977240839452848129"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977731192047902700,
+   "id_str": "977731192047902720",
+   "created_at": "Sun Mar 25 02:17:36 +0000 2018",
+   "text": "“For thought is a bird of space, that in a cage of words may indeed unfold its wings but cannot fly.” -- Kahlil Gib… https://t.co/bTYhwvdfck",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bTYhwvdfck",
+     "expand": "https://twitter.com/i/web/status/977731192047902720"
+    }
+   ]
+  },
+  {
+   "id": 977708477207388200,
+   "id_str": "977708477207388161",
+   "created_at": "Sun Mar 25 00:47:20 +0000 2018",
+   "text": "RT @arstechnica: That fatal self-driving Uber crash may not be as simple as the autonomous vehicle's dash footage (and Tempe police) seem t…",
+   "retweet_count": 69,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977576710232330200,
+    "id_str": "977576710232330241",
+    "created_at": "Sat Mar 24 16:03:44 +0000 2018",
+    "text": "That fatal self-driving Uber crash may not be as simple as the autonomous vehicle's dash footage (and Tempe police)… https://t.co/gXM1nFTdar",
+    "retweet_count": 69,
+    "favorite_count": 66,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gXM1nFTdar",
+      "expand": "https://twitter.com/i/web/status/977576710232330241"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977706636323184600,
+   "id_str": "977706636323184641",
+   "created_at": "Sun Mar 25 00:40:01 +0000 2018",
+   "text": "RT @humanprogress: In 1950, people in Indonesia attended school for only one year, on average. By 2015, that had risen to 9 years. https://…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977660836184551400,
+    "id_str": "977660836184551426",
+    "created_at": "Sat Mar 24 21:38:02 +0000 2018",
+    "text": "In 1950, people in Indonesia attended school for only one year, on average. By 2015, that had risen to 9 years.… https://t.co/eGwKbEhm9N",
+    "retweet_count": 11,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eGwKbEhm9N",
+      "expand": "https://twitter.com/i/web/status/977660836184551426"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977705080655724500,
+   "id_str": "977705080655724544",
+   "created_at": "Sun Mar 25 00:33:50 +0000 2018",
+   "text": "RT @jakpost: Three common myths about Indonesian sambal https://t.co/tvb40GIJVh",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tvb40GIJVh",
+     "expand": "http://bit.ly/2G1oh6H"
+    }
+   ],
+   "retweeted_status": {
+    "id": 977469291254702100,
+    "id_str": "977469291254702080",
+    "created_at": "Sat Mar 24 08:56:54 +0000 2018",
+    "text": "Three common myths about Indonesian sambal https://t.co/tvb40GIJVh",
+    "retweet_count": 17,
+    "favorite_count": 24,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/tvb40GIJVh",
+      "expand": "http://bit.ly/2G1oh6H"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977042942517968900,
+   "id_str": "977042942517968896",
+   "created_at": "Fri Mar 23 04:42:44 +0000 2018",
+   "text": "RT @MalwareJake: Diversity isn't something that happens from 9-5. It's something that we have to do 24x7. It's not a jacket you put on when…",
+   "retweet_count": 227,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976851260749090800,
+    "id_str": "976851260749090818",
+    "created_at": "Thu Mar 22 16:01:04 +0000 2018",
+    "text": "Diversity isn't something that happens from 9-5. It's something that we have to do 24x7. It's not a jacket you put… https://t.co/OySHW7pwgu",
+    "retweet_count": 227,
+    "favorite_count": 735,
+    "place": null,
+    "in_reply_to_status_id": 976850919416647700,
+    "in_reply_to_status_id_str": "976850919416647685",
+    "in_reply_to_screen_name": "MalwareJake",
+    "urls": [
+     {
+      "url": "https://t.co/OySHW7pwgu",
+      "expand": "https://twitter.com/i/web/status/976851260749090818"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977039896929099800,
+   "id_str": "977039896929099777",
+   "created_at": "Fri Mar 23 04:30:38 +0000 2018",
+   "text": "RT @random_walker: Tech buzzwords explained:\nAI—regression\nBig data—data\nBlockchain—database\nAlgorithm—automated decision-making\nCloud—Inte…",
+   "retweet_count": 23674,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976836626121977900,
+    "id_str": "976836626121977858",
+    "created_at": "Thu Mar 22 15:02:55 +0000 2018",
+    "text": "Tech buzzwords explained:\nAI—regression\nBig data—data\nBlockchain—database\nAlgorithm—automated decision-making\nCloud… https://t.co/2QcGrie80c",
+    "retweet_count": 23674,
+    "favorite_count": 47561,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2QcGrie80c",
+      "expand": "https://twitter.com/i/web/status/976836626121977858"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976966610614337500,
+   "id_str": "976966610614337536",
+   "created_at": "Thu Mar 22 23:39:25 +0000 2018",
+   "text": "RT @bukalapak: Melalui sharing-nya tentang Teknik Presentasi yang Memikat, Ariya Hidayat membagi tiga tips penting, yakni bahan materi yang…",
    "retweet_count": 1,
    "favorite_count": 0,
    "place": null,
@@ -184,12 +986,366 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965952985292394500,
-    "id_str": "965952985292394496",
-    "created_at": "Tue Feb 20 14:15:12 +0000 2018",
-    "text": "Just got a lof insights and interesting acionable advice from @AriyaHidayat at @JakartaJS meet up tonight. thank you pak Ariya.. :D",
+    "id": 976803456693321700,
+    "id_str": "976803456693321728",
+    "created_at": "Thu Mar 22 12:51:06 +0000 2018",
+    "text": "Melalui sharing-nya tentang Teknik Presentasi yang Memikat, Ariya Hidayat membagi tiga tips penting, yakni bahan ma… https://t.co/fuZfmgtq4F",
     "retweet_count": 1,
-    "favorite_count": 0,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fuZfmgtq4F",
+      "expand": "https://twitter.com/i/web/status/976803456693321728"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976862669427953700,
+   "id_str": "976862669427953666",
+   "created_at": "Thu Mar 22 16:46:24 +0000 2018",
+   "text": "In the mean time, this will be my last public tech talk in Indonesia for a while! Stay tuned, hopefully I'll visit Jakarta again next time 😉",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976862104501346300,
+   "in_reply_to_status_id_str": "976862104501346305",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 976862104501346300,
+   "id_str": "976862104501346305",
+   "created_at": "Thu Mar 22 16:44:09 +0000 2018",
+   "text": "I had a blast! Kudos to the team at @bukalapak to organize such a fabulous event! https://t.co/P02D0LQtdF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976793815397756900,
+   "in_reply_to_status_id_str": "976793815397756928",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/P02D0LQtdF",
+     "expand": "https://twitter.com/bukalapak/status/976801976896823296"
+    }
+   ]
+  },
+  {
+   "id": 976860899863560200,
+   "id_str": "976860899863560194",
+   "created_at": "Thu Mar 22 16:39:22 +0000 2018",
+   "text": "@rizasaputra Thank you so much 🙏",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976837833154613200,
+   "in_reply_to_status_id_str": "976837833154613248",
+   "in_reply_to_screen_name": "rizasaputra",
+   "urls": []
+  },
+  {
+   "id": 976793815397756900,
+   "id_str": "976793815397756928",
+   "created_at": "Thu Mar 22 12:12:48 +0000 2018",
+   "text": "The enthusiastic crowd! @bukalapak https://t.co/3UiqO4zwDp",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976771427566276600,
+   "in_reply_to_status_id_str": "976771427566276608",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 976771427566276600,
+   "id_str": "976771427566276608",
+   "created_at": "Thu Mar 22 10:43:50 +0000 2018",
+   "text": "Getting ready for my first BukaTalks at @bukalapak! https://t.co/yfzqcYx3h8",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 976620294856097800,
+   "in_reply_to_status_id_str": "976620294856097792",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 976663987419955200,
+   "id_str": "976663987419955200",
+   "created_at": "Thu Mar 22 03:36:54 +0000 2018",
+   "text": "RT @markimbriaco: One of the biggest challenges in tech is getting people to work on the items in the @jnewland Magic Quadrant of important…",
+   "retweet_count": 310,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976580321918545900,
+    "id_str": "976580321918545922",
+    "created_at": "Wed Mar 21 22:04:27 +0000 2018",
+    "text": "One of the biggest challenges in tech is getting people to work on the items in the @jnewland Magic Quadrant of imp… https://t.co/9Xudj7beaj",
+    "retweet_count": 310,
+    "favorite_count": 626,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9Xudj7beaj",
+      "expand": "https://twitter.com/i/web/status/976580321918545922"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976649833149689900,
+   "id_str": "976649833149689857",
+   "created_at": "Thu Mar 22 02:40:40 +0000 2018",
+   "text": "RT @WHO: Today is #WorldWaterDay💧 \n2.1 billion people lack safe water at home, putting them at risk of:\nCholera\nDiarrhoea\nDysentery\nHepatit…",
+   "retweet_count": 3400,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976605012276273200,
+    "id_str": "976605012276273153",
+    "created_at": "Wed Mar 21 23:42:34 +0000 2018",
+    "text": "Today is #WorldWaterDay💧 \n2.1 billion people lack safe water at home, putting them at risk of:\nCholera\nDiarrhoea\nDy… https://t.co/EflXr4iwfr",
+    "retweet_count": 3400,
+    "favorite_count": 3177,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EflXr4iwfr",
+      "expand": "https://twitter.com/i/web/status/976605012276273153"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976620294856097800,
+   "id_str": "976620294856097792",
+   "created_at": "Thu Mar 22 00:43:17 +0000 2018",
+   "text": "If you'll be there, find me and say hello! #IndonesiaTripMar2018 https://t.co/aWiNjVNsXE",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976617637852586000,
+   "in_reply_to_status_id_str": "976617637852585984",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 976617637852586000,
+   "id_str": "976617637852585984",
+   "created_at": "Thu Mar 22 00:32:44 +0000 2018",
+   "text": "I'll do my first BukaTalks this evening at @bukalapak office in Jakarta! Can't wait to discuss some exciting stuff 😁 https://t.co/Ac6t4i1cAB",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ac6t4i1cAB",
+     "expand": "https://twitter.com/AriyaHidayat/status/974221653277163521"
+    }
+   ]
+  },
+  {
+   "id": 976277826293805000,
+   "id_str": "976277826293805057",
+   "created_at": "Wed Mar 21 02:02:26 +0000 2018",
+   "text": "RT @VentureBeat: Windows Server 2019 will feature Linux and Kubernetes support https://t.co/QQRIxDLaV4 by @belril",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QQRIxDLaV4",
+     "expand": "https://wp.me/p8wLEc-9NpI"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976157001423228900,
+    "id_str": "976157001423228928",
+    "created_at": "Tue Mar 20 18:02:19 +0000 2018",
+    "text": "Windows Server 2019 will feature Linux and Kubernetes support https://t.co/QQRIxDLaV4 by @belril",
+    "retweet_count": 12,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QQRIxDLaV4",
+      "expand": "https://wp.me/p8wLEc-9NpI"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976028169609326600,
+   "id_str": "976028169609326592",
+   "created_at": "Tue Mar 20 09:30:24 +0000 2018",
+   "text": "Another simple pleasure in life: cendol 👍 #IndonesiaTripMar2018 https://t.co/c10Abxkv3O",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 975980051056377900,
+   "id_str": "975980051056377856",
+   "created_at": "Tue Mar 20 06:19:11 +0000 2018",
+   "text": "Do you know why @StephenCurry30's 3P% is 43%? Because during the usual shooting practice, it's 93%. Do not expect g… https://t.co/olZ7IOmGcA",
+   "retweet_count": 4,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/olZ7IOmGcA",
+     "expand": "https://twitter.com/i/web/status/975980051056377856"
+    }
+   ]
+  },
+  {
+   "id": 975972290625065000,
+   "id_str": "975972290625064960",
+   "created_at": "Tue Mar 20 05:48:21 +0000 2018",
+   "text": "OMG raytracing! https://t.co/bM0KSQzcdl",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bM0KSQzcdl",
+     "expand": "https://twitter.com/arstechnica/status/975781992041238529"
+    }
+   ]
+  },
+  {
+   "id": 975947238168961000,
+   "id_str": "975947238168961024",
+   "created_at": "Tue Mar 20 04:08:48 +0000 2018",
+   "text": "RT @LMSacasas: Mary Shelley published Frankenstein 200 years ago. The novel is not merely or even primarily about the illicit pursuit of kn…",
+   "retweet_count": 65,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975938545662726100,
+    "id_str": "975938545662726145",
+    "created_at": "Tue Mar 20 03:34:16 +0000 2018",
+    "text": "Mary Shelley published Frankenstein 200 years ago. The novel is not merely or even primarily about the illicit purs… https://t.co/bOBEDw4sFo",
+    "retweet_count": 65,
+    "favorite_count": 177,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bOBEDw4sFo",
+      "expand": "https://twitter.com/i/web/status/975938545662726145"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975931654605713400,
+   "id_str": "975931654605713408",
+   "created_at": "Tue Mar 20 03:06:53 +0000 2018",
+   "text": "@mon_beck @Arm @java Congratulations! All the best for the new adventure!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975434560245829600,
+   "in_reply_to_status_id_str": "975434560245829634",
+   "in_reply_to_screen_name": "mon_beck",
+   "urls": []
+  },
+  {
+   "id": 975787202755018800,
+   "id_str": "975787202755018752",
+   "created_at": "Mon Mar 19 17:32:53 +0000 2018",
+   "text": "RT @nytimes: Breaking News: A woman died after being hit by a self-driving Uber car in Tempe, Arizona. It’s the first known pedestrian fata…",
+   "retweet_count": 2383,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975777758025535500,
+    "id_str": "975777758025535494",
+    "created_at": "Mon Mar 19 16:55:21 +0000 2018",
+    "text": "Breaking News: A woman died after being hit by a self-driving Uber car in Tempe, Arizona. It’s the first known pede… https://t.co/KqD9AUqOm5",
+    "retweet_count": 2383,
+    "favorite_count": 1654,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KqD9AUqOm5",
+      "expand": "https://twitter.com/i/web/status/975777758025535494"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975638152655274000,
+   "id_str": "975638152655273986",
+   "created_at": "Mon Mar 19 07:40:36 +0000 2018",
+   "text": "RT @campuscodi: This is not how you use the term \"data breach\"\n\nThere is no breach. Just some dudes with API keys https://t.co/HMZj4cVcf1",
+   "retweet_count": 112,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975489018396778500,
+    "id_str": "975489018396778496",
+    "created_at": "Sun Mar 18 21:48:00 +0000 2018",
+    "text": "This is not how you use the term \"data breach\"\n\nThere is no breach. Just some dudes with API keys https://t.co/HMZj4cVcf1",
+    "retweet_count": 112,
+    "favorite_count": 251,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -198,10 +1354,593 @@
    }
   },
   {
-   "id": 965992927829864400,
-   "id_str": "965992927829864448",
-   "created_at": "Tue Feb 20 16:53:55 +0000 2018",
-   "text": "RT @tyohan: We're starting @JakartaJS meetup special edition with @AriyaHidayat https://t.co/R39ke5FUqp",
+   "id": 975338512076619800,
+   "id_str": "975338512076619777",
+   "created_at": "Sun Mar 18 11:49:56 +0000 2018",
+   "text": "Simple pleasure in life: banana fritters! #IndonesiaTripMar2018 https://t.co/wANNewzyJU",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 975337508299948000,
+   "id_str": "975337508299948033",
+   "created_at": "Sun Mar 18 11:45:57 +0000 2018",
+   "text": "RT @bukalapak: Hari Kamis, 22 Maret 2018 nanti BukaTalks akan membahas topik menarik seputar lingkungan kerja lho, melalui tema \"Collaborat…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974602950621347800,
+    "id_str": "974602950621347841",
+    "created_at": "Fri Mar 16 11:07:05 +0000 2018",
+    "text": "Hari Kamis, 22 Maret 2018 nanti BukaTalks akan membahas topik menarik seputar lingkungan kerja lho, melalui tema \"C… https://t.co/p0LjEXVSmj",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/p0LjEXVSmj",
+      "expand": "https://twitter.com/i/web/status/974602950621347841"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975218042643783700,
+   "id_str": "975218042643783680",
+   "created_at": "Sun Mar 18 03:51:14 +0000 2018",
+   "text": "RT @RanjitJhala: Typo of the day: \"formal verifiction\".",
+   "retweet_count": 50,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974871750415536100,
+    "id_str": "974871750415536133",
+    "created_at": "Sat Mar 17 04:55:12 +0000 2018",
+    "text": "Typo of the day: \"formal verifiction\".",
+    "retweet_count": 50,
+    "favorite_count": 220,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 975187263033241600,
+   "id_str": "975187263033241600",
+   "created_at": "Sun Mar 18 01:48:56 +0000 2018",
+   "text": "RT @jakpost: Important tips to improve your breakfast routine https://t.co/mVDPqlksyK",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mVDPqlksyK",
+     "expand": "http://bit.ly/2tUs4NB"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974822230180974600,
+    "id_str": "974822230180974592",
+    "created_at": "Sat Mar 17 01:38:25 +0000 2018",
+    "text": "Important tips to improve your breakfast routine https://t.co/mVDPqlksyK",
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mVDPqlksyK",
+      "expand": "http://bit.ly/2tUs4NB"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975186699939496000,
+   "id_str": "975186699939495936",
+   "created_at": "Sun Mar 18 01:46:42 +0000 2018",
+   "text": "RT @CNN: Snapchat lost $800 million after Rihanna tore into the company for allowing an offensive ad to appear on its app https://t.co/vTNB…",
+   "retweet_count": 437,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975175016890404900,
+    "id_str": "975175016890404864",
+    "created_at": "Sun Mar 18 01:00:16 +0000 2018",
+    "text": "Snapchat lost $800 million after Rihanna tore into the company for allowing an offensive ad to appear on its app… https://t.co/l7mw2yynLB",
+    "retweet_count": 437,
+    "favorite_count": 1755,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/l7mw2yynLB",
+      "expand": "https://twitter.com/i/web/status/975175016890404864"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975186447387869200,
+   "id_str": "975186447387869184",
+   "created_at": "Sun Mar 18 01:45:41 +0000 2018",
+   "text": "RT @washingtonpost: Inside an enormous abandoned airport in Berlin that’s coming back to life https://t.co/hN9rHIS1iG",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hN9rHIS1iG",
+     "expand": "http://wapo.st/2GBS3vZ"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975178752018845700,
+    "id_str": "975178752018845696",
+    "created_at": "Sun Mar 18 01:15:07 +0000 2018",
+    "text": "Inside an enormous abandoned airport in Berlin that’s coming back to life https://t.co/hN9rHIS1iG",
+    "retweet_count": 49,
+    "favorite_count": 107,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/hN9rHIS1iG",
+      "expand": "http://wapo.st/2GBS3vZ"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975184217867935700,
+   "id_str": "975184217867935745",
+   "created_at": "Sun Mar 18 01:36:50 +0000 2018",
+   "text": "RT @BKSportsTalk: I’m so glad this man just won an NCAA Tournament game. https://t.co/xSB7FmIYcr",
+   "retweet_count": 1712,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974734094704824300,
+    "id_str": "974734094704824321",
+    "created_at": "Fri Mar 16 19:48:12 +0000 2018",
+    "text": "I’m so glad this man just won an NCAA Tournament game. https://t.co/xSB7FmIYcr",
+    "retweet_count": 1712,
+    "favorite_count": 4690,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 975072983457808400,
+   "id_str": "975072983457808385",
+   "created_at": "Sat Mar 17 18:14:49 +0000 2018",
+   "text": "RT @Ohyran: A really interesting read about how Wikipedia chose the front image of the article \"human\". It really shows the importance of t…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973907620653346800,
+    "id_str": "973907620653346816",
+    "created_at": "Wed Mar 14 13:04:05 +0000 2018",
+    "text": "A really interesting read about how Wikipedia chose the front image of the article \"human\". It really shows the imp… https://t.co/apQQL31fib",
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/apQQL31fib",
+      "expand": "https://twitter.com/i/web/status/973907620653346816"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975072810803408900,
+   "id_str": "975072810803408896",
+   "created_at": "Sat Mar 17 18:14:08 +0000 2018",
+   "text": "RT @di_codes: Why PyPI Doesn't Know Your Projects Dependencies: https://t.co/uc5yeQfXjQ",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/uc5yeQfXjQ",
+     "expand": "https://di.codes/articles/2018/03/05/why-pypi-doesnt-know-dependencies"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974649374264393700,
+    "id_str": "974649374264393728",
+    "created_at": "Fri Mar 16 14:11:33 +0000 2018",
+    "text": "Why PyPI Doesn't Know Your Projects Dependencies: https://t.co/uc5yeQfXjQ",
+    "retweet_count": 16,
+    "favorite_count": 27,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uc5yeQfXjQ",
+      "expand": "https://di.codes/articles/2018/03/05/why-pypi-doesnt-know-dependencies"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975072212070748200,
+   "id_str": "975072212070748160",
+   "created_at": "Sat Mar 17 18:11:45 +0000 2018",
+   "text": "RT @Reuters: Americans are drinking a daily cup of coffee at the highest level in six years: survey https://t.co/4um2tPi3Lv https://t.co/9R…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4um2tPi3Lv",
+     "expand": "http://reut.rs/2pjF8Hu"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975056688419082200,
+    "id_str": "975056688419082241",
+    "created_at": "Sat Mar 17 17:10:04 +0000 2018",
+    "text": "Americans are drinking a daily cup of coffee at the highest level in six years: survey https://t.co/4um2tPi3Lv https://t.co/9R9fOdZzXM",
+    "retweet_count": 41,
+    "favorite_count": 83,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4um2tPi3Lv",
+      "expand": "http://reut.rs/2pjF8Hu"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975071627519017000,
+   "id_str": "975071627519016962",
+   "created_at": "Sat Mar 17 18:09:26 +0000 2018",
+   "text": "RT @WorldAndScience: How the rainbow illuminates the enduring mystery of physics https://t.co/zjTLO6XmMT",
+   "retweet_count": 59,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zjTLO6XmMT",
+     "expand": "https://www.universal-sci.com/headlines/2017/10/24/how-the-rainbow-illuminates-the-enduring-mystery-of-physics"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974994135471087600,
+    "id_str": "974994135471087616",
+    "created_at": "Sat Mar 17 13:01:31 +0000 2018",
+    "text": "How the rainbow illuminates the enduring mystery of physics https://t.co/zjTLO6XmMT",
+    "retweet_count": 59,
+    "favorite_count": 233,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zjTLO6XmMT",
+      "expand": "https://www.universal-sci.com/headlines/2017/10/24/how-the-rainbow-illuminates-the-enduring-mystery-of-physics"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975071402494591000,
+   "id_str": "975071402494590976",
+   "created_at": "Sat Mar 17 18:08:32 +0000 2018",
+   "text": "RT @rauschma: If you use TypeScript properly, it is much more lightweight than, say, Java and comes close to statically typed FP languages.…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975051380586139600,
+    "id_str": "975051380586139649",
+    "created_at": "Sat Mar 17 16:48:59 +0000 2018",
+    "text": "If you use TypeScript properly, it is much more lightweight than, say, Java and comes close to statically typed FP… https://t.co/HENTGGZaUm",
+    "retweet_count": 11,
+    "favorite_count": 67,
+    "place": null,
+    "in_reply_to_status_id": 975051378673569800,
+    "in_reply_to_status_id_str": "975051378673569792",
+    "in_reply_to_screen_name": "rauschma",
+    "urls": [
+     {
+      "url": "https://t.co/HENTGGZaUm",
+      "expand": "https://twitter.com/i/web/status/975051380586139649"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974992554180583400,
+   "id_str": "974992554180583426",
+   "created_at": "Sat Mar 17 12:55:14 +0000 2018",
+   "text": "The Serverless discussion this morning was a big success! Let the #Serverless revolution for the start-ups in Indon… https://t.co/80eSKQ2PKH",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 974831440721428500,
+   "in_reply_to_status_id_str": "974831440721428481",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/80eSKQ2PKH",
+     "expand": "https://twitter.com/i/web/status/974992554180583426"
+    }
+   ]
+  },
+  {
+   "id": 974923459183575000,
+   "id_str": "974923459183575041",
+   "created_at": "Sat Mar 17 08:20:40 +0000 2018",
+   "text": "@ialexs Thank you for attending the meetup 🙏",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974844131095715800,
+   "in_reply_to_status_id_str": "974844131095715841",
+   "in_reply_to_screen_name": "ialexs",
+   "urls": []
+  },
+  {
+   "id": 974831440721428500,
+   "id_str": "974831440721428481",
+   "created_at": "Sat Mar 17 02:15:01 +0000 2018",
+   "text": "Getting ready to start the Serverless Architecture discussion! https://t.co/skQDA5mWAs",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 974809111966629900,
+   "id_str": "974809111966629888",
+   "created_at": "Sat Mar 17 00:46:18 +0000 2018",
+   "text": "Whoa, 90 more minutes till the ultimate Serverless Architecture meetup! Be there or be rectangular!… https://t.co/Ir87CdG94F",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ir87CdG94F",
+     "expand": "https://twitter.com/i/web/status/974809111966629888"
+    }
+   ]
+  },
+  {
+   "id": 974468091177443300,
+   "id_str": "974468091177443328",
+   "created_at": "Fri Mar 16 02:11:12 +0000 2018",
+   "text": "Still installing PHP and doing MySQL backup manually? Don't miss the opportunity to use serverless architecture! Th… https://t.co/gRTJwSEvRv",
+   "retweet_count": 7,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gRTJwSEvRv",
+     "expand": "https://twitter.com/i/web/status/974468091177443328"
+    }
+   ]
+  },
+  {
+   "id": 974447222770118700,
+   "id_str": "974447222770118656",
+   "created_at": "Fri Mar 16 00:48:16 +0000 2018",
+   "text": "RT @gnutools: GCC 8 is going to be awesome! Tons of great usability improvements! https://t.co/qCupaypmhn",
+   "retweet_count": 121,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qCupaypmhn",
+     "expand": "https://developers.redhat.com/blog/2018/03/15/gcc-8-usability-improvements/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974345947302907900,
+    "id_str": "974345947302907904",
+    "created_at": "Thu Mar 15 18:05:50 +0000 2018",
+    "text": "GCC 8 is going to be awesome! Tons of great usability improvements! https://t.co/qCupaypmhn",
+    "retweet_count": 121,
+    "favorite_count": 226,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qCupaypmhn",
+      "expand": "https://developers.redhat.com/blog/2018/03/15/gcc-8-usability-improvements/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974365495435477000,
+   "id_str": "974365495435476992",
+   "created_at": "Thu Mar 15 19:23:31 +0000 2018",
+   "text": "Es Bunga Rampai. I can eat this all day long! #IndonesiaTripMar2018 https://t.co/YBkuOkUJDu",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 974221653277163500,
+   "id_str": "974221653277163521",
+   "created_at": "Thu Mar 15 09:51:56 +0000 2018",
+   "text": "Next week in Jakarta, I'll share some tricks on how to prepare, construct, and deliver an attractive tech talk. Tha… https://t.co/vPOJThSEP2",
+   "retweet_count": 10,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/vPOJThSEP2",
+     "expand": "https://twitter.com/i/web/status/974221653277163521"
+    }
+   ]
+  },
+  {
+   "id": 974106036712849400,
+   "id_str": "974106036712849408",
+   "created_at": "Thu Mar 15 02:12:31 +0000 2018",
+   "text": "Don't just use cloud VM or deploy apps, leverage the full potential of cloud computing by using as much managed ser… https://t.co/tmlMcGBq2P",
+   "retweet_count": 3,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tmlMcGBq2P",
+     "expand": "https://twitter.com/i/web/status/974106036712849408"
+    }
+   ]
+  },
+  {
+   "id": 974100661011820500,
+   "id_str": "974100661011820544",
+   "created_at": "Thu Mar 15 01:51:10 +0000 2018",
+   "text": "Lychee with some yakult, it's supposed to be an afternoon booster. #IndonesiaTripMar2018 https://t.co/uKnSRuuJaz",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973954113158328300,
+   "id_str": "973954113158328322",
+   "created_at": "Wed Mar 14 16:08:50 +0000 2018",
+   "text": "RT @BBCWorld: Stephen Hawking: Tributes pour in for 'inspirational' physicist https://t.co/IqfKYcAdHM",
+   "retweet_count": 182,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IqfKYcAdHM",
+     "expand": "http://bbc.in/2Iscyf2"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973951418615857200,
+    "id_str": "973951418615857154",
+    "created_at": "Wed Mar 14 15:58:07 +0000 2018",
+    "text": "Stephen Hawking: Tributes pour in for 'inspirational' physicist https://t.co/IqfKYcAdHM",
+    "retweet_count": 182,
+    "favorite_count": 634,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IqfKYcAdHM",
+      "expand": "http://bbc.in/2Iscyf2"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973904199124734000,
+   "id_str": "973904199124733953",
+   "created_at": "Wed Mar 14 12:50:29 +0000 2018",
+   "text": "RT @PMBS_ID: Come &amp; Join our next event: Severless Architecture Battle at Universitas Prasetiya Mulya, Cilandak Campus on Saturday, March 1…",
    "retweet_count": 2,
    "favorite_count": 0,
    "place": null,
@@ -210,12 +1949,92 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 965924395666440200,
-    "id_str": "965924395666440193",
-    "created_at": "Tue Feb 20 12:21:36 +0000 2018",
-    "text": "We're starting @JakartaJS meetup special edition with @AriyaHidayat https://t.co/R39ke5FUqp",
+    "id": 973827255146307600,
+    "id_str": "973827255146307584",
+    "created_at": "Wed Mar 14 07:44:45 +0000 2018",
+    "text": "Come &amp; Join our next event: Severless Architecture Battle at Universitas Prasetiya Mulya, Cilandak Campus on Saturd… https://t.co/xH7XwER57O",
     "retweet_count": 2,
-    "favorite_count": 12,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xH7XwER57O",
+      "expand": "https://twitter.com/i/web/status/973827255146307584"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973810252603850800,
+   "id_str": "973810252603850753",
+   "created_at": "Wed Mar 14 06:37:11 +0000 2018",
+   "text": "Catch me this weekend in Jakarta at a meetup discussing #Serverless Architecture! We have start-up practitioners ta… https://t.co/UWKUVj5wnH",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UWKUVj5wnH",
+     "expand": "https://twitter.com/i/web/status/973810252603850753"
+    }
+   ]
+  },
+  {
+   "id": 973586504332095500,
+   "id_str": "973586504332095488",
+   "created_at": "Tue Mar 13 15:48:05 +0000 2018",
+   "text": "My (poor) attempt to blend with that generation. This is the so-called Avocado Coffee (from @ExcelsoCoffee)… https://t.co/4xk7I4N6GL",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4xk7I4N6GL",
+     "expand": "https://twitter.com/i/web/status/973586504332095488"
+    }
+   ]
+  },
+  {
+   "id": 973451853378629600,
+   "id_str": "973451853378629635",
+   "created_at": "Tue Mar 13 06:53:02 +0000 2018",
+   "text": "Fresh mocktail in the morning: it's actually quite fabulous 🤩 #IndonesiaTripMar2018 https://t.co/aCzcu77mhE",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973396028471763000,
+   "id_str": "973396028471762946",
+   "created_at": "Tue Mar 13 03:11:12 +0000 2018",
+   "text": "RT @ericniebler: Whether C++20 will have Modules, Coroutines, and Ranges largely comes down to this week. Wish us luck! #CPP",
+   "retweet_count": 99,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973174574685806600,
+    "id_str": "973174574685806592",
+    "created_at": "Mon Mar 12 12:31:13 +0000 2018",
+    "text": "Whether C++20 will have Modules, Coroutines, and Ranges largely comes down to this week. Wish us luck! #CPP",
+    "retweet_count": 99,
+    "favorite_count": 384,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -224,38 +2043,159 @@
    }
   },
   {
-   "id": 965918117586194400,
-   "id_str": "965918117586194432",
-   "created_at": "Tue Feb 20 11:56:39 +0000 2018",
-   "text": "At @Microsoft office in Jakarta, getting ready to speak at @JakartaJS meetup! https://t.co/56ZdkBHscP",
-   "retweet_count": 3,
+   "id": 973329143331938300,
+   "id_str": "973329143331938304",
+   "created_at": "Mon Mar 12 22:45:26 +0000 2018",
+   "text": "Mocachinno is irresistible! #IndonesiaTripMar2018 https://t.co/fMxuLzSsVt",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973300000904986600,
+   "id_str": "973300000904986625",
+   "created_at": "Mon Mar 12 20:49:37 +0000 2018",
+   "text": "RT @verge: Calendar app in Mac App Store mines cryptocurrency in the background https://t.co/qDrGJKkExd https://t.co/YaVZmDZNIl",
+   "retweet_count": 75,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qDrGJKkExd",
+     "expand": "https://www.theverge.com/2018/3/12/17110810/apple-app-store-mac-cryptocurrency-monero-calendar-2-qbix?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973296525957828600,
+    "id_str": "973296525957828608",
+    "created_at": "Mon Mar 12 20:35:49 +0000 2018",
+    "text": "Calendar app in Mac App Store mines cryptocurrency in the background https://t.co/qDrGJKkExd https://t.co/YaVZmDZNIl",
+    "retweet_count": 75,
+    "favorite_count": 132,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qDrGJKkExd",
+      "expand": "https://www.theverge.com/2018/3/12/17110810/apple-app-store-mac-cryptocurrency-monero-calendar-2-qbix?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973099905198772200,
+   "id_str": "973099905198772224",
+   "created_at": "Mon Mar 12 07:34:31 +0000 2018",
+   "text": "Just like every Rose has its thorn... https://t.co/uKW4kIHYI9",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973020303012999200,
+   "id_str": "973020303012999168",
+   "created_at": "Mon Mar 12 02:18:12 +0000 2018",
+   "text": "@jsoverson Great! Note that it's gonna take some time to master the strength and the weakness of the camera, but af… https://t.co/OP3qRVdeUh",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972685718886625300,
+   "in_reply_to_status_id_str": "972685718886625281",
+   "in_reply_to_screen_name": "jsoverson",
+   "urls": [
+    {
+     "url": "https://t.co/OP3qRVdeUh",
+     "expand": "https://twitter.com/i/web/status/973020303012999168"
+    }
+   ]
+  },
+  {
+   "id": 972808336906231800,
+   "id_str": "972808336906231809",
+   "created_at": "Sun Mar 11 12:15:56 +0000 2018",
+   "text": "RT @dinosaur_js: ⌛ One week left to submit your talk! \n👇👇👇 https://t.co/3WT7wRbtqI",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3WT7wRbtqI",
+     "expand": "http://speak.dinosaurjs.org/events/2018"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971828027146539000,
+    "id_str": "971828027146539008",
+    "created_at": "Thu Mar 08 19:20:32 +0000 2018",
+    "text": "⌛ One week left to submit your talk! \n👇👇👇 https://t.co/3WT7wRbtqI",
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3WT7wRbtqI",
+      "expand": "http://speak.dinosaurjs.org/events/2018"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972754590960463900,
+   "id_str": "972754590960463872",
+   "created_at": "Sun Mar 11 08:42:22 +0000 2018",
+   "text": "@mufid Stay tuned for more news 😉",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972710194214944800,
+   "in_reply_to_status_id_str": "972710194214944769",
+   "in_reply_to_screen_name": "mufid",
+   "urls": []
+  },
+  {
+   "id": 972703993267855400,
+   "id_str": "972703993267855360",
+   "created_at": "Sun Mar 11 05:21:18 +0000 2018",
+   "text": "OMG it's gado-gado, what a fantastic way to start this #IndonesiaTripMar2018. Peanut sauce just never gets old. Als… https://t.co/xUolg9myUL",
+   "retweet_count": 0,
    "favorite_count": 25,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": []
+   "urls": [
+    {
+     "url": "https://t.co/xUolg9myUL",
+     "expand": "https://twitter.com/i/web/status/972703993267855360"
+    }
+   ]
   },
   {
-   "id": 965833992627920900,
-   "id_str": "965833992627920898",
-   "created_at": "Tue Feb 20 06:22:22 +0000 2018",
-   "text": "@ranti Top 👍",
+   "id": 972152109780033500,
+   "id_str": "972152109780033536",
+   "created_at": "Fri Mar 09 16:48:19 +0000 2018",
+   "text": "Whoa, I just successfully added @CircleCI build to #PhantomJS. Yay for another step towards continuous integration! https://t.co/tT8LgCDUWP",
    "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965803544665382900,
-   "in_reply_to_status_id_str": "965803544665382912",
-   "in_reply_to_screen_name": "ranti",
-   "urls": []
-  },
-  {
-   "id": 965802283349848000,
-   "id_str": "965802283349848065",
-   "created_at": "Tue Feb 20 04:16:22 +0000 2018",
-   "text": "I had a blast in Bandung! #IndonesiaTripFeb2018 https://t.co/Hkk4856CFR",
-   "retweet_count": 1,
-   "favorite_count": 24,
+   "favorite_count": 16,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
@@ -263,11 +2203,11 @@
    "urls": []
   },
   {
-   "id": 965724124390727700,
-   "id_str": "965724124390727681",
-   "created_at": "Mon Feb 19 23:05:48 +0000 2018",
-   "text": "RT @mraleph: \"Maybe you don't need Rust and WASM to speed up your JS\"\n\nhttps://t.co/mMvi5JaJub",
-   "retweet_count": 210,
+   "id": 972133951727796200,
+   "id_str": "972133951727796224",
+   "created_at": "Fri Mar 09 15:36:10 +0000 2018",
+   "text": "RT @arstechnica: Deadly superbug just got scarier—it can mysteriously thwart last-resort drug https://t.co/dQaSU69hEL by @BethMarieMole",
+   "retweet_count": 32,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -275,120 +2215,35 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/mMvi5JaJub",
-     "expand": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+     "url": "https://t.co/dQaSU69hEL",
+     "expand": "http://arstechnica.com/science/2018/03/scary-superbug-can-sneakily-dodge-last-resort-drug-and-we-dont-know-how/"
     }
    ],
    "retweeted_status": {
-    "id": 965589745605767200,
-    "id_str": "965589745605767168",
-    "created_at": "Mon Feb 19 14:11:49 +0000 2018",
-    "text": "\"Maybe you don't need Rust and WASM to speed up your JS\"\n\nhttps://t.co/mMvi5JaJub",
-    "retweet_count": 210,
-    "favorite_count": 548,
+    "id": 972125405887987700,
+    "id_str": "972125405887987712",
+    "created_at": "Fri Mar 09 15:02:12 +0000 2018",
+    "text": "Deadly superbug just got scarier—it can mysteriously thwart last-resort drug https://t.co/dQaSU69hEL by @BethMarieMole",
+    "retweet_count": 32,
+    "favorite_count": 15,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/mMvi5JaJub",
-      "expand": "http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html"
+      "url": "https://t.co/dQaSU69hEL",
+      "expand": "http://arstechnica.com/science/2018/03/scary-superbug-can-sneakily-dodge-last-resort-drug-and-we-dont-know-how/"
      }
     ]
    }
   },
   {
-   "id": 965592540140339200,
-   "id_str": "965592540140339200",
-   "created_at": "Mon Feb 19 14:22:56 +0000 2018",
-   "text": "Who will be the lucky one? https://t.co/NuWQ9xiT2H https://t.co/M37jow6I6O",
-   "retweet_count": 3,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/NuWQ9xiT2H",
-     "expand": "https://www.meetup.com/JakartaJS/events/247676332/"
-    }
-   ]
-  },
-  {
-   "id": 965376749608476700,
-   "id_str": "965376749608476672",
-   "created_at": "Mon Feb 19 00:05:27 +0000 2018",
-   "text": "Bandung at night: always mesmerizing, and it never gets old! #IndonesiaTripFeb2018 https://t.co/dJFiN0HJPY",
-   "retweet_count": 0,
-   "favorite_count": 13,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 965133070151032800,
-   "id_str": "965133070151032833",
-   "created_at": "Sun Feb 18 07:57:09 +0000 2018",
-   "text": "My first @airyindonesia experience. I definitely appreciate the last complimentary water and snacks! Hopefully it's… https://t.co/6huqAvnCEM",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/6huqAvnCEM",
-     "expand": "https://twitter.com/i/web/status/965133070151032833"
-    }
-   ]
-  },
-  {
-   "id": 965071600709132300,
-   "id_str": "965071600709132288",
-   "created_at": "Sun Feb 18 03:52:54 +0000 2018",
-   "text": "RT @KotlinWeekly: Kotlin Weekly #80 has just been published! - https://t.co/BGasna3XHj",
-   "retweet_count": 21,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/BGasna3XHj",
-     "expand": "http://mailchi.mp/kotlinweekly/kotlin-weekly-80"
-    }
-   ],
-   "retweeted_status": {
-    "id": 962634771275886600,
-    "id_str": "962634771275886592",
-    "created_at": "Sun Feb 11 10:29:49 +0000 2018",
-    "text": "Kotlin Weekly #80 has just been published! - https://t.co/BGasna3XHj",
-    "retweet_count": 21,
-    "favorite_count": 40,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/BGasna3XHj",
-      "expand": "http://mailchi.mp/kotlinweekly/kotlin-weekly-80"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965053665277956100,
-   "id_str": "965053665277956096",
-   "created_at": "Sun Feb 18 02:41:38 +0000 2018",
-   "text": "RT @Julia_SCI: This one broke me https://t.co/aczYaTQZLF",
-   "retweet_count": 40012,
+   "id": 971957040661766100,
+   "id_str": "971957040661766144",
+   "created_at": "Fri Mar 09 03:53:11 +0000 2018",
+   "text": "RT @AndroidDev: A switch statement with superpowers? Kotlin’s `when` expression can match on just about anything. Literal values, enums, ra…",
+   "retweet_count": 236,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -396,12 +2251,208 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964301554906878000,
-    "id_str": "964301554906877952",
-    "created_at": "Fri Feb 16 00:53:01 +0000 2018",
-    "text": "This one broke me https://t.co/aczYaTQZLF",
-    "retweet_count": 40012,
-    "favorite_count": 69568,
+    "id": 970328015505850400,
+    "id_str": "970328015505850370",
+    "created_at": "Sun Mar 04 16:00:01 +0000 2018",
+    "text": "A switch statement with superpowers? Kotlin’s `when` expression can match on just about anything. Literal values, e… https://t.co/dore8S7imX",
+    "retweet_count": 236,
+    "favorite_count": 711,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dore8S7imX",
+      "expand": "https://twitter.com/i/web/status/970328015505850370"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971886322217402400,
+   "id_str": "971886322217402370",
+   "created_at": "Thu Mar 08 23:12:10 +0000 2018",
+   "text": "@jsoverson time to switch to a more predictable package manager? https://t.co/JTmsd07eZA",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971854515023495200,
+   "in_reply_to_status_id_str": "971854515023495168",
+   "in_reply_to_screen_name": "jsoverson",
+   "urls": [
+    {
+     "url": "https://t.co/JTmsd07eZA",
+     "expand": "https://ariya.io/2016/06/isolated-development-environment-using-nix"
+    }
+   ]
+  },
+  {
+   "id": 971841675499683800,
+   "id_str": "971841675499683840",
+   "created_at": "Thu Mar 08 20:14:46 +0000 2018",
+   "text": "Generic mutation saved our species. It is a proof that there was already a superhero (and maybe more) among us! https://t.co/yGCbUA2sjv",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yGCbUA2sjv",
+     "expand": "https://twitter.com/nytimes/status/971836728846807040"
+    }
+   ]
+  },
+  {
+   "id": 971840858063388700,
+   "id_str": "971840858063388672",
+   "created_at": "Thu Mar 08 20:11:31 +0000 2018",
+   "text": "@jsoverson even with virtualenv?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971468739060224000,
+   "in_reply_to_status_id_str": "971468739060224001",
+   "in_reply_to_screen_name": "jsoverson",
+   "urls": []
+  },
+  {
+   "id": 971838419591561200,
+   "id_str": "971838419591561216",
+   "created_at": "Thu Mar 08 20:01:49 +0000 2018",
+   "text": "@grigs In a way, Windows 10 correctly calls this Airplane mode (vs just disabled WiFi), likely anticipating the alw… https://t.co/9TCwjOLmMd",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971573844531036200,
+   "in_reply_to_status_id_str": "971573844531036160",
+   "in_reply_to_screen_name": "grigs",
+   "urls": [
+    {
+     "url": "https://t.co/9TCwjOLmMd",
+     "expand": "https://twitter.com/i/web/status/971838419591561216"
+    }
+   ]
+  },
+  {
+   "id": 971812714409439200,
+   "id_str": "971812714409439232",
+   "created_at": "Thu Mar 08 18:19:41 +0000 2018",
+   "text": "RT @adamshostack: I should learn to be so concise! :) https://t.co/ysgJAOY1qK",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ysgJAOY1qK",
+     "expand": "https://twitter.com/spence_hawk/status/971750425102831616"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971803597468983300,
+    "id_str": "971803597468983296",
+    "created_at": "Thu Mar 08 17:43:27 +0000 2018",
+    "text": "I should learn to be so concise! :) https://t.co/ysgJAOY1qK",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ysgJAOY1qK",
+      "expand": "https://twitter.com/spence_hawk/status/971750425102831616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971812671111643100,
+   "id_str": "971812671111643136",
+   "created_at": "Thu Mar 08 18:19:30 +0000 2018",
+   "text": "RT @akademy: #Akademy2018 call for talks closes soon! Submit your proposal for a talk before March 13 and join the KDE community in beautif…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971803998708731900,
+    "id_str": "971803998708731906",
+    "created_at": "Thu Mar 08 17:45:03 +0000 2018",
+    "text": "#Akademy2018 call for talks closes soon! Submit your proposal for a talk before March 13 and join the KDE community… https://t.co/fiosB76teK",
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fiosB76teK",
+      "expand": "https://twitter.com/i/web/status/971803998708731906"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971761303051124700,
+   "id_str": "971761303051124738",
+   "created_at": "Thu Mar 08 14:55:23 +0000 2018",
+   "text": "RT @bukalapak: Terima kasih kepada pembicara dan peserta yang telah hadir hari ini. Jangan lupa, nantikan video #BukaTalks selengkapnya di…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971739136343253000,
+    "id_str": "971739136343252992",
+    "created_at": "Thu Mar 08 13:27:18 +0000 2018",
+    "text": "Terima kasih kepada pembicara dan peserta yang telah hadir hari ini. Jangan lupa, nantikan video #BukaTalks selengk… https://t.co/xx13SiOvMf",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xx13SiOvMf",
+      "expand": "https://twitter.com/i/web/status/971739136343252992"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971761281576321000,
+   "id_str": "971761281576321024",
+   "created_at": "Thu Mar 08 14:55:18 +0000 2018",
+   "text": "RT @bukalapak: Pembicara pertama adalah Yunita Anggraeni yang akan membicarakan tentang \"Find Your Talent!\" #BukaTalks https://t.co/RaJ0Wc3…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971721115369316400,
+    "id_str": "971721115369316353",
+    "created_at": "Thu Mar 08 12:15:42 +0000 2018",
+    "text": "Pembicara pertama adalah Yunita Anggraeni yang akan membicarakan tentang \"Find Your Talent!\" #BukaTalks https://t.co/RaJ0Wc3UXg",
+    "retweet_count": 2,
+    "favorite_count": 2,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -410,50 +2461,29 @@
    }
   },
   {
-   "id": 965000252800430100,
-   "id_str": "965000252800430080",
-   "created_at": "Sat Feb 17 23:09:23 +0000 2018",
-   "text": "@bentlegen It's terribly unhealthy, but it's the best option for a guilty pleasure 😄",
+   "id": 971760235579715600,
+   "id_str": "971760235579715585",
+   "created_at": "Thu Mar 08 14:51:09 +0000 2018",
+   "text": "The convergence between magic and technology will happen sooner than later. When the kids were talking about magica… https://t.co/8gAcaQlqzY",
    "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 963938892196884500,
-   "in_reply_to_status_id_str": "963938892196884480",
-   "in_reply_to_screen_name": "bentlegen",
-   "urls": []
-  },
-  {
-   "id": 964999935421644800,
-   "id_str": "964999935421644801",
-   "created_at": "Sat Feb 17 23:08:08 +0000 2018",
-   "text": "@auchenberg Of course 😉. Computational photography FTW!",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 964999586401128400,
-   "in_reply_to_status_id_str": "964999586401128448",
-   "in_reply_to_screen_name": "auchenberg",
-   "urls": []
-  },
-  {
-   "id": 964998736437850100,
-   "id_str": "964998736437850113",
-   "created_at": "Sat Feb 17 23:03:22 +0000 2018",
-   "text": "There are certain things you'll find ONLY in Plaza Indonesia!! #IndonesiaTripFeb2018 https://t.co/HoRRuRaPfJ",
-   "retweet_count": 0,
-   "favorite_count": 4,
+   "favorite_count": 3,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": []
+   "urls": [
+    {
+     "url": "https://t.co/8gAcaQlqzY",
+     "expand": "https://twitter.com/i/web/status/971760235579715585"
+    }
+   ]
   },
   {
-   "id": 964889478048366600,
-   "id_str": "964889478048366593",
-   "created_at": "Sat Feb 17 15:49:13 +0000 2018",
-   "text": "RT @adereth: Radia Perlman told the perfect story about how engineers come up with solutions before understanding the problem:\n\n\"When my so…",
-   "retweet_count": 3577,
+   "id": 971746674598060000,
+   "id_str": "971746674598060032",
+   "created_at": "Thu Mar 08 13:57:16 +0000 2018",
+   "text": "RT @matthewvalites: I'm struggling to understand the next gen security product focus to detect the unknown unknown when companies still fai…",
+   "retweet_count": 17,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -461,23 +2491,2012 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964315654969991200,
-    "id_str": "964315654969991168",
-    "created_at": "Fri Feb 16 01:49:02 +0000 2018",
-    "text": "Radia Perlman told the perfect story about how engineers come up with solutions before understanding the problem:… https://t.co/wnZcpzpEvg",
-    "retweet_count": 3577,
-    "favorite_count": 6921,
+    "id": 971228427385585700,
+    "id_str": "971228427385585664",
+    "created_at": "Wed Mar 07 03:37:56 +0000 2018",
+    "text": "I'm struggling to understand the next gen security product focus to detect the unknown unknown when companies still… https://t.co/8lyARdewPH",
+    "retweet_count": 17,
+    "favorite_count": 60,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/wnZcpzpEvg",
-      "expand": "https://twitter.com/i/web/status/964315654969991168"
+      "url": "https://t.co/8lyARdewPH",
+      "expand": "https://twitter.com/i/web/status/971228427385585664"
      }
     ]
    }
+  },
+  {
+   "id": 971648302255976400,
+   "id_str": "971648302255976448",
+   "created_at": "Thu Mar 08 07:26:22 +0000 2018",
+   "text": "@detronizator @shs96c Best quote that reflects this, Ryan Reynolds in @HitmanBodyguard: “Boring is always best”.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971642605070180400,
+   "in_reply_to_status_id_str": "971642605070180352",
+   "in_reply_to_screen_name": "detronizator",
+   "urls": []
+  },
+  {
+   "id": 971586610402795500,
+   "id_str": "971586610402795520",
+   "created_at": "Thu Mar 08 03:21:13 +0000 2018",
+   "text": "The prophecy is fulfilled, and it is being carried out by (surprise!) Microsoft. This year is officially The Year o… https://t.co/K23w5FbEwc",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/K23w5FbEwc",
+     "expand": "https://twitter.com/i/web/status/971586610402795520"
+    }
+   ]
+  },
+  {
+   "id": 971483017746178000,
+   "id_str": "971483017746178049",
+   "created_at": "Wed Mar 07 20:29:35 +0000 2018",
+   "text": "@jarrednicholls And don't forget app framework: native, Adobe AIR, native again, Electron, and next ?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971475260351578100,
+   "in_reply_to_status_id_str": "971475260351578112",
+   "in_reply_to_screen_name": "jarrednicholls",
+   "urls": []
+  },
+  {
+   "id": 971474550738239500,
+   "id_str": "971474550738239488",
+   "created_at": "Wed Mar 07 19:55:56 +0000 2018",
+   "text": "Full circle: we come back again to the glorious days of MDI (multiple document interface) https://t.co/OlaYGNfe6I",
+   "retweet_count": 2,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OlaYGNfe6I",
+     "expand": "https://twitter.com/verge/status/971458129329344512"
+    }
+   ]
+  },
+  {
+   "id": 971423662514450400,
+   "id_str": "971423662514450433",
+   "created_at": "Wed Mar 07 16:33:43 +0000 2018",
+   "text": "In the world of Cloud Function, or #FaaS, a GC that doesn't reclaim the memory becomes important. Hence, a new inte… https://t.co/1YcsjBnyys",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1YcsjBnyys",
+     "expand": "https://twitter.com/i/web/status/971423662514450433"
+    }
+   ]
+  },
+  {
+   "id": 971421049978961900,
+   "id_str": "971421049978961920",
+   "created_at": "Wed Mar 07 16:23:21 +0000 2018",
+   "text": "@mmport80 @debian @windowsstore @tara_msft I never had any probem with JS tooling (it's even smoother experience th… https://t.co/3pX9TpClYK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971413160702996500,
+   "in_reply_to_status_id_str": "971413160702996480",
+   "in_reply_to_screen_name": "mmport80",
+   "urls": [
+    {
+     "url": "https://t.co/3pX9TpClYK",
+     "expand": "https://twitter.com/i/web/status/971421049978961920"
+    }
+   ]
+  },
+  {
+   "id": 971412166489227300,
+   "id_str": "971412166489227264",
+   "created_at": "Wed Mar 07 15:48:03 +0000 2018",
+   "text": "@mmport80 @debian @windowsstore It was also hit-and-miss for me until the most recent update. After that, for my us… https://t.co/q5pXEjCOCZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971325526869758000,
+   "in_reply_to_status_id_str": "971325526869757954",
+   "in_reply_to_screen_name": "mmport80",
+   "urls": [
+    {
+     "url": "https://t.co/q5pXEjCOCZ",
+     "expand": "https://twitter.com/i/web/status/971412166489227264"
+    }
+   ]
+  },
+  {
+   "id": 971320502340980700,
+   "id_str": "971320502340980736",
+   "created_at": "Wed Mar 07 09:43:48 +0000 2018",
+   "text": "Yo, I got my favorite distribution @Debian running on @Windows 10! What a strange world we live in. BRB, gotta comp… https://t.co/NdNE8XjTWZ",
+   "retweet_count": 2,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 971185696852475900,
+   "in_reply_to_status_id_str": "971185696852475905",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/NdNE8XjTWZ",
+     "expand": "https://twitter.com/i/web/status/971320502340980736"
+    }
+   ]
+  },
+  {
+   "id": 971293302724145200,
+   "id_str": "971293302724145152",
+   "created_at": "Wed Mar 07 07:55:43 +0000 2018",
+   "text": "@arkel He's the boss, he paid some people to build what he wanted!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971289859888418800,
+   "in_reply_to_status_id_str": "971289859888418817",
+   "in_reply_to_screen_name": "arkel",
+   "urls": []
+  },
+  {
+   "id": 971291802157441000,
+   "id_str": "971291802157441024",
+   "created_at": "Wed Mar 07 07:49:46 +0000 2018",
+   "text": "@waltervannini @philshapiro It's paramount to understand the spirit here, and not to pull it to the extreme interpr… https://t.co/LtrjEawQGj",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971286236349550600,
+   "in_reply_to_status_id_str": "971286236349550593",
+   "in_reply_to_screen_name": "waltervannini",
+   "urls": [
+    {
+     "url": "https://t.co/LtrjEawQGj",
+     "expand": "https://twitter.com/i/web/status/971291802157441024"
+    }
+   ]
+  },
+  {
+   "id": 971268096953651200,
+   "id_str": "971268096953651201",
+   "created_at": "Wed Mar 07 06:15:34 +0000 2018",
+   "text": "Ages ago, during my KDE active time, I always loved the “Those who code, decide” manifesto. It beautifully prevents… https://t.co/eA9xAd4AtN",
+   "retweet_count": 25,
+   "favorite_count": 50,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eA9xAd4AtN",
+     "expand": "https://twitter.com/i/web/status/971268096953651201"
+    }
+   ]
+  },
+  {
+   "id": 971185696852475900,
+   "id_str": "971185696852475905",
+   "created_at": "Wed Mar 07 00:48:08 +0000 2018",
+   "text": "And here's the official announcement from @tara_msft  from @Microsoft WSL team: https://t.co/zKGdS7NKTM",
+   "retweet_count": 2,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 971093253553512400,
+   "in_reply_to_status_id_str": "971093253553512448",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/zKGdS7NKTM",
+     "expand": "https://blogs.msdn.microsoft.com/commandline/2018/03/06/debian-gnulinux-for-wsl-now-available-in-the-windows-store/"
+    }
+   ]
+  },
+  {
+   "id": 971171774279729200,
+   "id_str": "971171774279729152",
+   "created_at": "Tue Mar 06 23:52:49 +0000 2018",
+   "text": "RT @WIRED: Instead of spewing lava, the Kawah Ijen crater spews neon blue flames. See the flames up close and personal here: https://t.co/K…",
+   "retweet_count": 47,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971166168911372300,
+    "id_str": "971166168911372296",
+    "created_at": "Tue Mar 06 23:30:32 +0000 2018",
+    "text": "Instead of spewing lava, the Kawah Ijen crater spews neon blue flames. See the flames up close and personal here:… https://t.co/xwuJxw9jB5",
+    "retweet_count": 47,
+    "favorite_count": 128,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xwuJxw9jB5",
+      "expand": "https://twitter.com/i/web/status/971166168911372296"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971171691358339100,
+   "id_str": "971171691358339073",
+   "created_at": "Tue Mar 06 23:52:29 +0000 2018",
+   "text": "RT @businessinsider: No apps, no problems! This 'dumb phone' can only make calls and send texts — and it might be the key to curing our sma…",
+   "retweet_count": 3223,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969273297690079200,
+    "id_str": "969273297690079234",
+    "created_at": "Thu Mar 01 18:08:57 +0000 2018",
+    "text": "No apps, no problems! This 'dumb phone' can only make calls and send texts — and it might be the key to curing our… https://t.co/uvVcMUGktL",
+    "retweet_count": 3223,
+    "favorite_count": 8724,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uvVcMUGktL",
+      "expand": "https://twitter.com/i/web/status/969273297690079234"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971171366476046300,
+   "id_str": "971171366476046337",
+   "created_at": "Tue Mar 06 23:51:11 +0000 2018",
+   "text": "RT @TheRegister: Sysadmin left finger on power button for an hour to avert SAP outage https://t.co/fnNsspVtRG",
+   "retweet_count": 64,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fnNsspVtRG",
+     "expand": "http://reg.cx/2DJB"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970556435364044800,
+    "id_str": "970556435364044800",
+    "created_at": "Mon Mar 05 07:07:40 +0000 2018",
+    "text": "Sysadmin left finger on power button for an hour to avert SAP outage https://t.co/fnNsspVtRG",
+    "retweet_count": 64,
+    "favorite_count": 108,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fnNsspVtRG",
+      "expand": "http://reg.cx/2DJB"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971128071565729800,
+   "id_str": "971128071565729792",
+   "created_at": "Tue Mar 06 20:59:09 +0000 2018",
+   "text": "If at all, one of the biggest challenges in maintaining an open-source project, is to respond politely to a well-in… https://t.co/qRuIr5pbIO",
+   "retweet_count": 2,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qRuIr5pbIO",
+     "expand": "https://twitter.com/i/web/status/971128071565729792"
+    }
+   ]
+  },
+  {
+   "id": 971095932187000800,
+   "id_str": "971095932187000832",
+   "created_at": "Tue Mar 06 18:51:26 +0000 2018",
+   "text": "@nathanboktae Thank you for your effort! mocha-phantomjs was crucial to those who wanted to run their Mocha tests with PhantomJS 👍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970902882651316200,
+   "in_reply_to_status_id_str": "970902882651316224",
+   "in_reply_to_screen_name": "nathanboktae",
+   "urls": []
+  },
+  {
+   "id": 971093253553512400,
+   "id_str": "971093253553512448",
+   "created_at": "Tue Mar 06 18:40:48 +0000 2018",
+   "text": "OMG @Debian is available on @WindowsStore! I know how I'm going to have some fun this evening 🤩. It's hard not to… https://t.co/EKFUJzozm5",
+   "retweet_count": 14,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EKFUJzozm5",
+     "expand": "https://twitter.com/i/web/status/971093253553512448"
+    }
+   ]
+  },
+  {
+   "id": 971090158371024900,
+   "id_str": "971090158371024896",
+   "created_at": "Tue Mar 06 18:28:30 +0000 2018",
+   "text": "Message in a bottle, dropped 132 years ago, from a ship sailing from Cardiff (Wales) to Makassar (Indonesia): https://t.co/30yh5vUO55",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/30yh5vUO55",
+     "expand": "http://museum.wa.gov.au/about/latest-news/132-year-old-message-bottle-found-on-wa-beach"
+    }
+   ]
+  },
+  {
+   "id": 971049799603576800,
+   "id_str": "971049799603576832",
+   "created_at": "Tue Mar 06 15:48:08 +0000 2018",
+   "text": "Friends coming over? Request Google for tons and tons of knock-knock jokes.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971049797896388600,
+   "in_reply_to_status_id_str": "971049797896388608",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 971049797896388600,
+   "id_str": "971049797896388608",
+   "created_at": "Tue Mar 06 15:48:07 +0000 2018",
+   "text": "Sibling rivalry? Need to take some turns playing the shiny new toy? Tell Google to set a countdown timer.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971049796440961000,
+   "in_reply_to_status_id_str": "971049796440961024",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 971049796440961000,
+   "id_str": "971049796440961024",
+   "created_at": "Tue Mar 06 15:48:07 +0000 2018",
+   "text": "Math homework is too difficult? Not sure of the result of this complicated multiplication? Ask Google for confirm it.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971049795585425400,
+   "in_reply_to_status_id_str": "971049795585425408",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 971049795585425400,
+   "id_str": "971049795585425408",
+   "created_at": "Tue Mar 06 15:48:07 +0000 2018",
+   "text": "Weekend and got some screen time? Tell Alexa to resume those favorite series on Fire TV.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971049794335469600,
+   "in_reply_to_status_id_str": "971049794335469570",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 971049794335469600,
+   "id_str": "971049794335469570",
+   "created_at": "Tue Mar 06 15:48:06 +0000 2018",
+   "text": "Know how to use Alexa before learning how to read and write? Suddenly it occurred to them to ask Alexa to spell some simple words.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971049793156825100,
+   "in_reply_to_status_id_str": "971049793156825095",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 971049793156825100,
+   "id_str": "971049793156825095",
+   "created_at": "Tue Mar 06 15:48:06 +0000 2018",
+   "text": "The ubiquity of always-connected, digital world is proven to change your perspective. The kids belong to that gener… https://t.co/F0OuTE8jAw",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/F0OuTE8jAw",
+     "expand": "https://twitter.com/i/web/status/971049793156825095"
+    }
+   ]
+  },
+  {
+   "id": 970958336903409700,
+   "id_str": "970958336903409665",
+   "created_at": "Tue Mar 06 09:44:41 +0000 2018",
+   "text": "Hmm, I'll take Pixel 2's excellent Portrait Mode and its unlimited storage for photos and videos than ehm, a deskto… https://t.co/VjCY8TDWrr",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VjCY8TDWrr",
+     "expand": "https://twitter.com/i/web/status/970958336903409665"
+    }
+   ]
+  },
+  {
+   "id": 970946144070090800,
+   "id_str": "970946144070090752",
+   "created_at": "Tue Mar 06 08:56:14 +0000 2018",
+   "text": "RT @SarahKSquire: Listen to me and @shanselman chat about #identity #blockchain #standards and the importance of flossing on his podcast Ha…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970707722214633500,
+    "id_str": "970707722214633472",
+    "created_at": "Mon Mar 05 17:08:50 +0000 2018",
+    "text": "Listen to me and @shanselman chat about #identity #blockchain #standards and the importance of flossing on his podc… https://t.co/dzdR6Nsm2B",
+    "retweet_count": 10,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dzdR6Nsm2B",
+      "expand": "https://twitter.com/i/web/status/970707722214633472"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970772004314914800,
+   "id_str": "970772004314914817",
+   "created_at": "Mon Mar 05 21:24:16 +0000 2018",
+   "text": "RT @instagrameng: Today we're open sourcing Rocksandra, a @cassandra storage engine built on @RocksDB! https://t.co/nLBK4Nz8kt",
+   "retweet_count": 107,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nLBK4Nz8kt",
+     "expand": "https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970723611077066800,
+    "id_str": "970723611077066753",
+    "created_at": "Mon Mar 05 18:11:58 +0000 2018",
+    "text": "Today we're open sourcing Rocksandra, a @cassandra storage engine built on @RocksDB! https://t.co/nLBK4Nz8kt",
+    "retweet_count": 107,
+    "favorite_count": 186,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nLBK4Nz8kt",
+      "expand": "https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970766397893574700,
+   "id_str": "970766397893574656",
+   "created_at": "Mon Mar 05 21:01:59 +0000 2018",
+   "text": "RT @youyuxi: Sooooo happy to see @left_pad 's Patreon is already over 2k/mo, way to go Henry!",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970722976739086300,
+    "id_str": "970722976739086336",
+    "created_at": "Mon Mar 05 18:09:27 +0000 2018",
+    "text": "Sooooo happy to see @left_pad 's Patreon is already over 2k/mo, way to go Henry!",
+    "retweet_count": 22,
+    "favorite_count": 288,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 970744631716556800,
+   "id_str": "970744631716556801",
+   "created_at": "Mon Mar 05 19:35:30 +0000 2018",
+   "text": "RT @FortuneMagazine: Walmart is introducing prepared meals and its own Blue Apron-like kits amid grocery war with Amazon https://t.co/LVwXc…",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970626273327419400,
+    "id_str": "970626273327419392",
+    "created_at": "Mon Mar 05 11:45:11 +0000 2018",
+    "text": "Walmart is introducing prepared meals and its own Blue Apron-like kits amid grocery war with Amazon https://t.co/LVwXcJEUN2",
+    "retweet_count": 49,
+    "favorite_count": 122,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LVwXcJEUN2",
+      "expand": "http://for.tn/2Fe2pVp"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970728794297286700,
+   "id_str": "970728794297286656",
+   "created_at": "Mon Mar 05 18:32:34 +0000 2018",
+   "text": "Ah, I need to babysit a Mac again. Guess what saves the day? @nixpkg of course. Good that I documented it (for my f… https://t.co/joD1LLY28o",
+   "retweet_count": 4,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/joD1LLY28o",
+     "expand": "https://twitter.com/i/web/status/970728794297286656"
+    }
+   ]
+  },
+  {
+   "id": 970700253442728000,
+   "id_str": "970700253442727936",
+   "created_at": "Mon Mar 05 16:39:09 +0000 2018",
+   "text": "@FwardPhoenix Well, at least it spawned a new industry of headless browsers. Can't be happier than that 😉",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970340321392517100,
+   "in_reply_to_status_id_str": "970340321392517120",
+   "in_reply_to_screen_name": "FwardPhoenix",
+   "urls": []
+  },
+  {
+   "id": 970698667614089200,
+   "id_str": "970698667614089217",
+   "created_at": "Mon Mar 05 16:32:51 +0000 2018",
+   "text": "@KirillGroshkov @TheLarkInn Thank you, good to know it's useful for you 😀",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970233571620409300,
+   "in_reply_to_status_id_str": "970233571620409346",
+   "in_reply_to_screen_name": "KirillGroshkov",
+   "urls": []
+  },
+  {
+   "id": 970698557970772000,
+   "id_str": "970698557970771969",
+   "created_at": "Mon Mar 05 16:32:25 +0000 2018",
+   "text": "@TheLarkInn Thanks for the support 🙏",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970223314844123100,
+   "in_reply_to_status_id_str": "970223314844123137",
+   "in_reply_to_screen_name": "TheLarkInn",
+   "urls": []
+  },
+  {
+   "id": 970698528774283300,
+   "id_str": "970698528774283270",
+   "created_at": "Mon Mar 05 16:32:18 +0000 2018",
+   "text": "@MylesBorins Thanks for the support 🙏",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970210230461182000,
+   "in_reply_to_status_id_str": "970210230461181953",
+   "in_reply_to_screen_name": "MylesBorins",
+   "urls": []
+  },
+  {
+   "id": 970698110606258200,
+   "id_str": "970698110606258177",
+   "created_at": "Mon Mar 05 16:30:38 +0000 2018",
+   "text": "@BlnaryMlke @RReverser @Microsoft @ubuntu @Windows Ugh, haven't gotten the time to update yet. Will do it soon, thanks for the notice!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970618632056311800,
+   "in_reply_to_status_id_str": "970618632056311808",
+   "in_reply_to_screen_name": "BlnaryMlke",
+   "urls": []
+  },
+  {
+   "id": 970541893758042100,
+   "id_str": "970541893758042113",
+   "created_at": "Mon Mar 05 06:09:53 +0000 2018",
+   "text": "You know @Microsoft is into something good here when you can compile PhantomJS, including Qt and QtWebKit, on… https://t.co/W66A0s5g4F",
+   "retweet_count": 8,
+   "favorite_count": 41,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W66A0s5g4F",
+     "expand": "https://twitter.com/i/web/status/970541893758042113"
+    }
+   ]
+  },
+  {
+   "id": 970496812514619400,
+   "id_str": "970496812514619393",
+   "created_at": "Mon Mar 05 03:10:45 +0000 2018",
+   "text": "@shs96c @jimevansmusic @detronizator Thanks, I'm fine. I'm very lucky to have a fantastic support system. But yeah,… https://t.co/Zfr8HK9lEw",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 970399128818630700,
+   "in_reply_to_status_id_str": "970399128818630656",
+   "in_reply_to_screen_name": "shs96c",
+   "urls": [
+    {
+     "url": "https://t.co/Zfr8HK9lEw",
+     "expand": "https://twitter.com/i/web/status/970496812514619393"
+    }
+   ]
+  },
+  {
+   "id": 970495961570033700,
+   "id_str": "970495961570033666",
+   "created_at": "Mon Mar 05 03:07:22 +0000 2018",
+   "text": "@thedigiguru @nayafia @mikeal @changelog As a side note, I've been studying for a while a few long-lasting, \"durabl… https://t.co/osVmwMoz4o",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970495415530369000,
+   "in_reply_to_status_id_str": "970495415530369025",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/osVmwMoz4o",
+     "expand": "https://twitter.com/i/web/status/970495961570033666"
+    }
+   ]
+  },
+  {
+   "id": 970495415530369000,
+   "id_str": "970495415530369025",
+   "created_at": "Mon Mar 05 03:05:12 +0000 2018",
+   "text": "@thedigiguru @nayafia @mikeal @changelog Now that rings a bell! Yes, I remember listening to some episodes, really good indeed 👍",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970362883153563600,
+   "in_reply_to_status_id_str": "970362883153563653",
+   "in_reply_to_screen_name": "thedigiguru",
+   "urls": []
+  },
+  {
+   "id": 970396291548119000,
+   "id_str": "970396291548119040",
+   "created_at": "Sun Mar 04 20:31:19 +0000 2018",
+   "text": "@Vitalliumm @detronizator Absolutely! I hate unnecessary drama and distraction. Hopefully this settles soon and we all can move on.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970392809273520100,
+   "in_reply_to_status_id_str": "970392809273520128",
+   "in_reply_to_screen_name": "Vitalliumm",
+   "urls": []
+  },
+  {
+   "id": 970391591650148400,
+   "id_str": "970391591650148352",
+   "created_at": "Sun Mar 04 20:12:39 +0000 2018",
+   "text": "@detronizator @Vitalliumm Oh, I bet both of you will love this one (I'm not into HN that much, but once a while som… https://t.co/wADpczsaAR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 960174696271507500,
+   "in_reply_to_status_id_str": "960174696271507456",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/wADpczsaAR",
+     "expand": "https://twitter.com/i/web/status/970391591650148352"
+    }
+   ]
+  },
+  {
+   "id": 970387307877445600,
+   "id_str": "970387307877445632",
+   "created_at": "Sun Mar 04 19:55:37 +0000 2018",
+   "text": "@chaluwa @kentcdodds Have you watched all the videos at https://t.co/etIst09vIt? That should give a lot of inspiration! 😀",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970385819012927500,
+   "in_reply_to_status_id_str": "970385819012927488",
+   "in_reply_to_screen_name": "chaluwa",
+   "urls": [
+    {
+     "url": "https://t.co/etIst09vIt",
+     "expand": "http://esprima.org/doc/videos.html"
+    }
+   ]
+  },
+  {
+   "id": 970383157164785700,
+   "id_str": "970383157164785664",
+   "created_at": "Sun Mar 04 19:39:08 +0000 2018",
+   "text": "@codenoid THANK YOU!! 🙏",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970375395915608000,
+   "in_reply_to_status_id_str": "970375395915608064",
+   "in_reply_to_screen_name": "codenoid",
+   "urls": []
+  },
+  {
+   "id": 970371830971183100,
+   "id_str": "970371830971183104",
+   "created_at": "Sun Mar 04 18:54:07 +0000 2018",
+   "text": "@TheJutaz @atticoos Unfortunately, it's a hit-and-miss. And when it's on the miss side, it's rather depressing, e.g… https://t.co/8jA9o16WwZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970367576948830200,
+   "in_reply_to_status_id_str": "970367576948830208",
+   "in_reply_to_screen_name": "TheJutaz",
+   "urls": [
+    {
+     "url": "https://t.co/8jA9o16WwZ",
+     "expand": "https://twitter.com/i/web/status/970371830971183104"
+    }
+   ]
+  },
+  {
+   "id": 970365529075605500,
+   "id_str": "970365529075605505",
+   "created_at": "Sun Mar 04 18:29:05 +0000 2018",
+   "text": "@TheJutaz @atticoos Actually not really, that's a common myth since the KDE vs GNOME days. Most FOSS developers wor… https://t.co/vTsHkw5q0z",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970363586026537000,
+   "in_reply_to_status_id_str": "970363586026536960",
+   "in_reply_to_screen_name": "TheJutaz",
+   "urls": [
+    {
+     "url": "https://t.co/vTsHkw5q0z",
+     "expand": "https://twitter.com/i/web/status/970365529075605505"
+    }
+   ]
+  },
+  {
+   "id": 970355002345586700,
+   "id_str": "970355002345586689",
+   "created_at": "Sun Mar 04 17:47:15 +0000 2018",
+   "text": "@aJimHolmes @jimevansmusic @shs96c It's not that bad! For years, I always treat it as a free anger management cours… https://t.co/5EETsigBy2",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970341900816285700,
+   "in_reply_to_status_id_str": "970341900816285697",
+   "in_reply_to_screen_name": "aJimHolmes",
+   "urls": [
+    {
+     "url": "https://t.co/5EETsigBy2",
+     "expand": "https://twitter.com/i/web/status/970355002345586689"
+    }
+   ]
+  },
+  {
+   "id": 970354348189401100,
+   "id_str": "970354348189401088",
+   "created_at": "Sun Mar 04 17:44:39 +0000 2018",
+   "text": "@rsjanabasis You're welcome! Always glad to know when it's useful for somebody 🙏",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970153396916207600,
+   "in_reply_to_status_id_str": "970153396916207616",
+   "in_reply_to_screen_name": "rsjanabasis",
+   "urls": []
+  },
+  {
+   "id": 970352896582737900,
+   "id_str": "970352896582737920",
+   "created_at": "Sun Mar 04 17:38:53 +0000 2018",
+   "text": "@Vitalliumm @PhantomJS @annulen Thanks, I will definitely ping you. Linux and macOS dev setup are ready, Windows is the next in the line 😉",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970008720011915300,
+   "in_reply_to_status_id_str": "970008720011915264",
+   "in_reply_to_screen_name": "Vitalliumm",
+   "urls": []
+  },
+  {
+   "id": 970337327162650600,
+   "id_str": "970337327162650624",
+   "created_at": "Sun Mar 04 16:37:01 +0000 2018",
+   "text": "RT @WorldAndScience: Putting algae and seaweed on the menu could help save our seafood https://t.co/rVsOFhwaXn",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rVsOFhwaXn",
+     "expand": "https://www.universal-sci.com/headlines/2017/12/19/putting-algae-and-seaweed-on-the-menu-could-help-save-our-seafood"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970328130878623700,
+    "id_str": "970328130878623744",
+    "created_at": "Sun Mar 04 16:00:28 +0000 2018",
+    "text": "Putting algae and seaweed on the menu could help save our seafood https://t.co/rVsOFhwaXn",
+    "retweet_count": 28,
+    "favorite_count": 126,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rVsOFhwaXn",
+      "expand": "https://www.universal-sci.com/headlines/2017/12/19/putting-algae-and-seaweed-on-the-menu-could-help-save-our-seafood"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970336121916833800,
+   "id_str": "970336121916833792",
+   "created_at": "Sun Mar 04 16:32:14 +0000 2018",
+   "text": "@thedigiguru @nayafia @mikeal Care to elaborate what you mean by request for commits?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970227115613401100,
+   "in_reply_to_status_id_str": "970227115613401088",
+   "in_reply_to_screen_name": "thedigiguru",
+   "urls": []
+  },
+  {
+   "id": 970335282921848800,
+   "id_str": "970335282921848834",
+   "created_at": "Sun Mar 04 16:28:54 +0000 2018",
+   "text": "@jimevansmusic @detronizator Oh, it gets better! Once a while, somebody showed up and offered some maintenance help… https://t.co/0pSwsctHcm",
+   "retweet_count": 3,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 970323453331976200,
+   "in_reply_to_status_id_str": "970323453331976194",
+   "in_reply_to_screen_name": "jimevansmusic",
+   "urls": [
+    {
+     "url": "https://t.co/0pSwsctHcm",
+     "expand": "https://twitter.com/i/web/status/970335282921848834"
+    }
+   ]
+  },
+  {
+   "id": 970258487404986400,
+   "id_str": "970258487404986373",
+   "created_at": "Sun Mar 04 11:23:44 +0000 2018",
+   "text": "@vivainio Yes and no. In some cases, it could make it worse. For instance, once I've received a comment along the l… https://t.co/jXRa9FOoeh",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970225218823344100,
+   "in_reply_to_status_id_str": "970225218823344128",
+   "in_reply_to_screen_name": "vivainio",
+   "urls": [
+    {
+     "url": "https://t.co/jXRa9FOoeh",
+     "expand": "https://twitter.com/i/web/status/970258487404986373"
+    }
+   ]
+  },
+  {
+   "id": 970173009993482200,
+   "id_str": "970173009993482240",
+   "created_at": "Sun Mar 04 05:44:05 +0000 2018",
+   "text": "END OF Saturday-night-rambling.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970173008697421800,
+   "in_reply_to_status_id_str": "970173008697421824",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": []
+  },
+  {
+   "id": 970173008697421800,
+   "id_str": "970173008697421824",
+   "created_at": "Sun Mar 04 05:44:04 +0000 2018",
+   "text": "To entertain this thought, expect that in the coming days, I will turn PhantomJS website to the “retro style”: 1990… https://t.co/BTQW0H8HYq",
+   "retweet_count": 1,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 970173007061647400,
+   "in_reply_to_status_id_str": "970173007061647361",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/BTQW0H8HYq",
+     "expand": "https://twitter.com/i/web/status/970173008697421824"
+    }
+   ]
+  },
+  {
+   "id": 970173007061647400,
+   "id_str": "970173007061647361",
+   "created_at": "Sun Mar 04 05:44:04 +0000 2018",
+   "text": "It's sad because that the project might not get an otherwise important contribution due to the unfriendly barrier.… https://t.co/jeIrLssmKc",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 970173005321052200,
+   "in_reply_to_status_id_str": "970173005321052160",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/jeIrLssmKc",
+     "expand": "https://twitter.com/i/web/status/970173007061647361"
+    }
+   ]
+  },
+  {
+   "id": 970173005321052200,
+   "id_str": "970173005321052160",
+   "created_at": "Sun Mar 04 05:44:04 +0000 2018",
+   "text": "I postulate that this might set a new precedent, a form of going back to the old way of doing F/OSS: upload the sou… https://t.co/NF6PhmosyU",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970173004008181800,
+   "in_reply_to_status_id_str": "970173004008181760",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/NF6PhmosyU",
+     "expand": "https://twitter.com/i/web/status/970173005321052160"
+    }
+   ]
+  },
+  {
+   "id": 970173004008181800,
+   "id_str": "970173004008181760",
+   "created_at": "Sun Mar 04 05:44:03 +0000 2018",
+   "text": "But unfortunately, it's always depressing to see drive-by comments by some random user, filled with so much demand… https://t.co/sH2XgkwRTs",
+   "retweet_count": 1,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": 970173002917675000,
+   "in_reply_to_status_id_str": "970173002917675008",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/sH2XgkwRTs",
+     "expand": "https://twitter.com/i/web/status/970173004008181760"
+    }
+   ]
+  },
+  {
+   "id": 970173002917675000,
+   "id_str": "970173002917675008",
+   "created_at": "Sun Mar 04 05:44:03 +0000 2018",
+   "text": "If at all, even with Puppeteer/SlimerJS/etc, I believe we ought to continue to improve the field of web automation.… https://t.co/upJZl8OMlD",
+   "retweet_count": 3,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 970173001701367800,
+   "in_reply_to_status_id_str": "970173001701367808",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/upJZl8OMlD",
+     "expand": "https://twitter.com/i/web/status/970173002917675008"
+    }
+   ]
+  },
+  {
+   "id": 970173001701367800,
+   "id_str": "970173001701367808",
+   "created_at": "Sun Mar 04 05:44:03 +0000 2018",
+   "text": "I can't always speak for others, but for me, the primary de-motivating factor to continue #PhantomJS development is… https://t.co/Vjnq20FOZn",
+   "retweet_count": 87,
+   "favorite_count": 186,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Vjnq20FOZn",
+     "expand": "https://twitter.com/i/web/status/970173001701367808"
+    }
+   ]
+  },
+  {
+   "id": 970075616220348400,
+   "id_str": "970075616220348422",
+   "created_at": "Sat Mar 03 23:17:04 +0000 2018",
+   "text": "@mohsen____ @rauschma SimpleHTTPServer? That's so Python 2 😄. Beside, I don't think it supports dynamic content?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970073714560610300,
+   "in_reply_to_status_id_str": "970073714560610304",
+   "in_reply_to_screen_name": "mohsen____",
+   "urls": []
+  },
+  {
+   "id": 970062434797985800,
+   "id_str": "970062434797985792",
+   "created_at": "Sat Mar 03 22:24:42 +0000 2018",
+   "text": "RT @fchollet: If you're motivated by greed, you'll lose interest pretty quickly, and you'll move on to the next hyped-up gold rush (we'll h…",
+   "retweet_count": 295,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970052233298456600,
+    "id_str": "970052233298456576",
+    "created_at": "Sat Mar 03 21:44:09 +0000 2018",
+    "text": "If you're motivated by greed, you'll lose interest pretty quickly, and you'll move on to the next hyped-up gold rus… https://t.co/mGqKcaFZ8J",
+    "retweet_count": 295,
+    "favorite_count": 1026,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mGqKcaFZ8J",
+      "expand": "https://twitter.com/i/web/status/970052233298456576"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970062204832632800,
+   "id_str": "970062204832632832",
+   "created_at": "Sat Mar 03 22:23:47 +0000 2018",
+   "text": "The question is, does it have Portrait Mode as good as Pixel 2 and iPhone X? https://t.co/xpa3L1gyIQ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xpa3L1gyIQ",
+     "expand": "https://twitter.com/verge/status/969845089735503872"
+    }
+   ]
+  },
+  {
+   "id": 970061557194416100,
+   "id_str": "970061557194416128",
+   "created_at": "Sat Mar 03 22:21:12 +0000 2018",
+   "text": "@stef @KeesRomkes Incorrect. The letter is very one-sided. Up to that point, that person could continue to commit c… https://t.co/UKSscYynog",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969532264811057200,
+   "in_reply_to_status_id_str": "969532264811057152",
+   "in_reply_to_screen_name": "stef",
+   "urls": [
+    {
+     "url": "https://t.co/UKSscYynog",
+     "expand": "https://twitter.com/i/web/status/970061557194416128"
+    }
+   ]
+  },
+  {
+   "id": 970057152428589000,
+   "id_str": "970057152428589056",
+   "created_at": "Sat Mar 03 22:03:42 +0000 2018",
+   "text": "@joesilkcom That's incorrect, DM me for more details.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970049752464203800,
+   "in_reply_to_status_id_str": "970049752464203777",
+   "in_reply_to_screen_name": "joesilkcom",
+   "urls": []
+  },
+  {
+   "id": 970008286803107800,
+   "id_str": "970008286803107840",
+   "created_at": "Sat Mar 03 18:49:32 +0000 2018",
+   "text": "@Vitalliumm @PhantomJS Thanks for all your heroic effort! I will secretly continue the progress towards the use of… https://t.co/n4OB3PdZ8l",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969985784269942800,
+   "in_reply_to_status_id_str": "969985784269942784",
+   "in_reply_to_screen_name": "Vitalliumm",
+   "urls": [
+    {
+     "url": "https://t.co/n4OB3PdZ8l",
+     "expand": "https://twitter.com/i/web/status/970008286803107840"
+    }
+   ]
+  },
+  {
+   "id": 969985299601223700,
+   "id_str": "969985299601223680",
+   "created_at": "Sat Mar 03 17:18:11 +0000 2018",
+   "text": "@Vitalliumm @PhantomJS finally, I'll get to that soon: https://t.co/leAmTvK1eg",
+   "retweet_count": 6,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 928638047276732400,
+   "in_reply_to_status_id_str": "928638047276732416",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/leAmTvK1eg",
+     "expand": "https://github.com/ariya/phantomjs/issues/15344"
+    }
+   ]
+  },
+  {
+   "id": 969972888840237000,
+   "id_str": "969972888840237056",
+   "created_at": "Sat Mar 03 16:28:52 +0000 2018",
+   "text": "@zachswift Yes, I did! It's unfortunate that such thing happens. Another proof that FOSS is a social activity, and… https://t.co/D1OOMtevY3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969927066559963100,
+   "in_reply_to_status_id_str": "969927066559963136",
+   "in_reply_to_screen_name": "zachswift",
+   "urls": [
+    {
+     "url": "https://t.co/D1OOMtevY3",
+     "expand": "https://twitter.com/i/web/status/969972888840237056"
+    }
+   ]
+  },
+  {
+   "id": 969798948092239900,
+   "id_str": "969798948092239872",
+   "created_at": "Sat Mar 03 04:57:41 +0000 2018",
+   "text": "RT @left_pad: I've left my job to work on open source full time!\n\nI just launched a Patreon at https://t.co/cYPsEme8iE so if you want to su…",
+   "retweet_count": 775,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cYPsEme8iE",
+     "expand": "https://www.patreon.com/henryzhu"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969793227862790100,
+    "id_str": "969793227862790144",
+    "created_at": "Sat Mar 03 04:34:58 +0000 2018",
+    "text": "I've left my job to work on open source full time!\n\nI just launched a Patreon at https://t.co/cYPsEme8iE so if you… https://t.co/BLGzi2tXLQ",
+    "retweet_count": 775,
+    "favorite_count": 2478,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/cYPsEme8iE",
+      "expand": "https://www.patreon.com/henryzhu"
+     },
+     {
+      "url": "https://t.co/BLGzi2tXLQ",
+      "expand": "https://twitter.com/i/web/status/969793227862790144"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969792294491603000,
+   "id_str": "969792294491602945",
+   "created_at": "Sat Mar 03 04:31:15 +0000 2018",
+   "text": "@KeesRomkes @stef the phantomjs npm module has a misleading name (I requested it to be changed, now it's phantomjs-… https://t.co/rxSMqWIn2P",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969532600921534500,
+   "in_reply_to_status_id_str": "969532600921534464",
+   "in_reply_to_screen_name": "KeesRomkes",
+   "urls": [
+    {
+     "url": "https://t.co/rxSMqWIn2P",
+     "expand": "https://twitter.com/i/web/status/969792294491602945"
+    }
+   ]
+  },
+  {
+   "id": 969763263419330600,
+   "id_str": "969763263419330562",
+   "created_at": "Sat Mar 03 02:35:53 +0000 2018",
+   "text": "RT @_rsc: Go += Package Versioning. https://t.co/579QQoVu7h. #golang",
+   "retweet_count": 277,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/579QQoVu7h",
+     "expand": "https://research.swtch.com/vgo-intro"
+    }
+   ],
+   "retweeted_status": {
+    "id": 965999267826618400,
+    "id_str": "965999267826618369",
+    "created_at": "Tue Feb 20 17:19:07 +0000 2018",
+    "text": "Go += Package Versioning. https://t.co/579QQoVu7h. #golang",
+    "retweet_count": 277,
+    "favorite_count": 494,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/579QQoVu7h",
+      "expand": "https://research.swtch.com/vgo-intro"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969643708923625500,
+   "id_str": "969643708923625477",
+   "created_at": "Fri Mar 02 18:40:49 +0000 2018",
+   "text": "Here's how Chrome Canary or Chromium suggests a generated (strong) password whenever it encounters a password field… https://t.co/3YTLJIcgsn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969265926519472100,
+   "in_reply_to_status_id_str": "969265926519472128",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/3YTLJIcgsn",
+     "expand": "https://twitter.com/i/web/status/969643708923625477"
+    }
+   ]
+  },
+  {
+   "id": 969636254257066000,
+   "id_str": "969636254257065985",
+   "created_at": "Fri Mar 02 18:11:12 +0000 2018",
+   "text": "I've been quite happy using Teams. Soon, with guest access and freemium model, more folks will be enjoying it! https://t.co/gQiwzq6Q3b",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gQiwzq6Q3b",
+     "expand": "https://twitter.com/arstechnica/status/969617957449011200"
+    }
+   ]
+  },
+  {
+   "id": 969601564682760200,
+   "id_str": "969601564682760193",
+   "created_at": "Fri Mar 02 15:53:22 +0000 2018",
+   "text": "@bashok001 @gojekindonesia That will be a dream workplace!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966691009487765500,
+   "in_reply_to_status_id_str": "966691009487765504",
+   "in_reply_to_screen_name": "bashok001",
+   "urls": []
+  },
+  {
+   "id": 969577612719738900,
+   "id_str": "969577612719738880",
+   "created_at": "Fri Mar 02 14:18:11 +0000 2018",
+   "text": "RT @AustenAllred: Someone stabilized the infamous Bigfoot video, and it now looks like the most obviously fake thing I’ve ever seen https:/…",
+   "retweet_count": 366,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969435228551835600,
+    "id_str": "969435228551835650",
+    "created_at": "Fri Mar 02 04:52:24 +0000 2018",
+    "text": "Someone stabilized the infamous Bigfoot video, and it now looks like the most obviously fake thing I’ve ever seen https://t.co/IhIhY9mrDz",
+    "retweet_count": 366,
+    "favorite_count": 801,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969475700716486700,
+   "id_str": "969475700716486656",
+   "created_at": "Fri Mar 02 07:33:13 +0000 2018",
+   "text": "OMG, it's now perfectly valid: “Every distributed system's problem can be solved with another reverse proxy.” https://t.co/VNRGxcqgd6",
+   "retweet_count": 2,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VNRGxcqgd6",
+     "expand": "https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/"
+    }
+   ]
+  },
+  {
+   "id": 969413522017869800,
+   "id_str": "969413522017869824",
+   "created_at": "Fri Mar 02 03:26:09 +0000 2018",
+   "text": "@giosakti @fmeyer Classic problem: too much to do, too little time 😭",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968641811110445000,
+   "in_reply_to_status_id_str": "968641811110445056",
+   "in_reply_to_screen_name": "giosakti",
+   "urls": []
+  },
+  {
+   "id": 969265926519472100,
+   "id_str": "969265926519472128",
+   "created_at": "Thu Mar 01 17:39:39 +0000 2018",
+   "text": "Password hygiene is important to safeguard our digital lives. Yet, we are really bad at maintaining the hygiene! Wo… https://t.co/5U4JkKBnkl",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5U4JkKBnkl",
+     "expand": "https://twitter.com/i/web/status/969265926519472128"
+    }
+   ]
+  },
+  {
+   "id": 969236661623169000,
+   "id_str": "969236661623169024",
+   "created_at": "Thu Mar 01 15:43:22 +0000 2018",
+   "text": "RT @SunnyvaleDPS: A few #SafetyTips for your rainy day commute. Remember, wipers on=headlights on. Drive safe and stay warm! 🚘🌧 #CAwx https…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969215653335855100,
+    "id_str": "969215653335855104",
+    "created_at": "Thu Mar 01 14:19:53 +0000 2018",
+    "text": "A few #SafetyTips for your rainy day commute. Remember, wipers on=headlights on. Drive safe and stay warm! 🚘🌧 #CAwx https://t.co/dWeKmVij73",
+    "retweet_count": 7,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969235664200810500,
+   "id_str": "969235664200810496",
+   "created_at": "Thu Mar 01 15:39:24 +0000 2018",
+   "text": "Pretty amazing 360° video of @Waymo self-driving experience: https://t.co/2qsSddhfl1",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2qsSddhfl1",
+     "expand": "https://www.youtube.com/watch?v=B8R148hFxPw"
+    }
+   ]
+  },
+  {
+   "id": 969231671982616600,
+   "id_str": "969231671982616576",
+   "created_at": "Thu Mar 01 15:23:32 +0000 2018",
+   "text": "Oh @LinkedIn, I'd like to write more articles (“Pulse”), but your article authoring tool has this terrible problem:… https://t.co/Ws1NVwaXHs",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ws1NVwaXHs",
+     "expand": "https://twitter.com/i/web/status/969231671982616576"
+    }
+   ]
+  },
+  {
+   "id": 969218317926875100,
+   "id_str": "969218317926875136",
+   "created_at": "Thu Mar 01 14:30:28 +0000 2018",
+   "text": "@codylindley @jslauthor @webflowapp In that context, would you mind taking a look and giving feedback on a relevant… https://t.co/Dy6R2gNPa9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968891088600617000,
+   "in_reply_to_status_id_str": "968891088600616960",
+   "in_reply_to_screen_name": "codylindley",
+   "urls": [
+    {
+     "url": "https://t.co/Dy6R2gNPa9",
+     "expand": "https://twitter.com/i/web/status/969218317926875136"
+    }
+   ]
+  },
+  {
+   "id": 969151775268683800,
+   "id_str": "969151775268683776",
+   "created_at": "Thu Mar 01 10:06:03 +0000 2018",
+   "text": "RT @Jermolene: Software developers are apt to disregard TiddlyWiki, thinking that it’s trivial because it’s not a “real” web application, a…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969118106772824000,
+    "id_str": "969118106772824064",
+    "created_at": "Thu Mar 01 07:52:16 +0000 2018",
+    "text": "Software developers are apt to disregard TiddlyWiki, thinking that it’s trivial because it’s not a “real” web appli… https://t.co/EFTl34z9D4",
+    "retweet_count": 11,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EFTl34z9D4",
+      "expand": "https://twitter.com/i/web/status/969118106772824064"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969011672361783300,
+   "id_str": "969011672361783296",
+   "created_at": "Thu Mar 01 00:49:20 +0000 2018",
+   "text": "RT @ismanramadhan: 👍🤘 #PhantomJS #KDE @AriyaHidayat @diyadi666 @ivan3eb https://t.co/oGu56mkAOy",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966708105986785300,
+    "id_str": "966708105986785281",
+    "created_at": "Thu Feb 22 16:15:47 +0000 2018",
+    "text": "👍🤘 #PhantomJS #KDE @AriyaHidayat @diyadi666 @ivan3eb https://t.co/oGu56mkAOy",
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 968723899709120500,
+   "id_str": "968723899709120513",
+   "created_at": "Wed Feb 28 05:45:50 +0000 2018",
+   "text": "RT @heshan_cheri: https://t.co/SqbQgo2asx is a data agnostic, high-performant web-based tool for visualizing millions of geospatial data po…",
+   "retweet_count": 317,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SqbQgo2asx",
+     "expand": "http://kepler.gl"
+    }
+   ],
+   "retweeted_status": {
+    "id": 964970071243178000,
+    "id_str": "964970071243177984",
+    "created_at": "Sat Feb 17 21:09:27 +0000 2018",
+    "text": "https://t.co/SqbQgo2asx is a data agnostic, high-performant web-based tool for visualizing millions of geospatial d… https://t.co/rXM5ABhfAO",
+    "retweet_count": 317,
+    "favorite_count": 1243,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SqbQgo2asx",
+      "expand": "http://kepler.gl"
+     },
+     {
+      "url": "https://t.co/rXM5ABhfAO",
+      "expand": "https://twitter.com/i/web/status/964970071243177984"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968723243032088600,
+   "id_str": "968723243032088576",
+   "created_at": "Wed Feb 28 05:43:13 +0000 2018",
+   "text": "RT @slicknet: Trying to get back into writing. First new blog post in over a year! https://t.co/nY1uXKiV8e",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nY1uXKiV8e",
+     "expand": "https://twitter.com/nczonline/status/968540848702066688"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968541117766488000,
+    "id_str": "968541117766488064",
+    "created_at": "Tue Feb 27 17:39:31 +0000 2018",
+    "text": "Trying to get back into writing. First new blog post in over a year! https://t.co/nY1uXKiV8e",
+    "retweet_count": 14,
+    "favorite_count": 68,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nY1uXKiV8e",
+      "expand": "https://twitter.com/nczonline/status/968540848702066688"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968721393658613800,
+   "id_str": "968721393658613762",
+   "created_at": "Wed Feb 28 05:35:52 +0000 2018",
+   "text": "For the slide deck of my talk Squeezing Images, check out https://t.co/x85Yupa37l.",
+   "retweet_count": 4,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 968721207284715500,
+   "in_reply_to_status_id_str": "968721207284715523",
+   "in_reply_to_screen_name": "AriyaHidayat",
+   "urls": [
+    {
+     "url": "https://t.co/x85Yupa37l",
+     "expand": "https://speakerdeck.com/ariya/squeezing-images"
+    }
+   ]
+  },
+  {
+   "id": 968721207284715500,
+   "id_str": "968721207284715523",
+   "created_at": "Wed Feb 28 05:35:08 +0000 2018",
+   "text": "Super-fun evening today at @UberEng Destination:Web meetup. Great talks, awesome crowds, fascinating conversations.… https://t.co/L0zNErUmT5",
+   "retweet_count": 4,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/L0zNErUmT5",
+     "expand": "https://twitter.com/i/web/status/968721207284715523"
+    }
+   ]
+  },
+  {
+   "id": 968523330427867100,
+   "id_str": "968523330427867138",
+   "created_at": "Tue Feb 27 16:28:50 +0000 2018",
+   "text": "RT @fmeyer: The best thing about #golang and #rust is that people are rediscovering the computer. You need to understand memory organizatio…",
+   "retweet_count": 191,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968028580310585300,
+    "id_str": "968028580310585344",
+    "created_at": "Mon Feb 26 07:42:53 +0000 2018",
+    "text": "The best thing about #golang and #rust is that people are rediscovering the computer. You need to understand memory… https://t.co/jkrpt78dMW",
+    "retweet_count": 191,
+    "favorite_count": 541,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jkrpt78dMW",
+      "expand": "https://twitter.com/i/web/status/968028580310585344"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968510361149218800,
+   "id_str": "968510361149218817",
+   "created_at": "Tue Feb 27 15:37:18 +0000 2018",
+   "text": "If you'll be at this evening's @UberEng Destination:Web meetup, drop by and say hi! I'll be giving a talk on JPEG a… https://t.co/Tf7yjb4ESf",
+   "retweet_count": 4,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Tf7yjb4ESf",
+     "expand": "https://twitter.com/i/web/status/968510361149218817"
+    }
+   ]
+  },
+  {
+   "id": 968349403282071600,
+   "id_str": "968349403282071553",
+   "created_at": "Tue Feb 27 04:57:43 +0000 2018",
+   "text": "RT @ndalyrose: Are you able to read handwritten Arabic from historical manuscripts? We could use your help! We aim to build a dataset to ad…",
+   "retweet_count": 467,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968144338072080400,
+    "id_str": "968144338072080384",
+    "created_at": "Mon Feb 26 15:22:52 +0000 2018",
+    "text": "Are you able to read handwritten Arabic from historical manuscripts? We could use your help! We aim to build a data… https://t.co/VSD7jOjH52",
+    "retweet_count": 467,
+    "favorite_count": 482,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VSD7jOjH52",
+      "expand": "https://twitter.com/i/web/status/968144338072080384"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968209177003753500,
+   "id_str": "968209177003753472",
+   "created_at": "Mon Feb 26 19:40:30 +0000 2018",
+   "text": "Jakarta EE is the new name of Java EE: https://t.co/xlUXuRq8Ut",
+   "retweet_count": 12,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xlUXuRq8Ut",
+     "expand": "https://twitter.com/mmilinkov/status/968204201011630086"
+    }
+   ]
+  },
+  {
+   "id": 968149038427136000,
+   "id_str": "968149038427136000",
+   "created_at": "Mon Feb 26 15:41:32 +0000 2018",
+   "text": "RT @CodeWisdom: \"Haskell is faster than C++, more concise than Perl, more regular than Python, more flexible than Ruby, more typeful than C…",
+   "retweet_count": 306,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968117708750577700,
+    "id_str": "968117708750577664",
+    "created_at": "Mon Feb 26 13:37:03 +0000 2018",
+    "text": "\"Haskell is faster than C++, more concise than Perl, more regular than Python, more flexible than Ruby, more typefu… https://t.co/XeoxlxIsrd",
+    "retweet_count": 306,
+    "favorite_count": 1025,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XeoxlxIsrd",
+      "expand": "https://twitter.com/i/web/status/968117708750577664"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968148509475070000,
+   "id_str": "968148509475069952",
+   "created_at": "Mon Feb 26 15:39:26 +0000 2018",
+   "text": "RT @arstechnica: Vulkan is coming to macOS and iOS, but no thanks to Apple https://t.co/5uGkHLyQWH by @drpizza",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5uGkHLyQWH",
+     "expand": "http://arstechnica.com/gadgets/2018/02/vulkan-is-coming-to-macos-ios-but-no-thanks-to-apple/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968126264673493000,
+    "id_str": "968126264673492994",
+    "created_at": "Mon Feb 26 14:11:03 +0000 2018",
+    "text": "Vulkan is coming to macOS and iOS, but no thanks to Apple https://t.co/5uGkHLyQWH by @drpizza",
+    "retweet_count": 26,
+    "favorite_count": 51,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/5uGkHLyQWH",
+      "expand": "http://arstechnica.com/gadgets/2018/02/vulkan-is-coming-to-macos-ios-but-no-thanks-to-apple/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968145733978222600,
+   "id_str": "968145733978222592",
+   "created_at": "Mon Feb 26 15:28:24 +0000 2018",
+   "text": "RT @nytimes: \"Black Panther\" crosses $700 million globally and has yet to open in China or Japan https://t.co/9lRiIprTGb",
+   "retweet_count": 2329,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9lRiIprTGb",
+     "expand": "http://nyti.ms/2BPcLYS"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968081997745795100,
+    "id_str": "968081997745795073",
+    "created_at": "Mon Feb 26 11:15:09 +0000 2018",
+    "text": "\"Black Panther\" crosses $700 million globally and has yet to open in China or Japan https://t.co/9lRiIprTGb",
+    "retweet_count": 2329,
+    "favorite_count": 7030,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9lRiIprTGb",
+      "expand": "http://nyti.ms/2BPcLYS"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968145643771379700,
+   "id_str": "968145643771379713",
+   "created_at": "Mon Feb 26 15:28:03 +0000 2018",
+   "text": "RT @BBCWorld: Taiwan toilet paper panic: why is island caught short? https://t.co/PwH68dba5o",
+   "retweet_count": 63,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PwH68dba5o",
+     "expand": "http://bbc.in/2BP2lIK"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968051052275753000,
+    "id_str": "968051052275752960",
+    "created_at": "Mon Feb 26 09:12:11 +0000 2018",
+    "text": "Taiwan toilet paper panic: why is island caught short? https://t.co/PwH68dba5o",
+    "retweet_count": 63,
+    "favorite_count": 112,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PwH68dba5o",
+      "expand": "http://bbc.in/2BP2lIK"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968145090118996000,
+   "id_str": "968145090118995968",
+   "created_at": "Mon Feb 26 15:25:51 +0000 2018",
+   "text": "RT @freekmurze: If your business depends on open source make sure that you either:\n- can swap it out for an alternative\n- can fork and main…",
+   "retweet_count": 117,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967733323878617100,
+    "id_str": "967733323878617088",
+    "created_at": "Sun Feb 25 12:09:38 +0000 2018",
+    "text": "If your business depends on open source make sure that you either:\n- can swap it out for an alternative\n- can fork… https://t.co/pbZkzkDWLA",
+    "retweet_count": 117,
+    "favorite_count": 208,
+    "place": "Antwerpen, België",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/pbZkzkDWLA",
+      "expand": "https://twitter.com/i/web/status/967733323878617088"
+     }
+    ]
+   }
+  },
+  {
+   "id": 980130410154795000,
+   "id_str": "980130410154795008",
+   "created_at": "Sat Mar 31 17:11:14 +0000 2018",
+   "text": "@KoenLex @achandab1 @googlemaps I figure it must be about road access (e.g. certain segment of the freeway) and roa… https://t.co/p5DsAIXnM1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979837962685890600,
+   "in_reply_to_status_id_str": "979837962685890561",
+   "in_reply_to_screen_name": "KoenLex",
+   "urls": [
+    {
+     "url": "https://t.co/p5DsAIXnM1",
+     "expand": "https://twitter.com/i/web/status/980130410154795008"
+    }
+   ]
   }
  ]
 }

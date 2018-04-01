@@ -1,6 +1,1779 @@
 {
- "time": 1519367395290,
+ "time": 1522595131830,
  "lists": [
+  {
+   "id": 979758511860183000,
+   "id_str": "979758511860183040",
+   "created_at": "Fri Mar 30 16:33:26 +0000 2018",
+   "text": "RT @NicholasBoll: I just published “https://t.co/7idBnZipn7 — Making aliases type safe” https://t.co/GSTdYgGa23",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7idBnZipn7",
+     "expand": "http://Cypress.io"
+    },
+    {
+     "url": "https://t.co/GSTdYgGa23",
+     "expand": "https://medium.com/p/cypress-io-making-aliases-type-safe-b6f5db07d580"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979387963636404200,
+    "id_str": "979387963636404225",
+    "created_at": "Thu Mar 29 16:01:01 +0000 2018",
+    "text": "I just published “https://t.co/7idBnZipn7 — Making aliases type safe” https://t.co/GSTdYgGa23",
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7idBnZipn7",
+      "expand": "http://Cypress.io"
+     },
+     {
+      "url": "https://t.co/GSTdYgGa23",
+      "expand": "https://medium.com/p/cypress-io-making-aliases-type-safe-b6f5db07d580"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979758390015602700,
+   "id_str": "979758390015602688",
+   "created_at": "Fri Mar 30 16:32:57 +0000 2018",
+   "text": "RT @bitandbang: ⚡️ Now live with the @nodejs Public User Feedback session, focusing on ecosystem tooling with @kentcdodds, @b0neskull, @bah…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979752588705923100,
+    "id_str": "979752588705923077",
+    "created_at": "Fri Mar 30 16:09:54 +0000 2018",
+    "text": "⚡️ Now live with the @nodejs Public User Feedback session, focusing on ecosystem tooling with @kentcdodds,… https://t.co/u5mnem1gUT",
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/u5mnem1gUT",
+      "expand": "https://twitter.com/i/web/status/979752588705923077"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979714270240927700,
+   "id_str": "979714270240927744",
+   "created_at": "Fri Mar 30 13:37:38 +0000 2018",
+   "text": "RT @PascalPrecht: Yay 🎉\n\nE2E tests at @machinelabs_ai are now implemented using @cypress_io ! 🔥\n\nIf you wanna give Cypress a go, help us ad…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979669297873203200,
+    "id_str": "979669297873203201",
+    "created_at": "Fri Mar 30 10:38:56 +0000 2018",
+    "text": "Yay 🎉\n\nE2E tests at @machinelabs_ai are now implemented using @cypress_io ! 🔥\n\nIf you wanna give Cypress a go, help… https://t.co/ZlE5Box09d",
+    "retweet_count": 6,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ZlE5Box09d",
+      "expand": "https://twitter.com/i/web/status/979669297873203201"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979371375264698400,
+   "id_str": "979371375264698370",
+   "created_at": "Thu Mar 29 14:55:06 +0000 2018",
+   "text": "RT @mbrochh: Six hours of work with https://t.co/LEn9AkcxJj - the entire shopping flow from anonymous user to purchsed product - I was even…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LEn9AkcxJj",
+     "expand": "http://Cypress.io"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979300552587714600,
+    "id_str": "979300552587714561",
+    "created_at": "Thu Mar 29 10:13:40 +0000 2018",
+    "text": "Six hours of work with https://t.co/LEn9AkcxJj - the entire shopping flow from anonymous user to purchsed product -… https://t.co/7GAPO4HUCZ",
+    "retweet_count": 17,
+    "favorite_count": 105,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/LEn9AkcxJj",
+      "expand": "http://Cypress.io"
+     },
+     {
+      "url": "https://t.co/7GAPO4HUCZ",
+      "expand": "https://twitter.com/i/web/status/979300552587714561"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978682992976592900,
+   "id_str": "978682992976592896",
+   "created_at": "Tue Mar 27 17:19:43 +0000 2018",
+   "text": "RT @sac_js: Join us tonight, 7pm @TheUrbanHive Cannery, to learn more about @Cypress_io testing with @decafdennis and an intro Continuous D…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978666707404378100,
+    "id_str": "978666707404378114",
+    "created_at": "Tue Mar 27 16:15:00 +0000 2018",
+    "text": "Join us tonight, 7pm @TheUrbanHive Cannery, to learn more about @Cypress_io testing with @decafdennis and an intro… https://t.co/CJ5S6t4bBN",
+    "retweet_count": 4,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CJ5S6t4bBN",
+      "expand": "https://twitter.com/i/web/status/978666707404378114"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978632041876086800,
+   "id_str": "978632041876086784",
+   "created_at": "Tue Mar 27 13:57:15 +0000 2018",
+   "text": "Screencasts from our users are now featured in our docs and embedded for easier viewing. 📽️🍿 https://t.co/ihl5ym0RHj",
+   "retweet_count": 4,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ihl5ym0RHj",
+     "expand": "https://on.cypress.io/screencasts-media"
+    }
+   ]
+  },
+  {
+   "id": 978613037929304000,
+   "id_str": "978613037929304064",
+   "created_at": "Tue Mar 27 12:41:44 +0000 2018",
+   "text": "RT @vdsabev: Just finished adding E2E tests to my personal website with @Cypress_io and it already helped me identify &amp; fix a race conditio…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977309159816335400,
+    "id_str": "977309159816335360",
+    "created_at": "Fri Mar 23 22:20:35 +0000 2018",
+    "text": "Just finished adding E2E tests to my personal website with @Cypress_io and it already helped me identify &amp; fix a ra… https://t.co/7XBY76Z1fT",
+    "retweet_count": 1,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7XBY76Z1fT",
+      "expand": "https://twitter.com/i/web/status/977309159816335360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978611625484841000,
+   "id_str": "978611625484840960",
+   "created_at": "Tue Mar 27 12:36:07 +0000 2018",
+   "text": "RT @rauchg: Write tests. Not too many. Mostly integration.",
+   "retweet_count": 195,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 807626710350839800,
+    "id_str": "807626710350839808",
+    "created_at": "Sat Dec 10 16:43:07 +0000 2016",
+    "text": "Write tests. Not too many. Mostly integration.",
+    "retweet_count": 195,
+    "favorite_count": 529,
+    "place": "San Francisco, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 978363369336995800,
+   "id_str": "978363369336995841",
+   "created_at": "Mon Mar 26 20:09:39 +0000 2018",
+   "text": "@euangoddard @jeffwhelpley Link is case sensitive. 🙈 Non broken link https://t.co/O8qjdnFbBX",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978340778891194400,
+   "in_reply_to_status_id_str": "978340778891194368",
+   "in_reply_to_screen_name": "euangoddard",
+   "urls": [
+    {
+     "url": "https://t.co/O8qjdnFbBX",
+     "expand": "https://www.cypress.io/blog/2018/03/20/Angular-Cypress-Love/"
+    }
+   ]
+  },
+  {
+   "id": 978287338253176800,
+   "id_str": "978287338253176835",
+   "created_at": "Mon Mar 26 15:07:31 +0000 2018",
+   "text": "RT @bahmutov: If you are in Scotland in April and want to learn how to do painless end to end testing using @Cypress_io - stop by this meet…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978270680562184200,
+    "id_str": "978270680562184194",
+    "created_at": "Mon Mar 26 14:01:20 +0000 2018",
+    "text": "If you are in Scotland in April and want to learn how to do painless end to end testing using @Cypress_io - stop by… https://t.co/a3Z4ezxJ15",
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/a3Z4ezxJ15",
+      "expand": "https://twitter.com/i/web/status/978270680562184194"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977448497082486800,
+   "id_str": "977448497082486784",
+   "created_at": "Sat Mar 24 07:34:16 +0000 2018",
+   "text": "@lgraziani2712 @MartinPeverelli @egulias Muy interesante, gracias por contarnos!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977397032427118600,
+   "in_reply_to_status_id_str": "977397032427118592",
+   "in_reply_to_screen_name": "lgraziani2712",
+   "urls": []
+  },
+  {
+   "id": 977377789551759400,
+   "id_str": "977377789551759360",
+   "created_at": "Sat Mar 24 02:53:18 +0000 2018",
+   "text": "@MartinPeverelli @egulias ¿A qué te refiere con piña?...¿Nos explicas un poco más?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977328909267083300,
+   "in_reply_to_status_id_str": "977328909267083264",
+   "in_reply_to_screen_name": "MartinPeverelli",
+   "urls": []
+  },
+  {
+   "id": 977296263430443000,
+   "id_str": "977296263430443008",
+   "created_at": "Fri Mar 23 21:29:21 +0000 2018",
+   "text": "RT @MartinPeverelli: Release to production ona Friday afternoon? Why not? @Cypress_io says it’s ok.",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977294357412876300,
+    "id_str": "977294357412876288",
+    "created_at": "Fri Mar 23 21:21:46 +0000 2018",
+    "text": "Release to production ona Friday afternoon? Why not? @Cypress_io says it’s ok.",
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 977230227037413400,
+   "id_str": "977230227037413376",
+   "created_at": "Fri Mar 23 17:06:56 +0000 2018",
+   "text": "RT @amirrustam: 🗓 I'll be giving a talk on testing @vuejs applications with @Cypress_io at the Headquarters (@_theHQ) in #DTLA on Thursday,…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977224601234161700,
+    "id_str": "977224601234161665",
+    "created_at": "Fri Mar 23 16:44:35 +0000 2018",
+    "text": "🗓 I'll be giving a talk on testing @vuejs applications with @Cypress_io at the Headquarters (@_theHQ) in #DTLA on T… https://t.co/UUMjK7AtIf",
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/UUMjK7AtIf",
+      "expand": "https://twitter.com/i/web/status/977224601234161665"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977159920964571100,
+   "id_str": "977159920964571138",
+   "created_at": "Fri Mar 23 12:27:34 +0000 2018",
+   "text": "RT @jennifershehane: The most comprehensive guide I've ever read on testing. I'd recommend @Cypress_io for e2e obv, but grab a ☕️, take a b…",
+   "retweet_count": 94,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977159768681967600,
+    "id_str": "977159768681967616",
+    "created_at": "Fri Mar 23 12:26:58 +0000 2018",
+    "text": "The most comprehensive guide I've ever read on testing. I'd recommend @Cypress_io for e2e obv, but grab a ☕️, take… https://t.co/kZcC6bR7WP",
+    "retweet_count": 94,
+    "favorite_count": 226,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/kZcC6bR7WP",
+      "expand": "https://twitter.com/i/web/status/977159768681967616"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976927871276142600,
+   "id_str": "976927871276142592",
+   "created_at": "Thu Mar 22 21:05:29 +0000 2018",
+   "text": "Cypress ships with official type declarations for TypeScript. https://t.co/cdXHqEqccl https://t.co/KA49Tygfnl",
+   "retweet_count": 7,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cdXHqEqccl",
+     "expand": "https://on.cypress.io/typescript-support"
+    }
+   ]
+  },
+  {
+   "id": 976836050847961100,
+   "id_str": "976836050847961094",
+   "created_at": "Thu Mar 22 15:00:37 +0000 2018",
+   "text": "How to use the Log API to clean up Cypress custom commands. @NicholasBoll https://t.co/KcV8qpL1vk",
+   "retweet_count": 1,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KcV8qpL1vk",
+     "expand": "https://medium.com/@NicholasBoll/cypress-io-use-the-log-api-with-custom-commands-b4bffca0d4c5"
+    }
+   ]
+  },
+  {
+   "id": 976457618398072800,
+   "id_str": "976457618398072832",
+   "created_at": "Wed Mar 21 13:56:52 +0000 2018",
+   "text": "RT @zacd_nlon: anyone using and rating https://t.co/aFWWHpmkKd ? #cypress",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/aFWWHpmkKd",
+     "expand": "https://www.cypress.io/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976434824058720300,
+    "id_str": "976434824058720256",
+    "created_at": "Wed Mar 21 12:26:17 +0000 2018",
+    "text": "anyone using and rating https://t.co/aFWWHpmkKd ? #cypress",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aFWWHpmkKd",
+      "expand": "https://www.cypress.io/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976416952834027500,
+   "id_str": "976416952834027520",
+   "created_at": "Wed Mar 21 11:15:17 +0000 2018",
+   "text": "RT @wonderboymusic: tfw your online crush is your favorite integration testing framework, thank you @Cypress_io - we are loving using it in…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976271924581093400,
+    "id_str": "976271924581093383",
+    "created_at": "Wed Mar 21 01:38:59 +0000 2018",
+    "text": "tfw your online crush is your favorite integration testing framework, thank you @Cypress_io - we are loving using i… https://t.co/v9nG62qnvs",
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/v9nG62qnvs",
+      "expand": "https://twitter.com/i/web/status/976271924581093383"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976221866552676400,
+   "id_str": "976221866552676353",
+   "created_at": "Tue Mar 20 22:20:04 +0000 2018",
+   "text": "RT @NicholasBoll: I just published “https://t.co/7idBnZipn7 — Use the Log API with custom commands” https://t.co/itSaSs1Bbl",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7idBnZipn7",
+     "expand": "http://Cypress.io"
+    },
+    {
+     "url": "https://t.co/itSaSs1Bbl",
+     "expand": "https://medium.com/p/cypress-io-use-the-log-api-with-custom-commands-b4bffca0d4c5"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975371498776121300,
+    "id_str": "975371498776121344",
+    "created_at": "Sun Mar 18 14:01:01 +0000 2018",
+    "text": "I just published “https://t.co/7idBnZipn7 — Use the Log API with custom commands” https://t.co/itSaSs1Bbl",
+    "retweet_count": 5,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7idBnZipn7",
+      "expand": "http://Cypress.io"
+     },
+     {
+      "url": "https://t.co/itSaSs1Bbl",
+      "expand": "https://medium.com/p/cypress-io-use-the-log-api-with-custom-commands-b4bffca0d4c5"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976161153377296400,
+   "id_str": "976161153377296384",
+   "created_at": "Tue Mar 20 18:18:49 +0000 2018",
+   "text": "\"I am fairly confident that if you give Cypress a chance, it won’t be long before you join me in the ranks of Protr… https://t.co/8hXoIaukM1",
+   "retweet_count": 17,
+   "favorite_count": 51,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8hXoIaukM1",
+     "expand": "https://twitter.com/i/web/status/976161153377296384"
+    }
+   ]
+  },
+  {
+   "id": 976083656556056600,
+   "id_str": "976083656556056576",
+   "created_at": "Tue Mar 20 13:10:53 +0000 2018",
+   "text": "RT @bahmutov: Boston: join me April 3rd at React meetup to learn end to end testing https://t.co/bo0RelEZPV",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bo0RelEZPV",
+     "expand": "https://www.meetup.com/ReactJS-Boston/events/248512859/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976077762896318500,
+    "id_str": "976077762896318465",
+    "created_at": "Tue Mar 20 12:47:27 +0000 2018",
+    "text": "Boston: join me April 3rd at React meetup to learn end to end testing https://t.co/bo0RelEZPV",
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bo0RelEZPV",
+      "expand": "https://www.meetup.com/ReactJS-Boston/events/248512859/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975855914141077500,
+   "id_str": "975855914141077505",
+   "created_at": "Mon Mar 19 22:05:55 +0000 2018",
+   "text": "RT @amirrustam: I've joined the @Cypress_io team to build the absolute best testing experience for the web. I admire the team and their acc…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975852498819825700,
+    "id_str": "975852498819825664",
+    "created_at": "Mon Mar 19 21:52:20 +0000 2018",
+    "text": "I've joined the @Cypress_io team to build the absolute best testing experience for the web. I admire the team and t… https://t.co/18DVPp2B7p",
+    "retweet_count": 1,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/18DVPp2B7p",
+      "expand": "https://twitter.com/i/web/status/975852498819825664"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975814834901184500,
+   "id_str": "975814834901184512",
+   "created_at": "Mon Mar 19 19:22:41 +0000 2018",
+   "text": "We're happy to welcome our newest member to Cypress: Senior Engineer @amirrustam. Welcome to the team, Amir!… https://t.co/esKBJOF1cL",
+   "retweet_count": 2,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/esKBJOF1cL",
+     "expand": "https://twitter.com/i/web/status/975814834901184512"
+    }
+   ]
+  },
+  {
+   "id": 975723452979142700,
+   "id_str": "975723452979142656",
+   "created_at": "Mon Mar 19 13:19:33 +0000 2018",
+   "text": "RT @jcolantonio: Latest @TestTalks w\\@kentcdodds on #javascript #testing with @fbjest &amp; @Cypress_io https://t.co/8VJaEv2xop https://t.co/LK…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8VJaEv2xop",
+     "expand": "http://testtalks.com/195"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975511143920930800,
+    "id_str": "975511143920930817",
+    "created_at": "Sun Mar 18 23:15:55 +0000 2018",
+    "text": "Latest @TestTalks w\\@kentcdodds on #javascript #testing with @fbjest &amp; @Cypress_io https://t.co/8VJaEv2xop https://t.co/LKwvhgpq3j",
+    "retweet_count": 6,
+    "favorite_count": 29,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8VJaEv2xop",
+      "expand": "http://testtalks.com/195"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975365312299307000,
+   "id_str": "975365312299307010",
+   "created_at": "Sun Mar 18 13:36:26 +0000 2018",
+   "text": "RT @jcolantonio: #Javascript #Testing using @fbjest &amp; @Cypress_io w\\@kentcdodds new @testtalks https://t.co/8VJaEv2xop https://t.co/VmmuF5u…",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/8VJaEv2xop",
+     "expand": "http://testtalks.com/195"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975355756055801900,
+    "id_str": "975355756055801857",
+    "created_at": "Sun Mar 18 12:58:28 +0000 2018",
+    "text": "#Javascript #Testing using @fbjest &amp; @Cypress_io w\\@kentcdodds new @testtalks https://t.co/8VJaEv2xop https://t.co/VmmuF5uC76",
+    "retweet_count": 25,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8VJaEv2xop",
+      "expand": "http://testtalks.com/195"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974751714841636900,
+   "id_str": "974751714841636864",
+   "created_at": "Fri Mar 16 20:58:13 +0000 2018",
+   "text": "RT @BenLesh: Developers: Name all the types of testing you can think of... Go! I want to see how crazy this list is.\n\nUnit Testing\nFunction…",
+   "retweet_count": 39,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974680399283593200,
+    "id_str": "974680399283593216",
+    "created_at": "Fri Mar 16 16:14:50 +0000 2018",
+    "text": "Developers: Name all the types of testing you can think of... Go! I want to see how crazy this list is.\n\nUnit Testi… https://t.co/QeMS4bYBsW",
+    "retweet_count": 39,
+    "favorite_count": 136,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QeMS4bYBsW",
+      "expand": "https://twitter.com/i/web/status/974680399283593216"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974729311797293000,
+   "id_str": "974729311797293056",
+   "created_at": "Fri Mar 16 19:29:12 +0000 2018",
+   "text": "RT @soltran: Establishing e2e testing flow for our team. @Cypress_io looks awesome. Was quickly able to add some tests. Any tips on CI inte…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974717615024234500,
+    "id_str": "974717615024234496",
+    "created_at": "Fri Mar 16 18:42:43 +0000 2018",
+    "text": "Establishing e2e testing flow for our team. @Cypress_io looks awesome. Was quickly able to add some tests. Any tips… https://t.co/QwSgymUHrV",
+    "retweet_count": 1,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QwSgymUHrV",
+      "expand": "https://twitter.com/i/web/status/974717615024234496"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974271936078516200,
+   "id_str": "974271936078516224",
+   "created_at": "Thu Mar 15 13:11:45 +0000 2018",
+   "text": "RT @WeAreDevs: We are happy to announce @bahmutov as one of the speakers at @WeAreDevs World Congress 2018! 🎉 He's the VP of #Engineering a…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974174631996330000,
+    "id_str": "974174631996329984",
+    "created_at": "Thu Mar 15 06:45:06 +0000 2018",
+    "text": "We are happy to announce @bahmutov as one of the speakers at @WeAreDevs World Congress 2018! 🎉 He's the VP of… https://t.co/JC5R4vKLJM",
+    "retweet_count": 3,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JC5R4vKLJM",
+      "expand": "https://twitter.com/i/web/status/974174631996329984"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974267882304622600,
+   "id_str": "974267882304622592",
+   "created_at": "Thu Mar 15 12:55:38 +0000 2018",
+   "text": "RT @thomasfuchs: When you refactor and the tests pass on the first try https://t.co/93Pmzm96QR",
+   "retweet_count": 849,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973668925090205700,
+    "id_str": "973668925090205696",
+    "created_at": "Tue Mar 13 21:15:36 +0000 2018",
+    "text": "When you refactor and the tests pass on the first try https://t.co/93Pmzm96QR",
+    "retweet_count": 849,
+    "favorite_count": 2144,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 973593276522655700,
+   "id_str": "973593276522655752",
+   "created_at": "Tue Mar 13 16:15:00 +0000 2018",
+   "text": "RT @manifoldco: How to write tests and maintain your sanity by @enmand\n\nRead: https://t.co/gYK1K7fYOB\n\n@Cypress_io #testing https://t.co/D4…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gYK1K7fYOB",
+     "expand": "http://bit.ly/2G7Ekwt"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973592551918891000,
+    "id_str": "973592551918891008",
+    "created_at": "Tue Mar 13 16:12:07 +0000 2018",
+    "text": "How to write tests and maintain your sanity by @enmand\n\nRead: https://t.co/gYK1K7fYOB\n\n@Cypress_io #testing https://t.co/D42dV2rNyM",
+    "retweet_count": 6,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gYK1K7fYOB",
+      "expand": "http://bit.ly/2G7Ekwt"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972468231381438500,
+   "id_str": "972468231381438465",
+   "created_at": "Sat Mar 10 13:44:28 +0000 2018",
+   "text": "RT @audyodi_: Watching @kentcdodds \"Testing JavaScript Applications\" workshop to fill my weekend because I just realized that I've been doi…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972388319936921600,
+    "id_str": "972388319936921600",
+    "created_at": "Sat Mar 10 08:26:56 +0000 2018",
+    "text": "Watching @kentcdodds \"Testing JavaScript Applications\" workshop to fill my weekend because I just realized that I'v… https://t.co/04EpJWxaHN",
+    "retweet_count": 5,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/04EpJWxaHN",
+      "expand": "https://twitter.com/i/web/status/972388319936921600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972183480107925500,
+   "id_str": "972183480107925505",
+   "created_at": "Fri Mar 09 18:52:58 +0000 2018",
+   "text": "Cypress Best Practice: Set a 'baseUrl' in your configuration. Why? \n1. visit &amp; request commands use baseUrl\n2. fast… https://t.co/wJdmsrIITI",
+   "retweet_count": 8,
+   "favorite_count": 42,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wJdmsrIITI",
+     "expand": "https://twitter.com/i/web/status/972183480107925505"
+    }
+   ]
+  },
+  {
+   "id": 971806639538999300,
+   "id_str": "971806639538999296",
+   "created_at": "Thu Mar 08 17:55:32 +0000 2018",
+   "text": "@carly_joh We know 🙈 We're working on cross browser support. https://t.co/w3QInLmixs",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Atlanta, GA",
+   "in_reply_to_status_id": 971797361080053800,
+   "in_reply_to_status_id_str": "971797361080053761",
+   "in_reply_to_screen_name": "carly_joh",
+   "urls": [
+    {
+     "url": "https://t.co/w3QInLmixs",
+     "expand": "https://github.com/cypress-io/cypress/issues/310"
+    }
+   ]
+  },
+  {
+   "id": 971785307225034800,
+   "id_str": "971785307225034757",
+   "created_at": "Thu Mar 08 16:30:46 +0000 2018",
+   "text": "Our Cypress team keeps growing! 🌱 Welcome our new developer intern, @vj_thoma - she's hit the ground running at our… https://t.co/VkbbXk9MNO",
+   "retweet_count": 0,
+   "favorite_count": 13,
+   "place": "Atlanta, GA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VkbbXk9MNO",
+     "expand": "https://twitter.com/i/web/status/971785307225034757"
+    }
+   ]
+  },
+  {
+   "id": 971777027677319200,
+   "id_str": "971777027677319168",
+   "created_at": "Thu Mar 08 15:57:52 +0000 2018",
+   "text": "RT @bahmutov: Hey React users of Boston, I will show how to setup painless E2E testing for any projects using @Cypress_io and how to even d…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971763141435711500,
+    "id_str": "971763141435711488",
+    "created_at": "Thu Mar 08 15:02:42 +0000 2018",
+    "text": "Hey React users of Boston, I will show how to setup painless E2E testing for any projects using @Cypress_io and how… https://t.co/EzsRVZjvx1",
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/EzsRVZjvx1",
+      "expand": "https://twitter.com/i/web/status/971763141435711488"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971407698016325600,
+   "id_str": "971407698016325634",
+   "created_at": "Wed Mar 07 15:30:17 +0000 2018",
+   "text": "RT @bahmutov: If you are using @Cypress_io Docker image \"cypress/base:8\" - we have upgraded it yesterday to Node 8.9.4 with NPM 5.7.1 so yo…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971386975700779000,
+    "id_str": "971386975700779009",
+    "created_at": "Wed Mar 07 14:07:57 +0000 2018",
+    "text": "If you are using @Cypress_io Docker image \"cypress/base:8\" - we have upgraded it yesterday to Node 8.9.4 with NPM 5… https://t.co/B7aOmYx1WR",
+    "retweet_count": 5,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/B7aOmYx1WR",
+      "expand": "https://twitter.com/i/web/status/971386975700779009"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971033286830166000,
+   "id_str": "971033286830166020",
+   "created_at": "Tue Mar 06 14:42:31 +0000 2018",
+   "text": "Comparing @vuejs Component Testing Tools - @CodingItWrong https://t.co/J8I53s5BTi",
+   "retweet_count": 2,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/J8I53s5BTi",
+     "expand": "http://codingitwrong.com/2018/03/04/comparing-vue-component-testing-tools.html"
+    }
+   ]
+  },
+  {
+   "id": 970822847500341200,
+   "id_str": "970822847500341248",
+   "created_at": "Tue Mar 06 00:46:18 +0000 2018",
+   "text": "RT @bahmutov: If you are in Montréal for @confooca and want to talk E2E testing with @Cypress_io - ping me , I’m at the hotel B and always…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970778570955083800,
+    "id_str": "970778570955083776",
+    "created_at": "Mon Mar 05 21:50:22 +0000 2018",
+    "text": "If you are in Montréal for @confooca and want to talk E2E testing with @Cypress_io - ping me , I’m at the hotel B a… https://t.co/MYBjPcVX9D",
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MYBjPcVX9D",
+      "expand": "https://twitter.com/i/web/status/970778570955083776"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970822683394019300,
+   "id_str": "970822683394019328",
+   "created_at": "Tue Mar 06 00:45:39 +0000 2018",
+   "text": "@stuartdotnet Are you using Windows? We've seen issues with file watching of spec files in that OS. https://t.co/UWRzqjwlja",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970775128727478300,
+   "in_reply_to_status_id_str": "970775128727478272",
+   "in_reply_to_screen_name": "stuartdotnet",
+   "urls": [
+    {
+     "url": "https://t.co/UWRzqjwlja",
+     "expand": "https://github.com/cypress-io/cypress/issues/712"
+    }
+   ]
+  },
+  {
+   "id": 970725326522343400,
+   "id_str": "970725326522343424",
+   "created_at": "Mon Mar 05 18:18:47 +0000 2018",
+   "text": "Moving Around the Testing Pyramid 📽️ video of talk given by @bahmutov at @assertjs https://t.co/ME99Q1QHTF",
+   "retweet_count": 3,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ME99Q1QHTF",
+     "expand": "https://www.youtube.com/watch?v=5FnalKRjpZk&t=0s&index=5&list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw"
+    }
+   ]
+  },
+  {
+   "id": 970724987073114100,
+   "id_str": "970724987073114115",
+   "created_at": "Mon Mar 05 18:17:26 +0000 2018",
+   "text": "Cypress Best Practices 📽️ video of talk given by @be_mann at @assertjs https://t.co/Lz8ReS41Ne",
+   "retweet_count": 7,
+   "favorite_count": 44,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Lz8ReS41Ne",
+     "expand": "https://www.youtube.com/watch?v=5XQOK0v_YRE&t=0s&index=4&list=PLZ66c9_z3umNSrKSb5cmpxdXZcIPNvKGw"
+    }
+   ]
+  },
+  {
+   "id": 970692751728750600,
+   "id_str": "970692751728750592",
+   "created_at": "Mon Mar 05 16:09:21 +0000 2018",
+   "text": "Meet our new developer intern, @bckucera. In fact, you may have already met him in GitHub, @StackOverflow, or our G… https://t.co/RC4SPMg46p",
+   "retweet_count": 3,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RC4SPMg46p",
+     "expand": "https://twitter.com/i/web/status/970692751728750592"
+    }
+   ]
+  },
+  {
+   "id": 970635546598035500,
+   "id_str": "970635546598035456",
+   "created_at": "Mon Mar 05 12:22:02 +0000 2018",
+   "text": "RT @stefanjudis: On the weekend I published my monthly digest... It includes four learnings in #webdev, github workflow improvements and an…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970590239063453700,
+    "id_str": "970590239063453696",
+    "created_at": "Mon Mar 05 09:22:00 +0000 2018",
+    "text": "On the weekend I published my monthly digest... It includes four learnings in #webdev, github workflow improvements… https://t.co/fRAHaR0Fhy",
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fRAHaR0Fhy",
+      "expand": "https://twitter.com/i/web/status/970590239063453696"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969985553490956300,
+   "id_str": "969985553490956288",
+   "created_at": "Sat Mar 03 17:19:12 +0000 2018",
+   "text": "RT @BrianSchroer: Watching @willslab's @jsconfis \"End to End Testing: The Game Has Changed\" talk. As a fellow Selenium survivor, I think @C…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969960846943313900,
+    "id_str": "969960846943313920",
+    "created_at": "Sat Mar 03 15:41:01 +0000 2018",
+    "text": "Watching @willslab's @jsconfis \"End to End Testing: The Game Has Changed\" talk. As a fellow Selenium survivor, I th… https://t.co/yNjHJOrXFZ",
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yNjHJOrXFZ",
+      "expand": "https://twitter.com/i/web/status/969960846943313920"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969694820980715500,
+   "id_str": "969694820980715520",
+   "created_at": "Fri Mar 02 22:03:56 +0000 2018",
+   "text": "RT @nodejs: #Nodejs #app showcase 🔦: @cypress_io\n\nUsing fullstack #JavaScript, https://t.co/1g5BzgIOqY makes testing faster, easier &amp; more…",
+   "retweet_count": 64,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1g5BzgIOqY",
+     "expand": "http://Cypress.io"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969692831337074700,
+    "id_str": "969692831337074690",
+    "created_at": "Fri Mar 02 21:56:01 +0000 2018",
+    "text": "#Nodejs #app showcase 🔦: @cypress_io\n\nUsing fullstack #JavaScript, https://t.co/1g5BzgIOqY makes testing faster, ea… https://t.co/ufrDPDlDtT",
+    "retweet_count": 64,
+    "favorite_count": 109,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1g5BzgIOqY",
+      "expand": "http://Cypress.io"
+     },
+     {
+      "url": "https://t.co/ufrDPDlDtT",
+      "expand": "https://twitter.com/i/web/status/969692831337074690"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969613001975390200,
+   "id_str": "969613001975390208",
+   "created_at": "Fri Mar 02 16:38:48 +0000 2018",
+   "text": "RT @ReactiveConf: ReactiveConf 2016 - Testing the way it should be by @be_mann 💚\n\nhttps://t.co/VW2RLQy2Rk https://t.co/Woe5BJkpcP",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VW2RLQy2Rk",
+     "expand": "https://buff.ly/2Gzp8Y7"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969607527594905600,
+    "id_str": "969607527594905605",
+    "created_at": "Fri Mar 02 16:17:03 +0000 2018",
+    "text": "ReactiveConf 2016 - Testing the way it should be by @be_mann 💚\n\nhttps://t.co/VW2RLQy2Rk https://t.co/Woe5BJkpcP",
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VW2RLQy2Rk",
+      "expand": "https://buff.ly/2Gzp8Y7"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969597991454683100,
+   "id_str": "969597991454683137",
+   "created_at": "Fri Mar 02 15:39:10 +0000 2018",
+   "text": "RT @bretthellman: Do I know anyone that uses Cypress for Frontend testing? 🤔🧐👩‍💻",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969447401848152000,
+    "id_str": "969447401848152064",
+    "created_at": "Fri Mar 02 05:40:46 +0000 2018",
+    "text": "Do I know anyone that uses Cypress for Frontend testing? 🤔🧐👩‍💻",
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969373278526730200,
+   "id_str": "969373278526730241",
+   "created_at": "Fri Mar 02 00:46:14 +0000 2018",
+   "text": "RT @amirrustam: Tonight is the inaugural meetup of the Testable LA group, and I'm looking forward to presenting @Cypress_io. If you're inte…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969363735763599400,
+    "id_str": "969363735763599360",
+    "created_at": "Fri Mar 02 00:08:19 +0000 2018",
+    "text": "Tonight is the inaugural meetup of the Testable LA group, and I'm looking forward to presenting @Cypress_io. If you… https://t.co/RDei8OyBdf",
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RDei8OyBdf",
+      "expand": "https://twitter.com/i/web/status/969363735763599360"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969220347252920300,
+   "id_str": "969220347252920320",
+   "created_at": "Thu Mar 01 14:38:32 +0000 2018",
+   "text": "2.1.0 release today: The Selector Playground was updated to prefer data attributes &amp; now exposes a public API to co… https://t.co/wZRBcd2pf7",
+   "retweet_count": 6,
+   "favorite_count": 31,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wZRBcd2pf7",
+     "expand": "https://twitter.com/i/web/status/969220347252920320"
+    }
+   ]
+  },
+  {
+   "id": 968976982246592500,
+   "id_str": "968976982246592512",
+   "created_at": "Wed Feb 28 22:31:29 +0000 2018",
+   "text": "RT @amirrustam: I will be giving a talk about end-to-end testing with @Cypress_io tomorrow at the @carbonfive offices in Santa Monica. Look…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968914449363959800,
+    "id_str": "968914449363959808",
+    "created_at": "Wed Feb 28 18:23:00 +0000 2018",
+    "text": "I will be giving a talk about end-to-end testing with @Cypress_io tomorrow at the @carbonfive offices in Santa Moni… https://t.co/RPRGhKYPX8",
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RPRGhKYPX8",
+      "expand": "https://twitter.com/i/web/status/968914449363959808"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968976885345673200,
+   "id_str": "968976885345673216",
+   "created_at": "Wed Feb 28 22:31:06 +0000 2018",
+   "text": "RT @bahmutov: Testing Vue.js with @Cypress_io meetup is happening tonight in Boston! Also, chances are high there will be pizza.",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968961549883920400,
+    "id_str": "968961549883920384",
+    "created_at": "Wed Feb 28 21:30:10 +0000 2018",
+    "text": "Testing Vue.js with @Cypress_io meetup is happening tonight in Boston! Also, chances are high there will be pizza.",
+    "retweet_count": 2,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 968525771403923500,
+   "id_str": "968525771403923457",
+   "created_at": "Tue Feb 27 16:38:32 +0000 2018",
+   "text": "Slides from last weeks @assertjs talk from @be_mann about Cypress best practices are up: https://t.co/wcIgwBed6V",
+   "retweet_count": 8,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wcIgwBed6V",
+     "expand": "https://speakerdeck.com/brianmann/cypress-best-practices"
+    }
+   ]
+  },
+  {
+   "id": 968521661254221800,
+   "id_str": "968521661254221825",
+   "created_at": "Tue Feb 27 16:22:12 +0000 2018",
+   "text": "@montylounge @bahmutov @assertjs @be_mann Here are the slides: https://t.co/wcIgwAWBIl",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 967071392154968000,
+   "in_reply_to_status_id_str": "967071392154968065",
+   "in_reply_to_screen_name": "montylounge",
+   "urls": [
+    {
+     "url": "https://t.co/wcIgwAWBIl",
+     "expand": "https://speakerdeck.com/brianmann/cypress-best-practices"
+    }
+   ]
+  },
+  {
+   "id": 968511382328049700,
+   "id_str": "968511382328049664",
+   "created_at": "Tue Feb 27 15:41:22 +0000 2018",
+   "text": "RT @JanBleha: At @kiwicom247 we are organizing an intensive educational #javascript weekend course lead by our top devs @KubajzHK, @Fallion…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968510317612404700,
+    "id_str": "968510317612404739",
+    "created_at": "Tue Feb 27 15:37:08 +0000 2018",
+    "text": "At @kiwicom247 we are organizing an intensive educational #javascript weekend course lead by our top devs @KubajzHK… https://t.co/w4CtxXJC7X",
+    "retweet_count": 8,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/w4CtxXJC7X",
+      "expand": "https://twitter.com/i/web/status/968510317612404739"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968510811416252400,
+   "id_str": "968510811416252418",
+   "created_at": "Tue Feb 27 15:39:06 +0000 2018",
+   "text": "Set your clocks ⏰ @WillsLab will be speaking at @jsconfis this Thursday on end-to-end testing w/ Cypress. There wil… https://t.co/BYMKu7k23L",
+   "retweet_count": 3,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BYMKu7k23L",
+     "expand": "https://twitter.com/i/web/status/968510811416252418"
+    }
+   ]
+  },
+  {
+   "id": 968470198268424200,
+   "id_str": "968470198268424192",
+   "created_at": "Tue Feb 27 12:57:43 +0000 2018",
+   "text": "RT @jennifershehane: @jllord @jamiebuilds We're hiring at Cypress. \n✅ All JS / Node.js stack\n✅ Open Source\n✅ App built in Electron\n✅ Remote…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968347800634306600,
+    "id_str": "968347800634306561",
+    "created_at": "Tue Feb 27 04:51:21 +0000 2018",
+    "text": "@jllord @jamiebuilds We're hiring at Cypress. \n✅ All JS / Node.js stack\n✅ Open Source\n✅ App built in Electron\n✅ Rem… https://t.co/JJG2JkchdA",
+    "retweet_count": 5,
+    "favorite_count": 25,
+    "place": null,
+    "in_reply_to_status_id": 968255677599764500,
+    "in_reply_to_status_id_str": "968255677599764480",
+    "in_reply_to_screen_name": "jllord",
+    "urls": [
+     {
+      "url": "https://t.co/JJG2JkchdA",
+      "expand": "https://twitter.com/i/web/status/968347800634306561"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968144569102716900,
+   "id_str": "968144569102716928",
+   "created_at": "Mon Feb 26 15:23:47 +0000 2018",
+   "text": "RT @Drawman101: Check out my review of #AssertJS! (Spoiler alert, I thought it was great) 🔥🔥🔥 https://t.co/z0W4C092ac @assertjs",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/z0W4C092ac",
+     "expand": "https://medium.com/@michaelsholty/assertjs-2018-passed-the-test-f456bc20161?source=linkShare-f365f9c1608c-1519528678"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967599619227209700,
+    "id_str": "967599619227209728",
+    "created_at": "Sun Feb 25 03:18:21 +0000 2018",
+    "text": "Check out my review of #AssertJS! (Spoiler alert, I thought it was great) 🔥🔥🔥 https://t.co/z0W4C092ac @assertjs",
+    "retweet_count": 12,
+    "favorite_count": 26,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/z0W4C092ac",
+      "expand": "https://medium.com/@michaelsholty/assertjs-2018-passed-the-test-f456bc20161?source=linkShare-f365f9c1608c-1519528678"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968143760730263600,
+   "id_str": "968143760730263552",
+   "created_at": "Mon Feb 26 15:20:34 +0000 2018",
+   "text": "RT @bahmutov: There are two chances to see @Cypress_io in action this week:\n- in Boston at Vue.js meetup https://t.co/weudly8h5C\n- in Icela…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/weudly8h5C",
+     "expand": "https://www.meetup.com/Boston-Vue-js/events/247988268/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968135915607679000,
+    "id_str": "968135915607678977",
+    "created_at": "Mon Feb 26 14:49:24 +0000 2018",
+    "text": "There are two chances to see @Cypress_io in action this week:\n- in Boston at Vue.js meetup https://t.co/weudly8h5C… https://t.co/jGCjNrV5fl",
+    "retweet_count": 2,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/weudly8h5C",
+      "expand": "https://www.meetup.com/Boston-Vue-js/events/247988268/"
+     },
+     {
+      "url": "https://t.co/jGCjNrV5fl",
+      "expand": "https://twitter.com/i/web/status/968135915607678977"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968087330849460200,
+   "id_str": "968087330849460224",
+   "created_at": "Mon Feb 26 11:36:20 +0000 2018",
+   "text": "@iamsolankiamit We have multiple sites and services, could you be more specific about where your experiencing an issue?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968067133669195800,
+   "in_reply_to_status_id_str": "968067133669195776",
+   "in_reply_to_screen_name": "iamsolankiamit",
+   "urls": []
+  },
+  {
+   "id": 967545052049354800,
+   "id_str": "967545052049354752",
+   "created_at": "Sat Feb 24 23:41:31 +0000 2018",
+   "text": "RT @dennythecoder: Seven Takeaways from @AssertJS \n#javascript #testing\nhttps://t.co/Vl0L6ZdCKD",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Vl0L6ZdCKD",
+     "expand": "https://medium.com/@denny.headrick/seven-takeaways-from-assertjs-7c1e52159013"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967232595934183400,
+    "id_str": "967232595934183431",
+    "created_at": "Sat Feb 24 02:59:55 +0000 2018",
+    "text": "Seven Takeaways from @AssertJS \n#javascript #testing\nhttps://t.co/Vl0L6ZdCKD",
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Vl0L6ZdCKD",
+      "expand": "https://medium.com/@denny.headrick/seven-takeaways-from-assertjs-7c1e52159013"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967213016163995600,
+   "id_str": "967213016163995648",
+   "created_at": "Sat Feb 24 01:42:07 +0000 2018",
+   "text": "RT @sunjeet_khokhar: Relishing each moment with https://t.co/njqpVfKtFB , recently learnt how to set cookies in @Cypress_io  https://t.co/i…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/njqpVfKtFB",
+     "expand": "http://Cypress.io"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967205029420572700,
+    "id_str": "967205029420572673",
+    "created_at": "Sat Feb 24 01:10:23 +0000 2018",
+    "text": "Relishing each moment with https://t.co/njqpVfKtFB , recently learnt how to set cookies in @Cypress_io  https://t.co/ipc2h2ga82",
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/njqpVfKtFB",
+      "expand": "http://Cypress.io"
+     },
+     {
+      "url": "https://t.co/ipc2h2ga82",
+      "expand": "https://thereluctanttester.com/2018/02/24/creating-and-preserving-cookies-with-cypress-io/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967052861388607500,
+   "id_str": "967052861388607488",
+   "created_at": "Fri Feb 23 15:05:43 +0000 2018",
+   "text": "RT @kentcdodds: I added @Cypress_io to downshift 🏎\ndownshift uses @storybookjs, and cypress pulls up the storybook and runs against the sto…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967046274573889500,
+    "id_str": "967046274573889537",
+    "created_at": "Fri Feb 23 14:39:33 +0000 2018",
+    "text": "I added @Cypress_io to downshift 🏎\ndownshift uses @storybookjs, and cypress pulls up the storybook and runs against… https://t.co/WugRJSf3P5",
+    "retweet_count": 11,
+    "favorite_count": 89,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WugRJSf3P5",
+      "expand": "https://twitter.com/i/web/status/967046274573889537"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967042323015192600,
+   "id_str": "967042323015192576",
+   "created_at": "Fri Feb 23 14:23:51 +0000 2018",
+   "text": "RT @kentcdodds: @palmerj3 @mikesherov @Cypress_io @fbjest @flowtype @geteslint Honestly the fact that \"black box testing\" has a name is fun…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967040953977659400,
+    "id_str": "967040953977659393",
+    "created_at": "Fri Feb 23 14:18:24 +0000 2018",
+    "text": "@palmerj3 @mikesherov @Cypress_io @fbjest @flowtype @geteslint Honestly the fact that \"black box testing\" has a nam… https://t.co/wGSWPVo6nq",
+    "retweet_count": 6,
+    "favorite_count": 19,
+    "place": null,
+    "in_reply_to_status_id": 967039993754652700,
+    "in_reply_to_status_id_str": "967039993754652672",
+    "in_reply_to_screen_name": "palmerj3",
+    "urls": [
+     {
+      "url": "https://t.co/wGSWPVo6nq",
+      "expand": "https://twitter.com/i/web/status/967040953977659393"
+     }
+    ]
+   }
+  },
   {
    "id": 966881045726470100,
    "id_str": "966881045726470144",
@@ -19,447 +1792,13 @@
     "created_at": "Wed Feb 21 17:00:48 +0000 2018",
     "text": "Great news! #AssertJS will be recorded and all talks will be posted after the conference - stay tuned for the announcement! 📹",
     "retweet_count": 10,
-    "favorite_count": 61,
+    "favorite_count": 69,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
    }
-  },
-  {
-   "id": 966791167202521100,
-   "id_str": "966791167202521091",
-   "created_at": "Thu Feb 22 21:45:51 +0000 2018",
-   "text": "RT @be_mann: @PrattJ2 We use cypress to test a lot of cypress itself. Couldn’t be done that way for a really long time but it evolved to th…",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966784592459034600,
-    "id_str": "966784592459034624",
-    "created_at": "Thu Feb 22 21:19:43 +0000 2018",
-    "text": "@PrattJ2 We use cypress to test a lot of cypress itself. Couldn’t be done that way for a really long time but it ev… https://t.co/xJXAbzbmvx",
-    "retweet_count": 2,
-    "favorite_count": 6,
-    "place": null,
-    "in_reply_to_status_id": 966773072513720300,
-    "in_reply_to_status_id_str": "966773072513720321",
-    "in_reply_to_screen_name": "PrattJ2",
-    "urls": [
-     {
-      "url": "https://t.co/xJXAbzbmvx",
-      "expand": "https://twitter.com/i/web/status/966784592459034624"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966770509538054100,
-   "id_str": "966770509538054144",
-   "created_at": "Thu Feb 22 20:23:45 +0000 2018",
-   "text": "RT @roebuk: What's folks opinion on https://t.co/Ld2XJGVwvN, is it worth a shot?",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/Ld2XJGVwvN",
-     "expand": "http://cypress.io"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966683896304799700,
-    "id_str": "966683896304799745",
-    "created_at": "Thu Feb 22 14:39:35 +0000 2018",
-    "text": "What's folks opinion on https://t.co/Ld2XJGVwvN, is it worth a shot?",
-    "retweet_count": 2,
-    "favorite_count": 9,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/Ld2XJGVwvN",
-      "expand": "http://cypress.io"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966765146113749000,
-   "id_str": "966765146113748992",
-   "created_at": "Thu Feb 22 20:02:27 +0000 2018",
-   "text": "RT @olitreadwell: The year is 2035:\n\n\"Let me introduce you to the Testing Torus\"\n\n#AssertJS\n\nhttps://t.co/bnFyEkGy9K https://t.co/Arbfg86OZE",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/bnFyEkGy9K",
-     "expand": "https://curiousmatic.com/9-unusual-shapes-didnt-know-names/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966764056970489900,
-    "id_str": "966764056970489856",
-    "created_at": "Thu Feb 22 19:58:07 +0000 2018",
-    "text": "The year is 2035:\n\n\"Let me introduce you to the Testing Torus\"\n\n#AssertJS\n\nhttps://t.co/bnFyEkGy9K https://t.co/Arbfg86OZE",
-    "retweet_count": 2,
-    "favorite_count": 4,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/bnFyEkGy9K",
-      "expand": "https://curiousmatic.com/9-unusual-shapes-didnt-know-names/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966763739075764200,
-   "id_str": "966763739075764228",
-   "created_at": "Thu Feb 22 19:56:51 +0000 2018",
-   "text": "Second part of duo at #AssertJS: @bahmutov redefining the testing pyramid. https://t.co/RiIQZZ8UZf",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 966759882631327700,
-   "id_str": "966759882631327745",
-   "created_at": "Thu Feb 22 19:41:32 +0000 2018",
-   "text": "@ConAntonakos @be_mann They are being recorded. We'll be sure to post it as soon as it is up.",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 966759076234514400,
-   "in_reply_to_status_id_str": "966759076234514439",
-   "in_reply_to_screen_name": "ConAntonakos",
-   "urls": []
-  },
-  {
-   "id": 966756539095806000,
-   "id_str": "966756539095805952",
-   "created_at": "Thu Feb 22 19:28:15 +0000 2018",
-   "text": "Starting the duo of talks w/ @be_mann talking best practices in testing. #assertjs https://t.co/dgqHbKF85C",
-   "retweet_count": 0,
-   "favorite_count": 8,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 966738251980726300,
-   "id_str": "966738251980726272",
-   "created_at": "Thu Feb 22 18:15:35 +0000 2018",
-   "text": "RT @Carofine247: I didn't know about Cucumber. Why are people still using it if they don't like it? What specifically don't they like about…",
-   "retweet_count": 1,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966733632864964600,
-    "id_str": "966733632864964611",
-    "created_at": "Thu Feb 22 17:57:13 +0000 2018",
-    "text": "I didn't know about Cucumber. Why are people still using it if they don't like it? What specifically don't they like about it? 🤔  #AssertJS",
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "place": "San Antonio, TX",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 966720539522945000,
-   "id_str": "966720539522945024",
-   "created_at": "Thu Feb 22 17:05:12 +0000 2018",
-   "text": "We're loving #assertjs already. Don't miss @bahmutov &amp; @be_mann right after lunch. There's going to be a lot packed… https://t.co/YSrOGGULPt",
-   "retweet_count": 0,
-   "favorite_count": 5,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/YSrOGGULPt",
-     "expand": "https://twitter.com/i/web/status/966720539522945024"
-    }
-   ]
-  },
-  {
-   "id": 966445975777824800,
-   "id_str": "966445975777824776",
-   "created_at": "Wed Feb 21 22:54:10 +0000 2018",
-   "text": "RT @bahmutov: Testing workshop with @kentcdodds before @assertjs - @be_mann from @Cypress_io is dropping some knowledge! https://t.co/aAqgW…",
-   "retweet_count": 3,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966435796382306300,
-    "id_str": "966435796382306308",
-    "created_at": "Wed Feb 21 22:13:44 +0000 2018",
-    "text": "Testing workshop with @kentcdodds before @assertjs - @be_mann from @Cypress_io is dropping some knowledge! https://t.co/aAqgWMeric",
-    "retweet_count": 3,
-    "favorite_count": 18,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 966360470977499100,
-   "id_str": "966360470977499136",
-   "created_at": "Wed Feb 21 17:14:25 +0000 2018",
-   "text": "Training workshop on testing is underway with @kentcdodds today. 🙌 #AssertJS https://t.co/lhop0GpnSu",
-   "retweet_count": 5,
-   "favorite_count": 53,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 965984380547227600,
-   "id_str": "965984380547227649",
-   "created_at": "Tue Feb 20 16:19:58 +0000 2018",
-   "text": "Vue.js + Cypress meetup at the end of this month in Boston w/ @bahmutov https://t.co/5G14eV414r",
-   "retweet_count": 2,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/5G14eV414r",
-     "expand": "https://www.meetup.com/Boston-Vue-js/events/247988268/"
-    }
-   ]
-  },
-  {
-   "id": 965983571893805000,
-   "id_str": "965983571893805057",
-   "created_at": "Tue Feb 20 16:16:45 +0000 2018",
-   "text": "RT @jennifershehane: You can test emojis in @Cypress_io and I ❤️ it. @goncy https://t.co/4ce5FILvG1 https://t.co/hcLNwUcpKD",
-   "retweet_count": 6,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/4ce5FILvG1",
-     "expand": "https://github.com/goncy/cypress-lesson"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965787861059502100,
-    "id_str": "965787861059502081",
-    "created_at": "Tue Feb 20 03:19:04 +0000 2018",
-    "text": "You can test emojis in @Cypress_io and I ❤️ it. @goncy https://t.co/4ce5FILvG1 https://t.co/hcLNwUcpKD",
-    "retweet_count": 6,
-    "favorite_count": 20,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/4ce5FILvG1",
-      "expand": "https://github.com/goncy/cypress-lesson"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965964451198455800,
-   "id_str": "965964451198455808",
-   "created_at": "Tue Feb 20 15:00:46 +0000 2018",
-   "text": "RT @goncy: I translated the @Cypress_io lesson to English! 🇬🇧🇺🇸\nhttps://t.co/GpxGukyNKp",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/GpxGukyNKp",
-     "expand": "https://github.com/goncy/cypress-lesson/blob/master/README-EN.md"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965951394489552900,
-    "id_str": "965951394489552896",
-    "created_at": "Tue Feb 20 14:08:53 +0000 2018",
-    "text": "I translated the @Cypress_io lesson to English! 🇬🇧🇺🇸\nhttps://t.co/GpxGukyNKp",
-    "retweet_count": 2,
-    "favorite_count": 10,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/GpxGukyNKp",
-      "expand": "https://github.com/goncy/cypress-lesson/blob/master/README-EN.md"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965781271132672000,
-   "id_str": "965781271132672000",
-   "created_at": "Tue Feb 20 02:52:53 +0000 2018",
-   "text": "@goncy Gracias por el tutorial en español. Seguro que muchos usuarios lo encuentran de gran utilidad. Especial menc… https://t.co/exSZEZLWSr",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965721117859000300,
-   "in_reply_to_status_id_str": "965721117859000320",
-   "in_reply_to_screen_name": "goncy",
-   "urls": [
-    {
-     "url": "https://t.co/exSZEZLWSr",
-     "expand": "https://twitter.com/i/web/status/965781271132672000"
-    }
-   ]
-  },
-  {
-   "id": 965271465431093200,
-   "id_str": "965271465431093248",
-   "created_at": "Sun Feb 18 17:07:05 +0000 2018",
-   "text": "RT @j_kettmann: Started using @Cypress_io a while ago for E2E tests. Works really great and so much easier to setup than @selenium. Best th…",
-   "retweet_count": 12,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965123234415939600,
-    "id_str": "965123234415939584",
-    "created_at": "Sun Feb 18 07:18:04 +0000 2018",
-    "text": "Started using @Cypress_io a while ago for E2E tests. Works really great and so much easier to setup than @selenium.… https://t.co/ijSZCsPc17",
-    "retweet_count": 12,
-    "favorite_count": 60,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/ijSZCsPc17",
-      "expand": "https://twitter.com/i/web/status/965123234415939584"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964895426964000800,
-   "id_str": "964895426964000768",
-   "created_at": "Sat Feb 17 16:12:51 +0000 2018",
-   "text": "RT @Roenok: There are tons of ways to contribute to open source projects that aren't code: reporting bugs, testing, documentation #OpenSour…",
-   "retweet_count": 6,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964881454412058600,
-    "id_str": "964881454412058626",
-    "created_at": "Sat Feb 17 15:17:20 +0000 2018",
-    "text": "There are tons of ways to contribute to open source projects that aren't code: reporting bugs, testing, documentation #OpenSource101",
-    "retweet_count": 6,
-    "favorite_count": 7,
-    "place": "Raleigh, NC",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 964850307653099500,
-   "id_str": "964850307653099521",
-   "created_at": "Sat Feb 17 13:13:34 +0000 2018",
-   "text": "RT @goncy: I just tested the entire Trency wizard flow with just a few lines using 👏 @Cypress_io https://t.co/fHKayqmCiB",
-   "retweet_count": 2,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964842717313421300,
-    "id_str": "964842717313421312",
-    "created_at": "Sat Feb 17 12:43:24 +0000 2018",
-    "text": "I just tested the entire Trency wizard flow with just a few lines using 👏 @Cypress_io https://t.co/fHKayqmCiB",
-    "retweet_count": 2,
-    "favorite_count": 22,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 964519769960525800,
-   "id_str": "964519769960525826",
-   "created_at": "Fri Feb 16 15:20:07 +0000 2018",
-   "text": "2.0 Release Today:\n\n🔹 @electronjs updated. Headless now runs Chrome 59 by default.\n🔹 Fixes for sites that try to fr… https://t.co/dIG5E3tnXQ",
-   "retweet_count": 34,
-   "favorite_count": 72,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/dIG5E3tnXQ",
-     "expand": "https://twitter.com/i/web/status/964519769960525826"
-    }
-   ]
   }
  ]
 }

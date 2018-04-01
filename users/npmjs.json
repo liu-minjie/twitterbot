@@ -1,12 +1,672 @@
 {
- "time": 1519367423783,
+ "time": 1522595181566,
  "lists": [
+  {
+   "id": 979805719674392600,
+   "id_str": "979805719674392576",
+   "created_at": "Fri Mar 30 19:41:02 +0000 2018",
+   "text": "we spoke with james kim about how npm helps developers around the world access @sendbird's javascript sdk:… https://t.co/qToOIqMoA3",
+   "retweet_count": 3,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qToOIqMoA3",
+     "expand": "https://twitter.com/i/web/status/979805719674392576"
+    }
+   ]
+  },
+  {
+   "id": 979770231273992200,
+   "id_str": "979770231273992193",
+   "created_at": "Fri Mar 30 17:20:01 +0000 2018",
+   "text": ".@rebeccaorg's npm 5.9.0 release notes, a rad t-shirt by @sailorhg, and we're looking for npm project submissions:… https://t.co/xhtTvRBKEU",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xhtTvRBKEU",
+     "expand": "https://twitter.com/i/web/status/979770231273992193"
+    }
+   ]
+  },
+  {
+   "id": 979495424347209700,
+   "id_str": "979495424347209733",
+   "created_at": "Thu Mar 29 23:08:01 +0000 2018",
+   "text": "\"with npm alone, you can manage all of your versions and set up libraries with ease. if you deal in anything relate… https://t.co/Gg2QwpQEgQ",
+   "retweet_count": 5,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Gg2QwpQEgQ",
+     "expand": "https://twitter.com/i/web/status/979495424347209733"
+    }
+   ]
+  },
+  {
+   "id": 979407906515931100,
+   "id_str": "979407906515931136",
+   "created_at": "Thu Mar 29 17:20:16 +0000 2018",
+   "text": "npm weekly 139: a new site for npm, a new version release (5.9.0), and a cool t-shirt you won’t want to miss:… https://t.co/j1nB5oBzmC",
+   "retweet_count": 8,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/j1nB5oBzmC",
+     "expand": "https://twitter.com/i/web/status/979407906515931136"
+    }
+   ]
+  },
+  {
+   "id": 977331855341924400,
+   "id_str": "977331855341924352",
+   "created_at": "Fri Mar 23 23:50:46 +0000 2018",
+   "text": "RT @ReBeccaOrg: @npmjs But wait, there's MORE! We also have a release candidate for npm@6. You can see what's going into that over here: ht…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977331780754657300,
+    "id_str": "977331780754657280",
+    "created_at": "Fri Mar 23 23:50:29 +0000 2018",
+    "text": "@npmjs But wait, there's MORE! We also have a release candidate for npm@6. You can see what's going into that over… https://t.co/TzWAIs9a9h",
+    "retweet_count": 8,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": 977331308568264700,
+    "in_reply_to_status_id_str": "977331308568264704",
+    "in_reply_to_screen_name": "ReBeccaOrg",
+    "urls": [
+     {
+      "url": "https://t.co/TzWAIs9a9h",
+      "expand": "https://twitter.com/i/web/status/977331780754657280"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977331828997541900,
+   "id_str": "977331828997541888",
+   "created_at": "Fri Mar 23 23:50:40 +0000 2018",
+   "text": "RT @ReBeccaOrg: Guess what⁈ There's a new @npmjs release! 5.9 is entering pre-release with  a new package view, pack and publish previews a…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977331308568264700,
+    "id_str": "977331308568264704",
+    "created_at": "Fri Mar 23 23:48:36 +0000 2018",
+    "text": "Guess what⁈ There's a new @npmjs release! 5.9 is entering pre-release with  a new package view, pack and publish pr… https://t.co/ub9q7jrpkR",
+    "retweet_count": 11,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ub9q7jrpkR",
+      "expand": "https://twitter.com/i/web/status/977331308568264704"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977233520698552300,
+   "id_str": "977233520698552321",
+   "created_at": "Fri Mar 23 17:20:02 +0000 2018",
+   "text": "learn about automated releases from @_tailordev, check our @astelvida's first publish, and let npm help promote you… https://t.co/P8riOKetOT",
+   "retweet_count": 8,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/P8riOKetOT",
+     "expand": "https://twitter.com/i/web/status/977233520698552321"
+    }
+   ]
+  },
+  {
+   "id": 976871135739568100,
+   "id_str": "976871135739568129",
+   "created_at": "Thu Mar 22 17:20:02 +0000 2018",
+   "text": "npm weekly 138: take a look at our latest job listing, learn what badges do, and see npm ci work in real time!… https://t.co/fuxEqZRxBj",
+   "retweet_count": 3,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fuxEqZRxBj",
+     "expand": "https://twitter.com/i/web/status/976871135739568129"
+    }
+   ]
+  },
+  {
+   "id": 976575835942481900,
+   "id_str": "976575835942481926",
+   "created_at": "Wed Mar 21 21:46:37 +0000 2018",
+   "text": "RT @isntitvacant: a quick colophon for anyone interested: the new @npmjs site uses:\n- webpack (&amp; babel, natch)\n- react\n- redux\n- tachyons\n-…",
+   "retweet_count": 159,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976567455890976800,
+    "id_str": "976567455890976769",
+    "created_at": "Wed Mar 21 21:13:19 +0000 2018",
+    "text": "a quick colophon for anyone interested: the new @npmjs site uses:\n- webpack (&amp; babel, natch)\n- react\n- redux\n- tach… https://t.co/4r78dAKMs3",
+    "retweet_count": 159,
+    "favorite_count": 647,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4r78dAKMs3",
+      "expand": "https://twitter.com/i/web/status/976567455890976769"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976575070427467800,
+   "id_str": "976575070427467776",
+   "created_at": "Wed Mar 21 21:43:35 +0000 2018",
+   "text": "RT @seldo: What is that? Is it a snazzy new look for the npm website? Why, it is! https://t.co/qp2xTn2U7n",
+   "retweet_count": 159,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976568040887222300,
+    "id_str": "976568040887222272",
+    "created_at": "Wed Mar 21 21:15:39 +0000 2018",
+    "text": "What is that? Is it a snazzy new look for the npm website? Why, it is! https://t.co/qp2xTn2U7n",
+    "retweet_count": 159,
+    "favorite_count": 649,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 975782569533829100,
+   "id_str": "975782569533829120",
+   "created_at": "Mon Mar 19 17:14:28 +0000 2018",
+   "text": "RT @npm_hiring: we are hiring a senior account executive to join our sales team! https://t.co/7hHzVylhxn",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7hHzVylhxn",
+     "expand": "https://jobs.lever.co/npmjs/a536c7dd-906f-4109-bfcd-31dc40576ebd"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975782395457650700,
+    "id_str": "975782395457650688",
+    "created_at": "Mon Mar 19 17:13:46 +0000 2018",
+    "text": "we are hiring a senior account executive to join our sales team! https://t.co/7hHzVylhxn",
+    "retweet_count": 16,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7hHzVylhxn",
+      "expand": "https://jobs.lever.co/npmjs/a536c7dd-906f-4109-bfcd-31dc40576ebd"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975059230712623100,
+   "id_str": "975059230712623108",
+   "created_at": "Sat Mar 17 17:20:10 +0000 2018",
+   "text": "npm weekly 137: version 5.8.0-next.0 is here, @bengl's qdd is nifty, and some exciting wasm news from @linclark… https://t.co/gqkdvjqRFc",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gqkdvjqRFc",
+     "expand": "https://twitter.com/i/web/status/975059230712623108"
+    }
+   ]
+  },
+  {
+   "id": 974831779889561600,
+   "id_str": "974831779889561601",
+   "created_at": "Sat Mar 17 02:16:22 +0000 2018",
+   "text": "do not ask isaac about raccoons i am serious https://t.co/7GG0fZCFbA",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7GG0fZCFbA",
+     "expand": "https://twitter.com/izs/status/974773731062157313"
+    }
+   ]
+  },
+  {
+   "id": 974702300345262100,
+   "id_str": "974702300345262081",
+   "created_at": "Fri Mar 16 17:41:52 +0000 2018",
+   "text": ".@ivanamcconnell interviews @seldo, a look at the next version of npm, and a convo with @poledesfetes of @sqreenio:… https://t.co/hT0yGnwCsu",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hT0yGnwCsu",
+     "expand": "https://twitter.com/i/web/status/974702300345262081"
+    }
+   ]
+  },
+  {
+   "id": 974383661519786000,
+   "id_str": "974383661519785984",
+   "created_at": "Thu Mar 15 20:35:42 +0000 2018",
+   "text": "RT @IvanaMcConnell: 📣Origins interview! 🚨\"There was no grand plan, just luck and happenstance\" @seldo of @npmjs on his engineering beginnin…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973662884088524800,
+    "id_str": "973662884088524800",
+    "created_at": "Tue Mar 13 20:51:36 +0000 2018",
+    "text": "📣Origins interview! 🚨\"There was no grand plan, just luck and happenstance\" @seldo of @npmjs on his engineering begi… https://t.co/YxnslwR2td",
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YxnslwR2td",
+      "expand": "https://twitter.com/i/web/status/973662884088524800"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973363610708721700,
+   "id_str": "973363610708721664",
+   "created_at": "Tue Mar 13 01:02:23 +0000 2018",
+   "text": "RT @maybekatz: You may have also noticed, this is the first time in a very long time (since the 1.0 -&gt; 2.0 transition) that the CLI team ha…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973361441293058000,
+    "id_str": "973361441293058048",
+    "created_at": "Tue Mar 13 00:53:46 +0000 2018",
+    "text": "You may have also noticed, this is the first time in a very long time (since the 1.0 -&gt; 2.0 transition) that the CL… https://t.co/kajqujQg47",
+    "retweet_count": 5,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": 973360929550159900,
+    "in_reply_to_status_id_str": "973360929550159872",
+    "in_reply_to_screen_name": "maybekatz",
+    "urls": [
+     {
+      "url": "https://t.co/kajqujQg47",
+      "expand": "https://twitter.com/i/web/status/973361441293058048"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973363483222843400,
+   "id_str": "973363483222843392",
+   "created_at": "Tue Mar 13 01:01:53 +0000 2018",
+   "text": "RT @maybekatz: New @npmjs release! First Semver Prerelease Edition!\n\nnext: 5.8.0-next.0 👀\nlatest: 5.7.1\n\nThis release is largely focused ar…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973360929550159900,
+    "id_str": "973360929550159872",
+    "created_at": "Tue Mar 13 00:51:44 +0000 2018",
+    "text": "New @npmjs release! First Semver Prerelease Edition!\n\nnext: 5.8.0-next.0 👀\nlatest: 5.7.1\n\nThis release is largely f… https://t.co/QzMd8ZX07N",
+    "retweet_count": 10,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QzMd8ZX07N",
+      "expand": "https://twitter.com/i/web/status/973360929550159872"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972175214900600800,
+   "id_str": "972175214900600832",
+   "created_at": "Fri Mar 09 18:20:08 +0000 2018",
+   "text": ".@kemitchell  talks licensing, @robinsloan's neural network navigates between sentences, and npm ci is fast so you… https://t.co/ice8euIaFs",
+   "retweet_count": 4,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ice8euIaFs",
+     "expand": "https://twitter.com/i/web/status/972175214900600832"
+    }
+   ]
+  },
+  {
+   "id": 971812818608623600,
+   "id_str": "971812818608623619",
+   "created_at": "Thu Mar 08 18:20:06 +0000 2018",
+   "text": "npm weekly #136: npm ci is here, @nodeschooloak is this saturday, plus shout out to first timers!… https://t.co/BrHfKFlWJn",
+   "retweet_count": 6,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BrHfKFlWJn",
+     "expand": "https://twitter.com/i/web/status/971812818608623619"
+    }
+   ]
+  },
+  {
+   "id": 971450432898916400,
+   "id_str": "971450432898916352",
+   "created_at": "Wed Mar 07 18:20:06 +0000 2018",
+   "text": "all npm users can now take advantage of a new install command called npm ci. it offers massive improvements to both… https://t.co/dBoLZfphMk",
+   "retweet_count": 32,
+   "favorite_count": 53,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dBoLZfphMk",
+     "expand": "https://twitter.com/i/web/status/971450432898916352"
+    }
+   ]
+  },
+  {
+   "id": 970773134717599700,
+   "id_str": "970773134717599745",
+   "created_at": "Mon Mar 05 21:28:46 +0000 2018",
+   "text": "RT @seldo: The wonderful @wafflejs is this Wednesday and there are still tickets! Come see @sarah_federman, @parrissays, @liamdanger, @annt…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970731978461872100,
+    "id_str": "970731978461872128",
+    "created_at": "Mon Mar 05 18:45:13 +0000 2018",
+    "text": "The wonderful @wafflejs is this Wednesday and there are still tickets! Come see @sarah_federman, @parrissays,… https://t.co/DfHRGJimPh",
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/DfHRGJimPh",
+      "expand": "https://twitter.com/i/web/status/970731978461872128"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970725649215344600,
+   "id_str": "970725649215344641",
+   "created_at": "Mon Mar 05 18:20:04 +0000 2018",
+   "text": "npm ci is here, and it's very, very fast. learn more here: \nhttps://t.co/KwfmVKFJY0 https://t.co/ktpax8IBTk",
+   "retweet_count": 240,
+   "favorite_count": 376,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KwfmVKFJY0",
+     "expand": "https://buff.ly/2oGYRRd"
+    }
+   ]
+  },
+  {
+   "id": 969757535895875600,
+   "id_str": "969757535895875584",
+   "created_at": "Sat Mar 03 02:13:08 +0000 2018",
+   "text": "it’s a good logo https://t.co/Cm8zCG5BCa",
+   "retweet_count": 3,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Cm8zCG5BCa",
+     "expand": "https://twitter.com/jefflembeck/status/969750036107046913"
+    }
+   ]
+  },
+  {
+   "id": 969376011274997800,
+   "id_str": "969376011274997760",
+   "created_at": "Fri Mar 02 00:57:05 +0000 2018",
+   "text": "RT @ReBeccaOrg: Today we just promoted @npmjs v5.7.1 to latest and so:\n\nnext: 5.7.1\nlatest: 5.7.1\n\nAs before, the changelogs are at:\n\nhttps…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969375607485186000,
+    "id_str": "969375607485186048",
+    "created_at": "Fri Mar 02 00:55:29 +0000 2018",
+    "text": "Today we just promoted @npmjs v5.7.1 to latest and so:\n\nnext: 5.7.1\nlatest: 5.7.1\n\nAs before, the changelogs are at… https://t.co/N8leGkxwbM",
+    "retweet_count": 11,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/N8leGkxwbM",
+      "expand": "https://twitter.com/i/web/status/969375607485186048"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968929077544415200,
+   "id_str": "968929077544415232",
+   "created_at": "Wed Feb 28 19:21:08 +0000 2018",
+   "text": "RT @seldo: Tuesday we set a new record for single day downloads (we do this nearly every Tuesday) of 847M downloads. In the last 7 days npm…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968928842898223100,
+    "id_str": "968928842898223104",
+    "created_at": "Wed Feb 28 19:20:12 +0000 2018",
+    "text": "Tuesday we set a new record for single day downloads (we do this nearly every Tuesday) of 847M downloads. In the la… https://t.co/4aTPKudQpg",
+    "retweet_count": 17,
+    "favorite_count": 52,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4aTPKudQpg",
+      "expand": "https://twitter.com/i/web/status/968928842898223104"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968548899643248600,
+   "id_str": "968548899643248641",
+   "created_at": "Tue Feb 27 18:10:27 +0000 2018",
+   "text": "RT @Authy: Is the internet getting safer? @twilio + @npmjs explore how developers are improving #security of apps w/ #2FA &gt; https://t.co/GQ…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968546408100974600,
+    "id_str": "968546408100974593",
+    "created_at": "Tue Feb 27 18:00:33 +0000 2018",
+    "text": "Is the internet getting safer? @twilio + @npmjs explore how developers are improving #security of apps w/ #2FA &gt; https://t.co/GQqRdCBXMR",
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GQqRdCBXMR",
+      "expand": "http://ow.ly/RCjs30iDVM7"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968224408648208400,
+   "id_str": "968224408648208384",
+   "created_at": "Mon Feb 26 20:41:02 +0000 2018",
+   "text": "we spoke with @poledesfetes about how @sqreenio uses npm to deliver their library to customers:… https://t.co/tl3lYdlBds",
+   "retweet_count": 7,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tl3lYdlBds",
+     "expand": "https://twitter.com/i/web/status/968224408648208384"
+    }
+   ]
+  },
+  {
+   "id": 967101785872785400,
+   "id_str": "967101785872785408",
+   "created_at": "Fri Feb 23 18:20:08 +0000 2018",
+   "text": "a look at npm's future courtesy of @aeflash and @gabrrra, some info about @hintIIITA, and the shortest survey you'v… https://t.co/hO3Z9alIEE",
+   "retweet_count": 16,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hO3Z9alIEE",
+     "expand": "https://twitter.com/i/web/status/967101785872785408"
+    }
+   ]
+  },
   {
    "id": 966740795867807700,
    "id_str": "966740795867807744",
    "created_at": "Thu Feb 22 18:25:41 +0000 2018",
    "text": "RT @ReBeccaOrg: Folks who didn't intend to update to next were getting this because `npm update -g` does not use the same logic as `npm ins…",
-   "retweet_count": 12,
+   "retweet_count": 14,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,8 +678,8 @@
     "id_str": "966739473462472704",
     "created_at": "Thu Feb 22 18:20:26 +0000 2018",
     "text": "Folks who didn't intend to update to next were getting this because `npm update -g` does not use the same logic as… https://t.co/pek4WAr9US",
-    "retweet_count": 12,
-    "favorite_count": 18,
+    "retweet_count": 14,
+    "favorite_count": 25,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -31,109 +691,6 @@
      }
     ]
    }
-  },
-  {
-   "id": 966739382676811800,
-   "id_str": "966739382676811777",
-   "created_at": "Thu Feb 22 18:20:04 +0000 2018",
-   "text": "npm weekly #134: check out our new packages page, take a 5-second survey, and give `thanks`!… https://t.co/LbO10cHTb0",
-   "retweet_count": 2,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/LbO10cHTb0",
-     "expand": "https://twitter.com/i/web/status/966739382676811777"
-    }
-   ]
-  },
-  {
-   "id": 966728609346945000,
-   "id_str": "966728609346945024",
-   "created_at": "Thu Feb 22 17:37:16 +0000 2018",
-   "text": "we’ve reverted a patch that could cause ownership changes on some system files. if you run npm@next, run `npm insta… https://t.co/iUN5q9UnCH",
-   "retweet_count": 78,
-   "favorite_count": 51,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/iUN5q9UnCH",
-     "expand": "https://twitter.com/i/web/status/966728609346945024"
-    }
-   ]
-  },
-  {
-   "id": 966432982931304400,
-   "id_str": "966432982931304450",
-   "created_at": "Wed Feb 21 22:02:33 +0000 2018",
-   "text": "RT @ReBeccaOrg: New npm release! Introducing: npm ci\nAlso, automatic git merge conflict resolution for lock files, bug fixes and more!\n\nnex…",
-   "retweet_count": 76,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966431183427985400,
-    "id_str": "966431183427985408",
-    "created_at": "Wed Feb 21 21:55:24 +0000 2018",
-    "text": "New npm release! Introducing: npm ci\nAlso, automatic git merge conflict resolution for lock files, bug fixes and mo… https://t.co/0o5zXPyj5P",
-    "retweet_count": 76,
-    "favorite_count": 160,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/0o5zXPyj5P",
-      "expand": "https://twitter.com/i/web/status/966431183427985408"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966412463876051000,
-   "id_str": "966412463876050944",
-   "created_at": "Wed Feb 21 20:41:01 +0000 2018",
-   "text": "do you have five seconds to take our survey? we want to know what single sign-on provider you'd like to use with np… https://t.co/WOfQt5Js0u",
-   "retweet_count": 17,
-   "favorite_count": 13,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/WOfQt5Js0u",
-     "expand": "https://twitter.com/i/web/status/966412463876050944"
-    }
-   ]
-  },
-  {
-   "id": 964565056657686500,
-   "id_str": "964565056657686528",
-   "created_at": "Fri Feb 16 18:20:04 +0000 2018",
-   "text": ".@maybekatz gives us a sneak peek at the next release, @marcelschwantes writes about leadership skills, @seldo has… https://t.co/CHWepP0xoT",
-   "retweet_count": 7,
-   "favorite_count": 11,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/CHWepP0xoT",
-     "expand": "https://twitter.com/i/web/status/964565056657686528"
-    }
-   ]
   }
  ]
 }

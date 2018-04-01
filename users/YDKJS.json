@@ -1,54 +1,1290 @@
 {
- "time": 1519367404529,
+ "time": 1522595149363,
  "lists": [
   {
-   "id": 966030645980991500,
-   "id_str": "966030645980991489",
-   "created_at": "Tue Feb 20 19:23:48 +0000 2018",
-   "text": "@amesimmons yes, and then furthermore, it reduces to 22 == 1, which is of course false. unless one side is an objec… https://t.co/KynO54NWGe",
-   "retweet_count": 0,
-   "favorite_count": 2,
+   "id": 978827733009682400,
+   "id_str": "978827733009682432",
+   "created_at": "Wed Mar 28 02:54:51 +0000 2018",
+   "text": "RT @getify: I'm extremely proud of, and excited for, the program we've put together for this year's @FluentConf conference.\n\nLowest ticket…",
+   "retweet_count": 4,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 965878148289134600,
-   "in_reply_to_status_id_str": "965878148289134592",
-   "in_reply_to_screen_name": "amesimmons",
-   "urls": [
-    {
-     "url": "https://t.co/KynO54NWGe",
-     "expand": "https://twitter.com/i/web/status/966030645980991489"
-    }
-   ]
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978827519058169900,
+    "id_str": "978827519058169857",
+    "created_at": "Wed Mar 28 02:54:00 +0000 2018",
+    "text": "I'm extremely proud of, and excited for, the program we've put together for this year's @FluentConf conference.\n\nLo… https://t.co/t0WzhOE6Rm",
+    "retweet_count": 4,
+    "favorite_count": 11,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/t0WzhOE6Rm",
+      "expand": "https://twitter.com/i/web/status/978827519058169857"
+     }
+    ]
+   }
   },
   {
-   "id": 964931430328471600,
-   "id_str": "964931430328471553",
-   "created_at": "Sat Feb 17 18:35:55 +0000 2018",
-   "text": "@tfbkny @_Gasha not positional... based on matching name. it looks in all of `a`, and if it finds a `b` property, i… https://t.co/RTe7jVKbNU",
+   "id": 978733706830581800,
+   "id_str": "978733706830581760",
+   "created_at": "Tue Mar 27 20:41:14 +0000 2018",
+   "text": "RT @getify: Oh this is even better... I mean more evil. https://t.co/5nG1EXqMvl",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978729445950394400,
+    "id_str": "978729445950394369",
+    "created_at": "Tue Mar 27 20:24:18 +0000 2018",
+    "text": "Oh this is even better... I mean more evil. https://t.co/5nG1EXqMvl",
+    "retweet_count": 18,
+    "favorite_count": 61,
+    "place": null,
+    "in_reply_to_status_id": 978727835744563200,
+    "in_reply_to_status_id_str": "978727835744563206",
+    "in_reply_to_screen_name": "getify",
+    "urls": []
+   }
+  },
+  {
+   "id": 978733632671100900,
+   "id_str": "978733632671100928",
+   "created_at": "Tue Mar 27 20:40:56 +0000 2018",
+   "text": "@DrawnByMouse the uninitialized \"x\" is \"hoisted\", but not to function start, to block start.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978733062543593500,
+   "in_reply_to_status_id_str": "978733062543593473",
+   "in_reply_to_screen_name": "DrawnByMouse",
+   "urls": []
+  },
+  {
+   "id": 978728189982924800,
+   "id_str": "978728189982924801",
+   "created_at": "Tue Mar 27 20:19:19 +0000 2018",
+   "text": "RT @getify: Evil JS hack of the day: arbitrary expression computation inside destructuring assignment patterns. PLEASE DON'T DO THIS! :) ht…",
+   "retweet_count": 43,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978727835744563200,
+    "id_str": "978727835744563206",
+    "created_at": "Tue Mar 27 20:17:54 +0000 2018",
+    "text": "Evil JS hack of the day: arbitrary expression computation inside destructuring assignment patterns. PLEASE DON'T DO… https://t.co/g9FdV8h0j6",
+    "retweet_count": 43,
+    "favorite_count": 131,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/g9FdV8h0j6",
+      "expand": "https://twitter.com/i/web/status/978727835744563206"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978718403446919200,
+   "id_str": "978718403446919169",
+   "created_at": "Tue Mar 27 19:40:25 +0000 2018",
+   "text": "@Qodesmith JS it the only language I have time to know enough to use. I vaguely know a few other langs (PHP, C++, e… https://t.co/p6p85hbMZS",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 964926371817513000,
-   "in_reply_to_status_id_str": "964926371817512960",
-   "in_reply_to_screen_name": "tfbkny",
+   "in_reply_to_status_id": 978614724962259000,
+   "in_reply_to_status_id_str": "978614724962258944",
+   "in_reply_to_screen_name": "Qodesmith",
    "urls": [
     {
-     "url": "https://t.co/RTe7jVKbNU",
-     "expand": "https://twitter.com/i/web/status/964931430328471553"
+     "url": "https://t.co/p6p85hbMZS",
+     "expand": "https://twitter.com/i/web/status/978718403446919169"
     }
    ]
   },
   {
-   "id": 964619530315223000,
-   "id_str": "964619530315223041",
-   "created_at": "Fri Feb 16 21:56:32 +0000 2018",
-   "text": "@bmac_editor the question is, why are you tweeting instead of eating? :)",
+   "id": 978718105743560700,
+   "id_str": "978718105743560705",
+   "created_at": "Tue Mar 27 19:39:14 +0000 2018",
+   "text": "@DrawnByMouse nope, there's definitely block scope:\n\n{ let x = 2;\n   console.log(x); // 2\n}\nconsole.log(x);  // ReferenceError",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978697414692540400,
+   "in_reply_to_status_id_str": "978697414692540417",
+   "in_reply_to_screen_name": "DrawnByMouse",
+   "urls": []
+  },
+  {
+   "id": 978304985762058200,
+   "id_str": "978304985762058240",
+   "created_at": "Mon Mar 26 16:17:39 +0000 2018",
+   "text": "@DrawnByMouse You're correct. But this quiz question was using \"local variable\" to refer only to \"function scoped v… https://t.co/ddBIeWt7wX",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978297918926057500,
+   "in_reply_to_status_id_str": "978297918926057472",
+   "in_reply_to_screen_name": "DrawnByMouse",
+   "urls": [
+    {
+     "url": "https://t.co/ddBIeWt7wX",
+     "expand": "https://twitter.com/i/web/status/978304985762058240"
+    }
+   ]
+  },
+  {
+   "id": 978265147964821500,
+   "id_str": "978265147964821504",
+   "created_at": "Mon Mar 26 13:39:21 +0000 2018",
+   "text": "@yama_code https://t.co/bGkIOFuwh9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978238558019424300,
+   "in_reply_to_status_id_str": "978238558019424257",
+   "in_reply_to_screen_name": "yama_code",
+   "urls": [
+    {
+     "url": "https://t.co/bGkIOFuwh9",
+     "expand": "https://www.pluralsight.com/product/pluralsight-iq"
+    }
+   ]
+  },
+  {
+   "id": 978123786628235300,
+   "id_str": "978123786628235264",
+   "created_at": "Mon Mar 26 04:17:38 +0000 2018",
+   "text": "I still don't know JS. https://t.co/Mp6I819hMr",
+   "retweet_count": 2,
+   "favorite_count": 56,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Mp6I819hMr",
+     "expand": "https://twitter.com/getify/status/978118181146505216"
+    }
+   ]
+  },
+  {
+   "id": 975811955285020700,
+   "id_str": "975811955285020672",
+   "created_at": "Mon Mar 19 19:11:14 +0000 2018",
+   "text": "RT @getify: I'm really proud of the program for this year's @FluentConf and I sincerely hope all of you can attend and join the conversatio…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975811794039115800,
+    "id_str": "975811794039115776",
+    "created_at": "Mon Mar 19 19:10:36 +0000 2018",
+    "text": "I'm really proud of the program for this year's @FluentConf and I sincerely hope all of you can attend and join the… https://t.co/wUqTmAzMUM",
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wUqTmAzMUM",
+      "expand": "https://twitter.com/i/web/status/975811794039115776"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975795186361040900,
+   "id_str": "975795186361040897",
+   "created_at": "Mon Mar 19 18:04:36 +0000 2018",
+   "text": "RT @getify: When you're learning JS and everything's going fine, and then...\n\nhttps://t.co/jjHNox5swE",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jjHNox5swE",
+     "expand": "http://www.giphy.com/gifs/XHVeNOblrNfZany4Pl"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975794862208495600,
+    "id_str": "975794862208495616",
+    "created_at": "Mon Mar 19 18:03:19 +0000 2018",
+    "text": "When you're learning JS and everything's going fine, and then...\n\nhttps://t.co/jjHNox5swE",
+    "retweet_count": 11,
+    "favorite_count": 43,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jjHNox5swE",
+      "expand": "http://www.giphy.com/gifs/XHVeNOblrNfZany4Pl"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975389871316578300,
+   "id_str": "975389871316578305",
+   "created_at": "Sun Mar 18 15:14:01 +0000 2018",
+   "text": "RT @cityjsconf: 8 days to go! Cant wait 4  #debate on \"The future direction of #JavaScript, types, #functionalprogramming, and more.\" betwe…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975369377343246300,
+    "id_str": "975369377343246339",
+    "created_at": "Sun Mar 18 13:52:35 +0000 2018",
+    "text": "8 days to go! Cant wait 4  #debate on \"The future direction of #JavaScript, types, #functionalprogramming, and more… https://t.co/4x1Wj7GiA5",
+    "retweet_count": 19,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4x1Wj7GiA5",
+      "expand": "https://twitter.com/i/web/status/975369377343246339"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974344319875285000,
+   "id_str": "974344319875284992",
+   "created_at": "Thu Mar 15 17:59:22 +0000 2018",
+   "text": "RT @software_daily: \"After exploring the idea of frameworks versus raw JavaScript, Kyle and I discuss asynchronous JavaScript, from concurr…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974340781434646500,
+    "id_str": "974340781434646528",
+    "created_at": "Thu Mar 15 17:45:19 +0000 2018",
+    "text": "\"After exploring the idea of frameworks versus raw JavaScript, Kyle and I discuss asynchronous JavaScript, from con… https://t.co/XxxJJg1aC3",
+    "retweet_count": 13,
+    "favorite_count": 57,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XxxJJg1aC3",
+      "expand": "https://twitter.com/i/web/status/974340781434646528"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974344250669363200,
+   "id_str": "974344250669363201",
+   "created_at": "Thu Mar 15 17:59:06 +0000 2018",
+   "text": "this was a very fun podcast episode to record! https://t.co/4u76lAIwil",
+   "retweet_count": 3,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4u76lAIwil",
+     "expand": "https://twitter.com/software_daily/status/974340781434646528"
+    }
+   ]
+  },
+  {
+   "id": 974259636948922400,
+   "id_str": "974259636948922370",
+   "created_at": "Thu Mar 15 12:22:52 +0000 2018",
+   "text": "@smlpth indeed, that's exactly what happened.",
+   "retweet_count": 0,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": 974240142188785700,
+   "in_reply_to_status_id_str": "974240142188785665",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": []
+  },
+  {
+   "id": 973667323033858000,
+   "id_str": "973667323033858054",
+   "created_at": "Tue Mar 13 21:09:14 +0000 2018",
+   "text": "RT @fresheventsfl: Don't miss your opportunity for hands-on training on the fundamentals of JavaScript promises, generators and async from…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973280775859818500,
+    "id_str": "973280775859818498",
+    "created_at": "Mon Mar 12 19:33:14 +0000 2018",
+    "text": "Don't miss your opportunity for hands-on training on the fundamentals of JavaScript promises, generators and async… https://t.co/JCB3GPq4KA",
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JCB3GPq4KA",
+      "expand": "https://twitter.com/i/web/status/973280775859818498"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972495705595043800,
+   "id_str": "972495705595043840",
+   "created_at": "Sat Mar 10 15:33:38 +0000 2018",
+   "text": "RT @getify: 20+ yrs dev exp, 8 books w/ 100k+ copies sold, 300k+ hours watched of my videos, 4k+ taught in person...\n\nAnd you know what? I…",
+   "retweet_count": 2070,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972495616600293400,
+    "id_str": "972495616600293381",
+    "created_at": "Sat Mar 10 15:33:17 +0000 2018",
+    "text": "20+ yrs dev exp, 8 books w/ 100k+ copies sold, 300k+ hours watched of my videos, 4k+ taught in person...\n\nAnd you k… https://t.co/6qgdY7shTw",
+    "retweet_count": 2070,
+    "favorite_count": 5701,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6qgdY7shTw",
+      "expand": "https://twitter.com/i/web/status/972495616600293381"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972286643758485500,
+   "id_str": "972286643758485504",
+   "created_at": "Sat Mar 10 01:42:54 +0000 2018",
+   "text": "awesome effort! https://t.co/C1dmcvDzL4",
+   "retweet_count": 1,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/C1dmcvDzL4",
+     "expand": "https://twitter.com/smlpth/status/972205050268405761"
+    }
+   ]
+  },
+  {
+   "id": 971062409245884400,
+   "id_str": "971062409245884416",
+   "created_at": "Tue Mar 06 16:38:14 +0000 2018",
+   "text": "RT @getify: Some exciting news:\n\nMy startup @AskDevGo and @HatchCrypto have signed a partnership agreement. This means I will be helping th…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971061683841065000,
+    "id_str": "971061683841064961",
+    "created_at": "Tue Mar 06 16:35:21 +0000 2018",
+    "text": "Some exciting news:\n\nMy startup @AskDevGo and @HatchCrypto have signed a partnership agreement. This means I will b… https://t.co/f7xIZZgDd6",
+    "retweet_count": 20,
+    "favorite_count": 96,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/f7xIZZgDd6",
+      "expand": "https://twitter.com/i/web/status/971061683841064961"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971062331231883300,
+   "id_str": "971062331231883264",
+   "created_at": "Tue Mar 06 16:37:55 +0000 2018",
+   "text": "amazing progress!!!!! https://t.co/FIyBvyy56Q",
+   "retweet_count": 0,
+   "favorite_count": 18,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FIyBvyy56Q",
+     "expand": "https://twitter.com/amesimmons/status/970959110337425408"
+    }
+   ]
+  },
+  {
+   "id": 970666708833796100,
+   "id_str": "970666708833796097",
+   "created_at": "Mon Mar 05 14:25:52 +0000 2018",
+   "text": "@smlpth @YannickMontes @ZeBaguette It's an interesting point. I've not run across, personally, the confusion betwee… https://t.co/ZX7Wbldxq2",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970652315526029300,
+   "in_reply_to_status_id_str": "970652315526029312",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": [
+    {
+     "url": "https://t.co/ZX7Wbldxq2",
+     "expand": "https://twitter.com/i/web/status/970666708833796097"
+    }
+   ]
+  },
+  {
+   "id": 970355664441761800,
+   "id_str": "970355664441761792",
+   "created_at": "Sun Mar 04 17:49:53 +0000 2018",
+   "text": "RT @getify: I'm helping w/ a unique JS learning event: https://t.co/edqvAhOtTm This 1-day online training (Apr13) incl four 2-hr tutorials…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/edqvAhOtTm",
+     "expand": "http://knowjs.org"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970355247859294200,
+    "id_str": "970355247859294210",
+    "created_at": "Sun Mar 04 17:48:14 +0000 2018",
+    "text": "I'm helping w/ a unique JS learning event: https://t.co/edqvAhOtTm This 1-day online training (Apr13) incl four 2-h… https://t.co/B7xXtJWVOX",
+    "retweet_count": 16,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/edqvAhOtTm",
+      "expand": "http://knowjs.org"
+     },
+     {
+      "url": "https://t.co/B7xXtJWVOX",
+      "expand": "https://twitter.com/i/web/status/970355247859294210"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970038239657648100,
+   "id_str": "970038239657648128",
+   "created_at": "Sat Mar 03 20:48:33 +0000 2018",
+   "text": "RT @yama_code: @smlpth @jaffathecake @YDKJS It's easier said than done but its the best piece of advise you can give a new dev. I was given…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970037178339348500,
+    "id_str": "970037178339348481",
+    "created_at": "Sat Mar 03 20:44:20 +0000 2018",
+    "text": "@smlpth @jaffathecake @YDKJS It's easier said than done but its the best piece of advise you can give a new dev. I… https://t.co/UQmF3Cm85y",
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "place": null,
+    "in_reply_to_status_id": 970004534352339000,
+    "in_reply_to_status_id_str": "970004534352338947",
+    "in_reply_to_screen_name": "smlpth",
+    "urls": [
+     {
+      "url": "https://t.co/UQmF3Cm85y",
+      "expand": "https://twitter.com/i/web/status/970037178339348481"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970032229312335900,
+   "id_str": "970032229312335872",
+   "created_at": "Sat Mar 03 20:24:40 +0000 2018",
+   "text": "RT @smlpth: Strive to master JavaScript not so that you’ll be able to use tools like jQuery, React and Vue.\n\nStrive to master JavaScript so…",
+   "retweet_count": 26,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970004534352339000,
+    "id_str": "970004534352338947",
+    "created_at": "Sat Mar 03 18:34:37 +0000 2018",
+    "text": "Strive to master JavaScript not so that you’ll be able to use tools like jQuery, React and Vue.\n\nStrive to master J… https://t.co/Tnhts2SRY5",
+    "retweet_count": 26,
+    "favorite_count": 71,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Tnhts2SRY5",
+      "expand": "https://twitter.com/i/web/status/970004534352338947"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969706426603114500,
+   "id_str": "969706426603114501",
+   "created_at": "Fri Mar 02 22:50:03 +0000 2018",
+   "text": "@bryancr89 because `map(..)` sends 3 values to its callback: val, index, and arr. The `index` will then pass into `… https://t.co/AQWvF8rVAD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969705300193370100,
+   "in_reply_to_status_id_str": "969705300193370112",
+   "in_reply_to_screen_name": "bryancr89",
+   "urls": [
+    {
+     "url": "https://t.co/AQWvF8rVAD",
+     "expand": "https://twitter.com/i/web/status/969706426603114501"
+    }
+   ]
+  },
+  {
+   "id": 969613847546998800,
+   "id_str": "969613847546998785",
+   "created_at": "Fri Mar 02 16:42:10 +0000 2018",
+   "text": "I would simply reject any notion that objectively states \"this thing is explicit and this thing isn't\", no matter w… https://t.co/8wXV2Ld1jK",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 969613846494285800,
+   "in_reply_to_status_id_str": "969613846494285829",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/8wXV2Ld1jK",
+     "expand": "https://twitter.com/i/web/status/969613847546998785"
+    }
+   ]
+  },
+  {
+   "id": 969613846494285800,
+   "id_str": "969613846494285829",
+   "created_at": "Fri Mar 02 16:42:10 +0000 2018",
+   "text": "so, if you're looking for \"obvious\" to make your code more readable, you can either choose to more heavily weight f… https://t.co/gVogTN5B3X",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 969613845357649900,
+   "in_reply_to_status_id_str": "969613845357649922",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/gVogTN5B3X",
+     "expand": "https://twitter.com/i/web/status/969613846494285829"
+    }
+   ]
+  },
+  {
+   "id": 969613845357649900,
+   "id_str": "969613845357649922",
+   "created_at": "Fri Mar 02 16:42:09 +0000 2018",
+   "text": "what String(x) and Number(x) have going for them, that tips their scales more \"explicit\", is the plain-english arti… https://t.co/yebhWTCAGU",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969613843767980000,
+   "in_reply_to_status_id_str": "969613843767980033",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/yebhWTCAGU",
+     "expand": "https://twitter.com/i/web/status/969613845357649922"
+    }
+   ]
+  },
+  {
+   "id": 969613843767980000,
+   "id_str": "969613843767980033",
+   "created_at": "Fri Mar 02 16:42:09 +0000 2018",
+   "text": "then we consider String(x) and Number(x). are they idiomatic? not as much, no.\n\nbut are they explicit? I can't thin… https://t.co/9pdSU29lGQ",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 969613841574301700,
+   "in_reply_to_status_id_str": "969613841574301697",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/9pdSU29lGQ",
+     "expand": "https://twitter.com/i/web/status/969613843767980033"
+    }
+   ]
+  },
+  {
+   "id": 969613841574301700,
+   "id_str": "969613841574301697",
+   "created_at": "Fri Mar 02 16:42:09 +0000 2018",
+   "text": "ultimately, most seasoned devs feel more comfortable with x + \"\" than x - 0. that's fine.\n\ni encounter a lot of new… https://t.co/CDpDoHWZvZ",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 969613840446091300,
+   "in_reply_to_status_id_str": "969613840446091264",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/CDpDoHWZvZ",
+     "expand": "https://twitter.com/i/web/status/969613841574301697"
+    }
+   ]
+  },
+  {
+   "id": 969613840446091300,
+   "id_str": "969613840446091264",
+   "created_at": "Fri Mar 02 16:42:08 +0000 2018",
+   "text": "so x + \"\" is only idiomatic because people decided it was so, little by little, over many years. it's not idiomatic… https://t.co/6rwNBOAYDe",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969613839451992000,
+   "in_reply_to_status_id_str": "969613839451992064",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/6rwNBOAYDe",
+     "expand": "https://twitter.com/i/web/status/969613840446091264"
+    }
+   ]
+  },
+  {
+   "id": 969613839451992000,
+   "id_str": "969613839451992064",
+   "created_at": "Fri Mar 02 16:42:08 +0000 2018",
+   "text": "but then again, idiomatic isn't an objective label, it's a subjective term that we apply to things that seem like t… https://t.co/DLOpMmuMKj",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969613838457954300,
+   "in_reply_to_status_id_str": "969613838457954304",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/DLOpMmuMKj",
+     "expand": "https://twitter.com/i/web/status/969613839451992064"
+    }
+   ]
+  },
+  {
+   "id": 969613838457954300,
+   "id_str": "969613838457954304",
+   "created_at": "Fri Mar 02 16:42:08 +0000 2018",
+   "text": "as such, judging x + \"\" and x - 0 objectively, x + \"\" is \"more implicit\" (aka, less obvious) than x - 0.\n\nhowever,… https://t.co/mOP1Um3wN8",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969613836256006100,
+   "in_reply_to_status_id_str": "969613836256006144",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/mOP1Um3wN8",
+     "expand": "https://twitter.com/i/web/status/969613838457954304"
+    }
+   ]
+  },
+  {
+   "id": 969613836256006100,
+   "id_str": "969613836256006144",
+   "created_at": "Fri Mar 02 16:42:07 +0000 2018",
+   "text": "For x + \"\", it relies not only on a coercion hidden inside the + operation (to turn x into a string), but also on t… https://t.co/ofMWUh2nqJ",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969613835018612700,
+   "in_reply_to_status_id_str": "969613835018612736",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/ofMWUh2nqJ",
+     "expand": "https://twitter.com/i/web/status/969613836256006144"
+    }
+   ]
+  },
+  {
+   "id": 969613835018612700,
+   "id_str": "969613835018612736",
+   "created_at": "Fri Mar 02 16:42:07 +0000 2018",
+   "text": "Interesting conversation on explicit vs implicit coercion. Consider:\n\nx + \"\"   // to-string\nx - 0   // to-number\n\na… https://t.co/W8lWfBc2x7",
+   "retweet_count": 9,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/W8lWfBc2x7",
+     "expand": "https://twitter.com/i/web/status/969613835018612736"
+    }
+   ]
+  },
+  {
+   "id": 969606716529791000,
+   "id_str": "969606716529790976",
+   "created_at": "Fri Mar 02 16:13:50 +0000 2018",
+   "text": "@SuperG4bry @BrendanEich @smlpth i have encountered countless \"new to js\" learners who are confused by the operator… https://t.co/KUs4QF2Hqz",
    "retweet_count": 0,
    "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 964610479078375400,
-   "in_reply_to_status_id_str": "964610479078375424",
-   "in_reply_to_screen_name": "bmac_editor",
+   "in_reply_to_status_id": 969606190207397900,
+   "in_reply_to_status_id_str": "969606190207397888",
+   "in_reply_to_screen_name": "SuperG4bry",
+   "urls": [
+    {
+     "url": "https://t.co/KUs4QF2Hqz",
+     "expand": "https://twitter.com/i/web/status/969606716529790976"
+    }
+   ]
+  },
+  {
+   "id": 969606062134480900,
+   "id_str": "969606062134480896",
+   "created_at": "Fri Mar 02 16:11:14 +0000 2018",
+   "text": "@BrendanEich @SuperG4bry @smlpth while x + \"\" is indeed idiomatic/common, that argument only works for seasoned dev… https://t.co/vXsQPtvJde",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 969605027747844100,
+   "in_reply_to_status_id_str": "969605027747844097",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/vXsQPtvJde",
+     "expand": "https://twitter.com/i/web/status/969606062134480896"
+    }
+   ]
+  },
+  {
+   "id": 969605027747844100,
+   "id_str": "969605027747844097",
+   "created_at": "Fri Mar 02 16:07:07 +0000 2018",
+   "text": "@BrendanEich @SuperG4bry @smlpth but in the case of binary +, the operator is overloaded, and thus there's a level… https://t.co/1B4BSWP8ue",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969604799556673500,
+   "in_reply_to_status_id_str": "969604799556673536",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/1B4BSWP8ue",
+     "expand": "https://twitter.com/i/web/status/969605027747844097"
+    }
+   ]
+  },
+  {
+   "id": 969604799556673500,
+   "id_str": "969604799556673536",
+   "created_at": "Fri Mar 02 16:06:13 +0000 2018",
+   "text": "@BrendanEich @SuperG4bry @smlpth in the case of unary +, there's no other usage of that operator than its explicit… https://t.co/mrq1CjrkiG",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969604626709450800,
+   "in_reply_to_status_id_str": "969604626709450752",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/mrq1CjrkiG",
+     "expand": "https://twitter.com/i/web/status/969604799556673536"
+    }
+   ]
+  },
+  {
+   "id": 969604626709450800,
+   "id_str": "969604626709450752",
+   "created_at": "Fri Mar 02 16:05:32 +0000 2018",
+   "text": "@BrendanEich @SuperG4bry @smlpth of course, you're right, if something is idiomatic (that is, in common use) it's m… https://t.co/kYYlx0CE0I",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969604447092510700,
+   "in_reply_to_status_id_str": "969604447092510720",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/kYYlx0CE0I",
+     "expand": "https://twitter.com/i/web/status/969604626709450752"
+    }
+   ]
+  },
+  {
+   "id": 969604447092510700,
+   "id_str": "969604447092510720",
+   "created_at": "Fri Mar 02 16:04:49 +0000 2018",
+   "text": "@BrendanEich @SuperG4bry @smlpth i respectfully disagree, brendan, because I define \"explicit\" and \"implicit\" in su… https://t.co/vTZHRF6Muu",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969600636034596900,
+   "in_reply_to_status_id_str": "969600636034596864",
+   "in_reply_to_screen_name": "BrendanEich",
+   "urls": [
+    {
+     "url": "https://t.co/vTZHRF6Muu",
+     "expand": "https://twitter.com/i/web/status/969604447092510720"
+    }
+   ]
+  },
+  {
+   "id": 969590789440524300,
+   "id_str": "969590789440524288",
+   "created_at": "Fri Mar 02 15:10:32 +0000 2018",
+   "text": "@BrendanEich @smlpth integrity and speed may indeed be true (not generally concerns of mine) but i would have to di… https://t.co/yCffc4R0bG",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969589598681677800,
+   "in_reply_to_status_id_str": "969589598681677824",
+   "in_reply_to_screen_name": "BrendanEich",
+   "urls": [
+    {
+     "url": "https://t.co/yCffc4R0bG",
+     "expand": "https://twitter.com/i/web/status/969590789440524288"
+    }
+   ]
+  },
+  {
+   "id": 969577386160394200,
+   "id_str": "969577386160394241",
+   "created_at": "Fri Mar 02 14:17:17 +0000 2018",
+   "text": "@smlpth I dunno why people prefer that. I surely don't. But lots of high profile people endorse that option, includ… https://t.co/r7oM2Bv1sj",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 969570951951155200,
+   "in_reply_to_status_id_str": "969570951951155201",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": [
+    {
+     "url": "https://t.co/r7oM2Bv1sj",
+     "expand": "https://twitter.com/i/web/status/969577386160394241"
+    }
+   ]
+  },
+  {
+   "id": 969213799910838300,
+   "id_str": "969213799910838273",
+   "created_at": "Thu Mar 01 14:12:31 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth far too many times, someone well into their career learns something that they've spent yea… https://t.co/5Vc0lwbfuK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969212881765044200,
+   "in_reply_to_status_id_str": "969212881765044230",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/5Vc0lwbfuK",
+     "expand": "https://twitter.com/i/web/status/969213799910838273"
+    }
+   ]
+  },
+  {
+   "id": 969212881765044200,
+   "id_str": "969212881765044230",
+   "created_at": "Thu Mar 01 14:08:52 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth counter-intuitively, i think the worst person to make that \"decision\" for a new learner is… https://t.co/fNrJZrTYXL",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 969212322186178600,
+   "in_reply_to_status_id_str": "969212322186178560",
+   "in_reply_to_screen_name": "EmmiePaivarinta",
+   "urls": [
+    {
+     "url": "https://t.co/fNrJZrTYXL",
+     "expand": "https://twitter.com/i/web/status/969212881765044230"
+    }
+   ]
+  },
+  {
+   "id": 969211464337776600,
+   "id_str": "969211464337776640",
+   "created_at": "Thu Mar 01 14:03:14 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth i don't think there's any room in there for teachers to pre-judge that X or Y is not somet… https://t.co/dDiMeeMeSa",
+   "retweet_count": 2,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 969211253095895000,
+   "in_reply_to_status_id_str": "969211253095895040",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/dDiMeeMeSa",
+     "expand": "https://twitter.com/i/web/status/969211464337776640"
+    }
+   ]
+  },
+  {
+   "id": 969211253095895000,
+   "id_str": "969211253095895040",
+   "created_at": "Thu Mar 01 14:02:24 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth instead, all learners should be set with proper mindset, motivated and encouraged to under… https://t.co/2uCIV5HJ9E",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 969210812115058700,
+   "in_reply_to_status_id_str": "969210812115058688",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/2uCIV5HJ9E",
+     "expand": "https://twitter.com/i/web/status/969211253095895040"
+    }
+   ]
+  },
+  {
+   "id": 969210812115058700,
+   "id_str": "969210812115058688",
+   "created_at": "Thu Mar 01 14:00:39 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth learning obviously occurs in layers. but i would never say that a new learner should be tr… https://t.co/I1mpgWykqm",
+   "retweet_count": 1,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 969210539397337100,
+   "in_reply_to_status_id_str": "969210539397337088",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/I1mpgWykqm",
+     "expand": "https://twitter.com/i/web/status/969210812115058688"
+    }
+   ]
+  },
+  {
+   "id": 969210539397337100,
+   "id_str": "969210539397337088",
+   "created_at": "Thu Mar 01 13:59:34 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth i don't think learners need to \"avoid pitfalls\" any more than those who are further into l… https://t.co/8duP84YILD",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969210339836551200,
+   "in_reply_to_status_id_str": "969210339836551168",
+   "in_reply_to_screen_name": "YDKJS",
+   "urls": [
+    {
+     "url": "https://t.co/8duP84YILD",
+     "expand": "https://twitter.com/i/web/status/969210539397337088"
+    }
+   ]
+  },
+  {
+   "id": 969210339836551200,
+   "id_str": "969210339836551168",
+   "created_at": "Thu Mar 01 13:58:46 +0000 2018",
+   "text": "@EmmiePaivarinta @smlpth i hear this kind of assertion a lot. i have two problems with this mindset:\n\n1. when you'r… https://t.co/b3Sovflq2P",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 969208107317563400,
+   "in_reply_to_status_id_str": "969208107317563392",
+   "in_reply_to_screen_name": "EmmiePaivarinta",
+   "urls": [
+    {
+     "url": "https://t.co/b3Sovflq2P",
+     "expand": "https://twitter.com/i/web/status/969210339836551168"
+    }
+   ]
+  },
+  {
+   "id": 969203239081140200,
+   "id_str": "969203239081140224",
+   "created_at": "Thu Mar 01 13:30:33 +0000 2018",
+   "text": "RT @smlpth: A good programming principle in @YDKJS that applies to more than JavaScript: just because a mechanism can be abused or misused…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969155045014097900,
+    "id_str": "969155045014097921",
+    "created_at": "Thu Mar 01 10:19:03 +0000 2018",
+    "text": "A good programming principle in @YDKJS that applies to more than JavaScript: just because a mechanism can be abused… https://t.co/XFea8SiiyO",
+    "retweet_count": 4,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XFea8SiiyO",
+      "expand": "https://twitter.com/i/web/status/969155045014097921"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968887592665124900,
+   "id_str": "968887592665124866",
+   "created_at": "Wed Feb 28 16:36:17 +0000 2018",
+   "text": "@smlpth @adam_cameron but i do agree that whether those idioms are understandable/recognizable/explicit or not is s… https://t.co/hOQwRgSa68",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968886947539308500,
+   "in_reply_to_status_id_str": "968886947539308544",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": [
+    {
+     "url": "https://t.co/hOQwRgSa68",
+     "expand": "https://twitter.com/i/web/status/968887592665124866"
+    }
+   ]
+  },
+  {
+   "id": 968887422871310300,
+   "id_str": "968887422871310336",
+   "created_at": "Wed Feb 28 16:35:37 +0000 2018",
+   "text": "@smlpth @adam_cameron when you say \"most JS developers\", what are you basing that on? if we're talking about JS dev… https://t.co/m3TaKb0xqx",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968886947539308500,
+   "in_reply_to_status_id_str": "968886947539308544",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": [
+    {
+     "url": "https://t.co/m3TaKb0xqx",
+     "expand": "https://twitter.com/i/web/status/968887422871310336"
+    }
+   ]
+  },
+  {
+   "id": 968886203775946800,
+   "id_str": "968886203775946754",
+   "created_at": "Wed Feb 28 16:30:46 +0000 2018",
+   "text": "@AlexSashaRegan @smlpth sure, that's a fine function to define... but the bigger point is, there's no need for any… https://t.co/6rNlCDpzhV",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968884637790486500,
+   "in_reply_to_status_id_str": "968884637790486528",
+   "in_reply_to_screen_name": "AlexSashaRegan",
+   "urls": [
+    {
+     "url": "https://t.co/6rNlCDpzhV",
+     "expand": "https://twitter.com/i/web/status/968886203775946754"
+    }
+   ]
+  },
+  {
+   "id": 968883099605065700,
+   "id_str": "968883099605065728",
+   "created_at": "Wed Feb 28 16:18:26 +0000 2018",
+   "text": "@smlpth @Signez .includes is easily polyfilled, so you can start using it now even for ES5: https://t.co/Q6n3ywD4dr",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968873861751169000,
+   "in_reply_to_status_id_str": "968873861751169025",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": [
+    {
+     "url": "https://t.co/Q6n3ywD4dr",
+     "expand": "https://github.com/mathiasbynens/String.prototype.includes"
+    }
+   ]
+  },
+  {
+   "id": 968871612190744600,
+   "id_str": "968871612190744576",
+   "created_at": "Wed Feb 28 15:32:47 +0000 2018",
+   "text": "@Signez @smlpth yep, includes() is better. this book was written before that was part of the standard.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968871242492194800,
+   "in_reply_to_status_id_str": "968871242492194816",
+   "in_reply_to_screen_name": "Signez",
    "urls": []
+  },
+  {
+   "id": 968871374549913600,
+   "id_str": "968871374549913600",
+   "created_at": "Wed Feb 28 15:31:51 +0000 2018",
+   "text": "@smlpth Thankfully, now we can just use `.includes(..)` and skip both the ~ and the -1 junk. :)",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 968865541472641000,
+   "in_reply_to_status_id_str": "968865541472641025",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": []
+  },
+  {
+   "id": 968046490605236200,
+   "id_str": "968046490605236224",
+   "created_at": "Mon Feb 26 08:54:03 +0000 2018",
+   "text": "RT @amesimmons: false == \"0\" // true\nfalse == 0 // true\nfalse == \"\" // true\nfalse == [] // true\n\"\" == 0 // true\n\"\" == [] // true\n0 == [] //…",
+   "retweet_count": 31,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968042161114632200,
+    "id_str": "968042161114632192",
+    "created_at": "Mon Feb 26 08:36:51 +0000 2018",
+    "text": "false == \"0\" // true\nfalse == 0 // true\nfalse == \"\" // true\nfalse == [] // true\n\"\" == 0 // true\n\"\" == [] // true\n0… https://t.co/rgTsqCuINn",
+    "retweet_count": 31,
+    "favorite_count": 105,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rgTsqCuINn",
+      "expand": "https://twitter.com/i/web/status/968042161114632192"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967498280862089200,
+   "id_str": "967498280862089218",
+   "created_at": "Sat Feb 24 20:35:40 +0000 2018",
+   "text": "@zh0ux1ang that's a lot of work, nicely done!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967433230663106600,
+   "in_reply_to_status_id_str": "967433230663106560",
+   "in_reply_to_screen_name": "zh0ux1ang",
+   "urls": []
+  },
+  {
+   "id": 967498215984717800,
+   "id_str": "967498215984717825",
+   "created_at": "Sat Feb 24 20:35:24 +0000 2018",
+   "text": "RT @getify: Have you read my @FLJSBook on functional programming in JS? I would really appreciate you posting a review on Amazon here: http…",
+   "retweet_count": 16,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967496674858938400,
+    "id_str": "967496674858938369",
+    "created_at": "Sat Feb 24 20:29:17 +0000 2018",
+    "text": "Have you read my @FLJSBook on functional programming in JS? I would really appreciate you posting a review on Amazo… https://t.co/9v54rsHKYO",
+    "retweet_count": 16,
+    "favorite_count": 65,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9v54rsHKYO",
+      "expand": "https://twitter.com/i/web/status/967496674858938369"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967173594831839200,
+   "id_str": "967173594831839232",
+   "created_at": "Fri Feb 23 23:05:28 +0000 2018",
+   "text": "@AmeliasBrain @levelofthinking here's a blog post series I wrote that may also help: https://t.co/rmgF9ADeuA",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 967170012724191200,
+   "in_reply_to_status_id_str": "967170012724191232",
+   "in_reply_to_screen_name": "AmeliasBrain",
+   "urls": [
+    {
+     "url": "https://t.co/rmgF9ADeuA",
+     "expand": "https://davidwalsh.name/javascript-objects"
+    }
+   ]
   }
  ]
 }

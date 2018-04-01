@@ -1,5 +1,5 @@
 {
- "time": 1522594948461,
+ "time": 1522595113209,
  "lists": [
   {
    "id": 974450275309314000,
@@ -13,91 +13,6 @@
    "in_reply_to_status_id_str": "974356270370164737",
    "in_reply_to_screen_name": "utdrmac",
    "urls": []
-  },
-  {
-   "id": 972996717107957800,
-   "id_str": "972996717107957760",
-   "created_at": "Mon Mar 12 00:44:29 +0000 2018",
-   "text": "@gabidavila @stoker Yes it’s intentional. Json functions work on native type, text, variables.. it creates a good migration path",
-   "retweet_count": 1,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": 972834286301835300,
-   "in_reply_to_status_id_str": "972834286301835264",
-   "in_reply_to_screen_name": "gabidavila",
-   "urls": []
-  },
-  {
-   "id": 968836536614752300,
-   "id_str": "968836536614752256",
-   "created_at": "Wed Feb 28 13:13:25 +0000 2018",
-   "text": "RT @lefred: How to safely upgrade to @MySQL 8.0 ?  https://t.co/cTOZSS4W8l",
-   "retweet_count": 13,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/cTOZSS4W8l",
-     "expand": "http://lefred.be/content/how-to-safely-upgrade-to-mysql-8-0/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 968414789885194200,
-    "id_str": "968414789885194241",
-    "created_at": "Tue Feb 27 09:17:32 +0000 2018",
-    "text": "How to safely upgrade to @MySQL 8.0 ?  https://t.co/cTOZSS4W8l",
-    "retweet_count": 13,
-    "favorite_count": 12,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/cTOZSS4W8l",
-      "expand": "http://lefred.be/content/how-to-safely-upgrade-to-mysql-8-0/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964937378908557300,
-   "id_str": "964937378908557312",
-   "created_at": "Sat Feb 17 18:59:33 +0000 2018",
-   "text": "RT @lefred: One year of @MySQL Replication Contributions https://t.co/l96a8BiXfu",
-   "retweet_count": 6,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/l96a8BiXfu",
-     "expand": "https://mysqlhighavailability.com/one-year-of-mysql-replication-contributions/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 964535583937908700,
-    "id_str": "964535583937908736",
-    "created_at": "Fri Feb 16 16:22:58 +0000 2018",
-    "text": "One year of @MySQL Replication Contributions https://t.co/l96a8BiXfu",
-    "retweet_count": 6,
-    "favorite_count": 9,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/l96a8BiXfu",
-      "expand": "https://mysqlhighavailability.com/one-year-of-mysql-replication-contributions/"
-     }
-    ]
-   }
   }
  ]
 }
