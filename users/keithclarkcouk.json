@@ -1,6 +1,963 @@
 {
- "time": 1519367047290,
+ "time": 1522594961878,
  "lists": [
+  {
+   "id": 979740233322385400,
+   "id_str": "979740233322385408",
+   "created_at": "Fri Mar 30 15:20:48 +0000 2018",
+   "text": "RT @addyosmani: Service Workers shipped in Safari for iOS 11.3!! Modern support for offline-caching &amp; network resilience coming to millions…",
+   "retweet_count": 1382,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979606651429822500,
+    "id_str": "979606651429822464",
+    "created_at": "Fri Mar 30 06:30:00 +0000 2018",
+    "text": "Service Workers shipped in Safari for iOS 11.3!! Modern support for offline-caching &amp; network resilience coming to… https://t.co/6WLEezlIsv",
+    "retweet_count": 1382,
+    "favorite_count": 2797,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6WLEezlIsv",
+      "expand": "https://twitter.com/i/web/status/979606651429822464"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977203658763964400,
+   "id_str": "977203658763964417",
+   "created_at": "Fri Mar 23 15:21:22 +0000 2018",
+   "text": "3D model examples updated: https://t.co/ek7tdwQL9j You may need to clear your cache.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ek7tdwQL9j",
+     "expand": "https://keithclark.co.uk/labs/3d-model-custom-element/examples/tests/"
+    }
+   ]
+  },
+  {
+   "id": 977136700857167900,
+   "id_str": "977136700857167872",
+   "created_at": "Fri Mar 23 10:55:18 +0000 2018",
+   "text": "@james_allardice @render_conf Yeah, me too.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977122760865534000,
+   "in_reply_to_status_id_str": "977122760865533952",
+   "in_reply_to_screen_name": "james_allardice",
+   "urls": []
+  },
+  {
+   "id": 977099485426995200,
+   "id_str": "977099485426995200",
+   "created_at": "Fri Mar 23 08:27:25 +0000 2018",
+   "text": "@carmat71 @render_conf I wish I was. It would have been good to catch up!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977071530713714700,
+   "in_reply_to_status_id_str": "977071530713714694",
+   "in_reply_to_screen_name": "carmat71",
+   "urls": []
+  },
+  {
+   "id": 976963579923583000,
+   "id_str": "976963579923582976",
+   "created_at": "Thu Mar 22 23:27:23 +0000 2018",
+   "text": "I'm looking for a good place to download a collection of CC licensed gltf models from so I can create some sample pages. Know of any?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 976927583249010700,
+   "id_str": "976927583249010688",
+   "created_at": "Thu Mar 22 21:04:20 +0000 2018",
+   "text": "I needed 35MB of dependencies to generate a 5KB JS file. I'm pretty sure they're the exact same 35MB of dependencie… https://t.co/MWVOirQGEv",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MWVOirQGEv",
+     "expand": "https://twitter.com/i/web/status/976927583249010688"
+    }
+   ]
+  },
+  {
+   "id": 976926079314284500,
+   "id_str": "976926079314284545",
+   "created_at": "Thu Mar 22 20:58:22 +0000 2018",
+   "text": "Along with a few bug fixes, the latest update to `&lt;x-model&gt;` adds support for gLTF (.gltf and .glb) objects 😀. I've… https://t.co/lMfUDKEG2r",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lMfUDKEG2r",
+     "expand": "https://twitter.com/i/web/status/976926079314284545"
+    }
+   ]
+  },
+  {
+   "id": 976859105481625600,
+   "id_str": "976859105481625602",
+   "created_at": "Thu Mar 22 16:32:14 +0000 2018",
+   "text": "@HartBeatChiCity @mrdoob Yeah - there's a bug with Safari that i'm trying to work around. 🤔",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976855590294220800,
+   "in_reply_to_status_id_str": "976855590294220800",
+   "in_reply_to_screen_name": "HartBeatChiCity",
+   "urls": []
+  },
+  {
+   "id": 976854414681133000,
+   "id_str": "976854414681133056",
+   "created_at": "Thu Mar 22 16:13:36 +0000 2018",
+   "text": "@Lady_Ada_King @mrdoob Most css properties now work as expected. You can makes changes to the test pages using devt… https://t.co/c8tViiBz9u",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976847745721028600,
+   "in_reply_to_status_id_str": "976847745721028609",
+   "in_reply_to_screen_name": "Lady_Ada_King",
+   "urls": [
+    {
+     "url": "https://t.co/c8tViiBz9u",
+     "expand": "https://twitter.com/i/web/status/976854414681133056"
+    }
+   ]
+  },
+  {
+   "id": 976853698893709300,
+   "id_str": "976853698893709313",
+   "created_at": "Thu Mar 22 16:10:45 +0000 2018",
+   "text": "@Prinzhorn Sounds interesting. I haven’t put any resource into performance yet as I’ve been focused on solving the… https://t.co/zNdeiCiSYV",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976851327371415600,
+   "in_reply_to_status_id_str": "976851327371415552",
+   "in_reply_to_screen_name": "Prinzhorn",
+   "urls": [
+    {
+     "url": "https://t.co/zNdeiCiSYV",
+     "expand": "https://twitter.com/i/web/status/976853698893709313"
+    }
+   ]
+  },
+  {
+   "id": 976849819800162300,
+   "id_str": "976849819800162305",
+   "created_at": "Thu Mar 22 15:55:20 +0000 2018",
+   "text": "@Lady_Ada_King @mrdoob Thanks! There are a few more updates sat in the dev branch, including gLTF support.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976847745721028600,
+   "in_reply_to_status_id_str": "976847745721028609",
+   "in_reply_to_screen_name": "Lady_Ada_King",
+   "urls": []
+  },
+  {
+   "id": 976605729674195000,
+   "id_str": "976605729674194944",
+   "created_at": "Wed Mar 21 23:45:25 +0000 2018",
+   "text": "@cvanw @JamesDiGioia @babeljs @_developit Microbundle looks good. I'm going to give that a try tomorrow. Thanks for the pointer.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976599327668760600,
+   "in_reply_to_status_id_str": "976599327668760576",
+   "in_reply_to_screen_name": "cvanw",
+   "urls": []
+  },
+  {
+   "id": 976603273892454400,
+   "id_str": "976603273892454400",
+   "created_at": "Wed Mar 21 23:35:39 +0000 2018",
+   "text": "Aiming to be in bed before tomorrow comes. I've had a few late nights getting ideas out of my head, coded up and tu… https://t.co/Fs8Ev3EP4O",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Fs8Ev3EP4O",
+     "expand": "https://twitter.com/i/web/status/976603273892454400"
+    }
+   ]
+  },
+  {
+   "id": 976601436518862800,
+   "id_str": "976601436518862848",
+   "created_at": "Wed Mar 21 23:28:21 +0000 2018",
+   "text": "@cvanw @JamesDiGioia @babeljs @_developit Ha! Build systems *always* make things more complicated!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976599327668760600,
+   "in_reply_to_status_id_str": "976599327668760576",
+   "in_reply_to_screen_name": "cvanw",
+   "urls": []
+  },
+  {
+   "id": 976595834480549900,
+   "id_str": "976595834480549888",
+   "created_at": "Wed Mar 21 23:06:05 +0000 2018",
+   "text": "Safari too 🎉\n\n(Shame about the scrollTop bug though)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976593412177760300,
+   "in_reply_to_status_id_str": "976593412177760256",
+   "in_reply_to_screen_name": "keithclarkcouk",
+   "urls": []
+  },
+  {
+   "id": 976595294430343200,
+   "id_str": "976595294430343168",
+   "created_at": "Wed Mar 21 23:03:57 +0000 2018",
+   "text": "It's also managing to consistently run at 60fps in Firefox and Chrome on my 2011 iMac while scrolling with all 9 el… https://t.co/3WWt4Y4sP8",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976593412177760300,
+   "in_reply_to_status_id_str": "976593412177760256",
+   "in_reply_to_screen_name": "keithclarkcouk",
+   "urls": [
+    {
+     "url": "https://t.co/3WWt4Y4sP8",
+     "expand": "https://twitter.com/i/web/status/976595294430343168"
+    }
+   ]
+  },
+  {
+   "id": 976593412177760300,
+   "id_str": "976593412177760256",
+   "created_at": "Wed Mar 21 22:56:28 +0000 2018",
+   "text": "Just for fun - I added a bunch of x-model elements to a local copy of my website. Models behave like any other elem… https://t.co/RIew0DU6rF",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RIew0DU6rF",
+     "expand": "https://twitter.com/i/web/status/976593412177760256"
+    }
+   ]
+  },
+  {
+   "id": 976568247226175500,
+   "id_str": "976568247226175488",
+   "created_at": "Wed Mar 21 21:16:28 +0000 2018",
+   "text": "RT @StevieBuckley: Slack have changed what data the workspace owner (your employer, community group admins, etc) can now access and yes, it…",
+   "retweet_count": 213,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976486984679030800,
+    "id_str": "976486984679030784",
+    "created_at": "Wed Mar 21 15:53:34 +0000 2018",
+    "text": "Slack have changed what data the workspace owner (your employer, community group admins, etc) can now access and ye… https://t.co/TDBCzQZk7Y",
+    "retweet_count": 213,
+    "favorite_count": 147,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TDBCzQZk7Y",
+      "expand": "https://twitter.com/i/web/status/976486984679030784"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976555113711009800,
+   "id_str": "976555113711009793",
+   "created_at": "Wed Mar 21 20:24:17 +0000 2018",
+   "text": "are github image previews broken for anyone else?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 976459850384371700,
+   "id_str": "976459850384371717",
+   "created_at": "Wed Mar 21 14:05:44 +0000 2018",
+   "text": "@mrdoob Oh great. I'll have a read while eating lunch 🥪",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976459209750470700,
+   "in_reply_to_status_id_str": "976459209750470656",
+   "in_reply_to_screen_name": "mrdoob",
+   "urls": []
+  },
+  {
+   "id": 976442356475088900,
+   "id_str": "976442356475088898",
+   "created_at": "Wed Mar 21 12:56:13 +0000 2018",
+   "text": "@mrdoob Are loaders like GLTLLoader not part of Three's core? - I was hoping to import them as a ES6 modules but ca… https://t.co/cGb78pe3D7",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "mrdoob",
+   "urls": [
+    {
+     "url": "https://t.co/cGb78pe3D7",
+     "expand": "https://twitter.com/i/web/status/976442356475088898"
+    }
+   ]
+  },
+  {
+   "id": 976423658985021400,
+   "id_str": "976423658985021442",
+   "created_at": "Wed Mar 21 11:41:56 +0000 2018",
+   "text": "@cvanw @babeljs Thanks — I'll take a look",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976420291663429600,
+   "in_reply_to_status_id_str": "976420291663429632",
+   "in_reply_to_screen_name": "cvanw",
+   "urls": []
+  },
+  {
+   "id": 976418920704901100,
+   "id_str": "976418920704901125",
+   "created_at": "Wed Mar 21 11:23:06 +0000 2018",
+   "text": "Is there a @babeljs plugin that can inline imported ES6 modules? At the moment I'm using rollup to concat my source… https://t.co/y3hfYKWb45",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/y3hfYKWb45",
+     "expand": "https://twitter.com/i/web/status/976418920704901125"
+    }
+   ]
+  },
+  {
+   "id": 976235040496595000,
+   "id_str": "976235040496594944",
+   "created_at": "Tue Mar 20 23:12:25 +0000 2018",
+   "text": "Adding support for different object formats to the &lt;x-model&gt; element. Say hello to the gLTF Duck 😀\n\n🦆 https://t.co/EalI7pDny9",
+   "retweet_count": 4,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 975800695176745000,
+   "id_str": "975800695176744962",
+   "created_at": "Mon Mar 19 18:26:29 +0000 2018",
+   "text": "3D model element now supports `transform-origin` :D\n\nhttps://t.co/eY4pVreECN",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/eY4pVreECN",
+     "expand": "https://github.com/keithclark/3d-model-element"
+    }
+   ]
+  },
+  {
+   "id": 975346934306295800,
+   "id_str": "975346934306295809",
+   "created_at": "Sun Mar 18 12:23:24 +0000 2018",
+   "text": "I'm raising github issues for the 3D model element because there are problems I can't figure out how to solve mysel… https://t.co/ZmFuE7n4by",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZmFuE7n4by",
+     "expand": "https://twitter.com/i/web/status/975346934306295809"
+    }
+   ]
+  },
+  {
+   "id": 974635174435663900,
+   "id_str": "974635174435663872",
+   "created_at": "Fri Mar 16 13:15:08 +0000 2018",
+   "text": "@mrdoob I've pushed my work on the 3D model custom element to github: https://t.co/eY4pVreECN",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973715457214591000,
+   "in_reply_to_status_id_str": "973715457214590976",
+   "in_reply_to_screen_name": "mrdoob",
+   "urls": [
+    {
+     "url": "https://t.co/eY4pVreECN",
+     "expand": "https://github.com/keithclark/3d-model-element"
+    }
+   ]
+  },
+  {
+   "id": 974612659235631100,
+   "id_str": "974612659235631104",
+   "created_at": "Fri Mar 16 11:45:40 +0000 2018",
+   "text": "@jasonkneen Great! Thanks for letting me know",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974612039825088500,
+   "in_reply_to_status_id_str": "974612039825088512",
+   "in_reply_to_screen_name": "jasonkneen",
+   "urls": []
+  },
+  {
+   "id": 974609579291172900,
+   "id_str": "974609579291172864",
+   "created_at": "Fri Mar 16 11:33:25 +0000 2018",
+   "text": "I've also added a custom element polyfill to the examples so they'll run in browsers that don't support web compone… https://t.co/4jfX9O9xDT",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4jfX9O9xDT",
+     "expand": "https://twitter.com/i/web/status/974609579291172864"
+    }
+   ]
+  },
+  {
+   "id": 974609122720141300,
+   "id_str": "974609122720141312",
+   "created_at": "Fri Mar 16 11:31:36 +0000 2018",
+   "text": "I've pushed the source for the experimental 3D model custom element and the accompanying examples to github:… https://t.co/k4n5Rl4kOC",
+   "retweet_count": 8,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/k4n5Rl4kOC",
+     "expand": "https://twitter.com/i/web/status/974609122720141312"
+    }
+   ]
+  },
+  {
+   "id": 974454744243720200,
+   "id_str": "974454744243720193",
+   "created_at": "Fri Mar 16 01:18:10 +0000 2018",
+   "text": "I'll try and get my 3D the model custom element work up on github tomorrow. In the meantime, I've updated the tests… https://t.co/L3SzoNnQaf",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/L3SzoNnQaf",
+     "expand": "https://twitter.com/i/web/status/974454744243720193"
+    }
+   ]
+  },
+  {
+   "id": 974395068550443000,
+   "id_str": "974395068550443008",
+   "created_at": "Thu Mar 15 21:21:02 +0000 2018",
+   "text": "3D model element update: Perspective now works correctly — objects are projected orthographically when a CSS `persp… https://t.co/VONQ2H8zIs",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VONQ2H8zIs",
+     "expand": "https://twitter.com/i/web/status/974395068550443008"
+    }
+   ]
+  },
+  {
+   "id": 974033561421582300,
+   "id_str": "974033561421582336",
+   "created_at": "Wed Mar 14 21:24:32 +0000 2018",
+   "text": "I'm trying to flip the Y rotation direction in a THREE.Matrix4 - I've ended up with this:\n\nmat.set(m11, m12, ...);… https://t.co/Hok2rWu8Wy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Hok2rWu8Wy",
+     "expand": "https://twitter.com/i/web/status/974033561421582336"
+    }
+   ]
+  },
+  {
+   "id": 974032360583901200,
+   "id_str": "974032360583901185",
+   "created_at": "Wed Mar 14 21:19:46 +0000 2018",
+   "text": "Dealing with nested transforms isn’t going as smoothly as I’d hoped. Having all kinds of issues with nested transfo… https://t.co/NDHFBGHtlg",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NDHFBGHtlg",
+     "expand": "https://twitter.com/i/web/status/974032360583901185"
+    }
+   ]
+  },
+  {
+   "id": 973849885794553900,
+   "id_str": "973849885794553856",
+   "created_at": "Wed Mar 14 09:14:40 +0000 2018",
+   "text": "If you missed it last night, here's the updated &lt;x-model&gt; custom element prototype that loads, renders and allows C… https://t.co/ZB95qUoShK",
+   "retweet_count": 10,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZB95qUoShK",
+     "expand": "https://twitter.com/i/web/status/973849885794553856"
+    }
+   ]
+  },
+  {
+   "id": 973716713064796200,
+   "id_str": "973716713064796160",
+   "created_at": "Wed Mar 14 00:25:29 +0000 2018",
+   "text": "@mrdoob Thanks. I still a few issues to iron out - hopefully I’ll have those nailed soon.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973715457214591000,
+   "in_reply_to_status_id_str": "973715457214590976",
+   "in_reply_to_screen_name": "mrdoob",
+   "urls": []
+  },
+  {
+   "id": 973713070420873200,
+   "id_str": "973713070420873218",
+   "created_at": "Wed Mar 14 00:11:01 +0000 2018",
+   "text": "@mrdoob I’ve made good progress with the model custom element: https://t.co/N2IJ6FuJ1q\n\nI ended up creating a singl… https://t.co/C57YeSZtoh",
+   "retweet_count": 2,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "mrdoob",
+   "urls": [
+    {
+     "url": "https://t.co/N2IJ6FuJ1q",
+     "expand": "https://keithclark.co.uk/temp/css-3d-element/2/"
+    },
+    {
+     "url": "https://t.co/C57YeSZtoh",
+     "expand": "https://twitter.com/i/web/status/973713070420873218"
+    }
+   ]
+  },
+  {
+   "id": 973711025060110300,
+   "id_str": "973711025060110336",
+   "created_at": "Wed Mar 14 00:02:53 +0000 2018",
+   "text": "I found a better solution!\n\nAn experimental custom element for rendering 3D models in web pages and transforming th… https://t.co/lkV0l8IyYp",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lkV0l8IyYp",
+     "expand": "https://twitter.com/i/web/status/973711025060110336"
+    }
+   ]
+  },
+  {
+   "id": 973535758295404500,
+   "id_str": "973535758295404544",
+   "created_at": "Tue Mar 13 12:26:26 +0000 2018",
+   "text": "Last night I had another stab at using web components to load 3D models and CSS transforms to position them. This t… https://t.co/UvefWqJhet",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UvefWqJhet",
+     "expand": "https://twitter.com/i/web/status/973535758295404544"
+    }
+   ]
+  },
+  {
+   "id": 973168140522868700,
+   "id_str": "973168140522868736",
+   "created_at": "Mon Mar 12 12:05:39 +0000 2018",
+   "text": "Finding it hard to let go of unneeded braces when using ES6 arrow functions. I find code so much easier to read with them.",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 972230400885084200,
+   "id_str": "972230400885084160",
+   "created_at": "Fri Mar 09 21:59:25 +0000 2018",
+   "text": "Our marshmallow army is growing quickly! https://t.co/ta74PSm7Sf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972228620319150100,
+   "in_reply_to_status_id_str": "972228620319150081",
+   "in_reply_to_screen_name": "keithclarkcouk",
+   "urls": []
+  },
+  {
+   "id": 972228620319150100,
+   "id_str": "972228620319150081",
+   "created_at": "Fri Mar 09 21:52:20 +0000 2018",
+   "text": "Naomi is busy drawing Star Wars troopers onto marshmallows with edible ink. These will top Jacob’s birthday cupcake… https://t.co/4ioHcw8mMs",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4ioHcw8mMs",
+     "expand": "https://twitter.com/i/web/status/972228620319150081"
+    }
+   ]
+  },
+  {
+   "id": 972139035576631300,
+   "id_str": "972139035576631298",
+   "created_at": "Fri Mar 09 15:56:22 +0000 2018",
+   "text": "@RicherSupport Do your stores ship products? I’m trying to locate one of these as they’re not available online: https://t.co/6ehKxF4oBL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "RicherSupport",
+   "urls": [
+    {
+     "url": "https://t.co/6ehKxF4oBL",
+     "expand": "https://www.richersounds.com/tv-home-cinema/home-cinema-packages/denon-avrx2400-black-and-denon-sys2020-black.html"
+    }
+   ]
+  },
+  {
+   "id": 971154338591756300,
+   "id_str": "971154338591756288",
+   "created_at": "Tue Mar 06 22:43:32 +0000 2018",
+   "text": "RT @romancortes: The Making of Nefertiti 1kb: https://t.co/VIn1z8KLRA https://t.co/1hVvqMlFkw",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VIn1z8KLRA",
+     "expand": "http://romancortes.com/v2/nefertiti-1kb.html"
+    },
+    {
+     "url": "https://t.co/1hVvqMlFkw",
+     "expand": "https://js1k.com/2018-coins/demo/3185"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971134242548846600,
+    "id_str": "971134242548846593",
+    "created_at": "Tue Mar 06 21:23:40 +0000 2018",
+    "text": "The Making of Nefertiti 1kb: https://t.co/VIn1z8KLRA https://t.co/1hVvqMlFkw",
+    "retweet_count": 30,
+    "favorite_count": 58,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/VIn1z8KLRA",
+      "expand": "http://romancortes.com/v2/nefertiti-1kb.html"
+     },
+     {
+      "url": "https://t.co/1hVvqMlFkw",
+      "expand": "https://js1k.com/2018-coins/demo/3185"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970051886366814200,
+   "id_str": "970051886366814208",
+   "created_at": "Sat Mar 03 21:42:47 +0000 2018",
+   "text": "Do you use Dolce Gusto Coffee Pods? Ever had one fail in a coffee machine under pressure from scaling water? We did! Is it a common problem?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 969902642989273100,
+   "id_str": "969902642989273088",
+   "created_at": "Sat Mar 03 11:49:44 +0000 2018",
+   "text": "RT @aemkei: Here are the slides of my talk \"Daedalus – Though the Maze of Code\" at @jsconfis about creative coding and code golfing in Java…",
+   "retweet_count": 63,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969595438696419300,
+    "id_str": "969595438696419328",
+    "created_at": "Fri Mar 02 15:29:01 +0000 2018",
+    "text": "Here are the slides of my talk \"Daedalus – Though the Maze of Code\" at @jsconfis about creative coding and code gol… https://t.co/eRDnRG3y9J",
+    "retweet_count": 63,
+    "favorite_count": 199,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eRDnRG3y9J",
+      "expand": "https://twitter.com/i/web/status/969595438696419328"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968935583459528700,
+   "id_str": "968935583459528705",
+   "created_at": "Wed Feb 28 19:46:59 +0000 2018",
+   "text": "Neighbours are optimistic about bin collection tomorrow. https://t.co/H8clFq7uVr",
+   "retweet_count": 0,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968490123234021400,
+   "id_str": "968490123234021376",
+   "created_at": "Tue Feb 27 14:16:53 +0000 2018",
+   "text": "Surprised to learn that Next don’t offer any sort of guarantee with their sofas.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968484573175787500,
+   "id_str": "968484573175787521",
+   "created_at": "Tue Feb 27 13:54:50 +0000 2018",
+   "text": "The snow has hit Farnborough. Jacob is going to be giddy with excitement!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968239016381485000,
+   "id_str": "968239016381485057",
+   "created_at": "Mon Feb 26 21:39:05 +0000 2018",
+   "text": "@NextHelp Thanks - I’ve sent an email",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968136164069736400,
+   "in_reply_to_status_id_str": "968136164069736448",
+   "in_reply_to_screen_name": "NextHelp",
+   "urls": []
+  },
+  {
+   "id": 968096070940135400,
+   "id_str": "968096070940135424",
+   "created_at": "Mon Feb 26 12:11:04 +0000 2018",
+   "text": "@NextHelp Is there an email address I can use instead?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968042814884937700,
+   "in_reply_to_status_id_str": "968042814884937731",
+   "in_reply_to_screen_name": "NextHelp",
+   "urls": []
+  },
+  {
+   "id": 967726907641999400,
+   "id_str": "967726907641999361",
+   "created_at": "Sun Feb 25 11:44:08 +0000 2018",
+   "text": "@nextofficial Is there somebody I can email about this?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967718505566167000,
+   "in_reply_to_status_id_str": "967718505566167040",
+   "in_reply_to_screen_name": "nextofficial",
+   "urls": []
+  },
+  {
+   "id": 967708529321742300,
+   "id_str": "967708529321742336",
+   "created_at": "Sun Feb 25 10:31:07 +0000 2018",
+   "text": "@nextofficial Your competitors guarantee their products for 10 to 20 years (with obvious exceptions for specific things)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967705437616459800,
+   "in_reply_to_status_id_str": "967705437616459776",
+   "in_reply_to_screen_name": "keithclarkcouk",
+   "urls": []
+  },
+  {
+   "id": 967705437616459800,
+   "id_str": "967705437616459776",
+   "created_at": "Sun Feb 25 10:18:50 +0000 2018",
+   "text": "@nextofficial Thanks for replying. I accept accidental damage wouldn't be your responsibility. The problem with the… https://t.co/edIwuC1mpU",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967494558543163400,
+   "in_reply_to_status_id_str": "967494558543163392",
+   "in_reply_to_screen_name": "nextofficial",
+   "urls": [
+    {
+     "url": "https://t.co/edIwuC1mpU",
+     "expand": "https://twitter.com/i/web/status/967705437616459776"
+    }
+   ]
+  },
+  {
+   "id": 967442691549167600,
+   "id_str": "967442691549167619",
+   "created_at": "Sat Feb 24 16:54:46 +0000 2018",
+   "text": "@nextofficial Almost bought two sofas and a footstool from one of your stores but walked away when the sales person… https://t.co/BIGGdQDQx0",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "nextofficial",
+   "urls": [
+    {
+     "url": "https://t.co/BIGGdQDQx0",
+     "expand": "https://twitter.com/i/web/status/967442691549167619"
+    }
+   ]
+  },
+  {
+   "id": 967430348480053200,
+   "id_str": "967430348480053249",
+   "created_at": "Sat Feb 24 16:05:43 +0000 2018",
+   "text": "@NextHelp Almost bought two sofas and a footstool from one of your stores but walked away when the sales person tol… https://t.co/Ch63Lxzg6R",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "NextHelp",
+   "urls": [
+    {
+     "url": "https://t.co/Ch63Lxzg6R",
+     "expand": "https://twitter.com/i/web/status/967430348480053249"
+    }
+   ]
+  },
   {
    "id": 966613186093944800,
    "id_str": "966613186093944832",
@@ -18,246 +975,6 @@
      "expand": "https://twitter.com/i/web/status/966613186093944832"
     }
    ]
-  },
-  {
-   "id": 966077330375528400,
-   "id_str": "966077330375528452",
-   "created_at": "Tue Feb 20 22:29:19 +0000 2018",
-   "text": "@HEXBUG Awesome! Ordered. He’ll be so happy!",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 966072540828446700,
-   "in_reply_to_status_id_str": "966072540828446720",
-   "in_reply_to_screen_name": "HEXBUG",
-   "urls": []
-  },
-  {
-   "id": 966064531184259100,
-   "id_str": "966064531184259075",
-   "created_at": "Tue Feb 20 21:38:27 +0000 2018",
-   "text": "@HEXBUG my son would really like the Minator/Beta bots to go with the Witchdoctor/Tombstone arena he got for xmas. How do I get them in UK?",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": "HEXBUG",
-   "urls": []
-  },
-  {
-   "id": 965934191673331700,
-   "id_str": "965934191673331712",
-   "created_at": "Tue Feb 20 13:00:32 +0000 2018",
-   "text": "@jasonkneen Yeah, completely agree. Somehow though (probably because they’ve levelled up?) everyone else can kill m… https://t.co/Fk7XQ3gMwm",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965840043377135600,
-   "in_reply_to_status_id_str": "965840043377135616",
-   "in_reply_to_screen_name": "jasonkneen",
-   "urls": [
-    {
-     "url": "https://t.co/Fk7XQ3gMwm",
-     "expand": "https://twitter.com/i/web/status/965934191673331712"
-    }
-   ]
-  },
-  {
-   "id": 965721333698125800,
-   "id_str": "965721333698125825",
-   "created_at": "Mon Feb 19 22:54:42 +0000 2018",
-   "text": "Trying out Battlefront 2. Wow this is hard work for a new player. Why do these FPS games reward experienced players who know all the tricks?",
-   "retweet_count": 1,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 965579443975655400,
-   "id_str": "965579443975655425",
-   "created_at": "Mon Feb 19 13:30:53 +0000 2018",
-   "text": "@bfred_it @mrdoob @poshaughnessy @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ Updated prototype:… https://t.co/tBTlX8IF4h",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965559048719552500,
-   "in_reply_to_status_id_str": "965559048719552513",
-   "in_reply_to_screen_name": "keithclarkcouk",
-   "urls": [
-    {
-     "url": "https://t.co/tBTlX8IF4h",
-     "expand": "https://twitter.com/i/web/status/965579443975655425"
-    }
-   ]
-  },
-  {
-   "id": 965559048719552500,
-   "id_str": "965559048719552513",
-   "created_at": "Mon Feb 19 12:09:51 +0000 2018",
-   "text": "@bfred_it @mrdoob @poshaughnessy @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ I found a solution last night… https://t.co/GNkhcgbEhD",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965333330336993300,
-   "in_reply_to_status_id_str": "965333330336993280",
-   "in_reply_to_screen_name": "bfred_it",
-   "urls": [
-    {
-     "url": "https://t.co/GNkhcgbEhD",
-     "expand": "https://twitter.com/i/web/status/965559048719552513"
-    }
-   ]
-  },
-  {
-   "id": 965338219725381600,
-   "id_str": "965338219725381632",
-   "created_at": "Sun Feb 18 21:32:21 +0000 2018",
-   "text": "@bfred_it @mrdoob @poshaughnessy @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ Yeah, I haven’t done anything… https://t.co/tskEfXgNsa",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965333330336993300,
-   "in_reply_to_status_id_str": "965333330336993280",
-   "in_reply_to_screen_name": "bfred_it",
-   "urls": [
-    {
-     "url": "https://t.co/tskEfXgNsa",
-     "expand": "https://twitter.com/i/web/status/965338219725381632"
-    }
-   ]
-  },
-  {
-   "id": 965324216307503100,
-   "id_str": "965324216307503104",
-   "created_at": "Sun Feb 18 20:36:42 +0000 2018",
-   "text": "@mrdoob @poshaughnessy @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ I’m a waaaay off a PR. Maybe once I’ve… https://t.co/T1nOQ4BaGO",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965322530952159200,
-   "in_reply_to_status_id_str": "965322530952159232",
-   "in_reply_to_screen_name": "mrdoob",
-   "urls": [
-    {
-     "url": "https://t.co/T1nOQ4BaGO",
-     "expand": "https://twitter.com/i/web/status/965324216307503104"
-    }
-   ]
-  },
-  {
-   "id": 965320710464987100,
-   "id_str": "965320710464987136",
-   "created_at": "Sun Feb 18 20:22:46 +0000 2018",
-   "text": "@mrdoob @poshaughnessy @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ Quickly threw this together:… https://t.co/Srmd3YZlVa",
-   "retweet_count": 2,
-   "favorite_count": 8,
-   "place": null,
-   "in_reply_to_status_id": 965245457801789400,
-   "in_reply_to_status_id_str": "965245457801789446",
-   "in_reply_to_screen_name": "mrdoob",
-   "urls": [
-    {
-     "url": "https://t.co/Srmd3YZlVa",
-     "expand": "https://twitter.com/i/web/status/965320710464987136"
-    }
-   ]
-  },
-  {
-   "id": 965251467287388200,
-   "id_str": "965251467287388160",
-   "created_at": "Sun Feb 18 15:47:37 +0000 2018",
-   "text": "@mrdoob @poshaughnessy @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ Oh nice! I’ll have a play with that and… https://t.co/bovVebWqfq",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 965245457801789400,
-   "in_reply_to_status_id_str": "965245457801789446",
-   "in_reply_to_screen_name": "mrdoob",
-   "urls": [
-    {
-     "url": "https://t.co/bovVebWqfq",
-     "expand": "https://twitter.com/i/web/status/965251467287388160"
-    }
-   ]
-  },
-  {
-   "id": 965165380238004200,
-   "id_str": "965165380238004224",
-   "created_at": "Sun Feb 18 10:05:33 +0000 2018",
-   "text": "@poshaughnessy @mrdoob @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ Perhaps the answer could be to extend &lt;… https://t.co/854q1ZJbNv",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 964945285226139600,
-   "in_reply_to_status_id_str": "964945285226139649",
-   "in_reply_to_screen_name": "poshaughnessy",
-   "urls": [
-    {
-     "url": "https://t.co/854q1ZJbNv",
-     "expand": "https://twitter.com/i/web/status/965165380238004224"
-    }
-   ]
-  },
-  {
-   "id": 964935810859634700,
-   "id_str": "964935810859634688",
-   "created_at": "Sat Feb 17 18:53:19 +0000 2018",
-   "text": "@mrdoob @MaximeEuziere @joshcarpenter @stevew_ @WestLangley_ Yeah, DOM nodes are expensive things to paint. 7000+ o… https://t.co/5yF5vcPJe3",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 964927803786387500,
-   "in_reply_to_status_id_str": "964927803786387457",
-   "in_reply_to_screen_name": "mrdoob",
-   "urls": [
-    {
-     "url": "https://t.co/5yF5vcPJe3",
-     "expand": "https://twitter.com/i/web/status/964935810859634688"
-    }
-   ]
-  },
-  {
-   "id": 964904034204311600,
-   "id_str": "964904034204311557",
-   "created_at": "Sat Feb 17 16:47:03 +0000 2018",
-   "text": "@jasonkneen The Willis Museum in town.",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 964895947695231000,
-   "in_reply_to_status_id_str": "964895947695230978",
-   "in_reply_to_screen_name": "jasonkneen",
-   "urls": []
-  },
-  {
-   "id": 964857628940742700,
-   "id_str": "964857628940742656",
-   "created_at": "Sat Feb 17 13:42:39 +0000 2018",
-   "text": "Found a Star Wars toy exhibition in Basingstoke. So many memories from my childhood! https://t.co/7hOODue2li",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": []
-  },
-  {
-   "id": 964438682861232100,
-   "id_str": "964438682861232129",
-   "created_at": "Fri Feb 16 09:57:55 +0000 2018",
-   "text": "@StuRobson No dates. I want to know how far out of warranty I am. If it’s days/weeks then I’ll push for a warranty repair.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 964438043850629100,
-   "in_reply_to_status_id_str": "964438043850629120",
-   "in_reply_to_screen_name": "StuRobson",
-   "urls": []
   }
  ]
 }

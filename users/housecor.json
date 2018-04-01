@@ -1,329 +1,100 @@
 {
- "time": 1519367042465,
+ "time": 1522594952685,
  "lists": [
   {
-   "id": 966779243228221400,
-   "id_str": "966779243228221440",
-   "created_at": "Thu Feb 22 20:58:28 +0000 2018",
-   "text": "@sclarson Ooof.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 966757781448593400,
-   "in_reply_to_status_id_str": "966757781448593409",
-   "in_reply_to_screen_name": "sclarson",
-   "urls": []
-  },
-  {
-   "id": 966675757018894300,
-   "id_str": "966675757018894338",
-   "created_at": "Thu Feb 22 14:07:15 +0000 2018",
-   "text": "@toddmantell wowzah. Never seen a render that long. I have to imagine there was some opportunity for refactoring th… https://t.co/YnESASmilQ",
+   "id": 980273103526858800,
+   "id_str": "980273103526858752",
+   "created_at": "Sun Apr 01 02:38:15 +0000 2018",
+   "text": "@AdamRackis Runs isn’t the bar. Readable is.",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 966663996282634200,
-   "in_reply_to_status_id_str": "966663996282634242",
-   "in_reply_to_screen_name": "toddmantell",
+   "in_reply_to_status_id": 980239801709420500,
+   "in_reply_to_status_id_str": "980239801709420544",
+   "in_reply_to_screen_name": "AdamRackis",
+   "urls": []
+  },
+  {
+   "id": 980272037972373500,
+   "id_str": "980272037972373504",
+   "created_at": "Sun Apr 01 02:34:01 +0000 2018",
+   "text": "@GabeRuss Some options here https://t.co/Oue9NZnQVr",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 980104836887785500,
+   "in_reply_to_status_id_str": "980104836887785473",
+   "in_reply_to_screen_name": "GabeRuss",
    "urls": [
     {
-     "url": "https://t.co/YnESASmilQ",
-     "expand": "https://twitter.com/i/web/status/966675757018894338"
+     "url": "https://t.co/Oue9NZnQVr",
+     "expand": "https://medium.freecodecamp.org/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5"
     }
    ]
   },
   {
-   "id": 966659980756693000,
-   "id_str": "966659980756692992",
-   "created_at": "Thu Feb 22 13:04:33 +0000 2018",
-   "text": "@tema5190 Wonderful to hear! Thanks for the feedback!",
+   "id": 980235929813176300,
+   "id_str": "980235929813176321",
+   "created_at": "Sun Apr 01 00:10:32 +0000 2018",
+   "text": "@AdamRackis Because most C# teams I’ve worked with see a few 100 warnings in Visual Studio and ship it anyway.",
    "retweet_count": 0,
-   "favorite_count": 0,
+   "favorite_count": 7,
    "place": null,
-   "in_reply_to_status_id": 966558562397900800,
-   "in_reply_to_status_id_str": "966558562397900800",
-   "in_reply_to_screen_name": "tema5190",
+   "in_reply_to_status_id": 980233978450935800,
+   "in_reply_to_status_id_str": "980233978450935810",
+   "in_reply_to_screen_name": "AdamRackis",
    "urls": []
   },
   {
-   "id": 966500685217923100,
-   "id_str": "966500685217923074",
-   "created_at": "Thu Feb 22 02:31:34 +0000 2018",
-   "text": "Software architecture requires organizing related items. It's like organizing kitchen cabinets. Separating files an… https://t.co/v9k2tohWJC",
-   "retweet_count": 3,
-   "favorite_count": 24,
+   "id": 979767664531959800,
+   "id_str": "979767664531959808",
+   "created_at": "Fri Mar 30 17:09:49 +0000 2018",
+   "text": "@daytonlowell you can only save a pwa in safari for now",
+   "retweet_count": 0,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 966499470962843600,
-   "in_reply_to_status_id_str": "966499470962843648",
+   "in_reply_to_status_id": 979755711310770200,
+   "in_reply_to_status_id_str": "979755711310770177",
+   "in_reply_to_screen_name": "daytonlowell",
+   "urls": []
+  },
+  {
+   "id": 979707531013615600,
+   "id_str": "979707531013615618",
+   "created_at": "Fri Mar 30 13:10:52 +0000 2018",
+   "text": "The most glaring issue: It only works on Safari. People running \"pseudo browsers\" like Chrome, Edge on iOS don't get support.",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 979705588245565400,
+   "in_reply_to_status_id_str": "979705588245565441",
    "in_reply_to_screen_name": "housecor",
-   "urls": [
-    {
-     "url": "https://t.co/v9k2tohWJC",
-     "expand": "https://twitter.com/i/web/status/966500685217923074"
-    }
-   ]
-  },
-  {
-   "id": 966499470962843600,
-   "id_str": "966499470962843648",
-   "created_at": "Thu Feb 22 02:26:45 +0000 2018",
-   "text": "Just debugged an old SPA. Tip: A \"single page\" app doesn't mean it should be written as a single 3000 line file! 😂",
-   "retweet_count": 12,
-   "favorite_count": 112,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
    "urls": []
   },
   {
-   "id": 966359419607973900,
-   "id_str": "966359419607973889",
-   "created_at": "Wed Feb 21 17:10:14 +0000 2018",
-   "text": "Example: Just did a code review on a validatePrice function. Here's a few questions I asked myself while reviewing… https://t.co/khlYwa9G6j",
-   "retweet_count": 0,
-   "favorite_count": 11,
-   "place": null,
-   "in_reply_to_status_id": 966357328030257200,
-   "in_reply_to_status_id_str": "966357328030257152",
-   "in_reply_to_screen_name": "housecor",
-   "urls": [
-    {
-     "url": "https://t.co/khlYwa9G6j",
-     "expand": "https://twitter.com/i/web/status/966359419607973889"
-    }
-   ]
-  },
-  {
-   "id": 966357328030257200,
-   "id_str": "966357328030257152",
-   "created_at": "Wed Feb 21 17:01:55 +0000 2018",
-   "text": "In code review, it's critical to review automated tests too. Ask:\n\n1. What if I pass unexpected values? Null, empty… https://t.co/gdg3iD1s8O",
-   "retweet_count": 16,
-   "favorite_count": 72,
+   "id": 979705588245565400,
+   "id_str": "979705588245565441",
+   "created_at": "Fri Mar 30 13:03:08 +0000 2018",
+   "text": "iOS 11.3 quietly adds service worker support! 🔥 Problem is, the implementation is a mess. Many constraints and diff… https://t.co/MzRQzhiDAW",
+   "retweet_count": 29,
+   "favorite_count": 88,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/gdg3iD1s8O",
-     "expand": "https://twitter.com/i/web/status/966357328030257152"
+     "url": "https://t.co/MzRQzhiDAW",
+     "expand": "https://twitter.com/i/web/status/979705588245565441"
     }
    ]
   },
   {
-   "id": 966016709378433000,
-   "id_str": "966016709378433024",
-   "created_at": "Tue Feb 20 18:28:25 +0000 2018",
-   "text": "Pattern I'm increasingly seeing: Companies are forking create-react-app and adding their unique opinions into it.… https://t.co/pdFYdX4RcL",
-   "retweet_count": 16,
-   "favorite_count": 112,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/pdFYdX4RcL",
-     "expand": "https://twitter.com/i/web/status/966016709378433024"
-    }
-   ]
-  },
-  {
-   "id": 966005245192044500,
-   "id_str": "966005245192044544",
-   "created_at": "Tue Feb 20 17:42:52 +0000 2018",
-   "text": "Handy: Want to keep people from importing something? Add it to your ESLint rules: https://t.co/QLRdNZchJs\n\nMy use c… https://t.co/iE4AmX2XSi",
-   "retweet_count": 5,
-   "favorite_count": 29,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/QLRdNZchJs",
-     "expand": "https://buff.ly/2ETiLS7"
-    },
-    {
-     "url": "https://t.co/iE4AmX2XSi",
-     "expand": "https://twitter.com/i/web/status/966005245192044544"
-    }
-   ]
-  },
-  {
-   "id": 965956275342315500,
-   "id_str": "965956275342315522",
-   "created_at": "Tue Feb 20 14:28:17 +0000 2018",
-   "text": "@timjames_me Interesting. Ping me at my Cox email",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965886289919795200,
-   "in_reply_to_status_id_str": "965886289919795200",
-   "in_reply_to_screen_name": "timjames_me",
-   "urls": []
-  },
-  {
-   "id": 965955994168758300,
-   "id_str": "965955994168758272",
-   "created_at": "Tue Feb 20 14:27:10 +0000 2018",
-   "text": "@only1reggieroby Hey Reggie - I remember us chatting at KCDC. Ping me on Gmail. Same as my twitter.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965825047402336300,
-   "in_reply_to_status_id_str": "965825047402336256",
-   "in_reply_to_screen_name": "only1reggieroby",
-   "urls": []
-  },
-  {
-   "id": 965755904145678300,
-   "id_str": "965755904145678336",
-   "created_at": "Tue Feb 20 01:12:05 +0000 2018",
-   "text": "@jonlynch Hi Jon - ping me on my work email and I'll share the relevant link",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965752783700971500,
-   "in_reply_to_status_id_str": "965752783700971521",
-   "in_reply_to_screen_name": "jonlynch",
-   "urls": []
-  },
-  {
-   "id": 965705508568162300,
-   "id_str": "965705508568162304",
-   "created_at": "Mon Feb 19 21:51:49 +0000 2018",
-   "text": "@echoes2099 Sorry, it's not my call. I'd personally love to be able to hire someone remote.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965704685448585200,
-   "in_reply_to_status_id_str": "965704685448585216",
-   "in_reply_to_screen_name": "echoes2099",
-   "urls": []
-  },
-  {
-   "id": 965694616291901400,
-   "id_str": "965694616291901440",
-   "created_at": "Mon Feb 19 21:08:32 +0000 2018",
-   "text": "@VivekNayyar09 Sorry, we're looking for on-site at this time.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965671702440050700,
-   "in_reply_to_status_id_str": "965671702440050688",
-   "in_reply_to_screen_name": "VivekNayyar09",
-   "urls": []
-  },
-  {
-   "id": 965694574856409100,
-   "id_str": "965694574856409090",
-   "created_at": "Mon Feb 19 21:08:23 +0000 2018",
-   "text": "@Peter_Machowski Sorry, we're looking for on-site at this time.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965652277322305500,
-   "in_reply_to_status_id_str": "965652277322305536",
-   "in_reply_to_screen_name": "Peter_Machowski",
-   "urls": []
-  },
-  {
-   "id": 965694543306874900,
-   "id_str": "965694543306874880",
-   "created_at": "Mon Feb 19 21:08:15 +0000 2018",
-   "text": "@worldclassdev Sorry, we're looking for on-site at this time.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965651987600732200,
-   "in_reply_to_status_id_str": "965651987600732161",
-   "in_reply_to_screen_name": "worldclassdev",
-   "urls": []
-  },
-  {
-   "id": 965649582188265500,
-   "id_str": "965649582188265473",
-   "created_at": "Mon Feb 19 18:09:35 +0000 2018",
-   "text": "@charliecodes Hi Charles - Great! Hit me on gmail, same as my twitter username. :)",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965638587286016000,
-   "in_reply_to_status_id_str": "965638587286016001",
-   "in_reply_to_screen_name": "charliecodes",
-   "urls": []
-  },
-  {
-   "id": 965649355901472800,
-   "id_str": "965649355901472769",
-   "created_at": "Mon Feb 19 18:08:42 +0000 2018",
-   "text": "@Tibfib Just emailed ya!",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965632132969242600,
-   "in_reply_to_status_id_str": "965632132969242624",
-   "in_reply_to_screen_name": "Tibfib",
-   "urls": []
-  },
-  {
-   "id": 965630698370584600,
-   "id_str": "965630698370584577",
-   "created_at": "Mon Feb 19 16:54:33 +0000 2018",
-   "text": "In Kansas City? My team has a senior #JavaScript developer opening. \n- We're a UI specialist team working with Reac… https://t.co/8HlLGC94Ye",
-   "retweet_count": 34,
-   "favorite_count": 53,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/8HlLGC94Ye",
-     "expand": "https://twitter.com/i/web/status/965630698370584577"
-    }
-   ]
-  },
-  {
-   "id": 965598645461635100,
-   "id_str": "965598645461635072",
-   "created_at": "Mon Feb 19 14:47:11 +0000 2018",
-   "text": "Excited for the enhancements coming to Babel 7:\n\n- 60% faster 🚤\n- babel-polyfill now only polyfills what your env n… https://t.co/qlQXoltafG",
-   "retweet_count": 87,
-   "favorite_count": 263,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/qlQXoltafG",
-     "expand": "https://twitter.com/i/web/status/965598645461635072"
-    }
-   ]
-  },
-  {
-   "id": 965568529482371100,
-   "id_str": "965568529482371072",
-   "created_at": "Mon Feb 19 12:47:31 +0000 2018",
-   "text": "@FrontCon Sorry I can't at that date but thanks for the invite!",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965564351628349400,
-   "in_reply_to_status_id_str": "965564351628349441",
-   "in_reply_to_screen_name": "FrontCon",
-   "urls": []
-  },
-  {
-   "id": 965429338593288200,
-   "id_str": "965429338593288193",
-   "created_at": "Mon Feb 19 03:34:25 +0000 2018",
-   "text": "RT @InfoQ: Build a JavaScript Dev Environment in 1 hour https://t.co/HgRyIFd6yi by @housecor",
-   "retweet_count": 12,
+   "id": 979563806740435000,
+   "id_str": "979563806740434945",
+   "created_at": "Fri Mar 30 03:39:45 +0000 2018",
+   "text": "RT @reactjs: React 16.3.0 has been released! Big thanks to all who contributed. ⚛️❤️\n\nhttps://t.co/G0RYl1Pjbv",
+   "retweet_count": 1265,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -331,252 +102,3253 @@
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/HgRyIFd6yi",
-     "expand": "http://bit.ly/2EMXoSK"
+     "url": "https://t.co/G0RYl1Pjbv",
+     "expand": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html"
     }
    ],
    "retweeted_status": {
-    "id": 965412264105992200,
-    "id_str": "965412264105992192",
-    "created_at": "Mon Feb 19 02:26:34 +0000 2018",
-    "text": "Build a JavaScript Dev Environment in 1 hour https://t.co/HgRyIFd6yi by @housecor",
-    "retweet_count": 12,
-    "favorite_count": 70,
+    "id": 979458172833357800,
+    "id_str": "979458172833357825",
+    "created_at": "Thu Mar 29 20:40:00 +0000 2018",
+    "text": "React 16.3.0 has been released! Big thanks to all who contributed. ⚛️❤️\n\nhttps://t.co/G0RYl1Pjbv",
+    "retweet_count": 1265,
+    "favorite_count": 2825,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/HgRyIFd6yi",
-      "expand": "http://bit.ly/2EMXoSK"
+      "url": "https://t.co/G0RYl1Pjbv",
+      "expand": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html"
      }
     ]
    }
   },
   {
-   "id": 965389751573467100,
-   "id_str": "965389751573467136",
-   "created_at": "Mon Feb 19 00:57:07 +0000 2018",
-   "text": "@agm1984 Yup. Regarding secret sauce, I agree it's a risk. Worth having a clear approval process",
-   "retweet_count": 0,
-   "favorite_count": 1,
+   "id": 979555086857883600,
+   "id_str": "979555086857883648",
+   "created_at": "Fri Mar 30 03:05:06 +0000 2018",
+   "text": "Google publishes a JavaScript style guide. Here are some key lessons. #javascript\n\nSummary: \n-const or let, no var… https://t.co/K6733sCqb1",
+   "retweet_count": 502,
+   "favorite_count": 1166,
    "place": null,
-   "in_reply_to_status_id": 965365640516182000,
-   "in_reply_to_status_id_str": "965365640516182017",
-   "in_reply_to_screen_name": "agm1984",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/K6733sCqb1",
+     "expand": "https://twitter.com/i/web/status/979555086857883648"
+    }
+   ]
+  },
+  {
+   "id": 979538567738331100,
+   "id_str": "979538567738331136",
+   "created_at": "Fri Mar 30 01:59:28 +0000 2018",
+   "text": "@tyler_crosse @manoj_d_ Ah I forgot to finish the post. Sorry not ready yet. So many half finished drafts  😅",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979497328657625100,
+   "in_reply_to_status_id_str": "979497328657625088",
+   "in_reply_to_screen_name": "tyler_crosse",
    "urls": []
   },
   {
-   "id": 965288368690090000,
-   "id_str": "965288368690089986",
-   "created_at": "Sun Feb 18 18:14:15 +0000 2018",
-   "text": "📊 Poll results are in. Over 1500 votes! \n\nBeing able to contribute to open/source while full-time employed is a req… https://t.co/BwZLvRgloN",
+   "id": 979404569984761900,
+   "id_str": "979404569984761858",
+   "created_at": "Thu Mar 29 17:07:00 +0000 2018",
+   "text": "@jonahrens My approach is simple: learn, code, and teach regularly in public. 😀",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979385947447021600,
+   "in_reply_to_status_id_str": "979385947447021568",
+   "in_reply_to_screen_name": "jonahrens",
+   "urls": []
+  },
+  {
+   "id": 979404193776664600,
+   "id_str": "979404193776664577",
+   "created_at": "Thu Mar 29 17:05:30 +0000 2018",
+   "text": "@ChrisRidl Thanks Chris. Appreciate your feedback and candor.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979380247098417200,
+   "in_reply_to_status_id_str": "979380247098417152",
+   "in_reply_to_screen_name": "ChrisRidl",
+   "urls": []
+  },
+  {
+   "id": 979403976033685500,
+   "id_str": "979403976033685504",
+   "created_at": "Thu Mar 29 17:04:38 +0000 2018",
+   "text": "@jen20 Yeah I see your point but the difference is subtle with my eyes",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979372177492344800,
+   "in_reply_to_status_id_str": "979372177492344832",
+   "in_reply_to_screen_name": "jen20",
+   "urls": []
+  },
+  {
+   "id": 979365417935343600,
+   "id_str": "979365417935343616",
+   "created_at": "Thu Mar 29 14:31:26 +0000 2018",
+   "text": "@smlpth Agreed. And standing desks make me extra happy. Reading while walking slowly on a treadmill desk is my favo… https://t.co/d0vDXraepV",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979362117504684000,
+   "in_reply_to_status_id_str": "979362117504684034",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": [
+    {
+     "url": "https://t.co/d0vDXraepV",
+     "expand": "https://twitter.com/i/web/status/979365417935343616"
+    }
+   ]
+  },
+  {
+   "id": 979365150674255900,
+   "id_str": "979365150674255872",
+   "created_at": "Thu Mar 29 14:30:22 +0000 2018",
+   "text": "@ChrisRidl Honest question: why? If you were offered a free monitor in exchange for an honest review, would you say no?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979351870824071200,
+   "in_reply_to_status_id_str": "979351870824071168",
+   "in_reply_to_screen_name": "ChrisRidl",
+   "urls": []
+  },
+  {
+   "id": 979360985189355500,
+   "id_str": "979360985189355520",
+   "created_at": "Thu Mar 29 14:13:49 +0000 2018",
+   "text": "@smlpth I find it's also good for my mental health. Something about looking down and hunching over for extended period depresses me.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979357365677051900,
+   "in_reply_to_status_id_str": "979357365677051905",
+   "in_reply_to_screen_name": "smlpth",
+   "urls": []
+  },
+  {
+   "id": 979360681647657000,
+   "id_str": "979360681647656965",
+   "created_at": "Thu Mar 29 14:12:36 +0000 2018",
+   "text": "@jen20 Are you saying your eyes can detect a difference in sharpness of 4K between a 24\" and a 27\" or 32\"? Looks ne… https://t.co/NQHrKhhrrt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979352057311264800,
+   "in_reply_to_status_id_str": "979352057311264770",
+   "in_reply_to_screen_name": "jen20",
+   "urls": [
+    {
+     "url": "https://t.co/NQHrKhhrrt",
+     "expand": "https://twitter.com/i/web/status/979360681647656965"
+    }
+   ]
+  },
+  {
+   "id": 979360170282291200,
+   "id_str": "979360170282291201",
+   "created_at": "Thu Mar 29 14:10:34 +0000 2018",
+   "text": "@seanw122 Hi sorry, I'm currently overcommitted but thanks for the offer Sean!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979127925713834000,
+   "in_reply_to_status_id_str": "979127925713833986",
+   "in_reply_to_screen_name": "seanw122",
+   "urls": []
+  },
+  {
+   "id": 979349624535355400,
+   "id_str": "979349624535355397",
+   "created_at": "Thu Mar 29 13:28:40 +0000 2018",
+   "text": "BenQ gave me a 32\" 4K USB-C monitor for free in exchange for a review!\n\nHere's my honest take:… https://t.co/TqwTpTtXH7",
+   "retweet_count": 1,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TqwTpTtXH7",
+     "expand": "https://twitter.com/i/web/status/979349624535355397"
+    }
+   ]
+  },
+  {
+   "id": 979089526944657400,
+   "id_str": "979089526944657408",
+   "created_at": "Wed Mar 28 20:15:08 +0000 2018",
+   "text": "@peterjuras Note the size of the transpiled class vs transpiled function.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979059567987478500,
+   "in_reply_to_status_id_str": "979059567987478536",
+   "in_reply_to_screen_name": "peterjuras",
+   "urls": []
+  },
+  {
+   "id": 979080916529221600,
+   "id_str": "979080916529221632",
+   "created_at": "Wed Mar 28 19:40:55 +0000 2018",
+   "text": "@spetryjohnson Agreed. Our React components abstract this concern away so devs get accessibility right automatically.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979047572382847000,
+   "in_reply_to_status_id_str": "979047572382846976",
+   "in_reply_to_screen_name": "spetryjohnson",
+   "urls": []
+  },
+  {
+   "id": 979008681722437600,
+   "id_str": "979008681722437632",
+   "created_at": "Wed Mar 28 14:53:53 +0000 2018",
+   "text": "@ggrgur Nope. But given diff requires many components for a notable decrease",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979008284496748500,
+   "in_reply_to_status_id_str": "979008284496748544",
+   "in_reply_to_screen_name": "ggrgur",
+   "urls": []
+  },
+  {
+   "id": 978776899559284700,
+   "id_str": "978776899559284737",
+   "created_at": "Tue Mar 27 23:32:52 +0000 2018",
+   "text": "RT @reactjs: We're happy to share an update on asynchronous  rendering and the upcoming 16.3 release!\n\nhttps://t.co/bDq7YXefPw",
+   "retweet_count": 721,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bDq7YXefPw",
+     "expand": "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978749660134166500,
+    "id_str": "978749660134166530",
+    "created_at": "Tue Mar 27 21:44:37 +0000 2018",
+    "text": "We're happy to share an update on asynchronous  rendering and the upcoming 16.3 release!\n\nhttps://t.co/bDq7YXefPw",
+    "retweet_count": 721,
+    "favorite_count": 1583,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bDq7YXefPw",
+      "expand": "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978770014093398000,
+   "id_str": "978770014093398016",
+   "created_at": "Tue Mar 27 23:05:30 +0000 2018",
+   "text": "Oh man, as someone who often teaches coding via live sessions online, real-time collaboration is going to be awesom… https://t.co/m1bOng0xuz",
+   "retweet_count": 2,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/m1bOng0xuz",
+     "expand": "https://twitter.com/i/web/status/978770014093398016"
+    }
+   ]
+  },
+  {
+   "id": 978757138066624500,
+   "id_str": "978757138066624512",
+   "created_at": "Tue Mar 27 22:14:20 +0000 2018",
+   "text": "@ws_ubi Thanks for the tweet! :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978743136527663100,
+   "in_reply_to_status_id_str": "978743136527663104",
+   "in_reply_to_screen_name": "ws_ubi",
+   "urls": []
+  },
+  {
+   "id": 978725557973209100,
+   "id_str": "978725557973209089",
+   "created_at": "Tue Mar 27 20:08:51 +0000 2018",
+   "text": "@nattyman512 @marioahoyos @nodejs Great to hear! Thanks Heath! :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978718602345017300,
+   "in_reply_to_status_id_str": "978718602345017347",
+   "in_reply_to_screen_name": "nattyman512",
+   "urls": []
+  },
+  {
+   "id": 978715796934479900,
+   "id_str": "978715796934479875",
+   "created_at": "Tue Mar 27 19:30:04 +0000 2018",
+   "text": "@northerncodemky I still use functional components, but I shared a number of potential downsides to consider in thi… https://t.co/ewoONZKuYt",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978713323612065800,
+   "in_reply_to_status_id_str": "978713323612065793",
+   "in_reply_to_screen_name": "northerncodemky",
+   "urls": [
+    {
+     "url": "https://t.co/ewoONZKuYt",
+     "expand": "https://twitter.com/i/web/status/978715796934479875"
+    }
+   ]
+  },
+  {
+   "id": 978714900662014000,
+   "id_str": "978714900662013952",
+   "created_at": "Tue Mar 27 19:26:30 +0000 2018",
+   "text": "@simplycomplex93 Hi Zack - Sorry about the tech issue. When did it cut out for you? Here are the slides: https://t.co/oe9j1PIR58",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978678372833271800,
+   "in_reply_to_status_id_str": "978678372833271808",
+   "in_reply_to_screen_name": "simplycomplex93",
+   "urls": [
+    {
+     "url": "https://t.co/oe9j1PIR58",
+     "expand": "https://www.dropbox.com/s/8aoqrbvjpwwx684/Patterns%20of%20Reusable%20React%20Components%20-%20React%20Dev%20Summit.pptx?dl=0"
+    }
+   ]
+  },
+  {
+   "id": 978714713679908900,
+   "id_str": "978714713679908864",
+   "created_at": "Tue Mar 27 19:25:46 +0000 2018",
+   "text": "@angelmbanks @pluralsight Great to hear it was helpful! Thanks Angel! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978678710986592300,
+   "in_reply_to_status_id_str": "978678710986592256",
+   "in_reply_to_screen_name": "angelmbanks",
+   "urls": []
+  },
+  {
+   "id": 978711974342164500,
+   "id_str": "978711974342164481",
+   "created_at": "Tue Mar 27 19:14:52 +0000 2018",
+   "text": "React tip: Functional components transpile down to less code, which = smaller bundles. 🗜\n\nJust updated my \"9 Reason… https://t.co/LhuOtGjCyg",
+   "retweet_count": 66,
+   "favorite_count": 217,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LhuOtGjCyg",
+     "expand": "https://twitter.com/i/web/status/978711974342164481"
+    }
+   ]
+  },
+  {
+   "id": 978624930685300700,
+   "id_str": "978624930685300736",
+   "created_at": "Tue Mar 27 13:29:00 +0000 2018",
+   "text": "@kylewelch @ReidNEvans @Gatsby Are you doing native dev too? If not, why the interest?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978616071799361500,
+   "in_reply_to_status_id_str": "978616071799361536",
+   "in_reply_to_screen_name": "kylewelch",
+   "urls": []
+  },
+  {
+   "id": 978611569423732700,
+   "id_str": "978611569423732736",
+   "created_at": "Tue Mar 27 12:35:54 +0000 2018",
+   "text": "@kylewelch @ReidNEvans @Gatsby My top 2 are css modules and styled components. Excuse the plug, but I explore and d… https://t.co/hdRHmCHojj",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 978609187344265200,
+   "in_reply_to_status_id_str": "978609187344265216",
+   "in_reply_to_screen_name": "kylewelch",
+   "urls": [
+    {
+     "url": "https://t.co/hdRHmCHojj",
+     "expand": "https://twitter.com/i/web/status/978611569423732736"
+    }
+   ]
+  },
+  {
+   "id": 978401687244296200,
+   "id_str": "978401687244296192",
+   "created_at": "Mon Mar 26 22:41:54 +0000 2018",
+   "text": "@BillSorensen Bingo",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978368168107311100,
+   "in_reply_to_status_id_str": "978368168107311105",
+   "in_reply_to_screen_name": "BillSorensen",
+   "urls": []
+  },
+  {
+   "id": 978362926674382800,
+   "id_str": "978362926674382853",
+   "created_at": "Mon Mar 26 20:07:53 +0000 2018",
+   "text": "@andMYhacks @apiary @HackyEaster Hope it's helpful! Would certainly appreciate any feedback!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978324853886537700,
+   "in_reply_to_status_id_str": "978324853886537729",
+   "in_reply_to_screen_name": "andMYhacks",
+   "urls": []
+  },
+  {
+   "id": 978078350781698000,
+   "id_str": "978078350781698048",
+   "created_at": "Mon Mar 26 01:17:05 +0000 2018",
+   "text": "@iammerrick @mjackson I don’t understand this thread. If 4K feels too small (and it will for any size under 32”), t… https://t.co/JIyKE468T2",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978019589383536600,
+   "in_reply_to_status_id_str": "978019589383536641",
+   "in_reply_to_screen_name": "iammerrick",
+   "urls": [
+    {
+     "url": "https://t.co/JIyKE468T2",
+     "expand": "https://twitter.com/i/web/status/978078350781698048"
+    }
+   ]
+  },
+  {
+   "id": 977957049555304400,
+   "id_str": "977957049555304448",
+   "created_at": "Sun Mar 25 17:15:04 +0000 2018",
+   "text": "Well this is handy and concise: React cheatsheet: https://t.co/beHedOocN0\n\n#react https://t.co/rHCMSGNedO",
+   "retweet_count": 79,
+   "favorite_count": 205,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/beHedOocN0",
+     "expand": "https://buff.ly/2GMRVK2"
+    }
+   ]
+  },
+  {
+   "id": 977597091030724600,
+   "id_str": "977597091030724608",
+   "created_at": "Sat Mar 24 17:24:44 +0000 2018",
+   "text": "@ericlaw Such a sad story. This slide is near my house and still standing, but hasn’t been used since. I agree thei… https://t.co/tMXPnrTyag",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977589719956639700,
+   "in_reply_to_status_id_str": "977589719956639746",
+   "in_reply_to_screen_name": "ericlaw",
+   "urls": [
+    {
+     "url": "https://t.co/tMXPnrTyag",
+     "expand": "https://twitter.com/i/web/status/977597091030724608"
+    }
+   ]
+  },
+  {
+   "id": 977573739465502700,
+   "id_str": "977573739465502720",
+   "created_at": "Sat Mar 24 15:51:56 +0000 2018",
+   "text": "In React apps, I've found PropTypes, Babel transpiling, ESLint, Jest tests, and extracting to pure functions as nee… https://t.co/7oDG4BptW5",
+   "retweet_count": 5,
+   "favorite_count": 30,
+   "place": null,
+   "in_reply_to_status_id": 977572523675144200,
+   "in_reply_to_status_id_str": "977572523675144193",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/7oDG4BptW5",
+     "expand": "https://twitter.com/i/web/status/977573739465502720"
+    }
+   ]
+  },
+  {
+   "id": 977572523675144200,
+   "id_str": "977572523675144193",
+   "created_at": "Sat Mar 24 15:47:06 +0000 2018",
+   "text": "Solid insights on types in #JavaScript including TypeScript, and ReasonML. Be sure to read the top comment.\n\ntl;dr:… https://t.co/5SRD2O6FsE",
+   "retweet_count": 5,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/5SRD2O6FsE",
+     "expand": "https://twitter.com/i/web/status/977572523675144193"
+    }
+   ]
+  },
+  {
+   "id": 977566085770809300,
+   "id_str": "977566085770809344",
+   "created_at": "Sat Mar 24 15:21:31 +0000 2018",
+   "text": "RT @kentcdodds: 🔥🔥🔥🔥🔥🔥🔥🔥\n\nStill using Object.keys when you really need the values or the key and the value?\n\nTry Object.values (https://t.c…",
+   "retweet_count": 250,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972179744186871800,
+    "id_str": "972179744186871808",
+    "created_at": "Fri Mar 09 18:38:07 +0000 2018",
+    "text": "🔥🔥🔥🔥🔥🔥🔥🔥\n\nStill using Object.keys when you really need the values or the key and the value?\n\nTry Object.values (… https://t.co/OPP9GJ6baq",
+    "retweet_count": 250,
+    "favorite_count": 860,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OPP9GJ6baq",
+      "expand": "https://twitter.com/i/web/status/972179744186871808"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977217510134120400,
+   "id_str": "977217510134120448",
+   "created_at": "Fri Mar 23 16:16:24 +0000 2018",
+   "text": "@ShawnRMclean Reference equality",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977041805417041900,
+   "in_reply_to_status_id_str": "977041805417041921",
+   "in_reply_to_screen_name": "ShawnRMclean",
+   "urls": []
+  },
+  {
+   "id": 977214807765110800,
+   "id_str": "977214807765110787",
+   "created_at": "Fri Mar 23 16:05:40 +0000 2018",
+   "text": "RT @Junaidanwar3: Never knew about this @ChromeDevTools feature: \n\nCtrl+click on a css property and it takes you to the definition of that…",
+   "retweet_count": 489,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976463201364783100,
+    "id_str": "976463201364783104",
+    "created_at": "Wed Mar 21 14:19:03 +0000 2018",
+    "text": "Never knew about this @ChromeDevTools feature: \n\nCtrl+click on a css property and it takes you to the definition of… https://t.co/BqnsZTI8DQ",
+    "retweet_count": 489,
+    "favorite_count": 1181,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/BqnsZTI8DQ",
+      "expand": "https://twitter.com/i/web/status/976463201364783104"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976995449264590800,
+   "id_str": "976995449264590848",
+   "created_at": "Fri Mar 23 01:34:01 +0000 2018",
+   "text": "Storing a list of unique values in #JavaScript? Consider using Set instead of a plain array. Offers  a nice clean A… https://t.co/q6YQUw3lQX",
+   "retweet_count": 30,
+   "favorite_count": 92,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/q6YQUw3lQX",
+     "expand": "https://twitter.com/i/web/status/976995449264590848"
+    }
+   ]
+  },
+  {
+   "id": 976913640946315300,
+   "id_str": "976913640946315264",
+   "created_at": "Thu Mar 22 20:08:56 +0000 2018",
+   "text": "Excellent talk: \"Why software engineers disagree about everything\"\n\ntl;dr:\n1 The terrain keeps changing\n2 High swit… https://t.co/2P1nLbV18J",
+   "retweet_count": 20,
+   "favorite_count": 116,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2P1nLbV18J",
+     "expand": "https://twitter.com/i/web/status/976913640946315264"
+    }
+   ]
+  },
+  {
+   "id": 976879687321387000,
+   "id_str": "976879687321387008",
+   "created_at": "Thu Mar 22 17:54:01 +0000 2018",
+   "text": "@Bengtson1 Interesting. I use a React snippets plug in so it’s trivial to create new components. Not sure I’d creat… https://t.co/gXb0amzJq1",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976817162806374400,
+   "in_reply_to_status_id_str": "976817162806374400",
+   "in_reply_to_screen_name": "Bengtson1",
+   "urls": [
+    {
+     "url": "https://t.co/gXb0amzJq1",
+     "expand": "https://twitter.com/i/web/status/976879687321387008"
+    }
+   ]
+  },
+  {
+   "id": 976821675210747900,
+   "id_str": "976821675210747909",
+   "created_at": "Thu Mar 22 14:03:30 +0000 2018",
+   "text": "@rambo_tambo I highly recommend subscribing to Farnham Street. Wonderful blog and often mentions books on life wisdom.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976794191987707900,
+   "in_reply_to_status_id_str": "976794191987707905",
+   "in_reply_to_screen_name": "rambo_tambo",
+   "urls": []
+  },
+  {
+   "id": 976821432457027600,
+   "id_str": "976821432457027584",
+   "created_at": "Thu Mar 22 14:02:32 +0000 2018",
+   "text": "@rambo_tambo Thanks! Sorry no list but recent favorites are Deep Work, When Breath Becomes Air, The power of Moments, Leaders Eat Last",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976794191987707900,
+   "in_reply_to_status_id_str": "976794191987707905",
+   "in_reply_to_screen_name": "rambo_tambo",
+   "urls": []
+  },
+  {
+   "id": 976820445042364400,
+   "id_str": "976820445042364416",
+   "created_at": "Thu Mar 22 13:58:37 +0000 2018",
+   "text": "@deandmx @_inside @AppleSupport Wow interesting. So one can assume ear wax got behind the speaker grill. Mine appea… https://t.co/J6NJvikjf0",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976783576103563300,
+   "in_reply_to_status_id_str": "976783576103563265",
+   "in_reply_to_screen_name": "deandmx",
+   "urls": [
+    {
+     "url": "https://t.co/J6NJvikjf0",
+     "expand": "https://twitter.com/i/web/status/976820445042364416"
+    }
+   ]
+  },
+  {
+   "id": 976648077137383400,
+   "id_str": "976648077137383425",
+   "created_at": "Thu Mar 22 02:33:41 +0000 2018",
+   "text": "@jigneshjdesai Great to hear! Thanks for the kind feedback!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976634920129957900,
+   "in_reply_to_status_id_str": "976634920129957889",
+   "in_reply_to_screen_name": "jigneshjdesai",
+   "urls": []
+  },
+  {
+   "id": 976627858620723200,
+   "id_str": "976627858620723205",
+   "created_at": "Thu Mar 22 01:13:21 +0000 2018",
+   "text": "@AndrewNWalker @ebrahimosman @_inside @AppleSupport Believe they replaced the lid on mine. I believe the sounds wer… https://t.co/afos6Nxm5U",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976561531474366500,
+   "in_reply_to_status_id_str": "976561531474366469",
+   "in_reply_to_screen_name": "AndrewNWalker",
+   "urls": [
+    {
+     "url": "https://t.co/afos6Nxm5U",
+     "expand": "https://twitter.com/i/web/status/976627858620723205"
+    }
+   ]
+  },
+  {
+   "id": 976606537996218400,
+   "id_str": "976606537996218368",
+   "created_at": "Wed Mar 21 23:48:37 +0000 2018",
+   "text": "Was asked to write a short promotional blurb on #JavaScript for an upcoming Pluralsight project. Here's my take. Th… https://t.co/wx72k8bwsk",
+   "retweet_count": 6,
+   "favorite_count": 24,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wx72k8bwsk",
+     "expand": "https://twitter.com/i/web/status/976606537996218368"
+    }
+   ]
+  },
+  {
+   "id": 976585803647381500,
+   "id_str": "976585803647381506",
+   "created_at": "Wed Mar 21 22:26:14 +0000 2018",
+   "text": "RT @isntitvacant: a quick colophon for anyone interested: the new @npmjs site uses:\n- webpack (&amp; babel, natch)\n- react\n- redux\n- tachyons\n-…",
+   "retweet_count": 159,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976567455890976800,
+    "id_str": "976567455890976769",
+    "created_at": "Wed Mar 21 21:13:19 +0000 2018",
+    "text": "a quick colophon for anyone interested: the new @npmjs site uses:\n- webpack (&amp; babel, natch)\n- react\n- redux\n- tach… https://t.co/4r78dAKMs3",
+    "retweet_count": 159,
+    "favorite_count": 647,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4r78dAKMs3",
+      "expand": "https://twitter.com/i/web/status/976567455890976769"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976523812392112100,
+   "id_str": "976523812392112129",
+   "created_at": "Wed Mar 21 18:19:54 +0000 2018",
+   "text": "@ebrahimosman @_inside @AppleSupport I had the same issue. I sent it in and they fixed it very quickly. It's a known issue.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976523081069006800,
+   "in_reply_to_status_id_str": "976523081069006849",
+   "in_reply_to_screen_name": "ebrahimosman",
+   "urls": []
+  },
+  {
+   "id": 976523506757365800,
+   "id_str": "976523506757365767",
+   "created_at": "Wed Mar 21 18:18:41 +0000 2018",
+   "text": "@dvv297 Hi Daniel - Sorry, no haven't finished. I need to genericize it since we're not currently open source. But… https://t.co/lynKz4gwSa",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976515377894174700,
+   "in_reply_to_status_id_str": "976515377894174720",
+   "in_reply_to_screen_name": "dvv297",
+   "urls": [
+    {
+     "url": "https://t.co/lynKz4gwSa",
+     "expand": "https://twitter.com/i/web/status/976523506757365767"
+    }
+   ]
+  },
+  {
+   "id": 976504287022014500,
+   "id_str": "976504287022014464",
+   "created_at": "Wed Mar 21 17:02:19 +0000 2018",
+   "text": "Contrast with typical co’s:\n1. Long hold wait\n2. Try to convince them it’s broken. Walk through long list of forced… https://t.co/sfwaEveQGr",
+   "retweet_count": 2,
+   "favorite_count": 38,
+   "place": null,
+   "in_reply_to_status_id": 976502459416956900,
+   "in_reply_to_status_id_str": "976502459416956928",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/sfwaEveQGr",
+     "expand": "https://twitter.com/i/web/status/976504287022014464"
+    }
+   ]
+  },
+  {
+   "id": 976502459416956900,
+   "id_str": "976502459416956928",
+   "created_at": "Wed Mar 21 16:55:03 +0000 2018",
+   "text": "Apple support is exceptional. \n\n1 of my AirPods wasn’t as loud as the other.\n1. I click “call me” on Apple site\n2.… https://t.co/1NT1rvoDvt",
+   "retweet_count": 72,
+   "favorite_count": 467,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1NT1rvoDvt",
+     "expand": "https://twitter.com/i/web/status/976502459416956928"
+    }
+   ]
+  },
+  {
+   "id": 976488128658722800,
+   "id_str": "976488128658722817",
+   "created_at": "Wed Mar 21 15:58:06 +0000 2018",
+   "text": "@philhawksworth @sarah_edo @Netlify @vueconfus No worries. Enjoy the big easy!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976483874648846300,
+   "in_reply_to_status_id_str": "976483874648846336",
+   "in_reply_to_screen_name": "philhawksworth",
+   "urls": []
+  },
+  {
+   "id": 976474043963662300,
+   "id_str": "976474043963662336",
+   "created_at": "Wed Mar 21 15:02:08 +0000 2018",
+   "text": "Woah, @Netlify now supports AWS lambda functions! 125,000 requests/mth for free. This integration with AWS is slick. https://t.co/A05PhH07ul",
+   "retweet_count": 32,
+   "favorite_count": 130,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/A05PhH07ul",
+     "expand": "https://buff.ly/2psWW2c"
+    }
+   ]
+  },
+  {
+   "id": 976279082982817800,
+   "id_str": "976279082982817792",
+   "created_at": "Wed Mar 21 02:07:26 +0000 2018",
+   "text": "@DavidWells @Netlify @biilmann Say wah!? You have my attention. https://t.co/FSqo4on2xs",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976256147266068500,
+   "in_reply_to_status_id_str": "976256147266068481",
+   "in_reply_to_screen_name": "DavidWells",
+   "urls": []
+  },
+  {
+   "id": 976253205679149000,
+   "id_str": "976253205679149056",
+   "created_at": "Wed Mar 21 00:24:36 +0000 2018",
+   "text": "@slandsaw After reading the replies in this thread, I wouldn’t take these stats too seriously. Plenty of successful… https://t.co/8BPFQseZvh",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 976244992900587500,
+   "in_reply_to_status_id_str": "976244992900587520",
+   "in_reply_to_screen_name": "slandsaw",
+   "urls": [
+    {
+     "url": "https://t.co/8BPFQseZvh",
+     "expand": "https://twitter.com/i/web/status/976253205679149056"
+    }
+   ]
+  },
+  {
+   "id": 976251326840672300,
+   "id_str": "976251326840672257",
+   "created_at": "Wed Mar 21 00:17:08 +0000 2018",
+   "text": "@kfpm Appreciate that story. I’m doing a conf talk on picking a spot on the tech adoption curve and your story resonates.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976214152040583200,
+   "in_reply_to_status_id_str": "976214152040583169",
+   "in_reply_to_screen_name": "kfpm",
+   "urls": []
+  },
+  {
+   "id": 976145177688625200,
+   "id_str": "976145177688625154",
+   "created_at": "Tue Mar 20 17:15:20 +0000 2018",
+   "text": "As a dev nearing 40, this StackOverflow stat concerns me: Only 7% of developers are over 44 years old. I still love… https://t.co/Ej9aFQ2nfs",
+   "retweet_count": 45,
+   "favorite_count": 354,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Ej9aFQ2nfs",
+     "expand": "https://twitter.com/i/web/status/976145177688625154"
+    }
+   ]
+  },
+  {
+   "id": 975874707185635300,
+   "id_str": "975874707185635329",
+   "created_at": "Mon Mar 19 23:20:35 +0000 2018",
+   "text": "@julielerman Saving 2 pounds would be nice but I’d miss the 3 ports and larger screen.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975748706484994000,
+   "in_reply_to_status_id_str": "975748706484994050",
+   "in_reply_to_screen_name": "julielerman",
+   "urls": []
+  },
+  {
+   "id": 975812065989480400,
+   "id_str": "975812065989480449",
+   "created_at": "Mon Mar 19 19:11:40 +0000 2018",
+   "text": "@osbornm @JeffHandley Great work Matthew! One of the first I've seen using Knockout. This looks very well organized. 👍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975524486425571300,
+   "in_reply_to_status_id_str": "975524486425571328",
+   "in_reply_to_screen_name": "osbornm",
+   "urls": []
+  },
+  {
+   "id": 975805660007927800,
+   "id_str": "975805660007927813",
+   "created_at": "Mon Mar 19 18:46:13 +0000 2018",
+   "text": "@No1Melman It requires buy in from top levels of management so that they can enforce using the standard and help se… https://t.co/kRtiYg5iTe",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975778498643202000,
+   "in_reply_to_status_id_str": "975778498643202049",
+   "in_reply_to_screen_name": "No1Melman",
+   "urls": [
+    {
+     "url": "https://t.co/kRtiYg5iTe",
+     "expand": "https://twitter.com/i/web/status/975805660007927813"
+    }
+   ]
+  },
+  {
+   "id": 975776408155893800,
+   "id_str": "975776408155893762",
+   "created_at": "Mon Mar 19 16:49:59 +0000 2018",
+   "text": "@echoes2099 As usual, not a perfect metaphor. But I think of how many technologies I've learned only to see them ra… https://t.co/s94HWRFO5H",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975769743910232000,
+   "in_reply_to_status_id_str": "975769743910232064",
+   "in_reply_to_screen_name": "echoes2099",
+   "urls": [
+    {
+     "url": "https://t.co/s94HWRFO5H",
+     "expand": "https://twitter.com/i/web/status/975776408155893762"
+    }
+   ]
+  },
+  {
+   "id": 975768040448151600,
+   "id_str": "975768040448151552",
+   "created_at": "Mon Mar 19 16:16:44 +0000 2018",
+   "text": "@gnomeontherun @VMwareClarity Wow, this is gorgeous. Thanks for sharing Jeremy and bravo! 👍",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975736030614773800,
+   "in_reply_to_status_id_str": "975736030614773765",
+   "in_reply_to_screen_name": "gnomeontherun",
+   "urls": []
+  },
+  {
+   "id": 975762986848739300,
+   "id_str": "975762986848739329",
+   "created_at": "Mon Mar 19 15:56:39 +0000 2018",
+   "text": "@stylableio @dimitarnestorov @WixEng Interesting. Can you share more about the specific things you're doing to brin… https://t.co/Qj73LZf5VI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975675835234517000,
+   "in_reply_to_status_id_str": "975675835234516993",
+   "in_reply_to_screen_name": "stylableio",
+   "urls": [
+    {
+     "url": "https://t.co/Qj73LZf5VI",
+     "expand": "https://twitter.com/i/web/status/975762986848739329"
+    }
+   ]
+  },
+  {
+   "id": 975762362358779900,
+   "id_str": "975762362358779905",
+   "created_at": "Mon Mar 19 15:54:10 +0000 2018",
+   "text": "@No1Melman Many companies are doing this successfully (as shown in shared links in this thread). Bottom line: The s… https://t.co/Yu0mnFJRla",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975640018499854300,
+   "in_reply_to_status_id_str": "975640018499854336",
+   "in_reply_to_screen_name": "No1Melman",
+   "urls": [
+    {
+     "url": "https://t.co/Yu0mnFJRla",
+     "expand": "https://twitter.com/i/web/status/975762362358779905"
+    }
+   ]
+  },
+  {
+   "id": 975761843573715000,
+   "id_str": "975761843573714945",
+   "created_at": "Mon Mar 19 15:52:06 +0000 2018",
+   "text": "@alexindigo @suxxes react-sketchapp is particularly interesting since it assumes the design team is using Sketch an… https://t.co/PVkaUvPPIJ",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975739692229410800,
+   "in_reply_to_status_id_str": "975739692229410816",
+   "in_reply_to_screen_name": "alexindigo",
+   "urls": [
+    {
+     "url": "https://t.co/PVkaUvPPIJ",
+     "expand": "https://twitter.com/i/web/status/975761843573714945"
+    }
+   ]
+  },
+  {
+   "id": 975761009683157000,
+   "id_str": "975761009683156993",
+   "created_at": "Mon Mar 19 15:48:48 +0000 2018",
+   "text": "@FabianCook Yep, that looks like a similar idea - assuming you don't have a separate corporate style guide.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975627058364772400,
+   "in_reply_to_status_id_str": "975627058364772352",
+   "in_reply_to_screen_name": "FabianCook",
+   "urls": []
+  },
+  {
+   "id": 975730389925982200,
+   "id_str": "975730389925982208",
+   "created_at": "Mon Mar 19 13:47:07 +0000 2018",
+   "text": "Why specialize? Because the industry is changing faster than ever.\n\nToday, the half-life of an engineering degree i… https://t.co/v9h6J3YbjK",
+   "retweet_count": 61,
+   "favorite_count": 169,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/v9h6J3YbjK",
+     "expand": "https://twitter.com/i/web/status/975730389925982208"
+    }
+   ]
+  },
+  {
+   "id": 975551475190583300,
+   "id_str": "975551475190583296",
+   "created_at": "Mon Mar 19 01:56:11 +0000 2018",
+   "text": "@Wright2Tweet Very nice! Thanks for sharing John!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975546976891822100,
+   "in_reply_to_status_id_str": "975546976891822081",
+   "in_reply_to_screen_name": "Wright2Tweet",
+   "urls": []
+  },
+  {
+   "id": 975545747121860600,
+   "id_str": "975545747121860608",
+   "created_at": "Mon Mar 19 01:33:25 +0000 2018",
+   "text": "@JeffHandley Bingo. Looks great Jeff! Thanks for sharing! :)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975494641045856300,
+   "in_reply_to_status_id_str": "975494641045856256",
+   "in_reply_to_screen_name": "JeffHandley",
+   "urls": []
+  },
+  {
+   "id": 975545498982547500,
+   "id_str": "975545498982547463",
+   "created_at": "Mon Mar 19 01:32:26 +0000 2018",
+   "text": "RT @FilipeNevola: Amazing talk by @housecor I come from Java world to Javascript and I can't agree more with this talk. If your are not hap…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975470931152916500,
+    "id_str": "975470931152916486",
+    "created_at": "Sun Mar 18 20:36:08 +0000 2018",
+    "text": "Amazing talk by @housecor I come from Java world to Javascript and I can't agree more with this talk. If your are n… https://t.co/Wt4yk0PQQg",
+    "retweet_count": 12,
+    "favorite_count": 53,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Wt4yk0PQQg",
+      "expand": "https://twitter.com/i/web/status/975470931152916486"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975519229553332200,
+   "id_str": "975519229553332224",
+   "created_at": "Sun Mar 18 23:48:03 +0000 2018",
+   "text": "@dennizor @JeffHandley So looks like you and others are using the same site to document both your style guide and c… https://t.co/fR1Xh8p408",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975497414286200800,
+   "in_reply_to_status_id_str": "975497414286200832",
+   "in_reply_to_screen_name": "dennizor",
+   "urls": [
+    {
+     "url": "https://t.co/fR1Xh8p408",
+     "expand": "https://twitter.com/i/web/status/975519229553332224"
+    }
+   ]
+  },
+  {
+   "id": 975518297679679500,
+   "id_str": "975518297679679489",
+   "created_at": "Sun Mar 18 23:44:21 +0000 2018",
+   "text": "@uttara_p What is inside the style guide npm package? Just a css file?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975496804652474400,
+   "in_reply_to_status_id_str": "975496804652474368",
+   "in_reply_to_screen_name": "uttara_p",
+   "urls": []
+  },
+  {
+   "id": 975486339503272000,
+   "id_str": "975486339503271941",
+   "created_at": "Sun Mar 18 21:37:21 +0000 2018",
+   "text": "@DavidWells @reactathon Nice! Would appreciate a link if it happens to be recorded",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975485206164512800,
+   "in_reply_to_status_id_str": "975485206164512768",
+   "in_reply_to_screen_name": "DavidWells",
+   "urls": []
+  },
+  {
+   "id": 975486071776645100,
+   "id_str": "975486071776645121",
+   "created_at": "Sun Mar 18 21:36:17 +0000 2018",
+   "text": "@taylonr I agree Storybook is nice, but it's fixated on displaying components rather than general style guide relat… https://t.co/a2WTlY7A2r",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975482798269182000,
+   "in_reply_to_status_id_str": "975482798269181952",
+   "in_reply_to_screen_name": "taylonr",
+   "urls": [
+    {
+     "url": "https://t.co/a2WTlY7A2r",
+     "expand": "https://twitter.com/i/web/status/975486071776645121"
+    }
+   ]
+  },
+  {
+   "id": 975485665801654300,
+   "id_str": "975485665801654272",
+   "created_at": "Sun Mar 18 21:34:41 +0000 2018",
+   "text": "@RyanDoll Good stuff. Thanks for the link Ryan!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975481106442137600,
+   "in_reply_to_status_id_str": "975481106442137600",
+   "in_reply_to_screen_name": "RyanDoll",
+   "urls": []
+  },
+  {
+   "id": 975485297600487400,
+   "id_str": "975485297600487425",
+   "created_at": "Sun Mar 18 21:33:13 +0000 2018",
+   "text": "@RyanTablada I suspect many are, but at my company the two are currently in separate silos so this idea struck me a… https://t.co/QgxwPlZ08g",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975480930134458400,
+   "in_reply_to_status_id_str": "975480930134458368",
+   "in_reply_to_screen_name": "RyanTablada",
+   "urls": [
+    {
+     "url": "https://t.co/QgxwPlZ08g",
+     "expand": "https://twitter.com/i/web/status/975485297600487425"
+    }
+   ]
+  },
+  {
+   "id": 975479621125857300,
+   "id_str": "975479621125857280",
+   "created_at": "Sun Mar 18 21:10:39 +0000 2018",
+   "text": "@WesEklund Nice. We're doing the same with our CSS for apps. But right now our corporate style guide is a separate… https://t.co/EkshI8GUeA",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975478695564628000,
+   "in_reply_to_status_id_str": "975478695564627969",
+   "in_reply_to_screen_name": "WesEklund",
+   "urls": [
+    {
+     "url": "https://t.co/EkshI8GUeA",
+     "expand": "https://twitter.com/i/web/status/975479621125857280"
+    }
+   ]
+  },
+  {
+   "id": 975479077875437600,
+   "id_str": "975479077875437568",
+   "created_at": "Sun Mar 18 21:08:30 +0000 2018",
+   "text": "@FilipeNevola Thanks for the kind feedback Filipe! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975470931152916500,
+   "in_reply_to_status_id_str": "975470931152916486",
+   "in_reply_to_screen_name": "FilipeNevola",
+   "urls": []
+  },
+  {
+   "id": 975478132735135700,
+   "id_str": "975478132735135744",
+   "created_at": "Sun Mar 18 21:04:45 +0000 2018",
+   "text": "Many companies have:\n1. A corporate style guide\n2. A separate UI component library that implements the style guide'… https://t.co/cqpFkvvWRh",
+   "retweet_count": 27,
+   "favorite_count": 186,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cqpFkvvWRh",
+     "expand": "https://twitter.com/i/web/status/975478132735135744"
+    }
+   ]
+  },
+  {
+   "id": 975371193212600300,
+   "id_str": "975371193212600320",
+   "created_at": "Sun Mar 18 13:59:48 +0000 2018",
+   "text": "Related: \"Info has a predictable half-life: the time taken for half of it to be replaced or disproved. Over time, o… https://t.co/eRrj57mmu2",
+   "retweet_count": 6,
+   "favorite_count": 22,
+   "place": null,
+   "in_reply_to_status_id": 975369547795587100,
+   "in_reply_to_status_id_str": "975369547795587073",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/eRrj57mmu2",
+     "expand": "https://twitter.com/i/web/status/975371193212600320"
+    }
+   ]
+  },
+  {
+   "id": 975369547795587100,
+   "id_str": "975369547795587073",
+   "created_at": "Sun Mar 18 13:53:16 +0000 2018",
+   "text": "\"What have you learned in the past week that you’ll still care about in 5 years?\" - Shane Parrish\n\nFew tech skills… https://t.co/Tq5pCWaAh8",
+   "retweet_count": 77,
+   "favorite_count": 230,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Tq5pCWaAh8",
+     "expand": "https://twitter.com/i/web/status/975369547795587073"
+    }
+   ]
+  },
+  {
+   "id": 975005591864315900,
+   "id_str": "975005591864315911",
+   "created_at": "Sat Mar 17 13:47:02 +0000 2018",
+   "text": "JavaScript iterators are useful for efficiently working with large datasets. \n\nHere's a straightforward intro: \"Usi… https://t.co/yb5BGYmp7E",
+   "retweet_count": 27,
+   "favorite_count": 118,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yb5BGYmp7E",
+     "expand": "https://twitter.com/i/web/status/975005591864315911"
+    }
+   ]
+  },
+  {
+   "id": 974814138970067000,
+   "id_str": "974814138970066944",
+   "created_at": "Sat Mar 17 01:06:16 +0000 2018",
+   "text": "@ReidNEvans @practicingdev @TheMinimalists Saw one of their shows on Netflix. Thanks for suggesting",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974812775158636500,
+   "in_reply_to_status_id_str": "974812775158636544",
+   "in_reply_to_screen_name": "ReidNEvans",
+   "urls": []
+  },
+  {
+   "id": 974811169394393100,
+   "id_str": "974811169394393090",
+   "created_at": "Sat Mar 17 00:54:28 +0000 2018",
+   "text": "@ericweise Yep. It’s awesome. But I chose plain JS for the massive ecosystem and community.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974806015689474000,
+   "in_reply_to_status_id_str": "974806015689474049",
+   "in_reply_to_screen_name": "ericweise",
+   "urls": []
+  },
+  {
+   "id": 974779821573181400,
+   "id_str": "974779821573181442",
+   "created_at": "Fri Mar 16 22:49:54 +0000 2018",
+   "text": "RT @KentBeck: The purpose of your conference paper abstract is to get your paper in the A Pile and keep it out of the B Pile.\n\nThe sentence…",
+   "retweet_count": 263,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974359988352110600,
+    "id_str": "974359988352110592",
+    "created_at": "Thu Mar 15 19:01:38 +0000 2018",
+    "text": "The purpose of your conference paper abstract is to get your paper in the A Pile and keep it out of the B Pile.\n\nTh… https://t.co/PEbT92D6wF",
+    "retweet_count": 263,
+    "favorite_count": 1044,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PEbT92D6wF",
+      "expand": "https://twitter.com/i/web/status/974359988352110592"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974700015414382600,
+   "id_str": "974700015414382592",
+   "created_at": "Fri Mar 16 17:32:47 +0000 2018",
+   "text": "The \"full stack\" dev is a dying breed. Just keeping up with JS &amp; React ecosystems is a full-time job! Redux, MobX,… https://t.co/N2lGDhJNCI",
+   "retweet_count": 211,
+   "favorite_count": 666,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/N2lGDhJNCI",
+     "expand": "https://twitter.com/i/web/status/974700015414382592"
+    }
+   ]
+  },
+  {
+   "id": 974656791840788500,
+   "id_str": "974656791840788480",
+   "created_at": "Fri Mar 16 14:41:02 +0000 2018",
+   "text": "@practicingdev \"Essentialism: The Disciplined Pursuit of Less\"\n\nStop asking \"How can I do it all?\". Start asking \"W… https://t.co/2qdjxroaNf",
+   "retweet_count": 3,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": 974586110989996000,
+   "in_reply_to_status_id_str": "974586110989996032",
+   "in_reply_to_screen_name": "practicingdev",
+   "urls": [
+    {
+     "url": "https://t.co/2qdjxroaNf",
+     "expand": "https://twitter.com/i/web/status/974656791840788480"
+    }
+   ]
+  },
+  {
+   "id": 974656135495127000,
+   "id_str": "974656135495127040",
+   "created_at": "Fri Mar 16 14:38:25 +0000 2018",
+   "text": "@swyx @HenrikJoreteg Yes, point taken. I should say \"framework\" but by framework I mean fork of a boilerplate that… https://t.co/PEytpaLTz6",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974633750121402400,
+   "in_reply_to_status_id_str": "974633750121402368",
+   "in_reply_to_screen_name": "swyx",
+   "urls": [
+    {
+     "url": "https://t.co/PEytpaLTz6",
+     "expand": "https://twitter.com/i/web/status/974656135495127040"
+    }
+   ]
+  },
+  {
+   "id": 974643371028504600,
+   "id_str": "974643371028504576",
+   "created_at": "Fri Mar 16 13:47:42 +0000 2018",
+   "text": "@HenrikJoreteg Since React is merely a library, I advocate creating your own framework for React by forking create… https://t.co/TxMSQXKNqv",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974642906735800300,
+   "in_reply_to_status_id_str": "974642906735800320",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/TxMSQXKNqv",
+     "expand": "https://twitter.com/i/web/status/974643371028504576"
+    }
+   ]
+  },
+  {
+   "id": 974642906735800300,
+   "id_str": "974642906735800320",
+   "created_at": "Fri Mar 16 13:45:51 +0000 2018",
+   "text": "@HenrikJoreteg Yep. Also, one shouldn’t expect a *library* to have comprehensive opinions. That’s a framework’s job… https://t.co/naDqihcRwG",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974633127703322600,
+   "in_reply_to_status_id_str": "974633127703322624",
+   "in_reply_to_screen_name": "HenrikJoreteg",
+   "urls": [
+    {
+     "url": "https://t.co/naDqihcRwG",
+     "expand": "https://twitter.com/i/web/status/974642906735800320"
+    }
+   ]
+  },
+  {
+   "id": 974640191381082100,
+   "id_str": "974640191381082114",
+   "created_at": "Fri Mar 16 13:35:04 +0000 2018",
+   "text": "Solid advice from @kentcdodds : Use html data attributes for testing (data-test-description-here). Why? Avoids addi… https://t.co/KwAswaO2l4",
+   "retweet_count": 26,
+   "favorite_count": 111,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/KwAswaO2l4",
+     "expand": "https://twitter.com/i/web/status/974640191381082114"
+    }
+   ]
+  },
+  {
+   "id": 974632058134941700,
+   "id_str": "974632058134941696",
+   "created_at": "Fri Mar 16 13:02:45 +0000 2018",
+   "text": "@HenrikJoreteg Libraries won't fix ES lint config, testing config, transpiling config, TS vs JS, Jest vs Mocha, etc… https://t.co/HfAyfGLlcG",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 974631351155593200,
+   "in_reply_to_status_id_str": "974631351155593216",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/HfAyfGLlcG",
+     "expand": "https://twitter.com/i/web/status/974632058134941696"
+    }
+   ]
+  },
+  {
+   "id": 974631351155593200,
+   "id_str": "974631351155593216",
+   "created_at": "Fri Mar 16 12:59:56 +0000 2018",
+   "text": "@HenrikJoreteg I advocate for companies to create their own boilerplates by forking an existing popular boilerplate… https://t.co/T0GMs0cEbX",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 974629919379537900,
+   "in_reply_to_status_id_str": "974629919379537921",
+   "in_reply_to_screen_name": "HenrikJoreteg",
+   "urls": [
+    {
+     "url": "https://t.co/T0GMs0cEbX",
+     "expand": "https://twitter.com/i/web/status/974631351155593216"
+    }
+   ]
+  },
+  {
+   "id": 974627049934606300,
+   "id_str": "974627049934606337",
+   "created_at": "Fri Mar 16 12:42:51 +0000 2018",
+   "text": "@HenrikJoreteg I see teams primarily struggling with the opposite problem: They're \"too busy\" to learn and configur… https://t.co/j49N6sEa3o",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 974429576368566300,
+   "in_reply_to_status_id_str": "974429576368566273",
+   "in_reply_to_screen_name": "HenrikJoreteg",
+   "urls": [
+    {
+     "url": "https://t.co/j49N6sEa3o",
+     "expand": "https://twitter.com/i/web/status/974627049934606337"
+    }
+   ]
+  },
+  {
+   "id": 974369686572994600,
+   "id_str": "974369686572994560",
+   "created_at": "Thu Mar 15 19:40:10 +0000 2018",
+   "text": "@swyx @rstacruz My poll was sloppily worded. I meant for option one to describe that option, as well as many altern… https://t.co/kKhgMB7XtB",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974292889223225300,
+   "in_reply_to_status_id_str": "974292889223225344",
+   "in_reply_to_screen_name": "swyx",
+   "urls": [
+    {
+     "url": "https://t.co/kKhgMB7XtB",
+     "expand": "https://twitter.com/i/web/status/974369686572994560"
+    }
+   ]
+  },
+  {
+   "id": 974292727251783700,
+   "id_str": "974292727251783680",
+   "created_at": "Thu Mar 15 14:34:22 +0000 2018",
+   "text": "@rstacruz I'd typically recommend using env vars instead",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974123331770228700,
+   "in_reply_to_status_id_str": "974123331770228737",
+   "in_reply_to_screen_name": "rstacruz",
+   "urls": []
+  },
+  {
+   "id": 974009360916668400,
+   "id_str": "974009360916668417",
+   "created_at": "Wed Mar 14 19:48:22 +0000 2018",
+   "text": "Woah, iOS tip: Swipe over the 123 button to immediately access special characters.\n\nJust resolved my big annoyance compared to Android!",
+   "retweet_count": 2,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973995259997933600,
+   "id_str": "973995259997933569",
+   "created_at": "Wed Mar 14 18:52:20 +0000 2018",
+   "text": "RT @nbkhope: So, what's the best way to #BindThis in #React? 👍 “React Binding Patterns: 5 Approaches for Handling `this`” by @housecor http…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973988426335715300,
+    "id_str": "973988426335715328",
+    "created_at": "Wed Mar 14 18:25:11 +0000 2018",
+    "text": "So, what's the best way to #BindThis in #React? 👍 “React Binding Patterns: 5 Approaches for Handling `this`” by… https://t.co/XAMPVFn1OW",
+    "retweet_count": 2,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XAMPVFn1OW",
+      "expand": "https://twitter.com/i/web/status/973988426335715328"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973994789405413400,
+   "id_str": "973994789405413376",
+   "created_at": "Wed Mar 14 18:50:28 +0000 2018",
+   "text": "@EbenDCelebrant @code Nope. But I hear it pays very well",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973981225294671900,
+   "in_reply_to_status_id_str": "973981225294671874",
+   "in_reply_to_screen_name": "EbenDCelebrant",
+   "urls": []
+  },
+  {
+   "id": 973994608077221900,
+   "id_str": "973994608077221895",
+   "created_at": "Wed Mar 14 18:49:45 +0000 2018",
+   "text": "@kader_benchi Can you clarify how this works?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973973041599451100,
+   "in_reply_to_status_id_str": "973973041599451136",
+   "in_reply_to_screen_name": "kader_benchi",
+   "urls": []
+  },
+  {
+   "id": 973992923518906400,
+   "id_str": "973992923518906376",
+   "created_at": "Wed Mar 14 18:43:03 +0000 2018",
+   "text": "@_ericelliott Interesting. Never considered. So you’re accepting a bit of a perf hit with this since the proxy has to forward calls. Agreed?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973970277670436900,
+   "in_reply_to_status_id_str": "973970277670436864",
+   "in_reply_to_screen_name": "_ericelliott",
+   "urls": []
+  },
+  {
+   "id": 973991944601907200,
+   "id_str": "973991944601907208",
+   "created_at": "Wed Mar 14 18:39:10 +0000 2018",
+   "text": "Great post by @samerbuna on a variety of common mistakes people make in React. \n\nThe interesting thing: Since React… https://t.co/ZyTbPczRSY",
+   "retweet_count": 39,
+   "favorite_count": 103,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZyTbPczRSY",
+     "expand": "https://twitter.com/i/web/status/973991944601907208"
+    }
+   ]
+  },
+  {
+   "id": 973963805905612800,
+   "id_str": "973963805905612801",
+   "created_at": "Wed Mar 14 16:47:21 +0000 2018",
+   "text": "@benwmaddox I see nothing wrong with that as long as your api is specific to that one app. Can always extract for s… https://t.co/LzTPQlSmNE",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973959619461644300,
+   "in_reply_to_status_id_str": "973959619461644290",
+   "in_reply_to_screen_name": "benwmaddox",
+   "urls": [
+    {
+     "url": "https://t.co/LzTPQlSmNE",
+     "expand": "https://twitter.com/i/web/status/973963805905612801"
+    }
+   ]
+  },
+  {
+   "id": 973962926884360200,
+   "id_str": "973962926884360195",
+   "created_at": "Wed Mar 14 16:43:51 +0000 2018",
+   "text": "@geekykaran @sasimeka @Crowdfire @hapijs Makes sense. I’d still call this the env build approach",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973957426880958500,
+   "in_reply_to_status_id_str": "973957426880958466",
+   "in_reply_to_screen_name": "geekykaran",
+   "urls": []
+  },
+  {
+   "id": 973962463334068200,
+   "id_str": "973962463334068224",
+   "created_at": "Wed Mar 14 16:42:01 +0000 2018",
+   "text": "@josh_rog Point taken. In many cases it can be a combination of both. The book “The Happieness Advantage\" helped me… https://t.co/2a5UagWHQA",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973953058714652700,
+   "in_reply_to_status_id_str": "973953058714652673",
+   "in_reply_to_screen_name": "josh_rog",
+   "urls": [
+    {
+     "url": "https://t.co/2a5UagWHQA",
+     "expand": "https://twitter.com/i/web/status/973962463334068224"
+    }
+   ]
+  },
+  {
+   "id": 973961823312580600,
+   "id_str": "973961823312580608",
+   "created_at": "Wed Mar 14 16:39:28 +0000 2018",
+   "text": "@josh_rog Oh, I hear you. I’ve been there. Not saying jobs are always rewarding. But I’ve found even simple jobs to… https://t.co/U7tW643hnd",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973951737500524500,
+   "in_reply_to_status_id_str": "973951737500524544",
+   "in_reply_to_screen_name": "josh_rog",
+   "urls": [
+    {
+     "url": "https://t.co/U7tW643hnd",
+     "expand": "https://twitter.com/i/web/status/973961823312580608"
+    }
+   ]
+  },
+  {
+   "id": 973961056900014100,
+   "id_str": "973961056900014081",
+   "created_at": "Wed Mar 14 16:36:25 +0000 2018",
+   "text": "@luisvieira_gmr congratulations on getting featured! Well deserved! Excellent post. So good I read it twice. :) https://t.co/ydEcF7gOqO",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "luisvieira_gmr",
+   "urls": [
+    {
+     "url": "https://t.co/ydEcF7gOqO",
+     "expand": "https://mailchi.mp/db331c322260/the-react-newsletter-124?e=03b23555a2"
+    }
+   ]
+  },
+  {
+   "id": 973941530217123800,
+   "id_str": "973941530217123844",
+   "created_at": "Wed Mar 14 15:18:50 +0000 2018",
+   "text": "@jasonkarns Ah, so the initial AJAX call must always go to the same URL in all environments. And you're accepting t… https://t.co/LXEYl9vpuZ",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973941140134223900,
+   "in_reply_to_status_id_str": "973941140134223872",
+   "in_reply_to_screen_name": "jasonkarns",
+   "urls": [
+    {
+     "url": "https://t.co/LXEYl9vpuZ",
+     "expand": "https://twitter.com/i/web/status/973941530217123844"
+    }
+   ]
+  },
+  {
+   "id": 973940809321123800,
+   "id_str": "973940809321123840",
+   "created_at": "Wed Mar 14 15:15:58 +0000 2018",
+   "text": "@deaniusaur Nope. What I know on this topic I learned from Seth Godin as well as Simon Sinek's excellent book: \"Leaders Eat Last\".",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973934581685653500,
+   "in_reply_to_status_id_str": "973934581685653504",
+   "in_reply_to_screen_name": "deaniusaur",
+   "urls": []
+  },
+  {
+   "id": 973940363126870000,
+   "id_str": "973940363126870018",
+   "created_at": "Wed Mar 14 15:14:12 +0000 2018",
+   "text": "@josh_rog I believe that's a common misconception. Some think \"If I could quit my job and do whatever I feel like e… https://t.co/ngfTj3smyf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973932963258880000,
+   "in_reply_to_status_id_str": "973932963258880000",
+   "in_reply_to_screen_name": "josh_rog",
+   "urls": [
+    {
+     "url": "https://t.co/ngfTj3smyf",
+     "expand": "https://twitter.com/i/web/status/973940363126870018"
+    }
+   ]
+  },
+  {
+   "id": 973938781874245600,
+   "id_str": "973938781874245632",
+   "created_at": "Wed Mar 14 15:07:55 +0000 2018",
+   "text": "@kylewelch @evbeng Yeah, Docker makes this slick since you can compose the containers into their own \"LAN\". Thus ba… https://t.co/mpdSGfHjyT",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973930010502488000,
+   "in_reply_to_status_id_str": "973930010502488064",
+   "in_reply_to_screen_name": "kylewelch",
+   "urls": [
+    {
+     "url": "https://t.co/mpdSGfHjyT",
+     "expand": "https://twitter.com/i/web/status/973938781874245632"
+    }
+   ]
+  },
+  {
+   "id": 973938237222899700,
+   "id_str": "973938237222899712",
+   "created_at": "Wed Mar 14 15:05:45 +0000 2018",
+   "text": "@jasonkarns Can you clarify the details? What is being server rendered, where are you writing it, and how are you reading it?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973906321484460000,
+   "in_reply_to_status_id_str": "973906321484460032",
+   "in_reply_to_screen_name": "jasonkarns",
+   "urls": []
+  },
+  {
+   "id": 973918458785222700,
+   "id_str": "973918458785222656",
+   "created_at": "Wed Mar 14 13:47:09 +0000 2018",
+   "text": "Work is a gift. Work delivers two key \"happiness\" chemicals: \n\n1 Dopamine - The feeling of accomplishment from comp… https://t.co/fs5Yfgsz61",
+   "retweet_count": 24,
+   "favorite_count": 86,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fs5Yfgsz61",
+     "expand": "https://twitter.com/i/web/status/973918458785222656"
+    }
+   ]
+  },
+  {
+   "id": 973907106670792700,
+   "id_str": "973907106670792705",
+   "created_at": "Wed Mar 14 13:02:03 +0000 2018",
+   "text": "@sasimeka Gotcha. So you use node.js to generate an index.html for each environment? How do you deploy the relevant… https://t.co/TyBh5ew58n",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973897911280066600,
+   "in_reply_to_status_id_str": "973897911280066560",
+   "in_reply_to_screen_name": "sasimeka",
+   "urls": [
+    {
+     "url": "https://t.co/TyBh5ew58n",
+     "expand": "https://twitter.com/i/web/status/973907106670792705"
+    }
+   ]
+  },
+  {
+   "id": 973897247741050900,
+   "id_str": "973897247741050880",
+   "created_at": "Wed Mar 14 12:22:52 +0000 2018",
+   "text": "@sasimeka Ah, so you're saying you generate an index.html for each environment? Do you do that manually?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973896848065822700,
+   "in_reply_to_status_id_str": "973896848065822720",
+   "in_reply_to_screen_name": "sasimeka",
+   "urls": []
+  },
+  {
+   "id": 973896860917215200,
+   "id_str": "973896860917215232",
+   "created_at": "Wed Mar 14 12:21:20 +0000 2018",
+   "text": "@kyleballard @code I didn't make it. It's from their docs at the link I provided. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973895985272381400,
+   "in_reply_to_status_id_str": "973895985272381440",
+   "in_reply_to_screen_name": "kyleballard",
+   "urls": []
+  },
+  {
+   "id": 973895511794241500,
+   "id_str": "973895511794241536",
+   "created_at": "Wed Mar 14 12:15:58 +0000 2018",
+   "text": "@kevinold Eager to see, because I can't imagine how that solves for multiple non-prod environments.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973894541332893700,
+   "in_reply_to_status_id_str": "973894541332893696",
+   "in_reply_to_screen_name": "kevinold",
+   "urls": []
+  },
+  {
+   "id": 973895277064138800,
+   "id_str": "973895277064138752",
+   "created_at": "Wed Mar 14 12:15:02 +0000 2018",
+   "text": "@montogeek I prefer a custom build per env via a CI server, but when teams don't have a CI setup, I sniff the URL.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 973891318480101400,
+   "in_reply_to_status_id_str": "973891318480101376",
+   "in_reply_to_screen_name": "montogeek",
+   "urls": []
+  },
+  {
+   "id": 973887361112334300,
+   "id_str": "973887361112334337",
+   "created_at": "Wed Mar 14 11:43:35 +0000 2018",
+   "text": "@sasimeka But how do you access those server-side env vars on the client?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973885318482006000,
+   "in_reply_to_status_id_str": "973885318482006016",
+   "in_reply_to_screen_name": "sasimeka",
+   "urls": []
+  },
+  {
+   "id": 973886719530500100,
+   "id_str": "973886719530500096",
+   "created_at": "Wed Mar 14 11:41:02 +0000 2018",
+   "text": "@code_punkt Interesting. Can you share more about how this JS config file is created and deployed to each environment?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973882399045161000,
+   "in_reply_to_status_id_str": "973882399045160960",
+   "in_reply_to_screen_name": "code_punkt",
+   "urls": []
+  },
+  {
+   "id": 973885019356790800,
+   "id_str": "973885019356790784",
+   "created_at": "Wed Mar 14 11:34:17 +0000 2018",
+   "text": "@mxstbr Yep, so in other words, you voted for \"Custom build for each env\". :)",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 973882754042679300,
+   "in_reply_to_status_id_str": "973882754042679296",
+   "in_reply_to_screen_name": "mxstbr",
+   "urls": []
+  },
+  {
+   "id": 973882801194963000,
+   "id_str": "973882801194962944",
+   "created_at": "Wed Mar 14 11:25:28 +0000 2018",
+   "text": "@TheTFo Ah yes, I should have added this to the list. I call this pattern \"server-side global injection\".",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 973882265804705800,
+   "in_reply_to_status_id_str": "973882265804705793",
+   "in_reply_to_screen_name": "oldfo283",
+   "urls": []
+  },
+  {
+   "id": 973881714710908900,
+   "id_str": "973881714710908928",
+   "created_at": "Wed Mar 14 11:21:09 +0000 2018",
+   "text": "📊Poll: How do you configure your client-side rendered apps to call different API URLs in each environment?\n\nExample… https://t.co/jCpmyqwAHI",
+   "retweet_count": 7,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jCpmyqwAHI",
+     "expand": "https://twitter.com/i/web/status/973881714710908928"
+    }
+   ]
+  },
+  {
+   "id": 973856175690305500,
+   "id_str": "973856175690305542",
+   "created_at": "Wed Mar 14 09:39:40 +0000 2018",
+   "text": "Love the new split terminal window feature in VS Code! @code\n\nReally handy for running your app and automated tests… https://t.co/UsV7hEzqMw",
    "retweet_count": 51,
-   "favorite_count": 100,
+   "favorite_count": 231,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/BwZLvRgloN",
-     "expand": "https://twitter.com/i/web/status/965288368690089986"
+     "url": "https://t.co/UsV7hEzqMw",
+     "expand": "https://twitter.com/i/web/status/973856175690305542"
     }
    ]
   },
   {
-   "id": 965248089002070000,
-   "id_str": "965248089002070016",
-   "created_at": "Sun Feb 18 15:34:12 +0000 2018",
-   "text": "@rdifrango Interesting timing. I'm providing a full day of \"Clean Code\" training next Friday for a local company so… https://t.co/gONyZcfQRu",
+   "id": 973736118188494800,
+   "id_str": "973736118188494850",
+   "created_at": "Wed Mar 14 01:42:36 +0000 2018",
+   "text": "@sompylasar I’m weird. In college I preferred to work in the student union. Background noise doesn’t bother me if I… https://t.co/sMzFBmtekG",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 965246821697310700,
-   "in_reply_to_status_id_str": "965246821697310720",
-   "in_reply_to_screen_name": "rdifrango",
+   "in_reply_to_status_id": 973716524195233800,
+   "in_reply_to_status_id_str": "973716524195233792",
+   "in_reply_to_screen_name": "sompylasar",
    "urls": [
     {
-     "url": "https://t.co/gONyZcfQRu",
-     "expand": "https://twitter.com/i/web/status/965248089002070016"
+     "url": "https://t.co/sMzFBmtekG",
+     "expand": "https://twitter.com/i/web/status/973736118188494850"
     }
    ]
   },
   {
-   "id": 965215120078131200,
-   "id_str": "965215120078131200",
-   "created_at": "Sun Feb 18 13:23:12 +0000 2018",
-   "text": "So true. For today's developers, formal education is just the beginning. Long-term success requires self-guided rea… https://t.co/PQ8S25iXNO",
-   "retweet_count": 99,
-   "favorite_count": 274,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/PQ8S25iXNO",
-     "expand": "https://twitter.com/i/web/status/965215120078131200"
-    }
-   ]
-  },
-  {
-   "id": 965051744513351700,
-   "id_str": "965051744513351682",
-   "created_at": "Sun Feb 18 02:34:00 +0000 2018",
-   "text": "\"99% of the time, when you think you need to mock a module, the real answer is that you should decouple the part th… https://t.co/jeiUESUdAB",
-   "retweet_count": 41,
-   "favorite_count": 147,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/jeiUESUdAB",
-     "expand": "https://twitter.com/i/web/status/965051744513351682"
-    }
-   ]
-  },
-  {
-   "id": 965044289976913900,
-   "id_str": "965044289976913920",
-   "created_at": "Sun Feb 18 02:04:23 +0000 2018",
-   "text": "@JS_TUREEY @eggheadio @TheLarkInn Check out the awesome React list. Has a list of open source projects",
+   "id": 973730005023895600,
+   "id_str": "973730005023895552",
+   "created_at": "Wed Mar 14 01:18:18 +0000 2018",
+   "text": "@linkibol New mbp screen is first laptop with screen that is bright enough for use in direct sun in beach. And exce… https://t.co/3Z0oiDJRWd",
    "retweet_count": 0,
    "favorite_count": 1,
    "place": null,
-   "in_reply_to_status_id": 965011658795094000,
-   "in_reply_to_status_id_str": "965011658795094017",
-   "in_reply_to_screen_name": "JS_TUREEY",
+   "in_reply_to_status_id": 973713234187362300,
+   "in_reply_to_status_id_str": "973713234187362306",
+   "in_reply_to_screen_name": "linkibol",
+   "urls": [
+    {
+     "url": "https://t.co/3Z0oiDJRWd",
+     "expand": "https://twitter.com/i/web/status/973730005023895552"
+    }
+   ]
+  },
+  {
+   "id": 973701632755200000,
+   "id_str": "973701632755200001",
+   "created_at": "Tue Mar 13 23:25:34 +0000 2018",
+   "text": "@gsferreira Or more specifically, white when in bright environments.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973691937822793700,
+   "in_reply_to_status_id_str": "973691937822793729",
+   "in_reply_to_screen_name": "gsferreira",
    "urls": []
   },
   {
-   "id": 964947626713067500,
-   "id_str": "964947626713067520",
-   "created_at": "Sat Feb 17 19:40:16 +0000 2018",
-   "text": "@robocell I mean both. Either:\n\n1. Allow you to open source a closed source project\n2. Support you contributing to… https://t.co/RKQKIA23GT",
+   "id": 973701364927909900,
+   "id_str": "973701364927909888",
+   "created_at": "Tue Mar 13 23:24:30 +0000 2018",
+   "text": "@gsferreira Bingo.",
    "retweet_count": 0,
-   "favorite_count": 4,
+   "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 964945487618101200,
-   "in_reply_to_status_id_str": "964945487618101248",
-   "in_reply_to_screen_name": "robocell",
-   "urls": [
-    {
-     "url": "https://t.co/RKQKIA23GT",
-     "expand": "https://twitter.com/i/web/status/964947626713067520"
-    }
-   ]
+   "in_reply_to_status_id": 973691937822793700,
+   "in_reply_to_status_id_str": "973691937822793729",
+   "in_reply_to_screen_name": "gsferreira",
+   "urls": []
   },
   {
-   "id": 964929661800198100,
-   "id_str": "964929661800198144",
-   "created_at": "Sat Feb 17 18:28:53 +0000 2018",
-   "text": "@mrdowden Agreed. To me it's not just selfish. It's short-sighted. Maintaining a fork often requires more work over… https://t.co/pIjcEr6Td7",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 964924928725340200,
-   "in_reply_to_status_id_str": "964924928725340166",
-   "in_reply_to_screen_name": "mrdowden",
-   "urls": [
-    {
-     "url": "https://t.co/pIjcEr6Td7",
-     "expand": "https://twitter.com/i/web/status/964929661800198144"
-    }
-   ]
-  },
-  {
-   "id": 964928441157025800,
-   "id_str": "964928441157025792",
-   "created_at": "Sat Feb 17 18:24:02 +0000 2018",
-   "text": "@J_Ecc In my experience, Microsoft and Java devs are less open source oriented than average. They tend to prefer es… https://t.co/CxdfPk3cAT",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 964924796344590300,
-   "in_reply_to_status_id_str": "964924796344590336",
-   "in_reply_to_screen_name": "J_Ecc",
-   "urls": [
-    {
-     "url": "https://t.co/CxdfPk3cAT",
-     "expand": "https://twitter.com/i/web/status/964928441157025792"
-    }
-   ]
-  },
-  {
-   "id": 964921816690122800,
-   "id_str": "964921816690122752",
-   "created_at": "Sat Feb 17 17:57:43 +0000 2018",
-   "text": "Poll: 📊 Okay developers, how do you feel about contributing to open source as a full-time employee?\n\nIs it importan… https://t.co/D8IvGPLXjS",
-   "retweet_count": 108,
-   "favorite_count": 55,
+   "id": 973673929423446000,
+   "id_str": "973673929423446016",
+   "created_at": "Tue Mar 13 21:35:29 +0000 2018",
+   "text": "My new favorite remote office: I highly recommend coding from a hammock on the beach!\n \nBeen a wonderful week in Me… https://t.co/HRF9uulHAr",
+   "retweet_count": 4,
+   "favorite_count": 96,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/D8IvGPLXjS",
-     "expand": "https://twitter.com/i/web/status/964921816690122752"
+     "url": "https://t.co/HRF9uulHAr",
+     "expand": "https://twitter.com/i/web/status/973673929423446016"
     }
    ]
   },
   {
-   "id": 964904606747775000,
-   "id_str": "964904606747774977",
-   "created_at": "Sat Feb 17 16:49:19 +0000 2018",
-   "text": "@knitcodemonkey @ryanflorence @AdamRackis @DanielJTrone @kentcdodds Yep! Have a high stakes meeting with execs next… https://t.co/eXPtBNolbI",
+   "id": 973650843638607900,
+   "id_str": "973650843638607875",
+   "created_at": "Tue Mar 13 20:03:45 +0000 2018",
+   "text": "@spetryjohnson Oh agreed. I’m referring specially to general books and blogs about productivity. They’re basically… https://t.co/ZgUDwaqv0r",
    "retweet_count": 0,
-   "favorite_count": 4,
+   "favorite_count": 6,
    "place": null,
-   "in_reply_to_status_id": 964902104371404800,
-   "in_reply_to_status_id_str": "964902104371404800",
-   "in_reply_to_screen_name": "knitcodemonkey",
+   "in_reply_to_status_id": 973628923404746800,
+   "in_reply_to_status_id_str": "973628923404746752",
+   "in_reply_to_screen_name": "spetryjohnson",
    "urls": [
     {
-     "url": "https://t.co/eXPtBNolbI",
-     "expand": "https://twitter.com/i/web/status/964904606747774977"
+     "url": "https://t.co/ZgUDwaqv0r",
+     "expand": "https://twitter.com/i/web/status/973650843638607875"
     }
    ]
   },
   {
-   "id": 964897355119153200,
-   "id_str": "964897355119153152",
-   "created_at": "Sat Feb 17 16:20:31 +0000 2018",
-   "text": "@kentcdodds In your ama on open source. And yep, you did caveat properly there. I'm spending the morning making a c… https://t.co/j48xam50LQ",
-   "retweet_count": 0,
-   "favorite_count": 7,
+   "id": 973622002794860500,
+   "id_str": "973622002794860544",
+   "created_at": "Tue Mar 13 18:09:09 +0000 2018",
+   "text": "Realization: I’ve spent many hours reading books and blog posts about productivity. I must admit most of this readi… https://t.co/Eajrb3U4wp",
+   "retweet_count": 18,
+   "favorite_count": 134,
    "place": null,
-   "in_reply_to_status_id": 964895796926672900,
-   "in_reply_to_status_id_str": "964895796926672897",
-   "in_reply_to_screen_name": "kentcdodds",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/j48xam50LQ",
-     "expand": "https://twitter.com/i/web/status/964897355119153152"
+     "url": "https://t.co/Eajrb3U4wp",
+     "expand": "https://twitter.com/i/web/status/973622002794860544"
     }
    ]
   },
   {
-   "id": 964895222365851600,
-   "id_str": "964895222365851649",
-   "created_at": "Sat Feb 17 16:12:02 +0000 2018",
-   "text": "Need something fixed/enhanced in an open source package that you use at work? Consider just doing the work. \n\n\"It's… https://t.co/sFxwgK22Gs",
+   "id": 973371570747072500,
+   "id_str": "973371570747072512",
+   "created_at": "Tue Mar 13 01:34:01 +0000 2018",
+   "text": "Love this wisdom from @sivers:\n\nHave a vague goal? Get specific. Vague goals don’t create action. So convert your v… https://t.co/rRS5Zr2gKM",
+   "retweet_count": 3,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rRS5Zr2gKM",
+     "expand": "https://twitter.com/i/web/status/973371570747072512"
+    }
+   ]
+  },
+  {
+   "id": 973354743690080300,
+   "id_str": "973354743690080256",
+   "created_at": "Tue Mar 13 00:27:09 +0000 2018",
+   "text": "@mcavaliere Yep agreed excellent",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973285238657908700,
+   "in_reply_to_status_id_str": "973285238657908737",
+   "in_reply_to_screen_name": "mcavaliere",
+   "urls": []
+  },
+  {
+   "id": 973217056748462100,
+   "id_str": "973217056748462080",
+   "created_at": "Mon Mar 12 15:20:02 +0000 2018",
+   "text": "Compelling.\n\n\"Your public persona — the image you show the world — should be an extreme character. It can be a vers… https://t.co/NXZgRgrOME",
+   "retweet_count": 2,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NXZgRgrOME",
+     "expand": "https://twitter.com/i/web/status/973217056748462080"
+    }
+   ]
+  },
+  {
+   "id": 973193655346397200,
+   "id_str": "973193655346397185",
+   "created_at": "Mon Mar 12 13:47:03 +0000 2018",
+   "text": "CSS variables finally have broad browser support and can be compiled down for older browsers like IE11 with PostCSS… https://t.co/7ihmhJWEHx",
+   "retweet_count": 32,
+   "favorite_count": 94,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7ihmhJWEHx",
+     "expand": "https://twitter.com/i/web/status/973193655346397185"
+    }
+   ]
+  },
+  {
+   "id": 972815887081394200,
+   "id_str": "972815887081394176",
+   "created_at": "Sun Mar 11 12:45:56 +0000 2018",
+   "text": "Interesting insight: Money and confidence are interchangeable.\n\nhttps://t.co/MYlgxt6MTv",
+   "retweet_count": 3,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MYlgxt6MTv",
+     "expand": "https://buff.ly/2DgKmIf"
+    }
+   ]
+  },
+  {
+   "id": 972531543565635600,
+   "id_str": "972531543565635584",
+   "created_at": "Sat Mar 10 17:56:03 +0000 2018",
+   "text": "@jasonkarns I hear ya. However, predictable URLs mean you need not start from scratch with each new request / resou… https://t.co/xIr8tGmWb9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972511144324759600,
+   "in_reply_to_status_id_str": "972511144324759552",
+   "in_reply_to_screen_name": "jasonkarns",
+   "urls": [
+    {
+     "url": "https://t.co/xIr8tGmWb9",
+     "expand": "https://twitter.com/i/web/status/972531543565635584"
+    }
+   ]
+  },
+  {
+   "id": 972483971543158800,
+   "id_str": "972483971543158784",
+   "created_at": "Sat Mar 10 14:47:01 +0000 2018",
+   "text": "So true: I learned this from public speaking. Each completed talk increases confidence.\n\n“Confidence isn’t what lea… https://t.co/IMh7EcMjQE",
+   "retweet_count": 6,
+   "favorite_count": 64,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IMh7EcMjQE",
+     "expand": "https://twitter.com/i/web/status/972483971543158784"
+    }
+   ]
+  },
+  {
+   "id": 972477142213775400,
+   "id_str": "972477142213775360",
+   "created_at": "Sat Mar 10 14:19:53 +0000 2018",
+   "text": "Two key takeaways:\n1. 45% of devs are allowed to contribute to open source on company time! 👍\n\n2. 30% of devs don't… https://t.co/bRZxZ7gUtc",
+   "retweet_count": 7,
+   "favorite_count": 36,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bRZxZ7gUtc",
+     "expand": "https://twitter.com/i/web/status/972477142213775360"
+    }
+   ]
+  },
+  {
+   "id": 972320594665537500,
+   "id_str": "972320594665537536",
+   "created_at": "Sat Mar 10 03:57:49 +0000 2018",
+   "text": "@toddhgardner @TheLarkInn Agreed. I may also be battling this: \"It is difficult to get a man to understand somethin… https://t.co/3TBiQjGWQy",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 972319193130467300,
+   "in_reply_to_status_id_str": "972319193130467328",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": [
+    {
+     "url": "https://t.co/3TBiQjGWQy",
+     "expand": "https://twitter.com/i/web/status/972320594665537536"
+    }
+   ]
+  },
+  {
+   "id": 972319856732328000,
+   "id_str": "972319856732327936",
+   "created_at": "Sat Mar 10 03:54:53 +0000 2018",
+   "text": "@toddhgardner @TheLarkInn That's said, I totally appreciate your concerns. But JS lacks a standard library.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972305060226043900,
+   "in_reply_to_status_id_str": "972305060226043909",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": []
+  },
+  {
+   "id": 972318107640492000,
+   "id_str": "972318107640492032",
+   "created_at": "Sat Mar 10 03:47:56 +0000 2018",
+   "text": "@toddhgardner @TheLarkInn It's interesting because I recently gave a talk with a slide that says \"Vanilla JS is mal… https://t.co/Jl4TqonebF",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972305060226043900,
+   "in_reply_to_status_id_str": "972305060226043909",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": [
+    {
+     "url": "https://t.co/Jl4TqonebF",
+     "expand": "https://twitter.com/i/web/status/972318107640492032"
+    }
+   ]
+  },
+  {
+   "id": 972299512600555500,
+   "id_str": "972299512600555520",
+   "created_at": "Sat Mar 10 02:34:02 +0000 2018",
+   "text": "Sure, you know about console.log, but there are a lot of other handy tools in the browser console:… https://t.co/tDe1LzWJXf",
    "retweet_count": 56,
-   "favorite_count": 174,
+   "favorite_count": 143,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/sFxwgK22Gs",
-     "expand": "https://twitter.com/i/web/status/964895222365851649"
+     "url": "https://t.co/tDe1LzWJXf",
+     "expand": "https://twitter.com/i/web/status/972299512600555520"
     }
    ]
+  },
+  {
+   "id": 972298079645896700,
+   "id_str": "972298079645896704",
+   "created_at": "Sat Mar 10 02:28:21 +0000 2018",
+   "text": "@toddhgardner  https://t.co/cVzsXyd0Fd",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 972186324752007200,
+   "in_reply_to_status_id_str": "972186324752007171",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": []
+  },
+  {
+   "id": 972264782287040500,
+   "id_str": "972264782287040512",
+   "created_at": "Sat Mar 10 00:16:02 +0000 2018",
+   "text": "@AFRavn A classic! :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972208170247520300,
+   "in_reply_to_status_id_str": "972208170247520256",
+   "in_reply_to_screen_name": "AFRavn",
+   "urls": []
+  },
+  {
+   "id": 972203102723104800,
+   "id_str": "972203102723104768",
+   "created_at": "Fri Mar 09 20:10:57 +0000 2018",
+   "text": "Love this example of RPC vs REST. Only problem is, very few “RESTful” APIs actually operate this way. Most “REST” A… https://t.co/IykkrrKjD4",
+   "retweet_count": 31,
+   "favorite_count": 94,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IykkrrKjD4",
+     "expand": "https://twitter.com/i/web/status/972203102723104768"
+    }
+   ]
+  },
+  {
+   "id": 972182141558841300,
+   "id_str": "972182141558841344",
+   "created_at": "Fri Mar 09 18:47:39 +0000 2018",
+   "text": "@toddhgardner I see your point, though using third party code is more than a dev time optimization. It's also a pot… https://t.co/eR5vGyp4iJ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972143969634275300,
+   "in_reply_to_status_id_str": "972143969634275328",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": [
+    {
+     "url": "https://t.co/eR5vGyp4iJ",
+     "expand": "https://twitter.com/i/web/status/972182141558841344"
+    }
+   ]
+  },
+  {
+   "id": 972128426751660000,
+   "id_str": "972128426751660032",
+   "created_at": "Fri Mar 09 15:14:12 +0000 2018",
+   "text": "@toddhgardner Possible, but building a JS app without using anyone else’s code would take much longer and likely pr… https://t.co/gQ90S4UTKt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972124534441762800,
+   "in_reply_to_status_id_str": "972124534441762816",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": [
+    {
+     "url": "https://t.co/gQ90S4UTKt",
+     "expand": "https://twitter.com/i/web/status/972128426751660032"
+    }
+   ]
+  },
+  {
+   "id": 972126768487436300,
+   "id_str": "972126768487436288",
+   "created_at": "Fri Mar 09 15:07:37 +0000 2018",
+   "text": "@ApaKing94 Great option",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972112951250387000,
+   "in_reply_to_status_id_str": "972112951250386945",
+   "in_reply_to_screen_name": "ApaKing94",
+   "urls": []
+  },
+  {
+   "id": 972123419675381800,
+   "id_str": "972123419675381760",
+   "created_at": "Fri Mar 09 14:54:19 +0000 2018",
+   "text": "@toddhgardner I hear you. But as a JavaScript developer, working without dependencies today isn’t practical. Torn o… https://t.co/FmH6zgRcQH",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971877047260844000,
+   "in_reply_to_status_id_str": "971877047260844034",
+   "in_reply_to_screen_name": "toddhgardner",
+   "urls": [
+    {
+     "url": "https://t.co/FmH6zgRcQH",
+     "expand": "https://twitter.com/i/web/status/972123419675381760"
+    }
+   ]
+  },
+  {
+   "id": 972121582025039900,
+   "id_str": "972121582025039872",
+   "created_at": "Fri Mar 09 14:47:00 +0000 2018",
+   "text": "Making open source sustainable won’t happen through patronage. It’ll happen when companies that use open source all… https://t.co/pe0kI5UXWC",
+   "retweet_count": 20,
+   "favorite_count": 69,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/pe0kI5UXWC",
+     "expand": "https://twitter.com/i/web/status/972121582025039872"
+    }
+   ]
+  },
+  {
+   "id": 972074735214440400,
+   "id_str": "972074735214440448",
+   "created_at": "Fri Mar 09 11:40:51 +0000 2018",
+   "text": "I'm curious to see how reality matches up with claimed developer preferences: https://t.co/5ABpDjclx1",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 972072515559403500,
+   "in_reply_to_status_id_str": "972072515559403520",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/5ABpDjclx1",
+     "expand": "https://twitter.com/housecor/status/964921816690122752"
+    }
+   ]
+  },
+  {
+   "id": 972074101857759200,
+   "id_str": "972074101857759232",
+   "created_at": "Fri Mar 09 11:38:20 +0000 2018",
+   "text": "@eugenekmd It's quite slick. I'd also suggest checking out after.js and Gatsby.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971939052890001400,
+   "in_reply_to_status_id_str": "971939052890001413",
+   "in_reply_to_screen_name": "eugenekmd",
+   "urls": []
+  },
+  {
+   "id": 972073719698022400,
+   "id_str": "972073719698022400",
+   "created_at": "Fri Mar 09 11:36:49 +0000 2018",
+   "text": "@tobie Great post and agreed. Thanks for sharing! I've scheduled a tweet to share this, and just posted another related poll.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971901799002263600,
+   "in_reply_to_status_id_str": "971901799002263552",
+   "in_reply_to_screen_name": "tobie",
+   "urls": []
+  },
+  {
+   "id": 972072515559403500,
+   "id_str": "972072515559403520",
+   "created_at": "Fri Mar 09 11:32:02 +0000 2018",
+   "text": "📊 Developer poll: Are you allowed to contribute to open source projects that your team is using while on company time?",
+   "retweet_count": 48,
+   "favorite_count": 46,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 971886385891283000,
+   "id_str": "971886385891282949",
+   "created_at": "Thu Mar 08 23:12:25 +0000 2018",
+   "text": "Never thought of it this way, but a compelling point for any company that's sharing code:\n\n\"If you don’t have a mon… https://t.co/gVFLitK3Da",
+   "retweet_count": 7,
+   "favorite_count": 32,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gVFLitK3Da",
+     "expand": "https://twitter.com/i/web/status/971886385891282949"
+    }
+   ]
+  },
+  {
+   "id": 971846272381579300,
+   "id_str": "971846272381579267",
+   "created_at": "Thu Mar 08 20:33:02 +0000 2018",
+   "text": "@kingjuliendance @shrutikapoor08 @iterateconf Yep! https://t.co/6GTFmWin1c",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971829732504408000,
+   "in_reply_to_status_id_str": "971829732504408066",
+   "in_reply_to_screen_name": "kingjuliendance",
+   "urls": [
+    {
+     "url": "https://t.co/6GTFmWin1c",
+     "expand": "https://www.bitnative.com/presentations/"
+    }
+   ]
+  },
+  {
+   "id": 971808460680630300,
+   "id_str": "971808460680630272",
+   "created_at": "Thu Mar 08 18:02:47 +0000 2018",
+   "text": "@RyanVice1 Thanks Ryan! Glad it was helpful!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971787595377193000,
+   "in_reply_to_status_id_str": "971787595377192960",
+   "in_reply_to_screen_name": "RyanVice1",
+   "urls": []
+  },
+  {
+   "id": 971808244200075300,
+   "id_str": "971808244200075264",
+   "created_at": "Thu Mar 08 18:01:55 +0000 2018",
+   "text": "With all this conversation around flatten vs smoosh, Hyrum's Law resonates:\n\n\"With a sufficient number of users of… https://t.co/cnIgSALC0s",
+   "retweet_count": 2,
+   "favorite_count": 11,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cnIgSALC0s",
+     "expand": "https://twitter.com/i/web/status/971808244200075264"
+    }
+   ]
+  },
+  {
+   "id": 971742962102267900,
+   "id_str": "971742962102267904",
+   "created_at": "Thu Mar 08 13:42:30 +0000 2018",
+   "text": "With Web Assembly, large websites will parse over 20 times faster. This will enable use cases on the web that we’ve… https://t.co/Jjm289E2i4",
+   "retweet_count": 36,
+   "favorite_count": 106,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Jjm289E2i4",
+     "expand": "https://twitter.com/i/web/status/971742962102267904"
+    }
+   ]
+  },
+  {
+   "id": 971726381091643400,
+   "id_str": "971726381091643393",
+   "created_at": "Thu Mar 08 12:36:37 +0000 2018",
+   "text": "@vietroadie @pluralsight I cover testing with Jest some in my Building Reusable React Components course. Thanks for the suggestion!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971603483760701400,
+   "in_reply_to_status_id_str": "971603483760701440",
+   "in_reply_to_screen_name": "vietroadie",
+   "urls": []
+  },
+  {
+   "id": 971506612551802900,
+   "id_str": "971506612551802880",
+   "created_at": "Wed Mar 07 22:03:20 +0000 2018",
+   "text": "@n0ther_guy I was referring to increased trust from your boss which leads to more autonomy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971489766263857200,
+   "in_reply_to_status_id_str": "971489766263857152",
+   "in_reply_to_screen_name": "n0ther_guy",
+   "urls": []
+  },
+  {
+   "id": 971473530360655900,
+   "id_str": "971473530360655874",
+   "created_at": "Wed Mar 07 19:51:53 +0000 2018",
+   "text": "@DustinJEwers Yep. What one cares about effects their subsequent actions. Choose to care merely money and it may leads to a negative cycle",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971448672050393100,
+   "in_reply_to_status_id_str": "971448672050393090",
+   "in_reply_to_screen_name": "DustinJEwers",
+   "urls": []
+  },
+  {
+   "id": 971472709199781900,
+   "id_str": "971472709199781889",
+   "created_at": "Wed Mar 07 19:48:37 +0000 2018",
+   "text": "@n0ther_guy I’m deliberately vague here since what one cares about could be just about anything. Me? I’d say I care… https://t.co/YLFHbQgXYd",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971438426644889600,
+   "in_reply_to_status_id_str": "971438426644889600",
+   "in_reply_to_screen_name": "n0ther_guy",
+   "urls": [
+    {
+     "url": "https://t.co/YLFHbQgXYd",
+     "expand": "https://twitter.com/i/web/status/971472709199781889"
+    }
+   ]
+  },
+  {
+   "id": 971422951689130000,
+   "id_str": "971422951689129985",
+   "created_at": "Wed Mar 07 16:30:54 +0000 2018",
+   "text": "@ReidNEvans Passion need not equate to self-centeredness. For instance, I'm passionate about front-end development… https://t.co/Ua7m0IcpGR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971421911937945600,
+   "in_reply_to_status_id_str": "971421911937945600",
+   "in_reply_to_screen_name": "ReidNEvans",
+   "urls": [
+    {
+     "url": "https://t.co/Ua7m0IcpGR",
+     "expand": "https://twitter.com/i/web/status/971422951689129985"
+    }
+   ]
+  },
+  {
+   "id": 971412987075493900,
+   "id_str": "971412987075493891",
+   "created_at": "Wed Mar 07 15:51:18 +0000 2018",
+   "text": "Writing a new conference talk \"Going Pro: Lifestyle Systems for Exceptional Developers\". \n\nCore theme: Caring more… https://t.co/dFJtQfwCfq",
+   "retweet_count": 13,
+   "favorite_count": 73,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/dFJtQfwCfq",
+     "expand": "https://twitter.com/i/web/status/971412987075493891"
+    }
+   ]
+  },
+  {
+   "id": 971191795739758600,
+   "id_str": "971191795739758592",
+   "created_at": "Wed Mar 07 01:12:22 +0000 2018",
+   "text": "RT @kentcdodds: 🚨 Announcement! 🚨\n\n@cmaxw (creator and host of @JSJabber and several other podcasts) has just published the first episode o…",
+   "retweet_count": 27,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971179243198668800,
+    "id_str": "971179243198668800",
+    "created_at": "Wed Mar 07 00:22:29 +0000 2018",
+    "text": "🚨 Announcement! 🚨\n\n@cmaxw (creator and host of @JSJabber and several other podcasts) has just published the first e… https://t.co/NZwSG5x9BG",
+    "retweet_count": 27,
+    "favorite_count": 74,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/NZwSG5x9BG",
+      "expand": "https://twitter.com/i/web/status/971179243198668800"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971191712637964300,
+   "id_str": "971191712637964294",
+   "created_at": "Wed Mar 07 01:12:02 +0000 2018",
+   "text": "Excited to be a panelist on React Roundup, a new React podcast. First episode just published! https://t.co/0EnKvp5gWR",
+   "retweet_count": 1,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/0EnKvp5gWR",
+     "expand": "https://twitter.com/cmaxw/status/971176470851678208"
+    }
+   ]
+  },
+  {
+   "id": 971059927279169500,
+   "id_str": "971059927279169536",
+   "created_at": "Tue Mar 06 16:28:22 +0000 2018",
+   "text": "GitHub tip:  You can assign \"code owners\" to sections of a code base. Why? Code reviews are then assigned to the ow… https://t.co/er2BWTXrkZ",
+   "retweet_count": 102,
+   "favorite_count": 244,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/er2BWTXrkZ",
+     "expand": "https://twitter.com/i/web/status/971059927279169536"
+    }
+   ]
+  },
+  {
+   "id": 970874779443122200,
+   "id_str": "970874779443122177",
+   "created_at": "Tue Mar 06 04:12:40 +0000 2018",
+   "text": "RT @luisvieira_gmr: I just published “Building large scale react applications in a monorepo” https://t.co/4CNkPbT6D8",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4CNkPbT6D8",
+     "expand": "https://medium.com/p/building-large-scale-react-applications-in-a-monorepo-91cd4637c131"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970750506116231200,
+    "id_str": "970750506116231168",
+    "created_at": "Mon Mar 05 19:58:50 +0000 2018",
+    "text": "I just published “Building large scale react applications in a monorepo” https://t.co/4CNkPbT6D8",
+    "retweet_count": 15,
+    "favorite_count": 87,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4CNkPbT6D8",
+      "expand": "https://medium.com/p/building-large-scale-react-applications-in-a-monorepo-91cd4637c131"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970747417384640500,
+   "id_str": "970747417384640517",
+   "created_at": "Mon Mar 05 19:46:34 +0000 2018",
+   "text": "@kevinold Added to my wish list!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970744675131904000,
+   "in_reply_to_status_id_str": "970744675131904002",
+   "in_reply_to_screen_name": "kevinold",
+   "urls": []
+  },
+  {
+   "id": 970695445235236900,
+   "id_str": "970695445235236866",
+   "created_at": "Mon Mar 05 16:20:03 +0000 2018",
+   "text": "Useful exercise: \n1. Consider the phrase \"Life is too short for...\"\n2. Write down the many ways you finish this phr… https://t.co/rn6R7oaG7a",
+   "retweet_count": 28,
+   "favorite_count": 81,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rn6R7oaG7a",
+     "expand": "https://twitter.com/i/web/status/970695445235236866"
+    }
+   ]
+  },
+  {
+   "id": 970687685416443900,
+   "id_str": "970687685416443907",
+   "created_at": "Mon Mar 05 15:49:13 +0000 2018",
+   "text": "@atticoos @mpjme You can import node modules in the pro version. And yes, can import local files if you configure it.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970676922295320600,
+   "in_reply_to_status_id_str": "970676922295320581",
+   "in_reply_to_screen_name": "atticoos",
+   "urls": []
+  },
+  {
+   "id": 970672032617820200,
+   "id_str": "970672032617820160",
+   "created_at": "Mon Mar 05 14:47:01 +0000 2018",
+   "text": "Ever use your Browser's console as a little scratchpad to try JavaScript? Now you can use VS Code as a REPL! \n\nInst… https://t.co/CjEObFwmXo",
+   "retweet_count": 230,
+   "favorite_count": 716,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/CjEObFwmXo",
+     "expand": "https://twitter.com/i/web/status/970672032617820160"
+    }
+   ]
+  },
+  {
+   "id": 970647011602165800,
+   "id_str": "970647011602165760",
+   "created_at": "Mon Mar 05 13:07:35 +0000 2018",
+   "text": "@aschmelyun @mkcsas @Microsoft Interesting. I don't know if it's made me more relaxed, but it has certainly made it… https://t.co/NBq60cNXuJ",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970579531827466200,
+   "in_reply_to_status_id_str": "970579531827466240",
+   "in_reply_to_screen_name": "aschmelyun",
+   "urls": [
+    {
+     "url": "https://t.co/NBq60cNXuJ",
+     "expand": "https://twitter.com/i/web/status/970647011602165760"
+    }
+   ]
+  },
+  {
+   "id": 970366872259649500,
+   "id_str": "970366872259649536",
+   "created_at": "Sun Mar 04 18:34:25 +0000 2018",
+   "text": "@swyx And even React itself has a lot of nuance. Though the API is small, over the years there are multiple ways to… https://t.co/qh8HsVZIEy",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 970365790875734000,
+   "in_reply_to_status_id_str": "970365790875734016",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/qh8HsVZIEy",
+     "expand": "https://twitter.com/i/web/status/970366872259649536"
+    }
+   ]
+  },
+  {
+   "id": 970366388920569900,
+   "id_str": "970366388920569856",
+   "created_at": "Sun Mar 04 18:32:30 +0000 2018",
+   "text": "@AdamRackis @acemarke I agree a one trick pony isn't the ideal either. That's why I suggest generalizing at first.… https://t.co/7tqpDQFPgP",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 970360333008363500,
+   "in_reply_to_status_id_str": "970360333008363520",
+   "in_reply_to_screen_name": "AdamRackis",
+   "urls": [
+    {
+     "url": "https://t.co/7tqpDQFPgP",
+     "expand": "https://twitter.com/i/web/status/970366388920569856"
+    }
+   ]
+  },
+  {
+   "id": 970365790875734000,
+   "id_str": "970365790875734016",
+   "created_at": "Sun Mar 04 18:30:07 +0000 2018",
+   "text": "@swyx React is indeed easy to learn. But navigating the ecosystem is tricky. Redux, MobX, GraphQL, context, design… https://t.co/LotuzZyVBg",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": 970362127746822100,
+   "in_reply_to_status_id_str": "970362127746822144",
+   "in_reply_to_screen_name": "swyx",
+   "urls": [
+    {
+     "url": "https://t.co/LotuzZyVBg",
+     "expand": "https://twitter.com/i/web/status/970365790875734016"
+    }
+   ]
+  },
+  {
+   "id": 970342440719867900,
+   "id_str": "970342440719867904",
+   "created_at": "Sun Mar 04 16:57:20 +0000 2018",
+   "text": "Why specialize? Because the goal isn't to be broadly famous like a Hollywood celebrity. The goal is to be \"famous t… https://t.co/rtPqT4nkbl",
+   "retweet_count": 15,
+   "favorite_count": 56,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rtPqT4nkbl",
+     "expand": "https://twitter.com/i/web/status/970342440719867904"
+    }
+   ]
+  },
+  {
+   "id": 970296225588301800,
+   "id_str": "970296225588301824",
+   "created_at": "Sun Mar 04 13:53:42 +0000 2018",
+   "text": "@vishalpore @anthonypjshaw It can still be preferable to use specialists for maintenance projects. Example: Separat… https://t.co/Sq6FLEccvH",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970281403299414000,
+   "in_reply_to_status_id_str": "970281403299414016",
+   "in_reply_to_screen_name": "vishalpore",
+   "urls": [
+    {
+     "url": "https://t.co/Sq6FLEccvH",
+     "expand": "https://twitter.com/i/web/status/970296225588301824"
+    }
+   ]
+  },
+  {
+   "id": 970290737492447200,
+   "id_str": "970290737492447232",
+   "created_at": "Sun Mar 04 13:31:53 +0000 2018",
+   "text": "@pavelloz @brianleroux Agreed. I often use that approach if the docs are a single https://t.co/FvT7UZNve9. But when… https://t.co/LTawSLSXpx",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970268209667629000,
+   "in_reply_to_status_id_str": "970268209667629056",
+   "in_reply_to_screen_name": "pavelloz",
+   "urls": [
+    {
+     "url": "https://t.co/FvT7UZNve9",
+     "expand": "http://README.md"
+    },
+    {
+     "url": "https://t.co/LTawSLSXpx",
+     "expand": "https://twitter.com/i/web/status/970290737492447232"
+    }
+   ]
+  },
+  {
+   "id": 970288605137719300,
+   "id_str": "970288605137719296",
+   "created_at": "Sun Mar 04 13:23:25 +0000 2018",
+   "text": "@Johnathon102 Nice! And good call on the fenders. Never considered that, but sure beats showing up to work muddy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970159371064836100,
+   "in_reply_to_status_id_str": "970159371064836097",
+   "in_reply_to_screen_name": "Johnathon102",
+   "urls": []
+  },
+  {
+   "id": 970147907235143700,
+   "id_str": "970147907235143680",
+   "created_at": "Sun Mar 04 04:04:20 +0000 2018",
+   "text": "@jlongster Style the button to look like an anchor. https://t.co/8IRQ2BbCf3",
+   "retweet_count": 1,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 970144511430201300,
+   "in_reply_to_status_id_str": "970144511430201344",
+   "in_reply_to_screen_name": "jlongster",
+   "urls": [
+    {
+     "url": "https://t.co/8IRQ2BbCf3",
+     "expand": "https://stackoverflow.com/questions/1367409/how-to-make-button-look-like-a-link"
+    }
+   ]
+  },
+  {
+   "id": 970135407617822700,
+   "id_str": "970135407617822720",
+   "created_at": "Sun Mar 04 03:14:40 +0000 2018",
+   "text": "@NateMorven Was a pleasure chatting with you Nate! I really enjoyed the convo. Thanks for sharing the pic.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970130819724361700,
+   "in_reply_to_status_id_str": "970130819724361728",
+   "in_reply_to_screen_name": "NateMorven",
+   "urls": []
+  },
+  {
+   "id": 970135082278314000,
+   "id_str": "970135082278313985",
+   "created_at": "Sun Mar 04 03:13:22 +0000 2018",
+   "text": "@fordumieslikeme Good stuff! I commented on the post. Thanks for sharing!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970123758664077300,
+   "in_reply_to_status_id_str": "970123758664077313",
+   "in_reply_to_screen_name": "fordumieslikeme",
+   "urls": []
+  },
+  {
+   "id": 970125179979518000,
+   "id_str": "970125179979517952",
+   "created_at": "Sun Mar 04 02:34:01 +0000 2018",
+   "text": "Timeless wisdom on software: \"Hitting the High Notes\" by @spolsky. \n\nSmall teams of great people = Lower communicat… https://t.co/oVublI1LZf",
+   "retweet_count": 5,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oVublI1LZf",
+     "expand": "https://twitter.com/i/web/status/970125179979517952"
+    }
+   ]
+  },
+  {
+   "id": 970071124729122800,
+   "id_str": "970071124729122816",
+   "created_at": "Sat Mar 03 22:59:13 +0000 2018",
+   "text": "@julielerman @williamdnapier I remember reading your first EF book years ago. You were the first author I ever met… https://t.co/AUTVDbXKEL",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970065557092491300,
+   "in_reply_to_status_id_str": "970065557092491264",
+   "in_reply_to_screen_name": "julielerman",
+   "urls": [
+    {
+     "url": "https://t.co/AUTVDbXKEL",
+     "expand": "https://twitter.com/i/web/status/970071124729122816"
+    }
+   ]
+  },
+  {
+   "id": 970070547357945900,
+   "id_str": "970070547357945857",
+   "created_at": "Sat Mar 03 22:56:56 +0000 2018",
+   "text": "@LeoDOTng @kylewelch I'm expect a big year for GraphQL, Docker, AWS, and Node.",
+   "retweet_count": 4,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": 970065114312335400,
+   "in_reply_to_status_id_str": "970065114312335361",
+   "in_reply_to_screen_name": "LeoDOTng",
+   "urls": []
+  },
+  {
+   "id": 970062041762484200,
+   "id_str": "970062041762484224",
+   "created_at": "Sat Mar 03 22:23:08 +0000 2018",
+   "text": "Many pointed out that iPhone often accepts swipe right to go back. 👍 \n\nBut:\n1. It's inconsistent. Only some apps su… https://t.co/mMz4tbVsIn",
+   "retweet_count": 1,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": 969798829884231700,
+   "in_reply_to_status_id_str": "969798829884231680",
+   "in_reply_to_screen_name": "housecor",
+   "urls": [
+    {
+     "url": "https://t.co/mMz4tbVsIn",
+     "expand": "https://twitter.com/i/web/status/970062041762484224"
+    }
+   ]
+  },
+  {
+   "id": 970059688762069000,
+   "id_str": "970059688762068994",
+   "created_at": "Sat Mar 03 22:13:47 +0000 2018",
+   "text": "This. Over the years I've specialized in Flash, Cold Fusion, jQuery, PHP with Codeigniter, native web components, A… https://t.co/GmYCgovAZA",
+   "retweet_count": 2,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GmYCgovAZA",
+     "expand": "https://twitter.com/i/web/status/970059688762068994"
+    }
+   ]
+  },
+  {
+   "id": 970058147384655900,
+   "id_str": "970058147384655872",
+   "created_at": "Sat Mar 03 22:07:39 +0000 2018",
+   "text": "@anthonypjshaw I'm also reminded of Spolsky's \"Hitting the High Notes\" post:\n\n\"The real trouble with using a lot of… https://t.co/scHFL5t4p3",
+   "retweet_count": 4,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 970048736620511200,
+   "in_reply_to_status_id_str": "970048736620511233",
+   "in_reply_to_screen_name": "anthonypjshaw",
+   "urls": [
+    {
+     "url": "https://t.co/scHFL5t4p3",
+     "expand": "https://twitter.com/i/web/status/970058147384655872"
+    }
+   ]
+  },
+  {
+   "id": 970042923814449200,
+   "id_str": "970042923814449154",
+   "created_at": "Sat Mar 03 21:07:10 +0000 2018",
+   "text": "@Oleohi And often there are other devs who specialize in CSS. But yes, basic skills are important.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970017343446405100,
+   "in_reply_to_status_id_str": "970017343446405126",
+   "in_reply_to_screen_name": "Oleohi",
+   "urls": []
+  },
+  {
+   "id": 970042522235035600,
+   "id_str": "970042522235035648",
+   "created_at": "Sat Mar 03 21:05:34 +0000 2018",
+   "text": "@seanfitzg @_esausilva I rarely use stubs or spies when testing react. Mostly testing pure functions. It's been a r… https://t.co/iE9H42QgGs",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970010914484359200,
+   "in_reply_to_status_id_str": "970010914484359169",
+   "in_reply_to_screen_name": "seanfitzg",
+   "urls": [
+    {
+     "url": "https://t.co/iE9H42QgGs",
+     "expand": "https://twitter.com/i/web/status/970042522235035648"
+    }
+   ]
+  },
+  {
+   "id": 969997968647606300,
+   "id_str": "969997968647606273",
+   "created_at": "Sat Mar 03 18:08:32 +0000 2018",
+   "text": "@uttara_p Get hired for your full stack skills, then make a name for yourself by specializing while on the job.",
+   "retweet_count": 1,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": 969996678475460600,
+   "in_reply_to_status_id_str": "969996678475460608",
+   "in_reply_to_screen_name": "uttara_p",
+   "urls": []
+  },
+  {
+   "id": 969997548323733500,
+   "id_str": "969997548323733505",
+   "created_at": "Sat Mar 03 18:06:51 +0000 2018",
+   "text": "@asciijungle Specialization doesn't mean stagnation. One can and should regularly consider moving on",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969991294054527000,
+   "in_reply_to_status_id_str": "969991294054526978",
+   "in_reply_to_screen_name": "asciijungle",
+   "urls": []
+  },
+  {
+   "id": 969996825955651600,
+   "id_str": "969996825955651586",
+   "created_at": "Sat Mar 03 18:03:59 +0000 2018",
+   "text": "@seanfitzg @_esausilva What JavaScript testing tools are you using?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969990279360073700,
+   "in_reply_to_status_id_str": "969990279360073728",
+   "in_reply_to_screen_name": "seanfitzg",
+   "urls": []
   }
  ]
 }

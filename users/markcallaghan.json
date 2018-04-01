@@ -1,6 +1,1631 @@
 {
- "time": 1519367080672,
+ "time": 1522594945775,
  "lists": [
+  {
+   "id": 979779987594133500,
+   "id_str": "979779987594133504",
+   "created_at": "Fri Mar 30 17:58:47 +0000 2018",
+   "text": "@b0rk Bought one. I enjoy your writing style.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979432203372376000,
+   "in_reply_to_status_id_str": "979432203372376064",
+   "in_reply_to_screen_name": "b0rk",
+   "urls": []
+  },
+  {
+   "id": 979778626802470900,
+   "id_str": "979778626802470914",
+   "created_at": "Fri Mar 30 17:53:22 +0000 2018",
+   "text": "Never revisited https://t.co/IDsDKncVB5 but I hope we make mutexes greener - https://t.co/aFCZyueT0v\n\n(old) code is… https://t.co/Iy6j6xDECN",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IDsDKncVB5",
+     "expand": "https://bugs.mysql.com/bug.php?id=73763"
+    },
+    {
+     "url": "https://t.co/aFCZyueT0v",
+     "expand": "https://www.facebook.com/notes/mysql-at-facebook/green-mutexes-part-2/10151061901390933/"
+    },
+    {
+     "url": "https://t.co/Iy6j6xDECN",
+     "expand": "https://twitter.com/i/web/status/979778626802470914"
+    }
+   ]
+  },
+  {
+   "id": 979451625382150100,
+   "id_str": "979451625382150144",
+   "created_at": "Thu Mar 29 20:13:59 +0000 2018",
+   "text": "@kellabyte @narayanarjun @pbailis @CockroachDB I don't think many expected isolation to become a hot topic again, but it did.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979447414036750300,
+   "in_reply_to_status_id_str": "979447414036750337",
+   "in_reply_to_screen_name": "kellabyte",
+   "urls": []
+  },
+  {
+   "id": 979448396732760000,
+   "id_str": "979448396732760065",
+   "created_at": "Thu Mar 29 20:01:09 +0000 2018",
+   "text": "@posix4e @pbailis @CockroachDB Follow up question is whether semantics in InnoDB RR matches what standard requires… https://t.co/klZZXxDakM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979447831684509700,
+   "in_reply_to_status_id_str": "979447831684509696",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": [
+    {
+     "url": "https://t.co/klZZXxDakM",
+     "expand": "https://twitter.com/i/web/status/979448396732760065"
+    }
+   ]
+  },
+  {
+   "id": 979447831684509700,
+   "id_str": "979447831684509696",
+   "created_at": "Thu Mar 29 19:58:54 +0000 2018",
+   "text": "@posix4e @pbailis @CockroachDB My claim is that PG and MyRocks don't use gap locks leading to more write-write conf… https://t.co/9XM9MBOaVI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979445903483322400,
+   "in_reply_to_status_id_str": "979445903483322368",
+   "in_reply_to_screen_name": "posix4e",
+   "urls": [
+    {
+     "url": "https://t.co/9XM9MBOaVI",
+     "expand": "https://twitter.com/i/web/status/979447831684509696"
+    }
+   ]
+  },
+  {
+   "id": 979445387390984200,
+   "id_str": "979445387390984192",
+   "created_at": "Thu Mar 29 19:49:12 +0000 2018",
+   "text": "@narayanarjun @awesomeintheory @pbailis @CockroachDB Maybe we should repeat this each year, but the @RocksDB team t… https://t.co/XpJpR1XBqY",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 979444785621631000,
+   "in_reply_to_status_id_str": "979444785621630976",
+   "in_reply_to_screen_name": "narayanarjun",
+   "urls": [
+    {
+     "url": "https://t.co/XpJpR1XBqY",
+     "expand": "https://twitter.com/i/web/status/979445387390984192"
+    }
+   ]
+  },
+  {
+   "id": 979445108746502100,
+   "id_str": "979445108746502144",
+   "created_at": "Thu Mar 29 19:48:05 +0000 2018",
+   "text": "@narayanarjun @awesomeintheory @pbailis @CockroachDB Summary of my last round of tests is here. Almost all tests ar… https://t.co/32QW4iQFxt",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979444031427153900,
+   "in_reply_to_status_id_str": "979444031427153920",
+   "in_reply_to_screen_name": "narayanarjun",
+   "urls": [
+    {
+     "url": "https://t.co/32QW4iQFxt",
+     "expand": "https://twitter.com/i/web/status/979445108746502144"
+    }
+   ]
+  },
+  {
+   "id": 979443165521264600,
+   "id_str": "979443165521264640",
+   "created_at": "Thu Mar 29 19:40:22 +0000 2018",
+   "text": "@pbailis @CockroachDB The world also needs better implementations of repeatable read for MVCCC engines, meaning gap… https://t.co/YQNdl1c5Kt",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979429262049472500,
+   "in_reply_to_status_id_str": "979429262049472512",
+   "in_reply_to_screen_name": "pbailis",
+   "urls": [
+    {
+     "url": "https://t.co/YQNdl1c5Kt",
+     "expand": "https://twitter.com/i/web/status/979443165521264640"
+    }
+   ]
+  },
+  {
+   "id": 979442631238287400,
+   "id_str": "979442631238287360",
+   "created_at": "Thu Mar 29 19:38:15 +0000 2018",
+   "text": "@narayanarjun @awesomeintheory @pbailis @CockroachDB By selection bias I mean if you (and PG) end up with all of th… https://t.co/KVD828dSpN",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979441464307535900,
+   "in_reply_to_status_id_str": "979441464307535872",
+   "in_reply_to_screen_name": "narayanarjun",
+   "urls": [
+    {
+     "url": "https://t.co/KVD828dSpN",
+     "expand": "https://twitter.com/i/web/status/979442631238287360"
+    }
+   ]
+  },
+  {
+   "id": 979441591138988000,
+   "id_str": "979441591138988032",
+   "created_at": "Thu Mar 29 19:34:07 +0000 2018",
+   "text": "It would be good if support for serializable in Postgres and CockroachDB made serializable more popular. Maybe we n… https://t.co/LZB7h0nukC",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LZB7h0nukC",
+     "expand": "https://twitter.com/i/web/status/979441591138988032"
+    }
+   ]
+  },
+  {
+   "id": 979440749623193600,
+   "id_str": "979440749623193600",
+   "created_at": "Thu Mar 29 19:30:46 +0000 2018",
+   "text": "@awesomeintheory @pbailis @CockroachDB If only we could get this into Google Summer of Code projects.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979440246294302700,
+   "in_reply_to_status_id_str": "979440246294302720",
+   "in_reply_to_screen_name": "awesomeintheory",
+   "urls": []
+  },
+  {
+   "id": 979439591471030300,
+   "id_str": "979439591471030272",
+   "created_at": "Thu Mar 29 19:26:10 +0000 2018",
+   "text": "@awesomeintheory @pbailis @CockroachDB I enjoyed learning how SSI ended up in PG",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979439057062199300,
+   "in_reply_to_status_id_str": "979439057062199297",
+   "in_reply_to_screen_name": "awesomeintheory",
+   "urls": []
+  },
+  {
+   "id": 979438732209094700,
+   "id_str": "979438732209094657",
+   "created_at": "Thu Mar 29 19:22:45 +0000 2018",
+   "text": "@awesomeintheory @pbailis @CockroachDB I guess @CockroachDB will be a great place to understand this, assuming ther… https://t.co/Osrvc43qA0",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979438196336492500,
+   "in_reply_to_status_id_str": "979438196336492545",
+   "in_reply_to_screen_name": "awesomeintheory",
+   "urls": [
+    {
+     "url": "https://t.co/Osrvc43qA0",
+     "expand": "https://twitter.com/i/web/status/979438732209094657"
+    }
+   ]
+  },
+  {
+   "id": 979437697264623600,
+   "id_str": "979437697264623617",
+   "created_at": "Thu Mar 29 19:18:38 +0000 2018",
+   "text": "@kellabyte @pbailis @CockroachDB Work by @pbailis provided some answers to that but maybe that paper and you put a… https://t.co/MLtvxXczY9",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979433171388317700,
+   "in_reply_to_status_id_str": "979433171388317696",
+   "in_reply_to_screen_name": "kellabyte",
+   "urls": [
+    {
+     "url": "https://t.co/MLtvxXczY9",
+     "expand": "https://twitter.com/i/web/status/979437697264623617"
+    }
+   ]
+  },
+  {
+   "id": 979432031502282800,
+   "id_str": "979432031502282752",
+   "created_at": "Thu Mar 29 18:56:07 +0000 2018",
+   "text": "@pbailis @CockroachDB I assume that serializable is fine for X% of the worlds transactions. I wonder what that value of X is.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979429262049472500,
+   "in_reply_to_status_id_str": "979429262049472512",
+   "in_reply_to_screen_name": "pbailis",
+   "urls": []
+  },
+  {
+   "id": 979380101048447000,
+   "id_str": "979380101048446976",
+   "created_at": "Thu Mar 29 15:29:46 +0000 2018",
+   "text": "forgot to tag @binlogic",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979367575581737000,
+   "in_reply_to_status_id_str": "979367575581736961",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": []
+  },
+  {
+   "id": 979374003365199900,
+   "id_str": "979374003365199872",
+   "created_at": "Thu Mar 29 15:05:32 +0000 2018",
+   "text": "@PeterZaitsev MySQL is mostly for small data although @mariadb AX is trying to change that, PG is for big and small… https://t.co/DQbuSPk2LO",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979373570768826400,
+   "in_reply_to_status_id_str": "979373570768826368",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": [
+    {
+     "url": "https://t.co/DQbuSPk2LO",
+     "expand": "https://twitter.com/i/web/status/979374003365199872"
+    }
+   ]
+  },
+  {
+   "id": 979373570768826400,
+   "id_str": "979373570768826368",
+   "created_at": "Thu Mar 29 15:03:49 +0000 2018",
+   "text": "@PeterZaitsev dead for small data, thriving for big data",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979035929762558000,
+   "in_reply_to_status_id_str": "979035929762557952",
+   "in_reply_to_screen_name": "PeterZaitsev",
+   "urls": []
+  },
+  {
+   "id": 979373158640660500,
+   "id_str": "979373158640660485",
+   "created_at": "Thu Mar 29 15:02:11 +0000 2018",
+   "text": "@ifesdjeen I look forward to pre-ordering a copy of the book",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 979354767171424300,
+   "in_reply_to_status_id_str": "979354767171424257",
+   "in_reply_to_screen_name": "ifesdjeen",
+   "urls": []
+  },
+  {
+   "id": 979367575581737000,
+   "id_str": "979367575581736961",
+   "created_at": "Thu Mar 29 14:40:00 +0000 2018",
+   "text": "DataOps, Barcelona and June - sounds great\nhttps://t.co/7qzr1ZG2kH",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7qzr1ZG2kH",
+     "expand": "https://dataops.barcelona/conf2018/buy-tickets/"
+    }
+   ]
+  },
+  {
+   "id": 979031718924451800,
+   "id_str": "979031718924451840",
+   "created_at": "Wed Mar 28 16:25:25 +0000 2018",
+   "text": "Every time I want to know about PTHREAD_MUTEX_ADAPTIVE_NP I forget its name, don't find it in man pages, then spend… https://t.co/jSUYOF2gXp",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jSUYOF2gXp",
+     "expand": "https://twitter.com/i/web/status/979031718924451840"
+    }
+   ]
+  },
+  {
+   "id": 978699510284107800,
+   "id_str": "978699510284107776",
+   "created_at": "Tue Mar 27 18:25:21 +0000 2018",
+   "text": "@heidiann360 @markburgess_osl @heidiann360 - we look forward to your academic career",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978581562727034900,
+   "in_reply_to_status_id_str": "978581562727034882",
+   "in_reply_to_screen_name": "heidiann360",
+   "urls": []
+  },
+  {
+   "id": 978649004283064300,
+   "id_str": "978649004283064320",
+   "created_at": "Tue Mar 27 15:04:39 +0000 2018",
+   "text": "@PeterZaitsev Smart friends at @vitessedata are doing something similar for @Greenplum",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978373850302943200,
+   "in_reply_to_status_id_str": "978373850302943234",
+   "in_reply_to_screen_name": "PeterZaitsev",
+   "urls": []
+  },
+  {
+   "id": 978392972868821000,
+   "id_str": "978392972868820992",
+   "created_at": "Mon Mar 26 22:07:17 +0000 2018",
+   "text": "@jim_dowling @mikael_ronstrom @andy_pavlo Arrived. Thanks for writing this @mikael_ronstrom https://t.co/RVNHfUAIfR",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 975825060412915700,
+   "in_reply_to_status_id_str": "975825060412915718",
+   "in_reply_to_screen_name": "jim_dowling",
+   "urls": []
+  },
+  {
+   "id": 977980067555848200,
+   "id_str": "977980067555848192",
+   "created_at": "Sun Mar 25 18:46:32 +0000 2018",
+   "text": "@xaprb I expected this to be more viral",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 930674776317849600,
+   "in_reply_to_status_id_str": "930674776317849600",
+   "in_reply_to_screen_name": "xaprb",
+   "urls": []
+  },
+  {
+   "id": 977941358190125000,
+   "id_str": "977941358190125061",
+   "created_at": "Sun Mar 25 16:12:43 +0000 2018",
+   "text": "RT @xaprb: When you’re fundraising, it’s AI\nWhen you’re hiring, it’s ML\nWhen you’re implementing, it’s linear regression\nWhen you’re debugg…",
+   "retweet_count": 5542,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 930674776317849600,
+    "id_str": "930674776317849600",
+    "created_at": "Wed Nov 15 05:52:12 +0000 2017",
+    "text": "When you’re fundraising, it’s AI\nWhen you’re hiring, it’s ML\nWhen you’re implementing, it’s linear regression\nWhen… https://t.co/uDitkakqcU",
+    "retweet_count": 5542,
+    "favorite_count": 12521,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uDitkakqcU",
+      "expand": "https://twitter.com/i/web/status/930674776317849600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977244950348775400,
+   "id_str": "977244950348775429",
+   "created_at": "Fri Mar 23 18:05:27 +0000 2018",
+   "text": "@mysqlbugs @mcbguru They will be missed. But I will still be there, at least on Wed.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977242970243125200,
+   "in_reply_to_status_id_str": "977242970243125249",
+   "in_reply_to_screen_name": "mysqlbugs",
+   "urls": []
+  },
+  {
+   "id": 977231632762482700,
+   "id_str": "977231632762482690",
+   "created_at": "Fri Mar 23 17:12:31 +0000 2018",
+   "text": "Thanks Oracle for continuing to make MySQL better. Too bad I don't read much source these days. https://t.co/HTrqKHtzq0",
+   "retweet_count": 1,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HTrqKHtzq0",
+     "expand": "https://twitter.com/planetmysql/status/977194423451897861"
+    }
+   ]
+  },
+  {
+   "id": 977206016285671400,
+   "id_str": "977206016285671425",
+   "created_at": "Fri Mar 23 15:30:44 +0000 2018",
+   "text": "@feedly @TechCrunch @digg Setup Feedly account yesterday",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977116966027702300,
+   "in_reply_to_status_id_str": "977116966027702273",
+   "in_reply_to_screen_name": "feedly",
+   "urls": []
+  },
+  {
+   "id": 976866571690954800,
+   "id_str": "976866571690954754",
+   "created_at": "Thu Mar 22 17:01:54 +0000 2018",
+   "text": "@antirez @muratdemirbas also writes about PlusCal on his blog. I enjoy reading about that even though I never made time to try it.",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976863948132831200,
+   "in_reply_to_status_id_str": "976863948132831232",
+   "in_reply_to_screen_name": "antirez",
+   "urls": []
+  },
+  {
+   "id": 976863115072757800,
+   "id_str": "976863115072757761",
+   "created_at": "Thu Mar 22 16:48:10 +0000 2018",
+   "text": "@antirez I have yet to try it but have read good things about using it in classes from https://t.co/XcOFecTwIw",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976849861801889800,
+   "in_reply_to_status_id_str": "976849861801889792",
+   "in_reply_to_screen_name": "antirez",
+   "urls": [
+    {
+     "url": "https://t.co/XcOFecTwIw",
+     "expand": "https://www.google.com/search?q=site%3Amuratbuffalo.blogspot.com+tla%2B"
+    }
+   ]
+  },
+  {
+   "id": 976862367643521000,
+   "id_str": "976862367643521031",
+   "created_at": "Thu Mar 22 16:45:12 +0000 2018",
+   "text": "@Inoreader @TechCrunch @digg Trying it now. Imported my subscriptions via an opml file",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976860939390718000,
+   "in_reply_to_status_id_str": "976860939390717952",
+   "in_reply_to_screen_name": "Inoreader",
+   "urls": []
+  },
+  {
+   "id": 976852452656996400,
+   "id_str": "976852452656996353",
+   "created_at": "Thu Mar 22 16:05:48 +0000 2018",
+   "text": "@TechCrunch I am grateful for the years of usage I got from @digg Reader",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 974085045232263200,
+   "in_reply_to_status_id_str": "974085045232263168",
+   "in_reply_to_screen_name": "TechCrunch",
+   "urls": []
+  },
+  {
+   "id": 976529335845765100,
+   "id_str": "976529335845765120",
+   "created_at": "Wed Mar 21 18:41:51 +0000 2018",
+   "text": "@billkarwin added comment to original blog and tweeted before reading your excellent post\n:(",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976528839391113200,
+   "in_reply_to_status_id_str": "976528839391113216",
+   "in_reply_to_screen_name": "billkarwin",
+   "urls": []
+  },
+  {
+   "id": 976526256689750000,
+   "id_str": "976526256689750016",
+   "created_at": "Wed Mar 21 18:29:37 +0000 2018",
+   "text": "@billkarwin I don't think auto-inc locks are held until commit. That would be awful.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 976515489609363500,
+   "in_reply_to_status_id_str": "976515489609363456",
+   "in_reply_to_screen_name": "billkarwin",
+   "urls": []
+  },
+  {
+   "id": 976468716756987900,
+   "id_str": "976468716756987904",
+   "created_at": "Wed Mar 21 14:40:58 +0000 2018",
+   "text": "@antirez Then used SPIN again for another lock free optimization. So in both cases the things I am trying to valida… https://t.co/vLOgUu0Qiy",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976453188172750800,
+   "in_reply_to_status_id_str": "976453188172750848",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": [
+    {
+     "url": "https://t.co/vLOgUu0Qiy",
+     "expand": "https://twitter.com/i/web/status/976468716756987904"
+    }
+   ]
+  },
+  {
+   "id": 976453188172750800,
+   "id_str": "976453188172750848",
+   "created_at": "Wed Mar 21 13:39:16 +0000 2018",
+   "text": "@antirez I used SPIN when we rewrote the InnoDB rw lock. Great tool.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976422760795787300,
+   "in_reply_to_status_id_str": "976422760795787269",
+   "in_reply_to_screen_name": "antirez",
+   "urls": []
+  },
+  {
+   "id": 976219406479994900,
+   "id_str": "976219406479994881",
+   "created_at": "Tue Mar 20 22:10:18 +0000 2018",
+   "text": "@CMUDB @andy_pavlo @googleresearch @CSDatCMU Congrats to Andy and @danavanaken",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976209896847953900,
+   "in_reply_to_status_id_str": "976209896847953920",
+   "in_reply_to_screen_name": "CMUDB",
+   "urls": []
+  },
+  {
+   "id": 976116929235599400,
+   "id_str": "976116929235599361",
+   "created_at": "Tue Mar 20 15:23:05 +0000 2018",
+   "text": "@VividCortex registered yesterday",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976112214175309800,
+   "in_reply_to_status_id_str": "976112214175309825",
+   "in_reply_to_screen_name": "VividCortex",
+   "urls": []
+  },
+  {
+   "id": 975928252148543500,
+   "id_str": "975928252148543489",
+   "created_at": "Tue Mar 20 02:53:21 +0000 2018",
+   "text": "@anatolygudkov @TarantoolDB I agree. Tarantool is worthy of much more attention and conference talks.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 975749583845429200,
+   "in_reply_to_status_id_str": "975749583845429253",
+   "in_reply_to_screen_name": "anatolygudkov",
+   "urls": []
+  },
+  {
+   "id": 975875623569813500,
+   "id_str": "975875623569813504",
+   "created_at": "Mon Mar 19 23:24:14 +0000 2018",
+   "text": "@kellabyte My new DBMS is super fast assume the data is cached in a register",
+   "retweet_count": 0,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": 975864758506156000,
+   "in_reply_to_status_id_str": "975864758506156033",
+   "in_reply_to_screen_name": "kellabyte",
+   "urls": []
+  },
+  {
+   "id": 975826554885308400,
+   "id_str": "975826554885308416",
+   "created_at": "Mon Mar 19 20:09:15 +0000 2018",
+   "text": "Looks interesting, ordered my copy with a lot of detail on MySQL Cluster internals. https://t.co/ekO8SY0JYp",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ekO8SY0JYp",
+     "expand": "https://twitter.com/markcallaghan/status/975822788404568064"
+    }
+   ]
+  },
+  {
+   "id": 975826261741158400,
+   "id_str": "975826261741158400",
+   "created_at": "Mon Mar 19 20:08:05 +0000 2018",
+   "text": "MySQL failover automation at Google was a fun project with interesting names (mob, decider). I think I left before… https://t.co/VH4sEBAQr9",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VH4sEBAQr9",
+     "expand": "https://twitter.com/i/web/status/975826261741158400"
+    }
+   ]
+  },
+  {
+   "id": 975822788404568000,
+   "id_str": "975822788404568064",
+   "created_at": "Mon Mar 19 19:54:17 +0000 2018",
+   "text": "@jim_dowling @mikael_ronstrom @andy_pavlo Thanks. I ordered a copy - https://t.co/LltYBgp4hk",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975513583047053300,
+   "in_reply_to_status_id_str": "975513583047053313",
+   "in_reply_to_screen_name": "jim_dowling",
+   "urls": [
+    {
+     "url": "https://t.co/LltYBgp4hk",
+     "expand": "https://www.google.com/search?q=mysql+cluster+7.5+ronstrom"
+    }
+   ]
+  },
+  {
+   "id": 975820866536669200,
+   "id_str": "975820866536669184",
+   "created_at": "Mon Mar 19 19:46:39 +0000 2018",
+   "text": "@kellabyte Don't want to upset PG fans. I think it is awesome.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975819488523272200,
+   "in_reply_to_status_id_str": "975819488523272192",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": []
+  },
+  {
+   "id": 975819488523272200,
+   "id_str": "975819488523272192",
+   "created_at": "Mon Mar 19 19:41:10 +0000 2018",
+   "text": "@kellabyte I am still trying to make #whynotpostgres popular, but I am not any better at marketing that than I am at marketing \"small data\"",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975818708164665300,
+   "in_reply_to_status_id_str": "975818708164665345",
+   "in_reply_to_screen_name": "kellabyte",
+   "urls": []
+  },
+  {
+   "id": 975818504724103200,
+   "id_str": "975818504724103168",
+   "created_at": "Mon Mar 19 19:37:16 +0000 2018",
+   "text": "@kellabyte I get the same when writing about certain open source DBMS.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 975817780380426200,
+   "in_reply_to_status_id_str": "975817780380426240",
+   "in_reply_to_screen_name": "kellabyte",
+   "urls": []
+  },
+  {
+   "id": 975508450661736400,
+   "id_str": "975508450661736448",
+   "created_at": "Sun Mar 18 23:05:13 +0000 2018",
+   "text": "@jim_dowling @mikael_ronstrom @andy_pavlo one of the original KV stores. What is the course book?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975504050757296100,
+   "in_reply_to_status_id_str": "975504050757296134",
+   "in_reply_to_screen_name": "jim_dowling",
+   "urls": []
+  },
+  {
+   "id": 975483877878739000,
+   "id_str": "975483877878738944",
+   "created_at": "Sun Mar 18 21:27:34 +0000 2018",
+   "text": "@mikael_ronstrom We need more writing on MySQL Cluster. Has anyone presented on Cluster at CMU to the class of @andy_pavlo?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974817062840406000,
+   "in_reply_to_status_id_str": "974817062840406018",
+   "in_reply_to_screen_name": "mikael_ronstrom",
+   "urls": []
+  },
+  {
+   "id": 975381739710267400,
+   "id_str": "975381739710267392",
+   "created_at": "Sun Mar 18 14:41:43 +0000 2018",
+   "text": "@cmeik Finished my undergrad via San Diego State and community college at night. Full time job during day. Took lon… https://t.co/dqF1GJX3OE",
+   "retweet_count": 0,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": 975242056007344100,
+   "in_reply_to_status_id_str": "975242056007344131",
+   "in_reply_to_screen_name": "cmeik",
+   "urls": [
+    {
+     "url": "https://t.co/dqF1GJX3OE",
+     "expand": "https://twitter.com/i/web/status/975381739710267392"
+    }
+   ]
+  },
+  {
+   "id": 974745306960076800,
+   "id_str": "974745306960076801",
+   "created_at": "Fri Mar 16 20:32:45 +0000 2018",
+   "text": "@AzureDBMySQL @Azure Thanks for contributing",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974008883705299000,
+   "in_reply_to_status_id_str": "974008883705298944",
+   "in_reply_to_screen_name": "AzureDBMySQL",
+   "urls": []
+  },
+  {
+   "id": 974700547314888700,
+   "id_str": "974700547314888704",
+   "created_at": "Fri Mar 16 17:34:54 +0000 2018",
+   "text": "BoulderDB builds a distributed database using @RocksDB \nhttps://t.co/gVmPKO3BnN",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gVmPKO3BnN",
+     "expand": "https://medium.com/makemytrip-engineering/boulderdb-makemytrips-personalization-user-data-store-acc8e00f1433"
+    }
+   ]
+  },
+  {
+   "id": 974499948308742100,
+   "id_str": "974499948308742144",
+   "created_at": "Fri Mar 16 04:17:47 +0000 2018",
+   "text": "@dormando @bytebot My sleep problems were usually from not taking mind off of work and history podcasts were the solution.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974492485513654300,
+   "in_reply_to_status_id_str": "974492485513654273",
+   "in_reply_to_screen_name": "dormando",
+   "urls": []
+  },
+  {
+   "id": 974484330142560300,
+   "id_str": "974484330142560259",
+   "created_at": "Fri Mar 16 03:15:44 +0000 2018",
+   "text": "@dormando shorter naps",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974368102375833600,
+   "in_reply_to_status_id_str": "974368102375833600",
+   "in_reply_to_screen_name": "dormando",
+   "urls": []
+  },
+  {
+   "id": 974305304509800400,
+   "id_str": "974305304509800448",
+   "created_at": "Thu Mar 15 15:24:20 +0000 2018",
+   "text": "I have an idea to get open source projects supported on Windows, Microsoft can start of Summer of Ports project and… https://t.co/1aGE3cseLx",
+   "retweet_count": 0,
+   "favorite_count": 12,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/1aGE3cseLx",
+     "expand": "https://twitter.com/i/web/status/974305304509800448"
+    }
+   ]
+  },
+  {
+   "id": 974300403985612800,
+   "id_str": "974300403985612800",
+   "created_at": "Thu Mar 15 15:04:52 +0000 2018",
+   "text": "@wycats This is open source. Send a pull request.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973947110214127600,
+   "in_reply_to_status_id_str": "973947110214127616",
+   "in_reply_to_screen_name": "wycats",
+   "urls": []
+  },
+  {
+   "id": 974069579935830000,
+   "id_str": "974069579935830019",
+   "created_at": "Wed Mar 14 23:47:39 +0000 2018",
+   "text": "Intel is much nicer with a bit of competition, maybe ARM this time, AMD in the past. Never understood the point of… https://t.co/r8XyJQ3Ibb",
+   "retweet_count": 5,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/r8XyJQ3Ibb",
+     "expand": "https://twitter.com/i/web/status/974069579935830019"
+    }
+   ]
+  },
+  {
+   "id": 973654015719497700,
+   "id_str": "973654015719497728",
+   "created_at": "Tue Mar 13 20:16:21 +0000 2018",
+   "text": "Hope this (shared snapshots) makes it to Percona, MariaDB and Oracle MySQL. It can be used for parallel dump and ev… https://t.co/HVKTXdDYYc",
+   "retweet_count": 2,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HVKTXdDYYc",
+     "expand": "https://twitter.com/i/web/status/973654015719497728"
+    }
+   ]
+  },
+  {
+   "id": 973584643244007400,
+   "id_str": "973584643244007426",
+   "created_at": "Tue Mar 13 15:40:41 +0000 2018",
+   "text": "@matei_zaharia Congrats. I look forward to the results .\n@pbailis",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972538632702603300,
+   "in_reply_to_status_id_str": "972538632702603265",
+   "in_reply_to_screen_name": "matei_zaharia",
+   "urls": []
+  },
+  {
+   "id": 973231853585907700,
+   "id_str": "973231853585907712",
+   "created_at": "Mon Mar 12 16:18:50 +0000 2018",
+   "text": "This is great - more people discussing read, write and space amplification.\nNext task is to get cache amplification… https://t.co/brNaNoMCOA",
+   "retweet_count": 5,
+   "favorite_count": 16,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/brNaNoMCOA",
+     "expand": "https://twitter.com/i/web/status/973231853585907712"
+    }
+   ]
+  },
+  {
+   "id": 972238839715479600,
+   "id_str": "972238839715479554",
+   "created_at": "Fri Mar 09 22:32:57 +0000 2018",
+   "text": "This is awesome news. Thanks Sergey.\n\nhttps://t.co/tJVEHJEjfY",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tJVEHJEjfY",
+     "expand": "https://mariadb.com/resources/blog/myrocks-storage-engine-mariadb-now-release-candidate"
+    }
+   ]
+  },
+  {
+   "id": 972182386199818200,
+   "id_str": "972182386199818240",
+   "created_at": "Fri Mar 09 18:48:37 +0000 2018",
+   "text": "Cache amplification can join read, write and space amplification - https://t.co/EJjYCkdS6W",
+   "retweet_count": 6,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EJjYCkdS6W",
+     "expand": "http://smalldatum.blogspot.com/2018/03/cache-amplification.html"
+    }
+   ]
+  },
+  {
+   "id": 972173910920671200,
+   "id_str": "972173910920671232",
+   "created_at": "Fri Mar 09 18:14:57 +0000 2018",
+   "text": "Alas, we don't have it for MyRocks.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971783248115150800,
+   "in_reply_to_status_id_str": "971783248115150848",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": []
+  },
+  {
+   "id": 972165279898726400,
+   "id_str": "972165279898726400",
+   "created_at": "Fri Mar 09 17:40:39 +0000 2018",
+   "text": "It is interesting how often this benchmark result got reused. It might explain why the DeWitt clause exists.\n\nhttps://t.co/jT8yLwkpaF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jT8yLwkpaF",
+     "expand": "https://www.google.com/search?ei=QMWiWrOeJYLcjwO3i7fYAg&q=350ms+mysql+cassandra+&oq=350ms+mysql+cassandra"
+    }
+   ]
+  },
+  {
+   "id": 972138187605749800,
+   "id_str": "972138187605749760",
+   "created_at": "Fri Mar 09 15:53:00 +0000 2018",
+   "text": "How much does IO cost? https://t.co/bquAHqCJxF",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/bquAHqCJxF",
+     "expand": "https://twitter.com/PeterZaitsev/status/971410715138580483"
+    }
+   ]
+  },
+  {
+   "id": 972138044135321600,
+   "id_str": "972138044135321600",
+   "created_at": "Fri Mar 09 15:52:25 +0000 2018",
+   "text": "@PeterZaitsev @upstarta Not sure what an IO request is in this case, but the article claims it costs $570 per thous… https://t.co/aC9FTtTLTM",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 971410715138580500,
+   "in_reply_to_status_id_str": "971410715138580483",
+   "in_reply_to_screen_name": "PeterZaitsev",
+   "urls": [
+    {
+     "url": "https://t.co/aC9FTtTLTM",
+     "expand": "https://twitter.com/i/web/status/972138044135321600"
+    }
+   ]
+  },
+  {
+   "id": 972135602899562500,
+   "id_str": "972135602899562498",
+   "created_at": "Fri Mar 09 15:42:43 +0000 2018",
+   "text": "@datacharmer Safer is better, no replication is safest as that means one less copy of data that you have to protect.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972099665104719900,
+   "in_reply_to_status_id_str": "972099665104719878",
+   "in_reply_to_screen_name": "datacharmer",
+   "urls": []
+  },
+  {
+   "id": 971806609520279600,
+   "id_str": "971806609520279552",
+   "created_at": "Thu Mar 08 17:55:25 +0000 2018",
+   "text": "@rseroter @mipsytipsy And then align interests of the business and the oncall staff by paying people extra for bein… https://t.co/PHdROXXi8c",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971405034100473900,
+   "in_reply_to_status_id_str": "971405034100473856",
+   "in_reply_to_screen_name": "rseroter",
+   "urls": [
+    {
+     "url": "https://t.co/PHdROXXi8c",
+     "expand": "https://twitter.com/i/web/status/971806609520279552"
+    }
+   ]
+  },
+  {
+   "id": 971791646667886600,
+   "id_str": "971791646667886594",
+   "created_at": "Thu Mar 08 16:55:58 +0000 2018",
+   "text": "@mituzas Does Percona have it?\n@kastauyra",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971785102182068200,
+   "in_reply_to_status_id_str": "971785102182068224",
+   "in_reply_to_screen_name": "mituzas",
+   "urls": []
+  },
+  {
+   "id": 971783248115150800,
+   "id_str": "971783248115150848",
+   "created_at": "Thu Mar 08 16:22:35 +0000 2018",
+   "text": "While core dumps are infrequent for me, it would be great to have an option to exclude the large InnoDB buffer pool… https://t.co/ISBdkenMZg",
+   "retweet_count": 3,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ISBdkenMZg",
+     "expand": "https://twitter.com/i/web/status/971783248115150848"
+    }
+   ]
+  },
+  {
+   "id": 971457968049766400,
+   "id_str": "971457968049766400",
+   "created_at": "Wed Mar 07 18:50:03 +0000 2018",
+   "text": "@karthikr @SidChoudhury This is a bold claim...\n\"significant limitations remain that make it unsuitable for latency… https://t.co/RbuTsswn9Q",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971455787733205000,
+   "in_reply_to_status_id_str": "971455787733204992",
+   "in_reply_to_screen_name": "karthikr",
+   "urls": [
+    {
+     "url": "https://t.co/RbuTsswn9Q",
+     "expand": "https://twitter.com/i/web/status/971457968049766400"
+    }
+   ]
+  },
+  {
+   "id": 970791275073962000,
+   "id_str": "970791275073961984",
+   "created_at": "Mon Mar 05 22:40:51 +0000 2018",
+   "text": "@jynus @RocksDB I just saw 5-9s and 0.001. Not sure I can reconcile that. With respect to availability, in many cas… https://t.co/bUEd08qRVd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970774696475185200,
+   "in_reply_to_status_id_str": "970774696475185152",
+   "in_reply_to_screen_name": "jynus",
+   "urls": [
+    {
+     "url": "https://t.co/bUEd08qRVd",
+     "expand": "https://twitter.com/i/web/status/970791275073961984"
+    }
+   ]
+  },
+  {
+   "id": 970769864158670800,
+   "id_str": "970769864158670849",
+   "created_at": "Mon Mar 05 21:15:46 +0000 2018",
+   "text": "@jynus @RocksDB ?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970757274607276000,
+   "in_reply_to_status_id_str": "970757274607276033",
+   "in_reply_to_screen_name": "jynus",
+   "urls": []
+  },
+  {
+   "id": 970727666943864800,
+   "id_str": "970727666943864832",
+   "created_at": "Mon Mar 05 18:28:05 +0000 2018",
+   "text": "Another use case for @RocksDB - Rocksandra\nhttps://t.co/BKl4Y8JaPA",
+   "retweet_count": 7,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BKl4Y8JaPA",
+     "expand": "https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589"
+    }
+   ]
+  },
+  {
+   "id": 970345693209505800,
+   "id_str": "970345693209505792",
+   "created_at": "Sun Mar 04 17:10:16 +0000 2018",
+   "text": "@antirez But article does mention someone trying to organize people to come up with license to solve problem of clo… https://t.co/DcSIeBkPN9",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970339060483960800,
+   "in_reply_to_status_id_str": "970339060483960832",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": [
+    {
+     "url": "https://t.co/DcSIeBkPN9",
+     "expand": "https://twitter.com/i/web/status/970345693209505792"
+    }
+   ]
+  },
+  {
+   "id": 970339060483960800,
+   "id_str": "970339060483960832",
+   "created_at": "Sun Mar 04 16:43:54 +0000 2018",
+   "text": "@antirez AGPL is an answer. Article doesn’t mention it by name.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 970230620529061900,
+   "in_reply_to_status_id_str": "970230620529061893",
+   "in_reply_to_screen_name": "antirez",
+   "urls": []
+  },
+  {
+   "id": 969994988858650600,
+   "id_str": "969994988858650624",
+   "created_at": "Sat Mar 03 17:56:41 +0000 2018",
+   "text": "@adamfowleruk @YugaByte It is fixed. Work done over several major releases. I guess you missed it. Probably better… https://t.co/ziIsyNfHPl",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966233070813708300,
+   "in_reply_to_status_id_str": "966233070813708288",
+   "in_reply_to_screen_name": "adamfowleruk",
+   "urls": [
+    {
+     "url": "https://t.co/ziIsyNfHPl",
+     "expand": "https://twitter.com/i/web/status/969994988858650624"
+    }
+   ]
+  },
+  {
+   "id": 969804725120938000,
+   "id_str": "969804725120937984",
+   "created_at": "Sat Mar 03 05:20:39 +0000 2018",
+   "text": "@thakares @datacharmer @Oracle @MySQL @mariadb @fsf @mysql_community Please go away. Find another community to ruin.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969803426056912900,
+   "in_reply_to_status_id_str": "969803426056912896",
+   "in_reply_to_screen_name": "thakares",
+   "urls": []
+  },
+  {
+   "id": 969793061977927700,
+   "id_str": "969793061977927680",
+   "created_at": "Sat Mar 03 04:34:18 +0000 2018",
+   "text": "@thakares @datacharmer @Oracle @MySQL @mariadb @fsf @mysql_community FUD is claiming that Oracle killed MySQL, as y… https://t.co/HK7bLmeyeq",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969790216457240600,
+   "in_reply_to_status_id_str": "969790216457240576",
+   "in_reply_to_screen_name": "thakares",
+   "urls": [
+    {
+     "url": "https://t.co/HK7bLmeyeq",
+     "expand": "https://twitter.com/i/web/status/969793061977927680"
+    }
+   ]
+  },
+  {
+   "id": 969774019401498600,
+   "id_str": "969774019401498624",
+   "created_at": "Sat Mar 03 03:18:38 +0000 2018",
+   "text": "@thakares @datacharmer @Oracle @MySQL @mariadb @fsf @mysql_community MySQL has thrived under Oracle with regular, h… https://t.co/9a5oy1gIjV",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969771711171215400,
+   "in_reply_to_status_id_str": "969771711171215360",
+   "in_reply_to_screen_name": "thakares",
+   "urls": [
+    {
+     "url": "https://t.co/9a5oy1gIjV",
+     "expand": "https://twitter.com/i/web/status/969774019401498624"
+    }
+   ]
+  },
+  {
+   "id": 969640081915965400,
+   "id_str": "969640081915965441",
+   "created_at": "Fri Mar 02 18:26:25 +0000 2018",
+   "text": "Spam from my sit-stand desk vendor. Something about getting into blockchain. Nice desk but no, just no.",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 969626119451197400,
+   "id_str": "969626119451197440",
+   "created_at": "Fri Mar 02 17:30:56 +0000 2018",
+   "text": "@mipsytipsy I am glad you stuck it out. Keep on raising heck.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969598681589542900,
+   "in_reply_to_status_id_str": "969598681589542912",
+   "in_reply_to_screen_name": "mipsytipsy",
+   "urls": []
+  },
+  {
+   "id": 969625141536735200,
+   "id_str": "969625141536735232",
+   "created_at": "Fri Mar 02 17:27:03 +0000 2018",
+   "text": "@datacharmer @thakares @Oracle @MySQL @mariadb @fsf You are too kind to troll comments. \nThanks for making MySQL be… https://t.co/ClXTDGsuJE",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969494451281453000,
+   "in_reply_to_status_id_str": "969494451281453056",
+   "in_reply_to_screen_name": "datacharmer",
+   "urls": [
+    {
+     "url": "https://t.co/ClXTDGsuJE",
+     "expand": "https://twitter.com/i/web/status/969625141536735232"
+    }
+   ]
+  },
+  {
+   "id": 969615283185840100,
+   "id_str": "969615283185840130",
+   "created_at": "Fri Mar 02 16:47:52 +0000 2018",
+   "text": "@kostja_osipov @pbailis Kostja - Good luck with the paper. Hope you attend HPTS 2019 to tell us more about @TarantoolDB",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969567570104913900,
+   "in_reply_to_status_id_str": "969567570104913920",
+   "in_reply_to_screen_name": "kostja_osipov",
+   "urls": []
+  },
+  {
+   "id": 969343358467391500,
+   "id_str": "969343358467391490",
+   "created_at": "Thu Mar 01 22:47:20 +0000 2018",
+   "text": "This has a neat design -- not too complicated https://t.co/BBWGNWtjlC",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BBWGNWtjlC",
+     "expand": "https://twitter.com/dormando/status/969341191274708992"
+    }
+   ]
+  },
+  {
+   "id": 969241370975076400,
+   "id_str": "969241370975076352",
+   "created_at": "Thu Mar 01 16:02:05 +0000 2018",
+   "text": "@kevinclosson Bad PR might help with these rankings. One of the metrics is \"mentions\". So #CoverOregon might have b… https://t.co/zPf6ymatMf",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969239440097910800,
+   "in_reply_to_status_id_str": "969239440097910784",
+   "in_reply_to_screen_name": "kevinclosson",
+   "urls": [
+    {
+     "url": "https://t.co/zPf6ymatMf",
+     "expand": "https://twitter.com/i/web/status/969241370975076352"
+    }
+   ]
+  },
+  {
+   "id": 969228272256016400,
+   "id_str": "969228272256016384",
+   "created_at": "Thu Mar 01 15:10:02 +0000 2018",
+   "text": "In 2019 I expect MariaDB to enter the top 10 displacing Cassandra.\nToday - MySQL + MariaDB + Percona Server would b… https://t.co/rp02o7DsIi",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/rp02o7DsIi",
+     "expand": "https://twitter.com/i/web/status/969228272256016384"
+    }
+   ]
+  },
+  {
+   "id": 968919906174382100,
+   "id_str": "968919906174382080",
+   "created_at": "Wed Feb 28 18:44:41 +0000 2018",
+   "text": "@antirez Too many people apologize for \"bad English\" because they have an accent. Meanwhile, their grammar and writ… https://t.co/BDvGH3i2rr",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 968917755859820500,
+   "in_reply_to_status_id_str": "968917755859820544",
+   "in_reply_to_screen_name": "antirez",
+   "urls": [
+    {
+     "url": "https://t.co/BDvGH3i2rr",
+     "expand": "https://twitter.com/i/web/status/968919906174382080"
+    }
+   ]
+  },
+  {
+   "id": 968874638863343600,
+   "id_str": "968874638863343616",
+   "created_at": "Wed Feb 28 15:44:49 +0000 2018",
+   "text": "I like this contest. An interesting storage engine, ForestDB, was the winner a few years ago -… https://t.co/6HScIHlkNj",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6HScIHlkNj",
+     "expand": "https://twitter.com/i/web/status/968874638863343616"
+    }
+   ]
+  },
+  {
+   "id": 968872054249238500,
+   "id_str": "968872054249238528",
+   "created_at": "Wed Feb 28 15:34:33 +0000 2018",
+   "text": "@frankmcsherry Same problem exists with system software. Release version 1.0, move on to something else, then other… https://t.co/0Iq6AgTygF",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968751729713057800,
+   "in_reply_to_status_id_str": "968751729713057797",
+   "in_reply_to_screen_name": "frankmcsherry",
+   "urls": [
+    {
+     "url": "https://t.co/0Iq6AgTygF",
+     "expand": "https://twitter.com/i/web/status/968872054249238528"
+    }
+   ]
+  },
+  {
+   "id": 968496115870920700,
+   "id_str": "968496115870920704",
+   "created_at": "Tue Feb 27 14:40:42 +0000 2018",
+   "text": "@MarkLeith @bytebot @servicenow Math is hard. Mistake was dividing by seconds/day rather than seconds/hour. Prefer… https://t.co/NU6HkQqEWY",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968389842802393100,
+   "in_reply_to_status_id_str": "968389842802393088",
+   "in_reply_to_screen_name": "MarkLeith",
+   "urls": [
+    {
+     "url": "https://t.co/NU6HkQqEWY",
+     "expand": "https://twitter.com/i/web/status/968496115870920704"
+    }
+   ]
+  },
+  {
+   "id": 968324588592599000,
+   "id_str": "968324588592599042",
+   "created_at": "Tue Feb 27 03:19:07 +0000 2018",
+   "text": "@bytebot some of my peers spend too much time on this problem in web-scale",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968282548433576000,
+   "in_reply_to_status_id_str": "968282548433575936",
+   "in_reply_to_screen_name": "bytebot",
+   "urls": []
+  },
+  {
+   "id": 968324384510357500,
+   "id_str": "968324384510357505",
+   "created_at": "Tue Feb 27 03:18:18 +0000 2018",
+   "text": "So true. I appreciate all that Sergey Petrunia has done to make MyRocks real. https://t.co/7cGRK7xkyP",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7cGRK7xkyP",
+     "expand": "https://twitter.com/bytebot/status/968232662568759296"
+    }
+   ]
+  },
+  {
+   "id": 968280306204622800,
+   "id_str": "968280306204622853",
+   "created_at": "Tue Feb 27 00:23:09 +0000 2018",
+   "text": "@mjasay @TheRegister Great article. I agree with your conclusion.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968200967467356200,
+   "in_reply_to_status_id_str": "968200967467356160",
+   "in_reply_to_screen_name": "mjasay",
+   "urls": []
+  },
+  {
+   "id": 968278322802171900,
+   "id_str": "968278322802171904",
+   "created_at": "Tue Feb 27 00:15:16 +0000 2018",
+   "text": "@bytebot @RocksDB and MyRocks are a good start for a cloud optimized DBMS",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968277790389760000,
+   "in_reply_to_status_id_str": "968277790389760000",
+   "in_reply_to_screen_name": "bytebot",
+   "urls": []
+  },
+  {
+   "id": 968241181221036000,
+   "id_str": "968241181221036032",
+   "created_at": "Mon Feb 26 21:47:41 +0000 2018",
+   "text": "MariaDB 10.3 has an RC. Maybe MyRocks is still in there but that wasn't mentioned here - https://t.co/BsHLFyn57N",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BsHLFyn57N",
+     "expand": "https://mariadb.com/resources/blog/mariadb-server-103-release-candidate-now-available?sthash.8GvDQgl9.mjjo"
+    }
+   ]
+  },
+  {
+   "id": 968233941864820700,
+   "id_str": "968233941864820736",
+   "created_at": "Mon Feb 26 21:18:55 +0000 2018",
+   "text": "Was also discussed at NEDB2018 by Intel, RockSet and MariaDB - https://t.co/aHqKyvRemR",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968231869002084400,
+   "in_reply_to_status_id_str": "968231869002084352",
+   "in_reply_to_screen_name": "markcallaghan",
+   "urls": [
+    {
+     "url": "https://t.co/aHqKyvRemR",
+     "expand": "http://mitdbg.github.io/nedbday/2018/#program"
+    }
+   ]
+  },
+  {
+   "id": 968232070769123300,
+   "id_str": "968232070769123328",
+   "created_at": "Mon Feb 26 21:11:29 +0000 2018",
+   "text": "@bytebot @mariadbfdn this needs a blog post",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967796878598340600,
+   "in_reply_to_status_id_str": "967796878598340610",
+   "in_reply_to_screen_name": "bytebot",
+   "urls": []
+  },
+  {
+   "id": 968231869002084400,
+   "id_str": "968231869002084352",
+   "created_at": "Mon Feb 26 21:10:41 +0000 2018",
+   "text": "Happy to see the focus on MyRocks and cloud storage because @RocksDB with write-once files is easier on cloud stora… https://t.co/yuMSKKya9S",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yuMSKKya9S",
+     "expand": "https://twitter.com/i/web/status/968231869002084352"
+    }
+   ]
+  },
+  {
+   "id": 968227729815437300,
+   "id_str": "968227729815437312",
+   "created_at": "Mon Feb 26 20:54:14 +0000 2018",
+   "text": "@bytebot details?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968193152849981400,
+   "in_reply_to_status_id_str": "968193152849981440",
+   "in_reply_to_screen_name": "bytebot",
+   "urls": []
+  },
+  {
+   "id": 968226844771102700,
+   "id_str": "968226844771102720",
+   "created_at": "Mon Feb 26 20:50:43 +0000 2018",
+   "text": "@bytebot @servicenow 25B queries/hour is ~370k queries/second. Over 85k instances that is ~4 queries/second/instance.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968198182730653700,
+   "in_reply_to_status_id_str": "968198182730653696",
+   "in_reply_to_screen_name": "bytebot",
+   "urls": []
+  },
+  {
+   "id": 967124685807693800,
+   "id_str": "967124685807693824",
+   "created_at": "Fri Feb 23 19:51:08 +0000 2018",
+   "text": "Percona Live is coming with a few talks about @RocksDB, a few talks from my peers, and a lot more including interes… https://t.co/nGUSi36gj8",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nGUSi36gj8",
+     "expand": "https://twitter.com/i/web/status/967124685807693824"
+    }
+   ]
+  },
+  {
+   "id": 967099974352711700,
+   "id_str": "967099974352711680",
+   "created_at": "Fri Feb 23 18:12:56 +0000 2018",
+   "text": "@Percona @bytebot ouch - after reading the bits about \"drop in\"",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967083752609501200,
+   "in_reply_to_status_id_str": "967083752609501187",
+   "in_reply_to_screen_name": "Percona",
+   "urls": []
+  },
   {
    "id": 966519104248070100,
    "id_str": "966519104248070145",

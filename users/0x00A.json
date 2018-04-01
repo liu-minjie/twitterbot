@@ -1,6 +1,531 @@
 {
- "time": 1519367415625,
+ "time": 1522594981680,
  "lists": [
+  {
+   "id": 980179621953105900,
+   "id_str": "980179621953105920",
+   "created_at": "Sat Mar 31 20:26:47 +0000 2018",
+   "text": "// return only the unique objects in an array ⛳️\n\nconst u = a =&gt; [...new Set(https://t.co/05kt37lZkd(JSON.stringify))]",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/05kt37lZkd",
+     "expand": "http://a.map"
+    }
+   ]
+  },
+  {
+   "id": 978984959292657700,
+   "id_str": "978984959292657664",
+   "created_at": "Wed Mar 28 13:19:37 +0000 2018",
+   "text": "@thg2k I only used this on the subdomain for an api, but yeah, if you're going to use it on your base domain as well that's a good point!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978961876301307900,
+   "in_reply_to_status_id_str": "978961876301307904",
+   "in_reply_to_screen_name": "thg2k",
+   "urls": []
+  },
+  {
+   "id": 978705165875318800,
+   "id_str": "978705165875318787",
+   "created_at": "Tue Mar 27 18:47:49 +0000 2018",
+   "text": "@DefionsCode you are too kind my friend :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978629015023038500,
+   "in_reply_to_status_id_str": "978629015023038465",
+   "in_reply_to_screen_name": "DefionsCode",
+   "urls": []
+  },
+  {
+   "id": 978705036560789500,
+   "id_str": "978705036560789509",
+   "created_at": "Tue Mar 27 18:47:18 +0000 2018",
+   "text": "RT @0x00A: 🔒 @letsencrypt now offers free wildcard certs.\n\nhttps://t.co/Lwf32GapGs",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Lwf32GapGs",
+     "expand": "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978559771212165100,
+    "id_str": "978559771212165120",
+    "created_at": "Tue Mar 27 09:10:04 +0000 2018",
+    "text": "🔒 @letsencrypt now offers free wildcard certs.\n\nhttps://t.co/Lwf32GapGs",
+    "retweet_count": 49,
+    "favorite_count": 93,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Lwf32GapGs",
+      "expand": "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978562758181556200,
+   "id_str": "978562758181556225",
+   "created_at": "Tue Mar 27 09:21:57 +0000 2018",
+   "text": "# least painful experience ever. I did...\n\nbrew install certbot\n\nsudo certbot certonly --manual -d \"*.thedomainname… https://t.co/T9WR0vC5JN",
+   "retweet_count": 2,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": 978559771212165100,
+   "in_reply_to_status_id_str": "978559771212165120",
+   "in_reply_to_screen_name": "0x00A",
+   "urls": [
+    {
+     "url": "https://t.co/T9WR0vC5JN",
+     "expand": "https://twitter.com/i/web/status/978562758181556225"
+    }
+   ]
+  },
+  {
+   "id": 978559771212165100,
+   "id_str": "978559771212165120",
+   "created_at": "Tue Mar 27 09:10:04 +0000 2018",
+   "text": "🔒 @letsencrypt now offers free wildcard certs.\n\nhttps://t.co/Lwf32GapGs",
+   "retweet_count": 49,
+   "favorite_count": 93,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Lwf32GapGs",
+     "expand": "https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579"
+    }
+   ]
+  },
+  {
+   "id": 974301090480054300,
+   "id_str": "974301090480054273",
+   "created_at": "Thu Mar 15 15:07:36 +0000 2018",
+   "text": "@MarkoPolojarvi @mafintosh ...or it would incentivize developers to abandon the centralized model and realize some… https://t.co/sm35YurRaM",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 974295768449323000,
+   "in_reply_to_status_id_str": "974295768449323013",
+   "in_reply_to_screen_name": "MarkoPolojarvi",
+   "urls": [
+    {
+     "url": "https://t.co/sm35YurRaM",
+     "expand": "https://twitter.com/i/web/status/974301090480054273"
+    }
+   ]
+  },
+  {
+   "id": 973901473905102800,
+   "id_str": "973901473905102848",
+   "created_at": "Wed Mar 14 12:39:40 +0000 2018",
+   "text": "@crcdng @p5xjs Nice, would love to hear about any features/improvements/ideas you have on github :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973675943784075300,
+   "in_reply_to_status_id_str": "973675943784075264",
+   "in_reply_to_screen_name": "crcdng",
+   "urls": []
+  },
+  {
+   "id": 973863907826786300,
+   "id_str": "973863907826786304",
+   "created_at": "Wed Mar 14 10:10:23 +0000 2018",
+   "text": "RT @crcdng: livecoding #p5js @p5xjs with @0x00A's scratches https://t.co/S1wWr8GXzk bit shaky, but works https://t.co/Bc4YbnxSne",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/S1wWr8GXzk",
+     "expand": "https://github.com/0x00A/scratches"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973675943784075300,
+    "id_str": "973675943784075264",
+    "created_at": "Tue Mar 13 21:43:29 +0000 2018",
+    "text": "livecoding #p5js @p5xjs with @0x00A's scratches https://t.co/S1wWr8GXzk bit shaky, but works https://t.co/Bc4YbnxSne",
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/S1wWr8GXzk",
+      "expand": "https://github.com/0x00A/scratches"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973292936543850500,
+   "id_str": "973292936543850496",
+   "created_at": "Mon Mar 12 20:21:33 +0000 2018",
+   "text": "@zeke @voltraco There was good progress last month. In fact we're ditching iOS, and going React Native 100%. But we… https://t.co/YhR7yag9gy",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973236473234448400,
+   "in_reply_to_status_id_str": "973236473234448384",
+   "in_reply_to_screen_name": "zeke",
+   "urls": [
+    {
+     "url": "https://t.co/YhR7yag9gy",
+     "expand": "https://twitter.com/i/web/status/973292936543850496"
+    }
+   ]
+  },
+  {
+   "id": 973290605320245200,
+   "id_str": "973290605320245248",
+   "created_at": "Mon Mar 12 20:12:17 +0000 2018",
+   "text": "@svenlito This (https://t.co/Ue9nV2bYhY) has the icons. Also, I just realized I was tweeting about how nice FiraCod… https://t.co/4ypefM7LaK",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973178652232859600,
+   "in_reply_to_status_id_str": "973178652232859649",
+   "in_reply_to_screen_name": "svenlito",
+   "urls": [
+    {
+     "url": "https://t.co/Ue9nV2bYhY",
+     "expand": "https://github.com/ryanoasis/vim-devicons"
+    },
+    {
+     "url": "https://t.co/4ypefM7LaK",
+     "expand": "https://twitter.com/i/web/status/973290605320245248"
+    }
+   ]
+  },
+  {
+   "id": 972946315809316900,
+   "id_str": "972946315809316865",
+   "created_at": "Sun Mar 11 21:24:12 +0000 2018",
+   "text": "@gregg_barber It's funny because it's true, automation is on the way. For example — I don't run my twitter account… https://t.co/qIXwRpH79U",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 972884337350905900,
+   "in_reply_to_status_id_str": "972884337350905857",
+   "in_reply_to_screen_name": "gregg_barber",
+   "urls": [
+    {
+     "url": "https://t.co/qIXwRpH79U",
+     "expand": "https://twitter.com/i/web/status/972946315809316865"
+    }
+   ]
+  },
+  {
+   "id": 972117438212067300,
+   "id_str": "972117438212067328",
+   "created_at": "Fri Mar 09 14:30:32 +0000 2018",
+   "text": "I’m 100% into Facebook replacing their front end developers with AI. \n\nIn fact, I think Facebook should be 100% aut… https://t.co/mDHSq8Tl21",
+   "retweet_count": 2,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/mDHSq8Tl21",
+     "expand": "https://twitter.com/i/web/status/972117438212067328"
+    }
+   ]
+  },
+  {
+   "id": 971062793666465800,
+   "id_str": "971062793666465792",
+   "created_at": "Tue Mar 06 16:39:46 +0000 2018",
+   "text": "@bradleymeck @tjholowaychuk @matthewcp @dosomething const { err, res, data } = after doSomething(...)\n\n// ot: i usu… https://t.co/DPoHngzTof",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971058560191926300,
+   "in_reply_to_status_id_str": "971058560191926273",
+   "in_reply_to_screen_name": "bradleymeck",
+   "urls": [
+    {
+     "url": "https://t.co/DPoHngzTof",
+     "expand": "https://twitter.com/i/web/status/971062793666465792"
+    }
+   ]
+  },
+  {
+   "id": 969818648369094700,
+   "id_str": "969818648369094658",
+   "created_at": "Sat Mar 03 06:15:58 +0000 2018",
+   "text": "@indutny znc",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969808534706753500,
+   "in_reply_to_status_id_str": "969808534706753536",
+   "in_reply_to_screen_name": "indutny",
+   "urls": []
+  },
+  {
+   "id": 969579141841522700,
+   "id_str": "969579141841522694",
+   "created_at": "Fri Mar 02 14:24:15 +0000 2018",
+   "text": "The canals are frozen! https://t.co/Z7x6N4uWz4",
+   "retweet_count": 6,
+   "favorite_count": 31,
+   "place": "Amsterdam, Nederland",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 969457135817019400,
+   "id_str": "969457135817019392",
+   "created_at": "Fri Mar 02 06:19:27 +0000 2018",
+   "text": "@thelightphone If it had tethering I’d switch from the iPhone immediately. I’d even happily pay more for that.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969232209948414000,
+   "in_reply_to_status_id_str": "969232209948413953",
+   "in_reply_to_screen_name": "thelightphone",
+   "urls": []
+  },
+  {
+   "id": 968961776124645400,
+   "id_str": "968961776124645376",
+   "created_at": "Wed Feb 28 21:31:04 +0000 2018",
+   "text": "@_ericelliott heh, i had to think about this for a bit. ok! I'm on board with it being a \"gotcha\" :D",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968957811534147600,
+   "in_reply_to_status_id_str": "968957811534147584",
+   "in_reply_to_screen_name": "_ericelliott",
+   "urls": []
+  },
+  {
+   "id": 968960834134257700,
+   "id_str": "968960834134257664",
+   "created_at": "Wed Feb 28 21:27:19 +0000 2018",
+   "text": "@josefbetancourt @_ericelliott I would consider Javascript's Date constructor a \"gotcha\". While it \"works\", it can… https://t.co/KcffaXeHDP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968950769838944300,
+   "in_reply_to_status_id_str": "968950769838944258",
+   "in_reply_to_screen_name": "josefbetancourt",
+   "urls": [
+    {
+     "url": "https://t.co/KcffaXeHDP",
+     "expand": "https://twitter.com/i/web/status/968960834134257664"
+    }
+   ]
+  },
+  {
+   "id": 968928382951051300,
+   "id_str": "968928382951051270",
+   "created_at": "Wed Feb 28 19:18:22 +0000 2018",
+   "text": "@_ericelliott I’m curious why you see this as a “gotcha”. It’s the behavior I would expect. In this case for exampl… https://t.co/X9XQQMZOkf",
+   "retweet_count": 0,
+   "favorite_count": 13,
+   "place": null,
+   "in_reply_to_status_id": 968925076962848800,
+   "in_reply_to_status_id_str": "968925076962848769",
+   "in_reply_to_screen_name": "_ericelliott",
+   "urls": [
+    {
+     "url": "https://t.co/X9XQQMZOkf",
+     "expand": "https://twitter.com/i/web/status/968928382951051270"
+    }
+   ]
+  },
+  {
+   "id": 968771469256912900,
+   "id_str": "968771469256912896",
+   "created_at": "Wed Feb 28 08:54:51 +0000 2018",
+   "text": "@jimpick @pvh This hasn’t been worked on in a few years, but I tried using it last year some time and it “just work… https://t.co/Gp0VHNlxfY",
+   "retweet_count": 2,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968641381391454200,
+   "in_reply_to_status_id_str": "968641381391454208",
+   "in_reply_to_screen_name": "jimpick",
+   "urls": [
+    {
+     "url": "https://t.co/Gp0VHNlxfY",
+     "expand": "https://twitter.com/i/web/status/968771469256912896"
+    }
+   ]
+  },
+  {
+   "id": 968501903255621600,
+   "id_str": "968501903255621632",
+   "created_at": "Tue Feb 27 15:03:42 +0000 2018",
+   "text": "@davglass Guns in bars. What could possibly go wrong with that...",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968496194405175300,
+   "in_reply_to_status_id_str": "968496194405175303",
+   "in_reply_to_screen_name": "davglass",
+   "urls": []
+  },
+  {
+   "id": 968500058042912800,
+   "id_str": "968500058042912769",
+   "created_at": "Tue Feb 27 14:56:22 +0000 2018",
+   "text": "@TX11_HEDGEHOG @electronjs It looks like you’re on your way. I dig the idea :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968492784553545700,
+   "in_reply_to_status_id_str": "968492784553545730",
+   "in_reply_to_screen_name": "TX11_TECHNOLOGY",
+   "urls": []
+  },
+  {
+   "id": 968491539956748300,
+   "id_str": "968491539956748288",
+   "created_at": "Tue Feb 27 14:22:31 +0000 2018",
+   "text": "@TX11_HEDGEHOG @electronjs It might be difficult to get the individual console.log style output, but seems like you… https://t.co/GSJXV6H1VI",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968489840873562100,
+   "in_reply_to_status_id_str": "968489840873562113",
+   "in_reply_to_screen_name": "TX11_TECHNOLOGY",
+   "urls": [
+    {
+     "url": "https://t.co/GSJXV6H1VI",
+     "expand": "https://twitter.com/i/web/status/968491539956748288"
+    }
+   ]
+  },
+  {
+   "id": 968490875918708700,
+   "id_str": "968490875918708741",
+   "created_at": "Tue Feb 27 14:19:53 +0000 2018",
+   "text": "@TX11_HEDGEHOG @electronjs oh perfect, yeah you have the latest then",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968489499352293400,
+   "in_reply_to_status_id_str": "968489499352293379",
+   "in_reply_to_screen_name": "TX11_TECHNOLOGY",
+   "urls": []
+  },
+  {
+   "id": 968483254008451100,
+   "id_str": "968483254008451072",
+   "created_at": "Tue Feb 27 13:49:35 +0000 2018",
+   "text": "@TX11_HEDGEHOG @electronjs Pull latest from scratches, I made th splitter resizable :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968475310013452300,
+   "in_reply_to_status_id_str": "968475310013452288",
+   "in_reply_to_screen_name": "TX11_TECHNOLOGY",
+   "urls": []
+  },
+  {
+   "id": 968431077290381300,
+   "id_str": "968431077290381312",
+   "created_at": "Tue Feb 27 10:22:16 +0000 2018",
+   "text": "RT @Mybridge: Node.js Top 10 Open Source for the Past Month (v.Feb 2018)\n\n#Nodejs https://t.co/n2RuGsfayZ https://t.co/hwwIpjn2ja",
+   "retweet_count": 35,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/n2RuGsfayZ",
+     "expand": "https://goo.gl/ttvzkr"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968413547058290700,
+    "id_str": "968413547058290688",
+    "created_at": "Tue Feb 27 09:12:36 +0000 2018",
+    "text": "Node.js Top 10 Open Source for the Past Month (v.Feb 2018)\n\n#Nodejs https://t.co/n2RuGsfayZ https://t.co/hwwIpjn2ja",
+    "retweet_count": 35,
+    "favorite_count": 45,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/n2RuGsfayZ",
+      "expand": "https://goo.gl/ttvzkr"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967854377682731000,
+   "id_str": "967854377682731008",
+   "created_at": "Sun Feb 25 20:10:40 +0000 2018",
+   "text": "@stevesi @rmhrisk @cdixon It’s hard to take this seriously from a technical perspective since it’s missing so many… https://t.co/5DqRsHvvVO",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965268218821537800,
+   "in_reply_to_status_id_str": "965268218821537792",
+   "in_reply_to_screen_name": "stevesi",
+   "urls": [
+    {
+     "url": "https://t.co/5DqRsHvvVO",
+     "expand": "https://twitter.com/i/web/status/967854377682731008"
+    }
+   ]
+  },
+  {
+   "id": 967363692462510100,
+   "id_str": "967363692462510082",
+   "created_at": "Sat Feb 24 11:40:51 +0000 2018",
+   "text": "@cwarzel @RMac18 ...until neither the Plain nor the Verified knew\nwhether this one was that one... or that one was… https://t.co/xhOvFwfIwd",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967209912190169100,
+   "in_reply_to_status_id_str": "967209912190169094",
+   "in_reply_to_screen_name": "cwarzel",
+   "urls": [
+    {
+     "url": "https://t.co/xhOvFwfIwd",
+     "expand": "https://twitter.com/i/web/status/967363692462510082"
+    }
+   ]
+  },
   {
    "id": 966384712741740500,
    "id_str": "966384712741740545",

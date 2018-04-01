@@ -1,12 +1,2287 @@
 {
- "time": 1519367049910,
+ "time": 1522594965360,
  "lists": [
+  {
+   "id": 980416393014403100,
+   "id_str": "980416393014403072",
+   "created_at": "Sun Apr 01 12:07:38 +0000 2018",
+   "text": "@brucel Or maybe shout :).",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979861397034192900,
+   "in_reply_to_status_id_str": "979861397034192896",
+   "in_reply_to_screen_name": "sw12",
+   "urls": []
+  },
+  {
+   "id": 979861397034192900,
+   "id_str": "979861397034192896",
+   "created_at": "Fri Mar 30 23:22:16 +0000 2018",
+   "text": "@brucel Shoit if you can't find one.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979859822916055000,
+   "in_reply_to_status_id_str": "979859822916055040",
+   "in_reply_to_screen_name": "brucel",
+   "urls": []
+  },
+  {
+   "id": 979855756269940700,
+   "id_str": "979855756269940737",
+   "created_at": "Fri Mar 30 22:59:51 +0000 2018",
+   "text": "@brucel Old Chromebook Pixel, right? Did you find a charger?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979782610820968400,
+   "in_reply_to_status_id_str": "979782610820968448",
+   "in_reply_to_screen_name": "brucel",
+   "urls": []
+  },
+  {
+   "id": 979617416157323300,
+   "id_str": "979617416157323264",
+   "created_at": "Fri Mar 30 07:12:47 +0000 2018",
+   "text": "RT @tomayac: Just updated to iOS 11.3 final, Build 15E216. Happy to report that Service Workers are supported in…\n✅ Safari\n✅ SFSafariViewCo…",
+   "retweet_count": 66,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979452333770924000,
+    "id_str": "979452333770924033",
+    "created_at": "Thu Mar 29 20:16:48 +0000 2018",
+    "text": "Just updated to iOS 11.3 final, Build 15E216. Happy to report that Service Workers are supported in…\n✅ Safari\n✅ SFS… https://t.co/iet2c13bgn",
+    "retweet_count": 66,
+    "favorite_count": 114,
+    "place": "Hamburg, Deutschland",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iet2c13bgn",
+      "expand": "https://twitter.com/i/web/status/979452333770924033"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979045366476738600,
+   "id_str": "979045366476738560",
+   "created_at": "Wed Mar 28 17:19:39 +0000 2018",
+   "text": "RT @slightlylate: Seeing real-time communication PWAs become A Thing (TM) has been amazing. https://t.co/Os2yzC8KVU",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Os2yzC8KVU",
+     "expand": "https://twitter.com/sw12/status/978944901130932230"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979030518623645700,
+    "id_str": "979030518623645696",
+    "created_at": "Wed Mar 28 16:20:39 +0000 2018",
+    "text": "Seeing real-time communication PWAs become A Thing (TM) has been amazing. https://t.co/Os2yzC8KVU",
+    "retweet_count": 5,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Os2yzC8KVU",
+      "expand": "https://twitter.com/sw12/status/978944901130932230"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978944901130932200,
+   "id_str": "978944901130932230",
+   "created_at": "Wed Mar 28 10:40:27 +0000 2018",
+   "text": "Progressive Web Apps for WebRTC — from @appear_in's @kartoffelmos:\n\nhttps://t.co/YSYhUQu3zw\n\n'devices are thermally… https://t.co/w9umX9Ns7g",
+   "retweet_count": 30,
+   "favorite_count": 41,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YSYhUQu3zw",
+     "expand": "http://webrtchacks.com/pwa-webrtc"
+    },
+    {
+     "url": "https://t.co/w9umX9Ns7g",
+     "expand": "https://twitter.com/i/web/status/978944901130932230"
+    }
+   ]
+  },
+  {
+   "id": 978935397710549000,
+   "id_str": "978935397710548992",
+   "created_at": "Wed Mar 28 10:02:41 +0000 2018",
+   "text": "RT @jaffathecake: 🎥 New HTTP 203! @DasSurma &amp; I talk about the resize observer, which lets you monitor the size of an element, and create y…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978935236229828600,
+    "id_str": "978935236229828610",
+    "created_at": "Wed Mar 28 10:02:02 +0000 2018",
+    "text": "🎥 New HTTP 203! @DasSurma &amp; I talk about the resize observer, which lets you monitor the size of an element, and cr… https://t.co/M3sDqrC90f",
+    "retweet_count": 12,
+    "favorite_count": 49,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/M3sDqrC90f",
+      "expand": "https://twitter.com/i/web/status/978935236229828610"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978920808960667600,
+   "id_str": "978920808960667650",
+   "created_at": "Wed Mar 28 09:04:42 +0000 2018",
+   "text": "RT @__apf__: The more I learn about the internet, the more I'm amazed anything works. Everything is held together with shoestrings and glue…",
+   "retweet_count": 787,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978777568009625600,
+    "id_str": "978777568009625600",
+    "created_at": "Tue Mar 27 23:35:31 +0000 2018",
+    "text": "The more I learn about the internet, the more I'm amazed anything works. Everything is held together with shoestrin… https://t.co/2iojDp5Rpj",
+    "retweet_count": 787,
+    "favorite_count": 3457,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2iojDp5Rpj",
+      "expand": "https://twitter.com/i/web/status/978777568009625600"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978663181689217000,
+   "id_str": "978663181689217024",
+   "created_at": "Tue Mar 27 16:00:59 +0000 2018",
+   "text": "...and now I'm beginning to doubt myself. Maybe they did sell coconuts? Maybe I missed the coconut aisle?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 978632456294338600,
+   "in_reply_to_status_id_str": "978632456294338561",
+   "in_reply_to_screen_name": "sw12",
+   "urls": []
+  },
+  {
+   "id": 978636082077225000,
+   "id_str": "978636082077224960",
+   "created_at": "Tue Mar 27 14:13:18 +0000 2018",
+   "text": "@thaman_r Larger threshold would be good but personally I'd rather have header content at the 'top' of the page, or… https://t.co/VvJYFeDarX",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978621869694709800,
+   "in_reply_to_status_id_str": "978621869694709760",
+   "in_reply_to_screen_name": "thaman_r",
+   "urls": [
+    {
+     "url": "https://t.co/VvJYFeDarX",
+     "expand": "https://twitter.com/i/web/status/978636082077224960"
+    }
+   ]
+  },
+  {
+   "id": 978632456294338600,
+   "id_str": "978632456294338561",
+   "created_at": "Tue Mar 27 13:58:54 +0000 2018",
+   "text": "Err... no. https://t.co/2hiSqHC2wI",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 978588965111500800,
+   "id_str": "978588965111500800",
+   "created_at": "Tue Mar 27 11:06:05 +0000 2018",
+   "text": "Another example. https://t.co/DwKwqBJjDG",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 978588872992088000,
+   "in_reply_to_status_id_str": "978588872992088064",
+   "in_reply_to_screen_name": "sw12",
+   "urls": []
+  },
+  {
+   "id": 978588872992088000,
+   "id_str": "978588872992088064",
+   "created_at": "Tue Mar 27 11:05:43 +0000 2018",
+   "text": "Overlaying header content in response to scroll-down is annoying and distracting, especially when it's over-respons… https://t.co/400qNaUplC",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/400qNaUplC",
+     "expand": "https://twitter.com/i/web/status/978588872992088064"
+    }
+   ]
+  },
+  {
+   "id": 978321742795100200,
+   "id_str": "978321742795100160",
+   "created_at": "Mon Mar 26 17:24:14 +0000 2018",
+   "text": "TIL xmlns=\"https://t.co/7M65NlEi2E\" is optional for inline SVG, even though required for SVG files.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/7M65NlEi2E",
+     "expand": "http://www.w3.org/2000/svg"
+    }
+   ]
+  },
+  {
+   "id": 978273358444888000,
+   "id_str": "978273358444888064",
+   "created_at": "Mon Mar 26 14:11:58 +0000 2018",
+   "text": "RT @MichaelRosenYes: Cambridge Analytica \ngot rid of all their kitica \nYou won’t find a tiny bitica \nof incriminating shitica",
+   "retweet_count": 798,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977248225899044900,
+    "id_str": "977248225899044865",
+    "created_at": "Fri Mar 23 18:18:28 +0000 2018",
+    "text": "Cambridge Analytica \ngot rid of all their kitica \nYou won’t find a tiny bitica \nof incriminating shitica",
+    "retweet_count": 798,
+    "favorite_count": 1431,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 978240789225631700,
+   "id_str": "978240789225631750",
+   "created_at": "Mon Mar 26 12:02:33 +0000 2018",
+   "text": "@jaffathecake At least they used an en dash.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 978172938074632200,
+   "in_reply_to_status_id_str": "978172938074632192",
+   "in_reply_to_screen_name": "jaffathecake",
+   "urls": []
+  },
+  {
+   "id": 978240230837948400,
+   "id_str": "978240230837948417",
+   "created_at": "Mon Mar 26 12:00:20 +0000 2018",
+   "text": "YouTube Does WebRTC – Here’s How\n\nAnother excellent analysis from @HCornflower \n\nhttps://t.co/af0oy8ZNfe https://t.co/E90s9MSBel",
+   "retweet_count": 8,
+   "favorite_count": 19,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/af0oy8ZNfe",
+     "expand": "http://webrtchacks.com/youtube-does-webrtc-heres-how"
+    }
+   ]
+  },
+  {
+   "id": 978239705404801000,
+   "id_str": "978239705404801024",
+   "created_at": "Mon Mar 26 11:58:15 +0000 2018",
+   "text": "Why is Sheffield Council cutting down its street trees?\n\nhttps://t.co/UoyRSVJrfq",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UoyRSVJrfq",
+     "expand": "https://twitter.com/i/moments/931210060528799744"
+    }
+   ]
+  },
+  {
+   "id": 977159845676712000,
+   "id_str": "977159845676711936",
+   "created_at": "Fri Mar 23 12:27:16 +0000 2018",
+   "text": "RT @M_caveman: @Graham21 @syptweet @SheffieldStar @yorkshirepost @BBCLookNorth @rbw66 @TheSadSquirrel @JayMitchinson @spacedapenguin @Rebec…",
+   "retweet_count": 3275,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976499361822756900,
+    "id_str": "976499361822756864",
+    "created_at": "Wed Mar 21 16:42:44 +0000 2018",
+    "text": "@Graham21 @syptweet @SheffieldStar @yorkshirepost @BBCLookNorth @rbw66 @TheSadSquirrel @JayMitchinson… https://t.co/6cX1zkAcgy",
+    "retweet_count": 3275,
+    "favorite_count": 3027,
+    "place": null,
+    "in_reply_to_status_id": 976482706266697700,
+    "in_reply_to_status_id_str": "976482706266697728",
+    "in_reply_to_screen_name": "Graham21",
+    "urls": [
+     {
+      "url": "https://t.co/6cX1zkAcgy",
+      "expand": "https://twitter.com/i/web/status/976499361822756864"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977149595045244900,
+   "id_str": "977149595045244929",
+   "created_at": "Fri Mar 23 11:46:32 +0000 2018",
+   "text": "My Microsoft account got hijacked and the email address associated with it was changed. So when I try to recover th… https://t.co/NaVNQ8tFy4",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/NaVNQ8tFy4",
+     "expand": "https://twitter.com/i/web/status/977149595045244929"
+    }
+   ]
+  },
+  {
+   "id": 977132252432912400,
+   "id_str": "977132252432912384",
+   "created_at": "Fri Mar 23 10:37:37 +0000 2018",
+   "text": "@geekyouup Nice euphorbias.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977126448912777200,
+   "in_reply_to_status_id_str": "977126448912777216",
+   "in_reply_to_screen_name": "geekyouup",
+   "urls": []
+  },
+  {
+   "id": 976838411528167400,
+   "id_str": "976838411528167433",
+   "created_at": "Thu Mar 22 15:10:00 +0000 2018",
+   "text": "RT @Attenboroughs_D: \"We can judge the heart of a man by his treatment of animals.\" \n\n- Immanuel Kant https://t.co/HqMyWLxAzO",
+   "retweet_count": 5272,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976751705739219000,
+    "id_str": "976751705739218945",
+    "created_at": "Thu Mar 22 09:25:28 +0000 2018",
+    "text": "\"We can judge the heart of a man by his treatment of animals.\" \n\n- Immanuel Kant https://t.co/HqMyWLxAzO",
+    "retweet_count": 5272,
+    "favorite_count": 20462,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 976837619463196700,
+   "id_str": "976837619463196673",
+   "created_at": "Thu Mar 22 15:06:51 +0000 2018",
+   "text": "RT @philwalton: 💡 If you've built a website that works offline, and you're using Google Analytics, you should *definitely* be using Workbox…",
+   "retweet_count": 101,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976502708872990700,
+    "id_str": "976502708872990720",
+    "created_at": "Wed Mar 21 16:56:02 +0000 2018",
+    "text": "💡 If you've built a website that works offline, and you're using Google Analytics, you should *definitely* be using… https://t.co/09HYdC6wtx",
+    "retweet_count": 101,
+    "favorite_count": 375,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/09HYdC6wtx",
+      "expand": "https://twitter.com/i/web/status/976502708872990720"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976837287911874600,
+   "id_str": "976837287911874564",
+   "created_at": "Thu Mar 22 15:05:32 +0000 2018",
+   "text": "@Julieanne Weirdly, I never believed in Santa — but Easter Bunny, definitely!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976755183647633400,
+   "in_reply_to_status_id_str": "976755183647633408",
+   "in_reply_to_screen_name": "Julieanne",
+   "urls": []
+  },
+  {
+   "id": 976757770056814600,
+   "id_str": "976757770056814597",
+   "created_at": "Thu Mar 22 09:49:34 +0000 2018",
+   "text": "@jennylg Common UI antipattern even in the poshest hotels :).",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976731720253927400,
+   "in_reply_to_status_id_str": "976731720253927425",
+   "in_reply_to_screen_name": "jennylg",
+   "urls": []
+  },
+  {
+   "id": 976546983312875500,
+   "id_str": "976546983312875521",
+   "created_at": "Wed Mar 21 19:51:58 +0000 2018",
+   "text": "@sergiomdgomes Ah — that was it :).",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976546672099635200,
+   "in_reply_to_status_id_str": "976546672099635200",
+   "in_reply_to_screen_name": "sergiomdgomes",
+   "urls": []
+  },
+  {
+   "id": 976466928612053000,
+   "id_str": "976466928612052992",
+   "created_at": "Wed Mar 21 14:33:52 +0000 2018",
+   "text": "@tristanf Hammer/nail.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976457221553958900,
+   "in_reply_to_status_id_str": "976457221553958914",
+   "in_reply_to_screen_name": "tristanf",
+   "urls": []
+  },
+  {
+   "id": 976440681559445500,
+   "id_str": "976440681559445504",
+   "created_at": "Wed Mar 21 12:49:34 +0000 2018",
+   "text": "Why can't credit card transactions have meaningful names? https://t.co/CWGNzpgyFG",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 976427444164026400,
+   "id_str": "976427444164026368",
+   "created_at": "Wed Mar 21 11:56:58 +0000 2018",
+   "text": "RT @n1kflow: Low latency, high quality live streaming now available in #YouTube based on #WebRTC  https://t.co/HW0pVvnOCx",
+   "retweet_count": 23,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HW0pVvnOCx",
+     "expand": "https://youtube-creators.googleblog.com/2018/03/making-it-easier-to-go-live.html?m=1"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976375234243723300,
+    "id_str": "976375234243723265",
+    "created_at": "Wed Mar 21 08:29:30 +0000 2018",
+    "text": "Low latency, high quality live streaming now available in #YouTube based on #WebRTC  https://t.co/HW0pVvnOCx",
+    "retweet_count": 23,
+    "favorite_count": 31,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HW0pVvnOCx",
+      "expand": "https://youtube-creators.googleblog.com/2018/03/making-it-easier-to-go-live.html?m=1"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976116350635659300,
+   "id_str": "976116350635659265",
+   "created_at": "Tue Mar 20 15:20:48 +0000 2018",
+   "text": "@jennylg @SirPatStew Same here. My mother was a WAAF, my dad was in the RAAF, and most of their closest male friend… https://t.co/z3moaLn0xO",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976057316629012500,
+   "in_reply_to_status_id_str": "976057316629012481",
+   "in_reply_to_screen_name": "jennylg",
+   "urls": [
+    {
+     "url": "https://t.co/z3moaLn0xO",
+     "expand": "https://twitter.com/i/web/status/976116350635659265"
+    }
+   ]
+  },
+  {
+   "id": 976087843205414900,
+   "id_str": "976087843205414914",
+   "created_at": "Tue Mar 20 13:27:31 +0000 2018",
+   "text": "RT @PulpLibrarian: Nemesis of libraries! \"Don't spread disease by finger licking.\" New Zealand public health poster, 1950s. \n\nKeep your sti…",
+   "retweet_count": 164,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975796390336049200,
+    "id_str": "975796390336049155",
+    "created_at": "Mon Mar 19 18:09:23 +0000 2018",
+    "text": "Nemesis of libraries! \"Don't spread disease by finger licking.\" New Zealand public health poster, 1950s. \n\nKeep you… https://t.co/I7xD0ctUP4",
+    "retweet_count": 164,
+    "favorite_count": 308,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/I7xD0ctUP4",
+      "expand": "https://twitter.com/i/web/status/975796390336049155"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976087208099811300,
+   "id_str": "976087208099811329",
+   "created_at": "Tue Mar 20 13:24:59 +0000 2018",
+   "text": "RT @SimmerVigor: Some interesting observations and conclusions on HTTP Server Push presented at #IETF. https://t.co/3BFdvt1cUr",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976053726451511300,
+    "id_str": "976053726451511302",
+    "created_at": "Tue Mar 20 11:11:57 +0000 2018",
+    "text": "Some interesting observations and conclusions on HTTP Server Push presented at #IETF. https://t.co/3BFdvt1cUr",
+    "retweet_count": 11,
+    "favorite_count": 10,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 975721245261156400,
+   "id_str": "975721245261156353",
+   "created_at": "Mon Mar 19 13:10:47 +0000 2018",
+   "text": "RT @brucel: Windows 10 to force you to use Edge, even if it isn’t default browser https://t.co/TsPnRIPLcW  Preview Build: “we will begin te…",
+   "retweet_count": 5,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/TsPnRIPLcW",
+     "expand": "http://www.theregister.co.uk/2018/03/18/windows_10_tests_forcing_use_of_edge_browser_for_links_in_windows_mail/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975688225007206400,
+    "id_str": "975688225007206401",
+    "created_at": "Mon Mar 19 10:59:34 +0000 2018",
+    "text": "Windows 10 to force you to use Edge, even if it isn’t default browser https://t.co/TsPnRIPLcW  Preview Build: “we w… https://t.co/L5ZdEP9aIi",
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TsPnRIPLcW",
+      "expand": "http://www.theregister.co.uk/2018/03/18/windows_10_tests_forcing_use_of_edge_browser_for_links_in_windows_mail/"
+     },
+     {
+      "url": "https://t.co/L5ZdEP9aIi",
+      "expand": "https://twitter.com/i/web/status/975688225007206401"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975719526137507800,
+   "id_str": "975719526137507845",
+   "created_at": "Mon Mar 19 13:03:57 +0000 2018",
+   "text": "RT @9to5Google: You'll soon be able to do an image search and then buy the product thru Google Express https://t.co/lnGUDUHnQX https://t.co…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lnGUDUHnQX",
+     "expand": "https://9to5google.com/2018/03/19/google-shopping-actions/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975707170871357400,
+    "id_str": "975707170871357441",
+    "created_at": "Mon Mar 19 12:14:51 +0000 2018",
+    "text": "You'll soon be able to do an image search and then buy the product thru Google Express https://t.co/lnGUDUHnQX https://t.co/yywjgpBvez",
+    "retweet_count": 8,
+    "favorite_count": 15,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lnGUDUHnQX",
+      "expand": "https://9to5google.com/2018/03/19/google-shopping-actions/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975717619541176300,
+   "id_str": "975717619541176321",
+   "created_at": "Mon Mar 19 12:56:23 +0000 2018",
+   "text": "How To Talk About Performance Testing With CEOs And Business Managers: https://t.co/3gxVvxNOLi\n\nA couple of years old but still excellent.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3gxVvxNOLi",
+     "expand": "http://neotys.com/blog/how-to-talk-about-performance-testing-with-ceos-and-business-managers"
+    }
+   ]
+  },
+  {
+   "id": 975715841756065800,
+   "id_str": "975715841756065792",
+   "created_at": "Mon Mar 19 12:49:19 +0000 2018",
+   "text": "RT @ddbeck: I think a lot about giving more attention to things that people don't think of as documentation or even as writing. Here's some…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974286011340640300,
+    "id_str": "974286011340640256",
+    "created_at": "Thu Mar 15 14:07:41 +0000 2018",
+    "text": "I think a lot about giving more attention to things that people don't think of as documentation or even as writing.… https://t.co/3HadKKs5rA",
+    "retweet_count": 6,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3HadKKs5rA",
+      "expand": "https://twitter.com/i/web/status/974286011340640256"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975715705759977500,
+   "id_str": "975715705759977477",
+   "created_at": "Mon Mar 19 12:48:46 +0000 2018",
+   "text": "RT @cmaumet: I always find it difficult to write a short but comprehensive README... This  README checklist looks very useful: https://t.co…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975687028582027300,
+    "id_str": "975687028582027264",
+    "created_at": "Mon Mar 19 10:54:49 +0000 2018",
+    "text": "I always find it difficult to write a short but comprehensive README... This  README checklist looks very useful:… https://t.co/fdwkjY8rWB",
+    "retweet_count": 20,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fdwkjY8rWB",
+      "expand": "https://twitter.com/i/web/status/975687028582027264"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975711427745992700,
+   "id_str": "975711427745992705",
+   "created_at": "Mon Mar 19 12:31:46 +0000 2018",
+   "text": "Content design is as important as interface design — especially on mobile. \n\nWrite for mobile: https://t.co/EY27AqYEwV",
+   "retweet_count": 1,
+   "favorite_count": 6,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EY27AqYEwV",
+     "expand": "http://developers.google.com/web/fundamentals/design-and-ui/responsive/content"
+    }
+   ]
+  },
+  {
+   "id": 975025708610269200,
+   "id_str": "975025708610269184",
+   "created_at": "Sat Mar 17 15:06:58 +0000 2018",
+   "text": "@georgie OMG that's grim.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 975007368848257000,
+   "in_reply_to_status_id_str": "975007368848257024",
+   "in_reply_to_screen_name": "georgie",
+   "urls": []
+  },
+  {
+   "id": 974634334954156000,
+   "id_str": "974634334954156032",
+   "created_at": "Fri Mar 16 13:11:47 +0000 2018",
+   "text": "As of today, 11 years on Twitter. Seemed like a good idea at the time ;).",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 974334398693871600,
+   "id_str": "974334398693871617",
+   "created_at": "Thu Mar 15 17:19:57 +0000 2018",
+   "text": "@BBCTaster @BBC_Connected @BBCRadio4 Here's what it looks like on my phone: https://t.co/cEi3mvuPFb",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974317526581727200,
+   "in_reply_to_status_id_str": "974317526581727232",
+   "in_reply_to_screen_name": "BBCTaster",
+   "urls": []
+  },
+  {
+   "id": 974333785536909300,
+   "id_str": "974333785536909313",
+   "created_at": "Thu Mar 15 17:17:31 +0000 2018",
+   "text": "@BBCTaster @BBC_Connected @BBCRadio4 Hi — Chrome on Android.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974317526581727200,
+   "in_reply_to_status_id_str": "974317526581727232",
+   "in_reply_to_screen_name": "BBCTaster",
+   "urls": []
+  },
+  {
+   "id": 974294694384595000,
+   "id_str": "974294694384594946",
+   "created_at": "Thu Mar 15 14:42:11 +0000 2018",
+   "text": "@BBCTaster @BBC_Connected @BBCRadio4 Nice idea — wish it worked on mobile.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 974216251252854800,
+   "in_reply_to_status_id_str": "974216251252854784",
+   "in_reply_to_screen_name": "BBCTaster",
+   "urls": []
+  },
+  {
+   "id": 974219628745543700,
+   "id_str": "974219628745543680",
+   "created_at": "Thu Mar 15 09:43:54 +0000 2018",
+   "text": "RT @n1kflow: Royalty-free, open spatial audio  #FTW https://t.co/Fm2PsoEOiH",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Fm2PsoEOiH",
+     "expand": "https://twitter.com/googleoss/status/973958059067260930"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974206715792150500,
+    "id_str": "974206715792150529",
+    "created_at": "Thu Mar 15 08:52:35 +0000 2018",
+    "text": "Royalty-free, open spatial audio  #FTW https://t.co/Fm2PsoEOiH",
+    "retweet_count": 9,
+    "favorite_count": 14,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Fm2PsoEOiH",
+      "expand": "https://twitter.com/googleoss/status/973958059067260930"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973660469499179000,
+   "id_str": "973660469499179008",
+   "created_at": "Tue Mar 13 20:42:00 +0000 2018",
+   "text": "@alexanderdanilo French actually :)! But yeah...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973659571506921500,
+   "in_reply_to_status_id_str": "973659571506921472",
+   "in_reply_to_screen_name": "alexanderdanilo",
+   "urls": []
+  },
+  {
+   "id": 973601114875678700,
+   "id_str": "973601114875678720",
+   "created_at": "Tue Mar 13 16:46:09 +0000 2018",
+   "text": "Electrical floor boxes are still an unsolved problem. https://t.co/nkVMwHBTaR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973540392191905800,
+   "id_str": "973540392191905792",
+   "created_at": "Tue Mar 13 12:44:51 +0000 2018",
+   "text": "@_faz Yes and no. The Network Information API can be useful, but it's difficult to accurately estimate network band… https://t.co/i7XrnA8Ley",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973505171509608400,
+   "in_reply_to_status_id_str": "973505171509608449",
+   "in_reply_to_screen_name": "_faz",
+   "urls": [
+    {
+     "url": "https://t.co/i7XrnA8Ley",
+     "expand": "https://twitter.com/i/web/status/973540392191905792"
+    }
+   ]
+  },
+  {
+   "id": 973528104760238100,
+   "id_str": "973528104760238080",
+   "created_at": "Tue Mar 13 11:56:02 +0000 2018",
+   "text": "@witamine 🕸️😁🗼",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973514101329682400,
+   "in_reply_to_status_id_str": "973514101329682432",
+   "in_reply_to_screen_name": "witamine",
+   "urls": []
+  },
+  {
+   "id": 973499251614474200,
+   "id_str": "973499251614474240",
+   "created_at": "Tue Mar 13 10:01:22 +0000 2018",
+   "text": "Service Worker! Excellent talk from @rowan_m at #pwaroadshow Paris. https://t.co/Slt9Q0Iedh",
+   "retweet_count": 0,
+   "favorite_count": 10,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973489520615346200,
+   "id_str": "973489520615346176",
+   "created_at": "Tue Mar 13 09:22:42 +0000 2018",
+   "text": "François Beaufort live! PWA integration chez #pwaroadshow Paris. https://t.co/mt2o0DeOZw",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 973270234407858200,
+   "id_str": "973270234407858178",
+   "created_at": "Mon Mar 12 18:51:21 +0000 2018",
+   "text": "@Paul_Kinlan @dalmaer A few years back I tried to use a foot pedal as a controller for video playback in a web app.… https://t.co/btPU0BgN6a",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973099405015429100,
+   "in_reply_to_status_id_str": "973099405015429120",
+   "in_reply_to_screen_name": "Paul_Kinlan",
+   "urls": [
+    {
+     "url": "https://t.co/btPU0BgN6a",
+     "expand": "https://twitter.com/i/web/status/973270234407858178"
+    }
+   ]
+  },
+  {
+   "id": 973176270027620400,
+   "id_str": "973176270027620353",
+   "created_at": "Mon Mar 12 12:37:58 +0000 2018",
+   "text": "@TarikHuber @SeraAndroid Thank you! It was great to get a chance to talk about what you're working on.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 972184236458471400,
+   "in_reply_to_status_id_str": "972184236458471424",
+   "in_reply_to_screen_name": "TarikHuber",
+   "urls": []
+  },
+  {
+   "id": 973106555649450000,
+   "id_str": "973106555649449984",
+   "created_at": "Mon Mar 12 08:00:56 +0000 2018",
+   "text": "@Paul_Kinlan @dalmaer Ha! Tried that a while back :).",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973099405015429100,
+   "in_reply_to_status_id_str": "973099405015429120",
+   "in_reply_to_screen_name": "Paul_Kinlan",
+   "urls": []
+  },
+  {
+   "id": 972056130368299000,
+   "id_str": "972056130368299010",
+   "created_at": "Fri Mar 09 10:26:56 +0000 2018",
+   "text": "RT @pbakaus: 🔥 Big news: For the first time, Google is confident there's a path towards supporting non-AMP content in experiences like the…",
+   "retweet_count": 50,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971838798614085600,
+    "id_str": "971838798614085632",
+    "created_at": "Thu Mar 08 20:03:20 +0000 2018",
+    "text": "🔥 Big news: For the first time, Google is confident there's a path towards supporting non-AMP content in experience… https://t.co/7sACIdL44o",
+    "retweet_count": 50,
+    "favorite_count": 131,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7sACIdL44o",
+      "expand": "https://twitter.com/i/web/status/971838798614085632"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972055940534079500,
+   "id_str": "972055940534079488",
+   "created_at": "Fri Mar 09 10:26:10 +0000 2018",
+   "text": "@pbakaus Oh gawd... I've done that :).",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971916551937867800,
+   "in_reply_to_status_id_str": "971916551937867776",
+   "in_reply_to_screen_name": "pbakaus",
+   "urls": []
+  },
+  {
+   "id": 971839542167855100,
+   "id_str": "971839542167855106",
+   "created_at": "Thu Mar 08 20:06:17 +0000 2018",
+   "text": "RT @ebidel: Making your pages work correctly with Google Search aka the features supported by Chrome 41. https://t.co/FngAMMeyqB",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FngAMMeyqB",
+     "expand": "https://twitter.com/tomekrudzki/status/971717284862492672"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971816619814002700,
+    "id_str": "971816619814002688",
+    "created_at": "Thu Mar 08 18:35:12 +0000 2018",
+    "text": "Making your pages work correctly with Google Search aka the features supported by Chrome 41. https://t.co/FngAMMeyqB",
+    "retweet_count": 6,
+    "favorite_count": 22,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FngAMMeyqB",
+      "expand": "https://twitter.com/tomekrudzki/status/971717284862492672"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971839277578506200,
+   "id_str": "971839277578506242",
+   "created_at": "Thu Mar 08 20:05:14 +0000 2018",
+   "text": "RT @addyosmani: Finally! Google is taking learnings from AMP and are working on web standards to allow instant loading &amp; Google Search feat…",
+   "retweet_count": 298,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971797554231877600,
+    "id_str": "971797554231877632",
+    "created_at": "Thu Mar 08 17:19:26 +0000 2018",
+    "text": "Finally! Google is taking learnings from AMP and are working on web standards to allow instant loading &amp; Google Sea… https://t.co/PRh6TzGMOP",
+    "retweet_count": 298,
+    "favorite_count": 848,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PRh6TzGMOP",
+      "expand": "https://twitter.com/i/web/status/971797554231877632"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971839215335067600,
+   "id_str": "971839215335067648",
+   "created_at": "Thu Mar 08 20:04:59 +0000 2018",
+   "text": "@smashingmag Hangouts. (Yes, it's true!)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971801939481636900,
+   "in_reply_to_status_id_str": "971801939481636864",
+   "in_reply_to_screen_name": "smashingmag",
+   "urls": []
+  },
+  {
+   "id": 971838521341341700,
+   "id_str": "971838521341341696",
+   "created_at": "Thu Mar 08 20:02:14 +0000 2018",
+   "text": "@BrocksiNet @andrey_l1nd3n @rowan_m Hi! You might want to look at the SEO resources linked to in… https://t.co/RL7NuHBZCW",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 971815882333868000,
+   "in_reply_to_status_id_str": "971815882333868032",
+   "in_reply_to_screen_name": "BrocksiNet",
+   "urls": [
+    {
+     "url": "https://t.co/RL7NuHBZCW",
+     "expand": "https://twitter.com/i/web/status/971838521341341696"
+    }
+   ]
+  },
+  {
+   "id": 971715366626955300,
+   "id_str": "971715366626955264",
+   "created_at": "Thu Mar 08 11:52:51 +0000 2018",
+   "text": "@KatyaKempkens As @devnook says — it depends. \nAlso check out recommendations from the Google Search team:… https://t.co/nlyRmTi1kT",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971707283766784000,
+   "in_reply_to_status_id_str": "971707283766784000",
+   "in_reply_to_screen_name": "KatyaKempkens",
+   "urls": [
+    {
+     "url": "https://t.co/nlyRmTi1kT",
+     "expand": "https://twitter.com/i/web/status/971715366626955264"
+    }
+   ]
+  },
+  {
+   "id": 971714166909292500,
+   "id_str": "971714166909292544",
+   "created_at": "Thu Mar 08 11:48:05 +0000 2018",
+   "text": "@KatyaKempkens Release 43 added Cache Storage API:\nhttps://t.co/GV9vZrkwnH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971709450938650600,
+   "in_reply_to_status_id_str": "971709450938650630",
+   "in_reply_to_screen_name": "KatyaKempkens",
+   "urls": [
+    {
+     "url": "https://t.co/GV9vZrkwnH",
+     "expand": "http://developer.apple.com/safari/technology-preview/release-notes/#r43"
+    }
+   ]
+  },
+  {
+   "id": 971713757310316500,
+   "id_str": "971713757310316544",
+   "created_at": "Thu Mar 08 11:46:27 +0000 2018",
+   "text": "@KatyaKempkens One way to do it — use a two-stage process:\n1. Listen for the beforeinstallprompt event, call preven… https://t.co/K9EBpn1Cmq",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 971705919246659600,
+   "in_reply_to_status_id_str": "971705919246659590",
+   "in_reply_to_screen_name": "KatyaKempkens",
+   "urls": [
+    {
+     "url": "https://t.co/K9EBpn1Cmq",
+     "expand": "https://twitter.com/i/web/status/971713757310316544"
+    }
+   ]
+  },
+  {
+   "id": 971705221876461600,
+   "id_str": "971705221876461568",
+   "created_at": "Thu Mar 08 11:12:32 +0000 2018",
+   "text": "@BrocksiNet The OS knows from the incoming message metadata which browser to forward to.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971699862759792600,
+   "in_reply_to_status_id_str": "971699862759792640",
+   "in_reply_to_screen_name": "BrocksiNet",
+   "urls": []
+  },
+  {
+   "id": 971702601745039400,
+   "id_str": "971702601745039360",
+   "created_at": "Thu Mar 08 11:02:08 +0000 2018",
+   "text": "@lindseydigital :/",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971701646664323100,
+   "in_reply_to_status_id_str": "971701646664323074",
+   "in_reply_to_screen_name": "lindseydigital",
+   "urls": []
+  },
+  {
+   "id": 971700728837431300,
+   "id_str": "971700728837431296",
+   "created_at": "Thu Mar 08 10:54:41 +0000 2018",
+   "text": "@BrocksiNet So... you send a push message from your server to an endpoint URL at the push service, which includes a… https://t.co/KuKYuz6cBT",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971694213023850500,
+   "in_reply_to_status_id_str": "971694213023850497",
+   "in_reply_to_screen_name": "BrocksiNet",
+   "urls": [
+    {
+     "url": "https://t.co/KuKYuz6cBT",
+     "expand": "https://twitter.com/i/web/status/971700728837431296"
+    }
+   ]
+  },
+  {
+   "id": 971698941338243100,
+   "id_str": "971698941338243074",
+   "created_at": "Thu Mar 08 10:47:35 +0000 2018",
+   "text": "@BrocksiNet Each browser uses its own push service, which can communicate with users' devices. The device OS forwar… https://t.co/LLrI6YzyVg",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971694213023850500,
+   "in_reply_to_status_id_str": "971694213023850497",
+   "in_reply_to_screen_name": "BrocksiNet",
+   "urls": [
+    {
+     "url": "https://t.co/LLrI6YzyVg",
+     "expand": "https://twitter.com/i/web/status/971698941338243074"
+    }
+   ]
+  },
+  {
+   "id": 971695552533495800,
+   "id_str": "971695552533495808",
+   "created_at": "Thu Mar 08 10:34:07 +0000 2018",
+   "text": "What makes a good web push notification?\n@sebabenz explains how to get it right at #pwaroadshow Munich… https://t.co/jrCi2xhqpA",
+   "retweet_count": 1,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jrCi2xhqpA",
+     "expand": "https://twitter.com/i/web/status/971695552533495808"
+    }
+   ]
+  },
+  {
+   "id": 971694454385074200,
+   "id_str": "971694454385074177",
+   "created_at": "Thu Mar 08 10:29:45 +0000 2018",
+   "text": "RT @juberti: Google Duo v29 is rolling out today with a great new feature - Duo video messages. Simple, fast, and fun, video messages make…",
+   "retweet_count": 28,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971432128637419500,
+    "id_str": "971432128637419521",
+    "created_at": "Wed Mar 07 17:07:22 +0000 2018",
+    "text": "Google Duo v29 is rolling out today with a great new feature - Duo video messages. Simple, fast, and fun, video mes… https://t.co/JNoMQwy7Hs",
+    "retweet_count": 28,
+    "favorite_count": 93,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JNoMQwy7Hs",
+      "expand": "https://twitter.com/i/web/status/971432128637419521"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971680014445043700,
+   "id_str": "971680014445043712",
+   "created_at": "Thu Mar 08 09:32:23 +0000 2018",
+   "text": "@gribnoysup HTML5!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971669830301610000,
+   "in_reply_to_status_id_str": "971669830301609985",
+   "in_reply_to_screen_name": "gribnoysup",
+   "urls": []
+  },
+  {
+   "id": 971679659116122100,
+   "id_str": "971679659116122112",
+   "created_at": "Thu Mar 08 09:30:58 +0000 2018",
+   "text": "@BrocksiNet Hi! Check out the case studies here: https://t.co/UwkMdLkez9\n\nLancôme has done good stuff with push not… https://t.co/V4DUGL70qA",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971673091767263200,
+   "in_reply_to_status_id_str": "971673091767263232",
+   "in_reply_to_screen_name": "BrocksiNet",
+   "urls": [
+    {
+     "url": "https://t.co/UwkMdLkez9",
+     "expand": "https://developers.google.com/web/showcase/vertical/#retail"
+    },
+    {
+     "url": "https://t.co/V4DUGL70qA",
+     "expand": "https://twitter.com/i/web/status/971679659116122112"
+    }
+   ]
+  },
+  {
+   "id": 971678768136904700,
+   "id_str": "971678768136904704",
+   "created_at": "Thu Mar 08 09:27:25 +0000 2018",
+   "text": "@OBDFox Thank you!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971670263732559900,
+   "in_reply_to_status_id_str": "971670263732559872",
+   "in_reply_to_screen_name": "OBDFox",
+   "urls": []
+  },
+  {
+   "id": 971410637883629600,
+   "id_str": "971410637883629569",
+   "created_at": "Wed Mar 07 15:41:58 +0000 2018",
+   "text": "RT @TheSadSquirrel: 40 years ago residents helped fund &amp; plant these Cherry trees. Every year since, a community Christmas light display ha…",
+   "retweet_count": 350,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970712419461984300,
+    "id_str": "970712419461984258",
+    "created_at": "Mon Mar 05 17:27:30 +0000 2018",
+    "text": "40 years ago residents helped fund &amp; plant these Cherry trees. Every year since, a community Christmas light displa… https://t.co/NG0ugdMrhd",
+    "retweet_count": 350,
+    "favorite_count": 215,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/NG0ugdMrhd",
+      "expand": "https://twitter.com/i/web/status/970712419461984258"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971099778246500400,
+   "id_str": "971099778246500352",
+   "created_at": "Tue Mar 06 19:06:43 +0000 2018",
+   "text": "@russian2englis1 @doesnotdoit 😂",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970997168973762600,
+   "in_reply_to_status_id_str": "970997168973762561",
+   "in_reply_to_screen_name": "russian2englis1",
+   "urls": []
+  },
+  {
+   "id": 971095676233879600,
+   "id_str": "971095676233879553",
+   "created_at": "Tue Mar 06 18:50:25 +0000 2018",
+   "text": "@DanWatkins @wandbc 386 is good, but I thought this was supposed to be nearly 700. What happened?",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970746505870106600,
+   "in_reply_to_status_id_str": "970746505870106624",
+   "in_reply_to_screen_name": "DanWatkins",
+   "urls": []
+  },
+  {
+   "id": 971093948683968500,
+   "id_str": "971093948683968513",
+   "created_at": "Tue Mar 06 18:43:34 +0000 2018",
+   "text": "@owencm One thing I've noticed teaching 101 web dev is how many people now find hierarchical file systems weird, no… https://t.co/py8yJZEkL0",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970776091253067800,
+   "in_reply_to_status_id_str": "970776091253067777",
+   "in_reply_to_screen_name": "owencm",
+   "urls": [
+    {
+     "url": "https://t.co/py8yJZEkL0",
+     "expand": "https://twitter.com/i/web/status/971093948683968513"
+    }
+   ]
+  },
+  {
+   "id": 970740981753577500,
+   "id_str": "970740981753577478",
+   "created_at": "Mon Mar 05 19:21:00 +0000 2018",
+   "text": "RT @igrigorik: JS parsing and execution is critical bottleneck for many sites. Long Tasks API enables you to gather real-world telemetry on…",
+   "retweet_count": 150,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970726134672478200,
+    "id_str": "970726134672478208",
+    "created_at": "Mon Mar 05 18:22:00 +0000 2018",
+    "text": "JS parsing and execution is critical bottleneck for many sites. Long Tasks API enables you to gather real-world tel… https://t.co/em1ZnkqA1D",
+    "retweet_count": 150,
+    "favorite_count": 395,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/em1ZnkqA1D",
+      "expand": "https://twitter.com/i/web/status/970726134672478208"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970664350494191600,
+   "id_str": "970664350494191616",
+   "created_at": "Mon Mar 05 14:16:29 +0000 2018",
+   "text": "TIL... https://t.co/SgLDhfXyoN",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/SgLDhfXyoN",
+     "expand": "https://twitter.com/MikeL0302/status/970397020514111489"
+    }
+   ]
+  },
+  {
+   "id": 970599483905073200,
+   "id_str": "970599483905073152",
+   "created_at": "Mon Mar 05 09:58:44 +0000 2018",
+   "text": "@lukew YES! Last visit to Mountain View went to Big Basin and Henry Coe. Both stunning, both only about an hour's d… https://t.co/iwyHAovgoy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970365914225950700,
+   "in_reply_to_status_id_str": "970365914225950721",
+   "in_reply_to_screen_name": "lukew",
+   "urls": [
+    {
+     "url": "https://t.co/iwyHAovgoy",
+     "expand": "https://twitter.com/i/web/status/970599483905073152"
+    }
+   ]
+  },
+  {
+   "id": 970595359771824100,
+   "id_str": "970595359771824130",
+   "created_at": "Mon Mar 05 09:42:21 +0000 2018",
+   "text": "@ChromiumDev @rob_dodson I maintain a list at https://t.co/rUSAV57MQ0",
+   "retweet_count": 1,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 970312832129601500,
+   "in_reply_to_status_id_str": "970312832129601536",
+   "in_reply_to_screen_name": "ChromiumDev",
+   "urls": [
+    {
+     "url": "https://t.co/rUSAV57MQ0",
+     "expand": "http://bit.ly/webdevres"
+    }
+   ]
+  },
+  {
+   "id": 969641534487498800,
+   "id_str": "969641534487498752",
+   "created_at": "Fri Mar 02 18:32:11 +0000 2018",
+   "text": "@notwandbc @zoedutton_",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969639312773079000,
+   "in_reply_to_status_id_str": "969639312773079040",
+   "in_reply_to_screen_name": "notwandbc",
+   "urls": []
+  },
+  {
+   "id": 969571338192150500,
+   "id_str": "969571338192150529",
+   "created_at": "Fri Mar 02 13:53:15 +0000 2018",
+   "text": "RT @igrigorik: So many perf tools and metrics, which one should you use and when?\n\nGood news, we just published a new guide to help you @ h…",
+   "retweet_count": 108,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969311616641654800,
+    "id_str": "969311616641654784",
+    "created_at": "Thu Mar 01 20:41:13 +0000 2018",
+    "text": "So many perf tools and metrics, which one should you use and when?\n\nGood news, we just published a new guide to hel… https://t.co/ibkwqQlWov",
+    "retweet_count": 108,
+    "favorite_count": 335,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ibkwqQlWov",
+      "expand": "https://twitter.com/i/web/status/969311616641654784"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969552784088592400,
+   "id_str": "969552784088592384",
+   "created_at": "Fri Mar 02 12:39:31 +0000 2018",
+   "text": "RT @jaffathecake: 💖 url.searchParams https://t.co/yS9lLHIkSB",
+   "retweet_count": 468,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969534845050335200,
+    "id_str": "969534845050335232",
+    "created_at": "Fri Mar 02 11:28:14 +0000 2018",
+    "text": "💖 url.searchParams https://t.co/yS9lLHIkSB",
+    "retweet_count": 468,
+    "favorite_count": 1718,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 969517294987685900,
+   "id_str": "969517294987685888",
+   "created_at": "Fri Mar 02 10:18:30 +0000 2018",
+   "text": "RT @ithinkihaveacat: @sw12 @XanderXAJ One resource that may also be helpful is @jaffathecake's https://t.co/717Jz50Ili: \"The service worker…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/717Jz50Ili",
+     "expand": "https://jakearchibald.com/2016/caching-best-practices/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969249993260523500,
+    "id_str": "969249993260523520",
+    "created_at": "Thu Mar 01 16:36:20 +0000 2018",
+    "text": "@sw12 @XanderXAJ One resource that may also be helpful is @jaffathecake's https://t.co/717Jz50Ili: \"The service wor… https://t.co/kocui31Fc6",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": 969183005913894900,
+    "in_reply_to_status_id_str": "969183005913894912",
+    "in_reply_to_screen_name": "sw12",
+    "urls": [
+     {
+      "url": "https://t.co/717Jz50Ili",
+      "expand": "https://jakearchibald.com/2016/caching-best-practices/"
+     },
+     {
+      "url": "https://t.co/kocui31Fc6",
+      "expand": "https://twitter.com/i/web/status/969249993260523520"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969517192336363500,
+   "id_str": "969517192336363520",
+   "created_at": "Fri Mar 02 10:18:06 +0000 2018",
+   "text": "@steveWinterNZ @googledevs @rowan_m Thanks Steve! Great to meet you.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969278080383701000,
+   "in_reply_to_status_id_str": "969278080383700998",
+   "in_reply_to_screen_name": "steveWinterNZ",
+   "urls": []
+  },
+  {
+   "id": 969517119988797400,
+   "id_str": "969517119988797440",
+   "created_at": "Fri Mar 02 10:17:48 +0000 2018",
+   "text": "@christianklotz Thanks! Great to get a chance to talk. Let us know what you build :).",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969286492173545500,
+   "in_reply_to_status_id_str": "969286492173545472",
+   "in_reply_to_screen_name": "christianklotz",
+   "urls": []
+  },
+  {
+   "id": 969225241934385200,
+   "id_str": "969225241934385157",
+   "created_at": "Thu Mar 01 14:57:59 +0000 2018",
+   "text": "@jodiwarren This is a good guide to accessibility on the web in general: https://t.co/4bQu2OjSyW\n\nLet us know if th… https://t.co/UN2kNfligN",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969186907459604500,
+   "in_reply_to_status_id_str": "969186907459604482",
+   "in_reply_to_screen_name": "jodiwarren",
+   "urls": [
+    {
+     "url": "https://t.co/4bQu2OjSyW",
+     "expand": "http://developers.google.com/web/fundamentals/accessibility"
+    },
+    {
+     "url": "https://t.co/UN2kNfligN",
+     "expand": "https://twitter.com/i/web/status/969225241934385157"
+    }
+   ]
+  },
+  {
+   "id": 969207876173664300,
+   "id_str": "969207876173664256",
+   "created_at": "Thu Mar 01 13:48:59 +0000 2018",
+   "text": "@XanderXAJ You could add a flag to the notification data, then handle this in the Service Worker, not showing notif… https://t.co/eKI8m9l62i",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969204115711676400,
+   "in_reply_to_status_id_str": "969204115711676416",
+   "in_reply_to_screen_name": "XanderXAJ",
+   "urls": [
+    {
+     "url": "https://t.co/eKI8m9l62i",
+     "expand": "https://twitter.com/i/web/status/969207876173664256"
+    }
+   ]
+  },
+  {
+   "id": 969186369561129000,
+   "id_str": "969186369561128960",
+   "created_at": "Thu Mar 01 12:23:31 +0000 2018",
+   "text": "@yigitkonur :/",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969167208906739700,
+   "in_reply_to_status_id_str": "969167208906739712",
+   "in_reply_to_screen_name": "yigitkonur",
+   "urls": []
+  },
+  {
+   "id": 969186025762369500,
+   "id_str": "969186025762369536",
+   "created_at": "Thu Mar 01 12:22:09 +0000 2018",
+   "text": "@_whiteswift You might want to take a look at this: https://t.co/vs0XKKkSqe",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969156330996097000,
+   "in_reply_to_status_id_str": "969156330996097025",
+   "in_reply_to_screen_name": "_whiteswift",
+   "urls": [
+    {
+     "url": "https://t.co/vs0XKKkSqe",
+     "expand": "http://apple.slashdot.org/story/17/08/09/1412216/developers-explain-why-ios-apps-are-getting-bulkier"
+    }
+   ]
+  },
+  {
+   "id": 969185324957163500,
+   "id_str": "969185324957163522",
+   "created_at": "Thu Mar 01 12:19:22 +0000 2018",
+   "text": "@steveWinterNZ Yes. Cached assets will stay cached (unless evicted for some reason: https://t.co/epMZp6n8mJ). Insta… https://t.co/hOnHpCpU5E",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969176532970299400,
+   "in_reply_to_status_id_str": "969176532970299393",
+   "in_reply_to_screen_name": "steveWinterNZ",
+   "urls": [
+    {
+     "url": "https://t.co/epMZp6n8mJ",
+     "expand": "http://github.com/google/WebFundamentals/issues/3466"
+    },
+    {
+     "url": "https://t.co/hOnHpCpU5E",
+     "expand": "https://twitter.com/i/web/status/969185324957163522"
+    }
+   ]
+  },
+  {
+   "id": 969183005913894900,
+   "id_str": "969183005913894912",
+   "created_at": "Thu Mar 01 12:10:09 +0000 2018",
+   "text": "@XanderXAJ You can use the Cache API from a service worker to explicitly cache specific assets. This is not interop… https://t.co/CLbAydwtw7",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969172760256827400,
+   "in_reply_to_status_id_str": "969172760256827392",
+   "in_reply_to_screen_name": "XanderXAJ",
+   "urls": [
+    {
+     "url": "https://t.co/CLbAydwtw7",
+     "expand": "https://twitter.com/i/web/status/969183005913894912"
+    }
+   ]
+  },
+  {
+   "id": 969180639642701800,
+   "id_str": "969180639642701824",
+   "created_at": "Thu Mar 01 12:00:45 +0000 2018",
+   "text": "@steveWinterNZ MDN has pretty comprehensive compatibility data: https://t.co/ARrhb0Iqri https://t.co/MwMqoOHPe8",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969157731235049500,
+   "in_reply_to_status_id_str": "969157731235049472",
+   "in_reply_to_screen_name": "steveWinterNZ",
+   "urls": [
+    {
+     "url": "https://t.co/ARrhb0Iqri",
+     "expand": "http://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-autocomplete"
+    }
+   ]
+  },
+  {
+   "id": 969180007208837100,
+   "id_str": "969180007208837122",
+   "created_at": "Thu Mar 01 11:58:14 +0000 2018",
+   "text": "@steveWinterNZ No. With the Cache API you need to explicitly specify each asset to cache.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969163688409055200,
+   "in_reply_to_status_id_str": "969163688409055232",
+   "in_reply_to_screen_name": "steveWinterNZ",
+   "urls": []
+  },
+  {
+   "id": 969178564649209900,
+   "id_str": "969178564649209858",
+   "created_at": "Thu Mar 01 11:52:30 +0000 2018",
+   "text": "@jankraus Hi Jan! I just tweeted about this :): https://t.co/V2ZvwhjFA3",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969170351300268000,
+   "in_reply_to_status_id_str": "969170351300268039",
+   "in_reply_to_screen_name": "jankraus",
+   "urls": [
+    {
+     "url": "https://t.co/V2ZvwhjFA3",
+     "expand": "https://twitter.com/sw12/status/969178191880433664"
+    }
+   ]
+  },
+  {
+   "id": 969178191880433700,
+   "id_str": "969178191880433664",
+   "created_at": "Thu Mar 01 11:51:02 +0000 2018",
+   "text": "Wanna know what #PWA features are available on your target platforms?\n\n• https://t.co/XToyU6c6Ct: click Show all\n•… https://t.co/da0bfry9Sj",
+   "retweet_count": 5,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XToyU6c6Ct",
+     "expand": "http://caniuse.com"
+    },
+    {
+     "url": "https://t.co/da0bfry9Sj",
+     "expand": "https://twitter.com/i/web/status/969178191880433664"
+    }
+   ]
+  },
+  {
+   "id": 969176364220866600,
+   "id_str": "969176364220866560",
+   "created_at": "Thu Mar 01 11:43:46 +0000 2018",
+   "text": "@NimrodNate • Yes to https://t.co/qbBfzEaz5R.\n• https://t.co/QuPnY8XAl3 is good for APIs related to Service Worker.… https://t.co/RnMAB0VlMu",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969148957539688400,
+   "in_reply_to_status_id_str": "969148957539688448",
+   "in_reply_to_screen_name": "NimrodNate",
+   "urls": [
+    {
+     "url": "https://t.co/qbBfzEaz5R",
+     "expand": "http://whatwebcando.today"
+    },
+    {
+     "url": "https://t.co/QuPnY8XAl3",
+     "expand": "http://jakearchibald.github.io/isserviceworkerready"
+    },
+    {
+     "url": "https://t.co/RnMAB0VlMu",
+     "expand": "https://twitter.com/i/web/status/969176364220866560"
+    }
+   ]
+  },
+  {
+   "id": 969173931700535300,
+   "id_str": "969173931700535296",
+   "created_at": "Thu Mar 01 11:34:06 +0000 2018",
+   "text": "@ithinkihaveacat showing off some great PWAs at London #pwaroadshow https://t.co/glDhtAewC5",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "ithinkihaveacat",
+   "urls": []
+  },
+  {
+   "id": 969171999003201500,
+   "id_str": "969171999003201536",
+   "created_at": "Thu Mar 01 11:26:25 +0000 2018",
+   "text": "👍👍 @rowan_m talking PWA #pwaroadshow https://t.co/hlKcQfMk73",
+   "retweet_count": 3,
+   "favorite_count": 11,
+   "place": "Camden Town, London",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 968911285986496500,
+   "id_str": "968911285986496512",
+   "created_at": "Wed Feb 28 18:10:26 +0000 2018",
+   "text": "I'll be there too — despite snow, sleet or caching bugs. https://t.co/OxgIxFXu6S",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/OxgIxFXu6S",
+     "expand": "https://twitter.com/rowan_m/status/968864522227286016"
+    }
+   ]
+  },
+  {
+   "id": 968864002221723600,
+   "id_str": "968864002221723648",
+   "created_at": "Wed Feb 28 15:02:33 +0000 2018",
+   "text": "RT @brucel: Using Firefox Send to send a chum a 1 GB file - it generates a link that expires after 24 hours or 1 download https://t.co/7WlN…",
+   "retweet_count": 30,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968861742897029100,
+    "id_str": "968861742897029126",
+    "created_at": "Wed Feb 28 14:53:34 +0000 2018",
+    "text": "Using Firefox Send to send a chum a 1 GB file - it generates a link that expires after 24 hours or 1 download https://t.co/7WlNu92brr",
+    "retweet_count": 30,
+    "favorite_count": 38,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7WlNu92brr",
+      "expand": "https://send.firefox.com/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968760373120766000,
+   "id_str": "968760373120765952",
+   "created_at": "Wed Feb 28 08:10:46 +0000 2018",
+   "text": "RT @bgalbs: Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive it forward.…",
+   "retweet_count": 103,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968714821628780500,
+    "id_str": "968714821628780544",
+    "created_at": "Wed Feb 28 05:09:45 +0000 2018",
+    "text": "Love the web? Wanna join us in making it better? We've got some big plans and I need some awesome PMs to help drive… https://t.co/uaqiVrXU1y",
+    "retweet_count": 103,
+    "favorite_count": 266,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/uaqiVrXU1y",
+      "expand": "https://twitter.com/i/web/status/968714821628780544"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968578252318142500,
+   "id_str": "968578252318142464",
+   "created_at": "Tue Feb 27 20:07:05 +0000 2018",
+   "text": "RT @TonyChurnside: Sound supervisors mixing the darts on live TV often use the signal from a contact mic fixed behind the dart board to tri…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968521377203531800,
+    "id_str": "968521377203531779",
+    "created_at": "Tue Feb 27 16:21:05 +0000 2018",
+    "text": "Sound supervisors mixing the darts on live TV often use the signal from a contact mic fixed behind the dart board t… https://t.co/Hr0NpeL70g",
+    "retweet_count": 3,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Hr0NpeL70g",
+      "expand": "https://twitter.com/i/web/status/968521377203531779"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968472628573896700,
+   "id_str": "968472628573896705",
+   "created_at": "Tue Feb 27 13:07:22 +0000 2018",
+   "text": "@jennylg Same in South Australia — and with a great, clean 'rain smell' you certainly don't get in London :).",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Camden Town, London",
+   "in_reply_to_status_id": 968291726329720800,
+   "in_reply_to_status_id_str": "968291726329720832",
+   "in_reply_to_screen_name": "jennylg",
+   "urls": []
+  },
+  {
+   "id": 968171202014564400,
+   "id_str": "968171202014564352",
+   "created_at": "Mon Feb 26 17:09:36 +0000 2018",
+   "text": "RT @VincentCourson: Et comment ai-je pu oublier @devnook, qui sera également à Paris le 13 !",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968129160035094500,
+    "id_str": "968129160035094529",
+    "created_at": "Mon Feb 26 14:22:33 +0000 2018",
+    "text": "Et comment ai-je pu oublier @devnook, qui sera également à Paris le 13 !",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": 968127688123830300,
+    "in_reply_to_status_id_str": "968127688123830272",
+    "in_reply_to_screen_name": "VincentCourson",
+    "urls": []
+   }
+  },
+  {
+   "id": 968171129591533600,
+   "id_str": "968171129591533574",
+   "created_at": "Mon Feb 26 17:09:19 +0000 2018",
+   "text": "RT @VincentCourson: #ProgressiveWebApp Roadshow à @GoogleFR le 13 mars.\n\nAvec @sw12, @petele, @rowan_m qui parleront de #ServiceWorkers, #P…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968127688123830300,
+    "id_str": "968127688123830272",
+    "created_at": "Mon Feb 26 14:16:42 +0000 2018",
+    "text": "#ProgressiveWebApp Roadshow à @GoogleFR le 13 mars.\n\nAvec @sw12, @petele, @rowan_m qui parleront de #ServiceWorkers… https://t.co/IXU09Frw5w",
+    "retweet_count": 11,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IXU09Frw5w",
+      "expand": "https://twitter.com/i/web/status/968127688123830272"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968134756213895200,
+   "id_str": "968134756213895168",
+   "created_at": "Mon Feb 26 14:44:47 +0000 2018",
+   "text": "RT @robertnyman: We're doing PWA Roadshows in Munich Mar 8th and Paris Mar 13th. We have some extra seats, so if you can attend, I highly r…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968097327004246000,
+    "id_str": "968097327004246018",
+    "created_at": "Mon Feb 26 12:16:03 +0000 2018",
+    "text": "We're doing PWA Roadshows in Munich Mar 8th and Paris Mar 13th. We have some extra seats, so if you can attend, I h… https://t.co/oF0IUb4hqU",
+    "retweet_count": 21,
+    "favorite_count": 30,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oF0IUb4hqU",
+      "expand": "https://twitter.com/i/web/status/968097327004246018"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968083966870937600,
+   "id_str": "968083966870937601",
+   "created_at": "Mon Feb 26 11:22:58 +0000 2018",
+   "text": "@timbray Superb. \n\nJust thinking yesterday what an astonishing recording Folk Singer is: https://t.co/UKyEnk3DC4\n\nA… https://t.co/HGfRPMhHIq",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967852609041137700,
+   "in_reply_to_status_id_str": "967852609041137664",
+   "in_reply_to_screen_name": "timbray",
+   "urls": [
+    {
+     "url": "https://t.co/UKyEnk3DC4",
+     "expand": "https://youtu.be/3sjzp6nGw-w"
+    },
+    {
+     "url": "https://t.co/HGfRPMhHIq",
+     "expand": "https://twitter.com/i/web/status/968083966870937601"
+    }
+   ]
+  },
+  {
+   "id": 968079137591177200,
+   "id_str": "968079137591177217",
+   "created_at": "Mon Feb 26 11:03:47 +0000 2018",
+   "text": "@tds153 @Alan_Measles My thoughts entirely! Wanted to hear more about the colour vision test done on the train :).… https://t.co/Qdkcyk905f",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968061319919341600,
+   "in_reply_to_status_id_str": "968061319919341569",
+   "in_reply_to_screen_name": "tds153",
+   "urls": [
+    {
+     "url": "https://t.co/Qdkcyk905f",
+     "expand": "https://twitter.com/i/web/status/968079137591177217"
+    }
+   ]
+  },
+  {
+   "id": 968060148022378500,
+   "id_str": "968060148022378497",
+   "created_at": "Mon Feb 26 09:48:19 +0000 2018",
+   "text": "RT @firt: Nokia Operating Systems\n\nPEN/GEOS—1996-2000\nSeries40—1999-2013\nSymbian/S60—2001-2012\nSeries30—2003-2014\nMaemo—2005-2010\nWin7—2007…",
+   "retweet_count": 47,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967931649756467200,
+    "id_str": "967931649756467200",
+    "created_at": "Mon Feb 26 01:17:43 +0000 2018",
+    "text": "Nokia Operating Systems\n\nPEN/GEOS—1996-2000\nSeries40—1999-2013\nSymbian/S60—2001-2012\nSeries30—2003-2014\nMaemo—2005-… https://t.co/mIk1qyQ35f",
+    "retweet_count": 47,
+    "favorite_count": 84,
+    "place": "Ciudad Autónoma de Buenos Aires, Argentina",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/mIk1qyQ35f",
+      "expand": "https://twitter.com/i/web/status/967931649756467200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967886446169329700,
+   "id_str": "967886446169329664",
+   "created_at": "Sun Feb 25 22:18:05 +0000 2018",
+   "text": "RT @davidhepworth: Got to hand it to @BBCTheArchers. Tragedy works best when it comes out a clear blue sky.",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967116382113550300,
+    "id_str": "967116382113550337",
+    "created_at": "Fri Feb 23 19:18:08 +0000 2018",
+    "text": "Got to hand it to @BBCTheArchers. Tragedy works best when it comes out a clear blue sky.",
+    "retweet_count": 3,
+    "favorite_count": 34,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 967000995363422200,
+   "id_str": "967000995363422208",
+   "created_at": "Fri Feb 23 11:39:37 +0000 2018",
+   "text": "@wwcommon @TootingCommon Oh... That's really sad news. Cats, foxes and cold weather, I guess.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Camden Town, London",
+   "in_reply_to_status_id": 966714717350907900,
+   "in_reply_to_status_id_str": "966714717350907904",
+   "in_reply_to_screen_name": "wwcommon",
+   "urls": []
+  },
+  {
+   "id": 966968180269895700,
+   "id_str": "966968180269895681",
+   "created_at": "Fri Feb 23 09:29:14 +0000 2018",
+   "text": "@cramforce Sress-eating or the stress of eating?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966897703748644900,
+   "in_reply_to_status_id_str": "966897703748644867",
+   "in_reply_to_screen_name": "cramforce",
+   "urls": []
+  },
   {
    "id": 966760853675692000,
    "id_str": "966760853675692033",
    "created_at": "Thu Feb 22 19:45:23 +0000 2018",
    "text": "RT @NoorFSiddiqui: The number of scientific publications from China in 2016 outnumbered those from the US for the first time: 426,000 versu…",
-   "retweet_count": 9,
+   "retweet_count": 10,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,7 +2293,7 @@
     "id_str": "966149022560866304",
     "created_at": "Wed Feb 21 03:14:11 +0000 2018",
     "text": "The number of scientific publications from China in 2016 outnumbered those from the US for the first time: 426,000… https://t.co/maO0XzJODk",
-    "retweet_count": 9,
+    "retweet_count": 10,
     "favorite_count": 11,
     "place": null,
     "in_reply_to_status_id": null,
@@ -28,169 +2303,6 @@
      {
       "url": "https://t.co/maO0XzJODk",
       "expand": "https://twitter.com/i/web/status/966149022560866304"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966721047948079100,
-   "id_str": "966721047948079104",
-   "created_at": "Thu Feb 22 17:07:13 +0000 2018",
-   "text": "💂‍♀️📯💂‍♂️ London Progressive Web App Roadshow 💂‍♀️📯💂‍♂️\n\nNext Thursday, 1 March: https://t.co/JSFhltlE62\nGreat spea… https://t.co/9uQtVMQSCu",
-   "retweet_count": 5,
-   "favorite_count": 6,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/JSFhltlE62",
-     "expand": "http://events.withgoogle.com/pwa-roadshow-london"
-    },
-    {
-     "url": "https://t.co/9uQtVMQSCu",
-     "expand": "https://twitter.com/i/web/status/966721047948079104"
-    }
-   ]
-  },
-  {
-   "id": 966644329849778200,
-   "id_str": "966644329849778176",
-   "created_at": "Thu Feb 22 12:02:22 +0000 2018",
-   "text": "RT @poisonaavi: In Bangalore, we have Work-Traffic balance.",
-   "retweet_count": 252,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966310175832399900,
-    "id_str": "966310175832399872",
-    "created_at": "Wed Feb 21 13:54:33 +0000 2018",
-    "text": "In Bangalore, we have Work-Traffic balance.",
-    "retweet_count": 252,
-    "favorite_count": 602,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 966621349933445100,
-   "id_str": "966621349933445120",
-   "created_at": "Thu Feb 22 10:31:03 +0000 2018",
-   "text": "Love this quote from Ada Lovelace: \n\n'We may say most aptly that the Analytical Engine weaves algebraical patterns… https://t.co/vq4A5E5mNy",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/vq4A5E5mNy",
-     "expand": "https://twitter.com/i/web/status/966621349933445120"
-    }
-   ]
-  },
-  {
-   "id": 965925176989896700,
-   "id_str": "965925176989896704",
-   "created_at": "Tue Feb 20 12:24:42 +0000 2018",
-   "text": "RT @AeroDork: Ever wonder what happens when you yank the pull cord on an aircraft emergency slide?\n\nWonder no more. https://t.co/872diWGEGQ",
-   "retweet_count": 7876,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964188806386663400,
-    "id_str": "964188806386663424",
-    "created_at": "Thu Feb 15 17:24:59 +0000 2018",
-    "text": "Ever wonder what happens when you yank the pull cord on an aircraft emergency slide?\n\nWonder no more. https://t.co/872diWGEGQ",
-    "retweet_count": 7876,
-    "favorite_count": 15994,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 965589339018334200,
-   "id_str": "965589339018334208",
-   "created_at": "Mon Feb 19 14:10:12 +0000 2018",
-   "text": "RT @igrigorik: Let's Learn About Waveforms: https://t.co/tXmj4rivFQ — awesome interactive guide through fundamental physics of sound. https…",
-   "retweet_count": 92,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/tXmj4rivFQ",
-     "expand": "http://bit.ly/2o9e4cL"
-    }
-   ],
-   "retweeted_status": {
-    "id": 965424199069257700,
-    "id_str": "965424199069257728",
-    "created_at": "Mon Feb 19 03:14:00 +0000 2018",
-    "text": "Let's Learn About Waveforms: https://t.co/tXmj4rivFQ — awesome interactive guide through fundamental physics of sou… https://t.co/jJzgjJ5xCL",
-    "retweet_count": 92,
-    "favorite_count": 313,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/tXmj4rivFQ",
-      "expand": "http://bit.ly/2o9e4cL"
-     },
-     {
-      "url": "https://t.co/jJzgjJ5xCL",
-      "expand": "https://twitter.com/i/web/status/965424199069257728"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965589335583219700,
-   "id_str": "965589335583219712",
-   "created_at": "Mon Feb 19 14:10:12 +0000 2018",
-   "text": "RT @ChromiumDev: Come to the Europe Progressive Web Apps Roadshow focused on e-commerce at Google. \n\nFind out how and why to develop PWAs f…",
-   "retweet_count": 29,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965557608743624700,
-    "id_str": "965557608743624707",
-    "created_at": "Mon Feb 19 12:04:07 +0000 2018",
-    "text": "Come to the Europe Progressive Web Apps Roadshow focused on e-commerce at Google. \n\nFind out how and why to develop… https://t.co/rz1qg0h05m",
-    "retweet_count": 29,
-    "favorite_count": 57,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/rz1qg0h05m",
-      "expand": "https://twitter.com/i/web/status/965557608743624707"
      }
     ]
    }

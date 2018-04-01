@@ -1,12 +1,871 @@
 {
- "time": 1519367052663,
+ "time": 1522594972902,
  "lists": [
+  {
+   "id": 979497907291242500,
+   "id_str": "979497907291242496",
+   "created_at": "Thu Mar 29 23:17:53 +0000 2018",
+   "text": "RT @richturn_ms: Great post buy Nolan Lawson on how moving to Windows for his open-source dev' work has been made much easier by #WSL :) :…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979486375320862700,
+    "id_str": "979486375320862721",
+    "created_at": "Thu Mar 29 22:32:04 +0000 2018",
+    "text": "Great post buy Nolan Lawson on how moving to Windows for his open-source dev' work has been made much easier by… https://t.co/zJnnYgWVjB",
+    "retweet_count": 15,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zJnnYgWVjB",
+      "expand": "https://twitter.com/i/web/status/979486375320862721"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979497197723992000,
+   "id_str": "979497197723992064",
+   "created_at": "Thu Mar 29 23:15:04 +0000 2018",
+   "text": "@Lone1183 @MicrosoftEdge The best bet for features like this is to share your feedback via the Send Feedback option… https://t.co/QtZZearitZ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 979370390970622000,
+   "in_reply_to_status_id_str": "979370390970621953",
+   "in_reply_to_screen_name": "Lone1183",
+   "urls": [
+    {
+     "url": "https://t.co/QtZZearitZ",
+     "expand": "https://twitter.com/i/web/status/979497197723992064"
+    }
+   ]
+  },
+  {
+   "id": 979053454055239700,
+   "id_str": "979053454055239681",
+   "created_at": "Wed Mar 28 17:51:48 +0000 2018",
+   "text": "RT @jdalton: With over a million downloads, thousands of commits, and the tremendous help of early adopters and the JavaScript community, t…",
+   "retweet_count": 134,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979052310843174900,
+    "id_str": "979052310843174913",
+    "created_at": "Wed Mar 28 17:47:15 +0000 2018",
+    "text": "With over a million downloads, thousands of commits, and the tremendous help of early adopters and the JavaScript c… https://t.co/T5wYsLLm28",
+    "retweet_count": 134,
+    "favorite_count": 378,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/T5wYsLLm28",
+      "expand": "https://twitter.com/i/web/status/979052310843174913"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978756485273436200,
+   "id_str": "978756485273436160",
+   "created_at": "Tue Mar 27 22:11:45 +0000 2018",
+   "text": "@pressrelease @windowsdev We don't currently offer a bug bounty for non-security bugs. If you run into broken sites… https://t.co/yuvXQXpPi0",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 978681328303566800,
+   "in_reply_to_status_id_str": "978681328303566851",
+   "in_reply_to_screen_name": "pressrelease",
+   "urls": [
+    {
+     "url": "https://t.co/yuvXQXpPi0",
+     "expand": "https://twitter.com/i/web/status/978756485273436160"
+    }
+   ]
+  },
+  {
+   "id": 976913084605382700,
+   "id_str": "976913084605382656",
+   "created_at": "Thu Mar 22 20:06:44 +0000 2018",
+   "text": "RT @webrendyn: I'm stoked to introduce the web to the Edge DevTools Protocol (\"EDP\"): https://t.co/3ZWe9DxcuO\n\nLast year we began a W3C con…",
+   "retweet_count": 81,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3ZWe9DxcuO",
+     "expand": "https://docs.microsoft.com/en-us/microsoft-edge/devtools-protocol/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976911976772202500,
+    "id_str": "976911976772202498",
+    "created_at": "Thu Mar 22 20:02:20 +0000 2018",
+    "text": "I'm stoked to introduce the web to the Edge DevTools Protocol (\"EDP\"): https://t.co/3ZWe9DxcuO\n\nLast year we began… https://t.co/5DbNnlJtC4",
+    "retweet_count": 81,
+    "favorite_count": 184,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3ZWe9DxcuO",
+      "expand": "https://docs.microsoft.com/en-us/microsoft-edge/devtools-protocol/"
+     },
+     {
+      "url": "https://t.co/5DbNnlJtC4",
+      "expand": "https://twitter.com/i/web/status/976911976772202498"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976584060779688000,
+   "id_str": "976584060779687936",
+   "created_at": "Wed Mar 21 22:19:18 +0000 2018",
+   "text": "We've updated our free virtual machines with the latest preview build of EdgeHTML 17 (17127), including support for… https://t.co/6Y7L4dP9e0",
+   "retweet_count": 70,
+   "favorite_count": 154,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6Y7L4dP9e0",
+     "expand": "https://twitter.com/i/web/status/976584060779687936"
+    }
+   ]
+  },
+  {
+   "id": 976536544294051800,
+   "id_str": "976536544294051840",
+   "created_at": "Wed Mar 21 19:10:29 +0000 2018",
+   "text": "RT @gregwhitworth: Pretty exciting, as of Chrome 66, you can use format(*-variations) - eg(format(truetype-variations)) within @font-face a…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976533361299677200,
+    "id_str": "976533361299677185",
+    "created_at": "Wed Mar 21 18:57:51 +0000 2018",
+    "text": "Pretty exciting, as of Chrome 66, you can use format(*-variations) - eg(format(truetype-variations)) within @font-f… https://t.co/Ql2Wp0KcB4",
+    "retweet_count": 13,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ql2Wp0KcB4",
+      "expand": "https://twitter.com/i/web/status/976533361299677185"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976467282573410300,
+   "id_str": "976467282573410305",
+   "created_at": "Wed Mar 21 14:35:16 +0000 2018",
+   "text": "@svgeesus The following issue was created based on your tweet: https://t.co/o4Ju4GJRHS",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971529981552726000,
+   "in_reply_to_status_id_str": "971529981552726016",
+   "in_reply_to_screen_name": "svgeesus",
+   "urls": [
+    {
+     "url": "https://t.co/o4Ju4GJRHS",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16496557"
+    }
+   ]
+  },
+  {
+   "id": 976467242002014200,
+   "id_str": "976467242002014208",
+   "created_at": "Wed Mar 21 14:35:07 +0000 2018",
+   "text": "@AmeliasBrain The following issue was created based on your tweet: https://t.co/SrUAIdLKkg",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 975136550978691100,
+   "in_reply_to_status_id_str": "975136550978691072",
+   "in_reply_to_screen_name": "AmeliasBrain",
+   "urls": [
+    {
+     "url": "https://t.co/SrUAIdLKkg",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16496551"
+    }
+   ]
+  },
+  {
+   "id": 976467217612075000,
+   "id_str": "976467217612075010",
+   "created_at": "Wed Mar 21 14:35:01 +0000 2018",
+   "text": "@Silicon_Soldier The following issue was created based on your tweet: https://t.co/vTQk9wtBpc",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 973801573490061300,
+   "in_reply_to_status_id_str": "973801573490061314",
+   "in_reply_to_screen_name": "Silicon_Soldier",
+   "urls": [
+    {
+     "url": "https://t.co/vTQk9wtBpc",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16496550"
+    }
+   ]
+  },
+  {
+   "id": 976467199060672500,
+   "id_str": "976467199060672513",
+   "created_at": "Wed Mar 21 14:34:56 +0000 2018",
+   "text": "@anatudor The following issue was created based on your tweet: https://t.co/1ucnukELzR",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 974358420940877800,
+   "in_reply_to_status_id_str": "974358420940877824",
+   "in_reply_to_screen_name": "anatudor",
+   "urls": [
+    {
+     "url": "https://t.co/1ucnukELzR",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16496545"
+    }
+   ]
+  },
+  {
+   "id": 976145353622700000,
+   "id_str": "976145353622700032",
+   "created_at": "Tue Mar 20 17:16:02 +0000 2018",
+   "text": "@cfiloteo12 Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971454346238947300,
+   "in_reply_to_status_id_str": "971454346238947328",
+   "in_reply_to_screen_name": "cfiloteo12",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 975914268099948500,
+   "id_str": "975914268099948544",
+   "created_at": "Tue Mar 20 01:57:47 +0000 2018",
+   "text": "RT @sfhtml5: There is still space available for this Friday's \"Modern web tooling and the future of debugging\" event with great speakers fr…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975910962833211400,
+    "id_str": "975910962833211392",
+    "created_at": "Tue Mar 20 01:44:39 +0000 2018",
+    "text": "There is still space available for this Friday's \"Modern web tooling and the future of debugging\" event with great… https://t.co/oz4asKAQAX",
+    "retweet_count": 13,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oz4asKAQAX",
+      "expand": "https://twitter.com/i/web/status/975910962833211392"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974728268224987100,
+   "id_str": "974728268224987136",
+   "created_at": "Fri Mar 16 19:25:03 +0000 2018",
+   "text": "RT @Real_CSS_Tricks: Microsoft Edge Variable Fonts Demo https://t.co/FgHjbu08fG https://t.co/NSHKrRv1Nd",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FgHjbu08fG",
+     "expand": "https://css-tricks.com/microsoft-edge-variable-fonts-demo/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974697931608592400,
+    "id_str": "974697931608592385",
+    "created_at": "Fri Mar 16 17:24:30 +0000 2018",
+    "text": "Microsoft Edge Variable Fonts Demo https://t.co/FgHjbu08fG https://t.co/NSHKrRv1Nd",
+    "retweet_count": 18,
+    "favorite_count": 71,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FgHjbu08fG",
+      "expand": "https://css-tricks.com/microsoft-edge-variable-fonts-demo/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973623726204858400,
+   "id_str": "973623726204858368",
+   "created_at": "Tue Mar 13 18:16:00 +0000 2018",
+   "text": "Variable Fonts allow single font files to vary along multiple axes, bringing expressive, performant typography to t… https://t.co/TmUdS8df84",
+   "retweet_count": 13,
+   "favorite_count": 37,
+   "place": null,
+   "in_reply_to_status_id": 973623723889590300,
+   "in_reply_to_status_id_str": "973623723889590272",
+   "in_reply_to_screen_name": "MSEdgeDev",
+   "urls": [
+    {
+     "url": "https://t.co/TmUdS8df84",
+     "expand": "https://twitter.com/i/web/status/973623726204858368"
+    }
+   ]
+  },
+  {
+   "id": 973623723889590300,
+   "id_str": "973623723889590272",
+   "created_at": "Tue Mar 13 18:15:59 +0000 2018",
+   "text": "Our new Variable Fonts demo takes you on an expedition to learn how to build expressive typographic experiences wit… https://t.co/jMJtC3qJjg",
+   "retweet_count": 87,
+   "favorite_count": 181,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jMJtC3qJjg",
+     "expand": "https://twitter.com/i/web/status/973623723889590272"
+    }
+   ]
+  },
+  {
+   "id": 971505570841702400,
+   "id_str": "971505570841702400",
+   "created_at": "Wed Mar 07 21:59:12 +0000 2018",
+   "text": "@a_arknu @James_M_South We care! It may have been missed in triage - I've poked the issue internally to make sure it gets looked at.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971504702679666700,
+   "in_reply_to_status_id_str": "971504702679666688",
+   "in_reply_to_screen_name": "a_arknu",
+   "urls": []
+  },
+  {
+   "id": 971504582084841500,
+   "id_str": "971504582084841472",
+   "created_at": "Wed Mar 07 21:55:16 +0000 2018",
+   "text": "@SonofNun @WindowsDocs We expect to post a blog on this next week with some examples - in the meantime, see the doc… https://t.co/vVBlMpP827",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971458089508622300,
+   "in_reply_to_status_id_str": "971458089508622336",
+   "in_reply_to_screen_name": "SonofNun",
+   "urls": [
+    {
+     "url": "https://t.co/vVBlMpP827",
+     "expand": "https://twitter.com/i/web/status/971504582084841472"
+    }
+   ]
+  },
+  {
+   "id": 971503967145308200,
+   "id_str": "971503967145308161",
+   "created_at": "Wed Mar 07 21:52:50 +0000 2018",
+   "text": "@_gpatel @molant Cheers! A good way to stay up to date on these is to follow https://t.co/4GuoJYzROC or https://t.co/THvt6EQg9t.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971483489336926200,
+   "in_reply_to_status_id_str": "971483489336926208",
+   "in_reply_to_screen_name": "_gpatel",
+   "urls": [
+    {
+     "url": "https://t.co/4GuoJYzROC",
+     "expand": "https://status.microsoftedge.com"
+    },
+    {
+     "url": "https://t.co/THvt6EQg9t",
+     "expand": "https://blog.microsoftedge.com"
+    }
+   ]
+  },
+  {
+   "id": 971503627658408000,
+   "id_str": "971503627658407936",
+   "created_at": "Wed Mar 07 21:51:29 +0000 2018",
+   "text": "@James_M_South We have a bug on this from Insider feedback and are actively investigating. If you can file a report… https://t.co/uTZJcettwF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971248804677681200,
+   "in_reply_to_status_id_str": "971248804677681152",
+   "in_reply_to_screen_name": "James_M_South",
+   "urls": [
+    {
+     "url": "https://t.co/uTZJcettwF",
+     "expand": "https://twitter.com/i/web/status/971503627658407936"
+    }
+   ]
+  },
+  {
+   "id": 971502097001734100,
+   "id_str": "971502097001734144",
+   "created_at": "Wed Mar 07 21:45:24 +0000 2018",
+   "text": "@a_arknu @James_M_South Have you filed a bug (https://t.co/1X79uQHiPj or the Feedback Hub) app on this issue? We'll… https://t.co/YbRzDktJSy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971268544267804700,
+   "in_reply_to_status_id_str": "971268544267804673",
+   "in_reply_to_screen_name": "a_arknu",
+   "urls": [
+    {
+     "url": "https://t.co/1X79uQHiPj",
+     "expand": "http://issues.microsoftedge.com"
+    },
+    {
+     "url": "https://t.co/YbRzDktJSy",
+     "expand": "https://twitter.com/i/web/status/971502097001734144"
+    }
+   ]
+  },
+  {
+   "id": 971501518460395500,
+   "id_str": "971501518460395521",
+   "created_at": "Wed Mar 07 21:43:06 +0000 2018",
+   "text": "@schalkneethling We'll get this added to the Status page. It's on our backlog, but at the time being it's a fairly… https://t.co/owWZWIg1Q2",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971437072056770600,
+   "in_reply_to_status_id_str": "971437072056770560",
+   "in_reply_to_screen_name": "schalkneethling",
+   "urls": [
+    {
+     "url": "https://t.co/owWZWIg1Q2",
+     "expand": "https://twitter.com/i/web/status/971501518460395521"
+    }
+   ]
+  },
+  {
+   "id": 971451023968542700,
+   "id_str": "971451023968542720",
+   "created_at": "Wed Mar 07 18:22:27 +0000 2018",
+   "text": "@eamodio If you can provide a reduction of the issue, the fastest (&amp; most helpful 😊) place is to file an issue at… https://t.co/3Msb54KtQn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971442590636826600,
+   "in_reply_to_status_id_str": "971442590636826635",
+   "in_reply_to_screen_name": "eamodio",
+   "urls": [
+    {
+     "url": "https://t.co/3Msb54KtQn",
+     "expand": "https://twitter.com/i/web/status/971451023968542720"
+    }
+   ]
+  },
+  {
+   "id": 969641676384829400,
+   "id_str": "969641676384829441",
+   "created_at": "Fri Mar 02 18:32:45 +0000 2018",
+   "text": "@Azayzel_ That's no good! Can you record a trace of the issue occurring in Feedback Hub and share the details there… https://t.co/LPOux4PGZh",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969203130499043300,
+   "in_reply_to_status_id_str": "969203130499043330",
+   "in_reply_to_screen_name": "Azayzel_",
+   "urls": [
+    {
+     "url": "https://t.co/LPOux4PGZh",
+     "expand": "https://twitter.com/i/web/status/969641676384829441"
+    }
+   ]
+  },
+  {
+   "id": 969640598704504800,
+   "id_str": "969640598704504833",
+   "created_at": "Fri Mar 02 18:28:28 +0000 2018",
+   "text": "@cromas Sorry for the confusion! The guidance is under \"I tweeted a question to #EdgeBug...\" on that page. \n\nAny ch… https://t.co/pt2H03TIkl",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969393704736669700,
+   "in_reply_to_status_id_str": "969393704736669696",
+   "in_reply_to_screen_name": "cromas",
+   "urls": [
+    {
+     "url": "https://t.co/pt2H03TIkl",
+     "expand": "https://twitter.com/i/web/status/969640598704504833"
+    }
+   ]
+  },
+  {
+   "id": 969618335762612200,
+   "id_str": "969618335762612225",
+   "created_at": "Fri Mar 02 17:00:00 +0000 2018",
+   "text": "-webkit-line-clamp is coming to Microsoft Edge with EdgeHTML 17 - you can preview it today in Windows Insider Previ… https://t.co/oPji4HIkSR",
+   "retweet_count": 29,
+   "favorite_count": 69,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oPji4HIkSR",
+     "expand": "https://twitter.com/i/web/status/969618335762612225"
+    }
+   ]
+  },
+  {
+   "id": 969253277886963700,
+   "id_str": "969253277886963713",
+   "created_at": "Thu Mar 01 16:49:23 +0000 2018",
+   "text": "@seesee Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 967400144269467600,
+   "in_reply_to_status_id_str": "967400144269467648",
+   "in_reply_to_screen_name": "seesee",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969253182445568000,
+   "id_str": "969253182445568000",
+   "created_at": "Thu Mar 01 16:49:01 +0000 2018",
+   "text": "@cromas Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964602776616542200,
+   "in_reply_to_status_id_str": "964602776616542208",
+   "in_reply_to_screen_name": "cromas",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969253132373868500,
+   "id_str": "969253132373868545",
+   "created_at": "Thu Mar 01 16:48:49 +0000 2018",
+   "text": "@StuJubb Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 965980573532606500,
+   "in_reply_to_status_id_str": "965980573532606464",
+   "in_reply_to_screen_name": "StuJubb",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969252703367962600,
+   "id_str": "969252703367962624",
+   "created_at": "Thu Mar 01 16:47:06 +0000 2018",
+   "text": "@davemethvin The following issue was created based on your tweet: https://t.co/OqSea5G8Bz",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 968178940182396900,
+   "in_reply_to_status_id_str": "968178940182396929",
+   "in_reply_to_screen_name": "davemethvin",
+   "urls": [
+    {
+     "url": "https://t.co/OqSea5G8Bz",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16171686"
+    }
+   ]
+  },
+  {
+   "id": 969252542268948500,
+   "id_str": "969252542268948480",
+   "created_at": "Thu Mar 01 16:46:28 +0000 2018",
+   "text": "@seesee Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 962382402034204700,
+   "in_reply_to_status_id_str": "962382402034204673",
+   "in_reply_to_screen_name": "seesee",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969252432239718400,
+   "id_str": "969252432239718400",
+   "created_at": "Thu Mar 01 16:46:02 +0000 2018",
+   "text": "@bterlson Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 966091336762847200,
+   "in_reply_to_status_id_str": "966091336762847238",
+   "in_reply_to_screen_name": "bterlson",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969252351616852000,
+   "id_str": "969252351616851969",
+   "created_at": "Thu Mar 01 16:45:43 +0000 2018",
+   "text": "@YUKiYURi_WEB Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 959632797047472100,
+   "in_reply_to_status_id_str": "959632797047472128",
+   "in_reply_to_screen_name": "YUKiYURi_WEB",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969252333879156700,
+   "id_str": "969252333879156737",
+   "created_at": "Thu Mar 01 16:45:38 +0000 2018",
+   "text": "@seesee The following issue was created based on your tweet: https://t.co/DnqeAc7W3r",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 958340537936990200,
+   "in_reply_to_status_id_str": "958340537936990208",
+   "in_reply_to_screen_name": "seesee",
+   "urls": [
+    {
+     "url": "https://t.co/DnqeAc7W3r",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16171663"
+    }
+   ]
+  },
+  {
+   "id": 969252029011968000,
+   "id_str": "969252029011968000",
+   "created_at": "Thu Mar 01 16:44:26 +0000 2018",
+   "text": "@kizmarh Thanks for your feedback! We need a little more info to finish creating this — see https://t.co/LsaGvxzqil for details",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 964263308223287300,
+   "in_reply_to_status_id_str": "964263308223287296",
+   "in_reply_to_screen_name": "kizmarh",
+   "urls": [
+    {
+     "url": "https://t.co/LsaGvxzqil",
+     "expand": "https://aka.ms/edgebug-help"
+    }
+   ]
+  },
+  {
+   "id": 969252027321626600,
+   "id_str": "969252027321626625",
+   "created_at": "Thu Mar 01 16:44:25 +0000 2018",
+   "text": "@m_gol The following issue was created based on your tweet: https://t.co/rtcaFyCbVn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 963829544405950500,
+   "in_reply_to_status_id_str": "963829544405950464",
+   "in_reply_to_screen_name": "m_gol",
+   "urls": [
+    {
+     "url": "https://t.co/rtcaFyCbVn",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16171643"
+    }
+   ]
+  },
+  {
+   "id": 969251777009733600,
+   "id_str": "969251777009733633",
+   "created_at": "Thu Mar 01 16:43:26 +0000 2018",
+   "text": "@seesee The following issue was created based on your tweet: https://t.co/MRG175bZAM",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 962383169172492300,
+   "in_reply_to_status_id_str": "962383169172492289",
+   "in_reply_to_screen_name": "seesee",
+   "urls": [
+    {
+     "url": "https://t.co/MRG175bZAM",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16171629"
+    }
+   ]
+  },
+  {
+   "id": 969251659514703900,
+   "id_str": "969251659514703872",
+   "created_at": "Thu Mar 01 16:42:58 +0000 2018",
+   "text": "@pepelsbey_ The following issue was created based on your tweet: https://t.co/3FAJmqf4kw",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 955929470216605700,
+   "in_reply_to_status_id_str": "955929470216605697",
+   "in_reply_to_screen_name": "pepelsbey_",
+   "urls": [
+    {
+     "url": "https://t.co/3FAJmqf4kw",
+     "expand": "https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/16171614"
+    }
+   ]
+  },
+  {
+   "id": 968568742673133600,
+   "id_str": "968568742673133568",
+   "created_at": "Tue Feb 27 19:29:18 +0000 2018",
+   "text": "@timothy003 Windows includes an app called Feedback Hub that helps you file feedback. If you select the \"Microsoft… https://t.co/A0geIyDuKJ",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 968284810576846800,
+   "in_reply_to_status_id_str": "968284810576846848",
+   "in_reply_to_screen_name": "timothy003",
+   "urls": [
+    {
+     "url": "https://t.co/A0geIyDuKJ",
+     "expand": "https://twitter.com/i/web/status/968568742673133568"
+    }
+   ]
+  },
+  {
+   "id": 968265001482969100,
+   "id_str": "968265001482969089",
+   "created_at": "Mon Feb 26 23:22:20 +0000 2018",
+   "text": "@timothy003 Would you mind recording a trace via the Feedback Hub app and sharing the link? We'll take a look on our end!",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967338484007604200,
+   "in_reply_to_status_id_str": "967338484007604225",
+   "in_reply_to_screen_name": "timothy003",
+   "urls": []
+  },
+  {
+   "id": 968264449999040500,
+   "id_str": "968264449999040512",
+   "created_at": "Mon Feb 26 23:20:09 +0000 2018",
+   "text": "@chad_bjcn + @instylevii who may be able to comment here",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 967966085306712000,
+   "in_reply_to_status_id_str": "967966085306712064",
+   "in_reply_to_screen_name": "chad_bjcn",
+   "urls": []
+  },
+  {
+   "id": 967168677459116000,
+   "id_str": "967168677459116032",
+   "created_at": "Fri Feb 23 22:45:56 +0000 2018",
+   "text": "RT @ifdefWINDOWS: Two lines of code to enable #WebVR with #BabylonJS and @davrous #vr #windowsdev #mixedreality https://t.co/jBnjxPx5Nt",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/jBnjxPx5Nt",
+     "expand": "http://youtu.be/UwhQA4v0lgA?a"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966371968432918500,
+    "id_str": "966371968432918534",
+    "created_at": "Wed Feb 21 18:00:06 +0000 2018",
+    "text": "Two lines of code to enable #WebVR with #BabylonJS and @davrous #vr #windowsdev #mixedreality https://t.co/jBnjxPx5Nt",
+    "retweet_count": 14,
+    "favorite_count": 16,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jBnjxPx5Nt",
+      "expand": "http://youtu.be/UwhQA4v0lgA?a"
+     }
+    ]
+   }
+  },
   {
    "id": 964930894195601400,
    "id_str": "964930894195601408",
    "created_at": "Sat Feb 17 18:33:47 +0000 2018",
    "text": "RT @kylealden: Playing with WebVR in Edge. Loving the seamless transitions from 2D web to VR web. https://t.co/KzoLifd6hA",
-   "retweet_count": 39,
+   "retweet_count": 42,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,32 +877,14 @@
     "id_str": "964926293165813760",
     "created_at": "Sat Feb 17 18:15:30 +0000 2018",
     "text": "Playing with WebVR in Edge. Loving the seamless transitions from 2D web to VR web. https://t.co/KzoLifd6hA",
-    "retweet_count": 39,
-    "favorite_count": 150,
+    "retweet_count": 42,
+    "favorite_count": 151,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": []
    }
-  },
-  {
-   "id": 964930809999142900,
-   "id_str": "964930809999142912",
-   "created_at": "Sat Feb 17 18:33:27 +0000 2018",
-   "text": "@patteale @Justinwillis96 @narwhalnellie is a JS Foundation project but some of our folks are active maintainers. I… https://t.co/P6gMqXW4Rj",
-   "retweet_count": 0,
-   "favorite_count": 2,
-   "place": null,
-   "in_reply_to_status_id": 964922162149806100,
-   "in_reply_to_status_id_str": "964922162149806080",
-   "in_reply_to_screen_name": "patteale",
-   "urls": [
-    {
-     "url": "https://t.co/P6gMqXW4Rj",
-     "expand": "https://twitter.com/i/web/status/964930809999142912"
-    }
-   ]
   }
  ]
 }

@@ -1,12 +1,912 @@
 {
- "time": 1519367042021,
+ "time": 1522594951728,
  "lists": [
+  {
+   "id": 976385815076106200,
+   "id_str": "976385815076106241",
+   "created_at": "Wed Mar 21 09:11:33 +0000 2018",
+   "text": "RT @paf31: Making some more progress on UIs based on incremental lambda calculus. Still lots to do, but this is promising! Every model chan…",
+   "retweet_count": 69,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976262739424305200,
+    "id_str": "976262739424305152",
+    "created_at": "Wed Mar 21 01:02:29 +0000 2018",
+    "text": "Making some more progress on UIs based on incremental lambda calculus. Still lots to do, but this is promising! Eve… https://t.co/jrNYtP93K9",
+    "retweet_count": 69,
+    "favorite_count": 253,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jrNYtP93K9",
+      "expand": "https://twitter.com/i/web/status/976262739424305152"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973597209945047000,
+   "id_str": "973597209945047041",
+   "created_at": "Tue Mar 13 16:30:38 +0000 2018",
+   "text": "RT @paf31: New blog post: You Might Not Need The Virtual DOM\nhttps://t.co/Z0RKhuNNlv",
+   "retweet_count": 127,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/Z0RKhuNNlv",
+     "expand": "http://blog.functorial.com/posts/2018-03-12-You-Might-Not-Need-The-Virtual-DOM.html"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973359321865101300,
+    "id_str": "973359321865101312",
+    "created_at": "Tue Mar 13 00:45:21 +0000 2018",
+    "text": "New blog post: You Might Not Need The Virtual DOM\nhttps://t.co/Z0RKhuNNlv",
+    "retweet_count": 127,
+    "favorite_count": 305,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Z0RKhuNNlv",
+      "expand": "http://blog.functorial.com/posts/2018-03-12-You-Might-Not-Need-The-Virtual-DOM.html"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973125116027600900,
+   "id_str": "973125116027600896",
+   "created_at": "Mon Mar 12 09:14:42 +0000 2018",
+   "text": "RT @nikgraf: Just finished creating all the examples and scripting my upcoming #ReasonML video course for @eggheadio and now focusing on re…",
+   "retweet_count": 51,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972926044020801500,
+    "id_str": "972926044020801536",
+    "created_at": "Sun Mar 11 20:03:39 +0000 2018",
+    "text": "Just finished creating all the examples and scripting my upcoming #ReasonML video course for @eggheadio and now foc… https://t.co/jXWYmlJd58",
+    "retweet_count": 51,
+    "favorite_count": 354,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/jXWYmlJd58",
+      "expand": "https://twitter.com/i/web/status/972926044020801536"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973123436229922800,
+   "id_str": "973123436229922817",
+   "created_at": "Mon Mar 12 09:08:01 +0000 2018",
+   "text": "RT @d_run: Continuations by example: Exceptions, time-traveling search, generators, threads, and coroutines - https://t.co/UwRFjp6hcJ\n\nCont…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/UwRFjp6hcJ",
+     "expand": "http://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 971361566875701200,
+    "id_str": "971361566875701253",
+    "created_at": "Wed Mar 07 12:26:59 +0000 2018",
+    "text": "Continuations by example: Exceptions, time-traveling search, generators, threads, and coroutines -… https://t.co/1XnGks4m6Y",
+    "retweet_count": 22,
+    "favorite_count": 78,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1XnGks4m6Y",
+      "expand": "https://twitter.com/i/web/status/971361566875701253"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972490282355839000,
+   "id_str": "972490282355838976",
+   "created_at": "Sat Mar 10 15:12:05 +0000 2018",
+   "text": "RT @practicingdev: @oligriffiths @zinyando I've written three books and have written thousands of articles. I've given dozens of talks.\n\nI…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972099979828514800,
+    "id_str": "972099979828514816",
+    "created_at": "Fri Mar 09 13:21:10 +0000 2018",
+    "text": "@oligriffiths @zinyando I've written three books and have written thousands of articles. I've given dozens of talks… https://t.co/1pASAT9S0d",
+    "retweet_count": 12,
+    "favorite_count": 50,
+    "place": null,
+    "in_reply_to_status_id": 972098879314415600,
+    "in_reply_to_status_id_str": "972098879314415617",
+    "in_reply_to_screen_name": "oligriffiths",
+    "urls": [
+     {
+      "url": "https://t.co/1pASAT9S0d",
+      "expand": "https://twitter.com/i/web/status/972099979828514816"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972180454232199200,
+   "id_str": "972180454232199169",
+   "created_at": "Fri Mar 09 18:40:57 +0000 2018",
+   "text": "RT @type__error: Like, obviously I love redux-saga but for a little app that makes one or two API calls it's probably overkill. I've used i…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972083780906291200,
+    "id_str": "972083780906291200",
+    "created_at": "Fri Mar 09 12:16:48 +0000 2018",
+    "text": "Like, obviously I love redux-saga but for a little app that makes one or two API calls it's probably overkill. I've… https://t.co/8sRYAEEo3S",
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "place": null,
+    "in_reply_to_status_id": 972082954460713000,
+    "in_reply_to_status_id_str": "972082954460712960",
+    "in_reply_to_screen_name": "type__error",
+    "urls": [
+     {
+      "url": "https://t.co/8sRYAEEo3S",
+      "expand": "https://twitter.com/i/web/status/972083780906291200"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972045614757408800,
+   "id_str": "972045614757408769",
+   "created_at": "Fri Mar 09 09:45:08 +0000 2018",
+   "text": "RT @paf31: Just added two more small purescript-sdom examples: \n1) how to use third-party components (canvas)\n2) how to create new higher-o…",
+   "retweet_count": 14,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971967247915741200,
+    "id_str": "971967247915741184",
+    "created_at": "Fri Mar 09 04:33:44 +0000 2018",
+    "text": "Just added two more small purescript-sdom examples: \n1) how to use third-party components (canvas)\n2) how to create… https://t.co/M9V8ExzjEK",
+    "retweet_count": 14,
+    "favorite_count": 75,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/M9V8ExzjEK",
+      "expand": "https://twitter.com/i/web/status/971967247915741184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971403527540166700,
+   "id_str": "971403527540166656",
+   "created_at": "Wed Mar 07 15:13:43 +0000 2018",
+   "text": "RT @AndaristRake: 2nd part of my guide on how to squeeze the most out of building libraries with @RollupJS, use those tips to make your lib…",
+   "retweet_count": 9,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971376983841046500,
+    "id_str": "971376983841046562",
+    "created_at": "Wed Mar 07 13:28:14 +0000 2018",
+    "text": "2nd part of my guide on how to squeeze the most out of building libraries with @RollupJS, use those tips to make yo… https://t.co/fIEyHFgUcV",
+    "retweet_count": 9,
+    "favorite_count": 32,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fIEyHFgUcV",
+      "expand": "https://twitter.com/i/web/status/971376983841046562"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970983547547914200,
+   "id_str": "970983547547914245",
+   "created_at": "Tue Mar 06 11:24:52 +0000 2018",
+   "text": "and the silly example is not to show how the feature can be used but just to illustrate how it works (that's why I'… https://t.co/VN30Ai2wkf",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970981261014634500,
+   "in_reply_to_status_id_str": "970981261014634496",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": [
+    {
+     "url": "https://t.co/VN30Ai2wkf",
+     "expand": "https://twitter.com/i/web/status/970983547547914245"
+    }
+   ]
+  },
+  {
+   "id": 970981261014634500,
+   "id_str": "970981261014634496",
+   "created_at": "Tue Mar 06 11:15:47 +0000 2018",
+   "text": "**WARNING** this uses undocumented API &amp; undocumented BUILD of React.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970980949868646400,
+   "in_reply_to_status_id_str": "970980949868646400",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 970980949868646400,
+   "id_str": "970980949868646400",
+   "created_at": "Tue Mar 06 11:14:33 +0000 2018",
+   "text": "hello suspense https://t.co/fjkf8y3qRV",
+   "retweet_count": 1,
+   "favorite_count": 7,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/fjkf8y3qRV",
+     "expand": "https://codesandbox.io/s/ql9m05yw7w"
+    }
+   ]
+  },
+  {
+   "id": 970958675325149200,
+   "id_str": "970958675325149184",
+   "created_at": "Tue Mar 06 09:46:02 +0000 2018",
+   "text": "RT @paf31: I published an initial version of my \"static DOM\" library and added documentation, here:\nhttps://t.co/PsBuOgqYew\nhttps://t.co/U4…",
+   "retweet_count": 18,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/PsBuOgqYew",
+     "expand": "https://pursuit.purescript.org/packages/purescript-sdom/0.1.0"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970877046610997200,
+    "id_str": "970877046610997249",
+    "created_at": "Tue Mar 06 04:21:40 +0000 2018",
+    "text": "I published an initial version of my \"static DOM\" library and added documentation, here:\nhttps://t.co/PsBuOgqYew\nhttps://t.co/U47jkLHpet",
+    "retweet_count": 18,
+    "favorite_count": 83,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/PsBuOgqYew",
+      "expand": "https://pursuit.purescript.org/packages/purescript-sdom/0.1.0"
+     },
+     {
+      "url": "https://t.co/U47jkLHpet",
+      "expand": "https://pursuit.purescript.org/packages/purescript-sdom/0.1.0/docs/SDOM"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970958487483240400,
+   "id_str": "970958487483240448",
+   "created_at": "Tue Mar 06 09:45:17 +0000 2018",
+   "text": "RT @acemarke: Pulling together a massive newsletter for tomorrow. If you're still trying to figure out what this \"React Suspense\" thing is,…",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970849802203418600,
+    "id_str": "970849802203418624",
+    "created_at": "Tue Mar 06 02:33:25 +0000 2018",
+    "text": "Pulling together a massive newsletter for tomorrow. If you're still trying to figure out what this \"React Suspense\"… https://t.co/8EOhlAkOYI",
+    "retweet_count": 4,
+    "favorite_count": 36,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8EOhlAkOYI",
+      "expand": "https://twitter.com/i/web/status/970849802203418624"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970948987997052900,
+   "id_str": "970948987997052929",
+   "created_at": "Tue Mar 06 09:07:32 +0000 2018",
+   "text": "@echoes2099 Not sure about this at least simple-cache-provider doesnt seem to work like this (I think it always ret… https://t.co/etOgHSwOAy",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970811599194935300,
+   "in_reply_to_status_id_str": "970811599194935296",
+   "in_reply_to_screen_name": "echoes2099",
+   "urls": [
+    {
+     "url": "https://t.co/etOgHSwOAy",
+     "expand": "https://twitter.com/i/web/status/970948987997052929"
+    }
+   ]
+  },
+  {
+   "id": 970763322520932400,
+   "id_str": "970763322520932352",
+   "created_at": "Mon Mar 05 20:49:46 +0000 2018",
+   "text": "@dan_abramov Ah I think I understand now what you mean when you said that preload is just an optimization. Seems a… https://t.co/uTOW7Afv77",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 970759074924126200,
+   "in_reply_to_status_id_str": "970759074924126209",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": [
+    {
+     "url": "https://t.co/uTOW7Afv77",
+     "expand": "https://twitter.com/i/web/status/970763322520932352"
+    }
+   ]
+  },
+  {
+   "id": 970758275468755000,
+   "id_str": "970758275468754945",
+   "created_at": "Mon Mar 05 20:29:43 +0000 2018",
+   "text": "@dan_abramov Hmm thinking about it the question doesnt make much sense. eg if w've already preloaded the img it see… https://t.co/4srcEiURx5",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970752047673937900,
+   "in_reply_to_status_id_str": "970752047673937925",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": [
+    {
+     "url": "https://t.co/4srcEiURx5",
+     "expand": "https://twitter.com/i/web/status/970758275468754945"
+    }
+   ]
+  },
+  {
+   "id": 970754606249730000,
+   "id_str": "970754606249730054",
+   "created_at": "Mon Mar 05 20:15:08 +0000 2018",
+   "text": "@dan_abramov Or perhaps not. Because the fetcher of img will read from a shared cache that was prepopulated with preload?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970752047673937900,
+   "in_reply_to_status_id_str": "970752047673937925",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": []
+  },
+  {
+   "id": 970753197806628900,
+   "id_str": "970753197806628864",
+   "created_at": "Mon Mar 05 20:09:32 +0000 2018",
+   "text": "@dan_abramov Does this imply the leaf should read from the same fetcher? (eg the nested img comp)",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970752047673937900,
+   "in_reply_to_status_id_str": "970752047673937925",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": []
+  },
+  {
+   "id": 970751235119775700,
+   "id_str": "970751235119775745",
+   "created_at": "Mon Mar 05 20:01:44 +0000 2018",
+   "text": "@dan_abramov So the preload will be placed at a higher level and the leafs will read the resolved content from the cache?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970750033770446800,
+   "in_reply_to_status_id_str": "970750033770446853",
+   "in_reply_to_screen_name": "dan_abramov",
+   "urls": []
+  },
+  {
+   "id": 970749057646911500,
+   "id_str": "970749057646911489",
+   "created_at": "Mon Mar 05 19:53:05 +0000 2018",
+   "text": "(If the above is correct) we need to hoist at some level in order to make parallel requests?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970749053393952800,
+   "in_reply_to_status_id_str": "970749053393952771",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 970749053393952800,
+   "id_str": "970749053393952771",
+   "created_at": "Mon Mar 05 19:53:04 +0000 2018",
+   "text": "Thinking about a possible 'limitation' of React Suspense: all nested async requests will be run in sequence? (since… https://t.co/P2ucg2kcA7",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/P2ucg2kcA7",
+     "expand": "https://twitter.com/i/web/status/970749053393952771"
+    }
+   ]
+  },
+  {
+   "id": 970419443137482800,
+   "id_str": "970419443137482753",
+   "created_at": "Sun Mar 04 22:03:19 +0000 2018",
+   "text": "@echoes2099 If you're using it *only* for data fetching then you likely don't need it in the actual React too.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 970377860367159300,
+   "in_reply_to_status_id_str": "970377860367159296",
+   "in_reply_to_screen_name": "echoes2099",
+   "urls": []
+  },
+  {
+   "id": 970027943241175000,
+   "id_str": "970027943241175040",
+   "created_at": "Sat Mar 03 20:07:38 +0000 2018",
+   "text": "RT @dan_abramov: This is a really nice deep dive into a sketch of Fiber implementation by @pomber. https://t.co/3N9bIgdZnN",
+   "retweet_count": 149,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3N9bIgdZnN",
+     "expand": "https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec"
+    }
+   ],
+   "retweeted_status": {
+    "id": 969979721361641500,
+    "id_str": "969979721361641474",
+    "created_at": "Sat Mar 03 16:56:01 +0000 2018",
+    "text": "This is a really nice deep dive into a sketch of Fiber implementation by @pomber. https://t.co/3N9bIgdZnN",
+    "retweet_count": 149,
+    "favorite_count": 683,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/3N9bIgdZnN",
+      "expand": "https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969691738603388900,
+   "id_str": "969691738603388929",
+   "created_at": "Fri Mar 02 21:51:41 +0000 2018",
+   "text": "Nice use of the IO monoid instance to modularise user interaction. https://t.co/ne5VHIdxI0",
+   "retweet_count": 1,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ne5VHIdxI0",
+     "expand": "https://goo.gl/qkqjuz"
+    }
+   ]
+  },
+  {
+   "id": 969641076872171500,
+   "id_str": "969641076872171522",
+   "created_at": "Fri Mar 02 18:30:22 +0000 2018",
+   "text": "RT @sarah_edo: One of the most impressive parts of the React community is how it rallies together around new developments, check out this p…",
+   "retweet_count": 76,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969524275504918500,
+    "id_str": "969524275504918528",
+    "created_at": "Fri Mar 02 10:46:14 +0000 2018",
+    "text": "One of the most impressive parts of the React community is how it rallies together around new developments, check o… https://t.co/KQYwlu00tZ",
+    "retweet_count": 76,
+    "favorite_count": 313,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KQYwlu00tZ",
+      "expand": "https://twitter.com/i/web/status/969524275504918528"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969512705978716200,
+   "id_str": "969512705978716165",
+   "created_at": "Fri Mar 02 10:00:16 +0000 2018",
+   "text": "@jamiedixon Ok I was reading \"additional values\" and thought you meant adding new values to the struct",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969510744961306600,
+   "in_reply_to_status_id_str": "969510744961306624",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": []
+  },
+  {
+   "id": 969510261496393700,
+   "id_str": "969510261496393729",
+   "created_at": "Fri Mar 02 09:50:33 +0000 2018",
+   "text": "@jamiedixon The applicative lets us 'combine' effects. I assume by 'can produce new values' converting  values of t… https://t.co/1Rta69jRPp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969508857381883900,
+   "in_reply_to_status_id_str": "969508857381883904",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": [
+    {
+     "url": "https://t.co/1Rta69jRPp",
+     "expand": "https://twitter.com/i/web/status/969510261496393729"
+    }
+   ]
+  },
+  {
+   "id": 969506479177916400,
+   "id_str": "969506479177916416",
+   "created_at": "Fri Mar 02 09:35:31 +0000 2018",
+   "text": "@jamiedixon Which is the essence the Traversable typeclass: traverse the values inside it and collecting (or produc… https://t.co/63nJucldxz",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969504272831467500,
+   "in_reply_to_status_id_str": "969504272831467522",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": [
+    {
+     "url": "https://t.co/63nJucldxz",
+     "expand": "https://twitter.com/i/web/status/969506479177916416"
+    }
+   ]
+  },
+  {
+   "id": 969506225850331100,
+   "id_str": "969506225850331136",
+   "created_at": "Fri Mar 02 09:34:31 +0000 2018",
+   "text": "@jamiedixon Exact. Collecting those effects occur typically from walking over a data struct (array, tree...) this m… https://t.co/RlTledBalU",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969504272831467500,
+   "in_reply_to_status_id_str": "969504272831467522",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": [
+    {
+     "url": "https://t.co/RlTledBalU",
+     "expand": "https://twitter.com/i/web/status/969506225850331136"
+    }
+   ]
+  },
+  {
+   "id": 969501088536776700,
+   "id_str": "969501088536776706",
+   "created_at": "Fri Mar 02 09:14:06 +0000 2018",
+   "text": "@jamiedixon There is the effect (validation, io, error handling) which is typically a functor. Been able to combine… https://t.co/uWciqK8Akp",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969294140478550000,
+   "in_reply_to_status_id_str": "969294140478550016",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": [
+    {
+     "url": "https://t.co/uWciqK8Akp",
+     "expand": "https://twitter.com/i/web/status/969501088536776706"
+    }
+   ]
+  },
+  {
+   "id": 969297713983623200,
+   "id_str": "969297713983623174",
+   "created_at": "Thu Mar 01 19:45:58 +0000 2018",
+   "text": "@jamiedixon You can see this ressembles a lot to the pattern I mentioned above about React 'Suspense effect'",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969294140478550000,
+   "in_reply_to_status_id_str": "969294140478550016",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 969297246155092000,
+   "id_str": "969297246155091968",
+   "created_at": "Thu Mar 01 19:44:06 +0000 2018",
+   "text": "@jamiedixon So traversal could be like going from Json &lt;M&lt;Value&gt;&gt; to M &lt;Json &lt;Value&gt;&gt;. Combining validation means e… https://t.co/pplD5zCUys",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969294140478550000,
+   "in_reply_to_status_id_str": "969294140478550016",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": [
+    {
+     "url": "https://t.co/pplD5zCUys",
+     "expand": "https://twitter.com/i/web/status/969297246155091968"
+    }
+   ]
+  },
+  {
+   "id": 969296596931407900,
+   "id_str": "969296596931407872",
+   "created_at": "Thu Mar 01 19:41:32 +0000 2018",
+   "text": "@jamiedixon Combining the Validation applicative means collect the same json but inside the validator applicative",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969294140478550000,
+   "in_reply_to_status_id_str": "969294140478550016",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 969295984424501200,
+   "id_str": "969295984424501249",
+   "created_at": "Thu Mar 01 19:39:05 +0000 2018",
+   "text": "@jamiedixon Here is another example: the tree is a json object and the effect M is validating values against some rules",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969294140478550000,
+   "in_reply_to_status_id_str": "969294140478550016",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 969295630471450600,
+   "id_str": "969295630471450624",
+   "created_at": "Thu Mar 01 19:37:41 +0000 2018",
+   "text": "@jamiedixon The more you learn on those abstractions the more you start to see the same patterns again and again",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969294140478550000,
+   "in_reply_to_status_id_str": "969294140478550016",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 969294140478550000,
+   "id_str": "969294140478550016",
+   "created_at": "Thu Mar 01 19:31:46 +0000 2018",
+   "text": "@jamiedixon I know React is more complicated than that. But FP abstractions provides me with a nice framework to think about individual bits",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969272607949369300,
+   "in_reply_to_status_id_str": "969272607949369344",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": []
+  },
+  {
+   "id": 969293731168964600,
+   "id_str": "969293731168964611",
+   "created_at": "Thu Mar 01 19:30:08 +0000 2018",
+   "text": "@jamiedixon The point is you dont have to reason about how traversal is implemented but only the meaning of combine… https://t.co/GPG2l1q1hM",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969272607949369300,
+   "in_reply_to_status_id_str": "969272607949369344",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": [
+    {
+     "url": "https://t.co/GPG2l1q1hM",
+     "expand": "https://twitter.com/i/web/status/969293731168964611"
+    }
+   ]
+  },
+  {
+   "id": 969293235091886100,
+   "id_str": "969293235091886081",
+   "created_at": "Thu Mar 01 19:28:10 +0000 2018",
+   "text": "@jamiedixon ie smth like Tree &lt;M&lt;Element&gt;&gt; =&gt; M &lt;Tree &lt;Element&gt;&gt; which reminds me of the Traversable typeclass",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969272607949369300,
+   "in_reply_to_status_id_str": "969272607949369344",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": []
+  },
+  {
+   "id": 969292608978739200,
+   "id_str": "969292608978739200",
+   "created_at": "Thu Mar 01 19:25:41 +0000 2018",
+   "text": "@jamiedixon Where M here is the effect of suspending rendering. Combining effects from child trees means suspend the whole tree",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969272607949369300,
+   "in_reply_to_status_id_str": "969272607949369344",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": []
+  },
+  {
+   "id": 969292320561655800,
+   "id_str": "969292320561655810",
+   "created_at": "Thu Mar 01 19:24:32 +0000 2018",
+   "text": "@jamiedixon I'm oversimplifying but the applicative provides a nice abstract model for combining 'statically known' effects",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 969272607949369300,
+   "in_reply_to_status_id_str": "969272607949369344",
+   "in_reply_to_screen_name": "jamiedixon",
+   "urls": []
+  },
+  {
+   "id": 969207035106660400,
+   "id_str": "969207035106660352",
+   "created_at": "Thu Mar 01 13:45:38 +0000 2018",
+   "text": "More on why I dont find (non pure) render that controversial: think of it as (props, state) -&gt; M&lt;Element&gt; for some… https://t.co/xghdW7HXm7",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xghdW7HXm7",
+     "expand": "https://twitter.com/i/web/status/969207035106660352"
+    }
+   ]
+  },
+  {
+   "id": 969182709665943600,
+   "id_str": "969182709665943552",
+   "created_at": "Thu Mar 01 12:08:59 +0000 2018",
+   "text": "I mean the way fetcher and Placeholder are used to control async provides a lot of flexibility",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 969182035364450300,
+   "in_reply_to_status_id_str": "969182035364450305",
+   "in_reply_to_screen_name": "YassineElouafi2",
+   "urls": []
+  },
+  {
+   "id": 969182035364450300,
+   "id_str": "969182035364450305",
+   "created_at": "Thu Mar 01 12:06:18 +0000 2018",
+   "text": "I was a bit skeptic but the new React fetcher seems really interesting thing",
+   "retweet_count": 1,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": []
+  },
+  {
+   "id": 969174677456334800,
+   "id_str": "969174677456334848",
+   "created_at": "Thu Mar 01 11:37:04 +0000 2018",
+   "text": "RT @dan_abramov: Hope you liked my talk. I’m going to take a nap now. Thanks to @ken_wheeler @kkga_ @sophiebits @mobz for your invaluable h…",
+   "retweet_count": 25,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969168645833351200,
+    "id_str": "969168645833351168",
+    "created_at": "Thu Mar 01 11:13:06 +0000 2018",
+    "text": "Hope you liked my talk. I’m going to take a nap now. Thanks to @ken_wheeler @kkga_ @sophiebits @mobz for your inval… https://t.co/8w1mNfMPhS",
+    "retweet_count": 25,
+    "favorite_count": 527,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8w1mNfMPhS",
+      "expand": "https://twitter.com/i/web/status/969168645833351168"
+     }
+    ]
+   }
+  },
   {
    "id": 966437275050676200,
    "id_str": "966437275050676229",
    "created_at": "Wed Feb 21 22:19:36 +0000 2018",
    "text": "RT @getify: here's the deal: i love teaching, writing, speaking, working on OSS projects, trying to launch my startup, building a blockchai…",
-   "retweet_count": 128,
+   "retweet_count": 142,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
@@ -18,8 +918,8 @@
     "id_str": "966420090387402753",
     "created_at": "Wed Feb 21 21:11:19 +0000 2018",
     "text": "here's the deal: i love teaching, writing, speaking, working on OSS projects, trying to launch my startup, building… https://t.co/mWin2VY7kq",
-    "retweet_count": 128,
-    "favorite_count": 122,
+    "retweet_count": 142,
+    "favorite_count": 134,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
@@ -28,213 +928,6 @@
      {
       "url": "https://t.co/mWin2VY7kq",
       "expand": "https://twitter.com/i/web/status/966420090387402753"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966395004624261100,
-   "id_str": "966395004624261126",
-   "created_at": "Wed Feb 21 19:31:38 +0000 2018",
-   "text": "RT @threepointone: yo I get that redux-saga is advanced and overkill for most stuff, but the project I'm working on right now is most defin…",
-   "retweet_count": 8,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966370647046803500,
-    "id_str": "966370647046803456",
-    "created_at": "Wed Feb 21 17:54:51 +0000 2018",
-    "text": "yo I get that redux-saga is advanced and overkill for most stuff, but the project I'm working on right now is most… https://t.co/cWUin8IvPz",
-    "retweet_count": 8,
-    "favorite_count": 99,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/cWUin8IvPz",
-      "expand": "https://twitter.com/i/web/status/966370647046803456"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965913831573786600,
-   "id_str": "965913831573786625",
-   "created_at": "Tue Feb 20 11:39:37 +0000 2018",
-   "text": "RT @KRUZAA_: This is the most frustrating gif I've ever seen in my life https://t.co/eTzcg4LJfq",
-   "retweet_count": 96835,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965328382102777900,
-    "id_str": "965328382102777856",
-    "created_at": "Sun Feb 18 20:53:15 +0000 2018",
-    "text": "This is the most frustrating gif I've ever seen in my life https://t.co/eTzcg4LJfq",
-    "retweet_count": 96835,
-    "favorite_count": 153600,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 965913170912141300,
-   "id_str": "965913170912141312",
-   "created_at": "Tue Feb 20 11:37:00 +0000 2018",
-   "text": "RT @AndaristRake: So I've written best practices for JS package publishing (more coming soon!) using @RollupJS &amp; @babeljs , use them to mak…",
-   "retweet_count": 39,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965910077776506900,
-    "id_str": "965910077776506880",
-    "created_at": "Tue Feb 20 11:24:42 +0000 2018",
-    "text": "So I've written best practices for JS package publishing (more coming soon!) using @RollupJS &amp; @babeljs , use them… https://t.co/tbjzegtx4N",
-    "retweet_count": 39,
-    "favorite_count": 111,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/tbjzegtx4N",
-      "expand": "https://twitter.com/i/web/status/965910077776506880"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965872502428889100,
-   "id_str": "965872502428889093",
-   "created_at": "Tue Feb 20 08:55:24 +0000 2018",
-   "text": "RT @paldepind: New library I've been working on: List. An immutable list with\n- extremely good performance\n- a functional API\n- full tree s…",
-   "retweet_count": 29,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965631115838017500,
-    "id_str": "965631115838017536",
-    "created_at": "Mon Feb 19 16:56:13 +0000 2018",
-    "text": "New library I've been working on: List. An immutable list with\n- extremely good performance\n- a functional API\n- fu… https://t.co/sU0Icprxix",
-    "retweet_count": 29,
-    "favorite_count": 77,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/sU0Icprxix",
-      "expand": "https://twitter.com/i/web/status/965631115838017536"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965540276788957200,
-   "id_str": "965540276788957184",
-   "created_at": "Mon Feb 19 10:55:15 +0000 2018",
-   "text": "RT @punchesbears: working on an Animation Creator so players can create &amp; share their own dances. I really suck at UI #Wreckoons https://t.…",
-   "retweet_count": 1375,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965376196744593400,
-    "id_str": "965376196744593408",
-    "created_at": "Mon Feb 19 00:03:15 +0000 2018",
-    "text": "working on an Animation Creator so players can create &amp; share their own dances. I really suck at UI #Wreckoons https://t.co/jfcUeN7rml",
-    "retweet_count": 1375,
-    "favorite_count": 5670,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 964969410334163000,
-   "id_str": "964969410334162944",
-   "created_at": "Sat Feb 17 21:06:50 +0000 2018",
-   "text": "RT @dan_abramov: @threepointone @necolas @mjackson If it is possible to do something, and your lib is popular enough, someone will do it. E…",
-   "retweet_count": 1,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964951096539131900,
-    "id_str": "964951096539131904",
-    "created_at": "Sat Feb 17 19:54:03 +0000 2018",
-    "text": "@threepointone @necolas @mjackson If it is possible to do something, and your lib is popular enough, someone will d… https://t.co/3pzvmb4Zyd",
-    "retweet_count": 1,
-    "favorite_count": 6,
-    "place": null,
-    "in_reply_to_status_id": 964950783526686700,
-    "in_reply_to_status_id_str": "964950783526686726",
-    "in_reply_to_screen_name": "dan_abramov",
-    "urls": [
-     {
-      "url": "https://t.co/3pzvmb4Zyd",
-      "expand": "https://twitter.com/i/web/status/964951096539131904"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964440492879556600,
-   "id_str": "964440492879556608",
-   "created_at": "Fri Feb 16 10:05:06 +0000 2018",
-   "text": "RT @wycats: We're all learning, all the time. How can you be proud to say that someone doesn't belong simply because they don't yet have a…",
-   "retweet_count": 274,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 963954158276567000,
-    "id_str": "963954158276567041",
-    "created_at": "Thu Feb 15 01:52:35 +0000 2018",
-    "text": "We're all learning, all the time. How can you be proud to say that someone doesn't belong simply because they don't… https://t.co/WRN5yCCQhs",
-    "retweet_count": 274,
-    "favorite_count": 1121,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/WRN5yCCQhs",
-      "expand": "https://twitter.com/i/web/status/963954158276567041"
      }
     ]
    }

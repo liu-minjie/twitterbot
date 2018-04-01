@@ -1,422 +1,564 @@
 {
- "time": 1519367043302,
+ "time": 1522594955314,
  "lists": [
   {
-   "id": 966832567025524700,
-   "id_str": "966832567025524736",
-   "created_at": "Fri Feb 23 00:30:21 +0000 2018",
-   "text": "@Castroalas @angular Still doing lots of improvements to i18n. We should probably publish a roadmap for that too. @vberchet",
-   "retweet_count": 0,
-   "favorite_count": 3,
+   "id": 979749726013702100,
+   "id_str": "979749726013702145",
+   "created_at": "Fri Mar 30 15:58:32 +0000 2018",
+   "text": "I'm helping raise money for a Girls Who Code project. If you have a few $$$ that you won't miss, you could make a d… https://t.co/coXL7Q9K0h",
+   "retweet_count": 25,
+   "favorite_count": 37,
    "place": null,
-   "in_reply_to_status_id": 966816365758877700,
-   "in_reply_to_status_id_str": "966816365758877697",
-   "in_reply_to_screen_name": "Castroalas",
-   "urls": []
-  },
-  {
-   "id": 966831970515763200,
-   "id_str": "966831970515763200",
-   "created_at": "Fri Feb 23 00:27:59 +0000 2018",
-   "text": "@MarkPieszak That WAS a great experience!",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": 966816222552748000,
-   "in_reply_to_status_id_str": "966816222552748032",
-   "in_reply_to_screen_name": "MarkPieszak",
-   "urls": []
-  },
-  {
-   "id": 966768794000478200,
-   "id_str": "966768794000478208",
-   "created_at": "Thu Feb 22 20:16:56 +0000 2018",
-   "text": "@dodgymigrant @angular Yes, this is on the table along with many other simplifications that become much easier with… https://t.co/QuyixSYoJ2",
-   "retweet_count": 0,
-   "favorite_count": 9,
-   "place": null,
-   "in_reply_to_status_id": 966765273540948000,
-   "in_reply_to_status_id_str": "966765273540947969",
-   "in_reply_to_screen_name": "dodgymigrant",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
    "urls": [
     {
-     "url": "https://t.co/QuyixSYoJ2",
-     "expand": "https://twitter.com/i/web/status/966768794000478208"
+     "url": "https://t.co/coXL7Q9K0h",
+     "expand": "https://twitter.com/i/web/status/979749726013702145"
     }
    ]
   },
   {
-   "id": 966754499854413800,
-   "id_str": "966754499854413824",
-   "created_at": "Thu Feb 22 19:20:08 +0000 2018",
-   "text": "Just blogged on Angular's 2018 Roadmap and my awesome experience at the ngAtlanta conference.\n\nhttps://t.co/NdDLHy0zs1",
-   "retweet_count": 44,
-   "favorite_count": 113,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/NdDLHy0zs1",
-     "expand": "https://blog.angular.io/trip-report-from-ngatlanta-angulars-roadmap-inclusion-and-more-b6c8bae85417"
-    }
-   ]
-  },
-  {
-   "id": 966490499417743400,
-   "id_str": "966490499417743361",
-   "created_at": "Thu Feb 22 01:51:06 +0000 2018",
-   "text": "RT @AngularGirls: ngGirls is coming to Galicia, Spain! 🎉 one day #Angular workshop introducing women to the tech world - March 9th, Vigo. A…",
-   "retweet_count": 17,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966373844301860900,
-    "id_str": "966373844301860864",
-    "created_at": "Wed Feb 21 18:07:33 +0000 2018",
-    "text": "ngGirls is coming to Galicia, Spain! 🎉 one day #Angular workshop introducing women to the tech world - March 9th, V… https://t.co/RQTT2T5YCr",
-    "retweet_count": 17,
-    "favorite_count": 32,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/RQTT2T5YCr",
-      "expand": "https://twitter.com/i/web/status/966373844301860864"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966490340495511600,
-   "id_str": "966490340495511552",
-   "created_at": "Thu Feb 22 01:50:28 +0000 2018",
-   "text": "RT @nrwl_io: New Course on Angular Playbook: \"Angular v6: What is Coming and Updates Since v5\"\nhttps://t.co/jfKKPBKfjg",
-   "retweet_count": 106,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/jfKKPBKfjg",
-     "expand": "https://blog.nrwl.io/angular-enterprise-playbook-course-angular-v6-what-is-coming-and-updates-since-v5-60542e8436bd"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966360722534887400,
-    "id_str": "966360722534887424",
-    "created_at": "Wed Feb 21 17:15:25 +0000 2018",
-    "text": "New Course on Angular Playbook: \"Angular v6: What is Coming and Updates Since v5\"\nhttps://t.co/jfKKPBKfjg",
-    "retweet_count": 106,
-    "favorite_count": 197,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/jfKKPBKfjg",
-      "expand": "https://blog.nrwl.io/angular-enterprise-playbook-course-angular-v6-what-is-coming-and-updates-since-v5-60542e8436bd"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966062935297544200,
-   "id_str": "966062935297544193",
-   "created_at": "Tue Feb 20 21:32:07 +0000 2018",
-   "text": "@bnymncoskuner @IgorMinar @ngconf We're letting everyone draw their own inspiration from the name. So....yes? 😀",
+   "id": 979505651805073400,
+   "id_str": "979505651805073408",
+   "created_at": "Thu Mar 29 23:48:40 +0000 2018",
+   "text": "@myspivey Thanks for chatting! I'm looking forward to collaborating on some of the things we discussed like monorep… https://t.co/ipHdnVQ2eh",
    "retweet_count": 0,
    "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 965820096580112400,
-   "in_reply_to_status_id_str": "965820096580112384",
-   "in_reply_to_screen_name": "bnymncoskuner",
-   "urls": []
-  },
-  {
-   "id": 966062276938678300,
-   "id_str": "966062276938678273",
-   "created_at": "Tue Feb 20 21:29:30 +0000 2018",
-   "text": "@sahilmalik As are all such things in the list 😀",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965997548824559600,
-   "in_reply_to_status_id_str": "965997548824559617",
-   "in_reply_to_screen_name": "sahilmalik",
-   "urls": []
-  },
-  {
-   "id": 965995560091099100,
-   "id_str": "965995560091099136",
-   "created_at": "Tue Feb 20 17:04:23 +0000 2018",
-   "text": "RT @ABCPolitics: ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on his arm.…",
-   "retweet_count": 72728,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965711747419115500,
-    "id_str": "965711747419115522",
-    "created_at": "Mon Feb 19 22:16:37 +0000 2018",
-    "text": "ONE LESS: Scott Pappalardo owned his AR-15 rifle for more than 30 years. He even has a Second Amendment tattoo on h… https://t.co/boeBgtXNE0",
-    "retweet_count": 72728,
-    "favorite_count": 201702,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/boeBgtXNE0",
-      "expand": "https://twitter.com/i/web/status/965711747419115522"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965995228485247000,
-   "id_str": "965995228485246977",
-   "created_at": "Tue Feb 20 17:03:04 +0000 2018",
-   "text": "@jesselpalmer ❤️",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965992632445894700,
-   "in_reply_to_status_id_str": "965992632445894663",
-   "in_reply_to_screen_name": "jesselpalmer",
-   "urls": []
-  },
-  {
-   "id": 965994997584511000,
-   "id_str": "965994997584510977",
-   "created_at": "Tue Feb 20 17:02:09 +0000 2018",
-   "text": "RT @jesselpalmer: https://t.co/CKnRlmlP2X",
-   "retweet_count": 18,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965992632445894700,
-    "id_str": "965992632445894663",
-    "created_at": "Tue Feb 20 16:52:45 +0000 2018",
-    "text": "https://t.co/CKnRlmlP2X",
-    "retweet_count": 18,
-    "favorite_count": 35,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": []
-   }
-  },
-  {
-   "id": 965994801022746600,
-   "id_str": "965994801022746625",
-   "created_at": "Tue Feb 20 17:01:22 +0000 2018",
-   "text": "@magyarsrac Thanks for the kind words! I really enjoyed putting this together.",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965570130091696100,
-   "in_reply_to_status_id_str": "965570130091696128",
-   "in_reply_to_screen_name": "magyarsrac",
-   "urls": []
-  },
-  {
-   "id": 965994646231957500,
-   "id_str": "965994646231957504",
-   "created_at": "Tue Feb 20 17:00:45 +0000 2018",
-   "text": "@dave_lifeAI @citylinkai @yourlifeai I don't have plans to have our team work on this, but it would be much easier… https://t.co/LhPY1PiREI",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": 965807851498176500,
-   "in_reply_to_status_id_str": "965807851498176512",
-   "in_reply_to_screen_name": "dave_lifeAI",
+   "in_reply_to_status_id": 978734224927875100,
+   "in_reply_to_status_id_str": "978734224927875074",
+   "in_reply_to_screen_name": "myspivey",
    "urls": [
     {
-     "url": "https://t.co/LhPY1PiREI",
-     "expand": "https://twitter.com/i/web/status/965994646231957504"
+     "url": "https://t.co/ipHdnVQ2eh",
+     "expand": "https://twitter.com/i/web/status/979505651805073408"
     }
    ]
   },
   {
-   "id": 965993641524121600,
-   "id_str": "965993641524121601",
-   "created_at": "Tue Feb 20 16:56:46 +0000 2018",
-   "text": "@Algorithmist Nooooooo! :)",
+   "id": 979504747710316500,
+   "id_str": "979504747710316545",
+   "created_at": "Thu Mar 29 23:45:04 +0000 2018",
+   "text": "@splincodewd Hey, nice! I might love to see a blog post on this showing folks how to use this library to improve pe… https://t.co/PkXIR4Z303",
    "retweet_count": 0,
    "favorite_count": 0,
    "place": null,
-   "in_reply_to_status_id": 965990189540827100,
-   "in_reply_to_status_id_str": "965990189540827136",
-   "in_reply_to_screen_name": "Algorithmist",
-   "urls": []
-  },
-  {
-   "id": 965990255357603800,
-   "id_str": "965990255357603840",
-   "created_at": "Tue Feb 20 16:43:18 +0000 2018",
-   "text": "@Hchan_mgn @angular @trotylyu Great job, @trotylyu! Thanks for taking the time to write this.",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": null,
-   "in_reply_to_status_id": 965962758213705700,
-   "in_reply_to_status_id_str": "965962758213705729",
-   "in_reply_to_screen_name": "Hchan_mgn",
-   "urls": []
-  },
-  {
-   "id": 965988940011397100,
-   "id_str": "965988940011397120",
-   "created_at": "Tue Feb 20 16:38:05 +0000 2018",
-   "text": "RT @ngconf: Super-Powered, Server-Rendered Progressive Native Apps 🔥  Join #AngularUniversal Expert @jeffwhelpley and #NativeScript Guru @w…",
-   "retweet_count": 9,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965677435957149700,
-    "id_str": "965677435957149696",
-    "created_at": "Mon Feb 19 20:00:16 +0000 2018",
-    "text": "Super-Powered, Server-Rendered Progressive Native Apps 🔥  Join #AngularUniversal Expert @jeffwhelpley and… https://t.co/eDEadJngb1",
-    "retweet_count": 9,
-    "favorite_count": 21,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/eDEadJngb1",
-      "expand": "https://twitter.com/i/web/status/965677435957149696"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965988844121149400,
-   "id_str": "965988844121149440",
-   "created_at": "Tue Feb 20 16:37:42 +0000 2018",
-   "text": "RT @mgechev: Tomorrow I have a talk at Google's office in San Francisco, right next to Bay Bridge. Feel free to join and see what you can d…",
-   "retweet_count": 5,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965681327868592100,
-    "id_str": "965681327868592128",
-    "created_at": "Mon Feb 19 20:15:44 +0000 2018",
-    "text": "Tomorrow I have a talk at Google's office in San Francisco, right next to Bay Bridge. Feel free to join and see wha… https://t.co/arxJ5fOKob",
-    "retweet_count": 5,
-    "favorite_count": 25,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/arxJ5fOKob",
-      "expand": "https://twitter.com/i/web/status/965681327868592128"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965988595361173500,
-   "id_str": "965988595361173504",
-   "created_at": "Tue Feb 20 16:36:42 +0000 2018",
-   "text": "What would be a good word for that slightly sad moment in the morning when you've finished your last sip of coffee… https://t.co/PhkKqb2o2E",
-   "retweet_count": 0,
-   "favorite_count": 15,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
+   "in_reply_to_status_id": 979407368277676000,
+   "in_reply_to_status_id_str": "979407368277676033",
+   "in_reply_to_screen_name": "splincodewd",
    "urls": [
     {
-     "url": "https://t.co/PhkKqb2o2E",
-     "expand": "https://twitter.com/i/web/status/965988595361173504"
+     "url": "https://t.co/PkXIR4Z303",
+     "expand": "https://twitter.com/i/web/status/979504747710316545"
     }
    ]
   },
   {
-   "id": 965961636627464200,
-   "id_str": "965961636627464192",
-   "created_at": "Tue Feb 20 14:49:35 +0000 2018",
-   "text": "@Hchan_mgn @angular @trotylyu Such an amazingly clear blog post! I wish we'd written it. 😀",
-   "retweet_count": 1,
-   "favorite_count": 9,
+   "id": 979504334705537000,
+   "id_str": "979504334705537024",
+   "created_at": "Thu Mar 29 23:43:26 +0000 2018",
+   "text": "@robertkingNZ @flutterio @NativeScript @Ionicframework @reactnative Well...given that I manage Angular, I'm biased.… https://t.co/8OFjPbpRIP",
+   "retweet_count": 0,
+   "favorite_count": 2,
    "place": null,
-   "in_reply_to_status_id": 965472053997400000,
-   "in_reply_to_status_id_str": "965472053997400064",
-   "in_reply_to_screen_name": "Hchan_mgn",
-   "urls": []
+   "in_reply_to_status_id": 979497534891556900,
+   "in_reply_to_status_id_str": "979497534891556865",
+   "in_reply_to_screen_name": "robertkingNZ",
+   "urls": [
+    {
+     "url": "https://t.co/8OFjPbpRIP",
+     "expand": "https://twitter.com/i/web/status/979504334705537024"
+    }
+   ]
   },
   {
-   "id": 964871077057867800,
-   "id_str": "964871077057867776",
-   "created_at": "Sat Feb 17 14:36:05 +0000 2018",
-   "text": "RT @angelmbanks: 5 Rules for Designer-Engineer Collaboration https://t.co/L6nONAhTuE #ux #design #softwaredevelopment #productdesign https:…",
+   "id": 979502667050270700,
+   "id_str": "979502667050270720",
+   "created_at": "Thu Mar 29 23:36:48 +0000 2018",
+   "text": "RT @AngularCamp: You can help us to make the difference! Even if you are not able to attend #AngularCamp you can support #Diversity &amp; #Incl…",
+   "retweet_count": 23,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 977155586944110600,
+    "id_str": "977155586944110592",
+    "created_at": "Fri Mar 23 12:10:21 +0000 2018",
+    "text": "You can help us to make the difference! Even if you are not able to attend #AngularCamp you can support #Diversity… https://t.co/aoAOtjXB8j",
+    "retweet_count": 23,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/aoAOtjXB8j",
+      "expand": "https://twitter.com/i/web/status/977155586944110592"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979028515948408800,
+   "id_str": "979028515948408832",
+   "created_at": "Wed Mar 28 16:12:42 +0000 2018",
+   "text": "RT @_davideast: Want to learn how to use AngularFire with NgRx? I'm giving a talk on just that tomorrow at Angular MTV!\n\nhttps://t.co/QwNLN…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978840364365656000,
+    "id_str": "978840364365656065",
+    "created_at": "Wed Mar 28 03:45:03 +0000 2018",
+    "text": "Want to learn how to use AngularFire with NgRx? I'm giving a talk on just that tomorrow at Angular MTV!\n\nhttps://t.co/QwNLNbYY4l",
+    "retweet_count": 21,
+    "favorite_count": 87,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QwNLNbYY4l",
+      "expand": "https://www.meetup.com/Angular-MTV/events/24869207/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979027637862506500,
+   "id_str": "979027637862506496",
+   "created_at": "Wed Mar 28 16:09:12 +0000 2018",
+   "text": "RT @stephenfluin: Two things I care a ton about right now:\n\n1. The Learning Journey for Angular (is there a way to learn the right things @…",
+   "retweet_count": 21,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978785732067147800,
+    "id_str": "978785732067147776",
+    "created_at": "Wed Mar 28 00:07:58 +0000 2018",
+    "text": "Two things I care a ton about right now:\n\n1. The Learning Journey for Angular (is there a way to learn the right th… https://t.co/6npSCNYvmg",
+    "retweet_count": 21,
+    "favorite_count": 92,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/6npSCNYvmg",
+      "expand": "https://twitter.com/i/web/status/978785732067147776"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978828672592302100,
+   "id_str": "978828672592302080",
+   "created_at": "Wed Mar 28 02:58:35 +0000 2018",
+   "text": "RT @angelmbanks: Just finished watching @AngularAir, loved hearing about the diversity efforts @BenLesh &amp; @ladyleet are making with @RxWork…",
+   "retweet_count": 7,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978731001361952800,
+    "id_str": "978731001361952770",
+    "created_at": "Tue Mar 27 20:30:29 +0000 2018",
+    "text": "Just finished watching @AngularAir, loved hearing about the diversity efforts @BenLesh &amp; @ladyleet are making with… https://t.co/TmWOZGeh0c",
+    "retweet_count": 7,
+    "favorite_count": 23,
+    "place": "Sandy Springs, GA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TmWOZGeh0c",
+      "expand": "https://twitter.com/i/web/status/978731001361952770"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978710255721898000,
+   "id_str": "978710255721897984",
+   "created_at": "Tue Mar 27 19:08:03 +0000 2018",
+   "text": "RT @Jakeherringbone: My article \"Lessons from Building Static Analysis Tools at Google\" is finally published in the Communications of the A…",
+   "retweet_count": 24,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978637134436360200,
+    "id_str": "978637134436360193",
+    "created_at": "Tue Mar 27 14:17:29 +0000 2018",
+    "text": "My article \"Lessons from Building Static Analysis Tools at Google\" is finally published in the Communications of th… https://t.co/TT6eo4xFzz",
+    "retweet_count": 24,
+    "favorite_count": 82,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/TT6eo4xFzz",
+      "expand": "https://twitter.com/i/web/status/978637134436360193"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978710168002183200,
+   "id_str": "978710168002183168",
+   "created_at": "Tue Mar 27 19:07:42 +0000 2018",
+   "text": "RT @ManfredSteyer: .@Angular Application Architecture: npm Packages, Monorepos and Microservices\n\nMaterial from my talk at @angular_hamburg…",
+   "retweet_count": 53,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978370966576422900,
+    "id_str": "978370966576422912",
+    "created_at": "Mon Mar 26 20:39:50 +0000 2018",
+    "text": ".@Angular Application Architecture: npm Packages, Monorepos and Microservices\n\nMaterial from my talk at… https://t.co/Ogx1APe89m",
+    "retweet_count": 53,
+    "favorite_count": 120,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Ogx1APe89m",
+      "expand": "https://twitter.com/i/web/status/978370966576422912"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977211970322497500,
+   "id_str": "977211970322497536",
+   "created_at": "Fri Mar 23 15:54:24 +0000 2018",
+   "text": "RT @sherrrylst: It's pretty obvious we had great time at @AngularGirls workshop 😍 Big thanks to all the mentors 🙏❤️ #IWD2018 #WomenInSTEM #…",
    "retweet_count": 6,
    "favorite_count": 0,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
    "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/L6nONAhTuE",
-     "expand": "https://buff.ly/2o9kJmY"
-    }
-   ],
+   "urls": [],
    "retweeted_status": {
-    "id": 964613361718751200,
-    "id_str": "964613361718751233",
-    "created_at": "Fri Feb 16 21:32:01 +0000 2018",
-    "text": "5 Rules for Designer-Engineer Collaboration https://t.co/L6nONAhTuE #ux #design #softwaredevelopment #productdesign https://t.co/deSArhzhnh",
+    "id": 973943446682652700,
+    "id_str": "973943446682652678",
+    "created_at": "Wed Mar 14 15:26:27 +0000 2018",
+    "text": "It's pretty obvious we had great time at @AngularGirls workshop 😍 Big thanks to all the mentors 🙏❤️ #IWD2018… https://t.co/4YN4bUuUAg",
     "retweet_count": 6,
-    "favorite_count": 14,
+    "favorite_count": 46,
+    "place": "København, Danmark",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/4YN4bUuUAg",
+      "expand": "https://twitter.com/i/web/status/973943446682652678"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977211750415126500,
+   "id_str": "977211750415126529",
+   "created_at": "Fri Mar 23 15:53:31 +0000 2018",
+   "text": "@webdave_de @aaronfrost Wow! Now I want to up my gardening game too...",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 977046757354942500,
+   "in_reply_to_status_id_str": "977046757354942464",
+   "in_reply_to_screen_name": "webdave_de",
+   "urls": []
+  },
+  {
+   "id": 977211282397868000,
+   "id_str": "977211282397868032",
+   "created_at": "Fri Mar 23 15:51:40 +0000 2018",
+   "text": "RT @KimMaida: The shirts that @auth0 is sponsoring for the @AngularGirls workshop at @ngconf arrived today! Can't wait to give them out in…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973671305550721000,
+    "id_str": "973671305550721025",
+    "created_at": "Tue Mar 13 21:25:03 +0000 2018",
+    "text": "The shirts that @auth0 is sponsoring for the @AngularGirls workshop at @ngconf arrived today! Can't wait to give th… https://t.co/6vMYRxPOkq",
+    "retweet_count": 22,
+    "favorite_count": 55,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/L6nONAhTuE",
-      "expand": "https://buff.ly/2o9kJmY"
+      "url": "https://t.co/6vMYRxPOkq",
+      "expand": "https://twitter.com/i/web/status/973671305550721025"
      }
     ]
    }
   },
   {
-   "id": 964871026935939100,
-   "id_str": "964871026935939072",
-   "created_at": "Sat Feb 17 14:35:53 +0000 2018",
-   "text": "RT @mmmmichi: How many days in a row can I retweet this article by @aprilwensel before I'm totally obnoxious? This is so important for ever…",
+   "id": 977184013851902000,
+   "id_str": "977184013851901953",
+   "created_at": "Fri Mar 23 14:03:18 +0000 2018",
+   "text": "@sayanisameer Click thru to the linkedin page for more info on background we're looking for.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977084683111448600,
+   "in_reply_to_status_id_str": "977084683111448576",
+   "in_reply_to_screen_name": "sayanisameer",
+   "urls": []
+  },
+  {
+   "id": 977183826140045300,
+   "id_str": "977183826140045312",
+   "created_at": "Fri Mar 23 14:02:34 +0000 2018",
+   "text": "@ronakvbhatt07 I'm not sure I can give accurate detail beyond whats in here already, but maybe ask a specific quest… https://t.co/Rlsqc6TWnn",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 977159914794704900,
+   "in_reply_to_status_id_str": "977159914794704896",
+   "in_reply_to_screen_name": "ronakvbhatt07",
+   "urls": [
+    {
+     "url": "https://t.co/Rlsqc6TWnn",
+     "expand": "https://twitter.com/i/web/status/977183826140045312"
+    }
+   ]
+  },
+  {
+   "id": 977183544429572100,
+   "id_str": "977183544429572097",
+   "created_at": "Fri Mar 23 14:01:26 +0000 2018",
+   "text": "@ChapAndScholar Deal. :)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977134889890992100,
+   "in_reply_to_status_id_str": "977134889890992128",
+   "in_reply_to_screen_name": "ChapAndScholar",
+   "urls": []
+  },
+  {
+   "id": 977183484203622400,
+   "id_str": "977183484203622400",
+   "created_at": "Fri Mar 23 14:01:12 +0000 2018",
+   "text": "@faisssallll DM your resume to me. Thanks!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 977179809448185900,
+   "in_reply_to_status_id_str": "977179809448185861",
+   "in_reply_to_screen_name": "faisssallll",
+   "urls": []
+  },
+  {
+   "id": 977020184937533400,
+   "id_str": "977020184937533440",
+   "created_at": "Fri Mar 23 03:12:18 +0000 2018",
+   "text": "@cmwhited @angular DM me a link to your resume please!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 976945509028937700,
+   "in_reply_to_status_id_str": "976945509028937728",
+   "in_reply_to_screen_name": "cmwhited",
+   "urls": []
+  },
+  {
+   "id": 976913520196444200,
+   "id_str": "976913520196444160",
+   "created_at": "Thu Mar 22 20:08:28 +0000 2018",
+   "text": "@sahilmalik Unless you're already here, yes. 😀",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 976912051024080900,
+   "in_reply_to_status_id_str": "976912051024080896",
+   "in_reply_to_screen_name": "sahilmalik",
+   "urls": []
+  },
+  {
+   "id": 976909955264495600,
+   "id_str": "976909955264495616",
+   "created_at": "Thu Mar 22 19:54:18 +0000 2018",
+   "text": "@daBishMan No this position i is in mountain view CA",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976907359967563800,
+   "in_reply_to_status_id_str": "976907359967563778",
+   "in_reply_to_screen_name": "daBishMan",
+   "urls": []
+  },
+  {
+   "id": 976892943867945000,
+   "id_str": "976892943867944960",
+   "created_at": "Thu Mar 22 18:46:42 +0000 2018",
+   "text": "RT @mgechev: Excited to share my most recent research! 🔬 Applying Machine-Learning with @GoogleAnalytics data for *faster* @Angular &amp; @Reac…",
+   "retweet_count": 471,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976120561070846000,
+    "id_str": "976120561070845959",
+    "created_at": "Tue Mar 20 15:37:31 +0000 2018",
+    "text": "Excited to share my most recent research! 🔬 Applying Machine-Learning with @GoogleAnalytics data for *faster*… https://t.co/wPtUBiq6up",
+    "retweet_count": 471,
+    "favorite_count": 1070,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wPtUBiq6up",
+      "expand": "https://twitter.com/i/web/status/976120561070845959"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976570377722781700,
+   "id_str": "976570377722781696",
+   "created_at": "Wed Mar 21 21:24:56 +0000 2018",
+   "text": "RT @BenLesh: I've joined the @angular team officially today! I'm really excited for what this means for me, for Angular, and of course for…",
+   "retweet_count": 179,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976551835153588200,
+    "id_str": "976551835153588226",
+    "created_at": "Wed Mar 21 20:11:15 +0000 2018",
+    "text": "I've joined the @angular team officially today! I'm really excited for what this means for me, for Angular, and of… https://t.co/trFZeDPiAA",
+    "retweet_count": 179,
+    "favorite_count": 1217,
+    "place": "Mountain View, CA",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/trFZeDPiAA",
+      "expand": "https://twitter.com/i/web/status/976551835153588226"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976570235959455700,
+   "id_str": "976570235959455744",
+   "created_at": "Wed Mar 21 21:24:22 +0000 2018",
+   "text": "RT @brandontroberts: It's not too late to donate and support underrepresented groups getting a chance to go to @ngconf!  https://t.co/1E7za…",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976534927754883100,
+    "id_str": "976534927754883072",
+    "created_at": "Wed Mar 21 19:04:04 +0000 2018",
+    "text": "It's not too late to donate and support underrepresented groups getting a chance to go to @ngconf!… https://t.co/eObZQmT9um",
+    "retweet_count": 12,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/eObZQmT9um",
+      "expand": "https://twitter.com/i/web/status/976534927754883072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976460249942040600,
+   "id_str": "976460249942040576",
+   "created_at": "Wed Mar 21 14:07:19 +0000 2018",
+   "text": "RT @IgorMinar: If you have nothing better to do, there is this Angular v6 rc.0 on npm that you could help us test. Thanks a bunch! https://…",
+   "retweet_count": 184,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976340739004055600,
+    "id_str": "976340739004055552",
+    "created_at": "Wed Mar 21 06:12:26 +0000 2018",
+    "text": "If you have nothing better to do, there is this Angular v6 rc.0 on npm that you could help us test. Thanks a bunch!… https://t.co/exKsV4LM78",
+    "retweet_count": 184,
+    "favorite_count": 346,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/exKsV4LM78",
+      "expand": "https://twitter.com/i/web/status/976340739004055552"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976250649011617800,
+   "id_str": "976250649011617794",
+   "created_at": "Wed Mar 21 00:14:27 +0000 2018",
+   "text": "RT @ManfredSteyer: Blogged: Frictionless Library Setup with the @Angular CLI and Schematics\n\nThx to @hanslatwork for reviewing.\n\nhttps://t.…",
    "retweet_count": 18,
    "favorite_count": 0,
    "place": null,
@@ -425,42 +567,29 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964587923256438800,
-    "id_str": "964587923256438784",
-    "created_at": "Fri Feb 16 19:50:56 +0000 2018",
-    "text": "How many days in a row can I retweet this article by @aprilwensel before I'm totally obnoxious? This is so importan… https://t.co/fJFaafM12F",
+    "id": 976001661364789200,
+    "id_str": "976001661364789249",
+    "created_at": "Tue Mar 20 07:45:03 +0000 2018",
+    "text": "Blogged: Frictionless Library Setup with the @Angular CLI and Schematics\n\nThx to @hanslatwork for reviewing.\n\nhttps://t.co/BEB9beAdTR",
     "retweet_count": 18,
-    "favorite_count": 26,
+    "favorite_count": 34,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/fJFaafM12F",
-      "expand": "https://twitter.com/i/web/status/964587923256438784"
+      "url": "https://t.co/BEB9beAdTR",
+      "expand": "https://www.softwarearchitekt.at/post/2018/03/20/custom-schematics-part-iv-frictionless-library-setup-with-the-angular-cli-and-schematics.aspx"
      }
     ]
    }
   },
   {
-   "id": 964870781061644300,
-   "id_str": "964870781061644288",
-   "created_at": "Sat Feb 17 14:34:55 +0000 2018",
-   "text": "@Tzmanics @ladyleet @bonnster75 @John_Papa @CarmenPopoviciu I gave everyone that as a subliminal suggestion during the keynote.",
-   "retweet_count": 0,
-   "favorite_count": 4,
-   "place": null,
-   "in_reply_to_status_id": 964637503230799900,
-   "in_reply_to_status_id_str": "964637503230799872",
-   "in_reply_to_screen_name": "Tzmanics",
-   "urls": []
-  },
-  {
-   "id": 964568551838203900,
-   "id_str": "964568551838203904",
-   "created_at": "Fri Feb 16 18:33:58 +0000 2018",
-   "text": "RT @kammysliwiec: Latest @nestframework release comes with a lot of new features, bugfixes, and several improvements, but also is a teaser…",
+   "id": 976250560843104300,
+   "id_str": "976250560843104258",
+   "created_at": "Wed Mar 21 00:14:06 +0000 2018",
+   "text": "RT @AthensAngular: Hello Angular people! Our first @AthensAngular meetup will be held on the 26th of April at @hackerspacegr at 18:30. You…",
    "retweet_count": 32,
    "favorite_count": 0,
    "place": null,
@@ -469,23 +598,1328 @@
    "in_reply_to_screen_name": null,
    "urls": [],
    "retweeted_status": {
-    "id": 964541286987567100,
-    "id_str": "964541286987567104",
-    "created_at": "Fri Feb 16 16:45:37 +0000 2018",
-    "text": "Latest @nestframework release comes with a lot of new features, bugfixes, and several improvements, but also is a t… https://t.co/vVpUv6ajmu",
+    "id": 976136932236365800,
+    "id_str": "976136932236365824",
+    "created_at": "Tue Mar 20 16:42:35 +0000 2018",
+    "text": "Hello Angular people! Our first @AthensAngular meetup will be held on the 26th of April at @hackerspacegr at 18:30.… https://t.co/DsRWZ4UUqd",
     "retweet_count": 32,
-    "favorite_count": 78,
+    "favorite_count": 44,
     "place": null,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_screen_name": null,
     "urls": [
      {
-      "url": "https://t.co/vVpUv6ajmu",
-      "expand": "https://twitter.com/i/web/status/964541286987567104"
+      "url": "https://t.co/DsRWZ4UUqd",
+      "expand": "https://twitter.com/i/web/status/976136932236365824"
      }
     ]
    }
+  },
+  {
+   "id": 976250117584863200,
+   "id_str": "976250117584863232",
+   "created_at": "Wed Mar 21 00:12:20 +0000 2018",
+   "text": "RT @ericsimons40: .@StackBlitz + @Angular Language Service = ⚡️⚡️⚡️\n\nFeel the productivity gains on https://t.co/itZEa6sErS &amp; give @iamalbe…",
+   "retweet_count": 107,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/itZEa6sErS",
+     "expand": "http://stackblitz.com"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976154412690346000,
+    "id_str": "976154412690345984",
+    "created_at": "Tue Mar 20 17:52:02 +0000 2018",
+    "text": ".@StackBlitz + @Angular Language Service = ⚡️⚡️⚡️\n\nFeel the productivity gains on https://t.co/itZEa6sErS &amp; give… https://t.co/vPxRIJA1ht",
+    "retweet_count": 107,
+    "favorite_count": 287,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/itZEa6sErS",
+      "expand": "http://stackblitz.com"
+     },
+     {
+      "url": "https://t.co/vPxRIJA1ht",
+      "expand": "https://twitter.com/i/web/status/976154412690345984"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974698879655407600,
+   "id_str": "974698879655407616",
+   "created_at": "Fri Mar 16 17:28:16 +0000 2018",
+   "text": "Just bought my flight for ng-conf. I hope to see lots of you there!\n\nhttps://t.co/HFgGx0XVRW https://t.co/OmpHFscpsE",
+   "retweet_count": 4,
+   "favorite_count": 72,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HFgGx0XVRW",
+     "expand": "https://www.ng-conf.org/"
+    }
+   ]
+  },
+  {
+   "id": 974682496380977200,
+   "id_str": "974682496380977152",
+   "created_at": "Fri Mar 16 16:23:10 +0000 2018",
+   "text": "@xmlking @AngularCli @hanslatwork",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974490154063638500,
+   "in_reply_to_status_id_str": "974490154063638528",
+   "in_reply_to_screen_name": "xmlking",
+   "urls": []
+  },
+  {
+   "id": 974439594887331800,
+   "id_str": "974439594887331840",
+   "created_at": "Fri Mar 16 00:17:58 +0000 2018",
+   "text": "@LeonardCModoran @manekinekko @algolia @angular Plans aren't in good enough shape to share yet, but just wanted to… https://t.co/Uoom0AoGGE",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 974428222019469300,
+   "in_reply_to_status_id_str": "974428222019469312",
+   "in_reply_to_screen_name": "LeonardCModoran",
+   "urls": [
+    {
+     "url": "https://t.co/Uoom0AoGGE",
+     "expand": "https://twitter.com/i/web/status/974439594887331840"
+    }
+   ]
+  },
+  {
+   "id": 974439364661993500,
+   "id_str": "974439364661993472",
+   "created_at": "Fri Mar 16 00:17:03 +0000 2018",
+   "text": "@tsaibot Not yet, but on the table for after we've moved to ngIvy where it'd be easier.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973725863295569900,
+   "in_reply_to_status_id_str": "973725863295569920",
+   "in_reply_to_screen_name": "tsaibot",
+   "urls": []
+  },
+  {
+   "id": 974439115377623000,
+   "id_str": "974439115377623040",
+   "created_at": "Fri Mar 16 00:16:03 +0000 2018",
+   "text": "RT @ZChapple: @AnaCidre_ @BermanHale @nina_anna @Hoffman8 @tentakellady @lauracrimmons @Laura_OSG @NerdInSkirt @Suzzicks @LisaDMyers @Miche…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974070038125826000,
+    "id_str": "974070038125826059",
+    "created_at": "Wed Mar 14 23:49:29 +0000 2018",
+    "text": "@AnaCidre_ @BermanHale @nina_anna @Hoffman8 @tentakellady @lauracrimmons @Laura_OSG @NerdInSkirt @Suzzicks… https://t.co/tk4GHIdPvP",
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "place": null,
+    "in_reply_to_status_id": 974031549170634800,
+    "in_reply_to_status_id_str": "974031549170634752",
+    "in_reply_to_screen_name": "AnaCidre_",
+    "urls": [
+     {
+      "url": "https://t.co/tk4GHIdPvP",
+      "expand": "https://twitter.com/i/web/status/974070038125826059"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974437638257090600,
+   "id_str": "974437638257090560",
+   "created_at": "Fri Mar 16 00:10:11 +0000 2018",
+   "text": "RT @LJKenward: Hey friends! 👋 Who's hiring Junior Devs at the moment? I have some awesome people from the @juniordev_io Community currently…",
+   "retweet_count": 97,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973851295474884600,
+    "id_str": "973851295474884615",
+    "created_at": "Wed Mar 14 09:20:16 +0000 2018",
+    "text": "Hey friends! 👋 Who's hiring Junior Devs at the moment? I have some awesome people from the @juniordev_io Community… https://t.co/SBZIPvSkAw",
+    "retweet_count": 97,
+    "favorite_count": 112,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SBZIPvSkAw",
+      "expand": "https://twitter.com/i/web/status/973851295474884615"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974437319452237800,
+   "id_str": "974437319452237824",
+   "created_at": "Fri Mar 16 00:08:55 +0000 2018",
+   "text": "@ZChapple Welcome! (and YAY!)",
+   "retweet_count": 0,
+   "favorite_count": 4,
+   "place": null,
+   "in_reply_to_status_id": 974004113435488300,
+   "in_reply_to_status_id_str": "974004113435488258",
+   "in_reply_to_screen_name": "ZChapple",
+   "urls": []
+  },
+  {
+   "id": 974437217920692200,
+   "id_str": "974437217920692224",
+   "created_at": "Fri Mar 16 00:08:31 +0000 2018",
+   "text": "RT @ZChapple: 🎉 Super thrilled to announce that I am officially part of the Angular GDE family! I'm so incredibly thankful for this wonderf…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974004113435488300,
+    "id_str": "974004113435488258",
+    "created_at": "Wed Mar 14 19:27:31 +0000 2018",
+    "text": "🎉 Super thrilled to announce that I am officially part of the Angular GDE family! I'm so incredibly thankful for th… https://t.co/YGNMUOqeco",
+    "retweet_count": 10,
+    "favorite_count": 102,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/YGNMUOqeco",
+      "expand": "https://twitter.com/i/web/status/974004113435488258"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974366643882115100,
+   "id_str": "974366643882115073",
+   "created_at": "Thu Mar 15 19:28:05 +0000 2018",
+   "text": "@ryanflorence @DynamicWebPaige ❤️❤️❤️",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 974360845856555000,
+   "in_reply_to_status_id_str": "974360845856555008",
+   "in_reply_to_screen_name": "ryanflorence",
+   "urls": []
+  },
+  {
+   "id": 974366024442118100,
+   "id_str": "974366024442118144",
+   "created_at": "Thu Mar 15 19:25:37 +0000 2018",
+   "text": "@manekinekko @algolia @angular Nice summary! \n\nAnd there's quite a lot more on the way. :)",
+   "retweet_count": 0,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 974361950137307100,
+   "in_reply_to_status_id_str": "974361950137307137",
+   "in_reply_to_screen_name": "manekinekko",
+   "urls": []
+  },
+  {
+   "id": 974360388769792000,
+   "id_str": "974360388769792001",
+   "created_at": "Thu Mar 15 19:03:14 +0000 2018",
+   "text": "@JustinCouto @angular Keeps getting more incredible!",
+   "retweet_count": 1,
+   "favorite_count": 8,
+   "place": null,
+   "in_reply_to_status_id": 974346187137458200,
+   "in_reply_to_status_id_str": "974346187137458176",
+   "in_reply_to_screen_name": "JustinCouto",
+   "urls": []
+  },
+  {
+   "id": 974360349896884200,
+   "id_str": "974360349896884224",
+   "created_at": "Thu Mar 15 19:03:04 +0000 2018",
+   "text": "RT @JustinCouto: Angular Playground V4 Just Released!\n\nFeatures:\n- No #Angular compiler dependency\n- Smaller build footprint\n- Optional UI…",
+   "retweet_count": 97,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974346187137458200,
+    "id_str": "974346187137458176",
+    "created_at": "Thu Mar 15 18:06:48 +0000 2018",
+    "text": "Angular Playground V4 Just Released!\n\nFeatures:\n- No #Angular compiler dependency\n- Smaller build footprint\n- Optio… https://t.co/Mfm1N7dOzL",
+    "retweet_count": 97,
+    "favorite_count": 235,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Mfm1N7dOzL",
+      "expand": "https://twitter.com/i/web/status/974346187137458176"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973784910900158500,
+   "id_str": "973784910900158465",
+   "created_at": "Wed Mar 14 04:56:29 +0000 2018",
+   "text": "RT @ericsimons40: The core tech powering @StackBlitz is now open source ❤️ May everyone install NPM packages &amp; run webpack loaders in-brows…",
+   "retweet_count": 90,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973337746130587600,
+    "id_str": "973337746130587648",
+    "created_at": "Mon Mar 12 23:19:37 +0000 2018",
+    "text": "The core tech powering @StackBlitz is now open source ❤️ May everyone install NPM packages &amp; run webpack loaders in… https://t.co/H1iBw4v3pP",
+    "retweet_count": 90,
+    "favorite_count": 197,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/H1iBw4v3pP",
+      "expand": "https://twitter.com/i/web/status/973337746130587648"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973784871846936600,
+   "id_str": "973784871846936577",
+   "created_at": "Wed Mar 14 04:56:20 +0000 2018",
+   "text": "RT @AngularGirls: We're coming back to @ngconf! Mentioned on @AngularAir https://t.co/nLqDQhXXB9 Thanks @bonnster75 (#FreakinAwesome) @jose…",
+   "retweet_count": 8,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nLqDQhXXB9",
+     "expand": "https://youtu.be/h73QQzUFNuY?t=44m18s"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973644542632190000,
+    "id_str": "973644542632189952",
+    "created_at": "Tue Mar 13 19:38:43 +0000 2018",
+    "text": "We're coming back to @ngconf! Mentioned on @AngularAir https://t.co/nLqDQhXXB9 Thanks @bonnster75 (#FreakinAwesome)… https://t.co/AkZ6gnq9i5",
+    "retweet_count": 8,
+    "favorite_count": 20,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nLqDQhXXB9",
+      "expand": "https://youtu.be/h73QQzUFNuY?t=44m18s"
+     },
+     {
+      "url": "https://t.co/AkZ6gnq9i5",
+      "expand": "https://twitter.com/i/web/status/973644542632189952"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973784754440036400,
+   "id_str": "973784754440036353",
+   "created_at": "Wed Mar 14 04:55:52 +0000 2018",
+   "text": "RT @AlyssaNicoll: I was SO excited to announce this diversity fundraiser I started! Any amount of dollars would help us bring underrepresen…",
+   "retweet_count": 32,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973643119563558900,
+    "id_str": "973643119563558912",
+    "created_at": "Tue Mar 13 19:33:03 +0000 2018",
+    "text": "I was SO excited to announce this diversity fundraiser I started! Any amount of dollars would help us bring underre… https://t.co/7ibZCVqaZO",
+    "retweet_count": 32,
+    "favorite_count": 69,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/7ibZCVqaZO",
+      "expand": "https://twitter.com/i/web/status/973643119563558912"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973613760886665200,
+   "id_str": "973613760886665217",
+   "created_at": "Tue Mar 13 17:36:24 +0000 2018",
+   "text": "@josefajardo I know, right? :)",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 973455270142595100,
+   "in_reply_to_status_id_str": "973455270142595072",
+   "in_reply_to_screen_name": "josefajardo",
+   "urls": []
+  },
+  {
+   "id": 973613677604618200,
+   "id_str": "973613677604618240",
+   "created_at": "Tue Mar 13 17:36:04 +0000 2018",
+   "text": "@tengisbt Yep! And watch the v6 release announcement for more good news in our LTS story.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 973510442868879400,
+   "in_reply_to_status_id_str": "973510442868879362",
+   "in_reply_to_screen_name": "tengisbt",
+   "urls": []
+  },
+  {
+   "id": 973613421412274200,
+   "id_str": "973613421412274176",
+   "created_at": "Tue Mar 13 17:35:03 +0000 2018",
+   "text": "@BeyoncesHomeboe Please come look again! We haven't done any big changes since v2. And now in v6 we have the CLI \"n… https://t.co/6FTWXgTkn0",
+   "retweet_count": 0,
+   "favorite_count": 14,
+   "place": null,
+   "in_reply_to_status_id": 973604612925198300,
+   "in_reply_to_status_id_str": "973604612925198336",
+   "in_reply_to_screen_name": "BeyonceHomeboy",
+   "urls": [
+    {
+     "url": "https://t.co/6FTWXgTkn0",
+     "expand": "https://twitter.com/i/web/status/973613421412274176"
+    }
+   ]
+  },
+  {
+   "id": 973612975058661400,
+   "id_str": "973612975058661376",
+   "created_at": "Tue Mar 13 17:33:16 +0000 2018",
+   "text": "RT @ngVikingsConf: Martin @g33konaut's 🦄 pic is here to say that Track 2 videos of @ngVikingsConf are published! 📽️ Total: 43 videos, 20 (!…",
+   "retweet_count": 35,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972588799342645200,
+    "id_str": "972588799342645248",
+    "created_at": "Sat Mar 10 21:43:34 +0000 2018",
+    "text": "Martin @g33konaut's 🦄 pic is here to say that Track 2 videos of @ngVikingsConf are published! 📽️ Total: 43 videos,… https://t.co/KpOw1CjDDI",
+    "retweet_count": 35,
+    "favorite_count": 81,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/KpOw1CjDDI",
+      "expand": "https://twitter.com/i/web/status/972588799342645248"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973305607250825200,
+   "id_str": "973305607250825216",
+   "created_at": "Mon Mar 12 21:11:54 +0000 2018",
+   "text": "Getting close to RC on Angular v6 release. You can track progress at https://t.co/VC4Iz2HEn2. https://t.co/Vh4uenZhC5",
+   "retweet_count": 185,
+   "favorite_count": 394,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VC4Iz2HEn2",
+     "expand": "http://v6.angular.io"
+    }
+   ]
+  },
+  {
+   "id": 973305175707275300,
+   "id_str": "973305175707275264",
+   "created_at": "Mon Mar 12 21:10:11 +0000 2018",
+   "text": "RT @John_Papa: Who's ready for some @angular NgRx with zero boilerplate? Try ngrx-data now. And please provide feedback in the repo!\n\nTry t…",
+   "retweet_count": 182,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973261458682216400,
+    "id_str": "973261458682216449",
+    "created_at": "Mon Mar 12 18:16:28 +0000 2018",
+    "text": "Who's ready for some @angular NgRx with zero boilerplate? Try ngrx-data now. And please provide feedback in the rep… https://t.co/1MbWwkzj59",
+    "retweet_count": 182,
+    "favorite_count": 436,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1MbWwkzj59",
+      "expand": "https://twitter.com/i/web/status/973261458682216449"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973268652488212500,
+   "id_str": "973268652488212480",
+   "created_at": "Mon Mar 12 18:45:03 +0000 2018",
+   "text": "RT @BenLesh: IMO, the #JavaScript pipeline operator is the single most important proposal on the #TC39's docket, whether they know it or no…",
+   "retweet_count": 593,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973255406947467300,
+    "id_str": "973255406947467264",
+    "created_at": "Mon Mar 12 17:52:25 +0000 2018",
+    "text": "IMO, the #JavaScript pipeline operator is the single most important proposal on the #TC39's docket, whether they kn… https://t.co/05OVz5hNNM",
+    "retweet_count": 593,
+    "favorite_count": 1419,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/05OVz5hNNM",
+      "expand": "https://twitter.com/i/web/status/973255406947467264"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973268465279627300,
+   "id_str": "973268465279627264",
+   "created_at": "Mon Mar 12 18:44:19 +0000 2018",
+   "text": "@saoron It is done by the team. This is a new structure for us where we pair Angular developers with external write… https://t.co/b2ymYsoZbW",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971642079783813100,
+   "in_reply_to_status_id_str": "971642079783813120",
+   "in_reply_to_screen_name": "saoron",
+   "urls": [
+    {
+     "url": "https://t.co/b2ymYsoZbW",
+     "expand": "https://twitter.com/i/web/status/973268465279627264"
+    }
+   ]
+  },
+  {
+   "id": 973267989318398000,
+   "id_str": "973267989318397952",
+   "created_at": "Mon Mar 12 18:42:25 +0000 2018",
+   "text": "@Anjeshagrawal1 @AnasFirdousi Not currently but hopefully someday.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 971659101066293200,
+   "in_reply_to_status_id_str": "971659101066293253",
+   "in_reply_to_screen_name": "Anjeshagrawal1",
+   "urls": []
+  },
+  {
+   "id": 973267809672183800,
+   "id_str": "973267809672183808",
+   "created_at": "Mon Mar 12 18:41:42 +0000 2018",
+   "text": "RT @fabianwiles: Big thanks @bradlygreen for my @GoogleOSS nomination!\nI'm very humbled and appreciate that my contributions have been reco…",
+   "retweet_count": 2,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971621565954588700,
+    "id_str": "971621565954588672",
+    "created_at": "Thu Mar 08 05:40:07 +0000 2018",
+    "text": "Big thanks @bradlygreen for my @GoogleOSS nomination!\nI'm very humbled and appreciate that my contributions have be… https://t.co/fh2CVmc6zC",
+    "retweet_count": 2,
+    "favorite_count": 12,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/fh2CVmc6zC",
+      "expand": "https://twitter.com/i/web/status/971621565954588672"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973267723101732900,
+   "id_str": "973267723101732864",
+   "created_at": "Mon Mar 12 18:41:22 +0000 2018",
+   "text": "RT @BekahWarnock: Here you go, @bradlygreen! Great session so far, really informative. Thanks so much! https://t.co/5N43mSIjM4",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971892874034929700,
+    "id_str": "971892874034929664",
+    "created_at": "Thu Mar 08 23:38:12 +0000 2018",
+    "text": "Here you go, @bradlygreen! Great session so far, really informative. Thanks so much! https://t.co/5N43mSIjM4",
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": []
+   }
+  },
+  {
+   "id": 973267664243011600,
+   "id_str": "973267664243011584",
+   "created_at": "Mon Mar 12 18:41:08 +0000 2018",
+   "text": "@BekahWarnock Awesome! Thanks so much for having us and rolling out the red carpet. We all had a great time and would love to come again.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 971892874034929700,
+   "in_reply_to_status_id_str": "971892874034929664",
+   "in_reply_to_screen_name": "BekahWarnock",
+   "urls": []
+  },
+  {
+   "id": 973267212499804200,
+   "id_str": "973267212499804160",
+   "created_at": "Mon Mar 12 18:39:20 +0000 2018",
+   "text": "@IgorMinar @manitsinghkalsi This was so fun! You all made us feel welcome and asked great questions. I'd love to come back again sometime.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 972215076038914000,
+   "in_reply_to_status_id_str": "972215076038914048",
+   "in_reply_to_screen_name": "IgorMinar",
+   "urls": []
+  },
+  {
+   "id": 973266849931636700,
+   "id_str": "973266849931636736",
+   "created_at": "Mon Mar 12 18:37:54 +0000 2018",
+   "text": "RT @ngconf: Wondering what the Angular team is up to this year? We're about to find out! Join us in SLC April 18-20 as we welcome @bradlygr…",
+   "retweet_count": 22,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973212044844519400,
+    "id_str": "973212044844519424",
+    "created_at": "Mon Mar 12 15:00:07 +0000 2018",
+    "text": "Wondering what the Angular team is up to this year? We're about to find out! Join us in SLC April 18-20 as we welco… https://t.co/gSqhlEbXRk",
+    "retweet_count": 22,
+    "favorite_count": 52,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/gSqhlEbXRk",
+      "expand": "https://twitter.com/i/web/status/973212044844519424"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971938539754610700,
+   "id_str": "971938539754610688",
+   "created_at": "Fri Mar 09 02:39:40 +0000 2018",
+   "text": "RT @kammysliwiec: I published some notes about incoming @nestframework 5.0.0 release 👏@angular integrity, independent HTTP server (#fastify…",
+   "retweet_count": 77,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971843550378938400,
+    "id_str": "971843550378938368",
+    "created_at": "Thu Mar 08 20:22:13 +0000 2018",
+    "text": "I published some notes about incoming @nestframework 5.0.0 release 👏@angular integrity, independent HTTP server (… https://t.co/QiIEXJaBZO",
+    "retweet_count": 77,
+    "favorite_count": 164,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QiIEXJaBZO",
+      "expand": "https://twitter.com/i/web/status/971843550378938368"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971938328441380900,
+   "id_str": "971938328441380865",
+   "created_at": "Fri Mar 09 02:38:49 +0000 2018",
+   "text": "RT @ngVikingsConf: Are you ready for 12 hours of video with the freshest, technical, in-depth @angular content? All sessions of @ngVikingsC…",
+   "retweet_count": 151,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971830948240162800,
+    "id_str": "971830948240162816",
+    "created_at": "Thu Mar 08 19:32:08 +0000 2018",
+    "text": "Are you ready for 12 hours of video with the freshest, technical, in-depth @angular content? All sessions of… https://t.co/s9iovJoO2c",
+    "retweet_count": 151,
+    "favorite_count": 281,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/s9iovJoO2c",
+      "expand": "https://twitter.com/i/web/status/971830948240162816"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971756694802804700,
+   "id_str": "971756694802804736",
+   "created_at": "Thu Mar 08 14:37:05 +0000 2018",
+   "text": "RT @shanselman: A multi-player server-side GameBoy Emulator written in .NET Core and Angular by @axle_h https://t.co/GnIRRYLFGk",
+   "retweet_count": 116,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/GnIRRYLFGk",
+     "expand": "https://www.hanselman.com/blog/AMultiplayerServersideGameBoyEmulatorWrittenInNETCoreAndAngular.aspx"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970548826330157000,
+    "id_str": "970548826330157056",
+    "created_at": "Mon Mar 05 06:37:26 +0000 2018",
+    "text": "A multi-player server-side GameBoy Emulator written in .NET Core and Angular by @axle_h https://t.co/GnIRRYLFGk",
+    "retweet_count": 116,
+    "favorite_count": 318,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/GnIRRYLFGk",
+      "expand": "https://www.hanselman.com/blog/AMultiplayerServersideGameBoyEmulatorWrittenInNETCoreAndAngular.aspx"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971485098041159700,
+   "id_str": "971485098041159680",
+   "created_at": "Wed Mar 07 20:37:51 +0000 2018",
+   "text": "@debug_mode So cool! You folks look like you're doing amazing things!",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 971467022247710700,
+   "in_reply_to_status_id_str": "971467022247710720",
+   "in_reply_to_screen_name": "debug_mode",
+   "urls": []
+  },
+  {
+   "id": 971483767096291300,
+   "id_str": "971483767096291328",
+   "created_at": "Wed Mar 07 20:32:34 +0000 2018",
+   "text": "RT @techhiresumit: #Macys is hiring #Frontenddeveloper #Angular expert in #Sanfrancisco. Interested folks send the cv at #ssingh@bayonesolu…",
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971482616913215500,
+    "id_str": "971482616913215488",
+    "created_at": "Wed Mar 07 20:27:59 +0000 2018",
+    "text": "#Macys is hiring #Frontenddeveloper #Angular expert in #Sanfrancisco. Interested folks send the cv at #ssingh@bayon… https://t.co/xE8AZvwXlx",
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xE8AZvwXlx",
+      "expand": "https://twitter.com/i/web/status/971482616913215488"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971467941119012900,
+   "id_str": "971467941119012864",
+   "created_at": "Wed Mar 07 19:29:40 +0000 2018",
+   "text": "RT @ManfredSteyer: Beginning with #Angular 6 (beta.6) whitespace removal is on by default. My blog article describes what it does and how i…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971293134931013600,
+    "id_str": "971293134931013633",
+    "created_at": "Wed Mar 07 07:55:03 +0000 2018",
+    "text": "Beginning with #Angular 6 (beta.6) whitespace removal is on by default. My blog article describes what it does and… https://t.co/JFfmLX8sMJ",
+    "retweet_count": 41,
+    "favorite_count": 81,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JFfmLX8sMJ",
+      "expand": "https://twitter.com/i/web/status/971293134931013633"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971466672526606300,
+   "id_str": "971466672526606336",
+   "created_at": "Wed Mar 07 19:24:38 +0000 2018",
+   "text": "Love Angular and want a job working on our docs? We work with Expert Support for much of the docs development and t… https://t.co/b9i0kifHv7",
+   "retweet_count": 43,
+   "favorite_count": 69,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/b9i0kifHv7",
+     "expand": "https://twitter.com/i/web/status/971466672526606336"
+    }
+   ]
+  },
+  {
+   "id": 971465794876973000,
+   "id_str": "971465794876973056",
+   "created_at": "Wed Mar 07 19:21:09 +0000 2018",
+   "text": "RT @MikeRyanDev: NgRx v5.2.0 has been released! Plenty of fixes and features for Store, Devtools, Schematics, and Entity. https://t.co/RJgy…",
+   "retweet_count": 113,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971394743178612700,
+    "id_str": "971394743178612736",
+    "created_at": "Wed Mar 07 14:38:49 +0000 2018",
+    "text": "NgRx v5.2.0 has been released! Plenty of fixes and features for Store, Devtools, Schematics, and Entity. https://t.co/RJgyuazmft",
+    "retweet_count": 113,
+    "favorite_count": 187,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/RJgyuazmft",
+      "expand": "https://github.com/ngrx/platform/blob/master/CHANGELOG.md"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971156759543824400,
+   "id_str": "971156759543824385",
+   "created_at": "Tue Mar 06 22:53:09 +0000 2018",
+   "text": "RT @John_Papa: Zero boilerplate ngrx!\n\nJoin @wardbell and I live code an @angular ngrx app using our new ngrx-data library. (Library is her…",
+   "retweet_count": 93,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970694266132553700,
+    "id_str": "970694266132553729",
+    "created_at": "Mon Mar 05 16:15:22 +0000 2018",
+    "text": "Zero boilerplate ngrx!\n\nJoin @wardbell and I live code an @angular ngrx app using our new ngrx-data library. (Libra… https://t.co/OEv6IwvgvX",
+    "retweet_count": 93,
+    "favorite_count": 225,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OEv6IwvgvX",
+      "expand": "https://twitter.com/i/web/status/970694266132553729"
+     }
+    ]
+   }
+  },
+  {
+   "id": 971156609492635600,
+   "id_str": "971156609492635649",
+   "created_at": "Tue Mar 06 22:52:33 +0000 2018",
+   "text": "RT @nrwl_io: The free Angular v6 course on Angular Enterprise Playbook is complete!\n\nNew videos:\n * Stronger Type Checking in Templates\n *…",
+   "retweet_count": 129,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971094792170975200,
+    "id_str": "971094792170975232",
+    "created_at": "Tue Mar 06 18:46:55 +0000 2018",
+    "text": "The free Angular v6 course on Angular Enterprise Playbook is complete!\n\nNew videos:\n * Stronger Type Checking in Te… https://t.co/ptHKJomvUh",
+    "retweet_count": 129,
+    "favorite_count": 275,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/ptHKJomvUh",
+      "expand": "https://twitter.com/i/web/status/971094792170975232"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970791646269853700,
+   "id_str": "970791646269853696",
+   "created_at": "Mon Mar 05 22:42:19 +0000 2018",
+   "text": "RT @John_Papa: Creating a multi-stage @docker file for @Angular and @nodejs with @code - from my keynote at @ngVikingsConf (incredible even…",
+   "retweet_count": 119,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969878383441129500,
+    "id_str": "969878383441129472",
+    "created_at": "Sat Mar 03 10:13:20 +0000 2018",
+    "text": "Creating a multi-stage @docker file for @Angular and @nodejs with @code - from my keynote at @ngVikingsConf (incred… https://t.co/P3FBdM8y0V",
+    "retweet_count": 119,
+    "favorite_count": 353,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/P3FBdM8y0V",
+      "expand": "https://twitter.com/i/web/status/969878383441129472"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970791607522836500,
+   "id_str": "970791607522836480",
+   "created_at": "Mon Mar 05 22:42:10 +0000 2018",
+   "text": "RT @thoughtram: 🔥 BLOGGED: Advanced Caching with @ReactiveX 🔥\n\nMany folks have asked us how to implement different caching algorithms using…",
+   "retweet_count": 95,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970676769845018600,
+    "id_str": "970676769845018625",
+    "created_at": "Mon Mar 05 15:05:50 +0000 2018",
+    "text": "🔥 BLOGGED: Advanced Caching with @ReactiveX 🔥\n\nMany folks have asked us how to implement different caching algorith… https://t.co/dY5fbuoQFS",
+    "retweet_count": 95,
+    "favorite_count": 195,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dY5fbuoQFS",
+      "expand": "https://twitter.com/i/web/status/970676769845018625"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970791332066152400,
+   "id_str": "970791332066152448",
+   "created_at": "Mon Mar 05 22:41:04 +0000 2018",
+   "text": "RT @sahilmalik: Use #SPFx with #Angular and #AngularCLI\n\nhttps://t.co/IKOcI1RNP8\n\n#Office365Dev\n\ncc: @robwormald @bradlygreen @vesajuvonen",
+   "retweet_count": 4,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/IKOcI1RNP8",
+     "expand": "https://winsmarts.com/use-spfx-with-angular-cli-3747c306244b"
+    }
+   ],
+   "retweeted_status": {
+    "id": 970407033328537600,
+    "id_str": "970407033328537600",
+    "created_at": "Sun Mar 04 21:14:00 +0000 2018",
+    "text": "Use #SPFx with #Angular and #AngularCLI\n\nhttps://t.co/IKOcI1RNP8\n\n#Office365Dev\n\ncc: @robwormald @bradlygreen @vesajuvonen",
+    "retweet_count": 4,
+    "favorite_count": 17,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/IKOcI1RNP8",
+      "expand": "https://winsmarts.com/use-spfx-with-angular-cli-3747c306244b"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969662710085398500,
+   "id_str": "969662710085398528",
+   "created_at": "Fri Mar 02 19:56:20 +0000 2018",
+   "text": "RT @brandontroberts: The @Angular community is the best part! Get your ticket to @ngconf, have some fun and hang out with me one night for…",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969648772958519300,
+    "id_str": "969648772958519301",
+    "created_at": "Fri Mar 02 19:00:57 +0000 2018",
+    "text": "The @Angular community is the best part! Get your ticket to @ngconf, have some fun and hang out with me one night f… https://t.co/Lfnk4kiRcD",
+    "retweet_count": 15,
+    "favorite_count": 50,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Lfnk4kiRcD",
+      "expand": "https://twitter.com/i/web/status/969648772958519301"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969389131880116200,
+   "id_str": "969389131880116224",
+   "created_at": "Fri Mar 02 01:49:14 +0000 2018",
+   "text": "@IgorMinar @copelandpatrick We'd be nowhere without you, sir Patrick. I hope we get to see you when we come!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 969308732604772400,
+   "in_reply_to_status_id_str": "969308732604772353",
+   "in_reply_to_screen_name": "IgorMinar",
+   "urls": []
+  },
+  {
+   "id": 968290090471456800,
+   "id_str": "968290090471456768",
+   "created_at": "Tue Feb 27 01:02:02 +0000 2018",
+   "text": "@EisenbergEffect @angular Wow, nice!!!",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 968017250555854800,
+   "in_reply_to_status_id_str": "968017250555854848",
+   "in_reply_to_screen_name": "EisenbergEffect",
+   "urls": []
+  },
+  {
+   "id": 968177485174079500,
+   "id_str": "968177485174079488",
+   "created_at": "Mon Feb 26 17:34:34 +0000 2018",
+   "text": "RT @mgechev: You can use ngrev to visualize the structure of your Angular application! 🔥🔥🔥 Don't forget about the neat features: cmd/ctrl+p…",
+   "retweet_count": 138,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966547303799517200,
+    "id_str": "966547303799517184",
+    "created_at": "Thu Feb 22 05:36:49 +0000 2018",
+    "text": "You can use ngrev to visualize the structure of your Angular application! 🔥🔥🔥 Don't forget about the neat features:… https://t.co/dp798O7vMD",
+    "retweet_count": 138,
+    "favorite_count": 322,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/dp798O7vMD",
+      "expand": "https://twitter.com/i/web/status/966547303799517184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968177399354372100,
+   "id_str": "968177399354372096",
+   "created_at": "Mon Feb 26 17:34:14 +0000 2018",
+   "text": "RT @John_Papa: New @Angular snippets for routing children paths and subscribing to route parameters, for @code\n\nhttps://t.co/WBEPZrwO4R htt…",
+   "retweet_count": 104,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/WBEPZrwO4R",
+     "expand": "https://aka.ms/ng-code"
+    }
+   ],
+   "retweeted_status": {
+    "id": 968118561918083100,
+    "id_str": "968118561918083072",
+    "created_at": "Mon Feb 26 13:40:26 +0000 2018",
+    "text": "New @Angular snippets for routing children paths and subscribing to route parameters, for @code… https://t.co/WYgV8eTm1d",
+    "retweet_count": 104,
+    "favorite_count": 262,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/WYgV8eTm1d",
+      "expand": "https://twitter.com/i/web/status/968118561918083072"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968177317250912300,
+   "id_str": "968177317250912256",
+   "created_at": "Mon Feb 26 17:33:54 +0000 2018",
+   "text": "RT @WeRiseConf: SPEAKER ANNOUNCEMENT: \"Get Yours: Navigating Tech from the Margins\" with @lyft's @JillWetzler at #WeRiseTech! Get your earl…",
+   "retweet_count": 3,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968166646782353400,
+    "id_str": "968166646782353409",
+    "created_at": "Mon Feb 26 16:51:30 +0000 2018",
+    "text": "SPEAKER ANNOUNCEMENT: \"Get Yours: Navigating Tech from the Margins\" with @lyft's @JillWetzler at #WeRiseTech! Get y… https://t.co/lJQTrGSUQq",
+    "retweet_count": 3,
+    "favorite_count": 13,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/lJQTrGSUQq",
+      "expand": "https://twitter.com/i/web/status/968166646782353409"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968176614444957700,
+   "id_str": "968176614444957698",
+   "created_at": "Mon Feb 26 17:31:07 +0000 2018",
+   "text": "Love TypeScript and want in-person time with folks from Microsoft's TypeScript team and members of the Angular team… https://t.co/FEWMfJkScO",
+   "retweet_count": 41,
+   "favorite_count": 106,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/FEWMfJkScO",
+     "expand": "https://twitter.com/i/web/status/968176614444957698"
+    }
+   ]
+  },
+  {
+   "id": 967044683770748900,
+   "id_str": "967044683770748928",
+   "created_at": "Fri Feb 23 14:33:14 +0000 2018",
+   "text": "@popcornpool @dodgymigrant @angular But thanks for telling us!",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966837082902511600,
+   "in_reply_to_status_id_str": "966837082902511616",
+   "in_reply_to_screen_name": "popcornpool",
+   "urls": []
+  },
+  {
+   "id": 967044613197373400,
+   "id_str": "967044613197373441",
+   "created_at": "Fri Feb 23 14:32:57 +0000 2018",
+   "text": "@popcornpool @dodgymigrant @angular We're still very early in the exploration process so too early to tell.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 966837082902511600,
+   "in_reply_to_status_id_str": "966837082902511616",
+   "in_reply_to_screen_name": "popcornpool",
+   "urls": []
+  },
+  {
+   "id": 967043543062556700,
+   "id_str": "967043543062556672",
+   "created_at": "Fri Feb 23 14:28:42 +0000 2018",
+   "text": "RT @samantha_klemm: Hello, world! My name is Samantha and I'm a senior in computer science, graduating in Dec! I transferred to CS and thus…",
+   "retweet_count": 176,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 966433887676231700,
+    "id_str": "966433887676231681",
+    "created_at": "Wed Feb 21 22:06:08 +0000 2018",
+    "text": "Hello, world! My name is Samantha and I'm a senior in computer science, graduating in Dec! I transferred to CS and… https://t.co/FjPDgiIxmv",
+    "retweet_count": 176,
+    "favorite_count": 350,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/FjPDgiIxmv",
+      "expand": "https://twitter.com/i/web/status/966433887676231681"
+     }
+    ]
+   }
+  },
+  {
+   "id": 966832567025524700,
+   "id_str": "966832567025524736",
+   "created_at": "Fri Feb 23 00:30:21 +0000 2018",
+   "text": "@Castroalas @angular Still doing lots of improvements to i18n. We should probably publish a roadmap for that too. @vberchet",
+   "retweet_count": 0,
+   "favorite_count": 5,
+   "place": null,
+   "in_reply_to_status_id": 966816365758877700,
+   "in_reply_to_status_id_str": "966816365758877697",
+   "in_reply_to_screen_name": "Castroalas",
+   "urls": []
   }
  ]
 }

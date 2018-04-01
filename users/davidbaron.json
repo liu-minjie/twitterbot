@@ -1,6 +1,2434 @@
 {
- "time": 1519367050689,
+ "time": 1522594967727,
  "lists": [
+  {
+   "id": 980246295095918600,
+   "id_str": "980246295095918592",
+   "created_at": "Sun Apr 01 00:51:43 +0000 2018",
+   "text": "@letsoftware @rachelandrew Nobody would ship a rendering engine with changes that broke lots of websites that their… https://t.co/29ySAKb5iw",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 980245659084353500,
+   "in_reply_to_status_id_str": "980245659084353536",
+   "in_reply_to_screen_name": "letsoftware",
+   "urls": [
+    {
+     "url": "https://t.co/29ySAKb5iw",
+     "expand": "https://twitter.com/i/web/status/980246295095918592"
+    }
+   ]
+  },
+  {
+   "id": 980244148312670200,
+   "id_str": "980244148312670208",
+   "created_at": "Sun Apr 01 00:43:11 +0000 2018",
+   "text": "@letsoftware @rachelandrew If that were the case, there would be much less freedom to change anything because sites… https://t.co/YAaWdWmpRC",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 980242774128840700,
+   "in_reply_to_status_id_str": "980242774128840704",
+   "in_reply_to_screen_name": "letsoftware",
+   "urls": [
+    {
+     "url": "https://t.co/YAaWdWmpRC",
+     "expand": "https://twitter.com/i/web/status/980244148312670208"
+    }
+   ]
+  },
+  {
+   "id": 980242163219877900,
+   "id_str": "980242163219877888",
+   "created_at": "Sun Apr 01 00:35:18 +0000 2018",
+   "text": "@letsoftware @rachelandrew Three of the four major engines (Gecko, WebKit, Blink) are open source.  (Edge isn't.)",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": 980241172802261000,
+   "in_reply_to_status_id_str": "980241172802260992",
+   "in_reply_to_screen_name": "letsoftware",
+   "urls": []
+  },
+  {
+   "id": 980239909435842600,
+   "id_str": "980239909435842560",
+   "created_at": "Sun Apr 01 00:26:21 +0000 2018",
+   "text": "@wycats @asadotzler @the_real_jeffg @fabricedesre @pascalchevrel Though I think it's not just the cost of building… https://t.co/jKNLujOEi5",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": null,
+   "in_reply_to_status_id": 979811107912101900,
+   "in_reply_to_status_id_str": "979811107912101888",
+   "in_reply_to_screen_name": "wycats",
+   "urls": [
+    {
+     "url": "https://t.co/jKNLujOEi5",
+     "expand": "https://twitter.com/i/web/status/980239909435842560"
+    }
+   ]
+  },
+  {
+   "id": 980234205996097500,
+   "id_str": "980234205996097536",
+   "created_at": "Sun Apr 01 00:03:41 +0000 2018",
+   "text": "RT @TheEconomist: Democracy continues its disturbing retreat https://t.co/9KPF6TvM1P https://t.co/HwKLpAnF3Q",
+   "retweet_count": 467,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/9KPF6TvM1P",
+     "expand": "https://econ.st/2pPcOMC"
+    }
+   ],
+   "retweeted_status": {
+    "id": 980221696279015400,
+    "id_str": "980221696279015425",
+    "created_at": "Sat Mar 31 23:13:58 +0000 2018",
+    "text": "Democracy continues its disturbing retreat https://t.co/9KPF6TvM1P https://t.co/HwKLpAnF3Q",
+    "retweet_count": 467,
+    "favorite_count": 435,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9KPF6TvM1P",
+      "expand": "https://econ.st/2pPcOMC"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979940650673041400,
+   "id_str": "979940650673041409",
+   "created_at": "Sat Mar 31 04:37:12 +0000 2018",
+   "text": "@roessler Among my favorite Proposition 65 warnings are the ones in 99 Ranch: https://t.co/Cai1URBC7j",
+   "retweet_count": 1,
+   "favorite_count": 1,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979903087295909900,
+   "in_reply_to_status_id_str": "979903087295909889",
+   "in_reply_to_screen_name": "roessler",
+   "urls": []
+  },
+  {
+   "id": 979839601790533600,
+   "id_str": "979839601790533633",
+   "created_at": "Fri Mar 30 21:55:40 +0000 2018",
+   "text": "@alon_levy My one good experience with a transit app was in Switzerland, where IIRC the same app worked on the nati… https://t.co/awjIbJK4de",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979460205393141800,
+   "in_reply_to_status_id_str": "979460205393141761",
+   "in_reply_to_screen_name": "alon_levy",
+   "urls": [
+    {
+     "url": "https://t.co/awjIbJK4de",
+     "expand": "https://twitter.com/i/web/status/979839601790533633"
+    }
+   ]
+  },
+  {
+   "id": 979819622902870000,
+   "id_str": "979819622902870017",
+   "created_at": "Fri Mar 30 20:36:16 +0000 2018",
+   "text": "RT @Cezary: Reposting this thread from yesterday - here is the link to our @wsj graphic looking back on the legacy of the 2008 financial cr…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979709553053962200,
+    "id_str": "979709553053962242",
+    "created_at": "Fri Mar 30 13:18:54 +0000 2018",
+    "text": "Reposting this thread from yesterday - here is the link to our @wsj graphic looking back on the legacy of the 2008… https://t.co/kBDNCBDO8s",
+    "retweet_count": 13,
+    "favorite_count": 21,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/kBDNCBDO8s",
+      "expand": "https://twitter.com/i/web/status/979709553053962242"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979805684135993300,
+   "id_str": "979805684135993344",
+   "created_at": "Fri Mar 30 19:40:53 +0000 2018",
+   "text": "RT @NYMag: Lessons from the Park Slope crash that killed two children, by @heybonanos https://t.co/JQTGXaEqIw",
+   "retweet_count": 35,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/JQTGXaEqIw",
+     "expand": "https://nym.ag/2GJjkyS"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979801339764052000,
+    "id_str": "979801339764051969",
+    "created_at": "Fri Mar 30 19:23:37 +0000 2018",
+    "text": "Lessons from the Park Slope crash that killed two children, by @heybonanos https://t.co/JQTGXaEqIw",
+    "retweet_count": 35,
+    "favorite_count": 48,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JQTGXaEqIw",
+      "expand": "https://nym.ag/2GJjkyS"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979516807827501000,
+   "id_str": "979516807827501056",
+   "created_at": "Fri Mar 30 00:33:00 +0000 2018",
+   "text": "RT @nytopinion: David Shulkin: It shouldn't be this hard to serve your country https://t.co/nA8KDWilNB",
+   "retweet_count": 12,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/nA8KDWilNB",
+     "expand": "https://nyti.ms/2IeDtdr"
+    }
+   ],
+   "retweeted_status": {
+    "id": 979431817227980800,
+    "id_str": "979431817227980800",
+    "created_at": "Thu Mar 29 18:55:16 +0000 2018",
+    "text": "David Shulkin: It shouldn't be this hard to serve your country https://t.co/nA8KDWilNB",
+    "retweet_count": 12,
+    "favorite_count": 18,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/nA8KDWilNB",
+      "expand": "https://nyti.ms/2IeDtdr"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979512192750858200,
+   "id_str": "979512192750858242",
+   "created_at": "Fri Mar 30 00:14:39 +0000 2018",
+   "text": "RT @sfchronicle: Editorial | The ravages of California’s housing crisis are pervasive. But there is a place where the problem hardly exists…",
+   "retweet_count": 6,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979462462696316900,
+    "id_str": "979462462696316929",
+    "created_at": "Thu Mar 29 20:57:03 +0000 2018",
+    "text": "Editorial | The ravages of California’s housing crisis are pervasive. But there is a place where the problem hardly… https://t.co/XCl42QcqCQ",
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/XCl42QcqCQ",
+      "expand": "https://twitter.com/i/web/status/979462462696316929"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979164180967145500,
+   "id_str": "979164180967145473",
+   "created_at": "Thu Mar 29 01:11:47 +0000 2018",
+   "text": "RT @brianmrosenthal: NEWS: Congress has ordered the Government Accountability Office to study why transit construction costs so much in New…",
+   "retweet_count": 362,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979126679602942000,
+    "id_str": "979126679602941958",
+    "created_at": "Wed Mar 28 22:42:46 +0000 2018",
+    "text": "NEWS: Congress has ordered the Government Accountability Office to study why transit construction costs so much in… https://t.co/1Gg1fHtR3O",
+    "retweet_count": 362,
+    "favorite_count": 742,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1Gg1fHtR3O",
+      "expand": "https://twitter.com/i/web/status/979126679602941958"
+     }
+    ]
+   }
+  },
+  {
+   "id": 979082606720335900,
+   "id_str": "979082606720335874",
+   "created_at": "Wed Mar 28 19:47:38 +0000 2018",
+   "text": "@khuey_ Ah, makes sense that Handle::spawn needs no error and that's different from Core::run.\n\nI guess I had the w… https://t.co/8GinwEaCLs",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979081883601354800,
+   "in_reply_to_status_id_str": "979081883601354752",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/8GinwEaCLs",
+     "expand": "https://twitter.com/i/web/status/979082606720335874"
+    }
+   ]
+  },
+  {
+   "id": 979081997409599500,
+   "id_str": "979081997409599488",
+   "created_at": "Wed Mar 28 19:45:13 +0000 2018",
+   "text": "@khuey_ Oh, so I was reading the error message backwards, then.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979081782438985700,
+   "in_reply_to_status_id_str": "979081782438985729",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": []
+  },
+  {
+   "id": 979080984648822800,
+   "id_str": "979080984648822785",
+   "created_at": "Wed Mar 28 19:41:11 +0000 2018",
+   "text": "@khuey_ Curious if https://t.co/77DMKKNMH0 leads to immediate advice, though.  (I'm confused, since the inner type… https://t.co/sYqpKFh2qO",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979075120055464000,
+   "in_reply_to_status_id_str": "979075120055463936",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/77DMKKNMH0",
+     "expand": "https://pastebin.mozilla.org/9081121"
+    },
+    {
+     "url": "https://t.co/sYqpKFh2qO",
+     "expand": "https://twitter.com/i/web/status/979080984648822785"
+    }
+   ]
+  },
+  {
+   "id": 979074577530671100,
+   "id_str": "979074577530671109",
+   "created_at": "Wed Mar 28 19:15:44 +0000 2018",
+   "text": "@khuey_ @snorp Yeah, I was just rereading that; I hadn't realized that Stream::for_each produced a future rather th… https://t.co/pCEykGfThH",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": null,
+   "in_reply_to_status_id": 979074366141943800,
+   "in_reply_to_status_id_str": "979074366141943808",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/pCEykGfThH",
+     "expand": "https://twitter.com/i/web/status/979074577530671109"
+    }
+   ]
+  },
+  {
+   "id": 979073716419158000,
+   "id_str": "979073716419158016",
+   "created_at": "Wed Mar 28 19:12:18 +0000 2018",
+   "text": "@khuey_ @snorp What I was trying to do was pass the stream off to the Core or Handle to run (pump?) it to completio… https://t.co/NK7oyBa5iF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979072478772305900,
+   "in_reply_to_status_id_str": "979072478772305920",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/NK7oyBa5iF",
+     "expand": "https://twitter.com/i/web/status/979073716419158016"
+    }
+   ]
+  },
+  {
+   "id": 979071602275975200,
+   "id_str": "979071602275975168",
+   "created_at": "Wed Mar 28 19:03:54 +0000 2018",
+   "text": "@khuey_ @snorp I don't yet have an intuitive sense of rust error checking stages beyond knowing that I won't get bo… https://t.co/roC0hPqtMV",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979071480955732000,
+   "in_reply_to_status_id_str": "979071480955731969",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/roC0hPqtMV",
+     "expand": "https://twitter.com/i/web/status/979071602275975168"
+    }
+   ]
+  },
+  {
+   "id": 979071480955732000,
+   "id_str": "979071480955731969",
+   "created_at": "Wed Mar 28 19:03:25 +0000 2018",
+   "text": "@khuey_ @snorp On the other hand, maybe these inscrutable errors weren't caused by what I thought they were caused… https://t.co/ugz73c0tND",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979070833854263300,
+   "in_reply_to_status_id_str": "979070833854263296",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/ugz73c0tND",
+     "expand": "https://twitter.com/i/web/status/979071480955731969"
+    }
+   ]
+  },
+  {
+   "id": 979070371562336300,
+   "id_str": "979070371562336256",
+   "created_at": "Wed Mar 28 18:59:01 +0000 2018",
+   "text": "@snorp The thing I'm working on depends on crates (like hyper) that depend on the old stuff, which means I can't us… https://t.co/35yMrHdYCe",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 979069092815622100,
+   "in_reply_to_status_id_str": "979069092815622145",
+   "in_reply_to_screen_name": "snorp",
+   "urls": [
+    {
+     "url": "https://t.co/35yMrHdYCe",
+     "expand": "https://twitter.com/i/web/status/979070371562336256"
+    }
+   ]
+  },
+  {
+   "id": 979068368710811600,
+   "id_str": "979068368710811648",
+   "created_at": "Wed Mar 28 18:51:03 +0000 2018",
+   "text": "Writing tokio code in rust has been difficult because of the Tokio Reform described in https://t.co/tYa8CKVdYb .  T… https://t.co/LsoeINGdZX",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/tYa8CKVdYb",
+     "expand": "https://tokio.rs/blog/2018-02-tokio-reform-shipped/"
+    },
+    {
+     "url": "https://t.co/LsoeINGdZX",
+     "expand": "https://twitter.com/i/web/status/979068368710811648"
+    }
+   ]
+  },
+  {
+   "id": 978725823455805400,
+   "id_str": "978725823455805440",
+   "created_at": "Tue Mar 27 20:09:54 +0000 2018",
+   "text": "@khuey_ @ManishEarth I think it turns out that \"copy the bits of data that I need for each closure\" wasn't nearly a… https://t.co/6ewzsfuPIt",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 978722104244777000,
+   "in_reply_to_status_id_str": "978722104244776960",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/6ewzsfuPIt",
+     "expand": "https://twitter.com/i/web/status/978725823455805440"
+    }
+   ]
+  },
+  {
+   "id": 978721341003083800,
+   "id_str": "978721341003083776",
+   "created_at": "Tue Mar 27 19:52:06 +0000 2018",
+   "text": "@khuey_ @ManishEarth The actual error messages I'm looking at now aren't that interesting; it's more that the way I… https://t.co/19heV4UjYP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 978720826831781900,
+   "in_reply_to_status_id_str": "978720826831781889",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/19heV4UjYP",
+     "expand": "https://twitter.com/i/web/status/978721341003083776"
+    }
+   ]
+  },
+  {
+   "id": 978720826831781900,
+   "id_str": "978720826831781889",
+   "created_at": "Tue Mar 27 19:50:03 +0000 2018",
+   "text": "@khuey_ @ManishEarth The actual error messages are from the borrow checker, about lifetimes of references in closur… https://t.co/DSmInBnfvP",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 978712119318204400,
+   "in_reply_to_status_id_str": "978712119318204418",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/DSmInBnfvP",
+     "expand": "https://twitter.com/i/web/status/978720826831781889"
+    }
+   ]
+  },
+  {
+   "id": 978711784411471900,
+   "id_str": "978711784411471872",
+   "created_at": "Tue Mar 27 19:14:07 +0000 2018",
+   "text": "@khuey_ @ManishEarth let mut core = Core::new().unwrap();\n    let mut irc_state = IRCState::new(ghtype, handle);… https://t.co/HRnRETEAUq",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 978705682122735600,
+   "in_reply_to_status_id_str": "978705682122735616",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": [
+    {
+     "url": "https://t.co/HRnRETEAUq",
+     "expand": "https://twitter.com/i/web/status/978711784411471872"
+    }
+   ]
+  },
+  {
+   "id": 978705161336926200,
+   "id_str": "978705161336926208",
+   "created_at": "Tue Mar 27 18:47:48 +0000 2018",
+   "text": "@khuey_ @ManishEarth See my reply to Manish... it's not quite global.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 978699779399036900,
+   "in_reply_to_status_id_str": "978699779399036928",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": []
+  },
+  {
+   "id": 978703257890472000,
+   "id_str": "978703257890471936",
+   "created_at": "Tue Mar 27 18:40:14 +0000 2018",
+   "text": "@ManishEarth I don't think I want a proper global since the \"global\" is set up differently in the running bot versu… https://t.co/Qm26gmcMyR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 978699506584875000,
+   "in_reply_to_status_id_str": "978699506584875009",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": [
+    {
+     "url": "https://t.co/Qm26gmcMyR",
+     "expand": "https://twitter.com/i/web/status/978703257890471936"
+    }
+   ]
+  },
+  {
+   "id": 978679072631869400,
+   "id_str": "978679072631869440",
+   "created_at": "Tue Mar 27 17:04:08 +0000 2018",
+   "text": "@humphd Last I checked, changing the °C vs. °F setting on the homescreen (not sure if that's the thing you're talki… https://t.co/N3Mks7c0EL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 978439040050573300,
+   "in_reply_to_status_id_str": "978439040050573312",
+   "in_reply_to_screen_name": "humphd",
+   "urls": [
+    {
+     "url": "https://t.co/N3Mks7c0EL",
+     "expand": "https://twitter.com/i/web/status/978679072631869440"
+    }
+   ]
+  },
+  {
+   "id": 978673038781595600,
+   "id_str": "978673038781595648",
+   "created_at": "Tue Mar 27 16:40:09 +0000 2018",
+   "text": "What's the normal way of dealing with \"global\" state in a Rust program using tokio?\n\nOr, to ask a more specific que… https://t.co/kc7kqbufbR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/kc7kqbufbR",
+     "expand": "https://twitter.com/i/web/status/978673038781595648"
+    }
+   ]
+  },
+  {
+   "id": 978667927074365400,
+   "id_str": "978667927074365440",
+   "created_at": "Tue Mar 27 16:19:51 +0000 2018",
+   "text": "RT @nytopinion: John Paul Stevens: Repealing the Second Amendment would move Saturday’s marchers closer to their objective than any other p…",
+   "retweet_count": 875,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 978580401726816300,
+    "id_str": "978580401726816257",
+    "created_at": "Tue Mar 27 10:32:03 +0000 2018",
+    "text": "John Paul Stevens: Repealing the Second Amendment would move Saturday’s marchers closer to their objective than any… https://t.co/OsWLRQPnnV",
+    "retweet_count": 875,
+    "favorite_count": 1708,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OsWLRQPnnV",
+      "expand": "https://twitter.com/i/web/status/978580401726816257"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978351587629318100,
+   "id_str": "978351587629318145",
+   "created_at": "Mon Mar 26 19:22:50 +0000 2018",
+   "text": "RT @jonathanchait: Refusal of city governments to allow more and denser housing to be built is a crisis. https://t.co/HzFxHqWkce",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/HzFxHqWkce",
+     "expand": "https://twitter.com/sallykuchar/status/978332798275616768"
+    }
+   ],
+   "retweeted_status": {
+    "id": 978350904100442100,
+    "id_str": "978350904100442112",
+    "created_at": "Mon Mar 26 19:20:07 +0000 2018",
+    "text": "Refusal of city governments to allow more and denser housing to be built is a crisis. https://t.co/HzFxHqWkce",
+    "retweet_count": 15,
+    "favorite_count": 77,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HzFxHqWkce",
+      "expand": "https://twitter.com/sallykuchar/status/978332798275616768"
+     }
+    ]
+   }
+  },
+  {
+   "id": 978305107379957800,
+   "id_str": "978305107379957762",
+   "created_at": "Mon Mar 26 16:18:08 +0000 2018",
+   "text": "That the closed Russian Consulates were San Francisco (last time) and Seattle (this time) feels like the US governm… https://t.co/gUaAouTfGT",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/gUaAouTfGT",
+     "expand": "https://twitter.com/i/web/status/978305107379957762"
+    }
+   ]
+  },
+  {
+   "id": 977328810633777200,
+   "id_str": "977328810633777152",
+   "created_at": "Fri Mar 23 23:38:41 +0000 2018",
+   "text": "@tabatkins @FremyCompany A reliable source for not braking is https://t.co/ceU6S2Q2rF which says:\n\n\"According to th… https://t.co/AQk8osgQPl",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 977230453143842800,
+   "in_reply_to_status_id_str": "977230453143842816",
+   "in_reply_to_screen_name": "tabatkins",
+   "urls": [
+    {
+     "url": "https://t.co/ceU6S2Q2rF",
+     "expand": "https://www.nytimes.com/2018/03/23/technology/uber-self-driving-cars-arizona.html"
+    },
+    {
+     "url": "https://t.co/AQk8osgQPl",
+     "expand": "https://twitter.com/i/web/status/977328810633777152"
+    }
+   ]
+  },
+  {
+   "id": 977235979843989500,
+   "id_str": "977235979843989504",
+   "created_at": "Fri Mar 23 17:29:48 +0000 2018",
+   "text": "@mhoye @khuey_ Though I tend to use the more old-fashioned sort of tool: https://t.co/qyGhDbgSdR",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 977229197688131600,
+   "in_reply_to_status_id_str": "977229197688131584",
+   "in_reply_to_screen_name": "mhoye",
+   "urls": [
+    {
+     "url": "https://t.co/qyGhDbgSdR",
+     "expand": "https://www.amazon.com/J-Henckels-International-9-Inch-Honing/dp/B00004RFNK/"
+    }
+   ]
+  },
+  {
+   "id": 977228044761890800,
+   "id_str": "977228044761890822",
+   "created_at": "Fri Mar 23 16:58:16 +0000 2018",
+   "text": "@khuey_ You can sharpen knives at home given the right tools (there are multiple options).",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 977201956237144000,
+   "in_reply_to_status_id_str": "977201956237144064",
+   "in_reply_to_screen_name": "khuey_",
+   "urls": []
+  },
+  {
+   "id": 977223798641410000,
+   "id_str": "977223798641410048",
+   "created_at": "Fri Mar 23 16:41:24 +0000 2018",
+   "text": "@FremyCompany The assertion that the car didn't brake was from another source (although second-hand).",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 976673714656878600,
+   "in_reply_to_status_id_str": "976673714656878592",
+   "in_reply_to_screen_name": "FremyCompany",
+   "urls": []
+  },
+  {
+   "id": 976912504902185000,
+   "id_str": "976912504902184960",
+   "created_at": "Thu Mar 22 20:04:25 +0000 2018",
+   "text": "RT @MarketUrbanism: The way to stop this was to deregulate long ago, before medallion valuations got so perilously high. A lesson for housi…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976842162313809900,
+    "id_str": "976842162313809921",
+    "created_at": "Thu Mar 22 15:24:55 +0000 2018",
+    "text": "The way to stop this was to deregulate long ago, before medallion valuations got so perilously high. A lesson for h… https://t.co/MRrQ5QnAxC",
+    "retweet_count": 11,
+    "favorite_count": 68,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MRrQ5QnAxC",
+      "expand": "https://twitter.com/i/web/status/976842162313809921"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976911479168409600,
+   "id_str": "976911479168409600",
+   "created_at": "Thu Mar 22 20:00:21 +0000 2018",
+   "text": "RT @AlexRoy144: Yesterday I have Uber the benefit of the doubt. I was wrong. My latest @TheDrive https://t.co/MhxJs8b7JW",
+   "retweet_count": 61,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MhxJs8b7JW",
+     "expand": "http://www.thedrive.com/opinion/19504/disgraceful-dashcam-video-proves-uber-is-the-theranos-of-self-driving?xid=twittershare"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976840489596006400,
+    "id_str": "976840489596006400",
+    "created_at": "Thu Mar 22 15:18:16 +0000 2018",
+    "text": "Yesterday I have Uber the benefit of the doubt. I was wrong. My latest @TheDrive https://t.co/MhxJs8b7JW",
+    "retweet_count": 61,
+    "favorite_count": 101,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MhxJs8b7JW",
+      "expand": "http://www.thedrive.com/opinion/19504/disgraceful-dashcam-video-proves-uber-is-the-theranos-of-self-driving?xid=twittershare"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976667662762721300,
+   "id_str": "976667662762721282",
+   "created_at": "Thu Mar 22 03:51:31 +0000 2018",
+   "text": "If we care about humans effects on the environment, we should shift towards living in denser places, with less driv… https://t.co/eYxikZsmr9",
+   "retweet_count": 1,
+   "favorite_count": 9,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 976667661802266600,
+   "in_reply_to_status_id_str": "976667661802266624",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/eYxikZsmr9",
+     "expand": "https://twitter.com/i/web/status/976667662762721282"
+    }
+   ]
+  },
+  {
+   "id": 976667661802266600,
+   "id_str": "976667661802266624",
+   "created_at": "Thu Mar 22 03:51:30 +0000 2018",
+   "text": "I think it's clear from this video that *these* self-driving cars aren't safe for public roads.  The car should hav… https://t.co/MnRGMHk8K7",
+   "retweet_count": 3,
+   "favorite_count": 7,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/MnRGMHk8K7",
+     "expand": "https://twitter.com/i/web/status/976667661802266624"
+    }
+   ]
+  },
+  {
+   "id": 976500688866893800,
+   "id_str": "976500688866893824",
+   "created_at": "Wed Mar 21 16:48:01 +0000 2018",
+   "text": "@__apf__ On desktop https://t.co/mRbhH7Y70S everything has a checkbox next to it...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 976282544210526200,
+   "in_reply_to_status_id_str": "976282544210526208",
+   "in_reply_to_screen_name": "__apf__",
+   "urls": [
+    {
+     "url": "https://t.co/mRbhH7Y70S",
+     "expand": "https://www.facebook.com/"
+    }
+   ]
+  },
+  {
+   "id": 976315697813798900,
+   "id_str": "976315697813798912",
+   "created_at": "Wed Mar 21 04:32:56 +0000 2018",
+   "text": "RT @ShaunKing: RED ALERT. \n\nPhiladelphia's DA just issued the most revolutionary guiding document ever written from someone working INSIDE…",
+   "retweet_count": 11298,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976218577954099200,
+    "id_str": "976218577954099202",
+    "created_at": "Tue Mar 20 22:07:00 +0000 2018",
+    "text": "RED ALERT. \n\nPhiladelphia's DA just issued the most revolutionary guiding document ever written from someone workin… https://t.co/HMmi23zxNa",
+    "retweet_count": 11298,
+    "favorite_count": 22485,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HMmi23zxNa",
+      "expand": "https://twitter.com/i/web/status/976218577954099202"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976256419312812000,
+   "id_str": "976256419312812032",
+   "created_at": "Wed Mar 21 00:37:22 +0000 2018",
+   "text": "RT @jdawsey1: Trump's written briefing materials for call this morning with Putin included this in caps: \"DO NOT CONGRATULATE.\" It also sai…",
+   "retweet_count": 833,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976236697972289500,
+    "id_str": "976236697972289537",
+    "created_at": "Tue Mar 20 23:19:01 +0000 2018",
+    "text": "Trump's written briefing materials for call this morning with Putin included this in caps: \"DO NOT CONGRATULATE.\" I… https://t.co/QNTst9MSvE",
+    "retweet_count": 833,
+    "favorite_count": 1456,
+    "place": "Washington, DC",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QNTst9MSvE",
+      "expand": "https://twitter.com/i/web/status/976236697972289537"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976246473695182800,
+   "id_str": "976246473695182848",
+   "created_at": "Tue Mar 20 23:57:51 +0000 2018",
+   "text": "@ManishEarth @tejubabyface_ On the other hand, the Euro did the logical/size grouping, and ended up with sets of th… https://t.co/WI2qdU3L8H",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976246163253833700,
+   "in_reply_to_status_id_str": "976246163253833728",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/WI2qdU3L8H",
+     "expand": "https://twitter.com/i/web/status/976246473695182848"
+    }
+   ]
+  },
+  {
+   "id": 976246163253833700,
+   "id_str": "976246163253833728",
+   "created_at": "Tue Mar 20 23:56:37 +0000 2018",
+   "text": "@ManishEarth @tejubabyface_ The UK sort of has this nice system where there are four types of coin appearance, each… https://t.co/DNbEQiGZwD",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976243340306890800,
+   "in_reply_to_status_id_str": "976243340306890752",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": [
+    {
+     "url": "https://t.co/DNbEQiGZwD",
+     "expand": "https://twitter.com/i/web/status/976246163253833728"
+    }
+   ]
+  },
+  {
+   "id": 976234620525068300,
+   "id_str": "976234620525068288",
+   "created_at": "Tue Mar 20 23:10:45 +0000 2018",
+   "text": "@ManishEarth I'm a big fan of the Japanese coinage system, btw, except for the fact that *one* coin (5 JPY) has its… https://t.co/qabT0WEXe9",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976133652613513200,
+   "in_reply_to_status_id_str": "976133652613513216",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": [
+    {
+     "url": "https://t.co/qabT0WEXe9",
+     "expand": "https://twitter.com/i/web/status/976234620525068288"
+    }
+   ]
+  },
+  {
+   "id": 976234089148702700,
+   "id_str": "976234089148702720",
+   "created_at": "Tue Mar 20 23:08:39 +0000 2018",
+   "text": "@ManishEarth Did you get:\n\n  ONE DIME?  What's a dime?\n\n?",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976133652613513200,
+   "in_reply_to_status_id_str": "976133652613513216",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": []
+  },
+  {
+   "id": 976233853764300800,
+   "id_str": "976233853764300800",
+   "created_at": "Tue Mar 20 23:07:42 +0000 2018",
+   "text": "@tejubabyface_ @ManishEarth dime (0.10 USD) / quarter (0.25) / half dollar (0.5) have consistent weight/value, and… https://t.co/GvQrjt1CBl",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976134722299613200,
+   "in_reply_to_status_id_str": "976134722299613184",
+   "in_reply_to_screen_name": "tejubabyface_",
+   "urls": [
+    {
+     "url": "https://t.co/GvQrjt1CBl",
+     "expand": "https://twitter.com/i/web/status/976233853764300800"
+    }
+   ]
+  },
+  {
+   "id": 976230594370666500,
+   "id_str": "976230594370666496",
+   "created_at": "Tue Mar 20 22:54:45 +0000 2018",
+   "text": "@mattyglesias (I get most of my news on Caltrain from https://t.co/7dnXVaLLds and @alevin's posts on https://t.co/50TpVR7Ejt .)",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976229881896988700,
+   "in_reply_to_status_id_str": "976229881896988673",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/7dnXVaLLds",
+     "expand": "https://caltrain-hsr.blogspot.com/"
+    },
+    {
+     "url": "https://t.co/50TpVR7Ejt",
+     "expand": "http://www.greencaltrain.com/"
+    }
+   ]
+  },
+  {
+   "id": 976229881896988700,
+   "id_str": "976229881896988673",
+   "created_at": "Tue Mar 20 22:51:55 +0000 2018",
+   "text": "@mattyglesias Still have to hope they pick a not-horrible route for the downtown extension, make the right technolo… https://t.co/ktyzyNQlds",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976229436436590600,
+   "in_reply_to_status_id_str": "976229436436590596",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/ktyzyNQlds",
+     "expand": "https://twitter.com/i/web/status/976229881896988673"
+    }
+   ]
+  },
+  {
+   "id": 976229436436590600,
+   "id_str": "976229436436590596",
+   "created_at": "Tue Mar 20 22:50:09 +0000 2018",
+   "text": "@mattyglesias * Caltrain electrification construction is underway https://t.co/boVNptU4R8\n* new electric cars to ha… https://t.co/uTCrkhCQZk",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 976217704083443700,
+   "in_reply_to_status_id_str": "976217704083443712",
+   "in_reply_to_screen_name": "mattyglesias",
+   "urls": [
+    {
+     "url": "https://t.co/boVNptU4R8",
+     "expand": "http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html"
+    },
+    {
+     "url": "https://t.co/uTCrkhCQZk",
+     "expand": "https://twitter.com/i/web/status/976229436436590596"
+    }
+   ]
+  },
+  {
+   "id": 976227014075080700,
+   "id_str": "976227014075080704",
+   "created_at": "Tue Mar 20 22:40:32 +0000 2018",
+   "text": "@trnsprtst If this were aviation, there would be multiple fixes required in each of the four areas.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 975858387576528900,
+   "in_reply_to_status_id_str": "975858387576528897",
+   "in_reply_to_screen_name": "trnsprtst",
+   "urls": []
+  },
+  {
+   "id": 975889325731676200,
+   "id_str": "975889325731676160",
+   "created_at": "Tue Mar 20 00:18:41 +0000 2018",
+   "text": "Menu cards.  Menu cards!  Like on real airlines.\n\nMy usual response to “Chicken or Pasta?” is “Sorry, what did you… https://t.co/53FBWcc4i1",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/53FBWcc4i1",
+     "expand": "https://twitter.com/i/web/status/975889325731676160"
+    }
+   ]
+  },
+  {
+   "id": 975886366423752700,
+   "id_str": "975886366423752704",
+   "created_at": "Tue Mar 20 00:06:55 +0000 2018",
+   "text": "@rocallahan On the flip side, they have a lot more revenue to put towards working on those solutions.",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975881982709137400,
+   "in_reply_to_status_id_str": "975881982709137408",
+   "in_reply_to_screen_name": "rocallahan",
+   "urls": []
+  },
+  {
+   "id": 975850143357415400,
+   "id_str": "975850143357415425",
+   "created_at": "Mon Mar 19 21:42:59 +0000 2018",
+   "text": "@voxdotcom as does https://t.co/KkubiruqXh",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975849841367502800,
+   "in_reply_to_status_id_str": "975849841367502848",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/KkubiruqXh",
+     "expand": "https://twitter.com/DonMacKenzie9/status/975831610774794240"
+    }
+   ]
+  },
+  {
+   "id": 975849841367502800,
+   "id_str": "975849841367502848",
+   "created_at": "Mon Mar 19 21:41:47 +0000 2018",
+   "text": "@voxdotcom https://t.co/kMInka6oLn disagrees with the claim that human-driven cars are (so far) deadlier",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975838081466105900,
+   "in_reply_to_status_id_str": "975838081466105856",
+   "in_reply_to_screen_name": "voxdotcom",
+   "urls": [
+    {
+     "url": "https://t.co/kMInka6oLn",
+     "expand": "https://twitter.com/BenRossTransit/status/975791572905287680"
+    }
+   ]
+  },
+  {
+   "id": 975846822164889600,
+   "id_str": "975846822164889600",
+   "created_at": "Mon Mar 19 21:29:47 +0000 2018",
+   "text": "@luis_in_140 Though I think there is some element of customer dissatisfaction, but maybe it's only among the techno… https://t.co/g2hD2rEbvL",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975844527503130600,
+   "in_reply_to_status_id_str": "975844527503130624",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/g2hD2rEbvL",
+     "expand": "https://twitter.com/i/web/status/975846822164889600"
+    }
+   ]
+  },
+  {
+   "id": 975844527503130600,
+   "id_str": "975844527503130624",
+   "created_at": "Mon Mar 19 21:20:40 +0000 2018",
+   "text": "@luis_in_140 Yeah, it's certainly a different threat to the business: regulation rather than customer dissatisfaction.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975842179217211400,
+   "in_reply_to_status_id_str": "975842179217211392",
+   "in_reply_to_screen_name": "luis_in_140",
+   "urls": []
+  },
+  {
+   "id": 975841752711028700,
+   "id_str": "975841752711028737",
+   "created_at": "Mon Mar 19 21:09:38 +0000 2018",
+   "text": "@luis_in_140 Sure.  But I also think that concrete definition is substantively different from what it was in 2000,… https://t.co/kDV2mS7qDp",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975840745130156000,
+   "in_reply_to_status_id_str": "975840745130156032",
+   "in_reply_to_screen_name": "luis_in_140",
+   "urls": [
+    {
+     "url": "https://t.co/kDV2mS7qDp",
+     "expand": "https://twitter.com/i/web/status/975841752711028737"
+    }
+   ]
+  },
+  {
+   "id": 975838571713118200,
+   "id_str": "975838571713118208",
+   "created_at": "Mon Mar 19 20:57:00 +0000 2018",
+   "text": "I'm not entirely sure what the equivalents would be in search and recommendation algorithms.  I'm not an expert in… https://t.co/hucKSThi7R",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975838570932879400,
+   "in_reply_to_status_id_str": "975838570932879360",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/hucKSThi7R",
+     "expand": "https://twitter.com/i/web/status/975838571713118208"
+    }
+   ]
+  },
+  {
+   "id": 975838570932879400,
+   "id_str": "975838570932879360",
+   "created_at": "Mon Mar 19 20:57:00 +0000 2018",
+   "text": "And to be clear:  norms in the browser engine world are moving towards multiple layers of protection:  writing code… https://t.co/HSOno82O9m",
+   "retweet_count": 1,
+   "favorite_count": 2,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975838569997639700,
+   "in_reply_to_status_id_str": "975838569997639680",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/HSOno82O9m",
+     "expand": "https://twitter.com/i/web/status/975838570932879360"
+    }
+   ]
+  },
+  {
+   "id": 975838569997639700,
+   "id_str": "975838569997639680",
+   "created_at": "Mon Mar 19 20:56:59 +0000 2018",
+   "text": "Are @facebook and @Twitter and @Google now looking at gaming of their algorithms as a security vulnerability the wa… https://t.co/czIY0MMOkr",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975838568789680100,
+   "in_reply_to_status_id_str": "975838568789680128",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/czIY0MMOkr",
+     "expand": "https://twitter.com/i/web/status/975838569997639680"
+    }
+   ]
+  },
+  {
+   "id": 975838568789680100,
+   "id_str": "975838568789680128",
+   "created_at": "Mon Mar 19 20:56:59 +0000 2018",
+   "text": "Around this time, I think Microsoft stopped feature development for an extended period of time and focus on softwar… https://t.co/P0FaU0KOK1",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 975838567384559600,
+   "in_reply_to_status_id_str": "975838567384559616",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/P0FaU0KOK1",
+     "expand": "https://twitter.com/i/web/status/975838568789680128"
+    }
+   ]
+  },
+  {
+   "id": 975838567384559600,
+   "id_str": "975838567384559616",
+   "created_at": "Mon Mar 19 20:56:59 +0000 2018",
+   "text": "I'm starting to wonder if social networking sites (@facebook, @Twitter) and search sites (@Google) of today are sim… https://t.co/VXVJDSjsLC",
+   "retweet_count": 2,
+   "favorite_count": 7,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/VXVJDSjsLC",
+     "expand": "https://twitter.com/i/web/status/975838567384559616"
+    }
+   ]
+  },
+  {
+   "id": 975812152597602300,
+   "id_str": "975812152597602304",
+   "created_at": "Mon Mar 19 19:12:01 +0000 2018",
+   "text": "RT @mattyglesias: Greater density zoning near public transit is the most important idea in American politics today https://t.co/hZGcOn34OF…",
+   "retweet_count": 240,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hZGcOn34OF",
+     "expand": "https://dashboard.voxmedia.com/tools/post-publish-url/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975786508153229300,
+    "id_str": "975786508153229312",
+    "created_at": "Mon Mar 19 17:30:07 +0000 2018",
+    "text": "Greater density zoning near public transit is the most important idea in American politics today… https://t.co/MXtHTnWu5m",
+    "retweet_count": 240,
+    "favorite_count": 702,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/MXtHTnWu5m",
+      "expand": "https://twitter.com/i/web/status/975786508153229312"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975811716452835300,
+   "id_str": "975811716452835329",
+   "created_at": "Mon Mar 19 19:10:17 +0000 2018",
+   "text": "RT @DLind: If Trump tweets about Austin at this point, it'll raise awkward qs about whether he only cared once white people got hit.\n\nIf he…",
+   "retweet_count": 41,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 975805120817631200,
+    "id_str": "975805120817631232",
+    "created_at": "Mon Mar 19 18:44:05 +0000 2018",
+    "text": "If Trump tweets about Austin at this point, it'll raise awkward qs about whether he only cared once white people go… https://t.co/OVASgLUUfD",
+    "retweet_count": 41,
+    "favorite_count": 104,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/OVASgLUUfD",
+      "expand": "https://twitter.com/i/web/status/975805120817631232"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975545958917324800,
+   "id_str": "975545958917324800",
+   "created_at": "Mon Mar 19 01:34:16 +0000 2018",
+   "text": "RT @JoeKGoldstein: ‘Testilying’ — a Stubborn Police Problem   via @NYTimes https://t.co/QuKIG1n0LC",
+   "retweet_count": 33,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/QuKIG1n0LC",
+     "expand": "https://nyti.ms/2GE3piY"
+    }
+   ],
+   "retweeted_status": {
+    "id": 975411572041502700,
+    "id_str": "975411572041502720",
+    "created_at": "Sun Mar 18 16:40:15 +0000 2018",
+    "text": "‘Testilying’ — a Stubborn Police Problem   via @NYTimes https://t.co/QuKIG1n0LC",
+    "retweet_count": 33,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/QuKIG1n0LC",
+      "expand": "https://nyti.ms/2GE3piY"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975222630495133700,
+   "id_str": "975222630495133696",
+   "created_at": "Sun Mar 18 04:09:28 +0000 2018",
+   "text": "RT @ConorDougherty: I'm breaking my \"no Twitter until Opening Day\" pledge to Tweet this story I wrote with @bradplumer on the growing envir…",
+   "retweet_count": 81,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974662007684177900,
+    "id_str": "974662007684177920",
+    "created_at": "Fri Mar 16 15:01:45 +0000 2018",
+    "text": "I'm breaking my \"no Twitter until Opening Day\" pledge to Tweet this story I wrote with @bradplumer on the growing e… https://t.co/8vy2agq3Eh",
+    "retweet_count": 81,
+    "favorite_count": 193,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8vy2agq3Eh",
+      "expand": "https://twitter.com/i/web/status/974662007684177920"
+     }
+    ]
+   }
+  },
+  {
+   "id": 975056176021848000,
+   "id_str": "975056176021848064",
+   "created_at": "Sat Mar 17 17:08:02 +0000 2018",
+   "text": "RT @JohnBrennan: When the full extent of your venality, moral turpitude, and political corruption becomes known, you will take your rightfu…",
+   "retweet_count": 101643,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 974978856997224400,
+    "id_str": "974978856997224448",
+    "created_at": "Sat Mar 17 12:00:48 +0000 2018",
+    "text": "When the full extent of your venality, moral turpitude, and political corruption becomes known, you will take your… https://t.co/xbl1pcESbL",
+    "retweet_count": 101643,
+    "favorite_count": 243261,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/xbl1pcESbL",
+      "expand": "https://twitter.com/i/web/status/974978856997224448"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973987721512329200,
+   "id_str": "973987721512329216",
+   "created_at": "Wed Mar 14 18:22:23 +0000 2018",
+   "text": "RT @Noahpinion: Greetings, rent-paying Americans! Today's post is about a subject near and dear to my heart: What California can learn abou…",
+   "retweet_count": 205,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973965873147883500,
+    "id_str": "973965873147883520",
+    "created_at": "Wed Mar 14 16:55:34 +0000 2018",
+    "text": "Greetings, rent-paying Americans! Today's post is about a subject near and dear to my heart: What California can le… https://t.co/zEyHvuNdzI",
+    "retweet_count": 205,
+    "favorite_count": 407,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/zEyHvuNdzI",
+      "expand": "https://twitter.com/i/web/status/973965873147883520"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973770283583651800,
+   "id_str": "973770283583651840",
+   "created_at": "Wed Mar 14 03:58:22 +0000 2018",
+   "text": "RT @A_W_Gordon: So I've been investigating the root cause of \"over crowding,\" the single biggest cause of subway delays. And even I was kin…",
+   "retweet_count": 363,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 973533531099058200,
+    "id_str": "973533531099058176",
+    "created_at": "Tue Mar 13 12:17:35 +0000 2018",
+    "text": "So I've been investigating the root cause of \"over crowding,\" the single biggest cause of subway delays. And even I… https://t.co/HyLKdArVHE",
+    "retweet_count": 363,
+    "favorite_count": 628,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/HyLKdArVHE",
+      "expand": "https://twitter.com/i/web/status/973533531099058176"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973332649744916500,
+   "id_str": "973332649744916480",
+   "created_at": "Mon Mar 12 22:59:22 +0000 2018",
+   "text": "@Climatologist49 @firebomb56 If the logistics weren't so hard, I think it would be better to use sunrise-based time… https://t.co/vHaTrBSiIr",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 972969385550737400,
+   "in_reply_to_status_id_str": "972969385550737410",
+   "in_reply_to_screen_name": "Climatologist49",
+   "urls": [
+    {
+     "url": "https://t.co/vHaTrBSiIr",
+     "expand": "https://twitter.com/i/web/status/973332649744916480"
+    }
+   ]
+  },
+  {
+   "id": 973330311210704900,
+   "id_str": "973330311210704896",
+   "created_at": "Mon Mar 12 22:50:04 +0000 2018",
+   "text": "RT @HansenLouis: Building in Silicon Valley - A 20-year odyssey of meetings, meetings and a lawsuit https://t.co/iCJQj6VVTH via @mercnews @…",
+   "retweet_count": 10,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iCJQj6VVTH",
+     "expand": "http://bayareane.ws/2CBsPOJ"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973239509012770800,
+    "id_str": "973239509012770816",
+    "created_at": "Mon Mar 12 16:49:15 +0000 2018",
+    "text": "Building in Silicon Valley - A 20-year odyssey of meetings, meetings and a lawsuit https://t.co/iCJQj6VVTH via @mercnews @Scott_Wiener",
+    "retweet_count": 10,
+    "favorite_count": 6,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iCJQj6VVTH",
+      "expand": "http://bayareane.ws/2CBsPOJ"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973323155824558100,
+   "id_str": "973323155824558080",
+   "created_at": "Mon Mar 12 22:21:38 +0000 2018",
+   "text": "RT @emmaogreen: Michael Gerson is our cover story this month, on how Donald Trump won over evangelicals.\nhttps://t.co/wjY2tNOdWX",
+   "retweet_count": 198,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wjY2tNOdWX",
+     "expand": "https://www.theatlantic.com/magazine/archive/2018/04/the-last-temptation/554066/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 972824481130565600,
+    "id_str": "972824481130565632",
+    "created_at": "Sun Mar 11 13:20:05 +0000 2018",
+    "text": "Michael Gerson is our cover story this month, on how Donald Trump won over evangelicals.\nhttps://t.co/wjY2tNOdWX",
+    "retweet_count": 198,
+    "favorite_count": 424,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/wjY2tNOdWX",
+      "expand": "https://www.theatlantic.com/magazine/archive/2018/04/the-last-temptation/554066/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 973041186603614200,
+   "id_str": "973041186603614209",
+   "created_at": "Mon Mar 12 03:41:11 +0000 2018",
+   "text": "RT @drvox: 18. In the name of \"exposing readers to diverse viewpoints,\" NYT is, in practice, obscuring the true nature of today's right. Vi…",
+   "retweet_count": 1639,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972930578306576400,
+    "id_str": "972930578306576384",
+    "created_at": "Sun Mar 11 20:21:40 +0000 2018",
+    "text": "18. In the name of \"exposing readers to diverse viewpoints,\" NYT is, in practice, obscuring the true nature of toda… https://t.co/CNZTBoBb9D",
+    "retweet_count": 1639,
+    "favorite_count": 6452,
+    "place": null,
+    "in_reply_to_status_id": 972928200983523300,
+    "in_reply_to_status_id_str": "972928200983523328",
+    "in_reply_to_screen_name": "drvox",
+    "urls": [
+     {
+      "url": "https://t.co/CNZTBoBb9D",
+      "expand": "https://twitter.com/i/web/status/972930578306576384"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972572605659021300,
+   "id_str": "972572605659021312",
+   "created_at": "Sat Mar 10 20:39:13 +0000 2018",
+   "text": "@ManishEarth You're riding the Pennsylvania Railroad...",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 972494573216911400,
+   "in_reply_to_status_id_str": "972494573216911360",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": []
+  },
+  {
+   "id": 972549312558219300,
+   "id_str": "972549312558219264",
+   "created_at": "Sat Mar 10 19:06:39 +0000 2018",
+   "text": "@jag I think sunrise-relative time makes more sense than noon-relative time, and DST gives us a bit of an approxima… https://t.co/tsaSiD42uo",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972543277177110500,
+   "in_reply_to_status_id_str": "972543277177110528",
+   "in_reply_to_screen_name": "jag",
+   "urls": [
+    {
+     "url": "https://t.co/tsaSiD42uo",
+     "expand": "https://twitter.com/i/web/status/972549312558219264"
+    }
+   ]
+  },
+  {
+   "id": 972515986866782200,
+   "id_str": "972515986866782208",
+   "created_at": "Sat Mar 10 16:54:14 +0000 2018",
+   "text": "Daylight Saving Time (summer time) begins in most of the US, Canada, and some nearby countries, this weekend.  https://t.co/wdAyZImuDL",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/wdAyZImuDL",
+     "expand": "https://groups.google.com/d/msg/mozilla.dev.planning/Tw0szVL5iys/Ucg6APVrBgAJ"
+    }
+   ]
+  },
+  {
+   "id": 971919402886094800,
+   "id_str": "971919402886094848",
+   "created_at": "Fri Mar 09 01:23:37 +0000 2018",
+   "text": "@alon_levy There was a period when Math 25 and 55 started out together and then split a few weeks in.  Not sure if… https://t.co/QbdwSyqGhW",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 971917086820888600,
+   "in_reply_to_status_id_str": "971917086820888576",
+   "in_reply_to_screen_name": "alon_levy",
+   "urls": [
+    {
+     "url": "https://t.co/QbdwSyqGhW",
+     "expand": "https://twitter.com/i/web/status/971919402886094848"
+    }
+   ]
+  },
+  {
+   "id": 971916866837872600,
+   "id_str": "971916866837872640",
+   "created_at": "Fri Mar 09 01:13:33 +0000 2018",
+   "text": "@alon_levy My experience doesn't match that; at Harvard (class of 2002) the student body was I think 52% male, and… https://t.co/Vpb6PIsHOQ",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Mountain View, CA",
+   "in_reply_to_status_id": 971914694461190100,
+   "in_reply_to_status_id_str": "971914694461190145",
+   "in_reply_to_screen_name": "alon_levy",
+   "urls": [
+    {
+     "url": "https://t.co/Vpb6PIsHOQ",
+     "expand": "https://twitter.com/i/web/status/971916866837872640"
+    }
+   ]
+  },
+  {
+   "id": 971550541695262700,
+   "id_str": "971550541695262720",
+   "created_at": "Thu Mar 08 00:57:54 +0000 2018",
+   "text": "@stubbornella @shinuza Another safety feature many plugs (e.g., Australian) have is prongs on the plugs that are in… https://t.co/BEJoBTkefa",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 971172595012845600,
+   "in_reply_to_status_id_str": "971172595012845573",
+   "in_reply_to_screen_name": "stubbornella",
+   "urls": [
+    {
+     "url": "https://t.co/BEJoBTkefa",
+     "expand": "https://twitter.com/i/web/status/971550541695262720"
+    }
+   ]
+  },
+  {
+   "id": 970510827018047500,
+   "id_str": "970510827018047490",
+   "created_at": "Mon Mar 05 04:06:27 +0000 2018",
+   "text": "@nnethercote IIRC, It solved a real-world character set and character encoding interoperability problem where the d… https://t.co/kwnhvNJ8tF",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 970208390847676400,
+   "in_reply_to_status_id_str": "970208390847676416",
+   "in_reply_to_screen_name": "nnethercote",
+   "urls": [
+    {
+     "url": "https://t.co/kwnhvNJ8tF",
+     "expand": "https://twitter.com/i/web/status/970510827018047490"
+    }
+   ]
+  },
+  {
+   "id": 970122341769347100,
+   "id_str": "970122341769347073",
+   "created_at": "Sun Mar 04 02:22:44 +0000 2018",
+   "text": "RT @brianstelter: CNN obtained a tape of Trump at a closed-door fundraiser. He said this about China's president: \"He's now president for l…",
+   "retweet_count": 17611,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970090357441613800,
+    "id_str": "970090357441613824",
+    "created_at": "Sun Mar 04 00:15:39 +0000 2018",
+    "text": "CNN obtained a tape of Trump at a closed-door fundraiser. He said this about China's president: \"He's now president… https://t.co/SWZWMdJQFr",
+    "retweet_count": 17611,
+    "favorite_count": 18282,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/SWZWMdJQFr",
+      "expand": "https://twitter.com/i/web/status/970090357441613824"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969820125137313800,
+   "id_str": "969820125137313793",
+   "created_at": "Sat Mar 03 06:21:50 +0000 2018",
+   "text": "RT @audcarls: It's easier to legally buy a gun in the United States than in almost any other country. Latest piece from me and @sahilchinoy…",
+   "retweet_count": 37,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969589563042750500,
+    "id_str": "969589563042750466",
+    "created_at": "Fri Mar 02 15:05:40 +0000 2018",
+    "text": "It's easier to legally buy a gun in the United States than in almost any other country. Latest piece from me and… https://t.co/1sFbBQH9LO",
+    "retweet_count": 37,
+    "favorite_count": 60,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/1sFbBQH9LO",
+      "expand": "https://twitter.com/i/web/status/969589563042750466"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969794957220327400,
+   "id_str": "969794957220327424",
+   "created_at": "Sat Mar 03 04:41:50 +0000 2018",
+   "text": "@bterlson @TravisLeithead @BraveSampson @domenic @w3ctag @brave The @w3ctag as a whole might decide we have to reject() Travis's Promise.",
+   "retweet_count": 0,
+   "favorite_count": 2,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 969763308571041800,
+   "in_reply_to_status_id_str": "969763308571041794",
+   "in_reply_to_screen_name": "bterlson",
+   "urls": []
+  },
+  {
+   "id": 969681181888331800,
+   "id_str": "969681181888331776",
+   "created_at": "Fri Mar 02 21:09:44 +0000 2018",
+   "text": "RT @linamkhan: I explain how a recent Supreme Court case could drastically weaken our antitrust laws, shielding Amazon, Google, Facebook fr…",
+   "retweet_count": 119,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969583173616259100,
+    "id_str": "969583173616259074",
+    "created_at": "Fri Mar 02 14:40:17 +0000 2018",
+    "text": "I explain how a recent Supreme Court case could drastically weaken our antitrust laws, shielding Amazon, Google, Fa… https://t.co/Bbn5VkxmJk",
+    "retweet_count": 119,
+    "favorite_count": 143,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Bbn5VkxmJk",
+      "expand": "https://twitter.com/i/web/status/969583173616259074"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969611736755023900,
+   "id_str": "969611736755023872",
+   "created_at": "Fri Mar 02 16:33:47 +0000 2018",
+   "text": "RT @kimmaicutler: Other dark secret of California. People blame tech for displacement but tech also allows California cities to just barely…",
+   "retweet_count": 47,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969481212120129500,
+    "id_str": "969481212120129536",
+    "created_at": "Fri Mar 02 07:55:07 +0000 2018",
+    "text": "Other dark secret of California. People blame tech for displacement but tech also allows California cities to just… https://t.co/bzo9lo8v98",
+    "retweet_count": 47,
+    "favorite_count": 185,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/bzo9lo8v98",
+      "expand": "https://twitter.com/i/web/status/969481212120129536"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969326233145131000,
+   "id_str": "969326233145131008",
+   "created_at": "Thu Mar 01 21:39:17 +0000 2018",
+   "text": "RT @npfandos: NEWS: The bipartisan leaders of the Senate Intelligence Committee have privately concluded that the HPSCI majority leaked Mar…",
+   "retweet_count": 7595,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969254567308382200,
+    "id_str": "969254567308382208",
+    "created_at": "Thu Mar 01 16:54:31 +0000 2018",
+    "text": "NEWS: The bipartisan leaders of the Senate Intelligence Committee have privately concluded that the HPSCI majority… https://t.co/8iZw4YlcIB",
+    "retweet_count": 7595,
+    "favorite_count": 9193,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/8iZw4YlcIB",
+      "expand": "https://twitter.com/i/web/status/969254567308382208"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969323977301618700,
+   "id_str": "969323977301618689",
+   "created_at": "Thu Mar 01 21:30:20 +0000 2018",
+   "text": "RT @SFyimby: ::ACTION ALERT::\n\nCentral SoMa (50k jobs; 7.5k housing) is up at Planning this afternoon.\n\nPLEASE SIGN OUR PETITION for more h…",
+   "retweet_count": 19,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969292205633323000,
+    "id_str": "969292205633323008",
+    "created_at": "Thu Mar 01 19:24:05 +0000 2018",
+    "text": "::ACTION ALERT::\n\nCentral SoMa (50k jobs; 7.5k housing) is up at Planning this afternoon.\n\nPLEASE SIGN OUR PETITION… https://t.co/CEnrkVlvyz",
+    "retweet_count": 19,
+    "favorite_count": 23,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/CEnrkVlvyz",
+      "expand": "https://twitter.com/i/web/status/969292205633323008"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969323612783038500,
+   "id_str": "969323612783038464",
+   "created_at": "Thu Mar 01 21:28:53 +0000 2018",
+   "text": "RT @a_greenberg: Researchers demonstrated a way to phish Chrome users even if they protect themselves with Yubikey hardware tokens marketed…",
+   "retweet_count": 220,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969255228422975500,
+    "id_str": "969255228422975488",
+    "created_at": "Thu Mar 01 16:57:09 +0000 2018",
+    "text": "Researchers demonstrated a way to phish Chrome users even if they protect themselves with Yubikey hardware tokens m… https://t.co/yGhH6ip1gC",
+    "retweet_count": 220,
+    "favorite_count": 239,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yGhH6ip1gC",
+      "expand": "https://twitter.com/i/web/status/969255228422975488"
+     }
+    ]
+   }
+  },
+  {
+   "id": 969242222674587600,
+   "id_str": "969242222674587648",
+   "created_at": "Thu Mar 01 16:05:28 +0000 2018",
+   "text": "RT @MikeIsaac: if you want to understand why only rich people and NIMBYs can afford to live in San Francisco you should read this v frustra…",
+   "retweet_count": 445,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 969053395418890200,
+    "id_str": "969053395418890240",
+    "created_at": "Thu Mar 01 03:35:08 +0000 2018",
+    "text": "if you want to understand why only rich people and NIMBYs can afford to live in San Francisco you should read this… https://t.co/Wv6Wxi13hO",
+    "retweet_count": 445,
+    "favorite_count": 846,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Wv6Wxi13hO",
+      "expand": "https://twitter.com/i/web/status/969053395418890240"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968905505727918100,
+   "id_str": "968905505727918081",
+   "created_at": "Wed Feb 28 17:47:28 +0000 2018",
+   "text": "RT @JuddLegum: 1. You may have wondered in the last few days why @FedEx was sticking with the NRA while virtually every other national comp…",
+   "retweet_count": 13279,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968678036450299900,
+    "id_str": "968678036450299905",
+    "created_at": "Wed Feb 28 02:43:35 +0000 2018",
+    "text": "1. You may have wondered in the last few days why @FedEx was sticking with the NRA while virtually every other nati… https://t.co/JKDHNWRd9f",
+    "retweet_count": 13279,
+    "favorite_count": 14982,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JKDHNWRd9f",
+      "expand": "https://twitter.com/i/web/status/968678036450299905"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968727535688306700,
+   "id_str": "968727535688306691",
+   "created_at": "Wed Feb 28 06:00:17 +0000 2018",
+   "text": "@chrisblizzard @mhoye Yes, I primarily get tacos there too.",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 968727293496610800,
+   "in_reply_to_status_id_str": "968727293496610816",
+   "in_reply_to_screen_name": "chrisblizzard",
+   "urls": []
+  },
+  {
+   "id": 968719970875166700,
+   "id_str": "968719970875166721",
+   "created_at": "Wed Feb 28 05:30:13 +0000 2018",
+   "text": "@mhoye If only I could figure out whether or not they've renamed themselves to La Espuela...\n\nThere are other good… https://t.co/DgZxNh4sex",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Palo Alto, CA",
+   "in_reply_to_status_id": 968701409192562700,
+   "in_reply_to_status_id_str": "968701409192562691",
+   "in_reply_to_screen_name": "mhoye",
+   "urls": [
+    {
+     "url": "https://t.co/DgZxNh4sex",
+     "expand": "https://twitter.com/i/web/status/968719970875166721"
+    }
+   ]
+  },
+  {
+   "id": 968718142620004400,
+   "id_str": "968718142620004352",
+   "created_at": "Wed Feb 28 05:22:57 +0000 2018",
+   "text": "RT @CarolLeonnig: NEW: Officials in at least 4 countries privately discussed ways  they can manipulate Jared Kushner, the president’s son-i…",
+   "retweet_count": 560,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968609368005664800,
+    "id_str": "968609368005664768",
+    "created_at": "Tue Feb 27 22:10:43 +0000 2018",
+    "text": "NEW: Officials in at least 4 countries privately discussed ways  they can manipulate Jared Kushner, the president’s… https://t.co/oFaqf3fnS6",
+    "retweet_count": 560,
+    "favorite_count": 808,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oFaqf3fnS6",
+      "expand": "https://twitter.com/i/web/status/968609368005664768"
+     }
+    ]
+   }
+  },
+  {
+   "id": 968583806948134900,
+   "id_str": "968583806948134913",
+   "created_at": "Tue Feb 27 20:29:09 +0000 2018",
+   "text": "@ManishEarth @havvy @pcwalton If that's all that implements it, I'd be in favor of removing, especially if we can convince Chrome folks.",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": "Philadelphia, PA",
+   "in_reply_to_status_id": 968579515529117700,
+   "in_reply_to_status_id_str": "968579515529117696",
+   "in_reply_to_screen_name": "ManishEarth",
+   "urls": []
+  },
+  {
+   "id": 968568410136342500,
+   "id_str": "968568410136342529",
+   "created_at": "Tue Feb 27 19:27:58 +0000 2018",
+   "text": "RT @DLind: This isn't what happened. The Court struck down the justification that the 9th Circuit had used to require bond hearings — and t…",
+   "retweet_count": 1038,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 968558367835869200,
+    "id_str": "968558367835869184",
+    "created_at": "Tue Feb 27 18:48:04 +0000 2018",
+    "text": "This isn't what happened. The Court struck down the justification that the 9th Circuit had used to require bond hea… https://t.co/Na16ku13MH",
+    "retweet_count": 1038,
+    "favorite_count": 1276,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/Na16ku13MH",
+      "expand": "https://twitter.com/i/web/status/968558367835869184"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967977128741531600,
+   "id_str": "967977128741531649",
+   "created_at": "Mon Feb 26 04:18:26 +0000 2018",
+   "text": "And if you don't get the license plate joke, see what the license plates looked like when I was a kid:\nhttps://t.co/qxegfmxtGt",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Philadelphia, PA",
+   "in_reply_to_status_id": 967975768398680000,
+   "in_reply_to_status_id_str": "967975768398680064",
+   "in_reply_to_screen_name": "davidbaron",
+   "urls": [
+    {
+     "url": "https://t.co/qxegfmxtGt",
+     "expand": "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Pennsylvania#/media/File:PA_85.jpg"
+    }
+   ]
+  },
+  {
+   "id": 967975768398680000,
+   "id_str": "967975768398680064",
+   "created_at": "Mon Feb 26 04:13:01 +0000 2018",
+   "text": "Friends in Pennsylvania:\n( I've got friends in Pennsylvania. The license plates said so! )\n\nSenator Toomey's contac… https://t.co/2YAHqB7Qeu",
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "place": "Philadelphia, PA",
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/2YAHqB7Qeu",
+     "expand": "https://twitter.com/i/web/status/967975768398680064"
+    }
+   ]
+  },
+  {
+   "id": 967963234845249500,
+   "id_str": "967963234845249536",
+   "created_at": "Mon Feb 26 03:23:13 +0000 2018",
+   "text": "RT @ClaraJeffery: 6/ Here we fact-checked 10 of the biggest gun myths pushed by the NRA: https://t.co/XVv0YfN8Pf",
+   "retweet_count": 608,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XVv0YfN8Pf",
+     "expand": "https://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967957342716280800,
+    "id_str": "967957342716280832",
+    "created_at": "Mon Feb 26 02:59:48 +0000 2018",
+    "text": "6/ Here we fact-checked 10 of the biggest gun myths pushed by the NRA: https://t.co/XVv0YfN8Pf",
+    "retweet_count": 608,
+    "favorite_count": 915,
+    "place": null,
+    "in_reply_to_status_id": 967956828993679400,
+    "in_reply_to_status_id_str": "967956828993679360",
+    "in_reply_to_screen_name": "ClaraJeffery",
+    "urls": [
+     {
+      "url": "https://t.co/XVv0YfN8Pf",
+      "expand": "https://www.motherjones.com/politics/2013/01/pro-gun-myths-fact-check/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967961052565696500,
+   "id_str": "967961052565696512",
+   "created_at": "Mon Feb 26 03:14:33 +0000 2018",
+   "text": "RT @ClaraJeffery: 4/ Here's how the NRA pushed Congress to effectively cripple the ATF, ensuring, among other things that no modern databas…",
+   "retweet_count": 783,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967956495022243800,
+    "id_str": "967956495022243840",
+    "created_at": "Mon Feb 26 02:56:26 +0000 2018",
+    "text": "4/ Here's how the NRA pushed Congress to effectively cripple the ATF, ensuring, among other things that no modern d… https://t.co/hwgdICK4Bk",
+    "retweet_count": 783,
+    "favorite_count": 1074,
+    "place": null,
+    "in_reply_to_status_id": 967955810251755500,
+    "in_reply_to_status_id_str": "967955810251755520",
+    "in_reply_to_screen_name": "ClaraJeffery",
+    "urls": [
+     {
+      "url": "https://t.co/hwgdICK4Bk",
+      "expand": "https://twitter.com/i/web/status/967956495022243840"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967961003370668000,
+   "id_str": "967961003370668032",
+   "created_at": "Mon Feb 26 03:14:21 +0000 2018",
+   "text": "RT @ClaraJeffery: 1/ With so many bringing new activism to oppose the NRA, I thought I'd hit a few of the highlights on @MotherJones last s…",
+   "retweet_count": 3556,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967954946774593500,
+    "id_str": "967954946774593536",
+    "created_at": "Mon Feb 26 02:50:17 +0000 2018",
+    "text": "1/ With so many bringing new activism to oppose the NRA, I thought I'd hit a few of the highlights on @MotherJones… https://t.co/9da895tCRN",
+    "retweet_count": 3556,
+    "favorite_count": 4713,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/9da895tCRN",
+      "expand": "https://twitter.com/i/web/status/967954946774593536"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967916377418928100,
+   "id_str": "967916377418928128",
+   "created_at": "Mon Feb 26 00:17:02 +0000 2018",
+   "text": "RT @alevin: Caltrain to Atherton - we'll change the electric pole design that you demanded in the first place, if you pay for the change an…",
+   "retweet_count": 17,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967893313255714800,
+    "id_str": "967893313255714816",
+    "created_at": "Sun Feb 25 22:45:23 +0000 2018",
+    "text": "Caltrain to Atherton - we'll change the electric pole design that you demanded in the first place, if you pay for t… https://t.co/iLTglMYRgL",
+    "retweet_count": 17,
+    "favorite_count": 44,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iLTglMYRgL",
+      "expand": "https://twitter.com/i/web/status/967893313255714816"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967552060609753100,
+   "id_str": "967552060609753088",
+   "created_at": "Sun Feb 25 00:09:22 +0000 2018",
+   "text": "RT @charlesarthur: Wowowow https://t.co/63CIqG3iyR https://t.co/mQcuP2R9NQ",
+   "retweet_count": 267,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/63CIqG3iyR",
+     "expand": "https://www.wired.com/story/how-trump-conquered-facebookwithout-russian-ads"
+    }
+   ],
+   "retweeted_status": {
+    "id": 967529093334958100,
+    "id_str": "967529093334958080",
+    "created_at": "Sat Feb 24 22:38:06 +0000 2018",
+    "text": "Wowowow https://t.co/63CIqG3iyR https://t.co/mQcuP2R9NQ",
+    "retweet_count": 267,
+    "favorite_count": 384,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/63CIqG3iyR",
+      "expand": "https://www.wired.com/story/how-trump-conquered-facebookwithout-russian-ads"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967551392427716600,
+   "id_str": "967551392427716608",
+   "created_at": "Sun Feb 25 00:06:42 +0000 2018",
+   "text": "RT @nycsouthpaw: This article about Facebook’s auction system, which Brad Parscale just endorsed, says that Facebook systematically charged…",
+   "retweet_count": 9268,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 967464280592445400,
+    "id_str": "967464280592445440",
+    "created_at": "Sat Feb 24 18:20:33 +0000 2018",
+    "text": "This article about Facebook’s auction system, which Brad Parscale just endorsed, says that Facebook systematically… https://t.co/oiqJvbnXOA",
+    "retweet_count": 9268,
+    "favorite_count": 10521,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/oiqJvbnXOA",
+      "expand": "https://twitter.com/i/web/status/967464280592445440"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967225849908027400,
+   "id_str": "967225849908027392",
+   "created_at": "Sat Feb 24 02:33:07 +0000 2018",
+   "text": "@dashdashado Type about:memory in the URL bar, and see which Web pages are at fault...",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": "Philadelphia, PA",
+   "in_reply_to_status_id": 967214704597794800,
+   "in_reply_to_status_id_str": "967214704597794816",
+   "in_reply_to_screen_name": "dashdashado",
+   "urls": []
+  },
+  {
+   "id": 967220993742733300,
+   "id_str": "967220993742733313",
+   "created_at": "Sat Feb 24 02:13:49 +0000 2018",
+   "text": "@briankardell @w3c @w3ctag They began a while ago... the deadline is March 1 (23:59 Boston time).",
+   "retweet_count": 0,
+   "favorite_count": 1,
+   "place": "Philadelphia, PA",
+   "in_reply_to_status_id": 967140372299132900,
+   "in_reply_to_status_id_str": "967140372299132929",
+   "in_reply_to_screen_name": "briankardell",
+   "urls": []
+  },
   {
    "id": 966679593506701300,
    "id_str": "966679593506701312",
@@ -28,365 +2456,6 @@
      {
       "url": "https://t.co/mAdXw0vvve",
       "expand": "https://twitter.com/i/web/status/966674358704816128"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966356780782669800,
-   "id_str": "966356780782669826",
-   "created_at": "Wed Feb 21 16:59:45 +0000 2018",
-   "text": "RT @ManishEarth: Wonderful. Facebook has blocked the totally-legit non-crashy version of the original Telugu crasher (జ్ఞా), but not any of…",
-   "retweet_count": 33,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 966207075582914600,
-    "id_str": "966207075582914561",
-    "created_at": "Wed Feb 21 07:04:52 +0000 2018",
-    "text": "Wonderful. Facebook has blocked the totally-legit non-crashy version of the original Telugu crasher (జ్ఞా), but not… https://t.co/zvpNdy3tUU",
-    "retweet_count": 33,
-    "favorite_count": 51,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/zvpNdy3tUU",
-      "expand": "https://twitter.com/i/web/status/966207075582914561"
-     }
-    ]
-   }
-  },
-  {
-   "id": 966137411322433500,
-   "id_str": "966137411322433536",
-   "created_at": "Wed Feb 21 02:28:03 +0000 2018",
-   "text": "@dougturner @mozilla ....just saw a bag go by that was tagged ?-AKL-SFO-YYZ.  So many Mozilla cities.",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": "Mississauga, Ontario",
-   "in_reply_to_status_id": 966132672522260500,
-   "in_reply_to_status_id_str": "966132672522260480",
-   "in_reply_to_screen_name": "davidbaron",
-   "urls": []
-  },
-  {
-   "id": 966132672522260500,
-   "id_str": "966132672522260480",
-   "created_at": "Wed Feb 21 02:09:13 +0000 2018",
-   "text": "@dougturner @mozilla It was amusing to hear your name paged while I was trying to figure out which other Mozilla folks were on the flight.",
-   "retweet_count": 0,
-   "favorite_count": 3,
-   "place": "Mississauga, Ontario",
-   "in_reply_to_status_id": 966058081716064300,
-   "in_reply_to_status_id_str": "966058081716064256",
-   "in_reply_to_screen_name": "dougturner",
-   "urls": []
-  },
-  {
-   "id": 966130657243074600,
-   "id_str": "966130657243074565",
-   "created_at": "Wed Feb 21 02:01:13 +0000 2018",
-   "text": "RT @TheEconomist: Lobbyists claim consumers need protection from unqualified providers. In many cases, that is not true https://t.co/AkjfDb…",
-   "retweet_count": 61,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964868572026736600,
-    "id_str": "964868572026736641",
-    "created_at": "Sat Feb 17 14:26:08 +0000 2018",
-    "text": "Lobbyists claim consumers need protection from unqualified providers. In many cases, that is not true https://t.co/AkjfDbYbz5",
-    "retweet_count": 61,
-    "favorite_count": 125,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/AkjfDbYbz5",
-      "expand": "http://econ.st/2EwmqlH"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965774134046179300,
-   "id_str": "965774134046179328",
-   "created_at": "Tue Feb 20 02:24:31 +0000 2018",
-   "text": "RT @anildash: The wild thing about this Telugu character bug is that it’s being treated as such an obscurity. More people speak Telugu than…",
-   "retweet_count": 1217,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965761990596599800,
-    "id_str": "965761990596599808",
-    "created_at": "Tue Feb 20 01:36:16 +0000 2018",
-    "text": "The wild thing about this Telugu character bug is that it’s being treated as such an obscurity. More people speak T… https://t.co/V0MxSazFHl",
-    "retweet_count": 1217,
-    "favorite_count": 2379,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/V0MxSazFHl",
-      "expand": "https://twitter.com/i/web/status/965761990596599808"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965773135675928600,
-   "id_str": "965773135675928577",
-   "created_at": "Tue Feb 20 02:20:33 +0000 2018",
-   "text": "RT @ElectProject: In other words, Chen created a computer algorithm to randomly draw 500 plans according to the court's criteria (compactne…",
-   "retweet_count": 31,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965763584314822700,
-    "id_str": "965763584314822656",
-    "created_at": "Tue Feb 20 01:42:36 +0000 2018",
-    "text": "In other words, Chen created a computer algorithm to randomly draw 500 plans according to the court's criteria (com… https://t.co/C1gZbipD9w",
-    "retweet_count": 31,
-    "favorite_count": 83,
-    "place": null,
-    "in_reply_to_status_id": 965762859467722800,
-    "in_reply_to_status_id_str": "965762859467722753",
-    "in_reply_to_screen_name": "ElectProject",
-    "urls": [
-     {
-      "url": "https://t.co/C1gZbipD9w",
-      "expand": "https://twitter.com/i/web/status/965763584314822656"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965472002441068500,
-   "id_str": "965472002441068544",
-   "created_at": "Mon Feb 19 06:23:57 +0000 2018",
-   "text": "@nattokirai @LeaVerou @timdream @jryans Stick it in a GitHub repository and configure the repo to serve the master… https://t.co/CxGAzcFFlV",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": "Palo Alto, CA",
-   "in_reply_to_status_id": 965462998797045800,
-   "in_reply_to_status_id_str": "965462998797045760",
-   "in_reply_to_screen_name": "nattokirai",
-   "urls": [
-    {
-     "url": "https://t.co/CxGAzcFFlV",
-     "expand": "https://twitter.com/i/web/status/965472002441068544"
-    }
-   ]
-  },
-  {
-   "id": 965285178816933900,
-   "id_str": "965285178816933888",
-   "created_at": "Sun Feb 18 18:01:35 +0000 2018",
-   "text": "RT @ebruenig: Nothing symbolizes the foreclosure of the future like the slaughter of a nation's young. And it's routine now. https://t.co/D…",
-   "retweet_count": 69,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965226999668183000,
-    "id_str": "965226999668183042",
-    "created_at": "Sun Feb 18 14:10:24 +0000 2018",
-    "text": "Nothing symbolizes the foreclosure of the future like the slaughter of a nation's young. And it's routine now. https://t.co/DRR4UKYPkQ",
-    "retweet_count": 69,
-    "favorite_count": 168,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/DRR4UKYPkQ",
-      "expand": "https://www.washingtonpost.com/opinions/the-latest-schoolhouse-slaughter-shows-we-have-been-defeated/2018/02/15/a94dd816-1269-11e8-9065-e55346f6de81_story.html?utm_term=.324ad3eb064f"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965089981269094400,
-   "id_str": "965089981269094400",
-   "created_at": "Sun Feb 18 05:05:56 +0000 2018",
-   "text": "@LeaVerou @timdream @jryans @nattokirai I would expect the pixel-level details of drawing text to canvas to be both… https://t.co/JQNplKXREF",
-   "retweet_count": 0,
-   "favorite_count": 0,
-   "place": "Palo Alto, CA",
-   "in_reply_to_status_id": 965028821605822500,
-   "in_reply_to_status_id_str": "965028821605822465",
-   "in_reply_to_screen_name": "davidbaron",
-   "urls": [
-    {
-     "url": "https://t.co/JQNplKXREF",
-     "expand": "https://twitter.com/i/web/status/965089981269094400"
-    }
-   ]
-  },
-  {
-   "id": 965030122955841500,
-   "id_str": "965030122955841536",
-   "created_at": "Sun Feb 18 01:08:05 +0000 2018",
-   "text": "RT @tom_hirschfeld: .@MarkLeno does an excellent job of telling people what they want to hear, and a really bad job of telling people what…",
-   "retweet_count": 24,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 965025767053668400,
-    "id_str": "965025767053668352",
-    "created_at": "Sun Feb 18 00:50:46 +0000 2018",
-    "text": ".@MarkLeno does an excellent job of telling people what they want to hear, and a really bad job of telling people w… https://t.co/I7u35VCBhJ",
-    "retweet_count": 24,
-    "favorite_count": 45,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/I7u35VCBhJ",
-      "expand": "https://twitter.com/i/web/status/965025767053668352"
-     }
-    ]
-   }
-  },
-  {
-   "id": 965028821605822500,
-   "id_str": "965028821605822465",
-   "created_at": "Sun Feb 18 01:02:55 +0000 2018",
-   "text": "@LeaVerou @timdream @jryans @nattokirai If I strip out the wayback machine stuff (not necessary), and change the mo… https://t.co/hSnrT3aChb",
-   "retweet_count": 0,
-   "favorite_count": 1,
-   "place": null,
-   "in_reply_to_status_id": 965024205686345700,
-   "in_reply_to_status_id_str": "965024205686345728",
-   "in_reply_to_screen_name": "LeaVerou",
-   "urls": [
-    {
-     "url": "https://t.co/hSnrT3aChb",
-     "expand": "https://twitter.com/i/web/status/965028821605822465"
-    }
-   ]
-  },
-  {
-   "id": 964970976461992000,
-   "id_str": "964970976461991936",
-   "created_at": "Sat Feb 17 21:13:03 +0000 2018",
-   "text": "RT @robjective: @apd4real @adamheimlich @chronic Thanks for the proof read.  If only One could edit ones tweet.  As to the substance: the R…",
-   "retweet_count": 359,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964952978657509400,
-    "id_str": "964952978657509376",
-    "created_at": "Sat Feb 17 20:01:32 +0000 2018",
-    "text": "@apd4real @adamheimlich @chronic Thanks for the proof read.  If only One could edit ones tweet.  As to the substanc… https://t.co/rIGPyUvzuW",
-    "retweet_count": 359,
-    "favorite_count": 537,
-    "place": null,
-    "in_reply_to_status_id": 964949094136336400,
-    "in_reply_to_status_id_str": "964949094136336384",
-    "in_reply_to_screen_name": "apd4real",
-    "urls": [
-     {
-      "url": "https://t.co/rIGPyUvzuW",
-      "expand": "https://twitter.com/i/web/status/964952978657509376"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964904669028823000,
-   "id_str": "964904669028823040",
-   "created_at": "Sat Feb 17 16:49:34 +0000 2018",
-   "text": "RT @shannonrwatts: In 2011, @FLGovScott signed a @NRA-supported “docs versus glocks” bill, which punished doctors who asked patients about…",
-   "retweet_count": 1556,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964903053873655800,
-    "id_str": "964903053873655809",
-    "created_at": "Sat Feb 17 16:43:09 +0000 2018",
-    "text": "In 2011, @FLGovScott signed a @NRA-supported “docs versus glocks” bill, which punished doctors who asked patients a… https://t.co/A9jaZ7ZBdk",
-    "retweet_count": 1556,
-    "favorite_count": 2150,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/A9jaZ7ZBdk",
-      "expand": "https://twitter.com/i/web/status/964903053873655809"
-     }
-    ]
-   }
-  },
-  {
-   "id": 964746354898608100,
-   "id_str": "964746354898608128",
-   "created_at": "Sat Feb 17 06:20:29 +0000 2018",
-   "text": "RT @robjective: The main goal of the Russian propaganda and misinformation effort is to divide America by using our institutions, like free…",
-   "retweet_count": 4535,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 964680125064273900,
-    "id_str": "964680125064273921",
-    "created_at": "Sat Feb 17 01:57:19 +0000 2018",
-    "text": "The main goal of the Russian propaganda and misinformation effort is to divide America by using our institutions, l… https://t.co/Mu0vSLhFto",
-    "retweet_count": 4535,
-    "favorite_count": 8598,
-    "place": null,
-    "in_reply_to_status_id": 964680123885613000,
-    "in_reply_to_status_id_str": "964680123885613056",
-    "in_reply_to_screen_name": "robjective",
-    "urls": [
-     {
-      "url": "https://t.co/Mu0vSLhFto",
-      "expand": "https://twitter.com/i/web/status/964680125064273921"
      }
     ]
    }

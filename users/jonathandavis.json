@@ -1,13 +1,299 @@
 {
- "time": 1519367051615,
+ "time": 1522594969860,
  "lists": [
+  {
+   "id": 979890038287691800,
+   "id_str": "979890038287691777",
+   "created_at": "Sat Mar 31 01:16:05 +0000 2018",
+   "text": "RT @rmondello: Today is Safari Technology Preview’s second birthday! Yes, two years! 🎂💜\n\nTo every STP user: thank you so much for your time…",
+   "retweet_count": 20,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 979743013709660200,
+    "id_str": "979743013709660166",
+    "created_at": "Fri Mar 30 15:31:51 +0000 2018",
+    "text": "Today is Safari Technology Preview’s second birthday! Yes, two years! 🎂💜\n\nTo every STP user: thank you so much for… https://t.co/2mEs0Tj2I6",
+    "retweet_count": 20,
+    "favorite_count": 124,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2mEs0Tj2I6",
+      "expand": "https://twitter.com/i/web/status/979743013709660166"
+     }
+    ]
+   }
+  },
+  {
+   "id": 977191242340606000,
+   "id_str": "977191242340605952",
+   "created_at": "Fri Mar 23 14:32:02 +0000 2018",
+   "text": "RT @webkit: Learn about improvements to the Clipboard API in Safari and WebKit. https://t.co/f7R4jAidBP",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/f7R4jAidBP",
+     "expand": "https://webkit.org/blog/8170/clipboard-api-improvements/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 976868537296982000,
+    "id_str": "976868537296982018",
+    "created_at": "Thu Mar 22 17:09:43 +0000 2018",
+    "text": "Learn about improvements to the Clipboard API in Safari and WebKit. https://t.co/f7R4jAidBP",
+    "retweet_count": 11,
+    "favorite_count": 40,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/f7R4jAidBP",
+      "expand": "https://webkit.org/blog/8170/clipboard-api-improvements/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976869439487512600,
+   "id_str": "976869439487512576",
+   "created_at": "Thu Mar 22 17:13:18 +0000 2018",
+   "text": "@ryanrit Your best bet is to monitor the WebKit Feature Status page. https://t.co/bMZF6pfCxj",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 976643451684089900,
+   "in_reply_to_status_id_str": "976643451684089857",
+   "in_reply_to_screen_name": "ryanrit",
+   "urls": [
+    {
+     "url": "https://t.co/bMZF6pfCxj",
+     "expand": "https://webkit.org/status/#?search=webvr"
+    }
+   ]
+  },
+  {
+   "id": 975789021115723800,
+   "id_str": "975789021115723776",
+   "created_at": "Mon Mar 19 17:40:06 +0000 2018",
+   "text": "@AimiaInc I work on web developer relations for Safari and WebKit at Apple. I need to contact someone in your organ… https://t.co/jl4pNcHCSW",
+   "retweet_count": 0,
+   "favorite_count": 3,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "AimiaInc",
+   "urls": [
+    {
+     "url": "https://t.co/jl4pNcHCSW",
+     "expand": "https://twitter.com/i/web/status/975789021115723776"
+    }
+   ]
+  },
+  {
+   "id": 975778468469260300,
+   "id_str": "975778468469260288",
+   "created_at": "Mon Mar 19 16:58:10 +0000 2018",
+   "text": "@TDelarosbil Hi! I work on developer relations for Safari and WebKit at Apple. Can I DM you to discuss an issue on https://t.co/wm36tRe8su?",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": "TDelarosbil",
+   "urls": [
+    {
+     "url": "https://t.co/wm36tRe8su",
+     "expand": "http://Aeroplan.com"
+    }
+   ]
+  },
+  {
+   "id": 974708812090286100,
+   "id_str": "974708812090286080",
+   "created_at": "Fri Mar 16 18:07:44 +0000 2018",
+   "text": "RT @webkit: How WebKit crumbles the \"Super Cookie\". https://t.co/iwOpjM8p9f",
+   "retweet_count": 91,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/iwOpjM8p9f",
+     "expand": "https://webkit.org/blog/8146/protecting-against-hsts-abuse/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 974707373758668800,
+    "id_str": "974707373758668800",
+    "created_at": "Fri Mar 16 18:02:01 +0000 2018",
+    "text": "How WebKit crumbles the \"Super Cookie\". https://t.co/iwOpjM8p9f",
+    "retweet_count": 91,
+    "favorite_count": 141,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/iwOpjM8p9f",
+      "expand": "https://webkit.org/blog/8146/protecting-against-hsts-abuse/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 974271177077043200,
+   "id_str": "974271177077043202",
+   "created_at": "Thu Mar 15 13:08:44 +0000 2018",
+   "text": "RT @johnwilander: WebKit partitions Service Workers to prevent cross-site tracking: https://t.co/qtYmXvhCgf",
+   "retweet_count": 15,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/qtYmXvhCgf",
+     "expand": "https://webkit.org/blog/8090/workers-at-your-service/"
+    }
+   ],
+   "retweeted_status": {
+    "id": 973567964388540400,
+    "id_str": "973567964388540416",
+    "created_at": "Tue Mar 13 14:34:25 +0000 2018",
+    "text": "WebKit partitions Service Workers to prevent cross-site tracking: https://t.co/qtYmXvhCgf",
+    "retweet_count": 15,
+    "favorite_count": 56,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/qtYmXvhCgf",
+      "expand": "https://webkit.org/blog/8090/workers-at-your-service/"
+     }
+    ]
+   }
+  },
+  {
+   "id": 972588959116111900,
+   "id_str": "972588959116111872",
+   "created_at": "Sat Mar 10 21:44:12 +0000 2018",
+   "text": "@meredevelopment Probably still has toxic people but there are other efforts. https://t.co/nrkjgePDJE IMO it’s only… https://t.co/Wxeb3sOuSx",
+   "retweet_count": 0,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": 972247793405452300,
+   "in_reply_to_status_id_str": "972247793405452289",
+   "in_reply_to_screen_name": "meredevelopment",
+   "urls": [
+    {
+     "url": "https://t.co/nrkjgePDJE",
+     "expand": "https://mastodon.social/about"
+    },
+    {
+     "url": "https://t.co/Wxeb3sOuSx",
+     "expand": "https://twitter.com/i/web/status/972588959116111872"
+    }
+   ]
+  },
+  {
+   "id": 972302473317634000,
+   "id_str": "972302473317634048",
+   "created_at": "Sat Mar 10 02:45:48 +0000 2018",
+   "text": "RT @xeenon: I’m returning to Apple — this time as an engineer on the WebKit Platform team. I’m looking forward to being back next week, and…",
+   "retweet_count": 11,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 972250576699322400,
+    "id_str": "972250576699322368",
+    "created_at": "Fri Mar 09 23:19:35 +0000 2018",
+    "text": "I’m returning to Apple — this time as an engineer on the WebKit Platform team. I’m looking forward to being back ne… https://t.co/h4HIYRYqUB",
+    "retweet_count": 11,
+    "favorite_count": 153,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/h4HIYRYqUB",
+      "expand": "https://twitter.com/i/web/status/972250576699322368"
+     }
+    ]
+   }
+  },
+  {
+   "id": 967126148231524400,
+   "id_str": "967126148231524352",
+   "created_at": "Fri Feb 23 19:56:56 +0000 2018",
+   "text": "RT @bfulgham: Want to help improve Safari/WebKit’s compatibility with Web Standards? Come join my team! https://t.co/yzXTHMt0gr\n\nAlso: You…",
+   "retweet_count": 49,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/yzXTHMt0gr",
+     "expand": "https://apple.co/2BHeLSW"
+    }
+   ],
+   "retweeted_status": {
+    "id": 966896911604056000,
+    "id_str": "966896911604056064",
+    "created_at": "Fri Feb 23 04:46:02 +0000 2018",
+    "text": "Want to help improve Safari/WebKit’s compatibility with Web Standards? Come join my team! https://t.co/yzXTHMt0gr… https://t.co/rBJY830nan",
+    "retweet_count": 49,
+    "favorite_count": 74,
+    "place": "Willow Glen, San Jose",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/yzXTHMt0gr",
+      "expand": "https://apple.co/2BHeLSW"
+     },
+     {
+      "url": "https://t.co/rBJY830nan",
+      "expand": "https://twitter.com/i/web/status/966896911604056064"
+     }
+    ]
+   }
+  },
   {
    "id": 966735318270451700,
    "id_str": "966735318270451712",
    "created_at": "Thu Feb 22 18:03:55 +0000 2018",
    "text": "Developers, we'd love your feedback on this API. Give it a try in Safari Technology Preview. https://t.co/s6I8KeiCfG",
    "retweet_count": 3,
-   "favorite_count": 6,
+   "favorite_count": 7,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
@@ -18,73 +304,6 @@
      "expand": "https://twitter.com/webkit/status/966734838211395584"
     }
    ]
-  },
-  {
-   "id": 966374256387940400,
-   "id_str": "966374256387940355",
-   "created_at": "Wed Feb 21 18:09:11 +0000 2018",
-   "text": "RT @webkit: Release notes for today’s Safari Technology Preview release 50 update are now available. \nhttps://t.co/05huKGvW3b https://t.co/…",
-   "retweet_count": 40,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [
-    {
-     "url": "https://t.co/05huKGvW3b",
-     "expand": "https://webkit.org/blog/8121/release-notes-for-safari-technology-preview-50/"
-    }
-   ],
-   "retweeted_status": {
-    "id": 966372442951307300,
-    "id_str": "966372442951307284",
-    "created_at": "Wed Feb 21 18:01:59 +0000 2018",
-    "text": "Release notes for today’s Safari Technology Preview release 50 update are now available. \nhttps://t.co/05huKGvW3b https://t.co/O4hYtqFjxu",
-    "retweet_count": 40,
-    "favorite_count": 89,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/05huKGvW3b",
-      "expand": "https://webkit.org/blog/8121/release-notes-for-safari-technology-preview-50/"
-     }
-    ]
-   }
-  },
-  {
-   "id": 963511731833118700,
-   "id_str": "963511731833118720",
-   "created_at": "Tue Feb 13 20:34:32 +0000 2018",
-   "text": "RT @adelepeterson: Looking for some exceptional people to work with my team on the Mail app. Let me know if you or someone you know is inte…",
-   "retweet_count": 111,
-   "favorite_count": 0,
-   "place": null,
-   "in_reply_to_status_id": null,
-   "in_reply_to_status_id_str": null,
-   "in_reply_to_screen_name": null,
-   "urls": [],
-   "retweeted_status": {
-    "id": 963491230922375200,
-    "id_str": "963491230922375169",
-    "created_at": "Tue Feb 13 19:13:04 +0000 2018",
-    "text": "Looking for some exceptional people to work with my team on the Mail app. Let me know if you or someone you know is… https://t.co/Ylyf8cuF6S",
-    "retweet_count": 111,
-    "favorite_count": 87,
-    "place": null,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_screen_name": null,
-    "urls": [
-     {
-      "url": "https://t.co/Ylyf8cuF6S",
-      "expand": "https://twitter.com/i/web/status/963491230922375169"
-     }
-    ]
-   }
   }
  ]
 }

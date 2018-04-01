@@ -1,13 +1,502 @@
 {
- "time": 1519367053352,
+ "time": 1522594973780,
  "lists": [
+  {
+   "id": 979773513144983600,
+   "id_str": "979773513144983552",
+   "created_at": "Fri Mar 30 17:33:03 +0000 2018",
+   "text": "What's New in React 16.3.0?  https://t.co/J88AeVm7pO https://t.co/2s0SuEDVtN",
+   "retweet_count": 18,
+   "favorite_count": 51,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/J88AeVm7pO",
+     "expand": "https://www.youtube.com/watch?v=WhWqy-vxKS8"
+    }
+   ]
+  },
+  {
+   "id": 979456732471660500,
+   "id_str": "979456732471660544",
+   "created_at": "Thu Mar 29 20:34:17 +0000 2018",
+   "text": "Just released: React v16.3 https://t.co/lcBAd1PRsZ",
+   "retweet_count": 8,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/lcBAd1PRsZ",
+     "expand": "https://reactjs.org/blog/2018/03/29/react-v-16-3.html"
+    }
+   ]
+  },
+  {
+   "id": 979411131549798400,
+   "id_str": "979411131549798400",
+   "created_at": "Thu Mar 29 17:33:04 +0000 2018",
+   "text": "ICYMI: \"Update on Async Rendering\" from the official React blog https://t.co/YwYiJ1PV7A https://t.co/rq3o6tHu9a",
+   "retweet_count": 6,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/YwYiJ1PV7A",
+     "expand": "https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html"
+    }
+   ]
+  },
+  {
+   "id": 979076294326521900,
+   "id_str": "979076294326521857",
+   "created_at": "Wed Mar 28 19:22:33 +0000 2018",
+   "text": "React meetup and conference recordings from Q4 2017 - https://t.co/EbbFte5Wwh https://t.co/zAcsCzeMpN",
+   "retweet_count": 1,
+   "favorite_count": 15,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/EbbFte5Wwh",
+     "expand": "https://blog.meetupfeed.com/react-meetup-and-conference-recordings-from-q4-2017-reactiveconf-react-day-berlin-and-more/"
+    }
+   ]
+  },
+  {
+   "id": 978323958314553300,
+   "id_str": "978323958314553344",
+   "created_at": "Mon Mar 26 17:33:02 +0000 2018",
+   "text": "“React Velocity is a web application that allows you to visualize your React project's component hierarchy before e… https://t.co/BKPqG0zl0u",
+   "retweet_count": 9,
+   "favorite_count": 23,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/BKPqG0zl0u",
+     "expand": "https://twitter.com/i/web/status/978323958314553344"
+    }
+   ]
+  },
+  {
+   "id": 977961565784821800,
+   "id_str": "977961565784821760",
+   "created_at": "Sun Mar 25 17:33:01 +0000 2018",
+   "text": "Hooking Up Firebase to Your Redux Store –  https://t.co/RGofI0jGP4 https://t.co/2C4ep40uuX",
+   "retweet_count": 8,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/RGofI0jGP4",
+     "expand": "https://itnext.io/hooking-up-firebase-to-your-redux-store-a5e799cf84c4"
+    }
+   ]
+  },
+  {
+   "id": 977236786513662000,
+   "id_str": "977236786513661952",
+   "created_at": "Fri Mar 23 17:33:00 +0000 2018",
+   "text": "“React Testing Library: Simple and complete React DOM testing utilities that encourage good testing practices.” by… https://t.co/cqItAcbIHo",
+   "retweet_count": 9,
+   "favorite_count": 62,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/cqItAcbIHo",
+     "expand": "https://twitter.com/i/web/status/977236786513661952"
+    }
+   ]
+  },
+  {
+   "id": 976874413260976100,
+   "id_str": "976874413260976128",
+   "created_at": "Thu Mar 22 17:33:04 +0000 2018",
+   "text": "Contextual Components in React -  https://t.co/hU7L7tFYQi",
+   "retweet_count": 6,
+   "favorite_count": 42,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/hU7L7tFYQi",
+     "expand": "https://thejsguy.com/2018/03/18/contextual-components-in-react.html"
+    }
+   ]
+  },
+  {
+   "id": 976512050141769700,
+   "id_str": "976512050141769728",
+   "created_at": "Wed Mar 21 17:33:10 +0000 2018",
+   "text": "“Learn how to use the new Context API that is being released as part of React 16.3.\n” https://t.co/35lgEmM9h3 https://t.co/jDcs6g1Pcq",
+   "retweet_count": 15,
+   "favorite_count": 100,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/35lgEmM9h3",
+     "expand": "https://www.youtube.com/watch?v=cwEsT9PeRis"
+    }
+   ]
+  },
+  {
+   "id": 976164337881579500,
+   "id_str": "976164337881579520",
+   "created_at": "Tue Mar 20 18:31:29 +0000 2018",
+   "text": "RT @tylermcginnis: Today I'm excited to announce something I've wanted to do for a very long time. \n\n🕺 Introducing the free React Bootcamp…",
+   "retweet_count": 724,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 976164113956077600,
+    "id_str": "976164113956077569",
+    "created_at": "Tue Mar 20 18:30:35 +0000 2018",
+    "text": "Today I'm excited to announce something I've wanted to do for a very long time. \n\n🕺 Introducing the free React Boot… https://t.co/2v30Ss2d4S",
+    "retweet_count": 724,
+    "favorite_count": 1549,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/2v30Ss2d4S",
+      "expand": "https://twitter.com/i/web/status/976164113956077569"
+     }
+    ]
+   }
+  },
+  {
+   "id": 976149640667172900,
+   "id_str": "976149640667172866",
+   "created_at": "Tue Mar 20 17:33:04 +0000 2018",
+   "text": "Scaling data selection on the client – @SpencerSkovy https://t.co/LedRztStfo",
+   "retweet_count": 3,
+   "favorite_count": 17,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/LedRztStfo",
+     "expand": "https://medium.com/@skovy/scaling-data-selection-on-the-client-5e4411de6984"
+    }
+   ]
+  },
+  {
+   "id": 975787268110733300,
+   "id_str": "975787268110733312",
+   "created_at": "Mon Mar 19 17:33:08 +0000 2018",
+   "text": "React Native, 2 years later - https://t.co/U4gTlnX5mA",
+   "retweet_count": 5,
+   "favorite_count": 27,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/U4gTlnX5mA",
+     "expand": "http://artsy.github.io/blog/2018/03/17/two-years-of-react-native/"
+    }
+   ]
+  },
+  {
+   "id": 975424856928997400,
+   "id_str": "975424856928997377",
+   "created_at": "Sun Mar 18 17:33:03 +0000 2018",
+   "text": "Introducing React Data Fetching 🎣 –  https://t.co/m2rLmIFuhU https://t.co/oK94Qo8Rkw",
+   "retweet_count": 14,
+   "favorite_count": 51,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/m2rLmIFuhU",
+     "expand": "https://medium.com/@CharlesMangwa/introducing-react-data-fetching-2140a1d36cc8"
+    }
+   ]
+  },
+  {
+   "id": 974700084842713100,
+   "id_str": "974700084842713089",
+   "created_at": "Fri Mar 16 17:33:03 +0000 2018",
+   "text": "“Best React UI Component Libraries For 2018 - Part 2” https://t.co/4IxBUoMkT0 https://t.co/ACEYP3E8YC",
+   "retweet_count": 21,
+   "favorite_count": 98,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/4IxBUoMkT0",
+     "expand": "https://blog.bitsrc.io/best-react-ui-component-libraries-for-2018-part-2-d231dcb04c0a"
+    }
+   ]
+  },
+  {
+   "id": 973975296662745100,
+   "id_str": "973975296662745093",
+   "created_at": "Wed Mar 14 17:33:00 +0000 2018",
+   "text": "How GraphQL Replaces Redux – https://t.co/XPIOQKqpJ8",
+   "retweet_count": 21,
+   "favorite_count": 88,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/XPIOQKqpJ8",
+     "expand": "https://medium.com/@wmdmark/how-graphql-replaces-redux-3fff8289221d"
+    }
+   ]
+  },
+  {
+   "id": 973612906003779600,
+   "id_str": "973612906003779584",
+   "created_at": "Tue Mar 13 17:33:00 +0000 2018",
+   "text": "“Webpack 4 Tutorial With Example From Scratch” https://t.co/txVkUPWWXz",
+   "retweet_count": 27,
+   "favorite_count": 83,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/txVkUPWWXz",
+     "expand": "https://appdividend.com/2018/03/10/webpack-4-tutorial-example-scratch/"
+    }
+   ]
+  },
+  {
+   "id": 973250529378828300,
+   "id_str": "973250529378828288",
+   "created_at": "Mon Mar 12 17:33:02 +0000 2018",
+   "text": "Server Rendering with React and React Router https://t.co/3TmusUIufB",
+   "retweet_count": 6,
+   "favorite_count": 45,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/3TmusUIufB",
+     "expand": "https://tylermcginnis.com/react-router-server-rendering/"
+    }
+   ]
+  },
+  {
+   "id": 971453702010822700,
+   "id_str": "971453702010822657",
+   "created_at": "Wed Mar 07 18:33:05 +0000 2018",
+   "text": "\"A first look at Async React + Apollo\" - @peggyrayzis https://t.co/xYtHQbKXmC",
+   "retweet_count": 4,
+   "favorite_count": 34,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/xYtHQbKXmC",
+     "expand": "https://dev-blog.apollodata.com/a-first-look-at-async-react-apollo-10a82907b48e"
+    }
+   ]
+  },
+  {
+   "id": 971091299272142800,
+   "id_str": "971091299272142850",
+   "created_at": "Tue Mar 06 18:33:02 +0000 2018",
+   "text": "Build your own React Series: Incremental reconciliation –  https://t.co/ZI10CoG1JH https://t.co/LCoX3UjYkX",
+   "retweet_count": 9,
+   "favorite_count": 43,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/ZI10CoG1JH",
+     "expand": "https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec"
+    }
+   ]
+  },
+  {
+   "id": 971056856826232800,
+   "id_str": "971056856826232832",
+   "created_at": "Tue Mar 06 16:16:10 +0000 2018",
+   "text": "RT @tylermcginnis: 🕺💃 Happy to announce my new Redux course is now live.\n\n✅ Build your own implementation of Redux\n✅ Build your own impleme…",
+   "retweet_count": 70,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 971056535517319200,
+    "id_str": "971056535517319168",
+    "created_at": "Tue Mar 06 16:14:54 +0000 2018",
+    "text": "🕺💃 Happy to announce my new Redux course is now live.\n\n✅ Build your own implementation of Redux\n✅ Build your own im… https://t.co/JyhXLGz9FG",
+    "retweet_count": 70,
+    "favorite_count": 312,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/JyhXLGz9FG",
+      "expand": "https://twitter.com/i/web/status/971056535517319168"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970850296346939400,
+   "id_str": "970850296346939393",
+   "created_at": "Tue Mar 06 02:35:22 +0000 2018",
+   "text": "React Rotary Knob - Skinnable knob for React\n  - Precise mode: Doesn't jump on dragging (Increase drag distance for… https://t.co/6ROD83jHTg",
+   "retweet_count": 2,
+   "favorite_count": 25,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/6ROD83jHTg",
+     "expand": "https://twitter.com/i/web/status/970850296346939393"
+    }
+   ]
+  },
+  {
+   "id": 970728910236409900,
+   "id_str": "970728910236409856",
+   "created_at": "Mon Mar 05 18:33:02 +0000 2018",
+   "text": "Forking instead of Ejecting a Create React App https://t.co/oh0ZtnZSa3 https://t.co/Phvi4637HU",
+   "retweet_count": 3,
+   "favorite_count": 26,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/oh0ZtnZSa3",
+     "expand": "https://www.youtube.com/watch?v=I22TW-33dDE"
+    }
+   ]
+  },
+  {
+   "id": 970714736617803800,
+   "id_str": "970714736617803776",
+   "created_at": "Mon Mar 05 17:36:42 +0000 2018",
+   "text": "RT @tylermcginnis: For the first time in over a year, I just checked the reviews for my React Fundamentals course.\n\n2,924 responses.\n9.3/10…",
+   "retweet_count": 13,
+   "favorite_count": 0,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [],
+   "retweeted_status": {
+    "id": 970713319454765000,
+    "id_str": "970713319454765056",
+    "created_at": "Mon Mar 05 17:31:04 +0000 2018",
+    "text": "For the first time in over a year, I just checked the reviews for my React Fundamentals course.\n\n2,924 responses.\n9… https://t.co/rSZprqYVaM",
+    "retweet_count": 13,
+    "favorite_count": 228,
+    "place": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "urls": [
+     {
+      "url": "https://t.co/rSZprqYVaM",
+      "expand": "https://twitter.com/i/web/status/970713319454765056"
+     }
+    ]
+   }
+  },
+  {
+   "id": 970366522479792100,
+   "id_str": "970366522479792128",
+   "created_at": "Sun Mar 04 18:33:02 +0000 2018",
+   "text": "A Walkthrough of *that* React Suspense Demo https://t.co/zPRMkrBf1N https://t.co/R9Li6fS7uC",
+   "retweet_count": 8,
+   "favorite_count": 21,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/zPRMkrBf1N",
+     "expand": "https://dev.to/swyx/a-walkthrough-of-that-react-suspense-demo--4j6a"
+    }
+   ]
+  },
+  {
+   "id": 969260306932301800,
+   "id_str": "969260306932301824",
+   "created_at": "Thu Mar 01 17:17:19 +0000 2018",
+   "text": "\"Sneak Peak: Beyond React 16\" - Wondering what all the React hype has been about today? This post should help. https://t.co/F4FSbGclka",
+   "retweet_count": 9,
+   "favorite_count": 35,
+   "place": null,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_screen_name": null,
+   "urls": [
+    {
+     "url": "https://t.co/F4FSbGclka",
+     "expand": "https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html"
+    }
+   ]
+  },
   {
    "id": 964205955654340600,
    "id_str": "964205955654340608",
    "created_at": "Thu Feb 15 18:33:08 +0000 2018",
    "text": "25 Days of ReasonML –  https://t.co/pz1sLWsEzk",
-   "retweet_count": 3,
-   "favorite_count": 17,
+   "retweet_count": 4,
+   "favorite_count": 18,
    "place": null,
    "in_reply_to_status_id": null,
    "in_reply_to_status_id_str": null,
